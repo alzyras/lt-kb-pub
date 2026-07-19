@@ -378,7 +378,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171416"></a>
 - t-009
   teiginys: "Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -506,7 +506,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171427"></a>
 - t-065
   teiginys: "Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -581,7 +581,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171431"></a>
 - t-010
   teiginys: "Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jadvyga: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -692,7 +692,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171438"></a>
 - t-033
   teiginys: "Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"

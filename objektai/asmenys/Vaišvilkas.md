@@ -169,6 +169,19 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   pagrindžia:
     - c-178802
 
+<a id="claim-t-196618"></a>
+- t-013
+  teiginys: "Kojelavičiaus pasakojime Vaišvilkas nusileido žygūnų maldavimams, kai šie ragino pasigailėti dėl nesantarvės žūstančios tėvynės."
+  atnaujinta: "2026-07-19 23:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169316
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vaišvilkas, pasipiktinęs tėvo Mindaugo atsimetimu nuo krikščionybės, pabėgo pas rusus, kur anksčiau gyveno kaip įkaitas.'
@@ -346,6 +359,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   pagrindzia:
     - t-004
     - t-008
+    - t-013
 
 - id: c-176183
   autorius: "Albertas Vijūkas-Kojelavičius"

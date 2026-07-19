@@ -22,6 +22,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Skitų svetingumas ir taikūs prekybiniai santykiai
 
 ## Santrauka
@@ -50,6 +51,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
+<a id="claim-t-193018"></a>
+- t-002
+  teiginys: "Pasak Narbuto, skitai dėl svetingumo priimdavo kitų tautų pirklius ir bičiuliškai sugyveno su kaimyninėmis tautomis."
+  atnaujinta: "2026-07-19 23:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177270
 
 <a id="claim-t-193019"></a>
 - t-003
@@ -83,29 +97,6 @@ Nenurodyta
   pagrindžia:
     - c-175788
 
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    54
-
-    ## Puslapis 52
-
-    visą maistą gaudavo augindamos gyvulius laukinėse ga­
-    nyklose, taip pat medžiodamos ir žvejodamos; grūdų gau­
-    davo iš savo gentainių žemdirbių mainais už gyvulius.
-    Visi jie buvo gana svetingi ir pasižymėjo žmoniškumu,
-    bet dėl savo gyvenimo būdo buvo mažiau civilizuoti už
-    anuos.
-    33
-    Jau labai senais laikais graikai užmezgė santykius su
-    Juodosios jūros pakrančių skitais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Citatos
 
 - id: c-175788
@@ -150,3 +141,29 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-177270
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    54
+
+    ## Puslapis 52
+
+    visą maistą gaudavo augindamos gyvulius laukinėse ga­
+    nyklose, taip pat medžiodamos ir žvejodamos; grūdų gau­
+    davo iš savo gentainių žemdirbių mainais už gyvulius.
+    Visi jie buvo gana svetingi ir pasižymėjo žmoniškumu,
+    bet dėl savo gyvenimo būdo buvo mažiau civilizuoti už
+    anuos.
+    33
+    Jau labai senais laikais graikai užmezgė santykius su
+    Juodosios jūros pakrančių skitais.
+  statusas: verified
+  atnaujinta: "2026-07-19 23:55"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -49,7 +49,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 <a id="claim-t-58643"></a>
 - t-002
   teiginys: "Spitenbergas buvo maža kryžiuočių pilis, kurios tikslesnė vieta Pamedėje nenustatyta."
-  atnaujinta: "2026-07-19 20:25"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -62,6 +62,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   semantiniai_rysiai: "Spitenbergas priklausė Kryžiuočių ordinas (0.80); Spitenbergas priklausė Pamedė (0.62)"
   pagrindžia:
     - c-59274
+    - c-59275
 
 <a id="claim-t-194549"></a>
 - t-004
@@ -126,4 +127,5 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
     - t-004

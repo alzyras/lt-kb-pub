@@ -131,6 +131,15 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - c-00156
 
+<a id="claim-t-10689"></a>
+- t-039
+  teiginys: "Kęstutis pastatė mūro pilį Trakų ežero saloje."
+  atnaujinta: "2026-07-19 23:55"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-160519
+
 <a id="claim-t-10692"></a>
 - t-040
   teiginys: "Kęstutis kartu su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius."
@@ -1749,6 +1758,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-039
     - t-041
 
 - id: c-160520

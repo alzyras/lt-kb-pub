@@ -146,7 +146,7 @@ media_all_json: |-
 <a id="claim-t-113902"></a>
 - t-052
   teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, pasikrikštijęs ir 1253 m. karūnuotas karaliumi."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -265,7 +265,7 @@ media_all_json: |-
 <a id="claim-t-113910"></a>
 - t-023
   teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, krikštijęsis ir 1253 m. karūnuotas karaliumi."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -365,7 +365,7 @@ media_all_json: |-
 <a id="claim-t-113919"></a>
 - t-034
   teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir XIII a. viduryje krikštijosi."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"

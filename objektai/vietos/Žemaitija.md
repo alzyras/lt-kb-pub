@@ -1427,7 +1427,7 @@ media_all_json: |-
 <a id="claim-t-192791"></a>
 - t-082
   teiginys: "1583 m. jėzuitai, apaštalaudami Žemaitijoje, aptiko didelių akmenų garbinimo pėdsakų."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1446,7 +1446,6 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175561
-    - c-179410
 
 <a id="claim-t-192792"></a>
 - t-083
@@ -3764,7 +3763,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-082
     - t-095
 
 ## Ryšiai

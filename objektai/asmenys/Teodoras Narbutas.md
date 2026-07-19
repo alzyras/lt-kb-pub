@@ -556,6 +556,19 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   pagrindžia:
     - c-173867
 
+<a id="claim-t-190986"></a>
+- t-030
+  teiginys: "Rasa Griškaitė Narbuto lietuvių mitologijos tyrinėjimų paieškas vadino atkaklesnėmis ir tragiškesnėmis, nei galėtų atrodyti jų nepažinus."
+  atnaujinta: "2026-07-19 23:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-179355
+
 <a id="claim-t-190987"></a>
 - t-031
   teiginys: "Rengdamas antrąjį LTI leidimą, Narbutas išnašoje išbraukė žodžius „bene brolio“ apie A. Vijūką-Kojalavičių."
@@ -2192,6 +2205,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-030
     - t-043
 
 - id: c-179356

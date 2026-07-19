@@ -59,6 +59,19 @@ media_all_json: |-
   pagrindžia:
     - c-169494
 
+<a id="claim-t-188571"></a>
+- t-002
+  teiginys: "Narbutas pasakojo, kad kunigaikštis Kukovaitis prie Žaslių ežero pastatė stabą motinai, po mirties pripažintai deive."
+  atnaujinta: "2026-07-19 23:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171461
+
 <a id="claim-t-188572"></a>
 - t-003
   teiginys: "Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais."
@@ -269,6 +282,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
 
 - id: c-176568

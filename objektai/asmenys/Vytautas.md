@@ -1673,7 +1673,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
 <a id="claim-t-176721"></a>
 - t-114
   teiginys: "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3456,7 +3456,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
 <a id="claim-t-198366"></a>
 - t-039
   teiginys: "Narbutas Vytautą įvardija kaip Kęstučio ir kunigaikštienės Birutės sūnų, kartu su Patriku, Tautvila, Sigaila ir Danute."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3481,7 +3481,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
 <a id="claim-t-198368"></a>
 - t-040
   teiginys: "Narbutas rašo, kad Vytautui viešpataujant Lietuvoje kunigaikštienė Birutė sugrįžo į Palangą ir ten mirė 1416 m."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

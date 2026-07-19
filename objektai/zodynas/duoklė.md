@@ -22,6 +22,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # duoklė
 
 ## Santrauka
@@ -48,6 +49,26 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168743
+
+<a id="claim-t-187519"></a>
+- t-002
+  teiginys: "Naugardiečiai pasižadėjo Vytautui tarnauti, duoti duoklę ir laikyti jį savo valdovu kaip pskoviečiai."
+  atnaujinta: "2026-07-19 23:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Pskoviečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "duoklė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Pskoviečiai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"duoklė\" parinktas kaip owner_note_path. Targetas \"Pskoviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  pagrindžia:
+    - c-170470
 - susijęs iš [[objektai/posakiai/Iki gyvos galvos.md#claim-t-86851|Iki gyvos galvos]]: Vilniaus vyskupui Andriui iki gyvos galvos buvo paskirta šimtas grivinų iš iždo ir kasmetinė medaus duoklė iš Vilniaus pilies.
 - susijęs iš [[objektai/zodynas/sidabrinė duoklė tributum serebsčina.md#claim-t-34312|sidabrinė duoklė tributum serebsčina]]: Sidabrinė duoklė buvo piniginis paklusnybės mokestis, daugiausia žinomas sidabrinės arba serebsčinos vardu.
 - susijęs iš [[objektai/zodynas/sidabrinė duoklė.md#claim-t-12588|sidabrinė duoklė]]: Sidabrinė duoklė šiame tekste reiškia mokestį pinigais.
@@ -142,3 +163,5 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

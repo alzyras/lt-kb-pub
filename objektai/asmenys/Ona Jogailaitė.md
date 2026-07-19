@@ -94,11 +94,13 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 <a id="claim-t-54980"></a>
 - t-002
   teiginys: "Karalaitė Ona (Ona Jogailaitė) testamente apibūdinta kaip iki tol tebebuvusi neištekėjusi."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "gap::people"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-55525
     - c-55527
+    - c-79102
 
 <a id="claim-t-54981"></a>
 - t-003
@@ -296,6 +298,7 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
 
 - id: c-55526
@@ -466,5 +469,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-007
     - t-009

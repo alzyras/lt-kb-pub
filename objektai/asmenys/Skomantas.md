@@ -286,6 +286,18 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   pagrindžia:
     - c-168190
 
+<a id="claim-t-197155"></a>
+- t-017
+  teiginys: "Todėl jis tarė Skomantui: „Negi tam čia mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu drįsti, atsikeršyk už tau daromas nuoskaudas, o aš tau padėsiu“."
+  atnaujinta: "2026-07-19 23:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60460
+
 <a id="claim-t-201028"></a>
 - t-018
   teiginys: "Ateinantį metą 1277 Skomantas, sukėlęs daugiaus nei 4000 karėjų jotų, stiprindamos dar patelkė lietuvius ir žemaičius, su kuriais susinėręs, 21 die noj lapkričio pasirodė ant rubežiaus Kulmijos it būt apmaudo giežti ir grobio grieti norįs."
@@ -573,6 +585,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   pagrindzia:
     - t-008
     - t-002
+    - t-017
 
 - id: c-60461
   autorius: "Petras Dusburgietis"

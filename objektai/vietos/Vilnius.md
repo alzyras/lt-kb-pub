@@ -5229,7 +5229,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 <a id="claim-t-200233"></a>
 - t-222
   teiginys: "Vytautas skelbė sprendimus, varžiusius toleranciją, kuria nuo seno garsėjo Vilnius."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata palaiko teiginį, bet reikia išplėsti veikėją ir sutvarkyti OCR."
   susije_objektai: "mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/grupes/Husitai|Husitai]]"
@@ -5243,7 +5243,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-183072
-    - c-183141
     - c-183150
     - c-183228
     - c-183273
@@ -5388,7 +5387,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 <a id="claim-t-200254"></a>
 - t-236
   teiginys: "Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra gramatiškas ir paremtas citatos apibūdinimu."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Viena; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]"
@@ -5405,6 +5404,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - c-182963
     - c-182971
     - c-183083
+    - c-183219
 
 <a id="claim-t-200255"></a>
 - t-237
@@ -16713,7 +16713,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-264
     - t-142
-    - t-222
 
 - id: c-183144
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -18138,6 +18137,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-106
+    - t-236
 
 - id: c-183220
   autorius: "Anoniminis metraštininkas"

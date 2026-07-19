@@ -47,7 +47,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-05269"></a>
 - t-002
   teiginys: "1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys pilnas, aiškus ir tiksliai atitinka citatą."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]"
@@ -62,7 +62,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-05271"></a>
 - t-004
   teiginys: "Gedimino dvare pranciškonai turėjo įtakos ir tvarkė kanceliariją."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys tiesiogiai susijęs su pranciškonais ir paremtas citata."
   susije_objektai: "llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva"
@@ -76,7 +76,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108279"></a>
 - t-053
   teiginys: "Vytenis prašė legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam du pranciškonų ordino brolius."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Isamas (Rygos arkivyskupas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -138,7 +138,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108284"></a>
 - t-034
   teiginys: "Vilniuje tarp trijų minimų krikščionių šventovių buvo ir pranciškonų bažnyčia."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Malūnas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -157,7 +157,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108286"></a>
 - t-041
   teiginys: "Karalius atėmė iš pranciškonų jurisdikciją mieste ir priemiesčiuose turėtiems valdiniams."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -175,7 +175,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108287"></a>
 - t-026
   teiginys: "Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_valdovas -> Lietuviai: 0.87"
   ryšio_patikimumo_lygis: "aukstas"
@@ -193,7 +193,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108288"></a>
 - t-027
   teiginys: "Gediminas prašė pranciškonų tais metais atsiųsti keturis brolius prie jo pastatytų bažnyčių Vilniuje ir Naugarduke."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Vilnius: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -231,7 +231,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108290"></a>
 - t-012
   teiginys: "Kryžiuočiai Strėvos laimėjimui atminti pastatė pranciškonų vienuolynus Karaliaučiuje ir Vėluvoje."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vėluva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -248,7 +248,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108292"></a>
 - t-010
   teiginys: "Gediminas Saksų pranciškonų prašė atsiųsti į Lietuvą vienuolių ir minėjo savo statytas katalikų bažnyčias Vilniuje bei Naugarduke."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -289,7 +289,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108294"></a>
 - t-062
   teiginys: "Gedimino laikais pranciškonai toliau veikė sostinėje ir turėjo joje savo vienuolyną."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -328,7 +328,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108296"></a>
 - t-032
   teiginys: "Vytenis prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius į jau pastatytą bažnyčią."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Isamas (Rygos arkivyskupas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -364,7 +364,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108298"></a>
 - t-022
   teiginys: "Palei Žemutinę pilį gyvenę pranciškonai turėjo dar Gedimino laikais pastatydintą bažnyčią."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -386,7 +386,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108300"></a>
 - t-039
   teiginys: "Apie 1522 m. pranciškonai vietoje sudegusios medinės bažnyčios išmūrijo Šv. Mikalojaus bažnyčią."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Alšėnai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -408,7 +408,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108301"></a>
 - t-040
   teiginys: "1552 m. Žygimanto Augusto dekretu Vilniaus pranciškonai neteko jurisdikcijos savo pavaldiniams mieste."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -430,7 +430,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108302"></a>
 - t-050
   teiginys: "Gediminas prašė pranciškonų šiais metais paskirti keturis brolius prie bažnyčių Vilniuje ir Naugarduke."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Vilnius: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -450,7 +450,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108303"></a>
 - t-033
   teiginys: "Gedimino laiškai Liubeke buvo įteikti miesto tarybai ir Pranciškonų ordino kustodui."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -511,7 +511,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108307"></a>
 - t-017
   teiginys: "Pranciškonai toliau veikė sostinėje ir joje turėjo savo vienuolyną."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -543,7 +543,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108309"></a>
 - t-049
   teiginys: "Gediminas savo laišku kreipėsi į pranciškonų ordino ministrus, kustodus, gvardijonus ir kitus brolius."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_valdovas -> Lietuviai: 0.87"
   ryšio_patikimumo_lygis: "aukstas"
@@ -561,7 +561,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108310"></a>
 - t-028
   teiginys: "Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti pranciškonų minoritų."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Isamas (Rygos arkivyskupas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -579,7 +579,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108311"></a>
 - t-048
   teiginys: "Gediminas žadėjo kviestis dorus vyskupus, kunigus, dominikonus ir pranciškonų ordino vienuolius."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -592,9 +592,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindžia:
     - c-100519
     - c-181401
-    - c-100493
-    - c-181388
-    - c-181397
 
 <a id="claim-t-108315"></a>
 - t-037
@@ -639,7 +636,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108317"></a>
 - t-035
   teiginys: "Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko pranciškoną Andrių iš Vasilevo."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -660,7 +657,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108318"></a>
 - t-023
   teiginys: "Lietuvoje apaštalavę pranciškonai dėl uolaus žmonių atvertimo į tikėjimą patirdavo skaudžių kančių."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -673,7 +670,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108319"></a>
 - t-055
   teiginys: "Vilniuje tarp trijų ankstyvų krikščionių šventyklų minima ir pranciškonų bažnyčia."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Malūnas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -692,7 +689,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108320"></a>
 - t-014
   teiginys: "Iš Gedimino laikais nubaustų dviejų pranciškonų fakto XVI a. rusų ir lenkų šaltiniuose sukurta legenda apie 36 Vilniuje nukankintus pranciškonus."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -715,7 +712,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108321"></a>
 - t-045
   teiginys: "Pranciškonai prie Žemutinės pilies turėjo Gedimino laikais pastatydintą bažnyčią dabartinės Šventojo Kryžiaus bažnyčios vietoje."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -734,7 +731,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108322"></a>
 - t-018
   teiginys: "XVI a. rusų ir lenkų šaltiniuose iš dviejų Gedimino laikais nubaustų pranciškonų fakto sukurta legenda apie 36 Vilniuje nukankintus pranciškonus."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -770,7 +767,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108324"></a>
 - t-056
   teiginys: "Pirmuoju Vilniaus diecezijos vyskupu Jogaila išrinko Andrių iš Vasilevo Važilą, Mažesniųjų brolių ordino vienuolį."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gniezno: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -863,7 +860,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108329"></a>
 - t-013
   teiginys: "Pranciškonai veikė sostinėje ir joje laikė savo vienuolyną."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -901,7 +898,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-187742"></a>
 - t-051
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -936,7 +933,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-199023"></a>
 - t-001
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdui žygiuojant prieš Maskvą Vilniaus pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -971,7 +968,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-199064"></a>
 - t-003
   teiginys: "Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1721,7 +1718,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-053
     - t-032
-    - t-048
     - t-045
 
 - id: c-100495
@@ -2483,7 +2479,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-053
     - t-032
-    - t-048
     - t-045
 
 - id: c-181389
@@ -2700,7 +2695,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-053
     - t-032
-    - t-048
     - t-045
 
 - id: c-181398

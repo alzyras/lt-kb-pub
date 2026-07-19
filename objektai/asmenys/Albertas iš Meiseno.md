@@ -131,7 +131,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 <a id="claim-t-89615"></a>
 - t-007
   teiginys: "Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo."
-  atnaujinta: "2026-07-19 19:43"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Albertas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -143,7 +143,6 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-85549
     - c-85552
 
 <a id="claim-t-184655"></a>
@@ -261,7 +260,6 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-004
     - t-009
     - t-008
-    - t-007
 
 - id: c-85550
   autorius: "Petras Dusburgietis"

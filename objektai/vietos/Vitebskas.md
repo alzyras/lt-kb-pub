@@ -392,7 +392,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 <a id="claim-t-181141"></a>
 - t-030
   teiginys: "Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -655,7 +655,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 <a id="claim-t-187685"></a>
 - t-005
   teiginys: "Kęstutis grąžino Jogailai jo tėvo dalį - Vitebską ir kitas sritis, o Jogaila prisiekė Kęstučiui ištikimybę."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

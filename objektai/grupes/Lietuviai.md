@@ -426,13 +426,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-179238"></a>
 - t-110
   teiginys: "Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė beraštės visuomenės savimonė."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-162917
+    - c-162959
     - c-162981
-    - c-163044
+    - c-176229
 
 <a id="claim-t-179239"></a>
 - t-075
@@ -1093,14 +1094,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-179292"></a>
 - t-011
   teiginys: "XI a. rusų metraščiai tik du kartus paminėjo lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija."
-  atnaujinta: "2026-07-19 20:03"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 988 m; įvykio data: 1044 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pataisyta kalba ir sutrumpintas teiginys, išlaikant citatos sąlygą."
   pagrindžia:
-    - c-31192
     - c-163015
 
 <a id="claim-t-179293"></a>
@@ -2147,20 +2147,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-188253"></a>
 - t-005
   teiginys: "Narbutas manė, kad lietuviai į daugiadievystę ėjo tuo pačiu keliu kaip helenai, nes juos siejo kilmė ir panaši religija."
-  atnaujinta: "2026-07-19 20:22"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gaižuva: 0.83"
+  ryšio_patikimumas: "susije_su -> Tikybinis sugedimas kyla iš pačių religijos sargų: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gaižuva: mention_match, place, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Gaižuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Tikybinis sugedimas kyla iš pačių religijos sargų: mention_match, thing, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Tikybinis sugedimas kyla iš pačių religijos sargų\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
+    - c-171147
     - c-179056
 
 <a id="claim-t-188255"></a>
@@ -2284,7 +2285,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-188261"></a>
 - t-036
   teiginys: "Narbutas nurodė Jucevičiaus nuomonę, kad Palangos apylinkių lietuviai žvejai Atrimpą vadino Dzivsvits."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2300,7 +2301,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - c-171154
     - c-173470
-    - c-179066
+    - c-179061
 
 <a id="claim-t-188262"></a>
 - t-042
@@ -2707,14 +2708,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-190579"></a>
 - t-082
   teiginys: "Narbutas teigė, kad lietuvių Perkūno stabas X a. buvo garsus Šiaurėje, o panašūs stabai pastatyti Kijeve ir Naugarde."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171152
     - c-173465
 
 <a id="claim-t-190580"></a>
@@ -3187,7 +3187,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-190609"></a>
 - t-203
   teiginys: "Narbutas lietuvių tautos kilmę laikė kitokia nei gotų, o gotiškus elementus aiškino kaip skolinius iš gotų ir herulų aplinkos."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -9813,7 +9813,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
     - t-014
 
 - id: c-34225
@@ -10721,6 +10720,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-110
     - t-025
 
 - id: c-162961
@@ -12045,7 +12045,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110
     - t-024
 
 - id: c-163045
@@ -12610,6 +12609,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-184
     - t-204
     - t-245
@@ -12700,7 +12700,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-030
-    - t-082
     - t-182
 
 - id: c-171153
@@ -14376,6 +14375,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-110
     - t-222
 
 - id: c-176972
@@ -14720,6 +14720,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-036
     - t-255
 
 - id: c-179062
@@ -14834,7 +14835,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
     - t-160
     - t-265
 

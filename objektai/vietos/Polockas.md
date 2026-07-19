@@ -145,7 +145,7 @@ media_all_json: |-
 <a id="claim-t-180435"></a>
 - t-063
   teiginys: "Maskvos caras pyko, kad Steponas Batoras nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -856,7 +856,7 @@ media_all_json: |-
 <a id="claim-t-197474"></a>
 - t-085
   teiginys: "Trečioji - Jaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni gaikščio, mirusios Gedimino žmonos brolio, duktė."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

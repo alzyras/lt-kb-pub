@@ -42,7 +42,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
 <a id="claim-t-68689"></a>
 - t-001
   teiginys: "Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Palenkė: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -60,7 +60,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
 <a id="claim-t-187612"></a>
 - t-007
   teiginys: "Lietuvos metraštyje Jogailos karas su Mazovija ir lenkais aiškinamas tuo, kad Mazovijos kunigaikštis, lenkų padedamas, buvo užgrobęs Drohičiną ir Melniką."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

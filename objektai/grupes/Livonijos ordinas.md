@@ -526,7 +526,7 @@ media_all_json: |-
 <a id="claim-t-179398"></a>
 - t-102
   teiginys: "Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -544,7 +544,7 @@ media_all_json: |-
 <a id="claim-t-179399"></a>
 - t-081
   teiginys: "Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vitebskas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -766,7 +766,7 @@ media_all_json: |-
 <a id="claim-t-179420"></a>
 - t-061
   teiginys: "Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -965,13 +965,14 @@ media_all_json: |-
 <a id="claim-t-193323"></a>
 - t-127
   teiginys: "Ne tikėto antpuolio išgąsdinti Livonijos raiteliai, gal no rėdami užimti patogesnę kovos poziciją, gal pabėgti, paspaudė pentinais žirgus ir, suvirtę į griovius, visi su sirado čia galą."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
+    - c-176051
     - c-178534
 
 <a id="claim-t-193324"></a>
@@ -2525,6 +2526,7 @@ media_all_json: |-
   pagrindzia:
     - t-125
     - t-126
+    - t-127
 
 - id: c-176052
   autorius: "Albertas Vijūkas-Kojelavičius"

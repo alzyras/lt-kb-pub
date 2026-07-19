@@ -1565,7 +1565,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 <a id="claim-t-192730"></a>
 - t-119
   teiginys: "Teodoras Narbutas Ordino politiką vadina kruvina ir rašo, kad sūduviai buvo iškapoti arba išgabenti į kitas Prūsijos dalis."
-  atnaujinta: "2026-07-19 20:25"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1582,6 +1582,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175500
+    - c-179392
 
 <a id="claim-t-192732"></a>
 - t-121
@@ -5665,6 +5666,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116
+    - t-119
     - t-135
 
 - id: c-179393

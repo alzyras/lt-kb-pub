@@ -76,7 +76,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
 <a id="claim-t-12357"></a>
 - t-004
   teiginys: "Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Vokiečiai: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -95,7 +95,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
 <a id="claim-t-12358"></a>
 - t-005
   teiginys: "Vytautui gyvenimo pabaigoje pasisekė paimti savo įtakon Pskovą ir Didįjį Naugardą."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Naugardas; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -163,7 +163,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
 <a id="claim-t-198538"></a>
 - t-009
   teiginys: "Didžiojo Naugardo gyventojai, bijodami Vytauto kariuomenės, pažadėjo jam tarnauti, mokėti duoklę ir laikyti jį valdovu."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

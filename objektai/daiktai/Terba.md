@@ -93,6 +93,16 @@ Nenurodyta
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177670
+
+<a id="claim-t-195304"></a>
+- t-004
+  teiginys: "Elgetavimo pasakojimuose terba ir terbelė yra nešulys maistui rinkti; vienu atveju išskiriama šikšninė terba su pasaitu."
+  atnaujinta: "2026-07-19 23:55"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177670
 - susijęs iš [[objektai/paprociai/Moterų vėžiavimas.md#claim-t-195357|Moterų vėžiavimas]]: Vėžiavimas buvo moterų žvejybos būdas, kai į Šešupę eidavusios moterys parnešdavo terbą vėžių.
 - susijęs iš [[objektai/daiktai/Naginės.md#claim-t-195349|Naginės]]: Elgetos apavas.
 - susijęs iš [[objektai/daiktai/Ražončius.md#claim-t-195348|Ražončius]]: Elgetos religinis atributas, aprašytas kaip medinių rutuliukų vėrinys.
@@ -207,6 +217,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+    - t-004
 
 - id: c-177671
   autorius: "M. Katkus"

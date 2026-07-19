@@ -69,7 +69,7 @@ media_all_json: |-
 <a id="claim-t-119085"></a>
 - t-022
   teiginys: "Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Naugardukas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -405,7 +405,7 @@ media_all_json: |-
 <a id="claim-t-119110"></a>
 - t-026
   teiginys: "Naugarduke buvo pastatyta viena iš dviejų pranciškonų bažnyčių, kita stovėjo Vilniuje."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -441,7 +441,7 @@ media_all_json: |-
 <a id="claim-t-119112"></a>
 - t-018
   teiginys: "Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Naugardukas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -562,7 +562,7 @@ media_all_json: |-
 <a id="claim-t-187622"></a>
 - t-033
   teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -585,7 +585,7 @@ media_all_json: |-
 <a id="claim-t-187623"></a>
 - t-005
   teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

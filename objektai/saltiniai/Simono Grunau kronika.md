@@ -87,6 +87,15 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   pagrindžia:
     - c-175825
 
+<a id="claim-t-193059"></a>
+- t-009
+  teiginys: "Narbutas Simoną Grunau vadina suniekintu, bet didesnės pagarbos vertu kronikininku, nors pripažįsta jo šališkumą ir nekritiškumą."
+  atnaujinta: "2026-07-19 23:55"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-177077
+
 <a id="claim-t-193060"></a>
 - t-008
   teiginys: "Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui."
@@ -106,6 +115,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   temporalinis_llm_pakomentavimas: "Mitologinis apeigos pasakojimas suformuluotas kaip Narbuto perteikta Grunau žinia. Nepridėta platesnių išvadų apie lietuvių religiją ar išpažinties tikrumą."
   pagrindžia:
     - c-175827
+    - c-177077
 
 <a id="claim-t-193061"></a>
 - t-002
@@ -145,30 +155,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   pagrindžia:
     - c-175826
 
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Grunau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui, taip pat turėdami omenyje kronikininkams būdingus trūku mus, negalime neginti Grunau15.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    432
-
-    ## Puslapis 432
-
-    tinių lobį ir ne bet kokiais motyvais sugundomas pataikauti
-    net tiems, kurių valdomas gyveno ir kurių paramos sulauk­
-    davo.
-    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
-    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
-    taip pat turėdami omenyje kronikininkams būdingus trūku­
-    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
-    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
-    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
-    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Citatos
 
 - id: c-175825
@@ -268,6 +254,34 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-177077
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    432
+
+    ## Puslapis 432
+
+    tinių lobį ir ne bet kokiais motyvais sugundomas pataikauti
+    net tiems, kurių valdomas gyveno ir kurių paramos sulauk­
+    davo.
+    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
+    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
+    taip pat turėdami omenyje kronikininkams būdingus trūku­
+    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
+    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
+    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
+    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
+  statusas: verified
+  atnaujinta: "2026-07-19 23:55"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+    - t-008
 
 - id: c-179009
   autorius: "Petras Dusburgietis"

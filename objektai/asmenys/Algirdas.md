@@ -272,7 +272,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-176275"></a>
 - t-041
   teiginys: "1440 m. privilegijoje Vilniaus miestiečių laisva prekyba be muito vadinta Algirdo ir jo įpėdinių suteiktos laisvės atnaujinimu."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -386,7 +386,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-176284"></a>
 - t-048
   teiginys: "1440 m. privilegijoje Vilniui atnaujintos senos laisvės, suteiktos Algirdo ir jo įpėdinių."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -444,7 +444,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-176289"></a>
 - t-045
   teiginys: "Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Vilnius: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -546,7 +546,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-176298"></a>
 - t-018
   teiginys: "Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karūna: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -619,7 +619,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-176302"></a>
 - t-040
   teiginys: "Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Maskva: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -861,7 +861,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-184670"></a>
 - t-066
   teiginys: "Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -871,6 +871,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-168025
     - c-168027
+    - c-168028
 
 <a id="claim-t-190846"></a>
 - t-067
@@ -1130,7 +1131,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-197988"></a>
 - t-007
   teiginys: "Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1228,7 +1229,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-198008"></a>
 - t-054
   teiginys: "Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2857,6 +2858,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-063
+    - t-066
     - t-078
 
 - id: c-168029

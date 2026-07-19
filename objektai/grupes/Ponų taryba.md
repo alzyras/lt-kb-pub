@@ -192,7 +192,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
 <a id="claim-t-199013"></a>
 - t-010
   teiginys: "Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

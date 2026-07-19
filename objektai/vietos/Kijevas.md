@@ -71,7 +71,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-180001"></a>
 - t-012
   teiginys: "Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -140,7 +140,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-180005"></a>
 - t-044
   teiginys: "Gedimino ar Algirdo laikais Kijevas buvo Lietuvos politinėje įtakoje."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -304,7 +304,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-180019"></a>
 - t-062
   teiginys: "Vytautas rėmė Kijevo miestą, siekdamas atgaivinti prekybą rusiškuose kraštuose."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -548,7 +548,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-180047"></a>
 - t-013
   teiginys: "Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -743,7 +743,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-187582"></a>
 - t-003
   teiginys: "Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1227,7 +1227,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-199308"></a>
 - t-014
   teiginys: "Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

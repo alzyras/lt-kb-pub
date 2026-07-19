@@ -652,26 +652,17 @@ media_all_json: |-
 <a id="claim-t-184595"></a>
 - t-095
   teiginys: "Kryžiuočių magistras Henrikas reikalavo Germanto priesaikos, kad lietuviai ir žemaičiai nesikiš į prūsų karą."
-  atnaujinta: "2026-07-19 20:22"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "sudare_sutarti_su -> Germantas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Germantas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje kryžiuočių magistras veikia Ordino vardu ir atnaujina santarvę su Germantu."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Kryžiuočių ordinas sudarė sutartį su Germantas (0.78)"
   temporaliniai_duomenys: "įvykio data: 1274 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Perrašyta glaudžiau ir pašalintas perteklinis šalutinis sakinys."
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
-    - c-167956
     - c-167957
 
 <a id="claim-t-184596"></a>
@@ -736,7 +727,7 @@ media_all_json: |-
 <a id="claim-t-187756"></a>
 - t-057
   teiginys: "Lietuvos metraštyje žemaičiai Palangoje nuo kopų akmenimis sumušė prieš juos sutelktą Prūsijos ir Livonijos vokiečių kariuomenę."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -813,7 +804,7 @@ media_all_json: |-
 <a id="claim-t-196130"></a>
 - t-102
   teiginys: "Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu ir reikalavo priesaikos, kad lietuviai bei žemaičiai nesikiš į prūsų karą."
-  atnaujinta: "2026-07-19 20:22"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -821,7 +812,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-167956
     - c-167957
 
 <a id="claim-t-196131"></a>
@@ -934,7 +924,7 @@ media_all_json: |-
 <a id="claim-t-199157"></a>
 - t-063
   teiginys: "Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -969,7 +959,7 @@ media_all_json: |-
 <a id="claim-t-199162"></a>
 - t-005
   teiginys: "Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių siejo su atsargiu elgesiu su ugnimi ir teigė, kad Žemaičiuose jis buvo dievinamas „Dims tipo“ vardu."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1036,7 +1026,7 @@ media_all_json: |-
 <a id="claim-t-199168"></a>
 - t-008
   teiginys: "1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1116,7 +1106,7 @@ media_all_json: |-
 <a id="claim-t-199177"></a>
 - t-010
   teiginys: "Narbutas žemaičių liaudies procesijų paprotį gultis veidu į žemę po brolijų altorėliais aiškino kaip senųjų stabmeldiškų apeigų tąsą."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1212,15 +1202,13 @@ media_all_json: |-
 <a id="claim-t-199190"></a>
 - t-015
   teiginys: "Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
   semantiniai_rysiai: "[[objektai/grupes/Žemaičiai|Žemaičiai]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14999
-    - c-181568
-    - c-181585
 
 <a id="claim-t-199194"></a>
 - t-016
@@ -1280,7 +1268,7 @@ media_all_json: |-
 <a id="claim-t-199200"></a>
 - t-062
   teiginys: "Yra padavimas, jog Žemaičiuose buvę septynios deivės par kos."
-  atnaujinta: "2026-07-19 20:31"
+  atnaujinta: "2026-07-19 23:56"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2800,8 +2788,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-095
-    - t-102
     - t-103
 
 - id: c-167957
@@ -3482,7 +3468,6 @@ media_all_json: |-
   pagrindzia:
     - t-012
     - t-030
-    - t-015
 
 - id: c-181569
   autorius: "Anoniminis metraštininkas"
@@ -3838,7 +3823,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-022
-    - t-015
 
 - id: c-181586
   autorius: "Michał Baliński"

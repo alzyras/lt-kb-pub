@@ -40,6 +40,18 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 
 ## Teiginiai
 
+<a id="claim-t-104184"></a>
+- t-001
+  teiginys: "Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais."
+  atnaujinta: "2026-07-19 23:55"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1960 m.; įvykio data: 1975 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-166809
+
 <a id="claim-t-104186"></a>
 - t-002
   teiginys: "Sovietinė valdžia žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus, tarp jų Balį Gajauską ir Viktorą Petkų, suimdavo ir nuteisdavo."
@@ -156,5 +168,6 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
     - t-005
