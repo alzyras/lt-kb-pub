@@ -567,6 +567,10 @@ function imagePicture(
         loading={loading}
         decoding={loading === "eager" ? "sync" : "async"}
         fetchpriority={loading === "eager" ? "high" : undefined}
+        data-collection-hero-image={key === "hero-grunwald" ? "true" : undefined}
+        data-fallback-src={
+          key === "hero-grunwald" ? staticImage(currentSlug, `${key}-1600.jpg`) : undefined
+        }
       />
     </picture>
   )
