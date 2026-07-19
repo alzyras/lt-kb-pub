@@ -4,6 +4,8 @@ import type { ExhibitionClaim, ExhibitionItem, ExhibitionManifest } from "../uti
 import { cleanText, displayCreator, displayDate } from "../util/objectMedia"
 import { mediaLicenseLabel } from "../util/mediaGallery"
 import style from "./styles/exhibitionPage.scss"
+import photoswipeStyle from "./styles/photoswipe.scss"
+import viewerStyle from "./styles/objectMediaGallery.scss"
 // @ts-ignore
 import script from "./scripts/exhibition.inline"
 
@@ -96,6 +98,21 @@ function galleryUrl(exhibitionId: string, mediaId: string): string {
   return `/galerija/?media=${encodeURIComponent(mediaId)}&exhibition=${encodeURIComponent(exhibitionId)}`
 }
 
+function mediaFrame(item: ExhibitionItem): { className: string; aspect: number } {
+  const width = Number(item.media.width)
+  const height = Number(item.media.height)
+  const ratio = width > 0 && height > 0 ? width / height : 4 / 3
+  const aspect = Math.min(1.72, Math.max(0.68, ratio))
+  const orientation = ratio < 0.82 ? "is-portrait" : ratio > 1.3 ? "is-landscape" : "is-square"
+  const codes = new Set((item.media.tags ?? []).flatMap((tag) => [tag.code, tag.label]))
+  const material = codes.has("moneta")
+    ? "is-coin"
+    : codes.has("dokumentas") || codes.has("rankraštis")
+      ? "is-document"
+      : "is-artwork"
+  return { className: `${orientation} ${material}`, aspect }
+}
+
 function Exhibit({
   item,
   index,
@@ -109,11 +126,18 @@ function Exhibit({
 }) {
   const media = item.media
   const imageUrl = cleanText(media.thumbUrl || media.sourceUrl)
+  const frame = mediaFrame(item)
   return (
-    <article class={`exhibition-item ${index % 2 ? "is-reversed" : ""}`} id={item.exhibitionItemId}>
+    <article
+      class={`exhibition-item ${frame.className} ${index % 2 ? "is-reversed" : ""}`}
+      id={item.exhibitionItemId}
+    >
       <a
         class="exhibition-item-image"
         href={galleryUrl(exhibitionId, item.mediaId)}
+        data-exhibition-media={item.mediaId}
+        data-exhibition-id={exhibitionId}
+        style={`--media-aspect:${frame.aspect}`}
         aria-label={`Atidaryti vaizdą: ${item.titleLt}`}
       >
         <img
@@ -170,7 +194,10 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
     section.items.filter((item) => !item.featured),
   )
   return (
-    <main class={`exhibition-page exhibition-theme--${exhibition.theme || "historical"}`}>
+    <main
+      class={`exhibition-page exhibition-theme--${exhibition.theme || "historical"}`}
+      data-exhibition-id={exhibition.exhibitionId}
+    >
       <header class="exhibition-hero">
         <div class="exhibition-hero-media" aria-hidden="true">
           <img
@@ -260,21 +287,29 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
             <h2>Kiti patikrinti Vytauto vaizdai</h2>
           </header>
           <div>
-            {catalogue.map((item) => (
-              <article>
-                <a href={galleryUrl(exhibition.exhibitionId, item.mediaId)}>
-                  <img
-                    src={item.media.thumbUrl || item.media.sourceUrl}
-                    alt={item.titleLt}
-                    loading="lazy"
-                  />
-                </a>
-                <h3>{item.titleLt}</h3>
-                <div class="exhibition-narrative-label">Kuratoriaus pastaba</div>
-                <p>{item.catalogDescriptionLt}</p>
-                <ClaimLinks claims={item.claims} />
-              </article>
-            ))}
+            {catalogue.map((item) => {
+              const frame = mediaFrame(item)
+              return (
+                <article class={frame.className}>
+                  <a
+                    href={galleryUrl(exhibition.exhibitionId, item.mediaId)}
+                    data-exhibition-media={item.mediaId}
+                    data-exhibition-id={exhibition.exhibitionId}
+                    style={`--media-aspect:${frame.aspect}`}
+                  >
+                    <img
+                      src={item.media.thumbUrl || item.media.sourceUrl}
+                      alt={item.titleLt}
+                      loading="lazy"
+                    />
+                  </a>
+                  <h3>{item.titleLt}</h3>
+                  <div class="exhibition-narrative-label">Kuratoriaus pastaba</div>
+                  <p>{item.catalogDescriptionLt}</p>
+                  <ClaimLinks claims={item.claims} />
+                </article>
+              )
+            })}
           </div>
         </section>
       )}
@@ -345,7 +380,7 @@ const ExhibitionPage: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
   return <ExhibitionIndex exhibitions={exhibitions} />
 }
 
-ExhibitionPage.css = style
+ExhibitionPage.css = [photoswipeStyle, viewerStyle, style]
 ExhibitionPage.afterDOMLoaded = script
 
 export default (() => ExhibitionPage) satisfies QuartzComponentConstructor

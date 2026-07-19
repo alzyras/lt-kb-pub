@@ -75,15 +75,8 @@ Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikšči
     163
     negėrė vyno ir alaus.
   citata_rodoma: |
-    Pasvalyje
-    ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą
-    kunigaikščio paveikslas
-     Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
+    Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
     Architektas Vladimiras Dubeneckis (V. Augustino nuotrauka)
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    163
-    negėrė vyno ir alaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

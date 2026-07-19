@@ -39,11 +39,15 @@ function citationText(entry: EvidenceEntry): string {
     .join("\n")
 }
 
+function quoteField(entry: EvidenceEntry, key: string): string {
+  return (entry.fields.get(key)?.trim() ?? "").replaceAll("\\n", "\n")
+}
+
 export function evidenceCitationQuote(entry: EvidenceEntry): string {
   return (
-    entry.fields.get("citata_rodoma")?.trim() ||
-    entry.fields.get("citata")?.trim() ||
-    entry.fields.get("citata_originali")?.trim() ||
+    quoteField(entry, "citata_rodoma") ||
+    quoteField(entry, "citata") ||
+    quoteField(entry, "citata_originali") ||
     ""
   )
 }
@@ -168,9 +172,8 @@ export function evidenceCitationQuoteForClaim(
   claimText: string,
   contextText = "",
 ): string {
-  const displayQuote =
-    entry.fields.get("citata_rodoma")?.trim() || entry.fields.get("citata")?.trim() || ""
-  const originalQuote = entry.fields.get("citata_originali")?.trim() || ""
+  const displayQuote = quoteField(entry, "citata_rodoma") || quoteField(entry, "citata") || ""
+  const originalQuote = quoteField(entry, "citata_originali")
   if (displayQuote && evidenceSupportsClaim(claimText, displayQuote, contextText)) {
     return displayQuote
   }

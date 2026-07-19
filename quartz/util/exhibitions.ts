@@ -156,9 +156,7 @@ function resolveClaim(
   const citation = entry.citations.get(ref.citationId)
   if (!citation) return undefined
   const text = entry.claim.fields.get("teiginys")?.trim() ?? ""
-  const quote =
-    citation.fields.get("citata_originali")?.trim() ||
-    evidenceCitationQuoteForClaim(citation, text, entry.pageTitle)
+  const quote = evidenceCitationQuoteForClaim(citation, text, entry.pageTitle)
   const sourceTitle =
     citation.fields.get("šaltinis")?.trim() ||
     citation.fields.get("saltinis")?.trim() ||

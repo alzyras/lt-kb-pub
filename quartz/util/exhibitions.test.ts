@@ -7,6 +7,7 @@ import {
   evidenceCitationQuoteForClaim,
   evidenceDocumentContext,
   evidenceSupportsClaim,
+  evidenceTextOverlapScore,
 } from "./evidenceIntegrity"
 import { exhibitionFeaturedCount, exhibitionItemCount, loadExhibitions } from "./exhibitions"
 
@@ -18,7 +19,12 @@ function sourcePath(url: string): string | undefined {
 }
 
 function normalized(value: string): string {
-  return value.trim().toLocaleLowerCase("lt").replace(/\s+/g, " ")
+  return value
+    .trim()
+    .replaceAll("\\n", "\n")
+    .replace(/[-\u00ad]\s*\n\s*(?=\p{L})/gu, "")
+    .toLocaleLowerCase("lt")
+    .replace(/\s+/g, " ")
 }
 
 describe("exhibition manifest", () => {
@@ -66,6 +72,7 @@ describe("exhibition manifest", () => {
   test("resolves every global claim and its exact supporting quotation", () => {
     for (const exhibition of exhibitions) {
       const seenSectionClaims = new Set<string>()
+      const seenExhibitionClaims = new Set<string>()
       for (const section of exhibition.sections) {
         assert.ok(section.navMediaId)
         assert.ok(section.navMedia.sourceUrl || section.navMedia.thumbUrl)
@@ -87,6 +94,11 @@ describe("exhibition manifest", () => {
         }
 
         for (const claim of [...section.claims, ...section.items.flatMap((item) => item.claims)]) {
+          assert.ok(
+            !seenExhibitionClaims.has(claim.claimId),
+            `${claim.claimId} repeats within ${exhibition.exhibitionId}`,
+          )
+          seenExhibitionClaims.add(claim.claimId)
           assert.match(claim.claimId, /^t-\d+$/)
           assert.match(claim.citationId, /^c-\d+$/)
           assert.ok(claim.text)
@@ -122,12 +134,21 @@ describe("exhibition manifest", () => {
           )
           assert.equal(
             claim.quote,
-            sourceCitation.fields.get("citata_originali")?.trim() ||
-              evidenceCitationQuoteForClaim(
-                sourceCitation,
-                claim.text,
-                evidenceDocumentContext(markdown),
-              ),
+            evidenceCitationQuoteForClaim(
+              sourceCitation,
+              claim.text,
+              evidenceDocumentContext(markdown),
+            ),
+          )
+          assert.ok(
+            evidenceTextOverlapScore(claim.text, claim.quote) >= 2,
+            `${claim.citationId} has too little direct overlap with ${claim.claimId}`,
+          )
+          assert.ok(claim.quote.length <= 1_200, `${claim.citationId} display quote is too long`)
+          assert.doesNotMatch(
+            claim.quote,
+            /\b\d+\s+skyrius\b|L\s+I\s+E\s+T\s+U\s+V\s+O\s+S/u,
+            `${claim.citationId} display quote contains OCR page furniture`,
           )
           assert.ok(
             evidenceSupportsClaim(claim.text, claim.quote, evidenceDocumentContext(markdown)),

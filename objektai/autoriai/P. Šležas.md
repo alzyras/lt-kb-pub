@@ -149,15 +149,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     dirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji
     Kauno universiteto auklėtiniai, pirmiausia išdrįsę duoti kolektyvi­
     nes monografijas apie Vytautą D. (red. P. Šležas, 1930), Jogailą
-    (1935) ir stambią Lietuvos istoriją (red. A. Šapoka, 1936). Gera
-    dalis tu istorikų išėjo į vieno, ar antro fakulteto dėstytojus (K.
-    Avižonis, Z. Ivinskis, J. Jakštas, J. Matusas, S. Sužiedėlis, Ad.
-    Šapoka). Kiti reiškėsi savo raštais ir periodikoje būdami istorijos
-    mokytojais gimnazijose (V. Daugirdaitė-Sruogienė, A. Kučinskas,
-    P. Pakarklis, P. Šležas, P. Štuopis; o dar kiti ruošė savo diserta­
-    cijas, ar joms užsienio archyvuose rinko medžiagą (J. Deveikė-
-    Navakienė, V. Trumpa). Lietuvos istorikų eiles papildė užsienyje
-    iš Lietuvos istorijos savo disertacijas rašiusieji (M.
+    (1935) ir stambią Lietuvos istoriją (red. A. Šapoka, 1936).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

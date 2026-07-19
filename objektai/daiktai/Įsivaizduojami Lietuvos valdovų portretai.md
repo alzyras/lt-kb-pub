@@ -104,6 +104,9 @@ Nenurodyta
     kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
     gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
     (valdė 1392–1430).
+  citata_rodoma: |
+    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
+    įsivaizduojami Lietuvos valdovų portretai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
