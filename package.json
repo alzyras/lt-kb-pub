@@ -19,7 +19,7 @@
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "build": "npx quartz build",
-    "postbuild": "npx tsx scripts/verify_corpus_integrity.ts && npx tsx scripts/verify_public_assets.ts && npx tsx scripts/verify_rendered_evidence.ts",
+    "postbuild": "npx tsx scripts/verify_build_integrity.ts && npx tsx scripts/verify_corpus_integrity.ts && npx tsx scripts/verify_public_assets.ts && npx tsx scripts/verify_rendered_evidence.ts",
     "serve": "npx quartz build --serve"
   },
   "engines": {
