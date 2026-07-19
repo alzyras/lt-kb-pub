@@ -41,11 +41,40 @@ const requiredFiles = [
   "static/randomClaims.json",
   "static/contentIndex.json",
   "static/searchIndex.json",
+  "static/exhibitionMediaContext.json",
 ]
 
 for (const relativePath of requiredFiles) {
   if (!fs.existsSync(path.join(publicRoot, relativePath))) {
     failures.push(`missing ${relativePath}`)
+  }
+}
+
+if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) {
+  const contexts = readJson<
+    Record<
+      string,
+      { exhibitionId?: string; items?: Array<{ mediaId?: string; descriptionLt?: string }> }
+    >
+  >("static/exhibitionMediaContext.json")
+  const expectedCounts: Record<string, number> = {
+    "vytautas-didysis-tarp-istorijos-ir-atvaizdo": 32,
+    "vytauto-atminties-kultas-tarpukariu": 20,
+  }
+  for (const [exhibitionId, expectedCount] of Object.entries(expectedCounts)) {
+    const context = contexts[exhibitionId]
+    if (!context) {
+      failures.push(`missing gallery context for ${exhibitionId}`)
+      continue
+    }
+    if (context.items?.length !== expectedCount) {
+      failures.push(
+        `${exhibitionId} gallery context has ${context.items?.length ?? 0} items; expected ${expectedCount}`,
+      )
+    }
+    if (context.items?.some((item) => !item.mediaId || !item.descriptionLt)) {
+      failures.push(`${exhibitionId} gallery context contains an incomplete item`)
+    }
   }
 }
 

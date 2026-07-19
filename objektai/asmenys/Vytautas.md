@@ -3442,7 +3442,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-36591
+    - c-184812
 
 <a id="claim-t-198401"></a>
 - t-187
@@ -5568,8 +5568,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-198399
 
 - id: c-36592
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -11691,6 +11689,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-198399
     - t-201463
 
 - id: c-184813

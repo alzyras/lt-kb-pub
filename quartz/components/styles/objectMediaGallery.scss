@@ -644,6 +644,29 @@ body.media-viewer-open .pswp {
   font-size: 0.77rem;
   line-height: 1.45;
 }
+.media-viewer-exhibition-date {
+  margin: 0.75rem 0 0;
+  color: #ff9a85;
+  font-size: 0.78rem;
+  font-weight: 750;
+}
+.media-viewer-exhibition-description {
+  margin: 0.9rem 0 0;
+  color: #d8d2ca;
+  font-size: 0.84rem;
+  line-height: 1.62;
+}
+.media-viewer-exhibition-metadata {
+  margin-top: 1.15rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgb(255 255 255 / 13%);
+}
+.media-viewer-exhibition-metadata > summary {
+  cursor: pointer;
+  color: #f4efe9;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
 .media-viewer-facts,
 .media-viewer-provenance dl,
 .media-viewer-advanced dl {

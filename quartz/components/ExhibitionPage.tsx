@@ -1,9 +1,11 @@
 import { ArrowLeft, ArrowRight, ExternalLink, Images, Quote, Tags } from "lucide-preact"
 import type { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import type { ExhibitionItem, ExhibitionManifest } from "../util/exhibitions"
-import { cleanText, displayCreator, displayDate, mediaDetailUrl } from "../util/objectMedia"
+import type { ExhibitionClaim, ExhibitionItem, ExhibitionManifest } from "../util/exhibitions"
+import { cleanText, displayCreator, displayDate } from "../util/objectMedia"
 import { mediaLicenseLabel } from "../util/mediaGallery"
 import style from "./styles/exhibitionPage.scss"
+// @ts-ignore
+import script from "./scripts/exhibition.inline"
 
 function parseManifest(value: unknown): ExhibitionManifest | undefined {
   try {
@@ -36,23 +38,24 @@ function ItemMeta({ item }: { item: ExhibitionItem }) {
   )
 }
 
-function ClaimLinks({ item }: { item: ExhibitionItem }) {
-  if (!item.claims.length) return null
+function ClaimLinks({ claims }: { claims: ExhibitionClaim[] }) {
+  if (!claims.length) return null
   return (
     <div class="exhibition-claims">
-      {item.claims.map((claim) => (
+      {claims.map((claim) => (
         <details
           class={`exhibition-claim ${claim.role === "direct" ? "is-direct" : "is-contextual"}`}
         >
           <summary>
-            <Quote size={14} aria-hidden="true" /> {claim.label || "Šaltinis ir citata"}
+            <Quote size={14} aria-hidden="true" />
+            <span>{claim.text}</span>
+            <code>{claim.claimId}</code>
           </summary>
           <div class="exhibition-claim-label">
-            {claim.role === "direct" ? "Tiesiogiai apie eksponatą" : "Istorinis kontekstas"}
+            {claim.label ||
+              (claim.role === "direct" ? "Tiesiogiai apie eksponatą" : "Istorinis kontekstas")}
           </div>
-          <p>
-            <strong>Šaltinis teigia:</strong> {claim.text}
-          </p>
+          <blockquote>{claim.quote}</blockquote>
           <div class="exhibition-claim-footer">
             <small>{claim.sourceTitle}</small>
             <a href={claim.url}>
@@ -89,14 +92,28 @@ function ItemTags({ item }: { item: ExhibitionItem }) {
   )
 }
 
-function Exhibit({ item, index }: { item: ExhibitionItem; index: number }) {
+function galleryUrl(exhibitionId: string, mediaId: string): string {
+  return `/galerija/?media=${encodeURIComponent(mediaId)}&exhibition=${encodeURIComponent(exhibitionId)}`
+}
+
+function Exhibit({
+  item,
+  index,
+  exhibitionId,
+  sectionClaims,
+}: {
+  item: ExhibitionItem
+  index: number
+  exhibitionId: string
+  sectionClaims: ExhibitionClaim[]
+}) {
   const media = item.media
   const imageUrl = cleanText(media.thumbUrl || media.sourceUrl)
   return (
     <article class={`exhibition-item ${index % 2 ? "is-reversed" : ""}`} id={item.exhibitionItemId}>
       <a
         class="exhibition-item-image"
-        href={mediaDetailUrl(media)}
+        href={galleryUrl(exhibitionId, item.mediaId)}
         aria-label={`Atidaryti vaizdą: ${item.titleLt}`}
       >
         <img
@@ -118,7 +135,18 @@ function Exhibit({ item, index }: { item: ExhibitionItem; index: number }) {
         <ItemMeta item={item} />
         <div class="exhibition-narrative-label">Parodos pasakojimas</div>
         <p class="exhibition-item-description">{item.descriptionLt}</p>
-        <ClaimLinks item={item} />
+        <ClaimLinks claims={item.claims} />
+        {item.claims.length === 0 && sectionClaims.length > 0 && (
+          <p class="exhibition-inherited-claims">
+            Šį eksponatą pagrindžia skyriaus teiginiai:{" "}
+            {sectionClaims.map((claim, claimIndex) => (
+              <>
+                {claimIndex > 0 ? " · " : ""}
+                <a href={claim.url}>{claim.claimId}</a>
+              </>
+            ))}
+          </p>
+        )}
         <ItemTags item={item} />
         {media.canonicalUrl && (
           <a
@@ -175,11 +203,22 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
           </a>
         </div>
       </header>
-      <nav class="exhibition-chapters" aria-label="Parodos skyriai">
+      <nav
+        class="exhibition-chapters"
+        aria-label="Parodos skyriai"
+        style={`--chapter-count:${exhibition.sections.length}`}
+      >
         {exhibition.sections.map((section, index) => (
-          <a href={`#${section.slug}`}>
-            <span>{index + 1}</span>
-            {section.title}
+          <a href={`#${section.slug}`} data-exhibition-chapter={section.slug}>
+            <img
+              src={section.navMedia.thumbUrl || section.navMedia.sourceUrl}
+              alt=""
+              aria-hidden="true"
+              style={`object-position:${section.navImagePosition || "50% 30%"}`}
+            />
+            <span class="exhibition-chapter-scrim" aria-hidden="true" />
+            <span class="exhibition-chapter-number">{index + 1}</span>
+            <span class="exhibition-chapter-title">{section.title}</span>
           </a>
         ))}
       </nav>
@@ -192,11 +231,23 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
               <span>{String(sectionIndex + 1).padStart(2, "0")}</span>
               <h2>{section.title}</h2>
               <p>{section.lead}</p>
+              {section.claims.length > 0 && (
+                <div class="exhibition-section-claims">
+                  <ClaimLinks claims={section.claims} />
+                </div>
+              )}
             </header>
             <div class="exhibition-section-items">
               {featured.map((item) => {
                 const index = exhibitIndex++
-                return <Exhibit item={item} index={index} />
+                return (
+                  <Exhibit
+                    item={item}
+                    index={index}
+                    exhibitionId={exhibition.exhibitionId}
+                    sectionClaims={section.claims}
+                  />
+                )
               })}
             </div>
           </section>
@@ -211,7 +262,7 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
           <div>
             {catalogue.map((item) => (
               <article>
-                <a href={mediaDetailUrl(item.media)}>
+                <a href={galleryUrl(exhibition.exhibitionId, item.mediaId)}>
                   <img
                     src={item.media.thumbUrl || item.media.sourceUrl}
                     alt={item.titleLt}
@@ -221,7 +272,7 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
                 <h3>{item.titleLt}</h3>
                 <div class="exhibition-narrative-label">Kuratoriaus pastaba</div>
                 <p>{item.catalogDescriptionLt}</p>
-                <ClaimLinks item={item} />
+                <ClaimLinks claims={item.claims} />
               </article>
             ))}
           </div>
@@ -295,5 +346,6 @@ const ExhibitionPage: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
 }
 
 ExhibitionPage.css = style
+ExhibitionPage.afterDOMLoaded = script
 
 export default (() => ExhibitionPage) satisfies QuartzComponentConstructor

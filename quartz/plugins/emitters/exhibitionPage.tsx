@@ -67,6 +67,31 @@ export const ExhibitionPages: QuartzEmitterPlugin = () => {
       const exhibitions = loadExhibitions()
       const cfg = ctx.cfg.configuration
       const allFiles = content.map((item) => item[1].data)
+      const galleryContexts = Object.fromEntries(
+        exhibitions.map((exhibition) => [
+          exhibition.exhibitionId,
+          {
+            exhibitionId: exhibition.exhibitionId,
+            slug: exhibition.slug,
+            title: exhibition.title,
+            items: exhibition.sections.flatMap((section) =>
+              section.items.map((item) => ({
+                mediaId: item.mediaId,
+                titleLt: item.titleLt,
+                descriptionLt: item.descriptionLt || item.catalogDescriptionLt,
+                dateDisplay: item.media.dateDisplay || "",
+                sectionTitle: section.title,
+              })),
+            ),
+          },
+        ]),
+      )
+      yield write({
+        ctx,
+        content: JSON.stringify(galleryContexts),
+        slug: "static/exhibitionMediaContext" as FullSlug,
+        ext: ".json",
+      })
       const emit = async function* (
         slug: FullSlug,
         title: string,
