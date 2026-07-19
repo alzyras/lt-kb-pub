@@ -109,6 +109,7 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 
 <a id="claim-t-26668"></a>
 - t-003
+  global_id: t-907413864
   teiginys: 'Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom''o, stadiją.'
   sudarymo_pagrindimas: 'Sakinys padarytas sklandesnis ir aiškesnis, nekeičiant citatos paremto fakto.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Europa; mentioned_place: Lietuva'

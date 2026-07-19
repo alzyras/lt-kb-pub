@@ -47,6 +47,7 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 <a id="claim-t-18962"></a>
 - t-001
+  global_id: t-900055823
   teiginys: 'Jimi Hendrixas grojo Tony''o Zemaicio sukurta gitara „Zemaitis“.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra klausimas, o citata remia konkretų faktą apie Jimi Hendrixą.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Gitara „Zemaitis“|Gitara „Zemaitis“]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Nadine Gordimer|Nadine Gordimer]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Londonas'

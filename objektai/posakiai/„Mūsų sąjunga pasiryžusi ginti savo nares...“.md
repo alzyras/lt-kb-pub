@@ -61,6 +61,7 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
     - c-166893
 
 - t-001
+  global_id: t-902075108
   teiginys: '2002 m. lapkričio 23 d. Vilniuje George''as Bushas pasakė, kad NATO pasiryžusi ginti savo nares ir kad Lietuvos priešai taptų JAV priešais.'
   pagrindžia:
     - c-166893

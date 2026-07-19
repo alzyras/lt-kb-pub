@@ -1,6 +1,10 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
-import { collectEvidenceIntegrityIssues } from "./evidenceIntegrity"
+import {
+  collectCorpusEvidenceIntegrityIssues,
+  collectEvidenceIntegrityIssues,
+  evidenceSupportsClaim,
+} from "./evidenceIntegrity"
 
 const validMarkdown = `# Objektas
 
@@ -86,5 +90,51 @@ pavadinimas: Klastyklė
     )
     const issues = collectEvidenceIntegrityIssues(duplicate)
     assert.ok(issues.some((issue) => issue.code === "duplicate_claim_global_id"))
+  })
+
+  test("does not trust one weak word prefix for an unrelated citation", () => {
+    assert.equal(
+      evidenceSupportsClaim(
+        "Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.",
+        "Didelis ir darbininkas. Mokėjo laiką taip suvartoti, jog nė minutė nenueidavo niekais. Pasižymėjo stropiu valdymu.",
+        "Vytautas (Lietuvos valdovas, XIV–XV a.)",
+      ),
+      false,
+    )
+  })
+
+  test("accepts a direct quote and a short object quote by page context", () => {
+    assert.equal(
+      evidenceSupportsClaim(
+        "Vytautas vedė kariuomenę.",
+        "Vytautas savo kariuomenę pats vedė.",
+        "Vytautas",
+      ),
+      true,
+    )
+    assert.equal(
+      evidenceSupportsClaim(
+        "Atskiras javų valymo įrankis.",
+        "Su klastykle nuvaro į šalį viską, kas grūduose nereikalinga.",
+        "Klastyklė",
+      ),
+      true,
+    )
+  })
+
+  test("rejects duplicate global ids across documents and missing global ids", () => {
+    const issues = collectCorpusEvidenceIntegrityIssues([
+      { filePath: "a.md", markdown: validMarkdown },
+      {
+        filePath: "b.md",
+        markdown: validMarkdown.replace("t-10001", "t-10001").replace("t-001", "t-002"),
+      },
+      {
+        filePath: "c.md",
+        markdown: validMarkdown.replace("  global_id: t-10001\n", ""),
+      },
+    ])
+    assert.ok(issues.some((issue) => issue.code === "duplicate_claim_global_id_across_files"))
+    assert.ok(issues.some((issue) => issue.code === "missing_claim_global_id"))
   })
 })

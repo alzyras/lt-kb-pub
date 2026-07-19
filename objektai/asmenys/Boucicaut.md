@@ -79,6 +79,7 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
 
 <a id="claim-t-87490"></a>
 - t-001
+  global_id: t-906151733
   teiginys: 'Prancūzų vadas Boucicaut''as per kautynes buvo pridaręs nemažai žalos apgultiesiems.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Boucicaut''o vaidmenį, bet pradinis tekstas yra nutrūkęs ir per ilgas.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]'

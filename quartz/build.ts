@@ -9,7 +9,7 @@ import { parseMarkdown } from "./processors/parse"
 import { filterContent } from "./processors/filter"
 import { emitContent } from "./processors/emit"
 import cfg from "../quartz.config"
-import { FilePath, joinSegments, slugifyFilePath } from "./util/path"
+import { createUniqueSlugMap, FilePath, joinSegments } from "./util/path"
 import chokidar from "chokidar"
 import { ProcessedContent } from "./plugins/vfile"
 import { Argv, BuildCtx } from "./util/ctx"
@@ -49,6 +49,7 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
     cfg,
     allSlugs: [],
     allFiles: [],
+    slugMap: {},
     incremental: false,
   }
 
@@ -79,7 +80,9 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
 
   const filePaths = markdownPaths.map((fp) => joinSegments(argv.directory, fp) as FilePath)
   ctx.allFiles = allFiles
-  ctx.allSlugs = allFiles.map((fp) => slugifyFilePath(fp as FilePath))
+  const slugMap = createUniqueSlugMap(allFiles as FilePath[])
+  ctx.slugMap = Object.fromEntries(slugMap)
+  ctx.allSlugs = allFiles.map((fp) => slugMap.get(fp as FilePath)!)
 
   const parsedFiles = await parseMarkdown(ctx, filePaths)
   const filteredContent = filterContent(ctx, parsedFiles)
@@ -254,7 +257,9 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
 
   // update allFiles and then allSlugs with the consistent view of content map
   ctx.allFiles = Array.from(contentMap.keys())
-  ctx.allSlugs = ctx.allFiles.map((fp) => slugifyFilePath(fp as FilePath))
+  const slugMap = createUniqueSlugMap(ctx.allFiles)
+  ctx.slugMap = Object.fromEntries(slugMap)
+  ctx.allSlugs = ctx.allFiles.map((fp) => slugMap.get(fp)!)
   let processedFiles = filterContent(
     ctx,
     Array.from(contentMap.values())

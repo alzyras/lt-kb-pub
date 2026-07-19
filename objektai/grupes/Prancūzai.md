@@ -140,6 +140,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - c-167276
 
 - t-002
+  global_id: t-906884275
   teiginys: 'Prancūzai, vadovaujami Boucicaut''o, per kautynes pridarė nemažai žalos apgultiesiems.'
   pagrindžia:
     - c-78180

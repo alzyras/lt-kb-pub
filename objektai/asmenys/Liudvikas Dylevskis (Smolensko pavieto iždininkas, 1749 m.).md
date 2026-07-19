@@ -60,6 +60,7 @@ media_all_json: |-
 
 <a id="claim-t-200481"></a>
 - t-001
+  global_id: t-900527853
   teiginys: '1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sutrumpinta perteklinė atribucija ir palikta citatoje matoma alternatyva. Nepridėta sprendimo, kuris asmuo pareigas tikrai ėjo.'

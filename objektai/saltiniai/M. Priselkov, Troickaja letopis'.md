@@ -57,6 +57,7 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 
 <a id="claim-t-31842"></a>
 - t-001
+  global_id: t-902033783
   teiginys: 'M. Priselkovo „Troickaja letopis''''“ minima kaip 1950 m. leidinys, cituojamas 457 puslapyje.'
   susije_objektai: 'mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1406 m.; įvykio data: 1950 m.'

@@ -72,6 +72,7 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
 
 <a id="claim-t-187312"></a>
 - t-003
+  global_id: t-905856634
   teiginys: "Ir aš prašiau kunigaikštį Jogailą raštų bei privilegijų dėl tų žemių, kurias jis man buvo davęs, dėl rusų žemės7 , kuri buvo priklausiusi Liubartui\" , kad aš ją galėčiau pasilaikyti."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"

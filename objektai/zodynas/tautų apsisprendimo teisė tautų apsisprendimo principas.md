@@ -155,6 +155,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 
 <a id="claim-t-101613"></a>
 - t-002
+  global_id: t-905968933
   teiginys: 'Prancūzija Georges''o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda nutrūkusiu šaltinio fragmentu.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vokietija'

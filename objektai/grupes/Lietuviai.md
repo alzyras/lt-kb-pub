@@ -4473,6 +4473,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 
 <a id="claim-t-197194"></a>
 - t-250
+  global_id: t-905236763
   teiginys: "Jaunos netekėjusioski/mingos\" lietuvaitės nešiodavosi var pelius, prikabintus virvutėmis prie juostos ir nuleistus iki ke lių, o vakare sutemus jos nedrįsdavo nė per žingsnį nutolti nuo namų; net po namus turėdavo vaikščioti su ugnimi, kad tėvai girdėtų ir."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"

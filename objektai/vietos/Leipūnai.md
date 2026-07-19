@@ -55,6 +55,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
     - c-43568
 
 - t-002
+  global_id: t-906696872
   teiginys: ".\" Kiti minėjo Leipūnų laukuose žuvusius sūnus, tėvus ir kitus gimines."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"

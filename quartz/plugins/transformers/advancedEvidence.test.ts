@@ -117,7 +117,7 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(transformed, /technical-only|quote_start|quote_end|saltinio_vieta/)
     assert.match(transformed, /Paskutinis atnaujinimas/)
     assert.match(transformed, /Originalus šaltinio fragmentas/)
-    assert.match(transformed, /Rodoma citatos ištrauka/)
+    assert.doesNotMatch(transformed, /Rodoma citatos ištrauka/)
     assert.match(transformed, /advanced-field-help/)
     assert.match(transformed, /Susiję objektai/)
     assert.match(transformed, /Ryšiai/)
@@ -290,6 +290,34 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /claim-citation-mismatch/)
     assert.doesNotMatch(transformed, /claim-citation-quote/)
     assert.match(transformed, /Citatos tekstas nerodomas/)
+  })
+
+  test("does not render the merged Vytautas citation swap as supporting evidence", () => {
+    const plugin = AdvancedEvidence()
+    const mergedCitationMarkdown = `# Vytautas (Lietuvos valdovas, XIV–XV a.)
+
+## Teiginiai
+- id: t-194
+  global_id: t-198399
+  teiginys: Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.
+  pagrindžia:
+    - c-36591
+
+## Citatos
+- id: c-36591
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Didelis ir darbininkas. Mokėjo laiką taip suvartoti, jog nė minutė nenueidavo niekais.
+    Pasižymėjo stropiu valdymu.
+`
+
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, mergedCitationMarkdown) ??
+        mergedCitationMarkdown,
+    )
+
+    assert.match(transformed, /claim-citation-mismatch/)
+    assert.doesNotMatch(transformed, /claim-citation-quote/)
   })
 
   test("uses unique DOM keys when local claim ids repeat and keeps public page order ids", () => {

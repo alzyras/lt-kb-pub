@@ -1,8 +1,8 @@
 import fs from "node:fs"
 import path from "node:path"
-import { collectEvidenceIntegrityIssues } from "../quartz/util/evidenceIntegrity"
+import { collectCorpusEvidenceIntegrityIssues } from "../quartz/util/evidenceIntegrity"
 
-const objectRoot = path.resolve("objektai")
+const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
 
 function listMarkdownFiles(dir: string): string[] {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
@@ -12,13 +12,11 @@ function listMarkdownFiles(dir: string): string[] {
   })
 }
 
-const issues = listMarkdownFiles(objectRoot).flatMap((file) => {
-  const markdown = fs.readFileSync(file, "utf8")
-  return collectEvidenceIntegrityIssues(markdown).map((issue) => ({
-    file: path.relative(process.cwd(), file),
-    ...issue,
-  }))
-})
+const documents = listMarkdownFiles(objectRoot).map((file) => ({
+  filePath: path.relative(process.cwd(), file),
+  markdown: fs.readFileSync(file, "utf8"),
+}))
+const issues = collectCorpusEvidenceIntegrityIssues(documents)
 
 const counts = Object.fromEntries(
   [...new Set(issues.map((issue) => issue.code))].map((code) => [
@@ -30,7 +28,7 @@ const counts = Object.fromEntries(
 console.log(
   JSON.stringify(
     {
-      files: listMarkdownFiles(objectRoot).length,
+      files: documents.length,
       issues: issues.length,
       counts,
       examples: issues.slice(0, 20),

@@ -60,6 +60,7 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
 
 <a id="claim-t-30556"></a>
 - t-001
+  global_id: t-901908787
   teiginys: 'Al''''-Idrisi, remdamasis pirklių, keliautojų ir piligrimų žiniomis, „Rogero knygoje“ minėjo rytų Pabaltijį ir galimai Kauną.'
   susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ispanija; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1100-1166'

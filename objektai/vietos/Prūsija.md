@@ -1938,6 +1938,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 
 <a id="claim-t-185107"></a>
 - t-107
+  global_id: t-901785703
   teiginys: "Galima būtų stebėtis, jei karšto klimato medis Phyllantus Emblica būtų atsidū ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą ,,De fructibus et seminibus plantarum\", kad įsitikintume, jog minėtas vaisius neišaugo jokioje Emblikoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"

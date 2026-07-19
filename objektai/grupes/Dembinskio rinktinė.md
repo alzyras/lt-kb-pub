@@ -69,6 +69,7 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 
 <a id="claim-t-72057"></a>
 - t-003
+  global_id: t-907348608
   teiginys: 'Po Rohland''o būrio pasitraukimo į Prūsiją Dembinskio rinktinė liko vienintelė reguliarinė kariuomenė Lietuvoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys turėjo kontekstinę pradžią ir OCR laužymą.'
   pagrindžia:

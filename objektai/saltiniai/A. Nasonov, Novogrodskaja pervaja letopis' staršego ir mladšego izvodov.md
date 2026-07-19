@@ -57,6 +57,7 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 
 <a id="claim-t-31592"></a>
 - t-001
+  global_id: t-908162994
   teiginys: 'A. Nasonovo „Novogrodskaja pervaja letopis'''' staršego i mladšego izvodov“ išleista Maskvoje-Leningrade 1950 m.'
   susije_objektai: 'mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1406 m.; įvykio data: 1950 m.'

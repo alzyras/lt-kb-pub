@@ -119,7 +119,7 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
         // base data properties that plugins may use
         file.data.filePath = file.path as FilePath
         file.data.relativePath = path.posix.relative(argv.directory, file.path) as FilePath
-        file.data.slug = slugifyFilePath(file.data.relativePath)
+        file.data.slug = ctx.slugMap[file.data.relativePath] ?? slugifyFilePath(file.data.relativePath)
 
         const ast = processor.parse(file)
         const newAst = await processor.run(ast, file)
@@ -198,6 +198,7 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
       argv: ctx.argv,
       allSlugs: ctx.allSlugs,
       allFiles: ctx.allFiles,
+      slugMap: ctx.slugMap,
       incremental: ctx.incremental,
     }
 

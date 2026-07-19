@@ -57,6 +57,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 
 <a id="claim-t-78048"></a>
 - t-001
+  global_id: t-903176992
   teiginys: 'David Baltimore''as buvo 1975 m. medicinos ir fiziologijos Nobelio premijos laureatas, siejamas su Lietuva.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinę formuluotę apie minimą šaltinyje ir suformuluoti tiesioginį faktą.'
   susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_person: [[objektai/asmenys/Christiaan Barnard|Christiaan Barnard]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Louis Washkansky|Louis Washkansky]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika'

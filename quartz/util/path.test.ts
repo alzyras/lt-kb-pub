@@ -72,6 +72,26 @@ describe("typeguards", () => {
   })
 })
 
+test("disambiguates transliteration collisions without changing the first stable slug", () => {
+  const slugs = path.createUniqueSlugMap([
+    "objektai/asmenys/Astikas.md" as path.FilePath,
+    "objektai/asmenys/Aštikas.md" as path.FilePath,
+  ])
+  assert.equal(slugs.get("objektai/asmenys/Astikas.md"), "objektai/asmenys/Astikas")
+  assert.match(slugs.get("objektai/asmenys/Aštikas.md") ?? "", /^objektai\/asmenys\/Astikas-[0-9a-f]{8}$/)
+})
+
+test("disambiguates case-insensitive filesystem collisions", () => {
+  const slugs = path.createUniqueSlugMap([
+    "objektai/posakiai/Iki gyvos galvos.md" as path.FilePath,
+    "objektai/posakiai/„iki gyvos galvos“.md" as path.FilePath,
+  ])
+  assert.notEqual(
+    slugs.get("objektai/posakiai/Iki gyvos galvos.md" as path.FilePath),
+    slugs.get("objektai/posakiai/„iki gyvos galvos“.md" as path.FilePath),
+  )
+})
+
 describe("transforms", () => {
   function asserts<Inp, Out>(
     pairs: [string, string][],

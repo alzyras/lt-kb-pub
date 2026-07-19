@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { INTENTIONAL_IGNORED_OBJECT_PAGES } from "./quartz/util/contentPaths"
 
 /**
  * Quartz 4 Configuration
@@ -43,10 +44,7 @@ const config: QuartzConfig = {
       "templates",
       "tyrimai/auditai",
       "tyrimai/auditai/**",
-      "objektai/autoriai/Дельбрюк Г.md",
-      "objektai/saltiniai/Полное собрание русских летописей.md",
-      // This legacy duplicate collides with the parenthetical canonical record's generated alias.
-      "objektai/grupes/Draugija užsienio lietuviams remti.md",
+      ...INTENTIONAL_IGNORED_OBJECT_PAGES,
     ],
     defaultDateType: "created",
     theme: {

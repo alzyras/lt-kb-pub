@@ -15,6 +15,15 @@ export interface EvidenceIntegrityIssue {
   message: string
 }
 
+export interface CorpusEvidenceIntegrityIssue extends EvidenceIntegrityIssue {
+  filePath: string
+}
+
+export interface EvidenceDocument {
+  filePath: string
+  markdown: string
+}
+
 function citationEntries(sections: Map<string, EvidenceEntry[]>): EvidenceEntry[] {
   return [...sections.entries()]
     .filter(([title]) => CITATION_SECTION_TITLES.has(title))
@@ -28,6 +37,15 @@ function citationText(entry: EvidenceEntry): string {
     .filter(Boolean)
     .filter((text, index, values) => values.indexOf(text) === index)
     .join("\n")
+}
+
+export function evidenceCitationQuote(entry: EvidenceEntry): string {
+  return (
+    entry.fields.get("citata_rodoma")?.trim() ||
+    entry.fields.get("citata")?.trim() ||
+    entry.fields.get("citata_originali")?.trim() ||
+    ""
+  )
 }
 
 function normalizedTokens(text: string): Set<string> {
@@ -77,6 +95,34 @@ function normalizedTokens(text: string): Set<string> {
   )
 }
 
+function tokenOverlap(claimText: string, quoteText: string): { exact: number; prefix: number } {
+  const claimTokens = normalizedTokens(claimText)
+  const citationTokens = normalizedTokens(quoteText)
+  let exact = 0
+  let prefix = 0
+
+  for (const claimToken of claimTokens) {
+    const exactMatch = [...citationTokens].some((citationToken) => claimToken === citationToken)
+    if (exactMatch) {
+      exact += 1
+      continue
+    }
+    const prefixMatch = [...citationTokens].some((citationToken) => {
+      const commonLength = Math.min(claimToken.length, citationToken.length)
+      let prefixLength = 0
+      while (
+        prefixLength < commonLength &&
+        claimToken[prefixLength] === citationToken[prefixLength]
+      ) {
+        prefixLength++
+      }
+      return prefixLength >= 4 && commonLength >= 6
+    })
+    if (prefixMatch) prefix += 1
+  }
+  return { exact, prefix }
+}
+
 export function evidenceTextOverlapScore(
   claimText: string,
   quoteText: string,
@@ -98,6 +144,37 @@ export function evidenceTextOverlapScore(
       return prefixLength >= 4
     }),
   ).length
+}
+
+/**
+ * Conservative display guard. A page title may identify a short object quote,
+ * but a single weak word prefix must never make an unrelated quote visible.
+ */
+export function evidenceSupportsClaim(
+  claimText: string,
+  quoteText: string,
+  contextText = "",
+): boolean {
+  if (!quoteText.trim()) return false
+  const claimOverlap = tokenOverlap(claimText, quoteText)
+  if (claimOverlap.exact > 0) return true
+  if (claimOverlap.prefix >= 2) return true
+  const contextOverlap = tokenOverlap(contextText, quoteText)
+  return contextOverlap.exact > 0
+}
+
+export function evidenceCitationQuoteForClaim(
+  entry: EvidenceEntry,
+  claimText: string,
+  contextText = "",
+): string {
+  const displayQuote =
+    entry.fields.get("citata_rodoma")?.trim() || entry.fields.get("citata")?.trim() || ""
+  const originalQuote = entry.fields.get("citata_originali")?.trim() || ""
+  if (displayQuote && evidenceSupportsClaim(claimText, displayQuote, contextText)) {
+    return displayQuote
+  }
+  return originalQuote || displayQuote
 }
 
 export function evidenceDocumentContext(markdown: string): string {
@@ -261,5 +338,50 @@ export function collectEvidenceIntegrityIssues(markdown: string): EvidenceIntegr
     }
   }
 
+  return issues
+}
+
+export function collectCorpusEvidenceIntegrityIssues(
+  documents: EvidenceDocument[],
+): CorpusEvidenceIntegrityIssue[] {
+  const issues = documents.flatMap(({ filePath, markdown }) =>
+    collectEvidenceIntegrityIssues(markdown).map((issue) => ({
+      ...issue,
+      filePath,
+    })),
+  )
+  const globalIds = new Map<string, string>()
+
+  for (const { filePath, markdown } of documents) {
+    const claims = (parseEvidenceSections(markdown).get("Teiginiai") ?? []).filter((entry) =>
+      entry.id.startsWith("t-"),
+    )
+    for (const claim of claims) {
+      const globalId = claim.fields.get("global_id")?.trim()
+      if (!globalId) {
+        issues.push({
+          code: "missing_claim_global_id",
+          severity: "error",
+          entryId: claim.id,
+          filePath,
+          message: `Claim ${claim.id} has no global_id`,
+        })
+        continue
+      }
+      const previousFile = globalIds.get(globalId)
+      if (previousFile && previousFile !== filePath) {
+        issues.push({
+          code: "duplicate_claim_global_id_across_files",
+          severity: "error",
+          entryId: claim.id,
+          relatedId: globalId,
+          filePath,
+          message: `Claim global id ${globalId} is also used in ${previousFile}`,
+        })
+      } else {
+        globalIds.set(globalId, filePath)
+      }
+    }
+  }
   return issues
 }

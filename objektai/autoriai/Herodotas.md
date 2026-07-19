@@ -648,6 +648,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-175313
 
 - t-024
+  global_id: t-900881406
   teiginys: 'Herodotas buvo teigiama, jog čia kalbama apie čigonus, tačiau šiandien to daryli jau nebegalima, nes jų istorija gerai žinoma''’1''.'
   pagrindžia:
     - c-177275

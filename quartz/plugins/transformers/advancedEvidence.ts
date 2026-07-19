@@ -1,6 +1,10 @@
 import { QuartzTransformerPlugin } from "../types"
 import { normalizeCitationSourceId } from "../../util/citationFilter"
-import { evidenceDocumentContext, evidenceTextOverlapScore } from "../../util/evidenceIntegrity"
+import {
+  evidenceCitationQuoteForClaim,
+  evidenceDocumentContext,
+  evidenceSupportsClaim,
+} from "../../util/evidenceIntegrity"
 import { BuildCtx } from "../../util/ctx"
 import { FullSlug, simplifySlug, slugTag } from "../../util/path"
 
@@ -144,7 +148,6 @@ const CLAIM_ADVANCED_KEYS = [
 ]
 const QUOTE_DISPLAY_KEY = "citata_rodoma"
 const QUOTE_ORIGINAL_KEY = "citata_originali"
-const QUOTE_LEGACY_DISPLAY_KEY = "citata"
 const ADVANCED_RESOLVE_STOPWORDS = new Set(["tame"])
 
 interface EvidenceEntry {
@@ -660,11 +663,24 @@ function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex)
   return rows
 }
 
-function citationQuote(entry: EvidenceEntry): string {
-  const displayQuote = entry.fields.get(QUOTE_DISPLAY_KEY)?.trim()
-  const legacyDisplayQuote = entry.fields.get(QUOTE_LEGACY_DISPLAY_KEY)?.trim()
-  const originalQuote = entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
-  return displayQuote || legacyDisplayQuote || originalQuote
+function citationQuote(
+  entry: EvidenceEntry,
+  claimEntry?: EvidenceEntry,
+  documentContext = "",
+): string {
+  if (claimEntry) {
+    return evidenceCitationQuoteForClaim(
+      entry,
+      claimEntry.fields.get("teiginys") ?? "",
+      documentContext,
+    )
+  }
+  return (
+    entry.fields.get(QUOTE_DISPLAY_KEY)?.trim() ||
+    entry.fields.get("citata")?.trim() ||
+    entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ||
+    ""
+  )
 }
 
 function citationSupportsClaim(
@@ -672,12 +688,10 @@ function citationSupportsClaim(
   citationEntry: EvidenceEntry,
   documentContext: string,
 ): boolean {
-  const quote = [QUOTE_ORIGINAL_KEY, QUOTE_DISPLAY_KEY, QUOTE_LEGACY_DISPLAY_KEY]
-    .map((key) => citationEntry.fields.get(key) ?? "")
-    .filter(Boolean)
-    .join("\n")
-  return (
-    evidenceTextOverlapScore(claimEntry.fields.get("teiginys") ?? "", quote, documentContext) > 0
+  return evidenceSupportsClaim(
+    claimEntry.fields.get("teiginys") ?? "",
+    citationQuote(citationEntry, claimEntry, documentContext),
+    documentContext,
   )
 }
 
@@ -747,9 +761,10 @@ function renderCitationCard(
   claimEntry: EvidenceEntry,
   citationEntry: EvidenceEntry,
   resolveIndex: SlugResolveIndex,
+  documentContext: string,
 ): string {
   const source = citationEntry.fields.get("šaltinis") ?? citationEntry.fields.get("saltinis") ?? ""
-  const quote = citationQuote(citationEntry)
+  const quote = citationQuote(citationEntry, claimEntry, documentContext)
   const originalQuote = citationEntry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
   const quoteIsExcerpt = Boolean(originalQuote && quote.trim() !== originalQuote)
   const rows = advancedRows(citationEntry, quote, resolveIndex)
@@ -796,7 +811,7 @@ function renderClaimEvidenceDetailRow(
     .filter((entry): entry is EvidenceEntry => Boolean(entry))
     .map((entry) =>
       citationSupportsClaim(claimEntry, entry, documentContext)
-        ? renderCitationCard(claimEntry, entry, resolveIndex)
+        ? renderCitationCard(claimEntry, entry, resolveIndex, documentContext)
         : renderUnsupportedCitationCard(entry),
     )
   const citationContent =
@@ -813,7 +828,13 @@ function advancedRows(
 ): string[] {
   const rows: string[] = []
   const original = entry.fields.get(QUOTE_ORIGINAL_KEY) ?? ""
-  if (original && original.trim() !== displayedQuote.trim()) {
+  const configuredDisplay =
+    entry.fields.get(QUOTE_DISPLAY_KEY)?.trim() || entry.fields.get("citata")?.trim() || ""
+  if (
+    original &&
+    (original.trim() !== displayedQuote.trim() ||
+      (configuredDisplay && configuredDisplay.trim() !== displayedQuote.trim()))
+  ) {
     rows.push(`<tr>${advancedHeader("citata_originali")}<td>${advancedCell(original)}</td></tr>`)
   }
   for (const key of CLAIM_ADVANCED_KEYS) {

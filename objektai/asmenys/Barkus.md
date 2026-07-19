@@ -44,6 +44,7 @@ APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėta
     - c-176522
 
 - t-001
+  global_id: t-906367210
   teiginys: 'APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėtam kunigaikščiui Palemonui gimė trys sūnūs: vyriausias Barkus '', antras — Kūnas 2 , tre čias— Spera3 .'
   pagrindžia:
     - c-176522

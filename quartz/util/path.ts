@@ -111,6 +111,40 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
   return (slug + ext) as FullSlug
 }
 
+function slugHash(value: string): string {
+  let hash = 2166136261
+  for (const byte of new TextEncoder().encode(value)) {
+    hash ^= byte
+    hash = Math.imul(hash, 16777619)
+  }
+  return (hash >>> 0).toString(16).padStart(8, "0")
+}
+
+export function slugCollisionKey(slug: string): string {
+  return slug.normalize("NFC").toLocaleLowerCase("en-US")
+}
+
+/** Keep transliteration collisions from overwriting one another in public/. */
+export function createUniqueSlugMap(filePaths: FilePath[]): Map<string, FullSlug> {
+  const used = new Set<string>()
+  const result = new Map<string, FullSlug>()
+  for (const filePath of [...filePaths].sort()) {
+    const base = slugifyFilePath(filePath)
+    let candidate = base
+    if (used.has(slugCollisionKey(candidate))) {
+      candidate = `${base}-${slugHash(filePath)}` as FullSlug
+      let suffix = 2
+      while (used.has(slugCollisionKey(candidate))) {
+        candidate = `${base}-${slugHash(filePath)}-${suffix}` as FullSlug
+        suffix += 1
+      }
+    }
+    used.add(slugCollisionKey(candidate))
+    result.set(filePath, candidate)
+  }
+  return result
+}
+
 export function simplifySlug(fp: FullSlug): SimpleSlug {
   const res = stripSlashes(trimSuffix(fp, "index"), true)
   return (res.length === 0 ? "/" : res) as SimpleSlug
