@@ -63,12 +63,7 @@ Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Ja
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 16"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
-  citata_originali: |
-    Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józe-
-    fas Kauschas (1751–1825). Jis mini, kad jam nepatikdavę po valgio gerti vyną kartu
-    su kitais iš vienos taurės, kuri nebūdavusi išplaunama (ten pat). J. Kitowiczius pa-
-    žymėjo, kad esminiai pokyčiai prasidėję kartu su stiklinių taurių paplitimu, nes ant
-    jų kraštų buvo ryškiai matomi pirmiau gėrusiojo lūpų pėdsakai.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:13"
   teiginio_tipas: faktas

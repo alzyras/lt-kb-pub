@@ -282,11 +282,7 @@ Nenurodyta
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 3"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
-  citata_originali: |
-    Pasak rusų degtinės tyrėjo Viljamo Pochliobkino, distiliuotą alkoholį
-    Jogailai ir Vytautui kaip vaistą demonstravo Genujos pasiuntiniai 1387 m. Lietuvos
-    krikšto proga ir 1429 m. Lucko suvažiavime (Похлебкин 2005: 134–136). Tačiau
-    šių teiginių nepriklausomais šaltiniais nepavyko patvirtinti.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

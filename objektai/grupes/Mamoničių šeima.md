@@ -46,12 +46,7 @@ Vilniuje veikė dvi stambios vėlyklos: viena priklausė miestui, kita – Mamon
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 61 (PDF 4)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 61 (PDF 4)."
-  citata_originali: |
-    Milas būdavo audžiamas tiek kaimuose, tiek dvaruose. Aukš-
-    tesnės rūšies gelumbę gamindavo amatininkai specialistai,
-    vienas jos gamybos centrų buvo Vilnius, kuriame dirbo vilnos
-    audėjai, vėlėjai, kirpėjai. Čia veikė dvi stambios vėlyklos: viena
-    priklausė miestui, kita – Mamoničių šeimai.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
   teiginio_tipas: faktas

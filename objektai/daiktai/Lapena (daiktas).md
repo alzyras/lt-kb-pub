@@ -71,13 +71,7 @@ Nenurodyta
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 59 (PDF 2)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 59 (PDF 2)."
-  citata_originali: |
-    Verta pažymėti, kad dėl savo brangumo drabužiai ir audiniai
-    anais laikais atstodavo pinigus. Verpalais, audiniais bei kailiais
-    mokėta duoklė, apranga neretai sudarydavo dalį sandėriuose nu-
-    matyto atlyginimo. Antai 1500 m. Tripolio kaimą gavusiam Kijevo
-    bajorui Danieliui Dadikovičiui nustatytas metinis mokestis – pen-
-    ki vežimai šieno ir dvi lapenos29.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:31"
   teiginio_tipas: faktas

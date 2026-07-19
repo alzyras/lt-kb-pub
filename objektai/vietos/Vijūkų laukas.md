@@ -45,12 +45,7 @@ Nuo 1580 m. Vijūkai minimi kaip Romainių Vijūkų lauke gyvenę žmonės, pirk
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 5-6"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5-6."
-  citata_originali: |
-    736.
-
-    Nuolat Vijūkai minimi nuo 1580 m. Jie gyyeno Romainių Vijūkų lauke, pirkdavo ar parduodavo
-    nedaug žemės – pusę valako, valaką, dirvą 2–3 statinėms rugių užsėti ir panašiai, sudarinėjo kitokius
-    sandorius, buvo kitų bajorų liudininkai.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
   teiginio_tipas: faktas

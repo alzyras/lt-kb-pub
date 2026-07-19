@@ -3419,11 +3419,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 3"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
-  citata_originali: |
-    Dar 125 raudonuosius auksinus kainavo vyno atvežimas į Vilnių. Kitoje
-    tų pačių metų sąskaitoje matome šio didiko vyno pirkimus Gardine ir Vilniuje.
-    Abiejose sąskaitose minimas senas vynas, senas įprastinis vynas, jaunas geresnis ir
-    jaunas prastesnis vynas bei senas sausų uogų vynas.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

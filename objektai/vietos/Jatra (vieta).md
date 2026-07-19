@@ -58,9 +58,7 @@ Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais.
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 19"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 19."
-  citata_originali: |
-    0618 su paruošta pas p. Estke pasiuntinybe važiavo p. Salmonovičius iki
-    Vilniaus. Sielco pasiuntinį pasiunčiau į Sielcą ir į Jatrą su atsakymais.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
   teiginio_tipas: faktas

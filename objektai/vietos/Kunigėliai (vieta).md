@@ -58,10 +58,7 @@ Gruodžio 25 d. LDK lauko etmono raitelių vėliava nakvojo Juodausiuose ir Kuni
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 13"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 13."
-  citata_originali: |
-    12 25 Jo ma­
-    lonybės p. [LDK] lauko etmono17 raitelių vėliava nakvojo Juodausiuose
-    ir Kunigėliuose. <...>.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
   teiginio_tipas: faktas

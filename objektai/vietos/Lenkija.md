@@ -5932,14 +5932,7 @@ media_all_json: |-
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 2"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 2."
-  citata_originali: |
-    „Kumelių pieno“
-    vartojimo atveju problema yra tai, kad šis gėrimas iš esmės nėra alkoholinis, be to,
-    jo savikaina mažesnė nei midaus. Greičiausiai dokumentuose kalbama apie kitokį,
-    Vakarų Europoje (net viduramžių Lenkijoje) nežinomą alkoholinį gėrimą, kuris
-    užsienio keliautojams buvo panašus į pieną. Galime spėti, kad „kumelių pienas“ iš
-    tikrųjų galėjęs būti „pagerintas“ – pienu ar grietinėle skiestas – baltasis midus, kurio
-    receptų Lietuvoje žinota dar XVIII amžiuje.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

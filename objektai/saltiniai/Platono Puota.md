@@ -53,10 +53,7 @@ Platono „Puotoje“ bendras gėrimų vartojimas siejamas su antikinėje filoso
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 6"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 6."
-  citata_originali: |
-    Antikinėje filosofinėje tradicijoje šiam bendram
-    gėrimų vartojimui kai kuriais atvejais būdavo suteikiamas išskirtinis komunikacinis ir
-    simbolinis krūvis, – apie tai rašoma Platono Puotoje (Lesher... [et al.] 2006).
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

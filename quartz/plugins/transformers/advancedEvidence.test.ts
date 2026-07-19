@@ -210,6 +210,35 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /Antra citata\./)
   })
 
+  test("renders article evidence as a bibliographic index without the full quote", () => {
+    const plugin = AdvancedEvidence()
+    const articleMarkdown = `# Objektas
+
+## Teiginiai
+- id: t-001
+  teiginys: Straipsnyje aprašomas konkretus istorinis faktas.
+  pagrindžia:
+    - c-001
+
+## Citatos
+- id: c-001
+  autorius: Tyrimo autorius
+  šaltinis: Tyrimo straipsnis (2016 m.)
+  puslapiai: p. 42 (PDF 58)
+  indeksas: Tyrimo autorius, Tyrimo straipsnis (2016 m.), p. 42 (PDF 58).
+  citatos_rezimas: indeksas
+`
+
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, articleMarkdown) ?? articleMarkdown,
+    )
+
+    assert.match(transformed, /Bibliografinis indeksas/)
+    assert.match(transformed, /Tyrimo autorius, Tyrimo straipsnis/)
+    assert.doesNotMatch(transformed, /Citata nerasta\./)
+    assert.doesNotMatch(transformed, /claim-citation-quote/)
+  })
+
   test("uses Citatos section as the canonical citation store", () => {
     const plugin = AdvancedEvidence()
     const markdownWithCitatos = `# Objektas

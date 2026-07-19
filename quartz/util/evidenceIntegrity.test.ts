@@ -53,6 +53,27 @@ describe("evidence integrity", () => {
     assert.deepEqual(collectEvidenceIntegrityIssues(withExcerpt), [])
   })
 
+  test("accepts an article citation represented only by its bibliographic index", () => {
+    const indexOnly = `# Objektas
+
+## Teiginiai
+- id: t-001
+  teiginys: Straipsnyje aprašomas istorinis faktas.
+  pagrindžia:
+    - c-001
+
+## Citatos
+- id: c-001
+  šaltinis: Tyrimo straipsnis (2016 m.)
+  puslapiai: p. 42 (PDF 58)
+  indeksas: Tyrimo autorius, Tyrimo straipsnis (2016 m.), p. 42 (PDF 58).
+  citatos_rezimas: indeksas
+  pagrindžia:
+    - t-001
+`
+    assert.deepEqual(collectEvidenceIntegrityIssues(indexOnly), [])
+  })
+
   test("normalizes OCR line-break hyphenation and page context", () => {
     const withOcr = `---
 pavadinimas: Klastyklė

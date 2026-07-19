@@ -82,12 +82,7 @@ Nenurodyta
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
   puslapiai: "PDF 8"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 8."
-  citata_originali: |
-    Pvz., 1751 m. J. D. Lopacinskis aiškino laiške broliui, kad dėl savo
-    giminės rezidencijos statybos kaštų nuolat diskutuodavo su architektu, nes šis norėjo
-    viską padaryti už didesnę kainą. Jie aiškinosi, kur ir kokie turi būti herbų bareljefai,
-    kanauninkas nurodė, kad siekiant, jog gausūs lietūs nepakenktų, būtina stogą padengti
-    variu [21].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

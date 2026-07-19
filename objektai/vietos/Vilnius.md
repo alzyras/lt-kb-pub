@@ -19261,14 +19261,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
   puslapiai: "PDF 4"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 4."
-  citata_originali: |
-    Kita vertus, šių laiškų informacija parodo, kokia
-    buvo Vilniaus, kaip šalies sostinės ir svarbaus komunikacijos taško, reikšmė Augusto
-    III valdymo epochoje.
-    Šis darbas –vienas pirmųjų žingsnių Vilniaus bajorų gyvenimui ir Vilniaus kanau-
-    ninko Jono Dominyko Lopacinskio biografijai geriau pažinti.
-    Politinės naujienos (seimeliai, derybos)
-    Kokie klausimai buvo nagrinėjami laiškuose,matematiškai apskaičiuoti sudėtinga.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas
@@ -19282,13 +19275,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 3"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
-  citata_originali: |
-    Mykolo Kleopo pro-
-    senelis Marcijonas Mykolas Oginskis tiesiai iš Vengrijos pirko trylika statinių seno,
-    įprastinio (mūsų laikais sakytume – stalo) vyno, dvi statines seno sausų uogų vyno
-    ir dešimt statinių dviejų rūšių jauno vyno ir už viską sumokėjo 274 raudonuosius
-    auksinus. Dar 125 raudonuosius auksinus kainavo vyno atvežimas į Vilnių. Kitoje
-    tų pačių metų sąskaitoje matome šio didiko vyno pirkimus Gardine ir Vilniuje.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

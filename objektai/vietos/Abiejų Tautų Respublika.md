@@ -116,14 +116,7 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 16"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
-  citata_originali: |
-    Šiame kontekste kvietimas užsieniečius išgerti kartu, iš vienos
-    taurės gali būti traktuojamas kaip aukščiausio svetingumo išraiška – bendrystė, kaip
-    savotiška „priėmimo į šeimą“ apeiga. XVIII a. Abiejų Tautų Respubliką lankiusių
-    užsieniečių akimis toks gėrimas primena pagoniškus keltų ir germanų papročius
-    (Vautrin 1807: 210), yra svetingumo (Williamo Coxe’o nuomone) išraiška, o kai
-    kuriais atvejais (pasak Albert’o Jouvin de Rocheforto) – valgomųjų indų trūkumo
-    pasekmė (Dias-Lewandowska 2014: 166).
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

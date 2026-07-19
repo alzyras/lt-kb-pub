@@ -274,12 +274,7 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
   puslapiai: "PDF 4"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 4."
-  citata_originali: |
-    Amžininkas, žymusis memuaristas Martynas Matuševičius (Marcin Matuszewicz)
-    pasakojo apie jų artumą [65, 134–135]. Su Sapiegų gimine jis nenutraukė ryšių netgi tapęs
-    vyskupu. Absoliučios daugumos šio kanauninko laiškų dar nepavyko surasti, perskai-
-    tyti ir išnagrinėti, šis straipsnis tik supažindina su nedidele dalimi būsimojo hierarcho
-    epistoliarinio palikimo.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

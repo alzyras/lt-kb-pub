@@ -67,17 +67,7 @@ Nenurodyta
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 59 (PDF 2)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 59 (PDF 2)."
-  citata_originali: |
-    Kadangi drabužiai išreikšdavo žmogaus socialinį statusą, jie
-    būdavo reglamentuojami specialiais įstatais, tiesa, Lietuvoje ne to-
-    kiais smulkmeniškais, kaip kitose Vakarų Europos šalyse. 1613 m.
-    konstitucijoje Volumina legum nurodyta, kad šilkinius audinius ir
-    brangius kailius drabužiams arba pamušalams gali naudoti tik
-    magistrato nariai, o lapių ir kitus prastesnius kailius – ir paprasti
-    miestiečiai45. Pastariesiems būdavo draudžiama įsigyti ir brangių
-    tymo dirbinių, kaip nurodoma 1620 m. konstitucijoje, o 1629 m.
-    baudos visus metus nebetaikytos miestiečiams, sumokėjusiems
-    po vieną auksiną už save, artimuosius bei šeimynos narius46.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:31"
   teiginio_tipas: faktas

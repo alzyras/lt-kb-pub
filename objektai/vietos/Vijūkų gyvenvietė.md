@@ -39,10 +39,7 @@ Vijūkų gyvenvietės archyvai neišliko.
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 5"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
-  citata_originali: |
-    Tokie atsiranda Romainiuose, netoli Kauno, į rytus nuo Nemuno ir Nevėžio
-    santakos48.
-    Vijūkų archyvai neišliko. Bet Tiškevičių Raudondvario archyve yra Romainių dvaro archivalijos49.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
   teiginio_tipas: faktas

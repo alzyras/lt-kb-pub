@@ -54,13 +54,7 @@ Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė 
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 6"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 6."
-  citata_originali: |
-    Mišių liturgija bei Eucharistijos
-    Sakramentas, kurio katalikiškoje interpretacijoje dalijimosi duona ir vynu motyvai
-    yra labai ryškūs. II amžiuje kankinys šv. Justinas imperatoriui pagoniui Antoninui
-    Pijui (138–161) rašė:
-    [D]ieną, vadinamą Saulės diena, toje pačioje vietoje susirenka visi, gyvenantys miestuo-
-    se bei kaimuose.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

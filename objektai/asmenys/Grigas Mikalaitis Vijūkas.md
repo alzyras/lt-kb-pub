@@ -39,12 +39,7 @@ Zigmantas Kiaupa daro prielaidą, kad Grigas Mikalaitis Vijūkas buvo Jono Kojal
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 6"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
-  citata_originali: |
-    Pirštųsi išvada, kad Mikalojaus Jonaičio tėvas Jonas Vijūkas apie XVI a. vidurį vedė Andriaus ir
-    Motiejaus Kojalų tetą, gal Jono Kojalos seserį. Jos anūkas Grigas Mikalojaitis Vijūkas buvo Jono
-    Kojalavičiaus antros eilės pusbrolis. Jis turėjo sūnus Juozapą, Petrą, Jokūbą ir dukras Magdaleną ir
-    Agniešką57. Šie jau buvo Alberto Kojalavičiaus kartos trečios eilės pusbroliai ir pusseserės. Šios kartos
-    Kojalavičių ir Vijūkų giminystė buvo tikrai tolima.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
   teiginio_tipas: faktas

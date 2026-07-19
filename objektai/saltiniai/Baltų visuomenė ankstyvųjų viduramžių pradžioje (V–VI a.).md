@@ -57,9 +57,7 @@ Eugenijaus Jovaišos straipsnis „Baltų visuomenė ankstyvųjų viduramžių p
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 18"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 18."
-  citata_originali: |
-    Jovaiša Eugenijus 2006. „Baltų visuomenė ankstyvųjų viduramžių pradžioje (V–VI a.)“, Istorija: Lie-
-    tuvos aukštųjų mokyklų mokslo darbai, iss. 64, p. 5–16.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

@@ -61,14 +61,7 @@ Nenurodyta
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 63 (PDF 6)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 63 (PDF 6)."
-  citata_originali: |
-    Vilniaus pirklio Grigaliaus Zakarevi-
-    čiaus testamente įrašyti dveji šermuonėlio kailio pamušalai, kurių
-    kiekvienas kainavęs po 17 kapų grašių98.
-    Kaip ir kitose šalyse, Lietuvoje paklausūs buvo sabalų kai-
-    liai, neretai įteikiami svetimšaliams kaip itin vertingos dovanos.
-    Dėl brangumo jie dažnai naudoti tik apvadams ir ištaiginges-
-    nėms kepurėms.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
   teiginio_tipas: faktas

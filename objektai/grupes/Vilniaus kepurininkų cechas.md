@@ -46,15 +46,7 @@ Vilniaus kepurininkų cechas turėjo teisę gaminius parduoti pirkliams ir indiv
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 61 (PDF 4)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 61 (PDF 4)."
-  citata_originali: |
-    Drausta prekiauti slapta arba
-    nešioti gaminius per namus, bet leista pardavinėti juos dirbtu-
-    vėse ir turguje. O štai kepurininkų cechas turėjo teisę gaminius
-    pardavinėti pirkliams, taip pat individualiems klientams turguje,
-    privačiai, namie ir pro langą, tačiau šia teise naudodavosi tik
-    meistrai72. Kailiadirbių cecho amatininkai, įsiregistravę pirklių
-    sąraše, galėdavo prekiauti įvairių rūšių kailiais ne tik parduotu-
-    vėse bei turguje, bet ir gatvėse73.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
   teiginio_tipas: faktas

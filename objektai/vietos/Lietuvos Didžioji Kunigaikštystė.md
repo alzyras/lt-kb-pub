@@ -211,15 +211,7 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 15"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 15."
-  citata_originali: |
-    Kochajmy się) ir turinys galėtų perteikti gėrimo iš vienos tau-
-    rės jausmą bajoriškojoje kultūroje (Mickevičius 1974: 379–414), pagal aplinkybes
-    išreiškiantį daugybę kitų jausmų – nuo rūpesčio, broliškos meilės ir džiaugsmo iki
-    seksualumo ir pasileidimo (Dlugosz-Kurczabowa 2008: 306–307).
-    Kaip ir Vakarų Europoje, gėrimas iš vienos taurės buvo korporatyvinės bendrys-
-    tės aktas, tarp LDK bajorijos ne tik turėjęs pakartoti vakarietiškas prasmes, bet ir dėl
-    vietos specifikos įgyjęs savitų reikšmių. Šiuo požiūriu yra svarbūs korporatyvumo
-    skirtumai Vakarų Europos šalyse ir Lietuvoje.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

@@ -148,11 +148,7 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
   puslapiai: "PDF 11"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 11."
-  citata_originali: |
-    1760 jis rašė, kad Starodubo
-    pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61]. Tais
-    pačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega. Nors
-    didikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

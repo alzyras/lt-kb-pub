@@ -60,9 +60,7 @@ Liudo Glemžos straipsnis „Iš vyno Lietuvos Didžiojoje Kunigaikštystėje is
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 18"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 18."
-  citata_originali: |
-    Glemža Liudas 2011. „Iš vyno Lietuvos Didžiojoje Kunigaikštystėje istorijos“, Chronicon Palatii Mag­
-    norum Ducum Lithuaniae, vol. 1, p. 178–189.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

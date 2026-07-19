@@ -59,10 +59,7 @@ Nenurodyta
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 3"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 3."
-  citata_originali: |
-    Prie šio rašymo bus prisidėjęs ir Baltazaro pusbrolis Jonas Kojalavičius. Paskvilio
-    turinio, deja, nežinome, jis neišliko. Suolininkai, turėję jį, kaip daiktinį įrodymą, įrašyti į savo knygas,
-    nutarė to nedaryti, kad neįamžintų magistrato negarbės.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
   teiginio_tipas: faktas

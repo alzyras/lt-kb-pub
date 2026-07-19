@@ -869,12 +869,7 @@ media_all_json: |-
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 3"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
-  citata_originali: |
-    1738 m. Mykolo Kleopo pro-
-    senelis Marcijonas Mykolas Oginskis tiesiai iš Vengrijos pirko trylika statinių seno,
-    įprastinio (mūsų laikais sakytume – stalo) vyno, dvi statines seno sausų uogų vyno
-    ir dešimt statinių dviejų rūšių jauno vyno ir už viską sumokėjo 274 raudonuosius
-    auksinus. Dar 125 raudonuosius auksinus kainavo vyno atvežimas į Vilnių.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

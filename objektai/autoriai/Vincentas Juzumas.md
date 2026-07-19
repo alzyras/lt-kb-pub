@@ -69,14 +69,7 @@ Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavy
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
   puslapiai: "PDF 2"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 2."
-  citata_originali: |
-    Żemajtej wejziedamis ąnt įstejgtu par ij trobesiu, iłgaj dar minawos jo wardą [84, 88; 89,
-    173; 90, 260–261]. Vyskupą įvertino ir vėliau rašęs kitas Žemaičių vyskupijos istorikas
-    Vincentas Juzumas, teigęs, kad jis buvęs visapusiškai tinkantis vyras užimti tokioms
-    pareigoms, paliko pavyzdinio gyvenimo ir pagirtinos veiklos gražų atminimą [77, 108,
-    110]. Apie vėlesnę minėtojo dvasininko pastoracinę bei ūkinę-ekonominę veiklą yra ži-
-    noma daugiau, apie tai rašyta, tačiau domintų ir ankstyvesnis šio dvasininko gyvenimo
-    etapas – tarnystės Vilniuje kapituloje metai.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

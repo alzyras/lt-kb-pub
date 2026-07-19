@@ -62,9 +62,7 @@ Rūta Čapaitė 2003 m. paskelbė straipsnį apie Lietuvos didžiojo kunigaikš�
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 18"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 18."
-  citata_originali: |
-    Čapaitė Rūta 2003. “The Everyday Life of Grand Duke Vytautas of Lithuania According to Contem-
-    porary Correspondence”, Lithuanian Historical Studies, vol. 8, p. 1–26.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

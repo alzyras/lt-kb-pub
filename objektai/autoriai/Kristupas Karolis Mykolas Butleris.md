@@ -62,25 +62,7 @@ Kristupo Karolio Mykolo Butlerio dienoraštis buvo išsamesnis: įrašai jame da
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 18"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 18."
-  citata_originali: |
-    Lyginant tris šių dviejų bajorų dienoraščius, vis dėlto matyti, kad
-    K. K. Butlerio dienoraštis išsamesnis (pvz., jis darė įrašus daug daž­
-    niau, maždaug po 24-25 kartus per mėnesį), juose daugiau visuomeni­
-    nės informacijos. Bet J. L. Oziębłowskio dienoraščiai, ypač 1696 m.,
-    kiek intymesni, juose daugiau buities detalių, šis autorius daug die­
-    vobaimingesnis, nors ir K. K. Butleris nevengia minėti Dievo vardo,
-    prašydamas ar dėkodamas už pagalbą.
-    Jei palyginsime abu 1694 m. dienoraščius, tai neabejotinai
-    K.K. Butlerio įrašai daug informatyvesni ir rodo, kad jis buvo jei ne
-    žymesnis, tai bent jau veiklesnis to meto žmogus. Vien tik palyginus tų
-    metų vasaros įrašus, kai Vilniuje vyko Tribunolo sesija, matyti, kad
-    J. L. Oziębłowskis tik pamini, jog jis liepos 17-25 d. buvo Vilniuje ir
-    rugpjūčio 28 d. nurodo, kad Tribunolo sesija baigėsi, o lapkričio pra­
-    džioje nedalyvavo pavieto seimelyje. Tuo tarpu K. K. Butleris, kaip jau
-    minėta, čia išbuvo nuo birželio 11 iki rugpjūčio 18 d. ir gan smulkiai
-    aprašė, su kuo vos ne kasdien susitikinėjo, deja, nenurodydamas, kas
-    buvo svarstoma, taip pat mini, kad gruodžio pradžioje Daugpilyje da­
-    lyvavo Livonijos pavieto seimelyje.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:11"
   teiginio_tipas: faktas

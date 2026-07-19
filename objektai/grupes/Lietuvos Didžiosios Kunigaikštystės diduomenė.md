@@ -54,13 +54,7 @@ Rimvydas Laužikas LDK diduomenės kultūrą sieja su ikikrikščioniškos Lietu
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 17"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 17."
-  citata_originali: |
-    Lietuvoje randa vieną iš savo esminių
-    elementų – Šiaurės barbarikumo kultūrą tebefunkcionuojančią gyvu pavidalu. Kita
-    vertus, ikikrikščioniškosios Lietuvos kultūros aplinkoje išugdyta LDK diduomenė
-    vakarietiškoje krikščioniškojoje kultūroje lengvai atpažįsta savo prigimtinės kultū-
-    ros elementus.
-    4.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

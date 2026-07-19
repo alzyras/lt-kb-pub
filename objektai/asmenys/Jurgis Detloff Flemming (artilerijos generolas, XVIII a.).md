@@ -156,11 +156,7 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
   puslapiai: "PDF 9"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 9."
-  citata_originali: |
-    Pvz., 1740 m. laiške
-    broliui J. D. Lopacinskis minėjo, esą jų rezidencijoje buvo apsistojusi artilerijos generolo
-    Jurgio Flemingo (Jerzy Fleming) sutuoktinė Antanina. Jos vyras persikraustė į salę (didįjį
-    kambarį?) [4].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

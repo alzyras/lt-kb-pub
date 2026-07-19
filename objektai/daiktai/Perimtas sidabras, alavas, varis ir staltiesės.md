@@ -72,11 +72,7 @@ Nenurodyta
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
   puslapiai: "PDF 7"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 7."
-  citata_originali: |
-    Laiškuose buvo pasakojama ir apie turto perėmimą. Po Vilniaus vyskupo koadju-
-    toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
-    Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
-    sininko registrą bei kitus daiktus iš bernardinų.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

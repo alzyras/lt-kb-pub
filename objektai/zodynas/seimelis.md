@@ -156,22 +156,7 @@ media_all_json: |-
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 5."
-  citata_originali: |
-    Iš politinių institucijų bene dažniausiai kanauninko bei bajorų pasauliečių susiraši-
-    nėjimuose būdavo minimi Vilniaus, taip pat sostinėje vykdavę Smolensko ir Starodubo,
-    seimeliai. 1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
-    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
-    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
-    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
-    Karolis Piotrovskis (Karol Piotrowski) [9].
-  citata_rodoma: |
-    Iš politinių institucijų bene dažniausiai kanauninko bei bajorų pasauliečių susiraši-
-    nėjimuose būdavo minimi Vilniaus, taip pat sostinėje vykdavę Smolensko ir Starodubo,
-    seimeliai. 1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
-    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
-    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
-    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
-    Karolis Piotrovskis (Karol Piotrowski) [9].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 10:04"
   teiginio_tipas: faktas
@@ -280,14 +265,7 @@ media_all_json: |-
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 5."
-  citata_originali: |
-    1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
-    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
-    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
-    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
-    Karolis Piotrovskis (Karol Piotrowski) [9]. 1752 m. J. D. Lopacinskis minėjo, kad atvyks
-    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
-    per seimelį dėl brolio interesų.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

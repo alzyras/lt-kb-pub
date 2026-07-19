@@ -50,9 +50,7 @@ Pas valstietį Byką Ažėnuose buvo vestuvės.
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 17"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 17."
-  citata_originali: |
-    Siemenovičius. Pas valstietį Byką Ažėnuose
-    buvo vestuvės. Vyresnysis sūnus vedė.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
   teiginio_tipas: faktas

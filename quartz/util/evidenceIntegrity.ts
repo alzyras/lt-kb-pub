@@ -39,6 +39,13 @@ function citationText(entry: EvidenceEntry): string {
     .join("\n")
 }
 
+function isIndexOnlyCitation(entry: EvidenceEntry): boolean {
+  return (
+    entry.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
+    Boolean(entry.fields.get("indeksas")?.trim())
+  )
+}
+
 export function evidenceCitationQuote(entry: EvidenceEntry): string {
   return (
     entry.fields.get("citata_rodoma")?.trim() ||
@@ -269,7 +276,7 @@ export function collectEvidenceIntegrityIssues(markdown: string): EvidenceIntegr
   }
 
   for (const citation of citations) {
-    if (!citationText(citation)) {
+    if (!citationText(citation) && !isIndexOnlyCitation(citation)) {
       issues.push({
         code: "empty_citation_text",
         severity: "error",
@@ -326,7 +333,7 @@ export function collectEvidenceIntegrityIssues(markdown: string): EvidenceIntegr
         })
       }
 
-      if (overlapScore(claim, citation, contextText) === 0) {
+      if (!isIndexOnlyCitation(citation) && overlapScore(claim, citation, contextText) === 0) {
         issues.push({
           code: "citation_text_mismatch",
           severity: "warning",

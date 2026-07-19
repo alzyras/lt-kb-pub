@@ -55,9 +55,7 @@ Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė st
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 18"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 18."
-  citata_originali: |
-    Brennan Thomas 1989. “Towards the Cultural History of Alcohol in France”, Journal of Social History,
-    vol. 23, No. 1, p. 71–92.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

@@ -260,14 +260,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 2"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 2."
-  citata_originali: |
-    „Kumelių pieno“
-    vartojimo atveju problema yra tai, kad šis gėrimas iš esmės nėra alkoholinis, be to,
-    jo savikaina mažesnė nei midaus. Greičiausiai dokumentuose kalbama apie kitokį,
-    Vakarų Europoje (net viduramžių Lenkijoje) nežinomą alkoholinį gėrimą, kuris
-    užsienio keliautojams buvo panašus į pieną. Galime spėti, kad „kumelių pienas“ iš
-    tikrųjų galėjęs būti „pagerintas“ – pienu ar grietinėle skiestas – baltasis midus, kurio
-    receptų Lietuvoje žinota dar XVIII amžiuje.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas
@@ -281,15 +274,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 15"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 15."
-  citata_originali: |
-    Kochajmy się) ir turinys galėtų perteikti gėrimo iš vienos tau-
-    rės jausmą bajoriškojoje kultūroje (Mickevičius 1974: 379–414), pagal aplinkybes
-    išreiškiantį daugybę kitų jausmų – nuo rūpesčio, broliškos meilės ir džiaugsmo iki
-    seksualumo ir pasileidimo (Dlugosz-Kurczabowa 2008: 306–307).
-    Kaip ir Vakarų Europoje, gėrimas iš vienos taurės buvo korporatyvinės bendrys-
-    tės aktas, tarp LDK bajorijos ne tik turėjęs pakartoti vakarietiškas prasmes, bet ir dėl
-    vietos specifikos įgyjęs savitų reikšmių. Šiuo požiūriu yra svarbūs korporatyvumo
-    skirtumai Vakarų Europos šalyse ir Lietuvoje.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

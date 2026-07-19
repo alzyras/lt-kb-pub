@@ -64,15 +64,7 @@ Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respu
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 14"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 14."
-  citata_originali: |
-    Pirmąjį gėrimo būdą fik-
-    suoja Hubertas Vautrinas (1742–1822), apie 1770 metus keliavęs po Abiejų Tautų
-    Respubliką. Savo knygoje jis rašė apie vengriško vyno gėrimą iš vienos taurės,
-    kai kiekvienas gėrikas neturi ištuštinti taurės, o tik gurkštelėti iš jos, t. y „lūpomis
-    paliesti gėrimą, kuriame jau buvo išmirkyta kone dešimt ūsų“ (Vautrin 1807: 210).
-    H. Vautrinui pritarė J. Kitowiczius, sakydamas, kad „iš vienos taurės ar stiklinėlės
-    gėrė vienas po kito, nesibjaurėdami gėrimo lašais, kurie nuo vienų ūsų krisdavo į
-    taurę, ją perduodant kitam“ (Kitowicz 1840: 255).
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas

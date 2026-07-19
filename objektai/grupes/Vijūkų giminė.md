@@ -53,12 +53,7 @@ Vijūkų giminė nuolat minima nuo 1580 m.; jos nariai Romainių Vijūkų lauke 
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 6"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
-  citata_originali: |
-    Nuolat Vijūkai minimi nuo 1580 m. Jie gyyeno Romainių Vijūkų lauke, pirkdavo ar parduodavo
-    nedaug žemės – pusę valako, valaką, dirvą 2–3 statinėms rugių užsėti ir panašiai, sudarinėjo kitokius
-    sandorius, buvo kitų bajorų liudininkai. Jie buvo neabejotini bajorai, vadinami bajorowie (1558 m.),
-    ziemiane JKM powiatu kowieńskiego52. Bet neteko aptikti minint jų valdinių ar šių žemių, nė vienas iš
-    jų, kaip atrodo, nesuformavo didesnės žemės valdos.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
   teiginio_tipas: faktas
@@ -71,12 +66,7 @@ Vijūkų giminė nuolat minima nuo 1580 m.; jos nariai Romainių Vijūkų lauke 
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 6"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
-  citata_originali: |
-    Pirštųsi išvada, kad Mikalojaus Jonaičio tėvas Jonas Vijūkas apie XVI a. vidurį vedė Andriaus ir
-    Motiejaus Kojalų tetą, gal Jono Kojalos seserį. Jos anūkas Grigas Mikalojaitis Vijūkas buvo Jono
-    Kojalavičiaus antros eilės pusbrolis. Jis turėjo sūnus Juozapą, Petrą, Jokūbą ir dukras Magdaleną ir
-    Agniešką57. Šie jau buvo Alberto Kojalavičiaus kartos trečios eilės pusbroliai ir pusseserės. Šios kartos
-    Kojalavičių ir Vijūkų giminystė buvo tikrai tolima.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
   teiginio_tipas: faktas

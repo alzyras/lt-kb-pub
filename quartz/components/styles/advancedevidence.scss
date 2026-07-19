@@ -339,6 +339,23 @@ article table.advanced-claims-table {
   text-transform: uppercase;
 }
 
+.claim-citation-index-label {
+  margin: 0.75rem 0 0.2rem;
+  color: var(--gray);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.claim-citation-index {
+  margin: 0.35rem 0 0;
+  color: var(--darkgray);
+  font-family: var(--bodyFont);
+  font-size: 0.95rem;
+  font-weight: 650;
+}
+
 .citation-evidence-store {
   display: none !important;
 }

@@ -44,11 +44,7 @@ Brigitos Kojalavičienės laidotuvės kainavo 69 auksinus ir 20 grašių.
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 5"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
-  citata_originali: |
-    Iš viso tam
-    išėję 1050 auksinų. Be to, 467 auksinus savo reikalams buvo gavęs vyresnysis brolis Albertas, Dar
-    turėta išlaidų namų išlaikymui, Brigitos Kojalavičienės laidotuvės kainavusios 69 auksinus ir 20 grašių.
-    Iš viso globėjas turėjęs išlaidų 2411 auksinų ir 1372 grašių.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
   teiginio_tipas: faktas
