@@ -49,7 +49,7 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
     - c-83824
 
 <a id="claim-t-201026"></a>
-- t-004
+- t-002
   global_id: t-201026
   teiginys: "Tas tėra 'žinoma, jog, nustipus Gostomyslui, gudai užteikė variagus, arba rusus, į savo žemę, kurių trys broliai, vardu Riurikas, Sineus ir Truvoras, metuose 862 atkeliavę su talka ir savo tarnais į Gudus, pradėjo viešpatau ti, Riurikas, tai yra Rusnio rykys."
   atnaujinta: "2026-07-16 14:31"
@@ -60,28 +60,6 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184376
-
-<a id="claim-t-190965"></a>
-- t-002
-  global_id: t-190965
-  teiginys: 'Narbutas rašo, kad dauguma mokslininkų neigia slavų rusų egzistavimą iki Riuriko.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Riuriko chronologinį vaidmenį Narbuto aptariamoje mokslininkų pozicijoje. Nepridėtos kitos citatos temos apie budinus, Masochą ar Tovelą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Maskva; mentioned_place: Tobolskas'
-  pagrindžia:
-    - c-173847
-
-<a id="claim-t-201026"></a>
-- t-003
-  global_id: t-201026
-  teiginys: 'Tas tėra ''žinoma, jog, nustipus Gostomyslui, gudai užteikė variagus, arba rusus, į savo žemę, kurių trys broliai, vardu Riurikas, Sineus ir Truvoras, metuose 862 atkeliavę su talka ir savo tarnais į Gudus, pradėjo viešpatau ti, Riurikas, tai yra Rusnio rykys.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-003
 - susijęs iš [[objektai/asmenys/Rogvoldas Borisovičius.md#claim-t-87846|Rogvoldas Borisovičius]]: Rogvoldas Borisovičius buvo Polocko Riuriko giminės kunigaikščio Rostislavo tėvas.
 - susijęs iš [[objektai/autoriai/Petras Olai.md#claim-t-88039|Petras Olai]]: Petras Olai „Danų kronikoje“ aprašė įvykį, siejamą su Riuriko variagų kelione į Rusiją ir Palemono draugų atvykimu į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.).md#claim-t-184340|Mongolų (totorių) invazija (1237-1240 m.)]]: Mongolų invazija 1237-1240 m. smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu.

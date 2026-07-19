@@ -64,18 +64,6 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   pagrindžia:
     - c-174500
 
-<a id="claim-t-191619"></a>
-- t-003
-  global_id: t-191619
-  teiginys: 'Narbutas mini Radlofo nuomonę, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Radlofo nuomonę Narbuto pasakojime. Hipotetinė planetos nuolaužų idėja aiškiai atribuuota.'
-  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Pisanskis|Pisanskis]]; mentioned_place: Baltija; mentioned_place: Baltijos jūra; mentioned_place: Vargiai'
-  pagrindžia:
-    - c-174501
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašė, kad Cigno mito turinys sutampa su Radlofo požiūriu ir iš padavimų pateko į graikų poetų kūrinius.'

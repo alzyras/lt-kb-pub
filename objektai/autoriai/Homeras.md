@@ -31,7 +31,7 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
 ## Teiginiai
 
 <a id="claim-t-190353"></a>
-- t-002
+- t-001
   global_id: t-190353
   teiginys: "Narbutas, remdamasis Heine, Homero eilėse matė tiesioginį žmogėdrystės vaizdavimą, siejamą su Trojos karo laikų graikais."
   atnaujinta: "2026-07-12 22:33"
@@ -77,30 +77,6 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173607
-
-<a id="claim-t-190352"></a>
-- t-001
-  global_id: t-190352
-  teiginys: 'Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą apie geresnio patarimo radimą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys suformuluotas apie Homero teksto naudojimą Narbuto tome, nes citata yra epigrafo fragmentas. Pavadinimo ir autorystės vartosena palikta su Narbuto atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvių mitologija|Lietuvių mitologija]]; mentioned_object: [[objektai/zodynas/Pramžimas|Pramžimas]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
-  pagrindžia:
-    - c-173235
-
-<a id="claim-t-190724"></a>
-- t-003
-  global_id: t-190724
-  teiginys: 'Homero kūriniuose Okeanas vadinamas upe, skalaujančia pasaulį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Homero kūriniuose aptinkamą Okeano vaizdinį. Nepridėta Narbuto interpretacija apie Baltijos jūros tapatinimą su Eridanu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Baltija; mentioned_place: Baltijos jūra; mentioned_place: Eridanas'
-  pagrindžia:
-    - c-173606
 - susijęs iš [[objektai/autoriai/Heinė.md#claim-t-190425|Heinė (poetas)]]: Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo graikams Trojos karo metu žinomą žmogėdrystę.
 - susijęs iš [[objektai/paprociai/Milžinkapių ir pilkapių pylimas žymiems mirusiesiems.md#claim-t-189891|Milžinkapių ir pilkapių pylimas žymiems mirusiesiems]]: Narbutas pilkapių pylimą ant žymių žmonių pelenų sieja su daugeliui antikinių tautų pažįstamu milžinkapių pylimo papročiu.
 ## Reikšmingi paminėjimai

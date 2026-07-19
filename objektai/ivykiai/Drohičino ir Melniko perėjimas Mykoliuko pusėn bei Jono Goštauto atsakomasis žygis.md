@@ -85,38 +85,6 @@ Nenurodyta
   pagrindžia:
     - c-169902
 
-<a id="claim-t-186624"></a>
-- t-001
-  global_id: t-186624
-  teiginys: 'Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Pašalintas perteklinis LDK kartojimas ir išlaikyta šaltinio atribucija.'
-  susije_objektai: 'llm_object: Mazovija; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius'
-  pagrindžia:
-    - c-169903
-
-<a id="claim-t-186626"></a>
-- t-003
-  global_id: t-186626
-  teiginys: 'Lietuvos metraštis pasakoja, kad Kazimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai pasiuntė Joną Goštautą su kariuomene.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Patikslintas Ponų Tarybos pavadinimas ir išlaikyta šaltinio atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius; llm_object: [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Ponų taryba|Ponų taryba]] siuntė į [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]'
-  pagrindžia:
-    - c-169903
-
-<a id="claim-t-186627"></a>
-- t-004
-  global_id: t-186627
-  teiginys: 'Lietuvos metraštis pasakoja, kad Jonas Goštautas didžiojo kunigaikščio įsakymu ginklo jėga sugrąžino miestus Didžiajai Kunigaikštystei.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Išplėstas veikėjo vardas ir atribuuotas konfliktinis kronikos teiginys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius; llm_object: Vilnius; llm_object: [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Goštautas|Goštautas]] užėmė [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]'
-  pagrindžia:
-    - c-169903
-
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

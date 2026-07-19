@@ -86,7 +86,7 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
     - c-179190
 
 <a id="claim-t-197814"></a>
-- t-005
+- t-004
   global_id: t-197814
   teiginys: "Simonas Laurinavičius atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t."
   atnaujinta: "2026-07-12 22:34"
@@ -97,16 +97,6 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179351
-
-<a id="claim-t-197814"></a>
-- t-004
-  global_id: t-197814
-  teiginys: 'Simonas Laurinavičius atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą''on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-004
 
 ## Citatos
 

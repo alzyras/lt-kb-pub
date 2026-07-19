@@ -597,8 +597,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 - susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
 - susijęs iš Palanga: Pasak Lietuvos metraščio, Palangoje Prūsijos ir Livonijos vokiečiai telkė kariuomenę prieš žemaičius, bet žemaičiai ją nuo kopų sumušė akmenimis.
 - susijęs iš Poznanė: Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises.
-- susijęs iš Prūsai: Prūsai vokiečiams priešinosi puldami ir degindami ordino pilis bei vokiečių kolonistų sodybas.
-- susijęs iš Prūsai: Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų.
 - susijęs iš Racionžas: 1404 m. Racionže buvo sudaryta nauja taika su Vokiečių ordinu.
 - susijęs iš Rytų Prūsija: Erazmas Stela veikale „Apie Prūsijos senienas“ įrodinėjo, kad vokiečiai buvo seniausi Rytų Prūsijos gyventojai.
 - susijęs iš Semba: Narbutas vaizdavo turtingą Sembą kaip vokiečių godumą skatinusią provinciją, kurios užkariavimo bandymai nepavyko.
@@ -1447,7 +1445,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 - susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų.
 - susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
 - susijęs iš Prilvicas: Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir laikė Retrą pirmykščiu herulų miestu.
-- susijęs iš Prūsai: Ordinas visą nukariautą kraštą vadino Prūsais pagal vakarines aisčių gimines, pirmąsias jo pavergtas.
 - susijęs iš Prūsija: 1394 m. Prūsijos ordinas pasinaudojo proga pradėti karą ir niokoti Lietuvą.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.

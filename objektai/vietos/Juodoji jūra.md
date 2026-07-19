@@ -254,6 +254,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
         Nuo to regimai Lietuvos ūkė pradėjo irti; lig šiol totoriai, talkininkai ir tarnai lietuvių, nugis atstoję nuo jų, pasidavė turkams ir pradėjo pačius lietuvius kariauti, užgulė Uksinę jūrą įr Dunojų, arba Istrupį.
   citata_rodoma: "užgulė Uksinę jūrą įr Dunojų,\narba Istrupį."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

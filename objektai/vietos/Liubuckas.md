@@ -8,13 +8,13 @@ datos:
   - '1494 m.'
 date_start: '1408'
 date_end: '1494'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -78,15 +78,6 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
   temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas sakinys apie Liubucko lokalizaciją. Jis remiasi aiškinamąja pastaba ir neprideda vertinimų ar metraščio interpretacijų."
   pagrindžia:
     - c-170312
-
-<a id="claim-t-187255"></a>
-- t-002
-  global_id: t-187255
-  teiginys: 'Pagal 1494.II.5 sutarties rezultatą Liubuckas paliko LDK.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Chlepenis; mentioned_place: Kijevas; mentioned_place: Maskva'
-  pagrindžia:
-    - c-170313
 
 ## Reikšmingi paminėjimai
 - c-001

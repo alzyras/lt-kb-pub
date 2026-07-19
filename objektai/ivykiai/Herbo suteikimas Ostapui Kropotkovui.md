@@ -8,14 +8,14 @@ datos:
   - '1451 m.'
 date_start: '1354'
 date_end: '1451'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
-amziai:
-  - 'XIV'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -95,7 +95,7 @@ Nenurodyta
     - c-174910
 
 <a id="claim-t-197535"></a>
-- t-004
+- t-003
   global_id: t-197535
   teiginys: "Mūsų piešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian skio šil'ruotė), tačiau negalime tiksliai pasakyti, kam jis buvo skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir herbo."
   atnaujinta: "2026-07-12 22:33"
@@ -107,15 +107,8 @@ Nenurodyta
   pagrindžia:
     - c-179235
 
-<a id="claim-t-192037"></a>
-- t-003
-  global_id: t-192037
-  teiginys: 'Mūsų piešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian skio šil''ruotė), tačiau negalime tiksliai pasakyti, kam jis buvo skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir herbo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-002
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 

@@ -7,14 +7,14 @@ datos:
   - '1749 m.'
 date_start: '1749'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200481"></a>
-- t-001
+- t-002
   global_id: t-200481
   teiginys: "Domininkas Burba nurodo, kad 1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša."
   atnaujinta: "2026-07-14 13:22"
@@ -57,6 +57,19 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-14T10:22:35Z"
   pagrindžia:
     - c-183851
+
+<a id="claim-t-200481"></a>
+- t-001
+  global_id: t-200481
+  teiginys: '1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sutrumpinta perteklinė atribucija ir palikta citatoje matoma alternatyva. Nepridėta sprendimo, kuris asmuo pareigas tikrai ėjo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozapas Anupras Kulieša (Smolensko pateisėjas, 1750 m.)|Juozapas Anupras Kulieša (Smolensko pateisėjas, 1750 m.)]]; mentioned_person: [[objektai/asmenys/Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)|Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)]]; mentioned_person: [[objektai/asmenys/Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.)|Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.)]]; mentioned_person: [[objektai/asmenys/Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.)|Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.)]]; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1749 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpinta perteklinė atribucija ir palikta citatoje matoma alternatyva. Nepridėta sprendimo, kuris asmuo pareigas tikrai ėjo.'
+  pagrindžia:
+    - c-001
 - susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200650|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis.
 - susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200652|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, o žemės raštininku Karolis Piotrovskis.
 - susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200650|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis.

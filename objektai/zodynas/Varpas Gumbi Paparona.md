@@ -44,7 +44,7 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
     - c-177088
 
 <a id="claim-t-197378"></a>
-- t-003
+- t-001
   global_id: t-197378
   teiginys: "Kitaip vadinosi Varputis (Warputis)."
   atnaujinta: "2026-07-12 22:32"
@@ -55,18 +55,6 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179156
-
-<a id="claim-t-189257"></a>
-- t-001
-  global_id: t-189257
-  teiginys: 'Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimiečių kariškiui sargyboje apibūdinti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'OCR nutrūkiai pašalinti, teiginys sutrauktas į žodžio kilmės ir vartosenos aiškinimą. Kilmės teorija palikta su Narbuto atribucija.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Viena'
-  pagrindžia:
-    - c-172145
 
 ## Reikšmingi paminėjimai
 - c-001

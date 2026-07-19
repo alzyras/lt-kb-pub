@@ -64,16 +64,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172570
-
-<a id="claim-t-194616"></a>
-- t-002
-  global_id: t-194616
-  teiginys: 'Alabatis (Alabatís) Pasak Lasickio tyrimų, šios deivės buvo šaukiamasi dir bant linininkystės darbus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177015
 - susijęs iš [[objektai/zodynas/Alabatis.md#claim-t-189272|Alabatis]]: Narbutas, remdamasis Lasickiu, Alabatį apibūdina kaip deivę, kurios šauktasi dirbant linininkystės darbus.
 ## Reikšmingi paminėjimai
 - c-001

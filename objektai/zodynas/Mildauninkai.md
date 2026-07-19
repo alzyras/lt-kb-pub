@@ -64,16 +64,6 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   pagrindžia:
     - c-172156
 
-<a id="claim-t-194688"></a>
-- t-003
-  global_id: t-194688
-  teiginys: 'Mildauninkai turėjo vaistų, žadinančių ir slopinančių meilę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177085
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti kaip „mildauninkas“ ir iš jo padaryti deivės Mildos vardą.'

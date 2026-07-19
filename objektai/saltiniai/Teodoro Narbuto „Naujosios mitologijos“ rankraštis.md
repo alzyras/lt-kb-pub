@@ -7,13 +7,13 @@ datos:
   - '1836 m.'
 date_start: '1836'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rankraštis
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,21 +55,6 @@ Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė a
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173409
-
-<a id="claim-t-190525"></a>
-- t-001
-  global_id: t-190525
-  teiginys: 'Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė akivaizdžiu įrodymu, kad lietuviai turėjo stabus.'
-  teiginio_tipas: 'saltinio_teiginys'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Vertinamasis ir mitologinis įrodymo teiginys priskirtas Narbutui. Pašalintas iliustracijos antraštės triukšmas, nepridėta radimo aplinkybių iš kitos citatos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]'
-  temporaliniai_duomenys: 'įvykio data: 1836 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Vertinamasis ir mitologinis įrodymo teiginys priskirtas Narbutui. Pašalintas iliustracijos antraštės triukšmas, nepridėta radimo aplinkybių iš kitos citatos.'
-  pagrindžia:
-    - c-173408
 
 ## Reikšmingi paminėjimai
 - c-001

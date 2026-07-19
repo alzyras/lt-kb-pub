@@ -191,6 +191,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
         žiemą vilnonus, vasarą marškonus dėvėjo.
   citata_rodoma: "tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele\nsusegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;\nžiemą vilnonus, vasarą marškonus dėvėjo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

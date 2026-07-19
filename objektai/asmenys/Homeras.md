@@ -43,18 +43,6 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
   pagrindžia:
     - c-174161
 
-<a id="claim-t-191278"></a>
-- t-001
-  global_id: t-191278
-  teiginys: 'Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujančia upe.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Homero kūriniuose vartojamą Okeano vaizdinį. Narbuto nurodymas paliktas kaip šaltinio interpretacijos atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Baltija; mentioned_place: Baltijos jūra; mentioned_place: Eridanas'
-  pagrindžia:
-    - c-174160
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujančia upe.'

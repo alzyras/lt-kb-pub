@@ -184,6 +184,7 @@ media_all_json: |-
         buvusius; bet metuose 1700 išvertė ją žuvėdai^805 , tardami tenai girios vidury paslėptus lobius
   citata_rodoma: "bet metuose 1700 išvertė ją žuvėdai^805 , tardami tenai girios vidury paslėptus lobius"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -12,13 +12,13 @@ datos:
   - '1922 m.'
 date_start: '1801'
 date_end: '1922'
-amziai:
-  - 'XIX'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-31874"></a>
-- t-001
+- t-002
   global_id: t-31874
   teiginys: "„Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''no“ išleistas Maskvoje 1910 m., o antrasis leidimas pasirodė 1915 m."
   atnaujinta: "2026-07-10 10:39"
@@ -58,6 +58,16 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33680
+
+<a id="claim-t-31874"></a>
+- t-001
+  global_id: t-31874
+  teiginys: '„Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''''no“ išleistas Maskvoje 1910 m., o antrasis leidimas pasirodė 1915 m.'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Liublinas'
+  temporaliniai_duomenys: 'įvykio data: 1910 m.; įvykio data: 1915 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  pagrindžia:
+    - c-001
 
 ## Citatos
 

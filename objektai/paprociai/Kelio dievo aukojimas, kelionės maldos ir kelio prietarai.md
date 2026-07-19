@@ -66,7 +66,7 @@ Nenurodyta
     - c-172658
 
 <a id="claim-t-189777"></a>
-- t-003
+- t-002
   global_id: t-189777
   teiginys: "Narbutas rašė, kad ant kelio dievui skirtų akmenų nebuvo sėdamasi prieš tai nesukalbėjus maldelės ar mitinės formulės."
   atnaujinta: "2026-07-12 22:33"
@@ -101,7 +101,7 @@ Nenurodyta
     - c-172661
 
 <a id="claim-t-189779"></a>
-- t-005
+- t-003
   global_id: t-189779
   teiginys: "Narbutas lygino lietuvių kelionės prietarus su senovės romėnų prietarais ir Kelio dievaitį siejo su Romos Lar vialis."
   atnaujinta: "2026-07-12 22:33"
@@ -122,7 +122,7 @@ Nenurodyta
     - c-172662
 
 <a id="claim-t-197256"></a>
-- t-006
+- t-005
   global_id: t-197256
   teiginys: "O dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne būtų priskirta nelaimingam jo perėjimui per kelią."
   atnaujinta: "2026-07-12 22:32"
@@ -133,17 +133,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172658
-
-<a id="claim-t-189776"></a>
-- t-002
-  global_id: t-189776
-  teiginys: 'Narbutas rašė, kad prie kelio gulintys akmenys vadinti Kelio dievo užkeikimo akmenimis ir laikyti paskirtais kelių dievui.'
-  teiginio_tipas: 'saltinio_teiginys'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Akmenų pavadinimas ir religinė paskirtis suformuluoti kaip Narbuto pateiktas aiškinimas. Paliktas tik citatos palaikomas vardas ir paskirtis.'
-  pagrindžia:
-    - c-172659
 
 ## Reikšmingi paminėjimai
 - c-002

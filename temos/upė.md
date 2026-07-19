@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 251
+tema_objektu_skaicius: 252
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 251.
+Objektų skaičius: 252.
 
 ## Kaip naudoti
 
@@ -30,6 +30,7 @@ Objektų skaičius: 251.
 - [[objektai/asmenys/Nodamas]]
 
 ### Grupės
+- [[objektai/grupes/Galindai]]
 - [[objektai/grupes/Kuršiai]]
 
 ### Vietos
@@ -54,7 +55,7 @@ Objektų skaičius: 251.
 - [[objektai/vietos/Belvederis]]
 - [[objektai/vietos/Belčica]]
 - [[objektai/vietos/Berezina]]
-- [[objektai/vietos/Bobro upė]]
+- [Bobro upė](../objektai/vietos/Bobro%20up%C4%97)
 - [Būgas](../objektai/vietos/B%C5%ABgas)
 - [Ceklis](../objektai/vietos/Ceklis)
 - [Cepra](../objektai/vietos/Cepra)

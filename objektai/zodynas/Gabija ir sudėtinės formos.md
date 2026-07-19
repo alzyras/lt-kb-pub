@@ -50,17 +50,6 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
   pagrindžia:
     - c-172036
 
-<a id="claim-t-189149"></a>
-- t-002
-  global_id: t-189149
-  teiginys: 'Narbutas Gabiją sieja su ugnies elementą valdančiu Santvaru ir spėja, kad sudėtinės Gabijos formos buvo giminingos lietuvių Apolonui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys sutvarkytas apie Gabiją ir sudėtines jos formas, išskleidžiant Santvaro kontekstą. Interpretacinė giminystė su lietuvių Apolonu palikta su Narbuto atribucija.'
-  pagrindžia:
-    - c-172037
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenantį židinį.'

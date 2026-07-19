@@ -7,13 +7,13 @@ datos:
   - '1827 m.'
 date_start: '1827'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - frazė
   - posakis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,18 +55,6 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172438
-
-<a id="claim-t-189549"></a>
-- t-001
-  global_id: t-189549
-  teiginys: 'Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popiežių“ kėlė abejones dėl vyriausiojo žynio egzistavimo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pavadinimo ir istoriografinės pozicijos vartosena palikta su Narbuto atribucija. Pašalintas vertinamasis intarpas apie Lėrbergo nuopelnus.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lėrbergas|Lėrbergas]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
-  pagrindžia:
-    - c-172437
 
 ## Reikšmingi paminėjimai
 - c-001

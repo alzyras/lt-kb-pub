@@ -5968,7 +5968,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 - susijęs iš Oliva: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.
 - susijęs iš Pamaris: Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną.
 - susijęs iš Podolė: Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kryžiuočių ordinu.
-- susijęs iš Prūsai: Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų.
 - susijęs iš Prūsija: 1394 m. Prūsijos ordinas pasinaudojo proga pradėti karą ir niokoti Lietuvą.
 - susijęs iš Prūsija: 1325 m. Vilniuje Gediminas ir Lokietka sudarė sutartį bendromis jėgomis kovoti su Prūsijos ordinu.
 - susijęs iš Prūsija: Gedimino laiškai, anot pasakojimo, riterių buvo paimti į Prūsiją ir taip atsidūrė kryžiuočių archyve.

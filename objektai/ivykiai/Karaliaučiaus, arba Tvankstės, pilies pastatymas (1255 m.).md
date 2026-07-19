@@ -7,12 +7,12 @@ datos:
   - '1255 m.'
 date_start: '1255'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -100,9 +100,6 @@ Nenurodyta
     Burrhardą iš Hornhauzeno2 su daugybe brolių ir ginklanešių. Vėliau ši pilis buvo perkelta
     į tą vietą, kur ir dabar stovi ant kalvos, apsupta dviem sienomis ir devyniais akmeniniais
     bokštais.
-
-
-
 
            73 (72).
   citata_rodoma: ''

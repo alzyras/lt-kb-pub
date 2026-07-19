@@ -63,18 +63,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172563
-
-<a id="claim-t-189679"></a>
-- t-001
-  global_id: t-189679
-  teiginys: 'Narbutas Buthstus apibūdina kaip vietos ar srities krivio valdžios ženklą – ąžuolinę dvasininko lazdą su dvišake viršūne ir dviem kutais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė ištrauka kalbėjo apie kitą objektą, todėl teiginys suformuluotas pagal citatoje esantį Buthstus aprašą. Religinė funkcija palikta su atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Krivis|Krivis]]'
-  pagrindžia:
-    - c-172562
 - susijęs iš [[objektai/daiktai/Buthstunkas.md#claim-t-189678|Buthstunkas]]: Narbutas Buthstunką vadina Krivių Krivaičio valdžios ženklu: ąžuoline dvasininko lazda su trišake viršūne ir trimis kutais.
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189437|Kriviai ir Krivių Krivaičiai]]: Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189436|Kriviai ir Krivių Krivaičiai]]: Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę lazdą su trišake viršūne ir trimis kutais.

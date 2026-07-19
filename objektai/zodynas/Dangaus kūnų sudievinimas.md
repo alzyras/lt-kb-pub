@@ -50,18 +50,6 @@ Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo many
   pagrindžia:
     - c-172035
 
-<a id="claim-t-189146"></a>
-- t-001
-  global_id: t-189146
-  teiginys: 'Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo manymu, kilo kai kurie anksčiau aptarti lietuvių dievaičiai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Kilmės aiškinimas ir autoriaus uždavinys perteikti su atribucija. Neperkelta platesnė samojedų ištrauka, nes ji nėra būtina objektui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Viena'
-  pagrindžia:
-    - c-172034
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo manymu, kilo kai kurie anksčiau aptarti lietuvių dievaičiai.'

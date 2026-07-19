@@ -50,7 +50,7 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
     - c-174613
 
 <a id="claim-t-191733"></a>
-- t-003
+- t-002
   global_id: t-191733
   teiginys: "Pisanskis rašė, kad vietovės, anksčiau buvusios gana toli nuo jūros krantų, vėliau pamažu prie jų priartėjo."
   atnaujinta: "2026-07-12 22:34"
@@ -71,7 +71,7 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
     - c-174615
 
 <a id="claim-t-197685"></a>
-- t-004
+- t-003
   global_id: t-197685
   teiginys: "Vėliau Pisanskis rašo, jog vietovės, kurios, anot įtikėtinų žinių, buvo gana toli nuo jūros krantų, paskui pamažu prie jų priartėjo."
   atnaujinta: "2026-07-12 22:33"
@@ -82,18 +82,6 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174615
-
-<a id="claim-t-191732"></a>
-- t-002
-  global_id: t-191732
-  teiginys: 'Pisanskis pastabose apie Baltijos jūrą rašė, kad jūra toliau plauna vakarines ir šiaurines Sambijos pakrantes.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą Pisanskį ir remiasi citatoje nurodytu Baltijos jūros poveikiu Sambijos pakrantėms. Gyventojų pasakojimai apie atplėštus plotus sąmoningai nepridėti.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Pisanskis|Pisanskis]]; mentioned_place: Baltija'
-  pagrindžia:
-    - c-174614
 
 ## Reikšmingi paminėjimai
 - c-001

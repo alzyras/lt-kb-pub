@@ -52,7 +52,7 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
     - c-172045
 
 <a id="claim-t-197372"></a>
-- t-003
+- t-002
   global_id: t-197372
   teiginys: "Lietuvių mitologija, sukurta iš graikų, nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto."
   atnaujinta: "2026-07-12 22:32"
@@ -63,18 +63,6 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179153
-
-<a id="claim-t-189158"></a>
-- t-002
-  global_id: t-189158
-  teiginys: 'Narbutas lietuvių mitologijos medžiagą siejo su trisdešimt metų trukusiais Lietuvos senovės tyrimais ir surinkta tautosaka.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirmojo asmens fragmentas perrašytas į enciklopedinį sakinį apie Narbuto darbo šaltinius. Neplėsta į visą išvardytų žanrų sąrašą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
-  pagrindžia:
-    - c-172046
 - susijęs iš [[objektai/paprociai/Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika.md#claim-t-189953|Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika]]: Šubravcų draugijos nariai prie „Wiadomošci Brukowe“ rinkosi senovės lietuvių mitologijos pseudonimus ir rinko medžiagą apie tuos personažus.
 - susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-187830|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.
 - susijęs iš Lituanistinis sąjūdis XIX a. pradžioje: XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių.

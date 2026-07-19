@@ -51,7 +51,7 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
     - c-174227
 
 <a id="claim-t-197729"></a>
-- t-003
+- t-002
   global_id: t-197729
   teiginys: "Iš dalies tai buvo pono Foigto studijos apie senovės Sambijos vitingus (Geschichte der Eidechsen Gesellschaft in Preussen."
   atnaujinta: "2026-07-12 22:34"
@@ -62,18 +62,6 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179311
-
-<a id="claim-t-191346"></a>
-- t-002
-  global_id: t-191346
-  teiginys: 'Narbutas IV priede rėmėsi Foigto surinktomis žiniomis apie senovės Prūsijos geografiją, statistiką ir provincijų istoriją.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Foigto surinktas žinias, pateiktas Narbuto IV priede. Nepridėta konkrečių provincijų ar detalių, kurių citata neįvardija.'
-  susije_objektai: 'mentioned_place: Prūsija'
-  pagrindžia:
-    - c-174228
 
 ## Reikšmingi paminėjimai
 - c-001

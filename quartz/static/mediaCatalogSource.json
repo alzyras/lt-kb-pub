@@ -2700,7 +2700,15 @@
       "originalTitle": "Lithuanian coin with a head of the spear and a cross.jpg",
       "provider": "commons",
       "providerLabel": "Wikimedia Commons",
-      "relatedObjects": [],
+      "relatedObjects": [
+        {
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)",
+          "itemType": "asmuo",
+          "relationType": "associated_symbol_of",
+          "directness": "contextual"
+        }
+      ],
       "reviewStatus": "accepted",
       "reviewedAt": "2026-07-17T01:05:25+03:00",
       "rightsNote": "https://creativecommons.org/licenses/by-sa/4.0",

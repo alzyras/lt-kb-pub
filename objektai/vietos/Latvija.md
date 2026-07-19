@@ -11,14 +11,14 @@ datos:
   - '2026 m.'
 date_start: '1202'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kraštas
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -188,16 +188,6 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177131
-
-<a id="claim-t-194736"></a>
-- t-010
-  global_id: t-194736
-  teiginys: 'Istorijos, kurias turime, yra jau tokios vėlyvos, kad visko atminti negali; Latvija, politinei nepriklausomybei staigiai žlungant, virto vokiečių kolonija; pa čios tikrosios Lietuvos kunigaikštystės buvo nelaimingų vidaus sąmyšių ir išorės priešų užpuolimų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177132
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74923|Sovietų Sąjunga]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamą „liaudies demokratiją“ ir įjungė jas į SSRS.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74925|Sovietų Sąjunga]]: 1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.).md#claim-t-66905|Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį.

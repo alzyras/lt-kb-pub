@@ -7,13 +7,13 @@ datos:
   - '1345 m.'
 date_start: '1345'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -161,46 +161,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170438
-
-<a id="claim-t-187457"></a>
-- t-001
-  global_id: t-187457
-  teiginys: 'Lietuvos metraštis pasakoja, kad Algirdas, atsakydamas į grasinimą, pažadėjo būti Maskvoje per Velykas.'
-  teiginio_tipas: 'saltinio_teiginys'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
-  pagrindžia:
-    - c-170435
-
-<a id="claim-t-187459"></a>
-- t-003
-  global_id: t-187459
-  teiginys: 'Legenda apie Algirdo žygį į Maskvą yra Bychovco kronikoje, bet jos nėra Trumpajame ir kituose Platesniojo sąvado nuorašuose.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Algirdo žygio legendos tekstinę tradiciją. Legenda pateikta kaip kronikos pasakojimas, nepridedant jos turinio kaip fakto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1345 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Algirdo žygio legendos tekstinę tradiciją. Legenda pateikta kaip kronikos pasakojimas, nepridedant jos turinio kaip fakto.'
-  pagrindžia:
-    - c-170436
-
-<a id="claim-t-187460"></a>
-- t-004
-  global_id: t-187460
-  teiginys: 'Algirdas, anot šaltinio, po pasiuntinio atleidimo sušaukė lietuvių bei rusų kariuomenę ir iš Vitebsko patraukė į Maskvą.'
-  teiginio_tipas: 'saltinio_teiginys'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vitebskas; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; llm_object: Maskva'
-  pagrindžia:
-    - c-170435
-
-<a id="claim-t-187461"></a>
-- t-005
-  global_id: t-187461
-  teiginys: 'Lietuvos metraštis pasakoja, kad Maskvos didysis kunigaikštis Dimitrijujus Ivanovičius nutraukė taiką su Algirdu ir atsiuntė karo paskelbimą.'
-  teiginio_tipas: 'saltinio_teiginys'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
-  pagrindžia:
-    - c-170435
 
 ## Reikšmingi paminėjimai
 - c-001

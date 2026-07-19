@@ -9,14 +9,14 @@ datos:
   - '1219 m.'
 date_start: '1205'
 date_end: '1219'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-terminas
   - istorinė-sąvoka
   - sąvoka
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -458,7 +458,7 @@ Objektų skaičius: 507.
 - [Volfgeris](../objektai/asmenys/Volfgeris)
 - [Vosylius](../objektai/asmenys/Vosylius)
 - [Vosylius II](../objektai/asmenys/Vosylius%20II)
-- [Vytautas Didysis](../objektai/asmenys/Vytautas%20Didysis)
+- [Vytautas (Lietuvos valdovas, XIV–XV a.)](../objektai/asmenys/Vytautas)
 - [Vytenis (Lietuvos karalius)](../objektai/asmenys/Vytenis%20%28Lietuvos%20karalius%29)
 - [Vytenis (valdovas, XIII–XIV a.)](../objektai/asmenys/Vytenis)
 - [Zbignevas Olesnickis (vyskupas)](../objektai/asmenys/Zbignevas%20Olesnickis)

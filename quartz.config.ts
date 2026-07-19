@@ -45,8 +45,6 @@ const config: QuartzConfig = {
       "tyrimai/auditai/**",
       "objektai/autoriai/Дельбрюк Г.md",
       "objektai/saltiniai/Полное собрание русских летописей.md",
-      // Superseded by the curated public record below; keep old inbound links via AliasRedirects.
-      "objektai/asmenys/Vytautas.md",
       // This legacy duplicate collides with the parenthetical canonical record's generated alias.
       "objektai/grupes/Draugija užsienio lietuviams remti.md",
     ],

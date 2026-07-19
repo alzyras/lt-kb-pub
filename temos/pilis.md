@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 468
+tema_objektu_skaicius: 472
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 468.
+Objektų skaičius: 472.
 
 ## Kaip naudoti
 
@@ -28,6 +28,7 @@ Objektų skaičius: 468.
 ### Asmenys
 - [[objektai/asmenys/Derska]]
 - [[objektai/asmenys/Ditrichas iš Ezbeko]]
+- [[objektai/asmenys/Dovydas]]
 - [[objektai/asmenys/Draika]]
 - [[objektai/asmenys/Ernekė]]
 - [[objektai/asmenys/Glapas]]
@@ -40,6 +41,7 @@ Objektų skaičius: 468.
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - [[objektai/asmenys/Pomandas]]
 - [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
+- [[objektai/asmenys/Vilhelmas]]
 
 ### Autoriai
 - [[objektai/autoriai/Beckherrn C]]
@@ -55,10 +57,10 @@ Objektų skaičius: 468.
 - [[objektai/paprociai/Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis|Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis (pilis)]]
 - [[objektai/paprociai/Kristburgo brolių asketinė drausmė ir kasdienė geležinė grandinė]]
 - [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]
-- [[objektai/paprociai/Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika]]
+- [Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika](../objektai/paprociai/Ordino%20pili%C5%B3%20statyba%20kaip%20u%C5%BEkariavimo%20ir%20krik%C5%A1%C4%8Dioni%C5%B3%20%C5%BEemi%C5%B3%20pl%C4%97tros%20praktika)
 
 ### Vietos
-- [[objektai/vietos/Aismares]]
+- [Aismares](../objektai/vietos/Aismares)
 - [Aistmarios](../objektai/vietos/Aistmarios)
 - [Alenšteinas](../objektai/vietos/Alen%C5%A1teinas)
 - [Angerburgas](../objektai/vietos/Angerburgas)
@@ -188,6 +190,7 @@ Objektų skaičius: 468.
 - [Kaunas](../objektai/vietos/Kaunas)
 - [Kauno pilis (pilis)](../objektai/vietos/Kauno%20pilis)
 - [Kaustra](../objektai/vietos/Kaustra)
+- [Kesės pilis](../objektai/vietos/Kes%C4%97s%20pilis)
 - [Kiduliai](../objektai/vietos/Kiduliai)
 - [Kidulių pilis (pilis, XIX a.)](../objektai/vietos/Kiduli%C5%B3%20pilis)
 - [Kimelis](../objektai/vietos/Kimelis)
@@ -317,7 +320,7 @@ Objektų skaičius: 468.
 - [Poterbergas](../objektai/vietos/Poterbergas)
 - [Poznanė](../objektai/vietos/Poznan%C4%97)
 - [Prieglius](../objektai/vietos/Prieglius)
-- [Prūsai](../objektai/vietos/Pr%C5%ABsai)
+- [Prūsų žemė](../objektai/vietos/Pr%C5%ABs%C5%B3%20%C5%BEem%C4%97)
 - [Pskovo pilis (pilis)](../objektai/vietos/Pskovo%20pilis)
 - [Putvė](../objektai/vietos/Putv%C4%97)
 - [Ragainė](../objektai/vietos/Ragain%C4%97)
@@ -506,5 +509,6 @@ Objektų skaičius: 468.
 ### Žodynas
 - [ginklanešiai](../objektai/zodynas/ginklane%C5%A1iai)
 - [ginklanešys](../objektai/zodynas/ginklane%C5%A1ys)
+- [papilys](../objektai/zodynas/papilys)
 - [pilėnas](../objektai/zodynas/pil%C4%97nas)
 - [seniūnas](../objektai/zodynas/seni%C5%ABnas)

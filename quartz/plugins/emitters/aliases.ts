@@ -8,7 +8,7 @@ import path from "path"
 const MAX_SEGMENT_BYTES = 240
 const TRAILING_PARENTHETICAL = /-\([^)]{1,120}\)$/
 const LEGACY_CANONICAL_REDIRECTS: Array<[FullSlug, FullSlug]> = [
-  ["objektai/asmenys/Vytautas" as FullSlug, "objektai/asmenys/Vytautas-Didysis" as FullSlug],
+  ["objektai/asmenys/Vytautas-Didysis" as FullSlug, "objektai/asmenys/Vytautas" as FullSlug],
   [
     "objektai/grupes/Draugija-Uzsienio-Lietuviams-Remti" as FullSlug,
     "objektai/grupes/Draugija-Uzsienio-Lietuviams-Remti-(DULR)" as FullSlug,

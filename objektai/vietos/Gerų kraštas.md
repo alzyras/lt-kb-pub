@@ -7,14 +7,14 @@ datos:
   - '1810 m.'
 date_start: '1810'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - upė
   - vieta
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,18 +70,6 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175589
-
-<a id="claim-t-192820"></a>
-- t-002
-  global_id: t-192820
-  teiginys: 'Narbutas Gerų kraštą siejo su Herodoto minėta vieta, kur skitai nuo Dnepro žemupio esą veždavo laidoti mirusiuosius.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Herodoto interpretacija ir laidojimo aiškinimas palikti su Narbuto atribucija. Nepridėta spėjimo apie protėvių gyvenamąją vietą kaip fakto.'
-  susije_objektai: 'mentioned_place: Dnepras'
-  pagrindžia:
-    - c-175590
 - susijęs iš Rogačiovas: Narbutas Rogačiovą laikė Gerų krašto viduriu, nes jo apylinkėse esą buvo gausiausi pilkapių rinkiniai.
 ## Reikšmingi paminėjimai
 - c-001

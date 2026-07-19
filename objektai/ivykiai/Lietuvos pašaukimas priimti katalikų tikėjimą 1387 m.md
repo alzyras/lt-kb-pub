@@ -42,7 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-189607"></a>
-- t-002
+- t-001
   global_id: t-189607
   teiginys: "Narbutas religinėje interpretacijoje vaizduoja Vladislovą Jogailą ir jo brolius kaip Dievo Lietuvai duotus valdovus tikėjimui įžiebti."
   atnaujinta: "2026-07-12 22:33"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-172491
 
 <a id="claim-t-197233"></a>
-- t-004
+- t-002
   global_id: t-197233
   teiginys: "Todėl blogai daro kunigai, ku rie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichėjų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var dan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra mentą draudžiama."
   atnaujinta: "2026-07-12 22:32"
@@ -97,7 +97,7 @@ Nenurodyta
     - c-172490
 
 <a id="claim-t-197234"></a>
-- t-005
+- t-004
   global_id: t-197234
   teiginys: "Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di delis lietuvių svetingumas, darbštumas, namų gyvenimo do rybės."
   atnaujinta: "2026-07-12 22:32"
@@ -108,18 +108,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179077
-
-<a id="claim-t-189606"></a>
-- t-001
-  global_id: t-189606
-  teiginys: 'Narbutas perteikia aiškinimą, kad katalikybės priėmimą Lietuvoje palengvino lietuvių paklusnumas viešpataujantiems kunigaikščiams.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas katalikybės priėmimo kontekstas, o vertinamasis religijos priėmimo aiškinimas paliktas su Narbuto atribucija. Nepridėta 1387 m. detalė, nes jos citatoje nėra.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Liutauras|Liutauras]]'
-  pagrindžia:
-    - c-172489
 
 ## Reikšmingi paminėjimai
 - c-001

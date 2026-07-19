@@ -71,18 +71,6 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
   pagrindžia:
     - c-174476
 
-<a id="claim-t-191593"></a>
-- t-002
-  global_id: t-191593
-  teiginys: 'Teodoras Narbutas Aleksandro Humbolto veikalais apie Žemės temperatūros kitimą grindė prielaidą apie labai senus Šiaurės gyventojus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai susieja Aleksandrą Humboltą su Narbuto prielaida. Atribucija būtina, nes kalbama apie Narbuto interpretacinį naudojimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Humboltas|Humboltas]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Azija; mentioned_place: Tibetas'
-  pagrindžia:
-    - c-174475
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoras Narbutas Aleksandro Humbolto veikalais apie Žemės temperatūros kitimą grindė prielaidą apie labai senus Šiaurės gyventojus.'

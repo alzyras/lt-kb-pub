@@ -59,16 +59,6 @@ Nenurodyta
   pagrindžia:
     - c-177211
 
-<a id="claim-t-194814"></a>
-- t-001
-  global_id: t-194814
-  teiginys: 'Ragana (Ragana) Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei vės, globojančios tam tikrus medžius, augančius savaime arba kieno nors persodintus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177210
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ragana (Ragana) Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei vės, globojančios tam tikrus medžius, augančius savaime arba kieno nors persodintus.'

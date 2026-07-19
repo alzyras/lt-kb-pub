@@ -7,15 +7,15 @@ datos:
   - '1812 m.'
 date_start: '1812'
 date_end: ''
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - asmuo
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,18 +57,6 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172953
-
-<a id="claim-t-190071"></a>
-- t-002
-  global_id: t-190071
-  teiginys: 'Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Mitologinė ir kilmės interpretacija palikta su Narbuto atribucija. OCR klaidos pašalintos, bet nepridėta nieko už citatoje minimų ryšių.'
-  susije_objektai: 'mentioned_place: Retra; mentioned_author: [[objektai/autoriai/Helmoldas|Helmoldas]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija'
-  pagrindžia:
-    - c-172954
 
 ## Reikšmingi paminėjimai
 - c-001

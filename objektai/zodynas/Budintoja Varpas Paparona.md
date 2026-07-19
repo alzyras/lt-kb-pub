@@ -44,18 +44,6 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
   pagrindžia:
     - c-172171
 
-<a id="claim-t-189284"></a>
-- t-002
-  global_id: t-189284
-  teiginys: 'Narbutas žodį Paparona laikė grynai lietuvišku sargyboje stovinčio kariškio pavadinimu, o ne kilusiu iš Parta Roma.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Ilgas OCR pažeistas sakinys sutrumpintas iki etimologinio teiginio apie Paparona. Narbuto polemika su heraldikais palikta atribuuota, nepridedant žąsies ženklo išvados.'
-  susije_objektai: 'mentioned_place: Roma; mentioned_place: Lenkija; mentioned_place: Viena'
-  pagrindžia:
-    - c-172172
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pažadinanti miegančiuosius.'

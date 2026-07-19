@@ -58,18 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-177035
 
-<a id="claim-t-189874"></a>
-- t-001
-  global_id: t-189874
-  teiginys: 'Narbutas vaidilutes apibūdina kaip žynes, davusias amžinos skaistybės įžadus ir už priesaikos sulaužymą baustas žiauria mirtimi.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas išnašos ir puslapio triukšmas, o teiginys suvestas į vieną sakinį. Religinės priesaikos ir bausmės aprašas paliktas su Narbuto atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vaidilutės|Vaidilutės]]'
-  pagrindžia:
-    - c-172757
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vaidilutes apibūdina kaip žynes, davusias amžinos skaistybės įžadus ir už priesaikos sulaužymą baustas žiauria mirtimi.'

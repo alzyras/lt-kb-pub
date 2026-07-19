@@ -29,7 +29,7 @@ Kas norėtų labiau įsigilinti, teskaito: Vo­ yage dans les Steps d'Astrakhan 
 ## Teiginiai
 
 <a id="claim-t-88497"></a>
-- t-001
+- t-002
   global_id: t-88497
   teiginys: "Jeanas Potockis veikale „Voyage dans les Steps d'Astrakhan et du Caucase“ minimas kaip papildomas šaltinis apie totorius."
   atnaujinta: "2026-07-10 10:39"
@@ -44,6 +44,15 @@ Kas norėtų labiau įsigilinti, teskaito: Vo­ yage dans les Steps d'Astrakhan 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84476
+
+<a id="claim-t-88497"></a>
+- t-001
+  global_id: t-88497
+  teiginys: 'Jeanas Potockis veikale „Voyage dans les Steps d''Astrakhan et du Caucase“ minimas kaip papildomas šaltinis apie totorius.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra bibliografinis fragmentas su OCR triukšmu, bet citata palaiko ribotą faktą apie veikalo paminėjimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  pagrindžia:
+    - c-001
 
 ## Citatos
 

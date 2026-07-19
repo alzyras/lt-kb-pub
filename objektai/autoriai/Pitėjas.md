@@ -7,15 +7,15 @@ datos:
   - '340 m.'
 date_start: '340'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'IV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - autorius
-amziai:
-  - 'IV'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -125,7 +125,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
     - c-174431
 
 <a id="claim-t-197632"></a>
-- t-006
+- t-005
   global_id: t-197632
   teiginys: "Ši kelionė įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų net iki Tacito senovės autoriai niekur nemini Estijos, nors kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Plinijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis aprašymais, estų."
   atnaujinta: "2026-07-12 22:33"
@@ -138,7 +138,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
     - c-179270
 
 <a id="claim-t-197633"></a>
-- t-007
+- t-006
   global_id: t-197633
   teiginys: "Pitėjas turbūt turėjo iš germanų, kurie visuomet taip gotiškai vadino šiuos kraštus ir žmones."
   atnaujinta: "2026-07-12 22:33"
@@ -164,7 +164,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
     - c-174428
 
 <a id="claim-t-197635"></a>
-- t-009
+- t-007
   global_id: t-197635
   teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
   atnaujinta: "2026-07-12 22:33"
@@ -175,18 +175,6 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174431
-
-<a id="claim-t-191550"></a>
-- t-005
-  global_id: t-191550
-  teiginys: 'Teodoras Narbutas rašo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas tokį pavadinimą laikė neseniai pradėtu vartoti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys tiksliai išskleidžia Pitėjo ir Tacito pozicijų priešpriešą Narbuto tekste. Atribucija palikta, nes kalbama apie šaltinio aiškinamąją rekonstrukciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]'
-  pagrindžia:
-    - c-174432
 
 ## Reikšmingi paminėjimai
 - c-001

@@ -8,12 +8,12 @@ datos:
   - '1817 m.'
 date_start: '1817'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -102,7 +102,7 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
     - c-173715
 
 <a id="claim-t-197690"></a>
-- t-005
+- t-004
   global_id: t-197690
   teiginys: "VII Priedas A p ie p ilk a p iu s Šis lietuvių tautos istoriją dominantis straipsnis buvo parašytas leidiniui „Tygodnik Wilenslki“', bet ir dabar čia verta pakartoti jį su tam tikromis pataisomis."
   atnaujinta: "2026-07-12 22:33"
@@ -113,16 +113,6 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173715
-
-<a id="claim-t-197690"></a>
-- t-004
-  global_id: t-197690
-  teiginys: 'VII Priedas A p ie p ilk a p iu s Šis lietuvių tautos istoriją dominantis straipsnis buvo parašytas leidiniui „Tygodnik Wilenslki“'', bet ir dabar čia verta pakartoti jį su tam tikromis pataisomis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-003
 
 ## Citatos
 

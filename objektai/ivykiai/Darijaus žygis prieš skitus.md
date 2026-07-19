@@ -133,7 +133,7 @@ Nenurodyta
     - c-173893
 
 <a id="claim-t-197532"></a>
-- t-006
+- t-005
   global_id: t-197532
   teiginys: "Kadangi priešo būriai buvo narsūs ir puikiai gink luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi galvoję ir išvengdami lemtingų kovų bei puldinėdami iš šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa jo nesuskaičiuojamų atsargų našta."
   atnaujinta: "2026-07-12 22:33"
@@ -144,18 +144,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173889
-
-<a id="claim-t-191867"></a>
-- t-005
-  global_id: t-191867
-  teiginys: 'Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas Darijus kaip veiksmo subjektas, o žygio tikslas ir pasekmė sujungti į vieną sakinį. Vertinamasis pasakojimas paliktas su atribucija.'
-  susije_objektai: 'mentioned_place: Skitija; mentioned_group: [[objektai/grupes/Gelonai|Gelonai]]; mentioned_person: [[objektai/asmenys/Darijus|Darijus]]; llm_object: Skitija'
-  pagrindžia:
-    - c-174749
 
 ## Reikšmingi paminėjimai
 - c-003

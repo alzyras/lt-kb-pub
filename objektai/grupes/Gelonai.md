@@ -211,7 +211,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-175179
 
 <a id="claim-t-197498"></a>
-- t-011
+- t-009
   global_id: t-197498
   teiginys: "Ta čiau helenai tuos gelonus vadina, nors ir neteisingai, budinais."
   atnaujinta: "2026-07-12 22:33"
@@ -224,7 +224,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-179220
 
 <a id="claim-t-197499"></a>
-- t-012
+- t-011
   global_id: t-197499
   teiginys: "Ver gilijus apie tokį kumelės pieno vartojimą rašė: „Karin gasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4."
   atnaujinta: "2026-07-12 22:33"
@@ -235,16 +235,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175182
-
-<a id="claim-t-194860"></a>
-- t-009
-  global_id: t-194860
-  teiginys: 'Jis nuėjo net iki gelonų ir budinu krašto, kur tik pirmąsyk patyrė didelį džiaugs mą, išgriaudamas keletą tvirtų pilių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177256
 - susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191112|Adomas Stanislovas Naruševičius]]: Narbutas nurodo, kad Naruševičius daugelyje darbų patvirtino teiginį apie gelonų tautą Nemuno aukštupyje.
 - susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191126|Darijus]]: Iki Darijaus žygio prieš Skitiją gelonai, Narbuto teigimu, jau seniai gyveno tarp budinų, buvo su jais susilieję ir sudarė vieną tautą.
 - susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191945|Darijus]]: Narbutas rašė, kad Darijaus amžiuje gelonų-budinų krašte žemdirbystė buvo aukšto lygio ir skatino graikų prekybą grūdais Juodojoje jūroje.

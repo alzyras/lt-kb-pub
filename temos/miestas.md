@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 523
+tema_objektu_skaicius: 524
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 523.
+Objektų skaičius: 524.
 
 ## Kaip naudoti
 
@@ -159,6 +159,7 @@ Objektų skaičius: 523.
 - [Goliubo pilis (pilis)](../objektai/vietos/Goliubo%20pilis)
 - [Gomelis](../objektai/vietos/Gomelis)
 - [Gotlandas](../objektai/vietos/Gotlandas)
+- [Gotlando sala](../objektai/vietos/Gotlando%20sala)
 - [Gožkovas](../objektai/vietos/Go%C5%BEkovas)
 - [Greifsvaldas](../objektai/vietos/Greifsvaldas)
 - [Grenoblis](../objektai/vietos/Grenoblis)

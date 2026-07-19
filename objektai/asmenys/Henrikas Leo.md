@@ -8,16 +8,16 @@ datos:
   - '1845 m.'
 date_start: '1725'
 date_end: '1845'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - asmuo
-amziai:
-  - 'XVIII'
-  - 'XIX'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptart
 ## Teiginiai
 
 <a id="claim-t-191207"></a>
-- t-002
+- t-001
   global_id: t-191207
   teiginys: "Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptarti marienburgiškais vadinti žodžiai yra keltų kalbos žodžiai."
   atnaujinta: "2026-07-12 22:34"
@@ -61,7 +61,7 @@ Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptart
     - c-174089
 
 <a id="claim-t-191208"></a>
-- t-003
+- t-002
   global_id: t-191208
   teiginys: "Leidinio pastaboje Henrikas Leo apibūdinamas kaip vokiečių istorikas ir Hėgelio mokinys, kurio knyga parašyta 1842–1845 m."
   atnaujinta: "2026-07-12 22:34"
@@ -83,18 +83,6 @@ Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptart
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174090
-
-<a id="claim-t-191207"></a>
-- t-001
-  global_id: t-191207
-  teiginys: 'Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch''e Glosse“ aptarti marienburgiškais vadinti žodžiai yra keltų kalbos žodžiai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys sutvarkytas taip, kad Henrikas Leo būtų aiškus subjektas, o marienburgiškų žodžių aiškinimas liktų atribuuotas. Nepridėta platesnių išvadų apie rankraščius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Keltai|Keltai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
-  pagrindžia:
-    - c-001
 
 ## Citatos
 

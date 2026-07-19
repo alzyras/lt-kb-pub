@@ -7,14 +7,14 @@ datos:
   - '1530 m.'
 date_start: '1530'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - šventė
   - garbinimas
   - paprotys
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -64,18 +64,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177027
-
-<a id="claim-t-189853"></a>
-- t-001
-  global_id: t-189853
-  teiginys: 'Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas iki pagrindinio fakto apie apeigų tęstinumą. Liudijimo šaltinis neplėstas už citatoje nurodytos informacijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsijos lietuviai|Prūsijos lietuviai]]; mentioned_group: [[objektai/grupes/Senovės germanai|Senovės germanai]]; mentioned_person: [[objektai/asmenys/Polencas|Polencas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; llm_object: Prūsija'
-  pagrindžia:
-    - c-172736
 
 ## Reikšmingi paminėjimai
 - c-001

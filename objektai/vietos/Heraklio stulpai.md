@@ -49,18 +49,6 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
   pagrindžia:
     - c-175609
 
-<a id="claim-t-192840"></a>
-- t-002
-  global_id: t-192840
-  teiginys: 'Romėnai, sužinoję apie pūnų laivus už Heraklio stulpų keliaujant į šiaurines jūras, pasiuntė jūrų keliautoją sekti vieną tokį laivą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, išskleistas romėnų veiksmas. Nepalikta nutrūkusių intarpų apie Teodorą ir kitus nesusijusius vardus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_place: Viena; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Divonis|Divonis]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lukas'
-  pagrindžia:
-    - c-175610
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir Heraklio stulpus.'

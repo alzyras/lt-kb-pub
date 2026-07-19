@@ -86,7 +86,7 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
     - c-175614
 
 <a id="claim-t-197897"></a>
-- t-005
+- t-004
   global_id: t-197897
   teiginys: "Prie Rošovsko kaimo į ją iš dešiniojo kranto įteką Roska, sruvena per gana didelę Ukrainos dalį ir drauge su Supo upe sudaro į 'Dneprą plaukiančių upių vandens baseiną, priešingą atitekančioms į Būgą."
   atnaujinta: "2026-07-12 22:34"
@@ -97,16 +97,6 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175615
-
-<a id="claim-t-197897"></a>
-- t-004
-  global_id: t-197897
-  teiginys: 'Prie Rošovsko kaimo į ją iš dešiniojo kranto įteką Roska, sruvena per gana didelę Ukrainos dalį ir drauge su Supo upe sudaro į ''Dneprą plaukiančių upių vandens baseiną, priešingą atitekančioms į Būgą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-002
 
 ## Citatos
 

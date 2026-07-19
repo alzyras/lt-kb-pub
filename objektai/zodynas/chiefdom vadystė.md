@@ -7,13 +7,13 @@ datos:
   - '1009 m.'
 date_start: '1009'
 date_end: ''
-amziai:
-  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
+amziai:
+  - 'XI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,7 +90,7 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     - c-16540
 
 <a id="claim-t-26668"></a>
-- t-003
+- t-004
   global_id: t-26668
   teiginys: "Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom'o, stadiją."
   atnaujinta: "2026-07-10 10:39"
@@ -106,6 +106,15 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-73292
+
+<a id="claim-t-26668"></a>
+- t-003
+  global_id: t-26668
+  teiginys: 'Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom''o, stadiją.'
+  sudarymo_pagrindimas: 'Sakinys padarytas sklandesnis ir aiškesnis, nekeičiant citatos paremto fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  pagrindžia:
+    - c-002
 
 ## Citatos
 

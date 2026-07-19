@@ -7,15 +7,15 @@ datos:
   - '1761 m.'
 date_start: '1761'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kalbininkas
   - autorius
-amziai:
-  - 'XVIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,18 +50,6 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174507
-
-<a id="claim-t-191624"></a>
-- t-001
-  global_id: t-191624
-  teiginys: 'Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleista, kad Stenderis perdavė karininko pasakojimą, todėl kalbinis teiginys neformuluojamas kaip neutralus faktas. Nepridėta sprendimo apie latvių kilmę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Gotthardas Friedrichas Stenderis|Gotthardas Friedrichas Stenderis]]; mentioned_author: [[objektai/autoriai/Stenderis|Stenderis]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Belgorodas; mentioned_author: [[objektai/autoriai/Aleksandras Gvaninis|Aleksandras Gvaninis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Tartarija'
-  pagrindžia:
-    - c-174506
 
 ## Reikšmingi paminėjimai
 - c-001

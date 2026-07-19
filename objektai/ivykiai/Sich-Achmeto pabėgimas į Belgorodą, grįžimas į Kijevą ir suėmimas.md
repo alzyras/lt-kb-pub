@@ -9,12 +9,12 @@ datos:
   - '1528 m.'
 date_start: '1503'
 date_end: '1528'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -100,32 +100,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169985
-
-<a id="claim-t-186796"></a>
-- t-002
-  global_id: t-186796
-  teiginys: 'Antrą kartą į Kijevą grįžęs Sich-Achmetas buvo suimtas, laikytas Vilniaus Aukštojoje, Trakų ir Kauno pilyse ir paleistas 1528 metais.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir tiksliai apibendrina citatą.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Kijevas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1528 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, gramatiškas ir tiksliai apibendrina citatą.'
-  pagrindžia:
-    - c-169984
-
-<a id="claim-t-186798"></a>
-- t-004
-  global_id: t-186798
-  teiginys: 'Redakcinė pastaba nurodo, kad antrą kartą grįžęs į Kijevą Sich-Achmetas buvo suimtas.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1528 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, aiškus ir paremtas citata.'
-  pagrindžia:
-    - c-169984
 
 ## Reikšmingi paminėjimai
 - c-001

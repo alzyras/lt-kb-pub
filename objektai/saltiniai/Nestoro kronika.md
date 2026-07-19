@@ -50,7 +50,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
     - c-174611
 
 <a id="claim-t-191730"></a>
-- t-003
+- t-001
   global_id: t-191730
   teiginys: "Narbutas nurodo Nestoro pasakojimą, kad 859 m. variagai paskyrė kailių duoklę, be kitų, ir krivičiams."
   atnaujinta: "2026-07-12 22:34"
@@ -74,7 +74,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
     - c-174612
 
 <a id="claim-t-197683"></a>
-- t-004
+- t-003
   global_id: t-197683
   teiginys: "Be to, reikia pridurti nors ir nepilną, tačiau Nestoro išsaugotą jų gyvenimo paveikslą."
   atnaujinta: "2026-07-12 22:33"
@@ -85,18 +85,6 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179294
-
-<a id="claim-t-191728"></a>
-- t-001
-  global_id: t-191728
-  teiginys: 'Narbutas rašo, kad Schlözeris iš Nestoro negalėjo patikimai aiškinti, kokiai tautai priklausė krivičiai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai perteikia Narbuto vertinimą apie Schlözerio aiškinimą iš Nestoro. Atribucija išlaikyta, nes kalbama apie interpretacijos patikimumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]'
-  pagrindžia:
-    - c-174610
 
 ## Reikšmingi paminėjimai
 - c-001

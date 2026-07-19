@@ -49,18 +49,6 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170706
-
-<a id="claim-t-187768"></a>
-- t-002
-  global_id: t-187768
-  teiginys: 'Pskoviečiai Vytautui kasmet duodavo pusę tos duoklės, kurią naugardiečiai mokėjo auksu, žirgais ir kailiais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys konkretus, gramatiškas ir paremtas citatos duoklės palyginimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Lukomlis; mentioned_place: Smolenskas; mentioned_place: Starodubas'
-  pagrindžia:
-    - c-170707
 - susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186600|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05164|Daumantas (kunigaikštis, XV a.)]]: 1266 m. Daumantas su pskoviečiais puolė Nalšėnus.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173128|Dovydas (Gardino pilininkas)]]: Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.

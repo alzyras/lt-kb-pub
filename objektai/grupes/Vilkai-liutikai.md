@@ -50,19 +50,6 @@ Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175736
-
-<a id="claim-t-192965"></a>
-- t-001
-  global_id: t-192965
-  teiginys: 'Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinta OCR klaida ir išskleistas grupės pavadinimas. Vertinimas „nekyla abejonių“ neutralizuotas į atribuotą Narbuto poziciją.'
-  susije_objektai: 'llm_object: Beržūna; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Beržūna; mentioned_place: Borisovas; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Vileika; llm_object: Baltija'
-  semantiniai_rysiai: '[[objektai/grupes/Vilkai-liutikai|Vilkai-liutikai]] gyveno Beržūna; [[objektai/grupes/Vilkai-liutikai|Vilkai-liutikai]] gyveno Baltija'
-  pagrindžia:
-    - c-175735
 - susijęs iš [[objektai/ivykiai/Vilkų-liutikų jūros žygis ir įsitvirtinimas Vakaruose.md#claim-t-191055|Vilkų-liutikų jūros žygis ir įsitvirtinimas Vakaruose]]: Narbutas rašo, kad pirmaisiais mūsų eros amžiais vilkai-liutikai išsirengė į jūros žygį, pasiuntė įgulas į vakarus ir buvo atstumti nuo Lietuvos sienos.
 ## Reikšmingi paminėjimai
 - c-001

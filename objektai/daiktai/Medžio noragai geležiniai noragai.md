@@ -145,6 +145,7 @@ Nenurodyta
     - vieta_saltinyje: offset: 387641-388063; match: exact
     - santrauka: Vokiečiai šiame šaltinyje nuosekliai rodomi kaip prekybą spaudžianti, pilis valdanti ir politines privilegijas gaunanti jėga.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

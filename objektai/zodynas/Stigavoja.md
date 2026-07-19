@@ -169,6 +169,7 @@ Papildomos aiškios formos neišskirtos.
         jog svietas dar pasakomis minėjo, jog nuo Indijos kilimo buvo, jau nuo jų būdo, dabos ir tikybos, kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69.
   citata_rodoma: "kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

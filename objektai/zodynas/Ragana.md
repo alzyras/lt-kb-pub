@@ -49,18 +49,6 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172134
-
-<a id="claim-t-189245"></a>
-- t-001
-  global_id: t-189245
-  teiginys: 'Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives, globojusias savaime augančius ar persodintus medžius.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas šaltinio kontekstas ir sutvarkyta OCR klaida žodyje „deivės“. Mitologinė interpretacija atribuuota Narbutui ir jo minimiems pagrindams.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lasickis|Lasickis]]'
-  pagrindžia:
-    - c-172133
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190730|Johanas Foigtas]]: Ponas Foigtas Berlyno rankraštyje rado vietovardį Raganita, o Narbutas jį laikė tikriausiu Ragainės pavadinimu dėl ryšio su vardu Ragana.
 - susijęs iš [[objektai/grupes/Raganos.md#claim-t-189499|Raganos]]: Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis ar šarkomis ir skraidyti ant ožio.
 - susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas nurodo, kad Lasickis ir liaudies padavimai Raganomis vadino deives, globojusias tam tikrus medžius.

@@ -10,6 +10,10 @@ datos:
   - '1818 m.'
 date_start: '1808'
 date_end: '1818'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,10 +21,6 @@ tags:
   - autorius
   - dvasininkas
   - mokslininkas
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -126,7 +126,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
     - c-171329
 
 <a id="claim-t-188440"></a>
-- t-006
+- t-004
   global_id: t-188440
   teiginys: "Narbutas pateikia Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1-30 eilučių fragmentą kaip bandymą kurti gryna lietuvių kalba."
   atnaujinta: "2026-07-12 22:33"
@@ -147,7 +147,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
     - c-171330
 
 <a id="claim-t-190753"></a>
-- t-007
+- t-006
   global_id: t-190753
   teiginys: "Narbutas rašo, kad Ksaveras Bogušas lietuvių gentis šiose žemėse priskyrė estams, remdamasis Etiko „Kosmografija“."
   atnaujinta: "2026-07-12 22:34"
@@ -161,7 +161,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
     - c-173635
 
 <a id="claim-t-190754"></a>
-- t-008
+- t-007
   global_id: t-190754
   teiginys: "Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms, remdamasis Kojalavičiaus prielaidomis."
   atnaujinta: "2026-07-12 22:34"
@@ -180,28 +180,6 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173636
-
-<a id="claim-t-188438"></a>
-- t-004
-  global_id: t-188438
-  teiginys: 'Narbutas išnašoje nurodo kunigo Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę kaip šaltinį lietuviškiems žemdirbystės žodžiams.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išnašos nuoroda paversta sakiniu apie Bogušo studijos panaudojimą. Nepridėta jokių duomenų apie pačios studijos turinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Sirvydas|Sirvydas]]; mentioned_place: Pragaras'
-  pagrindžia:
-    - c-171328
-
-<a id="claim-t-194665"></a>
-- t-009
-  global_id: t-194665
-  teiginys: 'Ksaveras Bogušas savo studijoje, 145 puslapyje, Vulkaną lietuviškai vadina Jagaubis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177062
 - susijęs iš [[objektai/asmenys/Etikas.md#claim-t-191392|Etikas]]: Etiko „Kosmografija“ buvo Ksavero Bogušo naudotas pagrindas įrodymams apie estus ir jiems priskiriamas lietuvių gentis.
 - susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190002|Ksaveras Bogušas]]: Narbutas rašė, kad pirmą kartą paėmęs Ksavero Bogušo studiją atkreipė dėmesį į jo išverstas Ovidijaus eilutes.
 - susijęs iš [[objektai/asmenys/Silvestras Valiūnas.md#claim-t-183566|Silvestras Valiūnas]]: Silvestras Valiūnas buvo tarp Žemaitijoje gyvenusių inteligentų, kuriuos Ksavero Bogušo mintis paskatino rašyti poeziją žemaitiškai arba lietuviškai.

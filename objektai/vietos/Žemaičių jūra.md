@@ -266,6 +266,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
         gyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais.
   citata_rodoma: "nuo ko ne vien pati sala Rusnės\nvardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių\ngyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

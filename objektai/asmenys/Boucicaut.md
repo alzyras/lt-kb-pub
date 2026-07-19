@@ -8,15 +8,15 @@ datos:
   - '1393 m.'
 date_start: '1391'
 date_end: '1393'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
 ## Teiginiai
 
 <a id="claim-t-87489"></a>
-- t-001
+- t-002
   global_id: t-87489
   teiginys: "Prancūzų vadas Boucicaut'as per kautynes buvo pridaręs nemažai žalos apgultiesiems."
   atnaujinta: "2026-07-10 10:39"
@@ -57,7 +57,7 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
     - c-83468
 
 <a id="claim-t-87490"></a>
-- t-002
+- t-003
   global_id: t-87490
   teiginys: "Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno."
   atnaujinta: "2026-07-10 10:39"
@@ -76,6 +76,16 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
   temporalinis_llm_pakomentavimas: "Pašalintas išnašos numeris ir pridėtas citatoje paremtas kontekstas."
   pagrindžia:
     - c-83469
+
+<a id="claim-t-87490"></a>
+- t-001
+  global_id: t-87490
+  teiginys: 'Prancūzų vadas Boucicaut''as per kautynes buvo pridaręs nemažai žalos apgultiesiems.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Boucicaut''o vaidmenį, bet pradinis tekstas yra nutrūkęs ir per ilgas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Boucicaut|Boucicaut]] puolė [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]'
+  pagrindžia:
+    - c-001
 
 ## Citatos
 

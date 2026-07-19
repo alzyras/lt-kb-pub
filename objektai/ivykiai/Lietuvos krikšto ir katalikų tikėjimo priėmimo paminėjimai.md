@@ -8,14 +8,14 @@ datos:
   - '1386 m.'
 date_start: '1240'
 date_end: '1386'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - krikštas
   - ivykis
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-189602"></a>
-- t-002
+- t-001
   global_id: t-189602
   teiginys: "Narbutas religinėje interpretacijoje vaizduoja Vladislovą Jogailą ir jo brolius kaip Dievo Lietuvai duotus valdovus tikėjimui įžiebti."
   atnaujinta: "2026-07-12 22:33"
@@ -92,7 +92,7 @@ Nenurodyta
     - c-172486
 
 <a id="claim-t-189604"></a>
-- t-004
+- t-002
   global_id: t-189604
   teiginys: "Narbutas Mindaugo–1386 m. laikotarpį užbaigia Lietuvos krikščionybės įvedimu, Jogailos vedybomis su Jadvyga ir tautos vertimu krikštytis."
   atnaujinta: "2026-07-12 22:33"
@@ -116,7 +116,7 @@ Nenurodyta
     - c-172487
 
 <a id="claim-t-197231"></a>
-- t-005
+- t-004
   global_id: t-197231
   teiginys: "Todėl blogai daro kunigai, ku rie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichėjų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var dan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra mentą draudžiama."
   atnaujinta: "2026-07-12 22:32"
@@ -129,7 +129,7 @@ Nenurodyta
     - c-172485
 
 <a id="claim-t-197232"></a>
-- t-006
+- t-005
   global_id: t-197232
   teiginys: "Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di delis lietuvių svetingumas, darbštumas, namų gyvenimo do rybės."
   atnaujinta: "2026-07-12 22:32"
@@ -140,18 +140,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179076
-
-<a id="claim-t-189601"></a>
-- t-001
-  global_id: t-189601
-  teiginys: 'Narbutas perteikia aiškinimą, kad katalikybės priėmimą Lietuvoje palengvino lietuvių paklusnumas viešpataujantiems kunigaikščiams.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas katalikybės priėmimo kontekstas, o vertinamasis religijos priėmimo aiškinimas paliktas su Narbuto atribucija. Neperkelti papildomi pagyrimai dinastijai.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Liutauras|Liutauras]]'
-  pagrindžia:
-    - c-172484
 
 ## Reikšmingi paminėjimai
 - c-001

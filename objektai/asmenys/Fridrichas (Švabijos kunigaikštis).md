@@ -8,6 +8,11 @@ datos:
   - '1251 m.'
 date_start: '1190'
 date_end: '1251'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XII'
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,11 +20,6 @@ tags:
   - karalius
   - kunigaikštis
   - valdovas
-amziai:
-  - 'XII'
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -7,14 +7,14 @@ datos:
   - '1261 m.'
 date_start: '1261'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
   - karas
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

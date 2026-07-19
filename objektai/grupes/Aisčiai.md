@@ -89,7 +89,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - susijęs iš Variae: Kassiodoro „Variae“ V, 12 pateiktas Teodoriko padėkos laiško aisčiams už gintaro dovanas tekstas.
 - susijęs iš Jotvingų kraštas: 1009 m. vasario 14 d. jotvingų krašte buvo nužudytas aisčių krašte apaštalavęs asmuo ir jo palydovai.
 - susijęs iš Lenkija: 1008 m. pabaigoje iš Lenkijos aisčių krikštyti išvyko misijonierius su 18 palydovų.
-- susijęs iš Prūsai: Ordinas visą nukariautą kraštą vadino Prūsais pagal vakarines aisčių gimines, pirmąsias jo pavergtas.
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05332|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192096|Aisčių laidotuvių ir vėlinių apeigos]]: Laidodami lavonus aisčiai į kapą dėdavo įkapes, o laidojimo būdas buvo nevienodas: žymesniuosius sudegindavo, kitus laidodavo nesudegintus su daiktais.
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192097|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.

@@ -8,15 +8,15 @@ datos:
   - '1009 m.'
 date_start: '1009'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vyskupas
   - autorius
-amziai:
-  - 'XI'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -144,7 +144,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     - c-174417
 
 <a id="claim-t-194669"></a>
-- t-008
+- t-005
   global_id: t-194669
   teiginys: "Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Kuronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali nis pavadinimas."
   atnaujinta: "2026-07-12 22:33"
@@ -157,7 +157,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     - c-177066
 
 <a id="claim-t-197629"></a>
-- t-009
+- t-007
   global_id: t-197629
   teiginys: "Tačiau jis prieštarauja sau ir savo tiksliai išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai riojoje Dnepro pakrantėje, į rytus nuo jo."
   atnaujinta: "2026-07-12 22:33"
@@ -170,7 +170,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     - c-179268
 
 <a id="claim-t-197630"></a>
-- t-010
+- t-008
   global_id: t-197630
   teiginys: "Be to, reikia pridurti nors ir nepilną, tačiau Nestoro išsaugotą jų gyvenimo paveikslą."
   atnaujinta: "2026-07-12 22:33"
@@ -181,30 +181,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174414
-
-<a id="claim-t-191534"></a>
-- t-005
-  global_id: t-191534
-  teiginys: 'Narbutas Nestorą vadino rusų istorijos tėvu ir rašė, kad jis užrašė tik sutrumpintas senų padavimų liekanas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys išlaiko Narbuto vertinamąją titulo formuluotę „rusų istorijos tėvas“. Nepridėta platesnio krikščionybės ar slavų kraustymosi konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/paminklai|paminklai]]; mentioned_place: Europa'
-  pagrindžia:
-    - c-174416
-
-<a id="claim-t-191897"></a>
-- t-007
-  global_id: t-191897
-  teiginys: 'Narbutas nurodė, kad Abulfedas ir Nestoras jūrai vartojo pavadinimą „Wariazskoje More“.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pataisyta forma, kad objektas būtų aiškus ir pavadinimas liktų kaip šaltinyje. Nepridėta kitų jūros vardų, nes teiginys skirtas Nestorui.'
-  susije_objektai: 'mentioned_place: Ryga'
-  pagrindžia:
-    - c-174779
 
 ## Reikšmingi paminėjimai
 - c-005

@@ -49,18 +49,6 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
   pagrindžia:
     - c-174656
 
-<a id="claim-t-191775"></a>
-- t-002
-  global_id: t-191775
-  teiginys: 'Foigto „Geschichte Preussens“ ištrauka aprašo senovės Prūsijos provincijas taip, kaip jas XIII a. pradžioje rado kryžiuočiai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Foigto ištraukos turinį. Jame neperžengiama citatos riba ir išlaikomas šaltinio aprašymo kontekstas.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  pagrindžia:
-    - c-174657
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai išplėtė plotą į rytus tarp Baigos pilies ir Piliavos.'

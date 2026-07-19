@@ -115,7 +115,7 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
     - c-173668
 
 <a id="claim-t-197637"></a>
-- t-006
+- t-005
   global_id: t-197637
   teiginys: "Si provincija plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis, o pavadinimą gavo iš senovinio miesto Vlm, kurį vokiš kai pradėta vadinti Culm, lenkiškai — Chefmno', anot Pretorijaus tyrimų2, šis pavadinimas turėjo reikšti kalvą, 1 S ajar zykąs."
   atnaujinta: "2026-07-12 22:33"
@@ -126,16 +126,6 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179272
-
-<a id="claim-t-197637"></a>
-- t-005
-  global_id: t-197637
-  teiginys: 'Si provincija plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis, o pavadinimą gavo iš senovinio miesto Vlm, kurį vokiš kai pradėta vadinti Culm, lenkiškai — Chefmno'', anot Pretorijaus tyrimų2, šis pavadinimas turėjo reikšti kalvą, 1 S ajar zykąs.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-005
 
 ## Citatos
 

@@ -64,18 +64,6 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
   pagrindžia:
     - c-174856
 
-<a id="claim-t-191229"></a>
-- t-002
-  global_id: t-191229
-  teiginys: 'Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys pilnas ir apie Radlofui priskirtą sudužusios planetos nuolaužų hipotezę. Spekuliatyvus aiškinimas paliktas su Teodoro Narbuto pasakojimo atribucija.'
-  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Pisanskis|Pisanskis]]; mentioned_place: Baltija; mentioned_place: Baltijos jūra; mentioned_place: Vargiai'
-  pagrindžia:
-    - c-174111
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.'

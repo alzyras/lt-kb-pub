@@ -192,7 +192,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - c-171348
 
 <a id="claim-t-197326"></a>
-- t-010
+- t-008
   global_id: t-197326
   teiginys: "Taip pat Kaunio vardas labiau už Kūno panašesnis į pa vadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos)."
   atnaujinta: "2026-07-12 22:32"
@@ -204,18 +204,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-179132
-
-<a id="claim-t-188457"></a>
-- t-008
-  global_id: t-188457
-  teiginys: 'Narbutas Mykolą Lietuvį įvardija tarp nedaugelio lietuvių, kurie per 400 metų rūpinosi krašto praeitimi.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Vertinamasis Narbuto teiginys suformuluotas kaip jo vertinimas apie Mykolą Lietuvį. Neperimtas perdėtas teiginys kaip neutralus istorinis faktas.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Samojedai|Samojedai]]'
-  pagrindžia:
-    - c-171347
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88036|Mykolas Lietuvis Michalonis Lit]]: Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88037|Mykolas Lietuvis Michalonis Lit]]: Mykolas Lietuvis liudijo, kad totoriai seniau garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.
 - susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54298|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija, veikusi per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.

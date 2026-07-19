@@ -8,13 +8,13 @@ datos:
   - '1950 m.'
 date_start: '1406'
 date_end: '1950'
-amziai:
-  - 'XV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,7 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 ## Teiginiai
 
 <a id="claim-t-31592"></a>
-- t-001
+- t-002
   global_id: t-31592
   teiginys: "A. Nasonovo „Novogrodskaja pervaja letopis'' staršego i mladšego izvodov“ išleista Maskvoje-Leningrade 1950 m."
   atnaujinta: "2026-07-10 10:39"
@@ -54,6 +54,16 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33509
+
+<a id="claim-t-31592"></a>
+- t-001
+  global_id: t-31592
+  teiginys: 'A. Nasonovo „Novogrodskaja pervaja letopis'''' staršego i mladšego izvodov“ išleista Maskvoje-Leningrade 1950 m.'
+  susije_objektai: 'mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1406 m.; įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  pagrindžia:
+    - c-001
 
 ## Citatos
 

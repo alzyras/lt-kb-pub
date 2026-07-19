@@ -156,6 +156,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
         buvo medės, arba girios.
   citata_rodoma: "už tų tyrų, juo į šiaurę einant,\nbuvo medės, arba girios."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

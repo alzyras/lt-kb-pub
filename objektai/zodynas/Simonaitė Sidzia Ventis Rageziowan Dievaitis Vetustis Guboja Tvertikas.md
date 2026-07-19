@@ -50,18 +50,6 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
   pagrindžia:
     - c-172139
 
-<a id="claim-t-189252"></a>
-- t-002
-  global_id: t-189252
-  teiginys: 'Narbutas Vetustį (Wetustis) nurodo kaip Rietavo miestelio fetišą, kurio lietuviška reikšmė esanti „senovinis“.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Religinė ir etimologinė informacija pateikta su Narbuto atribucija. Puslapio triukšmas ir atskiras Gubojos bei Tvertiko sąrašas pašalinti.'
-  susije_objektai: 'mentioned_place: Rietavas; mentioned_place: Saratovas'
-  pagrindžia:
-    - c-172140
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, kurį garbino Mikuckių giminė.'

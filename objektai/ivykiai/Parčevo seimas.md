@@ -7,13 +7,13 @@ datos:
   - '1496 m.'
 date_start: '1496'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - seimas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -76,26 +76,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169911
-
-<a id="claim-t-186648"></a>
-- t-001
-  global_id: t-186648
-  teiginys: 'Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Parčevas; mentioned_place: Polockas; mentioned_place: Vitebskas; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Polockas; llm_object: Vitebskas'
-  pagrindžia:
-    - c-169912
-
-<a id="claim-t-186649"></a>
-- t-002
-  global_id: t-186649
-  teiginys: 'Lenkijos karaliaus Olbrachto ir Lietuvos didžiojo kunigaikščio Aleksandro atstovai per pasitarimą nutarė sušaukti seimą Parčeve.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Parčevo seimo sušaukimo sprendimą ir jį priėmusius atstovus. Citata tiesiogiai remia subjektus, veiksmą ir seimo vietą.'
-  susije_objektai: 'mentioned_place: Parčevas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  pagrindžia:
-    - c-169912
 
 ## Reikšmingi paminėjimai
 - c-001

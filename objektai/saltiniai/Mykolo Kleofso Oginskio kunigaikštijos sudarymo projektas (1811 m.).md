@@ -161,6 +161,7 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
     cija buvo Rusijos senatas).
   citata_rodoma: "Be to, jis siūlė pa-\nlikti toje kunigaikštijoje\nLietuvos statutą be jokių\napribojimų ir įsteigti nuo\nPetrapilio visiškai nepri-\nklausomą tribunolą (mat,\ntada aukščiausioji instan-\ncija buvo Rusijos senatas)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

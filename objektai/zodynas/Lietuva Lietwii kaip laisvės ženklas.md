@@ -7,13 +7,13 @@ datos:
   - '1483 m.'
 date_start: '1483'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinis-terminas
   - sąvoka
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,33 +55,6 @@ Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo de
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172006
-
-<a id="claim-t-189116"></a>
-- t-001
-  global_id: t-189116
-  teiginys: 'Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, siejamą su lietuviais, latviais ir estais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys paverstas pilnu sakiniu apie deivės vardą ir priskirtas ypatybes. Mitologinė interpretacija palikta su Narbuto atribucija, be papildomo skandinavų kilmės plėtojimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Lietuva; mentioned_place: Trakai'
-  pagrindžia:
-    - c-172004
-
-<a id="claim-t-189117"></a>
-- t-002
-  global_id: t-189117
-  teiginys: 'Narbutas 1483 m. Kazimiero privilegiją Rimvydui laikė įrodymu, kad katinas lietuviams buvo stabmeldiškosios laisvės, arba Lietwii, ženklas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas dokumento kontekstas ir katino kaip ženklo interpretacija. Kadangi tai Narbuto įrodinėjimas apie simbolį, teiginys paliktas atribucinis.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Rimvydas|Rimvydas]]; mentioned_place: Merkinė; mentioned_place: Trakai; mentioned_place: Upės (Oppen) kaimas; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1483 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Išskleistas dokumento kontekstas ir katino kaip ženklo interpretacija. Kadangi tai Narbuto įrodinėjimas apie simbolį, teiginys paliktas atribucinis.'
-  pagrindžia:
-    - c-172005
 
 ## Reikšmingi paminėjimai
 - c-001

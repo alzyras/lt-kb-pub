@@ -8,16 +8,16 @@ datos:
   - '1166 m.'
 date_start: '1100'
 date_end: '1166'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - autorius
+amziai:
+  - 'XI'
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
 ## Teiginiai
 
 <a id="claim-t-30556"></a>
-- t-001
+- t-002
   global_id: t-30556
   teiginys: "Al''-Idrisi, remdamasis pirklių, keliautojų ir piligrimų žiniomis, „Rogero knygoje“ minėjo rytų Pabaltijį ir galimai Kauną."
   atnaujinta: "2026-07-10 10:39"
@@ -57,6 +57,16 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32898
+
+<a id="claim-t-30556"></a>
+- t-001
+  global_id: t-30556
+  teiginys: 'Al''''-Idrisi, remdamasis pirklių, keliautojų ir piligrimų žiniomis, „Rogero knygoje“ minėjo rytų Pabaltijį ir galimai Kauną.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ispanija; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1100-1166'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  pagrindžia:
+    - c-001
 
 ## Citatos
 

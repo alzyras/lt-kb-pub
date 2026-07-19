@@ -30,7 +30,7 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
 ## Teiginiai
 
 <a id="claim-t-189177"></a>
-- t-002
+- t-001
   global_id: t-189177
   teiginys: "Narbutas Saulės rūmus vaizduoja rytuose, šventoje ir palaimintoje lietuvių protėvių tėvynėje, vadintoje Aušinimą zemme."
   atnaujinta: "2026-07-12 22:33"
@@ -63,17 +63,6 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172066
-
-<a id="claim-t-189176"></a>
-- t-001
-  global_id: t-189176
-  teiginys: 'Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso gėrio ir gyvybės teikėją.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Mitologinis aiškinimas paliktas su Narbuto atribucija. Išskleistas Saulės vaidmuo, bet nepridėta nieko už citatos ribų.'
-  pagrindžia:
-    - c-172064
 
 ## Reikšmingi paminėjimai
 - c-001

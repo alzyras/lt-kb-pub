@@ -50,18 +50,6 @@ Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį g
   pagrindžia:
     - c-172158
 
-<a id="claim-t-189271"></a>
-- t-002
-  global_id: t-189271
-  teiginys: 'Narbutas rašė, kad Pelenų Gabijos moterys šaukdavosi kūrendamos namų krosnis, o Moterų Gabijos - kepėjai, siekę sėkmingos duonos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas subjektas ir apeiginis kontekstas, paliekant mitologinę interpretaciją su Narbuto atribucija. Neįtraukta platesnė analogija su Apolonu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]'
-  pagrindžia:
-    - c-172159
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį globojusią ir nuo gaisrų saugojusią deivę.'

@@ -71,18 +71,6 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
   pagrindžia:
     - c-174126
 
-<a id="claim-t-191243"></a>
-- t-002
-  global_id: t-191243
-  teiginys: 'Narbutas Aleksandro Humbolto veikalus apie Žemės temperatūros kitimą siejo su prielaida, kad Šiaurėje labai seniai būta gyventojų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys pilnai suformuluoja Narbuto interpretacinį ryšį tarp Humbolto veikalų ir Šiaurės gyventojų prielaidos. Interpretacija palikta Narbutui, o citatos triukšmas neperkeltas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Humboltas|Humboltas]]; mentioned_place: Azija; mentioned_place: Tibetas'
-  pagrindžia:
-    - c-174125
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Aleksandro Humbolto veikalus apie Žemės temperatūros kitimą siejo su prielaida, kad Šiaurėje labai seniai būta gyventojų.'

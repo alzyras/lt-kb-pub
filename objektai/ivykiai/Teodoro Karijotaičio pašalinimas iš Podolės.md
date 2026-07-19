@@ -10,13 +10,13 @@ datos:
   - '1395 m.'
 date_start: '1388'
 date_end: '1395'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -81,19 +81,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169937
-
-<a id="claim-t-186702"></a>
-- t-002
-  global_id: t-186702
-  teiginys: 'Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Pakartotas tas pats citatos remiamas faktas apie įvykio subjektą, veiksmą ir rezultatą. Papildomos vakarinės ir rytinės Podolės detalės neįtrauktos.'
-  susije_objektai: 'llm_object: Podolė; mentioned_place: Podolė; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1393 m.; įvykio data: 1394 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pakartotas tas pats citatos remiamas faktas apie įvykio subjektą, veiksmą ir rezultatą. Papildomos vakarinės ir rytinės Podolės detalės neįtrauktos.'
-  pagrindžia:
-    - c-169936
 
 ## Reikšmingi paminėjimai
 - c-001
