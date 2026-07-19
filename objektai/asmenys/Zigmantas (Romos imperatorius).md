@@ -482,6 +482,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87381
+
 - id: c-83359
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -503,20 +504,7 @@ media_all_json: |-
     mu brań s Kniazem Juriiem o Welikom
     Kniażenii, no obacze o wsem tom ne-
     breh ureczesia, i na zimu prisła W el.
-  citata_rodoma: |
-    Paskutinieji šio didžio valdovo viešpatavimo
-    metai buvo apnuodyti atkaklių pastangų siekti Lietuvai
-    karūnos. Imperatorius Zigmantas, įsibaiminęs dėl tokio aiš­
-    kaus Jogailos valstybės stiprėjimo, be to, svarbiausiu to meto
-    politikos tikslu laikydamas visų krikščioniškųjų kraštų su­
-    vienijimą turkams atremti, nusprendė imtis bet ko, kad
-    tik sukiršintų Jogailą su Vytautu ir Lietuvą nuo Lenkijos
-    Timofiejewicz i Bojar cztoby posłał
-    swoich Bojar k Wiłowtu i udariłby
-    czołom za Pskowicz: i biasze tohda ie-
-    mu brań s Kniazem Juriiem o Welikom
-    Kniażenii, no obacze o wsem tom ne-
-    breh ureczesia, i na zimu prisła W el.
+  citata_rodoma: "Paskutinieji šio didžio valdovo viešpatavimo \nmetai buvo apnuodyti atkaklių pastangų siekti Lietuvai \nkarūnos. Imperatorius Zigmantas, įsibaiminęs dėl tokio aiš­\nkaus Jogailos valstybės stiprėjimo, be to, svarbiausiu to meto \npolitikos tikslu laikydamas visų krikščioniškųjų kraštų su­\nvienijimą turkams atremti, nusprendė imtis bet ko, kad \ntik sukiršintų Jogailą su Vytautu ir Lietuvą nuo Lenkijos\nTimofiejewicz i Bojar cztoby posłał \nswoich Bojar k Wiłowtu i udariłby \nczołom za Pskowicz: i biasze tohda ie- \nmu brań s Kniazem Juriiem o Welikom \nKniażenii, no obacze o wsem tom ne- \nbreh ureczesia, i na zimu prisła W el."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -524,6 +512,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87382
+
 - id: c-83360
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -557,30 +546,7 @@ media_all_json: |-
     Visame tame plote, nuo senų senovės apaugusiame girio­
     mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
     ganos medžioklių trobelės.
-  citata_rodoma: |
-    5 [apie gotų genties kilmę ir
-    karo žygius]); yra ne kokios nors vie­
-    nos tautos nomen gentile [giminės
-    vardas], bet toks įvairių tautų sam­
-    būrio nomen sociale [bendruomenės
-    vardas], koks yra frankų pavadini­
-    mas.
-    2
-    Apie Lietuvos ir Žemaitijos tapatu­
-    mą ir apie tą jos dalijimą į aukštuti­
-    nę ir žemutinę sužinome iš kuo pa­
-    tikimiausio šaltinio, iš didžiojo
-    kunigaikščio Vytauto 1420 metais
-    Romos imperatoriui Zigmantui ra-
-    švto laiško: Terra Samaytarum, - pa-
-    14
-
-    ## Puslapis 31
-
-    I  KNYGA
-    Visame tame plote, nuo senų senovės apaugusiame girio­
-    mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
-    ganos medžioklių trobelės.
+  citata_rodoma: "5 [apie gotų genties kilmę ir \nkaro žygius]); yra ne kokios nors vie­\nnos tautos nomen gentile [giminės \nvardas], bet toks įvairių tautų sam­\nbūrio nomen sociale [bendruomenės \nvardas], koks yra frankų pavadini­\nmas.\n2\nApie Lietuvos ir Žemaitijos tapatu­\nmą ir apie tą jos dalijimą į aukštuti­\nnę ir žemutinę sužinome iš kuo pa­\ntikimiausio šaltinio, iš didžiojo \nkunigaikščio Vytauto 1420 metais \nRomos imperatoriui Zigmantui ra- \nšvto laiško: Terra Samaytarum, - pa-\n14\n\n## Puslapis 31\n\nI  KNYGA\nVisame tame plote, nuo senų senovės apaugusiame girio­\nmis, palei gausių upių, versmių, ežerų krantus, stovėjo var­\nganos medžioklių trobelės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -588,6 +554,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87383
+
 - id: c-83361
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -610,6 +577,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87379
+
 - id: c-83362
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -625,15 +593,7 @@ media_all_json: |-
     gingai reiškėsi popiežius Martynas V. Jis net imperatorių Zig­
     mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­
     niškai savo autoritetu didžiai prie to prisidėjo5.
-  citata_rodoma: |
-    Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­
-    gailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­
-    cialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­
-    vinti karalių, o jeigu tai nieko neduotų, - surengti žygį į
-    Lietuvą susirinkus ties Kijanų kaimu prie Viepšo4. Čia ener­
-    gingai reiškėsi popiežius Martynas V. Jis net imperatorių Zig­
-    mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­
-    niškai savo autoritetu didžiai prie to prisidėjo5.
+  citata_rodoma: "Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­\ngailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­\ncialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­\nvinti karalių, o jeigu tai nieko neduotų, - surengti žygį į \nLietuvą susirinkus ties Kijanų kaimu prie Viepšo4. Čia ener­\ngingai reiškėsi popiežius Martynas V. Jis net imperatorių Zig­\nmantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­\nniškai savo autoritetu didžiai prie to prisidėjo5."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -641,6 +601,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87380
+
 - id: c-176132
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -663,6 +624,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193410
+
 - id: c-176133
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -688,6 +650,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193411
+
 - id: c-176134
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -717,20 +680,7 @@ media_all_json: |-
 
     jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
     siryžęs pasiekti.
-  citata_rodoma: |
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
-    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
-    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
-    bei brangakmeniais.
+  citata_rodoma: "Atvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją. Išvykstančiam Vytautas davė\ngalybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino\nnukauto tauro garsųjį ragą, išmoningai papuoštą auksu\nbei brangakmeniais."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -738,6 +688,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193412
+
 - id: c-176136
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -772,6 +723,7 @@ media_all_json: |-
   pagrindzia:
     - t-193414
     - t-196654
+
 - id: c-176644
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -791,6 +743,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194019
+
 - id: c-176842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -808,6 +761,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194246
+
 - id: c-178820
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -833,6 +787,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196653
+
 - id: c-178963
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -850,6 +805,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196883
+
 - id: c-184055
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
@@ -876,5 +832,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200710
+
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Cyleikaitė]]

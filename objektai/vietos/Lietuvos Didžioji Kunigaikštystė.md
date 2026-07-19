@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1974 m.'
   - '2008 m.'
@@ -99,6 +100,19 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   pagrindžia:
     - c-184060
 
+<a id="claim-t-201629"></a>
+- t-005
+  global_id: t-201629
+  teiginys: "Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats savavaldus miestas ir jo miestiečių bendruomenė bei nemiestiškos Kauno dalys, pilis kaip Lietuvos valstybės teritorinio administracinio vieneto, Kauno seniūni jos/pavieto centras ir bažnyčios struktūros."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184976
+
 ## Citatos
 
 - id: c-176874
@@ -145,6 +159,7 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194282
+
 - id: c-176875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -173,6 +188,7 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194283
+
 - id: c-179209
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -189,6 +205,7 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197472
+
 - id: c-184060
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
@@ -210,3 +227,22 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200715
+
+- id: c-184976
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas. Kau-
+    nas, kaip ir visi kiti XV-XVIII a. Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats
+    savavaldus miestas ir jo miestiečių bendruomenė bei nemiestiškos Kauno dalys,
+    pilis kaip Lietuvos valstybės teritorinio administracinio vieneto, Kauno seniūni­
+    jos/pavieto centras ir bažnyčios struktūros; katalikų parapinė bažnyčia/parapija,
+    Kaune įsikūrusios vienuolijos, vėliau atsiradusi liuteronų bažnyčia/bendruomenė.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201629

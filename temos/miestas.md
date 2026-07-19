@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 524
+tema_objektu_skaicius: 529
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 524.
+Objektų skaičius: 529.
 
 ## Kaip naudoti
 
@@ -26,8 +26,12 @@ Objektų skaičius: 524.
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Albertas Janavičius]]
+- [[objektai/asmenys/Bona]]
 - [[objektai/asmenys/Ditrichas iš Altenburgo]]
+- [[objektai/asmenys/Grigalius Astikas]]
 - [[objektai/asmenys/Hirtshalsas]]
+- [[objektai/asmenys/Ulrikas Hozijus]]
 
 ### Autoriai
 - [[objektai/autoriai/Hartknochas]]
@@ -57,10 +61,10 @@ Objektų skaičius: 524.
 - [[objektai/vietos/Angerburgas]]
 - [[objektai/vietos/Antverpenas]]
 - [[objektai/vietos/Aragonas]]
-- [[objektai/vietos/Ariogala]]
-- [[objektai/vietos/Astrachanas]]
-- [[objektai/vietos/Atėnai]]
-- [[objektai/vietos/Augsburgas]]
+- [Ariogala](../objektai/vietos/Ariogala)
+- [Astrachanas](../objektai/vietos/Astrachanas)
+- [Atėnai](../objektai/vietos/At%C4%97nai)
+- [Augsburgas](../objektai/vietos/Augsburgas)
 - [Augustavas](../objektai/vietos/Augustavas)
 - [Aukštutinė pilis](../objektai/vietos/Auk%C5%A1tutin%C4%97%20pilis)
 - [Avinjonas](../objektai/vietos/Avinjonas)
@@ -562,3 +566,6 @@ Objektų skaičius: 524.
 
 ### Įvykiai
 - [Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos](../objektai/ivykiai/Sventopelko%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Kulmo%20%C5%BEem%C4%99%20ir%20jo%20kariaunos%20%C5%BE%C5%ABtis%20prie%20Vyslos)
+
+### Žodynas
+- [vaitas](../objektai/zodynas/vaitas)

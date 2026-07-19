@@ -38,6 +38,7 @@ const facetVisibleLimit = (key: MediaFacetKey) => FACET_VISIBLE_LIMIT[key] ?? 10
 const catalogRequests = new Map<string, Promise<MediaEntry[]>>()
 const detailCache = new Map<string, Promise<MediaEntry>>()
 const naturalSizeCache = new Map<string, Promise<{ width: number; height: number } | null>>()
+const knownNaturalDimensions = new Map<string, { width: number; height: number }>()
 
 const text = (value: unknown) => cleanText(value)
 const displayDate = (value: unknown) =>
@@ -73,6 +74,7 @@ function applyResolvedDimensions(
   dimensions: { width: number; height: number } | null | undefined,
 ) {
   if (!dimensions?.width || !dimensions?.height) return
+  knownNaturalDimensions.set(mediaIdentity(entry), dimensions)
   entry.width = dimensions.width
   entry.height = dimensions.height
 }
@@ -197,7 +199,7 @@ function setStateValues(state: GalleryState, key: MediaFacetKey, values: string[
   else state[key] = values
 }
 
-function card(entry: MediaEntry, index: number): HTMLElement {
+function card(entry: MediaEntry, index: number, onImageDimensions?: () => void): HTMLElement {
   const article = document.createElement("article")
   article.className = "media-gallery-card"
   article.dataset.mediaId = text(entry.mediaId)
@@ -210,9 +212,19 @@ function card(entry: MediaEntry, index: number): HTMLElement {
     .join(" · ")
   const href = galleryUrl(emptyGalleryState(), text(entry.mediaId))
   article.innerHTML = `<a href="${escapeHtml(href)}" data-media-open="${index}" aria-label="Atidaryti: ${escapeHtml(caption)}">
-    <span class="media-gallery-card-media"><img src="${escapeHtml(entry.thumbUrl || entry.sourceUrl)}" alt="${escapeHtml(caption)}" ${entry.width ? `width="${Number(entry.width)}"` : ""} ${entry.height ? `height="${Number(entry.height)}"` : ""} loading="lazy" decoding="async">
+    <span class="media-gallery-card-media"><img src="${escapeHtml(entry.thumbUrl || entry.sourceUrl)}" alt="${escapeHtml(caption)}" loading="${index < 8 ? "eager" : "lazy"}" decoding="async">
     <span class="media-gallery-card-overlay"><span class="media-gallery-card-title">${escapeHtml(caption)}</span>${date ? `<span>${escapeHtml(date)}</span>` : ""}</span>
     <span class="media-gallery-card-hover" aria-hidden="true"><span>${escapeHtml(creator)}</span><span>${escapeHtml(objects)}</span></span></span></a>`
+  const image = article.querySelector<HTMLImageElement>("img")
+  const syncNaturalDimensions = () => {
+    if (!image?.naturalWidth || !image.naturalHeight) return
+    const dimensions = { width: image.naturalWidth, height: image.naturalHeight }
+    const changed = entry.width !== dimensions.width || entry.height !== dimensions.height
+    applyResolvedDimensions(entry, dimensions)
+    if (changed) onImageDimensions?.()
+  }
+  if (image?.complete) syncNaturalDimensions()
+  else image?.addEventListener("load", syncNaturalDimensions, { once: true })
   return article
 }
 
@@ -525,7 +537,8 @@ function applyJustifiedLayout(grid: HTMLElement, entries: MediaEntry[]) {
   const width = grid.clientWidth
   if (!width) return
   const ratios = entries.slice(0, cards.length).map((entry) => {
-    const ratio = Number(entry.width || 4) / Number(entry.height || 3)
+    const dimensions = knownNaturalDimensions.get(mediaIdentity(entry))
+    const ratio = dimensions ? dimensions.width / dimensions.height : 4 / 3
     return Number.isFinite(ratio) && ratio > 0 ? ratio : 4 / 3
   })
   const layout = createJustifiedLayout(ratios, {
@@ -649,7 +662,11 @@ function initGallery(root: HTMLElement) {
 
   const render = (writeState = true) => {
     filtered = filterMediaEntries(catalog, state, searchIndex, { lockedObject, providerAllowed })
-    grid.replaceChildren(...filtered.slice(0, visibleLimit).map(card))
+    grid.replaceChildren(
+      ...filtered
+        .slice(0, visibleLimit)
+        .map((entry, index) => card(entry, index, () => layout())),
+    )
     const shownCount = catalogComplete
       ? filtered.length
       : activeFilterCount(state)

@@ -624,14 +624,7 @@ media_all_json: |-
     buvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar
     taip yra iš tikrųjų, todėl nusivedė du jaunus pasileidėlius pas magistrą, tačiau šis, vos
     išvydęs tuos tarnus, liepė jiems išsinešdinti.
-  citata_rodoma: |
-    Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
-                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
-
-       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
-    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
-    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
-    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
+  citata_rodoma: "Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -639,6 +632,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180762
+
 - id: c-164348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -652,15 +646,7 @@ media_all_json: |-
     ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
     Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
     ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas.
-  citata_rodoma: |
-    125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
-
-      1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių
-    kariuomenė siaubė jo karalystę.
-
-
-
-                    126.
+  citata_rodoma: "125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį\n\n  1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių\nkariuomenė siaubė jo karalystę.\n\n\n\n                126."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -669,6 +655,7 @@ media_all_json: |-
   pagrindzia:
     - t-180765
     - t-180773
+
 - id: c-164349
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -679,11 +666,7 @@ media_all_json: |-
     dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
     (1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis
     bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes.
-  citata_rodoma: |
-    Bet Vengrijos karalius, pamatęs, kad or-
-    dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
-    (1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis
-    bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes.
+  citata_rodoma: "Bet Vengrijos karalius, pamatęs, kad or-\ndinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo\n(1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis\nbylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -692,6 +675,7 @@ media_all_json: |-
   pagrindzia:
     - t-180766
     - t-180768
+
 - id: c-164351
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -705,12 +689,7 @@ media_all_json: |-
 
     1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
     kariuomenę, kuri buvo suspiesta Pskove.
-  citata_rodoma: |
-    Tuo būdu surinkus pinigų, prisi-
-    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
-    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
-
-    1579 m.
+  citata_rodoma: "Tuo būdu surinkus pinigų, prisi-\nsamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-\ngaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),\n\n1579 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -719,6 +698,7 @@ media_all_json: |-
   pagrindzia:
     - t-180763
     - t-180770
+
 - id: c-164352
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -732,11 +712,7 @@ media_all_json: |-
     čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
     patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
     lapio.
-  citata_rodoma: |
-    Lietuva, Lenkijos padedama, atsilaikė prieš sta-
-    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
-    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
-    lapio.
+  citata_rodoma: "Lietuva, Lenkijos padedama, atsilaikė prieš sta-\nčiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. \npatyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-\nlapio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -744,6 +720,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180775
+
 - id: c-164354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -755,10 +732,7 @@ media_all_json: |-
     pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
     papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
     dievui bei jam įstotų į šį ordiną.
-  citata_rodoma: |
-    22. Apie Vengrijos ir Lenkijos nusiaubimą
-
-       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
+  citata_rodoma: "22. Apie Vengrijos ir Lenkijos nusiaubimą\n\n   Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -766,6 +740,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180767
+
 - id: c-164355
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -776,12 +751,7 @@ media_all_json: |-
     Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.
     Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
     lų, gaminta bombos ir kiti karo reikmenys.
-  citata_rodoma: |
-    Alavas ir varis iš
-    Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į
-    Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.
-    Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
-    lų, gaminta bombos ir kiti karo reikmenys.
+  citata_rodoma: "Alavas ir varis iš\nVengrijos buvo gabenamas į Krokuvą, o ten superkamas į\nVilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.\nŠiame anuomet garsiame fabrike išlieta labai daug pabūk­\nlų, gaminta bombos ir kiti karo reikmenys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -790,6 +760,7 @@ media_all_json: |-
   pagrindzia:
     - t-180772
     - t-180774
+
 - id: c-164356
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -807,17 +778,7 @@ media_all_json: |-
     Šventasis Kazimieras, kurio mirtis,
     tapytojo Dankerso pavaizduota
     al fresco ant kairės Šv.
-  citata_rodoma: |
-    Prabėgus
-    aštuoneriems metams, pats karalius Kazimieras, būdamas
-    Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­
-    nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­
-    niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia
-    šį pasaulį.
-    39
-    Šventasis Kazimieras, kurio mirtis,
-    tapytojo Dankerso pavaizduota
-    al fresco ant kairės Šv.
+  citata_rodoma: "Prabėgus\naštuoneriems metams, pats karalius Kazimieras, būdamas\nVilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­\nnimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­\nniaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia\nšį pasaulį.\n39\nŠventasis Kazimieras, kurio mirtis,\ntapytojo Dankerso pavaizduota\nal fresco ant kairės Šv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -825,6 +786,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180764
+
 - id: c-168534
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -854,20 +816,7 @@ media_all_json: |-
 
     jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
     siryžęs pasiekti.
-  citata_rodoma: |
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
-    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
-    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
-    bei brangakmeniais.
+  citata_rodoma: "Atvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją. Išvykstančiam Vytautas davė\ngalybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino\nnukauto tauro garsųjį ragą, išmoningai papuoštą auksu\nbei brangakmeniais."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -875,6 +824,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185173
+
 - id: c-175539
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -895,6 +845,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192769
+
 - id: c-175980
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -912,6 +863,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193244
+
 - id: c-184064
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
@@ -930,6 +882,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200719
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Motiejus Huniadis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]]

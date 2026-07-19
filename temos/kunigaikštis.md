@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 606
+tema_objektu_skaicius: 607
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 606.
+Objektų skaičius: 607.
 
 ## Kaip naudoti
 
@@ -616,6 +616,7 @@ Objektų skaičius: 606.
 - [Cistersų ordinas](../objektai/grupes/Cisters%C5%B3%20ordinas)
 - [Dobrynės broliai](../objektai/grupes/Dobryn%C4%97s%20broliai)
 - [Lenkijos senatas](../objektai/grupes/Lenkijos%20senatas)
+- [Radvilų giminė](../objektai/grupes/Radvil%C5%B3%20gimin%C4%97)
 
 ### Vietos
 - [Italija](../objektai/vietos/Italija)

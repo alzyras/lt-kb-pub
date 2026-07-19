@@ -17,6 +17,7 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1000 m.'
   - '1306 m.'
@@ -95,9 +96,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-182983
 
-<a id="claim-t-10868"></a>
+<a id="claim-t-10865"></a>
 - t-002
-  global_id: t-10868
+  global_id: t-10865
   teiginys: "Vytauto laikais Vilnius išaugo į didelį rytų Europos miestą."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "auto"
@@ -107,9 +108,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-183016
 
-<a id="claim-t-10869"></a>
+<a id="claim-t-10866"></a>
 - t-003
-  global_id: t-10869
+  global_id: t-10866
   teiginys: "Švitrigaila savo kovose buvo pasiekęs ir Vilnių."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "auto"
@@ -257,7 +258,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-165231
-    - c-183135
+
 <a id="claim-t-181644"></a>
 - t-011
   global_id: t-181644
@@ -298,9 +299,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-183263
 
-<a id="claim-t-181745"></a>
+<a id="claim-t-181650"></a>
 - t-013
-  global_id: t-181745
+  global_id: t-181650
   teiginys: "Kijevo ir visos Rusios metropolitas buvo įkurdintas Vilniuje, kur jam pastatyta katedra ir rezidencija."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "auto"
@@ -393,7 +394,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-165355
-    - c-183196
+
 <a id="claim-t-181659"></a>
 - t-018
   global_id: t-181659
@@ -431,7 +432,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   semantiniai_rysiai: "Stačiatikiai gyveno Vilnius (0.86)"
   pagrindžia:
     - c-165354
-    - c-165397
+
 <a id="claim-t-181664"></a>
 - t-020
   global_id: t-181664
@@ -510,9 +511,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-183239
 
-<a id="claim-t-181926"></a>
+<a id="claim-t-181673"></a>
 - t-024
-  global_id: t-181926
+  global_id: t-181673
   teiginys: "V. Daugirdaitė-Sruogienė iki 1944 m. buvo istorijos mokytoja Kaune ir Vilniuje."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "auto"
@@ -528,8 +529,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiesiogiai remiasi citata."
   pagrindžia:
-    - c-165414
     - c-183038
+
 <a id="claim-t-181674"></a>
 - t-025
   global_id: t-181674
@@ -694,7 +695,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-165357
-    - c-183110
+
 <a id="claim-t-181698"></a>
 - t-034
   global_id: t-181698
@@ -802,7 +803,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-165188
-    - c-165422
+
 <a id="claim-t-181710"></a>
 - t-040
   global_id: t-181710
@@ -820,9 +821,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-165263
 
-<a id="claim-t-181880"></a>
+<a id="claim-t-181720"></a>
 - t-041
-  global_id: t-181880
+  global_id: t-181720
   teiginys: "1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "auto"
@@ -1138,7 +1139,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   temporalinis_llm_pakomentavimas: "Sakinys yra faktinis, gramatiškas ir aiškiai mini organizacijos įkūrimą Vilniuje."
   pagrindžia:
     - c-165366
-    - c-183136
+
 <a id="claim-t-181785"></a>
 - t-060
   global_id: t-181785
@@ -1244,7 +1245,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-165186
-    - c-165284
+
 <a id="claim-t-181799"></a>
 - t-066
   global_id: t-181799
@@ -1351,7 +1352,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-165180
-    - c-165366
+
 <a id="claim-t-181815"></a>
 - t-072
   global_id: t-181815
@@ -1892,7 +1893,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-165368
-    - c-183128
+
 <a id="claim-t-181868"></a>
 - t-101
   global_id: t-181868
@@ -2018,9 +2019,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-183139
 
-<a id="claim-t-181881"></a>
+<a id="claim-t-181875"></a>
 - t-108
-  global_id: t-181881
+  global_id: t-181875
   teiginys: "Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "auto"
@@ -2033,8 +2034,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnius\" parinktas kaip owner_note_path. Targetas \"Dlugošas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-183197
     - c-165425
+
 <a id="claim-t-181876"></a>
 - t-109
   global_id: t-181876
@@ -2109,7 +2110,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32538
-    - c-183183
+
 <a id="claim-t-181890"></a>
 - t-113
   global_id: t-181890
@@ -2541,7 +2542,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir tiesiogiai paremtas pateikta citata."
   pagrindžia:
     - c-165342
-    - c-183175
+
 <a id="claim-t-181937"></a>
 - t-137
   global_id: t-181937
@@ -3112,7 +3113,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-183033
-    - c-182967
+
 <a id="claim-t-188864"></a>
 - t-171
   global_id: t-188864
@@ -3132,7 +3133,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-183096
-    - c-183033
+
 <a id="claim-t-188865"></a>
 - t-172
   global_id: t-188865
@@ -3152,7 +3153,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-183210
-    - c-183052
+
 <a id="claim-t-188866"></a>
 - t-173
   global_id: t-188866
@@ -3212,7 +3213,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-183061
-    - c-183096
+
 <a id="claim-t-188869"></a>
 - t-176
   global_id: t-188869
@@ -3232,7 +3233,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-183055
-    - c-183210
+
 <a id="claim-t-190657"></a>
 - t-177
   global_id: t-190657
@@ -3272,7 +3273,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-183255
-    - c-183061
+
 <a id="claim-t-190659"></a>
 - t-179
   global_id: t-190659
@@ -3352,7 +3353,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-183274
-    - c-183055
+
 <a id="claim-t-192774"></a>
 - t-183
   global_id: t-192774
@@ -3760,9 +3761,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-182954
 
-<a id="claim-t-200026"></a>
+<a id="claim-t-199985"></a>
 - t-210
-  global_id: t-200026
+  global_id: t-199985
   teiginys: "Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didelį gaisrą, sunaikinusį didelę miesto dalį."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "auto"
@@ -3774,8 +3775,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   semantiniai_rysiai: "[[objektai/grupes/Lietuviai|Lietuviai]] gynė Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-183205
     - c-183172
+
 <a id="claim-t-199988"></a>
 - t-211
   global_id: t-199988
@@ -3845,9 +3846,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-183237
 
-<a id="claim-t-187676"></a>
+<a id="claim-t-200006"></a>
 - t-216
-  global_id: t-187676
+  global_id: t-200006
   teiginys: "Lietuvos metraščio pasakojime Gediminas prieš žūtį perdavė aukščiausią valdžią Vilniuje Jaunučiui."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "auto"
@@ -4542,9 +4543,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-183190
 
-<a id="claim-t-188870"></a>
+<a id="claim-t-200109"></a>
 - t-259
-  global_id: t-188870
+  global_id: t-200109
   teiginys: "Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "auto"
@@ -5125,9 +5126,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-183112
 
-<a id="claim-t-200197"></a>
+<a id="claim-t-200191"></a>
 - t-295
-  global_id: t-200197
+  global_id: t-200191
   teiginys: "Gedimino laikais Vilnius iš mažos gyvenvietės išaugo į miestą ir buvo pasirinktas Lietuvos karalystės sostine."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "auto"
@@ -5138,8 +5139,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-183193
     - c-183095
+
 <a id="claim-t-200192"></a>
 - t-296
   global_id: t-200192
@@ -6074,6 +6075,123 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184465
+
+<a id="claim-t-201671"></a>
+- t-356
+  global_id: t-201671
+  teiginys: "Žygimantas Kęstutaitis atleido Vilniaus miestiečius nuo muitų, tarp vietų, kuriose iš vilniečių neturi būti imamas muitas, buvo įvardytas ir Kaunas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185018
+
+<a id="claim-t-201672"></a>
+- t-357
+  global_id: t-201672
+  teiginys: "Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Lietuvos kancleriui ir Vilniaus vaivadai Mikalojui Radvilai, kad dėl kelio į Kauną uždarymo visa druska ir kitos prekės, paprastai vežamos per Kauną, pasuko Bugu ir Narevu, o Kauno muitinės."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185019
+
+<a id="claim-t-201673"></a>
+- t-358
+  global_id: t-201673
+  teiginys: "Gertrūdos buvo pastatyta miesto valdose į rytus nuo paties miesto, prie kelio į Vilnių."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185020
+
+<a id="claim-t-201674"></a>
+- t-359
+  global_id: t-201674
+  teiginys: "Keliai, jungiantys Kauną su kitais miestais, neturėjo didelės reikšmės jo pradinei urbanistinei raidai, nes planuojant miesto gatvių tinklą gal tik vienintelis kelias iš pilies į Vilnių pateko į miesto teritoriją ir galėjo turėti tik nedidelę įtaką planuojant."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185021
+
+<a id="claim-t-201675"></a>
+- t-360
+  global_id: t-201675
+  teiginys: "Tiesa, Kauno miestiečių pasiuntiniai miesto reikalais dažnai lankydavosi valdovo dvare, ir ne tik Vilniuje, kur buvo parengta daugiausia valdovų privilegijų Kauno miestui ir kitokių raštų Kauno reikalais."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185022
+
+<a id="claim-t-201676"></a>
+- t-361
+  global_id: t-201676
+  teiginys: "Valstybėje jau buvo tapę norma, kad į Vilnių, į valstybės seimus, po 1569 m. Liublino unijos į konvokacinius suvažiavimus, o ypač į Vyriausiojo Lietuvos tribunolo sesijas suvažiuojantys bajorai apsistodavo miestiečių namuose, niekaip už tą pastovį."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185023
+
+<a id="claim-t-201677"></a>
+- t-362
+  global_id: t-201677
+  teiginys: "1560 m. Žygimantas Augustas, reaguodamas į vilniečių skundą, esą jiems trukdoma Kaune prekiauti, iš jų imamas vadinamasis atvykimo mokestis (Jl8Ka, mokestis, kurį turėjo sumokėti į miestą su prekėmis atvykęs pirklys) kaip iš maskvėnų, nurodė kauniečiams."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185024
+
+<a id="claim-t-201678"></a>
+- t-363
+  global_id: t-201678
+  teiginys: "1580 m. Steponas Batoras leido Kauno cecho siuvėjams naudotis vilniečių nuostatais, 1609 m. Zigmantas Vaza tą leidimą patvirtino."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185025
+
+<a id="claim-t-201679"></a>
+- t-364
+  global_id: t-201679
+  teiginys: "Jų tėvai, pirklys Jonas Kojaiavičius ir Kauno miesto vaito Alberto Beinarto duktė Brigita, mirė 1627-1628 m. greičiausiai Kaune siautusio maro metu ir broliai visai jauni pateko į Vilniaus jėzuitų globą."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185026
 - susijęs iš [[objektai/asmenys/Jascha Heifetz.md#claim-t-26445|Jascha Heifetz]]: Jascha Heifetzas buvo 1901 m. Vilniuje gimęs ir smuiko mokęsis virtuozas.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176439|Jaunutis (valdovas, XIV a.)]]: Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.
 - susijęs iš [[objektai/asmenys/Jaunė (Jievna).md#claim-t-34795|Jaunė (Jievna)]]: Gedimino našlė Jaunė tikriausiai buvo jungiantis veiksnys, kai Vilniuje gyveno kartu su Jaunučiu.
@@ -11768,6 +11886,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181885
+
 - id: c-165180
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11782,6 +11901,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181813
+
 - id: c-165186
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11807,20 +11927,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: |
-    Taigi Abiejų Tautų Respublika:
-    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
-    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
-    bajoriškosios demokratijos tradiciją,
-    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
-    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
-    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
-    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
-    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
-    šventųjų, poetų, retorikų ir logikų tradicijas,
-    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
-    tūros mokyklą,
-    • sukūrė teisinę tradiciją, kuri XVI a.
+  citata_rodoma: "Taigi Abiejų Tautų Respublika:\n•\t aprūpino Vakarus (per Gdanską į Amsterdamą) javais, \n•\t sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir \nbajoriškosios demokratijos tradiciją, \n•\t Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių \nribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-\nsauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,\n•\t iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-\npoje Vilniaus universitetą, turintį savitas misionierių, kankinių ir \nšventųjų, poetų, retorikų ir logikų tradicijas,\n•\t išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-\ntūros mokyklą,\n• sukūrė teisinę tradiciją, kuri XVI a."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -11830,6 +11937,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - t-181797
     - t-181850
     - t-181877
+
 - id: c-165188
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11842,12 +11950,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Lite). Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
     žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-
     no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
-  citata_rodoma: |
-    Taip Vilnius XVIII a. tapo žydų gyvenimo pastovumo ir kultūros kles-
-    tėjimo simboliu ir buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de
-    Lite). Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
-    žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-
-    no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
+  citata_rodoma: "Taip Vilnius XVIII a. tapo žydų gyvenimo pastovumo ir kultūros kles-\ntėjimo simboliu ir buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de \nLite). Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam \nžydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-\nno, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -11855,6 +11958,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181709
+
 - id: c-165192
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11867,10 +11971,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     dėjusiai veikti generalgubernatoriaus institucijai. 1819 m. nuo Vilniaus
     gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras
     Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.
-  citata_rodoma: |
-    1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
-    Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
-    dėjusiai veikti generalgubernatoriaus institucijai. 1819 m.
+  citata_rodoma: "1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos \nGardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-\ndėjusiai veikti generalgubernatoriaus institucijai. 1819 m."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -11879,6 +11980,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181668
     - t-181897
+
 - id: c-165194
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11890,11 +11992,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių.
     1385
     Krėvos sutartis.
-  citata_rodoma: |
-    1323
-    Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių.
-    1385
-    Krėvos sutartis.
+  citata_rodoma: "1323\t\nGediminas perkelia Lietuvos sostinę iš Trakų į Vilnių. \n1385\t\nKrėvos sutartis."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -11902,6 +12000,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181870
+
 - id: c-165231
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -11912,11 +12011,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     rengė 70 žygių į Lietuvą, pirmą kartą pasiekdami Vilnių ir Trakus,
     lietuviai į tai atsakė 30 žygių į Ordino teritoriją. Lietuvos gynyba
     ėmė trūkinėti ir tik didžiulių pastangų dėka pavyko atsilaikyti.
-  citata_rodoma: |
-    Per 20 metų kryžiuočiai su-
-    rengė 70 žygių į Lietuvą, pirmą kartą pasiekdami Vilnių ir Trakus,
-    lietuviai į tai atsakė 30 žygių į Ordino teritoriją. Lietuvos gynyba
-    ėmė trūkinėti ir tik didžiulių pastangų dėka pavyko atsilaikyti.
+  citata_rodoma: "Per 20 metų kryžiuočiai su-\nrengė 70 žygių į Lietuvą, pirmą kartą pasiekdami Vilnių ir Trakus,\nlietuviai į tai atsakė 30 žygių į Ordino teritoriją. Lietuvos gynyba\nėmė trūkinėti ir tik didžiulių pastangų dėka pavyko atsilaikyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -11924,6 +12019,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181643
+
 - id: c-165263
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -11935,12 +12031,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­
     namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
     žinios, patarimo ir valios nepradėti karo.
-  citata_rodoma: |
-    Į Lietuvą siunčiama pagal­
-    binė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo
-    būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­
-    namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
-    žinios, patarimo ir valios nepradėti karo.
+  citata_rodoma: "Į Lietuvą siunčiama pagal­\nbinė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo\nbūti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­\nnamas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo\nžinios, patarimo ir valios nepradėti karo."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -11948,6 +12039,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181710
+
 - id: c-165275
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11959,10 +12051,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-
     ria buvo įsteigiama ir aprūpinama vyskupo institucija. Ši privilegija yra
     svarbiausias krikščionybės įvedimo Lietuvoje aktas.
-  citata_rodoma: |
-    1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-
-    ria buvo įsteigiama ir aprūpinama vyskupo institucija. Ši privilegija yra
-    svarbiausias krikščionybės įvedimo Lietuvoje aktas.
+  citata_rodoma: "1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-\nria buvo įsteigiama ir aprūpinama vyskupo institucija. Ši privilegija yra \nsvarbiausias krikščionybės įvedimo Lietuvoje aktas."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -11970,6 +12059,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181901
+
 - id: c-165278
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11984,14 +12074,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
     darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
     („Didysis artilerijos menas“) (1650).
-  citata_rodoma: |
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
-    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
-    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
-    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
-    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
-    („Didysis artilerijos menas“) (1650).
+  citata_rodoma: "Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi \npakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-\nklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-\ntas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė \nsolidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu \ndarbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ \n(„Didysis artilerijos menas“) (1650)."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -11999,6 +12082,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181879
+
 - id: c-165284
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12011,12 +12095,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
     ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
     prie Targovicos konfederacijos.
-  citata_rodoma: |
-    Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
-    tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos. Liepos pabaigoje
-    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
-    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
-    prie Targovicos konfederacijos.
+  citata_rodoma: "Rimtesnės kautynės vyko birželio 11 dieną prie Myro, \ntačiau birželio 14-ąją Vilnius buvo atiduotas be kovos. Liepos pabaigoje \ngynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-\nėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą \nprie Targovicos konfederacijos."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
 
@@ -12031,10 +12110,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     12), nes Trakuose buvo jo šalininkų. Įveikti tačiau Vilnių, kur
     Vytautas palaikytojų neturėjo, nepasisekė. Bet ir Trakai greit buvo
     prarasti.
-  citata_rodoma: |
-    Įveikti tačiau Vilnių, kur
-    Vytautas palaikytojų neturėjo, nepasisekė. Bet ir Trakai greit buvo
-    prarasti.
+  citata_rodoma: "Įveikti tačiau Vilnių, kur\nVytautas palaikytojų neturėjo, nepasisekė. Bet ir Trakai greit buvo\nprarasti."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12043,6 +12119,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181756
     - t-181904
+
 - id: c-165330
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12059,6 +12136,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181771
+
 - id: c-165342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12076,6 +12154,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181936
+
 - id: c-165354
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12092,6 +12171,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181663
+
 - id: c-165355
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -12105,15 +12185,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vėliavos. (Kaip liudija Mykolas Lietuvis,
     jos su kitomis čia saugotomis sudegė per
     1530 m. gaisrą).
-  citata_rodoma: |
-    Kilmingi žuvusieji buvo atvežti ir palai-
-    doti Vilniuje. Čia, valdovui grįžus, įvyko
-    triumfo iškilmės, eisenoje buvo vedami
-    belaisviai Maskvos karvedžiai ir kariai,
-    Vilniaus katedroje pakabintos trofėjinės
-    vėliavos. (Kaip liudija Mykolas Lietuvis,
-    jos su kitomis čia saugotomis sudegė per
-    1530 m.
+  citata_rodoma: "Kilmingi žuvusieji buvo atvežti ir palai-\ndoti Vilniuje. Čia, valdovui grįžus, įvyko\ntriumfo iškilmės, eisenoje buvo vedami\nbelaisviai Maskvos karvedžiai ir kariai,\nVilniaus katedroje pakabintos trofėjinės\nvėliavos. (Kaip liudija Mykolas Lietuvis,\njos su kitomis čia saugotomis sudegė per\n1530 m."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12121,6 +12193,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181658
+
 - id: c-165357
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12139,6 +12212,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181695
+
 - id: c-165366
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12150,11 +12224,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
     epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
     universitetą.
-  citata_rodoma: |
-    Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-
-    dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
-    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
-    universitetą.
+  citata_rodoma: "Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-\ndinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko \nepochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus \nuniversitetą."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12162,8 +12232,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181784
-    - t-181813
     - t-181949
+
 - id: c-165368
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12176,11 +12246,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
     valstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos
     valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes.
-  citata_rodoma: |
-    Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
-    pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
-    valstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos
-    valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes.
+  citata_rodoma: "Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais \npagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo \nvalstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos \nvalstybės kūrėjai pretendavo į Mažosios Lietuvos žemes."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12188,6 +12254,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181866
+
 - id: c-165373
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -12209,18 +12276,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Varmė buvo pri-
     jungtos tiesiogiai
     prie Lenkijos.
-  citata_rodoma: |
-    Kai Krymo totorių antpuoliai ėmė
-
-    | | pasiekti Vilniaus apylinkes, Lietuvos didysis kunigaikštis Aleksandras, tenkinda-
-
-    mas Vilniaus gyventojų prašymą, 1503 m. Gardine išleista privilegija nurodė statyti
-
-    a i miesto gynybinę mūro sieną
-
-    ## Puslapis 79
-
-    Nuo 1466 m.
+  citata_rodoma: "Kai Krymo totorių antpuoliai ėmė\n\n| | pasiekti Vilniaus apylinkes, Lietuvos didysis kunigaikštis Aleksandras, tenkinda-\n\nmas Vilniaus gyventojų prašymą, 1503 m. Gardine išleista privilegija nurodė statyti\n\na i miesto gynybinę mūro sieną\n\n## Puslapis 79\n\nNuo 1466 m."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12228,6 +12284,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181864
+
 - id: c-165377
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12237,11 +12294,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-
     jo liuteronas Abraomas Kulvietis. Tokia įvykių seka rodė ne tik tai, kad Lie-
     tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
-  citata_rodoma: |
-    Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
-    Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-
-    jo liuteronas Abraomas Kulvietis. Tokia įvykių seka rodė ne tik tai, kad Lie-
-    tuva tapo europinės struktūros šalimi, bet ir A.
+  citata_rodoma: "Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų \nEuropos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-\njo liuteronas Abraomas Kulvietis. Tokia įvykių seka rodė ne tik tai, kad Lie-\ntuva tapo europinės struktūros šalimi, bet ir A."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12249,6 +12302,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181912
+
 - id: c-165380
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12265,16 +12319,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
     teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
     kariuomenių kontroliuojamoje zonoje.
-  citata_rodoma: |
-    Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo
-    etnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios
-    Lietuvos koziriu bandydami jį internacionalizuoti.
-    Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams
-    nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-
-    vasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o
-    rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
-    teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
-    kariuomenių kontroliuojamoje zonoje.
+  citata_rodoma: "Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo \netnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios \nLietuvos koziriu bandydami jį internacionalizuoti.\nKitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams \nnusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-\nvasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o \nrugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės \nteritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos \nkariuomenių kontroliuojamoje zonoje."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12282,6 +12327,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181839
+
 - id: c-165384
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12304,6 +12350,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181905
+
 - id: c-165391
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -12314,10 +12361,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje. O jau kitais
     metais Uzbeko kunigaikščiai savo karo žygyje esą Gediminui pridarę daug
     pikta (mnogo zla) ir su daug belaisvių grįžę atgal (PSRL X, 189).
-  citata_rodoma: |
-    1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje. O jau kitais
-    metais Uzbeko kunigaikščiai savo karo žygyje esą Gediminui pridarę daug
-    pikta (mnogo zla) ir su daug belaisvių grįžę atgal (PSRL X, 189).
+  citata_rodoma: "1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje. O jau kitais\nmetais Uzbeko kunigaikščiai savo karo žygyje esą Gediminui pridarę daug\npikta (mnogo zla) ir su daug belaisvių grįžę atgal (PSRL X, 189)."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12325,6 +12369,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181836
+
 - id: c-165397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12342,21 +12387,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
     (Litwa środkowa) sudarymą.
-  citata_rodoma: |
-    Nors 1920 m.
-    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
-    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
-    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
-    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
-    (Litwa środkowa) sudarymą.
+  citata_rodoma: "Nors 1920 m. \nspalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį \nsusitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-\nvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-\nligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos \n(Litwa środkowa) sudarymą."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181663
     - t-181943
+
 - id: c-165403
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -12369,12 +12408,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     džioje atvyko Vilniun. Kaip prieš metus Krokuvoje buvo įvykdy­
     tas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­
     miausia turėjo būti krikštijami bajorai.
-  citata_rodoma: |
-    Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo
-    raštus sau, Lenkijos karalienei ir Karūnai, Jogaila 1387 m. pra­
-    džioje atvyko Vilniun. Kaip prieš metus Krokuvoje buvo įvykdy­
-    tas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­
-    miausia turėjo būti krikštijami bajorai.
+  citata_rodoma: "Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo\nraštus sau, Lenkijos karalienei ir Karūnai, Jogaila 1387 m. pra­\ndžioje atvyko Vilniun. Kaip prieš metus Krokuvoje buvo įvykdy­\ntas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­\nmiausia turėjo būti krikštijami bajorai."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12382,6 +12416,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181859
+
 - id: c-165410
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -12396,15 +12431,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 
     Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m. Kazimierui.
     S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
-  citata_rodoma: |
-    Lietuvos metraščio liudijimu, „Lietuva
-    pasodino didįjį kunigaikštį Žygimantą
-    Kęstutaitį didžiojoje kunigaikštystėje
-    Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
-
-    ## Puslapis 69
-
-    Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m.
+  citata_rodoma: "Lietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d.“ Greitai\n\n## Puslapis 69\n\nŽygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \\ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12412,6 +12439,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181917
+
 - id: c-165414
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -12426,12 +12454,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     1938) «Žemaičių bajorų ūkis I pusėje XIX šimtmečio», 1935 m.
     išleido populiarų Lietuvos istorijos vadovėlį, duodama papildymui
     «Lietuvos istorijos vaizdai ir raštai» (1939).
-  citata_rodoma: |
-    Pirmiausia minėtina žymi veikėja ir istorijos mokytoja Kaune
-    ir Vilniuje (iki 1944) V. Daugirdaitė-Sruogienė. Baigusi
-    Humanitarinių mokslų fakultetą (1929), ji Lietuvos periodikoje
-    rašė daug straipsnių iš Lietuvos praeities, išspausdino (Senovė
-    1938) «Žemaičių bajorų ūkis I pusėje XIX šimtmečio», 1935 m.
+  citata_rodoma: "Pirmiausia minėtina žymi veikėja ir istorijos mokytoja Kaune\nir Vilniuje (iki 1944) V. Daugirdaitė-Sruogienė. Baigusi\nHumanitarinių mokslų fakultetą (1929), ji Lietuvos periodikoje\nrašė daug straipsnių iš Lietuvos praeities, išspausdino (Senovė\n1938) «Žemaičių bajorų ūkis I pusėje XIX šimtmečio», 1935 m."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
 
@@ -12454,6 +12477,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181722
+
 - id: c-165422
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12464,19 +12488,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gyventojų, ir tai buvo trečias pagal dydį Rusijos imperijos miestas, nors be-
     maž 10 kartų mažesnis už Sankt Peterburgą ir Maskvą. Prieš baudžiavos
     panaikinimą Vilniaus gyventojų skaičius priartėjo prie 60 tūkst.
-  citata_rodoma: |
-    Vilnius tuomet turėjo apie 25 tūkst.
-    gyventojų, ir tai buvo trečias pagal dydį Rusijos imperijos miestas, nors be-
-    maž 10 kartų mažesnis už Sankt Peterburgą ir Maskvą. Prieš baudžiavos
-    panaikinimą Vilniaus gyventojų skaičius priartėjo prie 60 tūkst.
+  citata_rodoma: "Vilnius tuomet turėjo apie 25 tūkst. \ngyventojų, ir tai buvo trečias pagal dydį Rusijos imperijos miestas, nors be-\nmaž 10 kartų mažesnis už Sankt Peterburgą ir Maskvą. Prieš baudžiavos \npanaikinimą Vilniaus gyventojų skaičius priartėjo prie 60 tūkst."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181709
     - t-181940
+
 - id: c-165424
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12492,6 +12512,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181869
+
 - id: c-165425
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -12506,23 +12527,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     čių vėliavos, kurios buvo nugabentos į
     Vilniaus šv. Stanislovo bažnyčią - katedrą
     kaip pergalės simbolis.
-  citata_rodoma: |
-    Dlugošas
-    mini, kad priešas, jau manęs esąs saugus,
-    viename miške buvo apsuptas ir užblokuo-
-    tas medžių užtvaromis, ir iš už jų priedan-
-    gos gausiai strėlėmis apšaudomas, buvo
-    priverstas pasiduoti. Paimtos 7 livonie-
-    čių vėliavos, kurios buvo nugabentos į
-    Vilniaus šv. Stanislovo bažnyčią - katedrą
-    kaip pergalės simbolis.
+  citata_rodoma: "Dlugošas\nmini, kad priešas, jau manęs esąs saugus,\nviename miške buvo apsuptas ir užblokuo-\ntas medžių užtvaromis, ir iš už jų priedan-\ngos gausiai strėlėmis apšaudomas, buvo\npriverstas pasiduoti. Paimtos 7 livonie-\nčių vėliavos, kurios buvo nugabentos į\nVilniaus šv. Stanislovo bažnyčią - katedrą\nkaip pergalės simbolis."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181881
+    - t-181875
+
 - id: c-165426
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -12535,13 +12548,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     centru. Energingos Vytauto reformos ir naujų žemių laimėjimai
     užtikrino jam jėgą rytuose, kokios iki tol nebuvo įgijęs jokis Ge­
     diminaitis.
-  citata_rodoma: |
-    Bet tuo
-    pat laiku, nesant Vilniuje stiprios valdžios, Gediminaičių rytuose
-    įgytosios sritys ėmė atsipalaiduoti ir netekti glaudaus ryšio su
-    centru. Energingos Vytauto reformos ir naujų žemių laimėjimai
-    užtikrino jam jėgą rytuose, kokios iki tol nebuvo įgijęs jokis Ge­
-    diminaitis.
+  citata_rodoma: "Bet tuo\npat laiku, nesant Vilniuje stiprios valdžios, Gediminaičių rytuose\nįgytosios sritys ėmė atsipalaiduoti ir netekti glaudaus ryšio su\ncentru. Energingos Vytauto reformos ir naujų žemių laimėjimai\nužtikrino jam jėgą rytuose, kokios iki tol nebuvo įgijęs jokis Ge­\ndiminaitis."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12549,6 +12556,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181635
+
 - id: c-165428
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -12562,14 +12570,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: |
-    Prieš metus įvykęs jų žygis
-    leido jiems „smagintis“ Vilniaus ir Polocko,
-    Vitebsko ir Drucko, Naugarduko ir Slucko
-    apylinkėse - tikrajame LDK branduolyje,
-    tankiausiai apgyventame ir turtingiausiame
-    krašte. Totoriai neturėjo pagrindo įtarti, kad
-    sėkmė nuo jų šį kartą nusisuks.
+  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12577,6 +12578,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181788
+
 - id: c-165431
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -12589,11 +12591,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     alkvietėje ir kitur aplink buvo sunaikinti aukų židiniai. Buvo
     liepta iškirsti šventais laikomus medžius ir giraites, išmušti namuose
     gerbiamus žalčius.
-  citata_rodoma: |
-    Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje
-    alkvietėje ir kitur aplink buvo sunaikinti aukų židiniai. Buvo
-    liepta iškirsti šventais laikomus medžius ir giraites, išmušti namuose
-    gerbiamus žalčius.
+  citata_rodoma: "Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje\nalkvietėje ir kitur aplink buvo sunaikinti aukų židiniai. Buvo\nliepta iškirsti šventais laikomus medžius ir giraites, išmušti namuose\ngerbiamus žalčius."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12601,6 +12599,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181829
+
 - id: c-165433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12614,12 +12613,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
     ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
     gijos akademija ir Vilniaus Romos katalikų dvasinė akademija.
-  citata_rodoma: |
-    1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-
-    ciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-
-    siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
-    ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
-    gijos akademija ir Vilniaus Romos katalikų dvasinė akademija.
+  citata_rodoma: "1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-\nciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-\nsiteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų \nministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-\ngijos akademija ir Vilniaus Romos katalikų dvasinė akademija."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12627,6 +12621,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181853
+
 - id: c-165435
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12645,6 +12640,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181894
+
 - id: c-165437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12662,6 +12658,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181834
+
 - id: c-165439
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12679,6 +12676,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181791
+
 - id: c-165440
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -12698,19 +12696,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     iš Polocko traukė į Drucką. Čia jos turėjo
     susijungti ir pulti Minsko, Naugarduko, o
     vėliau Vilniaus kryptimi.
-  citata_rodoma: |
-    Prieš mūšį
-    1564 m. pradžioje, iš Maskvos į Vilnių dar
-    nespėjus parvykti pasiuntiniams su žinia,
-    kad dėl paliaubų susitarti nepavyko, į
-    Lietuvos Didžiąją Kunigaikštystę įsiveržė
-    dvi didelės - po kelias dešimtis tūkstančių
-    karių, kariuomenės. Viena jų, vadovaujama
-    kunigaikščio Baziliaus Serebriano, pajudėjo
-    iš Smolensko, kita, vadovaujama patyru-
-    sio karvedžio kunigaikščio Petro Šuiskio,
-
-    iš Polocko traukė į Drucką.
+  citata_rodoma: "Prieš mūšį\n1564 m. pradžioje, iš Maskvos į Vilnių dar\nnespėjus parvykti pasiuntiniams su žinia,\nkad dėl paliaubų susitarti nepavyko, į\nLietuvos Didžiąją Kunigaikštystę įsiveržė\ndvi didelės - po kelias dešimtis tūkstančių\nkarių, kariuomenės. Viena jų, vadovaujama\nkunigaikščio Baziliaus Serebriano, pajudėjo\niš Smolensko, kita, vadovaujama patyru-\nsio karvedžio kunigaikščio Petro Šuiskio,\n\niš Polocko traukė į Drucką."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12718,6 +12704,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181670
+
 - id: c-165448
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12729,11 +12716,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
     Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-
     dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.
-  citata_rodoma: |
-    Naujoji mokykla vadinosi Academia et Universitas Vilnensis
-    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
-    Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-
-    dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.
+  citata_rodoma: "Naujoji mokykla vadinosi Academia et Universitas Vilnensis \nSocietatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.\nVilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-\ndinė Lietuvos mokykla, bet ir svarbiausias kultūros centras."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12741,6 +12724,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181704
+
 - id: c-165449
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12755,12 +12739,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kijos ir Sovietų Rusijos kare Lietuva jau nebeatrodė neutrali, kaip skelbė-
     si, o lenkams ji tapo bendro fronto prieš bolševikus išdavikė – tokią teko
     sumokėti kainą už Vilniaus pripažinimą.
-  citata_rodoma: |
-    Tai leido raudoniesiems 1920 m. liepos 14 d.
-    okupuoti Vilnių ir permesti per miestą kariuomenę į lenkų frontą – Len-
-    kijos ir Sovietų Rusijos kare Lietuva jau nebeatrodė neutrali, kaip skelbė-
-    si, o lenkams ji tapo bendro fronto prieš bolševikus išdavikė – tokią teko
-    sumokėti kainą už Vilniaus pripažinimą.
+  citata_rodoma: "Tai leido raudoniesiems 1920 m. liepos 14 d. \nokupuoti Vilnių ir permesti per miestą kariuomenę į lenkų frontą – Len-\nkijos ir Sovietų Rusijos kare Lietuva jau nebeatrodė neutrali, kaip skelbė-\nsi, o lenkams ji tapo bendro fronto prieš bolševikus išdavikė – tokią teko \nsumokėti kainą už Vilniaus pripažinimą."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12768,6 +12747,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181948
+
 - id: c-165453
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12787,6 +12767,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181876
+
 - id: c-165455
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -12804,12 +12785,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     buvo įmūrytas tų dviejų valstybių ir jas valdančiųjų dinastijų
     (Gediminaičių-Riurikaičių) _antagonizmas_ (H. Paszkiewicz), pasto­
     viai lydėjęs jas per tolimesnius šimtmečius.
-  citata_rodoma: |
-    Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino
-    sostinės Vilniaus ir į Jono Kalitos tvirtovės Kremliaus pamatus
-    buvo įmūrytas tų dviejų valstybių ir jas valdančiųjų dinastijų
-    (Gediminaičių-Riurikaičių) _antagonizmas_ (H. Paszkiewicz), pasto­
-    viai lydėjęs jas per tolimesnius šimtmečius.
+  citata_rodoma: "Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino\nsostinės Vilniaus ir į Jono Kalitos tvirtovės Kremliaus pamatus\nbuvo įmūrytas tų dviejų valstybių ir jas valdančiųjų dinastijų\n(Gediminaičių-Riurikaičių) _antagonizmas_ (H. Paszkiewicz), pasto­\nviai lydėjęs jas per tolimesnius šimtmečius."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12817,6 +12793,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181946
+
 - id: c-165458
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12828,9 +12805,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
     zicijos. A. Smetona su A. Voldemaru tapo atsargesni – derybos sustojo, o
     1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
-  citata_rodoma: |
-    A. Smetona su A. Voldemaru tapo atsargesni – derybos sustojo, o
-    1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
+  citata_rodoma: "A. Smetona su A. Voldemaru tapo atsargesni – derybos sustojo, o \n1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12838,6 +12813,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181769
+
 - id: c-165460
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12852,12 +12828,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
     broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
     ir jo palikuonys.
-  citata_rodoma: |
-    1391 m.
-    liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus
-    ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
-    broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
-    ir jo palikuonys.
+  citata_rodoma: "1391 m.\nliepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus\nir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo\nbroliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila\nir jo palikuonys."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -12865,6 +12836,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181832
+
 - id: c-168540
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12895,22 +12867,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sk e lb ė jų n u žu d ym ą
     tas, įsakė ištardyti bruzdėji­
     mo vadovus.
-  citata_rodoma: |
-    Kol jis pats gyveno
-    Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
-    tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­
-    kėję, arba Poleksijoje), minia, kažin kieno sukursty­
-    ta, žiauriai su jais susidorojo. Vienas būrelis iš sep­
-    tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
-    tę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,
-    tuo būdu pašventindami savo krauju lietuvių žemes
-    Kristaus mokslo sėjai; kitas būrelis, taip pat iš septy­
-    nių vienuolių, buvo nutemptas į kalną, kurį žmonės
-    vadina Plikuoju, čia juos prie kryžių pririšo ir nuo
-    stataus kalno šlaito nustūmė į papėdėje tekančią Vil­
-    nią. Šventus nužudytųjų kūnus Goštautas įsakė surasti
-    ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­
-    taus žodį.
+  citata_rodoma: "Kol jis pats gyveno\nVilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,\ntačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­\nkėję, arba Poleksijoje), minia, kažin kieno sukursty­\nta, žiauriai su jais susidorojo. Vienas būrelis iš sep­\ntynių vienuolių buvo prievarta išvilktas iš namų į aikš­\ntę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,\ntuo būdu pašventindami savo krauju lietuvių žemes\nKristaus mokslo sėjai; kitas būrelis, taip pat iš septy­\nnių vienuolių, buvo nutemptas į kalną, kurį žmonės\nvadina Plikuoju, čia juos prie kryžių pririšo ir nuo\nstataus kalno šlaito nustūmė į papėdėje tekančią Vil­\nnią. Šventus nužudytųjų kūnus Goštautas įsakė surasti\nir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­\ntaus žodį."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -12918,6 +12875,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185179
+
 - id: c-168542
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12932,12 +12890,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tus, naudojosi S. Hozijaus patarimais.
     Braunsberge A. Kojelavičius išgyveno vienus me­
     tus ir į Vilnių sugrįžo teologijos daktaru.
-  citata_rodoma: |
-    Po
-    poros metų A. Kojelavičius pasiunčiamas į Nesvyžiaus
-    kolegiją tęsti studijų. Jas baigęs, grįžo į Vilnių, į teo­
-    logijos fakultetą. Studijuodamas dėstė retoriką vieti­
-    nėje kolegijoje.
+  citata_rodoma: "Po\nporos metų A. Kojelavičius pasiunčiamas į Nesvyžiaus\nkolegiją tęsti studijų. Jas baigęs, grįžo į Vilnių, į teo­\nlogijos fakultetą. Studijuodamas dėstė retoriką vieti­\nnėje kolegijoje."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -12945,6 +12898,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185181
+
 - id: c-168543
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12969,19 +12923,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Austrijos, Vokietijos, vedamos Vroclavo kunigaikščio
     Bernardo, Svabijos kunigaikščio, dviejų Reino grafų,
     Julicho ir kitų grafų sūnų bei kitų Vokietijos valdovų.
-  citata_rodoma: |
-    Mūsų laikus jis
-    pasiekė taip viskuo garsėdamas, kad su įžymiaisiais
-    miestais gali lenktyniauti. Savo didumu, turtais, gy­
-    ventojų gausumu, atvykstančių svetimšalių įvairove ir
-    daugumu, šventovių didybe, universitetu, prekybos
-    platumu ir kitais miestus puošiančiais dalykais Vilnius
-    yra garsiausias iš visų sarmatų miestų: jis — valdovų
-    buveinė, teismų, mokslo ir prekybos, bažnytinio ir vals­
-    tybinio gyvenimo centras. Nieko jo garbei netrūksta,
-    išskyrus tai, ko ir turėjo trūkti tautoje, kuri Laisvę ir
-    Taiką užsitikrindavo ne sienomis ir pylimais, o pilie­
-    čių narsumu.
+  citata_rodoma: "Mūsų laikus jis\npasiekė taip viskuo garsėdamas, kad su įžymiaisiais\nmiestais gali lenktyniauti. Savo didumu, turtais, gy­\nventojų gausumu, atvykstančių svetimšalių įvairove ir\ndaugumu, šventovių didybe, universitetu, prekybos\nplatumu ir kitais miestus puošiančiais dalykais Vilnius\nyra garsiausias iš visų sarmatų miestų: jis — valdovų\nbuveinė, teismų, mokslo ir prekybos, bažnytinio ir vals­\ntybinio gyvenimo centras. Nieko jo garbei netrūksta,\nišskyrus tai, ko ir turėjo trūkti tautoje, kuri Laisvę ir\nTaiką užsitikrindavo ne sienomis ir pylimais, o pilie­\nčių narsumu."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -12989,6 +12931,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185182
+
 - id: c-168544
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13007,17 +12950,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mokėti valdinys. Atsakydamas Algirdas neužmiršo savi­
     tvardos, nenorėdamas ūmiu pykčio protrūkiu prarasti
     progą tartis.
-  citata_rodoma: |
-    Pasiuntinys elgėsi išdidžiai ir atšiauriai: mat ne
-    tiek karą skelbė, kiek grasino visokeriopomis bėdo­
-    mis. Atnešęs ugnį bei kalaviją, tarė: šių dovanų tegu
-    laukiąs iš jo kunigaikščio Vilniuje per Velykas, kai,
-    per metus pavergęs visą Lietuvą, Maskvos valdovas
-    ten įžengsiąs nugalėtoju. Jeigu norįs laiku išvengti to­
-    kio žymaus valdovo rūstybės, tegu pasitraukiąs iš Ru­
-    sios, o Lietuvą perleidžiąs Maskvos kunigaikščiui,
-    tegu nedelsdamas imąs mokėti duoklę, kokią privalo
-    mokėti valdinys.
+  citata_rodoma: "Pasiuntinys elgėsi išdidžiai ir atšiauriai: mat ne\ntiek karą skelbė, kiek grasino visokeriopomis bėdo­\nmis. Atnešęs ugnį bei kalaviją, tarė: šių dovanų tegu\nlaukiąs iš jo kunigaikščio Vilniuje per Velykas, kai,\nper metus pavergęs visą Lietuvą, Maskvos valdovas\nten įžengsiąs nugalėtoju. Jeigu norįs laiku išvengti to­\nkio žymaus valdovo rūstybės, tegu pasitraukiąs iš Ru­\nsios, o Lietuvą perleidžiąs Maskvos kunigaikščiui,\ntegu nedelsdamas imąs mokėti duoklę, kokią privalo\nmokėti valdinys."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -13025,6 +12958,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185183
+
 - id: c-168546
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13048,20 +12982,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 
     Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
     jos, jau traukė su kariuomene iš Vilniaus.
-  citata_rodoma: |
-    Mat tuo metu
-    paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
-    nutaręs, jog dabar tinkama proga nebaudžiamam su­
-    laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
-    žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
-    2 7 0
-
-    ## Puslapis 269
-
-    Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
-    jos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­
-    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
-    jie neprilygsta nei ginkluote, nei karių skaičiumi.
+  citata_rodoma: "Mat tuo metu\npaaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,\nnutaręs, jog dabar tinkama proga nebaudžiamam su­\nlaužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­\nžęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.\n2 7 0\n\n## Puslapis 269\n\nBe to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­\njos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­\nnojo, kad priešas vedasi didžiulę kariuomenę, kuriai\njie neprilygsta nei ginkluote, nei karių skaičiumi."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -13069,6 +12990,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185185
+
 - id: c-168547
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13098,20 +13020,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     čiau dabar jie galėjo tik smerkti savo aklą neapdairu­
     mą, atvedusį juos į šias pasalas, nes nieko nebuvo
     galima atitaisyti.
-  citata_rodoma: |
-    Reikią dar kelių valan­
-    dų galutinai susitarti, o kadangi jau temsta, reikėtų
-    atidėti rytdienai. Kadangi susitarė dėl daugelio klausi­
-    mų, nesą jokio reikalo tokioje nepatogioje vietoje to­
-    liau vargti, geriau visiems joti į Vilnių, ten, naktį
-    pailsėję bei draugiškai papuotavę, jie padarysią pra­
-    džią būsimam susitarimui, o rytoj galutinai užbaigsią
-    tartis. Ir Kęstutis, ir Vytautas, ir keli didikai, kurie ten
-    buvo atlydėję kunigaikščius, pajuto, kur sukama, su­
-    prato, ką galvoja Jogaila, sakydamas tuos žodžius, ta­
-    čiau dabar jie galėjo tik smerkti savo aklą neapdairu­
-    mą, atvedusį juos į šias pasalas, nes nieko nebuvo
-    galima atitaisyti.
+  citata_rodoma: "Reikią dar kelių valan­\ndų galutinai susitarti, o kadangi jau temsta, reikėtų\natidėti rytdienai. Kadangi susitarė dėl daugelio klausi­\nmų, nesą jokio reikalo tokioje nepatogioje vietoje to­\nliau vargti, geriau visiems joti į Vilnių, ten, naktį\npailsėję bei draugiškai papuotavę, jie padarysią pra­\ndžią būsimam susitarimui, o rytoj galutinai užbaigsią\ntartis. Ir Kęstutis, ir Vytautas, ir keli didikai, kurie ten\nbuvo atlydėję kunigaikščius, pajuto, kur sukama, su­\nprato, ką galvoja Jogaila, sakydamas tuos žodžius, ta­\nčiau dabar jie galėjo tik smerkti savo aklą neapdairu­\nmą, atvedusį juos į šias pasalas, nes nieko nebuvo\ngalima atitaisyti."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -13120,6 +13029,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-185186
     - t-196753
+
 - id: c-168548
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13152,27 +13062,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     miegamojo prižiūrėtojai Pro-
     kša, Bilgenis, Lisica ir kiti)
     Krėvos kalėjime jį pasmaugė.
-  citata_rodoma: |
-    Mat nei geros savijautos,
-    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
-    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
-    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
-    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
-    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
-    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
-    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
-    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
-    dėl narsumo — Achilas, žuvo gimtajame krašte per
-    brolėno kaltę: penktą naktį
-    Jogailos
-    pasiųsti
-    budeliai
-    (žymiausi
-    iš
-    jų — valdovo
-    miegamojo prižiūrėtojai Pro-
-    kša, Bilgenis, Lisica ir kiti)
-    Krėvos kalėjime jį pasmaugė.
+  citata_rodoma: "Mat nei geros savijautos,\nnei pasitikėjimo duotu žodžiu negali būti tada, kai,\nsusitarus dėl ko su priešu, šis nepaliauja galvojęs apie\nnaudą. Tą pačią naktį Jogaila, pamynęs draugystės bei\ngiminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­\ntingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį\nliepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­\ntaip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­\ngų, dėl savo sumanumo tikras Lietuvos Odisėjas, o\ndėl narsumo — Achilas, žuvo gimtajame krašte per\nbrolėno kaltę: penktą naktį\nJogailos\npasiųsti\nbudeliai\n(žymiausi\niš\njų — valdovo\nmiegamojo prižiūrėtojai Pro-\nkša, Bilgenis, Lisica ir kiti)\nKrėvos kalėjime jį pasmaugė."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -13180,6 +13070,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185187
+
 - id: c-168549
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13198,16 +13089,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vyrais prie tvirtovių, be jokio vargo užėmė beveik ne­
     ginamus įtvirtinimus, juos nusiaubė, sudegino, sugriovė
     ir po pergalės sugrįžo pas saviškius.
-  citata_rodoma: |
-    Todėl kuo greičiausiai patraukė su savo
-    vyrais prie tvirtovių, be jokio vargo užėmė beveik ne­
-    ginamus įtvirtinimus, juos nusiaubė, sudegino, sugriovė
-    ir po pergalės sugrįžo pas saviškius. Išsiuntęs žygūną,
-    turintį Olesnickiui pranešti apie jo atvykimą, patraukė
-    liesiai į Vilnių. Olesnickis, iš anksto gavęs karaliaus
-    nurodymus, nerimastingai visą laiką laukė Vytauto,
-    dabar, rodydamas atvykusiam visokiausią prielankumą,
-    įlydėjo jį į miestą.
+  citata_rodoma: "Todėl kuo greičiausiai patraukė su savo\nvyrais prie tvirtovių, be jokio vargo užėmė beveik ne­\nginamus įtvirtinimus, juos nusiaubė, sudegino, sugriovė\nir po pergalės sugrįžo pas saviškius. Išsiuntęs žygūną,\nturintį Olesnickiui pranešti apie jo atvykimą, patraukė\nliesiai į Vilnių. Olesnickis, iš anksto gavęs karaliaus\nnurodymus, nerimastingai visą laiką laukė Vytauto,\ndabar, rodydamas atvykusiam visokiausią prielankumą,\nįlydėjo jį į miestą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -13215,6 +13097,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185188
+
 - id: c-168550
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13238,22 +13121,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
     vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
     na išgabeno į Vilnių.
-  citata_rodoma: |
-    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
-    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
-    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
-    na išgabeno į Vilnių. Po šio
-    Su len k a is tariasi d ė l
-    žygio smarkiai sunerimo len-
-    P o d o lės v a ld y m o
-    kai, būgštaudami, kad Vytau­
-    to pergalės nepaverstų nie­
-    kais jų senų ketinimų valdyti Podolę, ypač dėl to, kad
-    Vytautas, gerai prisimindamas karus, kuriuos vedė Al­
-    girdo vadovaujami lietuviai, vydami iš Podolės skitus,
-    neslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip
-    karo laimikį, atitekusį po pergalingo karo, bet ir kaip
-    seną, teisėtai jam priklausančią valdą.
+  citata_rodoma: "Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,\npilyse bei miestuose paliko lietuvių karių įgulas ir lietu­\nvių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­\nna išgabeno į Vilnių. Po šio\nSu len k a is tariasi d ė l\nžygio smarkiai sunerimo len-\nP o d o lės v a ld y m o\nkai, būgštaudami, kad Vytau­\nto pergalės nepaverstų nie­\nkais jų senų ketinimų valdyti Podolę, ypač dėl to, kad\nVytautas, gerai prisimindamas karus, kuriuos vedė Al­\ngirdo vadovaujami lietuviai, vydami iš Podolės skitus,\nneslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip\nkaro laimikį, atitekusį po pergalingo karo, bet ir kaip\nseną, teisėtai jam priklausančią valdą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -13261,6 +13129,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185189
+
 - id: c-168551
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13287,6 +13156,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185190
+
 - id: c-168552
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13322,6 +13192,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185191
+
 - id: c-168553
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13339,17 +13210,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     jie gali stebėtis, kad lietuviai, iš visų pusių apspisti pavo­
     jų, pasirinko kitą kelią nei tas, kurį jiems siūlė be jokių
     pavojų gyvenantys lenkai?
-  citata_rodoma: |
-    Štai todėl,
-    pasitaręs su Lietuvos senatu, Kazimieras išsiuntė į Len­
-    kiją šio krašto didikus gausiai juos apdovanojęs ir dar
-    daugiau dovanų pažadėjęs.
-    S u šau kia se im ą
-    Po to, nutaręs deramai su­
-    tvarkyti valstybės reikalus,
-    sušaukė Vilniuje seimą pasistengęs, kad jame dalyvau­
-    tų kuo daugiau žmonių. Tuo tarpu rūmų maršalui Jonui
-    Goštautui įsakė apvalyti Palenkę nuo priešų.
+  citata_rodoma: "Štai todėl,\npasitaręs su Lietuvos senatu, Kazimieras išsiuntė į Len­\nkiją šio krašto didikus gausiai juos apdovanojęs ir dar\ndaugiau dovanų pažadėjęs.\nS u šau kia se im ą\nPo to, nutaręs deramai su­\ntvarkyti valstybės reikalus,\nsušaukė Vilniuje seimą pasistengęs, kad jame dalyvau­\ntų kuo daugiau žmonių. Tuo tarpu rūmų maršalui Jonui\nGoštautui įsakė apvalyti Palenkę nuo priešų."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -13357,6 +13218,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185192
+
 - id: c-168554
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13394,6 +13256,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185193
+
 - id: c-168555
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13415,6 +13278,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185194
+
 - id: c-168557
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13447,6 +13311,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185196
+
 - id: c-168558
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13474,6 +13339,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185197
+
 - id: c-168559
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13493,18 +13359,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     dėl įstatymo, kuris dabar jam rodėsi visai nereikalin­
     gas. Neilgai trukus Barbora iškilmingai ir šventiškai
     buvo apvainikuota Krokuvoje karalienės vainiku.
-  citata_rodoma: |
-    Stanislovo bazilikoje. Tuo
-    tarpu Lietuvą užgriuvo siaubingas badas, o Volynę nu­
-    siaubė skitai, kurie staigiu antpuoliu nuniokojo dide­
-    lius plotus, užėmė ir sudegino Braclavą ir nebaudžiami
-    išsigabeno didžiulį grobį bei išsivarė daugybę belais­
-    vių. Rugsėjo pabaigoje luomai susirinko Vilniuje į
-    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
-    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
-    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
-    niekas taip nekenkia visuomenės reikalams, kaip as­
-    meniniai atskirų didikų nesutarimai.
+  citata_rodoma: "Stanislovo bazilikoje. Tuo\ntarpu Lietuvą užgriuvo siaubingas badas, o Volynę nu­\nsiaubė skitai, kurie staigiu antpuoliu nuniokojo dide­\nlius plotus, užėmė ir sudegino Braclavą ir nebaudžiami\nišsigabeno didžiulį grobį bei išsivarė daugybę belais­\nvių. Rugsėjo pabaigoje luomai susirinko Vilniuje į\nseimą, kuriame karalius pareikalavo, kad liautųsi pa­\nvojingai kivirčijęsi Trakų vaivada Mikalojus Radvila\nir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad\nniekas taip nekenkia visuomenės reikalams, kaip as­\nmeniniai atskirų didikų nesutarimai."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -13512,6 +13367,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185198
+
 - id: c-168561
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13539,6 +13395,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185200
+
 - id: c-170612
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -13555,17 +13412,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
     Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
     anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
-  citata_rodoma: |
-    Kunigaikštis Jogaila ir kunigaikštis Vy­
-    tautas, jų tėvams dar gyviems esant, buvo labai su­
-    sidraugavę.
-    O paskui didysis kunigaikštis Algirdas 1377 me­
-    tais3 5  pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­
-    damas j susitarimą bei savo brolišką meilę ir santar-
-    mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
-    džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
-    Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
-    anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
+  citata_rodoma: "Kunigaikštis Jogaila ir kunigaikštis Vy­\ntautas, jų tėvams dar gyviems esant, buvo labai su­\nsidraugavę.\nO paskui didysis kunigaikštis Algirdas 1377 me­\ntais3 5  pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­\ndamas j susitarimą bei savo brolišką meilę ir santar- \nmę, kurios ligi jo mirties buvo laikęsis, pripažino di­\ndžiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį \nJogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip \nanksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -13573,6 +13420,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187671
+
 - id: c-170614
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -13593,6 +13441,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199977
+
 - id: c-176155
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13620,6 +13469,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-193433
     - t-196755
+
 - id: c-178893
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13642,6 +13492,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196754
+
 - id: c-178894
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13663,6 +13514,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196756
+
 - id: c-182948
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -13690,6 +13542,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200031
+
 - id: c-182949
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -13709,6 +13562,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193247
+
 - id: c-182953
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -13728,6 +13582,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181835
+
 - id: c-182954
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -13762,6 +13617,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199984
+
 - id: c-182956
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -13772,11 +13628,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
     ras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti
     ir sudeginti, o jų valstiečiai išbėgioję.
-  citata_rodoma: |
-    Miestai
-    buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
-    ras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti
-    ir sudeginti, o jų valstiečiai išbėgioję.
+  citata_rodoma: "Miestai\nbuvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-\nras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti\nir sudeginti, o jų valstiečiai išbėgioję."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -13784,6 +13636,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181840
+
 - id: c-182958
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -13810,6 +13663,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196890
+
 - id: c-182960
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -13839,27 +13693,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     amuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos
     Didžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­
     niuje, išsiuntinėtus po kitas pilis".
-  citata_rodoma: |
-    Karalius ir didysis Lietuvos kunigaikštis ŽYGIMANTAS
-    AUGUSTAS savo ranka.
-
-    ## Puslapis 328
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    IV
-    GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO
-    KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS
-    PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I
-    PASIENIO PILIS
-    1565 METŲ 39 LAPŲ RANKRAŠTIS
-    (Iš Pulavų bibliotekos rankraščių)
-    Taip šio rankraščio turinį jo pradžioje aprašė Pulavų bib­
-    liotekos prižiūrėtojas Lukašas Golembiovskis: „Šis ran­
-    kraštis, perrašytas iš originalo, esančio Stokholme, ten lan­
-    kantis V. Bernackiui, detalizuoja įvairių rūšių ginklus ir
-    amuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos
-    Didžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­
-    niuje, išsiuntinėtus po kitas pilis".
+  citata_rodoma: "Karalius ir didysis Lietuvos kunigaikštis ŽYGIMANTAS \nAUGUSTAS savo ranka.\n\n## Puslapis 328\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nIV\nGINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO \nKARALIŠKOSIOS DIDENYBĖS LĖŠOMIS \nPAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I \nPASIENIO PILIS\n1565 METŲ 39 LAPŲ RANKRAŠTIS \n(Iš Pulavų bibliotekos rankraščių)\nTaip šio rankraščio turinį jo pradžioje aprašė Pulavų bib­\nliotekos prižiūrėtojas Lukašas Golembiovskis: „Šis ran­\nkraštis, perrašytas iš originalo, esančio Stokholme, ten lan­\nkantis V. Bernackiui, detalizuoja įvairių rūšių ginklus ir \namuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos \nDidžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­\nniuje, išsiuntinėtus po kitas pilis\"."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -13867,6 +13701,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200154
+
 - id: c-182962
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -13896,6 +13731,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200064
+
 - id: c-182963
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -13924,6 +13760,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200223
+
 - id: c-182964
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -13972,6 +13809,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200048
+
 - id: c-182966
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -13987,14 +13825,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai
     Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
     galingiausiu valdovu Šiaurės Europoje.
-  citata_rodoma: |
-    Tie politiniai pokyčiai Vilniu­
-    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
-    dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­
-    rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu
-    nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai
-    Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
-    galingiausiu valdovu Šiaurės Europoje.
+  citata_rodoma: "Tie politiniai pokyčiai Vilniu­\nje, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­\ndymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­\nrasis, Gedimino vertas įpėdinis, narsa ir proto guvumu\nnenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai\nLietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet\ngalingiausiu valdovu Šiaurės Europoje."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14004,6 +13835,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - t-200160
     - t-200167
     - t-200220
+
 - id: c-182967
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -14022,7 +13854,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188860
-    - t-188862
+
 - id: c-182968
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14045,6 +13877,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199961
+
 - id: c-182969
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -14058,11 +13891,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
     Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
     jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
-  citata_rodoma: |
-    Štai net 1781 m. kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto
-    buvo išversta  į vokiečių kalbą (kaip ir originale čia randame ne tik patį Dusburgiečio
-    tekstą, bet ir jo tęsinj, apžvelgiantį ir Vytauto valdymo laikotarpį, be to, išrašus iki XV a.
-    7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78.
+  citata_rodoma: "Štai net 1781 m. kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto\nbuvo išversta  į vokiečių kalbą (kaip ir originale čia randame ne tik patį Dusburgiečio\ntekstą, bet ir jo tęsinj, apžvelgiantį ir Vytauto valdymo laikotarpį, be to, išrašus iki XV a.\n7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14070,6 +13899,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181755
+
 - id: c-182971
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14091,6 +13921,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200209
+
 - id: c-182972
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14100,10 +13931,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     statė Vilniuje daugybę rūmų. Tais laikais Vilnius pasidarė vienas
     gražiausių rytų Europos miestų. Jame tada buvo pilna italų staty-
     bininkų ir mokslininkų humanistų.
-  citata_rodoma: |
-    Tais laikais Vilnius pasidarė vienas
-    gražiausių rytų Europos miestų. Jame tada buvo pilna italų staty-
-    bininkų ir mokslininkų humanistų.
+  citata_rodoma: "Tais laikais Vilnius pasidarė vienas\ngražiausių rytų Europos miestų. Jame tada buvo pilna italų staty-\nbininkų ir mokslininkų humanistų."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14112,6 +13940,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181765
     - t-181803
+
 - id: c-182973
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -14125,13 +13954,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gailai tapus didžiuoju kunigaikščiu, Kęstutis vis tiek, kaip ir pir­
     miau, stengėsi palaikyti gerus santykius su Vilniaus kunigaikš­
     čio dvaru ir važinėjo ten į didžiojo kunigaikščio tarybą.
-  citata_rodoma: |
-    Didžiojo kunigaikščio
-    valdžią Vilniuje, kaip Kęstučio su Algirdu buvo sutarta, užėmė
-    jo vyriausias sūnus Jogaila, Vytauto amžininkas. Jaunam Jo­
-    gailai tapus didžiuoju kunigaikščiu, Kęstutis vis tiek, kaip ir pir­
-    miau, stengėsi palaikyti gerus santykius su Vilniaus kunigaikš­
-    čio dvaru ir važinėjo ten į didžiojo kunigaikščio tarybą.
+  citata_rodoma: "Didžiojo kunigaikščio\nvaldžią Vilniuje, kaip Kęstučio su Algirdu buvo sutarta, užėmė\njo vyriausias sūnus Jogaila, Vytauto amžininkas. Jaunam Jo­\ngailai tapus didžiuoju kunigaikščiu, Kęstutis vis tiek, kaip ir pir­\nmiau, stengėsi palaikyti gerus santykius su Vilniaus kunigaikš­\nčio dvaru ir važinėjo ten į didžiojo kunigaikščio tarybą."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14140,6 +13963,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181816
     - t-181825
+
 - id: c-182974
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14156,13 +13980,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Buvo suorganizuota dar didesnė kariuomenė (lietuviai dabar
     davė net 12.700 karių; kiek šį kartą buvo lenkų karių, tikrai
     nežinoma).
-  citata_rodoma: |
-    Po Var-
-    šuvos seimo atvykęs į Vil-
-    nių, jis čia sušaukė vienų lietuvių seimą, kur padė-
-    kojęs jiems už uolų dalyvavimą kare, susitarė, kaip toliau veikti.
-    Buvo suorganizuota dar didesnė kariuomenė (lietuviai dabar
-    davė net 12.
+  citata_rodoma: "Po Var-\nšuvos seimo atvykęs į Vil-\nnių, jis čia sušaukė vienų lietuvių seimą, kur padė-\nkojęs jiems už uolų dalyvavimą kare, susitarė, kaip toliau veikti.\nBuvo suorganizuota dar didesnė kariuomenė (lietuviai dabar\ndavė net 12."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14171,6 +13989,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181775
     - t-181862
+
 - id: c-182977
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14190,6 +14009,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-199963
     - t-200308
+
 - id: c-182978
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14219,6 +14039,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200232
+
 - id: c-182979
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14242,21 +14063,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     džiaugsmą dėl jo susitaikymo su Jo­
     gaila ir todėl dedąs viltis, jog čekų
     eretikai būsią šiek tiek apmalšinti.
-  citata_rodoma: |
-    Vytautas, vienintelio
-    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
-    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
-    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
-    metais), kur didysis kunigaikštis paprastai gyvendavo di­
-    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
-    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
-    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
-    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
-    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
-    magistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­
-    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
-    karalių Zigmantą nuo ketinimo ka­
-    rūnuoti Vytautą, ir Nr.
+  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­\ngaliau pakviestas atvyksta Jogaila, lydimas gausaus Len-\nkaralių Zigmantą nuo ketinimo ka­\nrūnuoti Vytautą, ir Nr."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -14264,6 +14071,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200086
+
 - id: c-182980
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14302,6 +14110,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200068
+
 - id: c-182981
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -14318,6 +14127,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181641
+
 - id: c-182982
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14342,6 +14152,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200040
+
 - id: c-182983
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14357,6 +14168,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10864
+
 - id: c-182984
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14380,6 +14192,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200278
+
 - id: c-182985
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -14390,10 +14203,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     | įgulų puolančiam priešui atremti. Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |
     | Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |
     | šiek tiek pakenčiamus batus.
-  citata_rodoma: |
-    Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |
-    | Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |
-    | šiek tiek pakenčiamus batus.
+  citata_rodoma: "Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |\n| Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |\n| šiek tiek pakenčiamus batus."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14401,6 +14211,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181849
+
 - id: c-182986
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14437,6 +14248,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200185
+
 - id: c-182990
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14464,6 +14276,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200271
+
 - id: c-182992
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -14476,12 +14289,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Jogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis
     kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
     kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
-  citata_rodoma: |
-    « Didžiojo ku­
-    nigaikščio » titulo Vytautas tada dar negavo^26 , ir formaliai tebuvo
-    Jogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis
-    kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
-    kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
+  citata_rodoma: "« Didžiojo ku­\nnigaikščio » titulo Vytautas tada dar negavo^26 , ir formaliai tebuvo\nJogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis\nkunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,\nkuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14489,6 +14297,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181659
+
 - id: c-182994
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14510,6 +14319,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200210
+
 - id: c-182995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -14529,6 +14339,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194938
+
 - id: c-182996
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14558,6 +14369,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200216
+
 - id: c-182997
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14581,6 +14393,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200195
+
 - id: c-182998
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14597,10 +14410,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
     sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv. Myko­
     lo, išverstos iš vokiečių į lotynų kalbą.
-  citata_rodoma: |
-    Popiežiui buvo įteiktas nuorašas tos sutarties,
-    sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv. Myko­
-    lo, išverstos iš vokiečių į lotynų kalbą.
+  citata_rodoma: "Popiežiui buvo įteiktas nuorašas tos sutarties, \nsudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv. Myko­\nlo, išverstos iš vokiečių į lotynų kalbą."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -14608,6 +14418,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200265
+
 - id: c-182999
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14627,6 +14438,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193248
+
 - id: c-183000
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14639,13 +14451,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 
     buvo įsteigta net vidurinė mokykla, bet aukštesniosios mokyklos
     nebuvo.
-  citata_rodoma: |
-    Bet vis dėlto labai mažai buvo rūpintasi savo kultūros kėlimu.
-    Jo laikais Lietuvoje atsirado daugiau pradžios mokyklų, Vilniuje
-
-
-    buvo įsteigta net vidurinė mokykla, bet aukštesniosios mokyklos
-    nebuvo.
+  citata_rodoma: "Bet vis dėlto labai mažai buvo rūpintasi savo kultūros kėlimu.\nJo laikais Lietuvoje atsirado daugiau pradžios mokyklų, Vilniuje\n\n\nbuvo įsteigta net vidurinė mokykla, bet aukštesniosios mokyklos\nnebuvo."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14653,6 +14459,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181812
+
 - id: c-183002
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14675,6 +14482,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200300
+
 - id: c-183003
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -14686,12 +14494,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-
     tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
     18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
-  citata_rodoma: |
-    Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
-    pijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių,
-    Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-
-    tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
-    18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
+  citata_rodoma: "Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-\npijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, \nLucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-\ntynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios \n18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14700,6 +14503,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181682
     - t-181873
+
 - id: c-183004
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14719,18 +14523,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
     250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
     sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
-  citata_rodoma: |
-    Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
-    vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­
-    keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų
-    miestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­
-    syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­
-    mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių
-    Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną
-    Sidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­
-    leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
-    250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
-    sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
+  citata_rodoma: "Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­\nvo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­\nkeršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų \nmiestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­\nsyk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­\nmingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių \nPskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną \nSidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­\nleisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar \n250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po- \nsadniką Silvestrą Levontjevičių ir vietininką Parfėjų81."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -14738,6 +14531,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200096
+
 - id: c-183005
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14760,6 +14554,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200089
+
 - id: c-183008
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -14774,21 +14569,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m.
-  citata_rodoma: |
-    Naugarduke sušaukęs LDK stačiatikių
-    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
-    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
-    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
-    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
-    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
-    G.
+  citata_rodoma: "Naugarduke sušaukęs LDK stačiatikių \nvyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją \npaskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-\nblaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas \nVilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ \nsuformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o \nG."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181745
+    - t-181650
+
 - id: c-183009
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -14800,10 +14589,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
     psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
     Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
-  citata_rodoma: |
-    Prahoje parengęs ir išspausdinęs
-    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
-    Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
+  citata_rodoma: "Prahoje parengęs ir išspausdinęs \npsalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų \nBiblija“. 1522 m. jis įkūrė spaustuvę Vilniuje."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14811,6 +14597,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181914
+
 - id: c-183010
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -14822,13 +14609,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
     palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
     trų vienuolynas).
-  citata_rodoma: |
-    Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
-    ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių
-    Vilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų
-    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
-    palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
-    trų vienuolynas).
+  citata_rodoma: "Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-\nji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių \nVilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų \nnužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų \npalaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-\ntrų vienuolynas)."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14837,6 +14618,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181827
     - t-181828
+
 - id: c-183013
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14873,6 +14655,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-200258
     - t-200309
+
 - id: c-183016
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14882,16 +14665,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
     praturtėjo. Vilnius pasidarė didelis rytų Europos miestas. Žo-
     džiu, Vytautas padėjo pamatus naujajai Lietuvai.
-  citata_rodoma: |
-    Vilnius pasidarė didelis rytų Europos miestas. Žo-
-    džiu, Vytautas padėjo pamatus naujajai Lietuvai.
+  citata_rodoma: "Vilnius pasidarė didelis rytų Europos miestas. Žo-\ndžiu, Vytautas padėjo pamatus naujajai Lietuvai."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10868
+    - t-10865
+
 - id: c-183018
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -14908,17 +14690,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     218
     Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietu-
     viai sudarė apie 80 proc. visų gyventojų.
-  citata_rodoma: |
-    – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į
-    naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas
-    dalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė
-    aplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius,
-    kur vyresnieji net nekalba rusiškai. Nors sovietmečiu daug rusakalbių apsi-
-    gyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje
-
-    L I E T U V O S  I S T O R I J A
-    218
-    Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m.
+  citata_rodoma: "– atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į \nnaujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas \ndalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė \naplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius, \nkur vyresnieji net nekalba rusiškai. Nors sovietmečiu daug rusakalbių apsi-\ngyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje\n\nL I E T U V O S  I S T O R I J A\n218\nLietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14926,6 +14698,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181871
+
 - id: c-183019
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -14958,6 +14731,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200229
+
 - id: c-183020
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -14972,10 +14746,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Iš Ketverių metų seimo arba Didžiojo reformų seimo laikotar­
     pio, 1933 m. vasarą prisirinkęs Vilniuje ir archyvinės medžiagos,
     Šapoka paskelbė keturias studijas (Senovė, 1936; LP, t. 1).
-  citata_rodoma: |
-    Iš Ketverių metų seimo arba Didžiojo reformų seimo laikotar­
-    pio, 1933 m. vasarą prisirinkęs Vilniuje ir archyvinės medžiagos,
-    Šapoka paskelbė keturias studijas (Senovė, 1936; LP, t. 1).
+  citata_rodoma: "Iš Ketverių metų seimo arba Didžiojo reformų seimo laikotar­\npio, 1933 m. vasarą prisirinkęs Vilniuje ir archyvinės medžiagos,\nŠapoka paskelbė keturias studijas (Senovė, 1936; LP, t. 1)."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -14984,6 +14755,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181639
     - t-181794
+
 - id: c-183022
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15005,6 +14777,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-200024
     - t-200027
+
 - id: c-183023
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15026,6 +14799,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200151
+
 - id: c-183024
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15043,9 +14817,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
     priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
     ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
-  citata_rodoma: |
-    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
-    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
+  citata_rodoma: "Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos\nsutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15053,6 +14825,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181822
+
 - id: c-183027
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15073,6 +14846,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199957
+
 - id: c-183028
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15090,6 +14864,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181947
+
 - id: c-183029
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -15113,6 +14888,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181698
     - t-181726
+
 - id: c-183030
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15126,10 +14902,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kvos nurodymus. Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
     gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.
     lietuviai) XX suvažiavimas.
-  citata_rodoma: |
-    Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
-    gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.
-    lietuviai) XX suvažiavimas.
+  citata_rodoma: "Komunistų partijos veiklai didelę įtaką turėjo 1989 m. \ngruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc. \nlietuviai) XX suvažiavimas."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15137,6 +14910,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181916
+
 - id: c-183031
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -15156,6 +14930,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192775
+
 - id: c-183032
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15186,6 +14961,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200145
+
 - id: c-183033
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -15202,14 +14978,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     saus jūrininko nuotykius tarp kitų moralizuojamų sakinių yra
     tokie: „Išmintis, arba protas, kuris sergsti visus gero žmogaus
     darbus, yra dieviškos būtybės, Butės (Budie) rankoje.
-  citata_rodoma: |
-    Strijkov­
-    skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
-    bas, aiškiai mini ją buvus panašia žyne, arba vestale. Mat ant
-    švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki­
-    tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau­
-    goma mergelių. Jos visuotinai buvo vadinamos vaidilutėmis,
-    lietuviškai Wejdalotenie.
+  citata_rodoma: "Strijkov­\nskis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­\nbas, aiškiai mini ją buvus panašia žyne, arba vestale. Mat ant\nšvento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki­\ntose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau­\ngoma mergelių. Jos visuotinai buvo vadinamos vaidilutėmis,\nlietuviškai Wejdalotenie."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15217,7 +14986,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188862
-    - t-188864
+
 - id: c-183034
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15241,6 +15010,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200122
+
 - id: c-183036
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -15257,15 +15027,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     1919 m. balandžio pradžioje Lietuvos karinė vado-
     vybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti
     Vilnių ir pirmiau nei lenkai jį užimti.
-  citata_rodoma: |
-    || :
-    Rezalima: 02 di ian enkai nusprendė tuo pasinaudoti: surengti vieną pirmųjų
-
-    \DVILISI Žo ių a A 4 : 7a savo stambesnių puolamųjų operacijų ir užimti Vilnių.
-
-    1919 m. balandžio pradžioje Lietuvos karinė vado-
-    vybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti
-    Vilnių ir pirmiau nei lenkai jį užimti.
+  citata_rodoma: "|| :\nRezalima: 02 di ian enkai nusprendė tuo pasinaudoti: surengti vieną pirmųjų\n\n\\DVILISI Žo ių a A 4 : 7a savo stambesnių puolamųjų operacijų ir užimti Vilnių.\n\n1919 m. balandžio pradžioje Lietuvos karinė vado-\nvybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti\nVilnių ir pirmiau nei lenkai jį užimti."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15273,6 +15035,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181841
+
 - id: c-183038
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -15284,18 +15047,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     išimčių, buvo anie romantikų išgarbintieji Lietuvos galybės laikai.
     Pirmiausia minėtina žymi veikėja ir istorijos mokytoja Kaune
     ir Vilniuje (iki 1944) V. Daugirdaitė-Sruogienė.
-  citata_rodoma: |
-    Ir jų pagrindiniu dėmesio objektu, su keletą
-    išimčių, buvo anie romantikų išgarbintieji Lietuvos galybės laikai.
-    Pirmiausia minėtina žymi veikėja ir istorijos mokytoja Kaune
-    ir Vilniuje (iki 1944) V. Daugirdaitė-Sruogienė.
+  citata_rodoma: "Ir jų pagrindiniu dėmesio objektu, su keletą\nišimčių, buvo anie romantikų išgarbintieji Lietuvos galybės laikai.\nPirmiausia minėtina žymi veikėja ir istorijos mokytoja Kaune\nir Vilniuje (iki 1944) V. Daugirdaitė-Sruogienė."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181926
+    - t-181673
+
 - id: c-183039
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15317,6 +15077,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200117
+
 - id: c-183042
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -15336,18 +15097,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ## Puslapis 69
 
     Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m.
-  citata_rodoma: |
-    Švitrigaila spėjo pabėgti
-    į Polocką.
-
-    Lietuvos metraščio liudijimu, „Lietuva
-    pasodino didįjį kunigaikštį Žygimantą
-    Kęstutaitį didžiojoje kunigaikštystėje
-    Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
-
-    ## Puslapis 69
-
-    Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m.
+  citata_rodoma: "Švitrigaila spėjo pabėgti\nį Polocką.\n\nLietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d.“ Greitai\n\n## Puslapis 69\n\nŽygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \\ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15355,6 +15105,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181918
+
 - id: c-183043
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -15368,13 +15119,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
     apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
     arčiau didž. Lietuvos kunigaikščio būstinės.
-  citata_rodoma: |
-    kunigaikščiui priklau­
-    sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų
-    gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­
-    maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
-    apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
-    arčiau didž. Lietuvos kunigaikščio būstinės.
+  citata_rodoma: "kunigaikščiui priklau­\nsančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų\ngausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­\nmaičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau\napgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat\narčiau didž. Lietuvos kunigaikščio būstinės."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15382,6 +15127,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181699
+
 - id: c-183047
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15407,6 +15153,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-200022
     - t-200178
+
 - id: c-183049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15440,6 +15187,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200234
+
 - id: c-183050
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -15456,12 +15204,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-  citata_rodoma: |
-    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
-    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
-    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
-    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
-    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
+  citata_rodoma: "Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­\nmušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su\nta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo\nVitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­\ngos pirklys Hanulo įteikė jam pilies raktus^1 )."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15470,6 +15213,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181895
     - t-181906
+
 - id: c-183051
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15494,25 +15238,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
     griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
     liavietės, pradėta statyti Šv. Stanislovo katedra8.
-  citata_rodoma: |
-    11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladis-
-    rašo: quern locum vulgari lingua, Ant- lovo Jogailos laikais, aprašymas pa-
-    akalnie, id est, antemontanum dicimus remtas ne tik Strijkovskio, Kojelavi-
-    [tą vietą liaudies kalba Antakalniu, čiaus ir kronikininkų pasakojimais,
-    Į1O
-
-    ## Puslapis 127
-
-    Il KNYGA
-    Su tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­
-    taus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­
-    nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­
-    sirinkusiems žmonėms apie didelį ir esminį religijos pokytį.
-    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
-    po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­
-    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
-    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
-    liavietės, pradėta statyti Šv. Stanislovo katedra8.
+  citata_rodoma: "11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladis- \nrašo: quern locum vulgari lingua, Ant- lovo Jogailos laikais, aprašymas pa- \nakalnie, id est, antemontanum dicimus remtas ne tik Strijkovskio, Kojelavi- \n[tą vietą liaudies kalba Antakalniu, čiaus ir kronikininkų pasakojimais,\nĮ1O\n\n## Puslapis 127\n\nIl KNYGA\nSu tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­\ntaus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­\nnigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­\nsirinkusiems žmonėms apie didelį ir esminį religijos pokytį. \nVisi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o \npo apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­\nmingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­\ngriauta Perkūno šventykla, ir būtent toje vietoje, vidur pi- \nliavietės, pradėta statyti Šv. Stanislovo katedra8."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -15520,6 +15246,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200104
+
 - id: c-183052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -15555,13 +15282,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     santykius turi palaikyti su katalikais ir t.t. Tuo būdu iš pada-
     rytosios (1494 m.) taikos neišėjo nieko gero: Jonas **III** ir toliau
     palaikė ryšius su Lietuvos priešu, Krimo chanu Mengli-Girėju,
-  citata_rodoma: |
-    Pirmiausia jos
-    tėvas pareikalavo, kad ji liktų pravoslavė; su ja į Vilnių buvo
-    pasiųstas didokas skaičius Maskvos bajorų ir pravoslavų dva-
-    sininkų, kurie čia turėjo šnipinėti ir teikti žinias Maskvai. Jai
-    pačiai tėvas griežtai nurodė, kaip ji turi laikytis Vilniuje, kokiuos
-    santykius turi palaikyti su katalikais ir t.t.
+  citata_rodoma: "Pirmiausia jos\ntėvas pareikalavo, kad ji liktų pravoslavė; su ja į Vilnių buvo\npasiųstas didokas skaičius Maskvos bajorų ir pravoslavų dva-\nsininkų, kurie čia turėjo šnipinėti ir teikti žinias Maskvai. Jai\npačiai tėvas griežtai nurodė, kaip ji turi laikytis Vilniuje, kokiuos\nsantykius turi palaikyti su katalikais ir t.t."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15570,6 +15291,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181852
     - t-181933
+
 - id: c-183055
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -15581,15 +15303,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     rėlė yra indiškos kilmės: tokią išvadą padarė remdamiesi tik pa­
     našumu. 1831 metais tas senovės paminklas kartu su visu drau­
     gijos muziejumi buvo išvežtas į Sankt Peterburgą.
-  citata_rodoma: |
-    Skulptorių ir dailininkų stoką atstojo vaiz­
-    243
-
-    ## Puslapis 243
-
-    duotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
-    šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
-    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena.
+  citata_rodoma: "Skulptorių ir dailininkų stoką atstojo vaiz­\n243\n\n## Puslapis 243\n\nduotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno\nšventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15600,7 +15314,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - t-190657
     - t-190659
     - t-190661
-    - t-190663
+
 - id: c-183058
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15633,6 +15347,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200158
+
 - id: c-183059
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15654,6 +15369,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200228
+
 - id: c-183060
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -15672,6 +15388,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181780
+
 - id: c-183061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -15687,15 +15404,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     skirose nišose - kitų dievų stabai. O šios šventyklos aprašyme
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
     buvęs puošnesnis už kitus.
-  citata_rodoma: |
-    242
-
-    ## Puslapis 242
-
-    je. Vilniuje praeito amžiaus pabaigoje kasant duobes kated­
-    ros bažnyčios pamatams, žemėje buvo rastas rūsys, kuris buvo
-    pilnas panašių dalykų. Tokie atradimai primena paprotį už­
-    kasti žemėje aukų likučius požemio dievų garbei.
+  citata_rodoma: "242\n\n## Puslapis 242\n\nje. Vilniuje praeito amžiaus pabaigoje kasant duobes kated­\nros bažnyčios pamatams, žemėje buvo rastas rūsys, kuris buvo\npilnas panašių dalykų. Tokie atradimai primena paprotį už­\nkasti žemėje aukų likučius požemio dievų garbei."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15703,8 +15412,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188868
-    - t-190658
-    - t-188870
+    - t-200109
+
 - id: c-183062
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15724,6 +15433,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200282
+
 - id: c-183065
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15736,12 +15446,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas,
     1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
     lį ir gavęs Imperatoriškojo universiteto statusą.
-  citata_rodoma: |
-    Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda,
-    kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-
-    mės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas,
-    1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
-    lį ir gavęs Imperatoriškojo universiteto statusą.
+  citata_rodoma: "Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, \nkurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-\nmės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas, \n1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-\nlį ir gavęs Imperatoriškojo universiteto statusą."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15750,6 +15455,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181637
     - t-181790
+
 - id: c-183066
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -15765,14 +15471,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
     ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
     pradžios, 1934).
-  citata_rodoma: |
-    Aleknos mirties
-    vakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­
-    kulteto Filosofijos skyriuje, visą laiką dėstė Lietuvos istoriją, jos
-    šaltinius ir jos istorinę geografiją. Jis tęsė tą darbą po pirmojo
-    bolševikmečio pertraukos Filosofijos fakultete (Kaune) ir Ekono­
-    minių mokslų fakultete (Vilniuje) skaitė Lietuvos ūkio istoriją.
-    1933 m.
+  citata_rodoma: "Aleknos mirties\nvakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­\nkulteto Filosofijos skyriuje, visą laiką dėstė Lietuvos istoriją, jos\nšaltinius ir jos istorinę geografiją. Jis tęsė tą darbą po pirmojo\nbolševikmečio pertraukos Filosofijos fakultete (Kaune) ir Ekono­\nminių mokslų fakultete (Vilniuje) skaitė Lietuvos ūkio istoriją.\n1933 m."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15780,6 +15479,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181819
+
 - id: c-183068
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15809,6 +15509,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200131
+
 - id: c-183072
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15829,20 +15530,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
     nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
     duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
-  citata_rodoma: |
-    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
-    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
-    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
-    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
-    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
-    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
-    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
-    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
-    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
-    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
-    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
-    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
-    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
+  citata_rodoma: "Pirmąjį Vilniaus paminėjimą, pirmą autentišką\npaliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be\nabejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­\nniuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­\ngos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­\npitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip\npat su Vokiečių ordino Livonijoje magistru ir broliais - iš\nkitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15852,6 +15540,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - t-199996
     - t-200084
     - t-200254
+
 - id: c-183075
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15876,6 +15565,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199995
+
 - id: c-183076
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -15886,11 +15576,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     žymiausieji Gedimino sūnūs, būtent: Algirdas ir Kęstutis. Susitaręs
     su broliu, Kęstutis 1344-1345 m. žiemą užėmė Vilnių, o patį Jau­
     nutį suėmė.
-  citata_rodoma: |
-    Juos į savo rankas perėmė paskutinieji du pasilikę pagonys,
-    žymiausieji Gedimino sūnūs, būtent: Algirdas ir Kęstutis. Susitaręs
-    su broliu, Kęstutis 1344-1345 m. žiemą užėmė Vilnių, o patį Jau­
-    nutį suėmė.
+  citata_rodoma: "Juos į savo rankas perėmė paskutinieji du pasilikę pagonys,\nžymiausieji Gedimino sūnūs, būtent: Algirdas ir Kęstutis. Susitaręs\nsu broliu, Kęstutis 1344-1345 m. žiemą užėmė Vilnių, o patį Jau­\nnutį suėmė."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -15898,6 +15584,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181857
+
 - id: c-183080
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15917,6 +15604,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181824
+
 - id: c-183083
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15935,20 +15623,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     neša komtūras iš Lealio, iš Rygos,
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
-  citata_rodoma: |
-    Šis teisingu­
-    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
-    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
-    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
-    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
-    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
-    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
-    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
-    17
-    Apie tai didžiajam magistrui pra­
-    neša komtūras iš Lealio, iš Rygos,
-    laiške, datuotame 1432 metų rugpjū­
-    čio 19 d.
+  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -15956,6 +15631,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200119
+
 - id: c-183084
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -15975,6 +15651,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181676
+
 - id: c-183085
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15989,13 +15666,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
     telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: |
-    Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-
-    jos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
-    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
-    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
-    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
-    telkusi lenkiškai kalbančiuosius.
+  citata_rodoma: "Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-\njos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos \n1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad \njame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, \nplėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija, \ntelkusi lenkiškai kalbančiuosius."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -16003,6 +15674,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181799
+
 - id: c-183086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -16027,6 +15699,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - t-188859
     - t-188861
     - t-200174
+
 - id: c-183087
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16044,17 +15717,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     manytume buvus.
     g
     Post haec XI Kalendas Junii Fr.
-  citata_rodoma: |
-    Jeigu mes net tarsime, kad ta pilis Vilniuje
-    gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
-    amžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­
-    demini, juk pats Gediminas, arba rygiečiai, dar prieš metus
-    viešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­
-    niaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­
-    gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
-    būti ta vadinama Castrum Gedemini, yra visiškai atmestina.
-    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
-    manytume buvus.
+  citata_rodoma: "Jeigu mes net tarsime, kad ta pilis Vilniuje \ngerokai anksčiau pastatyta, tai Dusburgas, Gedimino \namžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­\ndemini, juk pats Gediminas, arba rygiečiai, dar prieš metus \nviešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­\nniaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­\ngi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs \nbūti ta vadinama Castrum Gedemini, yra visiškai atmestina. \nMes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį \nmanytume buvus."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -16062,6 +15725,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200103
+
 - id: c-183088
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16090,6 +15754,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200302
+
 - id: c-183089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16107,6 +15772,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181693
+
 - id: c-183090
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16137,6 +15803,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200083
+
 - id: c-183091
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16156,6 +15823,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200157
+
 - id: c-183092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -16179,6 +15847,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192776
+
 - id: c-183093
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16201,6 +15870,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200080
+
 - id: c-183095
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16224,7 +15894,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200197
+    - t-200191
+
 - id: c-183096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -16237,12 +15908,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ūgio ne aukštesnio, kaip viena uolektis“.
     Šių dievaičių atminimas neišnyko iki šiol; jei žinoma ne
     pati reikalo esmė, tai bent iš pasakojimų aišku, kas jie tokie.
-  citata_rodoma: |
-    Tą vardą Stenderis išveda
-    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
-    ke -  lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli
-    Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
-    vadinosi pursčiai (Puršcie).
+  citata_rodoma: "Tą vardą Stenderis išveda\niš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-\nke -  lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli\nVilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose\nvadinosi pursčiai (Puršcie)."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -16251,7 +15917,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-188864
     - t-188866
-    - t-188868
+
 - id: c-183097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16271,6 +15937,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200251
+
 - id: c-183101
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16292,6 +15959,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200065
+
 - id: c-183103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -16307,14 +15975,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     monė (taip pat labiau hipotetinė), jog A. Marcinovskis
     buvo J. Zavadskio proteguojamas ir, būtent jo padedamas,
     tapo garsiu Vilniaus leidėju.
-  citata_rodoma: |
-    Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
-    Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
-    įprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip
-    šubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika
-    buvusių Vilniaus universiteto profesorių, astuoni su šia
-    įstaiga nesusiję mokslininkai ir devyniolika literatų, kurių
-    dauguma buvo to universiteto absolventai.
+  citata_rodoma: "Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i\nRoztrząsania Naukowe“ puslapiuose anonimiškumas buvo\nįprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip\nšubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika\nbuvusių Vilniaus universiteto profesorių, astuoni su šia\nįstaiga nesusiję mokslininkai ir devyniolika literatų, kurių\ndauguma buvo to universiteto absolventai."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -16322,6 +15983,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192774
+
 - id: c-183104
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16346,6 +16008,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200138
+
 - id: c-183105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -16369,6 +16032,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197485
+
 - id: c-183106
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16401,6 +16065,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200206
+
 - id: c-183108
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -16411,11 +16076,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 
     (^1) ) Dar prieš Lucko suvažiavimą, 1428 m., Vytauto karūnacijos klau­
     simas buvo pakeltas paties Jogailos, kai jis buvo Vilniuj.
-  citata_rodoma: |
-    Lucke^1 ).
-
-    (^1) ) Dar prieš Lucko suvažiavimą, 1428 m., Vytauto karūnacijos klau­
-    simas buvo pakeltas paties Jogailos, kai jis buvo Vilniuj.
+  citata_rodoma: "Lucke^1 ).\n\n(^1) ) Dar prieš Lucko suvažiavimą, 1428 m., Vytauto karūnacijos klau­\nsimas buvo pakeltas paties Jogailos, kai jis buvo Vilniuj."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -16423,6 +16084,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181773
+
 - id: c-183109
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16450,6 +16112,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200137
+
 - id: c-183110
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16468,7 +16131,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181644
-    - t-181695
+
 - id: c-183111
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16493,18 +16156,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vardu buvo vadinama ir rusų gyven­
     tojų prastuomenė, kurių nemažai
     anuomet buvo Vilniuje.
-  citata_rodoma: |
-    Vienas tik Sudimantas, lietuvių vadas, sučiuptas per
-    puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­
-    das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė
-    nuteisdami jį pakarti kaip išdaviką. Vilniaus apylinkės, ke­
-    turių mylių nuotoliu buvo priešo ligi paskutiniųjų nunio­
-    kotos, ir tik tada didysis magistras įsakė trauktis. Tačiau
-    atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
-    siartinus prie Strėvos upės Trakų paviete, tankiame miške
-    iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,
-    54
-    Stryjkowski, p.
+  citata_rodoma: "Vienas tik Sudimantas, lietuvių vadas, sučiuptas per \npuolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­\ndas, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė \nnuteisdami jį pakarti kaip išdaviką. Vilniaus apylinkės, ke­\nturių mylių nuotoliu buvo priešo ligi paskutiniųjų nunio­\nkotos, ir tik tada didysis magistras įsakė trauktis. Tačiau \natsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­\nsiartinus prie Strėvos upės Trakų paviete, tankiame miške \niš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,\n54\nStryjkowski, p."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -16512,6 +16164,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200181
+
 - id: c-183112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16578,6 +16231,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200190
+
 - id: c-183116
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16601,6 +16255,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200153
+
 - id: c-183119
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16622,6 +16277,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200001
+
 - id: c-183120
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -16639,6 +16295,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193249
+
 - id: c-183121
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16668,6 +16325,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-200102
     - t-200130
+
 - id: c-183123
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16696,6 +16354,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200293
+
 - id: c-183124
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16716,6 +16375,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-199981
     - t-200135
+
 - id: c-183125
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16748,6 +16408,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200165
+
 - id: c-183126
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16766,16 +16427,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     23
     Mažesnieji broliai (pranciškonų
     atšaka).
-  citata_rodoma: |
-    Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­
-    nėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli­
-    kusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be
-    Rygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko­
-    vas bei Naugardas ne mažesnę globą patyrė. Iš Rusios,
-    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
-    23
-    Mažesnieji broliai (pranciškonų
-    atšaka).
+  citata_rodoma: "Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­\nnėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli­\nkusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be\nRygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko­\nvas bei Naugardas ne mažesnę globą patyrė. Iš Rusios,\nGedimino vasalės ar besigiminiavusios, pirkliai į sostinę\n23\nMažesnieji broliai (pranciškonų\natšaka)."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -16785,6 +16437,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - t-200182
     - t-200237
     - t-200243
+
 - id: c-183127
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16796,12 +16449,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
     Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
     turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
-  citata_rodoma: |
-    1396-ieji me­
-    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
-    bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
-    Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
-    turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
+  citata_rodoma: "1396-ieji me­\ntai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties \nbei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados \nManvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir \nturtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -16809,6 +16457,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200192
+
 - id: c-183128
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16823,10 +16472,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: |
-    1976 m. gegužės 12 d. įkurta
-    pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį pa-
-    naši grupė įsikūrė Vilniuje.
+  citata_rodoma: "1976 m. gegužės 12 d. įkurta \npirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį pa-\nnaši grupė įsikūrė Vilniuje."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -16834,7 +16480,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181640
-    - t-181866
+
 - id: c-183129
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16856,6 +16502,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200202
+
 - id: c-183131
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -16866,9 +16513,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mažiau kritiškumo parodęs Ignas Onacevičius (Onacewicz)^49.
     Jis nuo 1818 m. Vilniaus universitete dėstė istoriją, nuo 1821 m.
     — statistiką ir diplomatiką.
-  citata_rodoma: |
-    Jis nuo 1818 m. Vilniaus universitete dėstė istoriją, nuo 1821 m.
-    — statistiką ir diplomatiką.
+  citata_rodoma: "Jis nuo 1818 m. Vilniaus universitete dėstė istoriją, nuo 1821 m.\n— statistiką ir diplomatiką."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -16876,6 +16521,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181652
+
 - id: c-183132
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -16895,6 +16541,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181683
+
 - id: c-183133
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -16913,6 +16560,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181927
+
 - id: c-183134
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16925,13 +16573,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nes ji vadinta lietuvių, vyko rugsėjo 18–22 dienomis Vilniaus miesto tea-
     tre, atvyko 213 dalyvių, dar 9 buvo kooptuoti. Konferencijoje dominavo
     kunigai – 66, valstiečiai – 65 ir inteligentai – 59.
-  citata_rodoma: |
-    Juozas Stankevičius ir Jurgis Šaulys) į konferencijos dalyvių sąrašą atrinko
-    iš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių
-    grupių atstovus. Konferencija, į kurią lenkų dvarininkai nebuvo pakviesti,
-    nes ji vadinta lietuvių, vyko rugsėjo 18–22 dienomis Vilniaus miesto tea-
-    tre, atvyko 213 dalyvių, dar 9 buvo kooptuoti. Konferencijoje dominavo
-    kunigai – 66, valstiečiai – 65 ir inteligentai – 59.
+  citata_rodoma: "Juozas Stankevičius ir Jurgis Šaulys) į konferencijos dalyvių sąrašą atrinko \niš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių \ngrupių atstovus. Konferencija, į kurią lenkų dvarininkai nebuvo pakviesti, \nnes ji vadinta lietuvių, vyko rugsėjo 18–22 dienomis Vilniaus miesto tea-\ntre, atvyko 213 dalyvių, dar 9 buvo kooptuoti. Konferencijoje dominavo \nkunigai – 66, valstiečiai – 65 ir inteligentai – 59."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -16939,6 +16581,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181653
+
 - id: c-183135
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -16952,20 +16595,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
     Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
     kelį pro Lentvarį pulti Vilnių.
-  citata_rodoma: |
-    1919 m. balandžio pradžioje Lietuvos karinė vado-
-    vybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti
-    Vilnių ir pirmiau nei lenkai jį užimti.
-
-    Balandžio 3-8 d.
+  citata_rodoma: "1919 m. balandžio pradžioje Lietuvos karinė vado-\nvybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti\nVilnių ir pirmiau nei lenkai jį užimti.\n\nBalandžio 3-8 d."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181643
     - t-181833
+
 - id: c-183136
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16997,12 +16635,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
     jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
     apie Rusijos ir jos tautų ateitį.
-  citata_rodoma: |
-    Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
-    Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
-    Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
-    jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
-    apie Rusijos ir jos tautų ateitį.
+  citata_rodoma: "Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių \nVilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir \nEstijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos \njėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti \napie Rusijos ir jos tautų ateitį."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -17010,6 +16643,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181664
+
 - id: c-183138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -17032,6 +16666,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197486
+
 - id: c-183139
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17049,17 +16684,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     o Vilnius – lenkiškas miestas. Kadangi iki XX a. nė viena pusė neneigė,
     kad Vilnius yra istorinė LDK sostinė, lietuviai atkakliai kartojo istorinius
     argumentus.
-  citata_rodoma: |
-    Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus
-    Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.
-    J. Bulhako nuotrauka
-
-    L I E T U V O S  I S T O R I J A
-    140
-    juos lenkų delegacija atmetė – nesutarta dėl Vilniaus ir kam turi priklau-
-    syti visa Rytų Lietuva. Lietuviai motyvavo, kad tai yra jų istorinė terito-
-    rija, lenkai aiškino, kad Vilnijos gyventojai daugiausia kalba lenkiškai,
-    o Vilnius – lenkiškas miestas. Kadangi iki XX a.
+  citata_rodoma: "Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus \nVilnius 1916 m. – lietuvių ir lenkų disputo epicentras. \nJ. Bulhako nuotrauka\n\nL I E T U V O S  I S T O R I J A\n140\njuos lenkų delegacija atmetė – nesutarta dėl Vilniaus ir kam turi priklau-\nsyti visa Rytų Lietuva. Lietuviai motyvavo, kad tai yra jų istorinė terito-\nrija, lenkai aiškino, kad Vilnijos gyventojai daugiausia kalba lenkiškai, \no Vilnius – lenkiškas miestas. Kadangi iki XX a."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -17067,6 +16692,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181874
+
 - id: c-183141
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17098,6 +16724,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200087
+
 - id: c-183144
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -17111,11 +16738,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,
     pasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu
     užėmė pilį.
-  citata_rodoma: |
-    Tuo tarpu Vilniuje, dar sti­
-    pri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,
-    pasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu
-    užėmė pilį.
+  citata_rodoma: "Tuo tarpu Vilniuje, dar sti­\npri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,\npasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu\nužėmė pilį."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -17124,6 +16747,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181655
     - t-181815
+
 - id: c-183146
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17143,6 +16767,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200248
+
 - id: c-183147
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17167,6 +16792,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200133
+
 - id: c-183148
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17187,17 +16813,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
     niaus miestiečių laivams su prekėmis, o keliantis perkėla
     visur atleidžiama nuo bet kokių mokesčių41.
-  citata_rodoma: |
-    ) didžiųjų Lietuvos kunigaikščių Vilniui
-    duoti dovanojimai buvo ne tik patvirtinti karaliaus Alek­
-    sandro, Kazimiero įpėdinio, bet dar pasipildė naujais, tu­
-    rėjusiais gerokai pagyvinti prekybą ir pagerinti šio miesto
-    gyventojų buitį. Ta pačia privilegija, kuria Vilniui buvo
-    duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
-    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
-    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
-    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
-    mazijos ir kitų bet kokios rūšies vynų propinaciją40.
+  citata_rodoma: ") didžiųjų Lietuvos kunigaikščių Vilniui \nduoti dovanojimai buvo ne tik patvirtinti karaliaus Alek­\nsandro, Kazimiero įpėdinio, bet dar pasipildė naujais, tu­\nrėjusiais gerokai pagyvinti prekybą ir pagerinti šio miesto \ngyventojų buitį. Ta pačia privilegija, kuria Vilniui buvo \nduotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -17205,6 +16821,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200074
+
 - id: c-183149
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17226,6 +16843,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181679
     - t-181890
+
 - id: c-183150
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17258,6 +16876,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200218
+
 - id: c-183152
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17287,6 +16906,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200034
+
 - id: c-183156
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17315,6 +16935,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199968
+
 - id: c-183157
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -17327,12 +16948,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nėjimų. Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­
     menėje yra surišta populiari «Lietuvos istorija» (1936), kurią rašė
     penki autoriai.
-  citata_rodoma: |
-    Ėmęs dėstyti Vilniaus universitete, Šapoka specialiau savo
-    paskaitose susidomėjo sostinės istorija ir tremtyje paskelbė tyri­
-    nėjimų. Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­
-    menėje yra surišta populiari «Lietuvos istorija» (1936), kurią rašė
-    penki autoriai.
+  citata_rodoma: "Ėmęs dėstyti Vilniaus universitete, Šapoka specialiau savo\npaskaitose susidomėjo sostinės istorija ir tremtyje paskelbė tyri­\nnėjimų. Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­\nmenėje yra surišta populiari «Lietuvos istorija» (1936), kurią rašė\npenki autoriai."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -17341,6 +16957,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181694
     - t-181734
+
 - id: c-183159
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -17370,7 +16987,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187676
+    - t-200006
+
 - id: c-183161
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17381,9 +16999,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
     lo Muravjovo - Koriko represijas krašte. 1864 m. sausio 1 d.
     M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
-  citata_rodoma: |
-    1864 m. sausio 1 d.
-    M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
+  citata_rodoma: "1864 m. sausio 1 d.\nM. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -17391,6 +17007,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200127
+
 - id: c-183162
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -17409,7 +17026,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10869
+    - t-10866
+
 - id: c-183163
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17426,6 +17044,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181781
+
 - id: c-183164
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17448,6 +17067,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200304
+
 - id: c-183165
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17464,6 +17084,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200069
+
 - id: c-183166
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17487,6 +17108,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-200088
     - t-200170
+
 - id: c-183168
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17516,6 +17138,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200052
+
 - id: c-183169
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17545,6 +17168,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200123
+
 - id: c-183170
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17566,6 +17190,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181811
+
 - id: c-183171
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -17584,6 +17209,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181733
+
 - id: c-183172
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17608,7 +17234,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200026
+    - t-199985
+
 - id: c-183173
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17623,15 +17250,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: |
-    ) anoji sutartis su caru
-    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
-    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
-    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
-    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
-    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
-    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
-    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: ") anoji sutartis su caru \nbuvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės. \nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų \npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie \nsavo atvykimą iškart pranešti pilininkui4 3  44."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -17639,6 +17258,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200215
+
 - id: c-183174
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17662,6 +17282,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200235
+
 - id: c-183175
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17685,7 +17306,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181729
-    - t-181936
+
 - id: c-183176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17707,6 +17328,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200272
+
 - id: c-183178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17738,6 +17360,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200126
+
 - id: c-183179
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17754,13 +17377,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
     bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
     gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
-  citata_rodoma: |
-    Šiuo atžvilgiu jam pasisekė. Gimęs Lenkijos-Lie­
-    tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
-    tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­
-    lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
-    bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
-    gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
+  citata_rodoma: "Šiuo atžvilgiu jam pasisekė. Gimęs Lenkijos-Lie­\ntuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­\ntiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­\nlų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų \nbajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­\ngimo liudininkas, miesto kultūrinio gyvenimo dalyvis."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -17769,6 +17386,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-200055
     - t-200239
+
 - id: c-183180
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -17780,11 +17398,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     buvo labai sunaikintas ir negreit tegalėjo atsigauti. Miestai
     buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
     ras jame siautė net 17 dienų).
-  citata_rodoma: |
-    Todėl suprantama, kad po visų karų krašto ūkis
-    buvo labai sunaikintas ir negreit tegalėjo atsigauti. Miestai
-    buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
-    ras jame siautė net 17 dienų).
+  citata_rodoma: "Todėl suprantama, kad po visų karų krašto ūkis\nbuvo labai sunaikintas ir negreit tegalėjo atsigauti. Miestai\nbuvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-\nras jame siautė net 17 dienų)."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -17792,6 +17406,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181782
+
 - id: c-183181
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17809,19 +17424,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
     dangino su visu guotu į Šventaragio slėnį, už keturių mylių
     nuo Trakų, kur Vilnios upė įteka į Viliją.
-  citata_rodoma: |
-    400.
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją.
+  citata_rodoma: "400.\n48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -17829,6 +17432,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200057
+
 - id: c-183182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17851,6 +17455,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-199960
     - t-200016
+
 - id: c-183183
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -17862,9 +17467,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vilko » sapno yra nebeįsivaizduojama.
     Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
     jau buvo perkėlęs savo sostinę^15.
-  citata_rodoma: |
-    Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
-    jau buvo perkėlęs savo sostinę^15.
+  citata_rodoma: "Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun\njau buvo perkėlęs savo sostinę^15."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -17872,8 +17475,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181847
-    - t-181885
     - t-181929
+
 - id: c-183184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17900,6 +17503,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200072
+
 - id: c-183185
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17922,6 +17526,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200198
+
 - id: c-183186
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -17935,12 +17540,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje
     (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­
     jėgęs tik vyriausias žynys Lizdeika išaiškinti.
-  citata_rodoma: |
-    Gražia legenda yra apipintas Vilniuje valstybės sostinės
-    įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
-    takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje
-    (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­
-    jėgęs tik vyriausias žynys Lizdeika išaiškinti.
+  citata_rodoma: "Gražia legenda yra apipintas Vilniuje valstybės sostinės\nįkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­\ntakoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje\n(kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­\njėgęs tik vyriausias žynys Lizdeika išaiškinti."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -17949,6 +17549,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181785
     - t-181932
+
 - id: c-183187
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -17998,6 +17599,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181821
+
 - id: c-183188
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18020,6 +17622,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200038
+
 - id: c-183190
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18043,6 +17646,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200107
+
 - id: c-183192
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18066,6 +17670,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200224
+
 - id: c-183193
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18105,15 +17710,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
     jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
     tėjimo viršūnės.
-  citata_rodoma: |
-    Tame pačiame seime
-    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
-    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
-    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
-    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
-    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
-    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
-    tėjimo viršūnės.
+  citata_rodoma: "Tame pačiame seime \nLietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­\nraliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­\ntas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.) \nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -18121,6 +17718,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199962
+
 - id: c-183196
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -18200,6 +17798,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200155
+
 - id: c-183201
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -18218,6 +17817,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181705
+
 - id: c-183203
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18237,21 +17837,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo
     naujas Martyno Liuterio religijos opinijas42 ir savo įsteigtoje
     mokykloje išlavino net šešiasdešimt mokinių.
-  citata_rodoma: |
-    490; Rotundą vadina: vir ju- jį garbino Janickis. Petras Roizijus,
-    281
-
-    ## Puslapis 298
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    Šitaip klestint miestui, iki tol ramiai besiilsėjusius jo gy­
-    ventojų protus sujaudino nauji ir netikėti įvykiai. Dar 1539
-    metais, Vilniaus dieceziją valdant Alšėnų kunigaikščiui Vil­
-    niaus vyskupui Povilui, kunigas Abraomas Kulvietis, teolo­
-    gijos daktaras, lietuvių kilmės, bet į Vilnių atvykęs iš Vokie­
-    tijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo
-    naujas Martyno Liuterio religijos opinijas42 ir savo įsteigtoje
-    mokykloje išlavino net šešiasdešimt mokinių.
+  citata_rodoma: "490; Rotundą vadina: vir ju- jį garbino Janickis. Petras Roizijus,\n281\n\n## Puslapis 298\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nŠitaip klestint miestui, iki tol ramiai besiilsėjusius jo gy­\nventojų protus sujaudino nauji ir netikėti įvykiai. Dar 1539 \nmetais, Vilniaus dieceziją valdant Alšėnų kunigaikščiui Vil­\nniaus vyskupui Povilui, kunigas Abraomas Kulvietis, teolo­\ngijos daktaras, lietuvių kilmės, bet į Vilnių atvykęs iš Vokie­\ntijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo \nnaujas Martyno Liuterio religijos opinijas42 ir savo įsteigtoje \nmokykloje išlavino net šešiasdešimt mokinių."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -18259,6 +17845,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199975
+
 - id: c-183204
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -18278,6 +17865,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193655
+
 - id: c-183205
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18303,8 +17891,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200026
     - t-200252
+
 - id: c-183206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -18317,11 +17905,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     krikštyti. Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo
     raštus sau, Lenkijos karalienei ir Karūnai, Jogaila 1387 m. pra­
     džioje atvyko Vilniun.
-  citata_rodoma: |
-    gale jis vyko Lietuvos
-    krikštyti. Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo
-    raštus sau, Lenkijos karalienei ir Karūnai, Jogaila 1387 m. pra­
-    džioje atvyko Vilniun.
+  citata_rodoma: "gale jis vyko Lietuvos\nkrikštyti. Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo\nraštus sau, Lenkijos karalienei ir Karūnai, Jogaila 1387 m. pra­\ndžioje atvyko Vilniun."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -18329,6 +17913,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181703
+
 - id: c-183208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18393,6 +17978,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200060
+
 - id: c-183209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18415,6 +18001,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200194
+
 - id: c-183210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -18428,14 +18015,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
     dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
     kažkokį triukšmą ir lyg žalčių šnypštimą.
-  citata_rodoma: |
-    Gyvatė (Giwojte)
-    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
-    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
-    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
-    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
-    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
-    riumi.
+  citata_rodoma: "Gyvatė (Giwojte)\nNuodingas šliužas. Šios rūšies būtybės buvo traktuojamos\nkaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.\nStrijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­\nno šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,\nkurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­\nriumi."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -18444,7 +18024,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-188865
     - t-188867
-    - t-188869
+
 - id: c-183211
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18456,10 +18036,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­
     kilėlių gretas. Gegužės mėnesį buvo areštuotas M. Balinskis, bet
     netrukus paleistas.
-  citata_rodoma: |
-    Rusų valdžia kontroliavo tik Vilniaus miestą, iš
-    kurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­
-    kilėlių gretas. Gegužės mėnesį buvo areštuotas M.
+  citata_rodoma: "Rusų valdžia kontroliavo tik Vilniaus miestą, iš\nkurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­\nkilėlių gretas. Gegužės mėnesį buvo areštuotas M."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -18467,6 +18044,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200121
+
 - id: c-183212
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18487,6 +18065,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200168
+
 - id: c-183216
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -18504,6 +18083,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181739
+
 - id: c-183218
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18523,6 +18103,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-200313
     - t-200314
+
 - id: c-183219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18541,6 +18122,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200036
+
 - id: c-183220
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -18569,19 +18151,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Karalius Olbrachtas pasitraukė nuo Sučiavos mies­
     to ir žygiuoja gilyn, iš visos širdies trokšdamas susi­
     kauti su juo 3I.
-  citata_rodoma: |
-    O paskui, po vestuvių, Maskvos pasiuntiniai, di­
-    džiai pagerbti ir gausiai apdovanoti, buvo išleisti at­
-    galios.
-    Tą pačią vasarą 2 6  pas didįjį kunigaikštį Aleksandrą
-    į Vilnių atvažiavo jo motina, karalienė Elžbieta, su sa­
-    vo sūnumi, jo broliu karalaičiu Fridrichu2 6  — Lenki­
-    jos kardinolu ir arkivyskupu, Krokuvos vyskupu2 7 , ir
-    su dviem dukterimis karalaitėmis — Barbora 2 8  ir Elžbie­
-    ta 2 9 . Jis priėmė jas su didžiausiu džiaugsmu ir daug
-    dienų kėlė puotas ir nesuskaičiuojamas pramogas, kaip
-    geras sūnus mylimai motinai ir kaip ištikimas brolis
-    mylimam broliui.
+  citata_rodoma: "O paskui, po vestuvių, Maskvos pasiuntiniai, di­\ndžiai pagerbti ir gausiai apdovanoti, buvo išleisti at­\ngalios.\nTą pačią vasarą 2 6  pas didįjį kunigaikštį Aleksandrą \nį Vilnių atvažiavo jo motina, karalienė Elžbieta, su sa­\nvo sūnumi, jo broliu karalaičiu Fridrichu2 6  — Lenki­\njos kardinolu ir arkivyskupu, Krokuvos vyskupu2 7 , ir \nsu dviem dukterimis karalaitėmis — Barbora 2 8  ir Elžbie­\nta 2 9 . Jis priėmė jas su didžiausiu džiaugsmu ir daug \ndienų kėlė puotas ir nesuskaičiuojamas pramogas, kaip \ngeras sūnus mylimai motinai ir kaip ištikimas brolis \nmylimam broliui."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -18589,6 +18159,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200071
+
 - id: c-183221
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18625,6 +18196,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200114
+
 - id: c-183223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18641,16 +18213,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Lietuvos sostinė. Tačiau Foigtas
     naujausios Prūsijos istorijos (Ge­
     schichte Preussens.
-  citata_rodoma: |
-    Kai kurie tų
-    laiškų rašyti Vilniuje, datuoti 1323
-    metų gegužės 26-ąja diena, kur Ge­
-    diminas aiškiai jį vadina savo kara­
-    liškuoju miestu, yra svarbus liudiji­
-    mas, jog jau egzistavo istorinė
-    Lietuvos sostinė. Tačiau Foigtas
-    naujausios Prūsijos istorijos (Ge­
-    schichte Preussens.
+  citata_rodoma: "Kai kurie tų\nlaiškų rašyti Vilniuje, datuoti 1323\nmetų gegužės 26-ąja diena, kur Ge­\ndiminas aiškiai jį vadina savo kara­\nliškuoju miestu, yra svarbus liudiji­\nmas, jog jau egzistavo istorinė\nLietuvos sostinė. Tačiau Foigtas\nnaujausios Prūsijos istorijos (Ge­\nschichte Preussens."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -18659,6 +18222,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-200085
     - t-200305
+
 - id: c-183224
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18687,25 +18251,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
     Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
     torių.
-  citata_rodoma: |
-    , valią, tam slėny pir­
-    masis miškus išnaikinęs ir savo tė­
-    vo bei savo paties įpėdinių kapavie­
-    tėms skyręs; pavadino ją vardu tėvo,
-    Šventaragio, kas reikštų Šventą al-
-    18
-
-    ## Puslapis 35
-
-    I  KNYGA
-    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
-    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
-    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
-    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
-    okratinio valdymo centrų tikrai galėjo būti8.
-    Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
-    Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
-    torių.
+  citata_rodoma: ", valią, tam slėny pir­\nmasis miškus išnaikinęs ir savo tė­\nvo bei savo paties įpėdinių kapavie­\ntėms skyręs; pavadino ją vardu tėvo,\nŠventaragio, kas reikštų Šventą al-\n18\n\n## Puslapis 35\n\nI  KNYGA\nUrna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų\nnebuvo Europai žinomas kaip miestas, nebuvo pirmapradė\nvietovė kokios nors mažos kunigaikščio dalinės valdos Lie­\ntuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­\nokratinio valdymo centrų tikrai galėjo būti8.\nTačiau Vilniaus istorija prasideda tik 1321 metais, kai\nGediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,\ntorių."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -18713,6 +18259,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200260
+
 - id: c-183226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18738,25 +18285,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ras Goštautas, būdamas Podolės vai­
     vada, iš Rusios ir Podolės atkvietęs
     į Vilnių keturiolika Šv.
-  citata_rodoma: |
-    Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
-    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
-    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
-    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
-    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
-    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
-    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
-    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
-    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19. Šios
-    19
-    Waddyngas,  Mažesniųjų brolių
-    ordino istorijos autorius, ir jo komen­
-    tatorius Antoni Melissanius
-    de Macro pasakoja, kad dar 1333
-    metais (prieš Gedimino mirtį) Pet­
-    ras Goštautas, būdamas Podolės vai­
-    vada, iš Rusios ir Podolės atkvietęs
-    į Vilnių keturiolika Šv.
+  citata_rodoma: "Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­\nmėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­\nkalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­\nmenė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o\ngal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,\nsmurtu užėmusi pranciškonų vienuolyną, septynis vienuo­\nlius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos\nbėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms\natminti stovi kryžiai, Vilnios upės bangose žūtį rado19. Šios\n19\nWaddyngas,  Mažesniųjų brolių\nordino istorijos autorius, ir jo komen­\ntatorius Antoni Melissanius\nde Macro pasakoja, kad dar 1333\nmetais (prieš Gedimino mirtį) Pet­\nras Goštautas, būdamas Podolės vai­\nvada, iš Rusios ir Podolės atkvietęs\nį Vilnių keturiolika Šv."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -18764,6 +18293,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200073
+
 - id: c-183227
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18784,6 +18314,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200307
+
 - id: c-183228
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18804,19 +18335,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
     iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
     tų vėlesnio susijungimo ir galios pirmosios gijos.
-  citata_rodoma: |
-    iš vienos pusės, - valdovo su Ry­
-    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
-    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
-    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
-    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
-    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
-    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
-    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
-    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
-    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
-    iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
-    tų vėlesnio susijungimo ir galios pirmosios gijos.
+  citata_rodoma: "iš vienos pusės, - valdovo su Ry­\ngos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­\npitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip \npat su Vokiečių ordino Livonijoje magistru ir broliais - iš \nkitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo \nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino \nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad \niš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­\ntų vėlesnio susijungimo ir galios pirmosios gijos."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -18826,6 +18345,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - t-200017
     - t-200023
     - t-200219
+
 - id: c-183229
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -18846,6 +18366,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181638
+
 - id: c-183230
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18858,10 +18379,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76
     — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos
     faktus į lituanistinę istorinę literatūrą.
-  citata_rodoma: |
-    Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
-    pilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
-    perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.).
+  citata_rodoma: "Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)\npilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris\nperdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.)."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -18869,6 +18387,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181868
+
 - id: c-183231
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18900,6 +18419,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199988
+
 - id: c-183232
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -18923,24 +18443,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     letas kitų smulkesnių dalinių. Iš
     viso 2500 pėstininkų, 300 rai-
     telių ir 19 artilerijos pabūklų.
-  citata_rodoma: |
-    Mėginta šautuvus gaminti Gardine,
-
-    tačiau vadovybė savais gamintojais nepasitikėjo
-
-    Rusijos pajėgos
-
-    Lietuviams puolant balandžio 23 d.
-    Vilniuje buvusią rusų įgulą sudarė:
-    Narvos muškietininkų pulko vienas
-    batalionas ir trys kompanijos (kuo-
-    pos), Pskovo muškietininkų pul-
-    ko du batalionai, Dono kazokų
-    pulkas, keturios lauko artileri-
-    jos kompanijos (kuopos) ir ke-
-    letas kitų smulkesnių dalinių. Iš
-    viso 2500 pėstininkų, 300 rai-
-    telių ir 19 artilerijos pabūklų.
+  citata_rodoma: "Mėginta šautuvus gaminti Gardine,\n\ntačiau vadovybė savais gamintojais nepasitikėjo\n\nRusijos pajėgos\n\nLietuviams puolant balandžio 23 d.\nVilniuje buvusią rusų įgulą sudarė:\nNarvos muškietininkų pulko vienas\nbatalionas ir trys kompanijos (kuo-\npos), Pskovo muškietininkų pul-\nko du batalionai, Dono kazokų\npulkas, keturios lauko artileri-\njos kompanijos (kuopos) ir ke-\nletas kitų smulkesnių dalinių. Iš\nviso 2500 pėstininkų, 300 rai-\ntelių ir 19 artilerijos pabūklų."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -18948,6 +18451,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181689
+
 - id: c-183233
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -18984,6 +18488,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-187677
     - t-187678
+
 - id: c-183237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19013,25 +18518,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     bet ten dar prieš aštuonerius metus
     Bremeno pirkliai jau buvo pastaty­
     dinę keletą namų.
-  citata_rodoma: |
-    O vis dėlto Vilniuje, galingos valstybės sostinėje,
-    Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
-    tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
-    čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
-    giję feodalinio valdymo principai.
-    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
-    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
-    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
-    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
-    13
-    Rygos miestas buvo įkurtas 1200
-    metais, ant kalno, vadinto Righe,
-    Dvinos pakrantėje, vyskupo Alber­
-    to fon Apeldemo, pasiųsto skleisti
-    krikščioniškąjį tikėjimą Livonijoje,
-    bet ten dar prieš aštuonerius metus
-    Bremeno pirkliai jau buvo pastaty­
-    dinę keletą namų.
+  citata_rodoma: "O vis dėlto Vilniuje, galingos valstybės sostinėje,\nGedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­\ntės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­\nčionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­\ngiję feodalinio valdymo principai.\nPo Gedimino, nužudyto 1337 metais prie Bajerburgo pi­\nlies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­\nnutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su\nvaldovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,\n13\nRygos miestas buvo įkurtas 1200\nmetais, ant kalno, vadinto Righe,\nDvinos pakrantėje, vyskupo Alber­\nto fon Apeldemo, pasiųsto skleisti\nkrikščioniškąjį tikėjimą Livonijoje,\nbet ten dar prieš aštuonerius metus\nBremeno pirkliai jau buvo pastaty­\ndinę keletą namų."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -19040,6 +18527,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-199970
     - t-200003
+
 - id: c-183239
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -19053,12 +18541,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 
     1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
     kariuomenę, kuri buvo suspiesta Pskove.
-  citata_rodoma: |
-    Tuo būdu surinkus pinigų, prisi-
-    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
-    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
-
-    1579 m.
+  citata_rodoma: "Tuo būdu surinkus pinigų, prisi-\nsamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-\ngaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),\n\n1579 m."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -19067,6 +18550,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181671
     - t-181922
+
 - id: c-183240
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -19076,9 +18560,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kur nepaminėta, bet Vytautas tada turėjo gauti ir Vilnių^24. Dlu­
     gošas jį pavadino «Lietuvos žemės valdytoju », o žymus ordino
     kronikininkas J. Posilge — « didžiuoju seniūnu »^25.
-  citata_rodoma: |
-    Nors 1392 m. dokumentuose nie­
-    kur nepaminėta, bet Vytautas tada turėjo gauti ir Vilnių^24.
+  citata_rodoma: "Nors 1392 m. dokumentuose nie­\nkur nepaminėta, bet Vytautas tada turėjo gauti ir Vilnių^24."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -19087,6 +18569,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181845
     - t-181952
+
 - id: c-183241
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -19100,12 +18583,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
     klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
     tas 1579 m.).
-  citata_rodoma: |
-    jėzuitų ordino pasirodymą Lietuvoje.
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
-    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
-    tas 1579 m.).
+  citata_rodoma: "jėzuitų ordino pasirodymą Lietuvoje. \nJėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi \npakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-\nklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-\ntas 1579 m.)."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -19113,6 +18591,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181674
+
 - id: c-183243
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -19127,10 +18606,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
     torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
     (1377).
-  citata_rodoma: |
-    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
-    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
-    vos žemių dviejų kun.
+  citata_rodoma: "Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­\nnigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­\nvos žemių dviejų kun."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -19139,6 +18615,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-181934
     - t-181937
+
 - id: c-183244
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -19151,20 +18628,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
     priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
     užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
-  citata_rodoma: |
-    Nors
-    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
-    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
-    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
-    priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
-    užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
+  citata_rodoma: "Nors\nLietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-\nžimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą\nlietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai\npriartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas\nužėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181880
+    - t-181720
+
 - id: c-183246
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19186,6 +18658,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200051
+
 - id: c-183247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19204,19 +18677,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     jo kunigaikščio Aleksandro rūpinimasis savo sostinės
     gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
     siljevičiaus užmačių.
-  citata_rodoma: |
-    ), Aleksan­
-    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
-    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
-    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
-    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
-    kymu, buvo kuo rūpestingiausiai garantuojama laisva
-    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
-    niaus miestiečių laivams su prekėmis, o keliantis perkėla
-    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
-    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
-    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
-    siljevičiaus užmačių.
+  citata_rodoma: "), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -19224,6 +18685,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200062
+
 - id: c-183248
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -19238,14 +18700,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Vilnių. Kartu su juo pasitraukė
     iždininkas B. P. Sapiega ir marša-
     las A. P. Sapiega bei totorių vėliavos.
-  citata_rodoma: |
-    Etmonas, pama-
-    tęs, kad jo kariuomenė supama,
-    ir kad respublikonai jau užėmė
-    gurguolę, nusprendė trauktis į
-    Vilnių. Kartu su juo pasitraukė
-    iždininkas B. P. Sapiega ir marša-
-    las A. P. Sapiega bei totorių vėliavos.
+  citata_rodoma: "Etmonas, pama-\ntęs, kad jo kariuomenė supama,\nir kad respublikonai jau užėmė\ngurguolę, nusprendė trauktis į\nVilnių. Kartu su juo pasitraukė\niždininkas B. P. Sapiega ir marša-\nlas A. P. Sapiega bei totorių vėliavos."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -19253,6 +18708,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181872
+
 - id: c-183249
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19275,6 +18731,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200201
+
 - id: c-183252
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19300,6 +18757,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200212
+
 - id: c-183253
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19324,6 +18782,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200124
+
 - id: c-183254
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19337,13 +18796,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
-  citata_rodoma: |
-    Valdant Švitrigailai, Vilniaus miestietis
-    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
-    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
-    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
-    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
-    čio dvare9.
+  citata_rodoma: "Valdant Švitrigailai, Vilniaus miestietis \nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o \nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -19351,6 +18804,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200092
+
 - id: c-183255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -19369,17 +18823,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Pasak to paties autoriaus, prieš aukos atnašavimą priešais sta­
     bus būdavo smilkoma įvairiomis medžiagomis, nelygu koks
     dievas.
-  citata_rodoma: |
-    310
-
-    ## Puslapis 310
-
-    puotų likutis. Vėliau piktnaudžiavim as stipriaisiais gėrimais, ku ­
-    riuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais
-    labiau išplito, Vilniaus vyskupą Abraom ą Vainą paskatino už­
-    drausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II
-    amžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710
-    metais tą paprotį m atė ir griežtai jį uždraudė10 1.
+  citata_rodoma: "310\n\n## Puslapis 310\n\npuotų likutis. Vėliau piktnaudžiavim as stipriaisiais gėrimais, ku ­\nriuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais\nlabiau išplito, Vilniaus vyskupą Abraom ą Vainą paskatino už­\ndrausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II\namžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710\nmetais tą paprotį m atė ir griežtai jį uždraudė10 1."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -19389,6 +18833,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - t-190658
     - t-190660
     - t-200255
+
 - id: c-183256
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19425,6 +18870,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200277
+
 - id: c-183258
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19467,6 +18913,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200236
+
 - id: c-183261
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -19491,6 +18938,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181921
+
 - id: c-183262
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19521,22 +18969,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tartims antspauduoti, datuota dar
     1432 metų rugpjūčio 13 dieną iš Ker­
     navės.
-  citata_rodoma: |
-    —  • —
-    215
-
-    ## Puslapis 232
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
-    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
-    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
-    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­
-    gimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius
-    dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
-    do, bus vėl patyręs nesėkmių. Mat nemaža miesto dalis su-
-    15
-    Nors Kotzebue loco cit.
+  citata_rodoma: "—  • —  \n215\n\n## Puslapis 232\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\npriekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie \nrugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten \njo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy- \ndo, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­\ngimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius \ndėl šių staigių permainų ir abipusių karinių gaudynių, atro­\ndo, bus vėl patyręs nesėkmių. Mat nemaža miesto dalis su-\n15\nNors Kotzebue loco cit."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -19544,6 +18977,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200292
+
 - id: c-183263
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -19554,11 +18988,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     visa valdžia Lietuvoj; tėvas pasiliko tik iždo ir užsienio reikalus.
     Po tėvo mirties 1548 m. jis be jokių rinkimų savaime tapo abiejų
     valstybių valdovu.
-  citata_rodoma: |
-    Tuo būdu 1544 m. Zigmantas Augustas apsigyveno
-    Vilniuje, kaip didysis Lietuvos kunigaikštis, ir jam atiteko
-    visa valdžia Lietuvoj; tėvas pasiliko tik iždo ir užsienio reikalus.
-    Po tėvo mirties 1548 m.
+  citata_rodoma: "Tuo būdu 1544 m. Zigmantas Augustas apsigyveno\nVilniuje, kaip didysis Lietuvos kunigaikštis, ir jam atiteko\nvisa valdžia Lietuvoj; tėvas pasiliko tik iždo ir užsienio reikalus.\nPo tėvo mirties 1548 m."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -19566,6 +18996,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181647
+
 - id: c-183265
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -19586,6 +19017,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181774
+
 - id: c-183266
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -19606,18 +19038,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     persekiojęs respublikonų kariuome-
     nės dalinys įžengė į Vilnių Sapiegoms
     jau išvykus iš miesto.
-  citata_rodoma: |
-    Etmonas, iždininkas ir marša-
-    las vakare pasiekė Vilnių, iš visų savo
-    rūmų suvežė svarbiausias vertybes į
-    dominikonų vienuolyną, kuriame ir
-    pernakvojo, o ryte, paskleidę gandą,
-    kad vyksta į Drują bei Bychovo tvir-
-    tovę, iš tikrųjų suskubo trauktis į
-    Kuršą - į Bauskę ir Mintaują. Juos
-    persekiojęs respublikonų kariuome-
-    nės dalinys įžengė į Vilnių Sapiegoms
-    jau išvykus iš miesto.
+  citata_rodoma: "Etmonas, iždininkas ir marša-\nlas vakare pasiekė Vilnių, iš visų savo\nrūmų suvežė svarbiausias vertybes į\ndominikonų vienuolyną, kuriame ir\npernakvojo, o ryte, paskleidę gandą,\nkad vyksta į Drują bei Bychovo tvir-\ntovę, iš tikrųjų suskubo trauktis į\nKuršą - į Bauskę ir Mintaują. Juos\npersekiojęs respublikonų kariuome-\nnės dalinys įžengė į Vilnių Sapiegoms\njau išvykus iš miesto."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -19627,6 +19048,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - t-181915
     - t-181923
     - t-181938
+
 - id: c-183267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19661,6 +19083,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200094
+
 - id: c-183269
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19676,14 +19099,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga,
     padėjusia ateinančioms kartoms formuoti istorinės savimonės
     pagrindus.
-  citata_rodoma: |
-    Gimęs Lenkijos-Lie­
-    tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
-    tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­
-    lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
-    bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
-    gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
-    Lenkų ir lietuvių istoriografijoje M.
+  citata_rodoma: "Gimęs Lenkijos-Lie­\ntuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­\ntiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­\nlų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų\nbajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­\ngimo liudininkas, miesto kultūrinio gyvenimo dalyvis.\nLenkų ir lietuvių istoriografijoje M."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -19691,6 +19107,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200021
+
 - id: c-183270
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19723,20 +19140,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     no Vilniumi pagal Vilnios upės vardą.
     h i
     XI Knyga, sk.
-  citata_rodoma: |
-    Gedimi­
-    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
-    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
-    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
-    deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
-    išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
-    apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
-    tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
-    bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks
-    šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­
-    kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro
-    pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­
-    no Vilniumi pagal Vilnios upės vardą.
+  citata_rodoma: "Gedimi­\nnas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne \nregėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­\nvęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­\ndeika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas, \nišaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi \napkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­\ntuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­\nbę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks \nšio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­\nkas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro \npilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­\nno Vilniumi pagal Vilnios upės vardą."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -19745,6 +19149,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-200187
     - t-200233
+
 - id: c-183271
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -19772,6 +19177,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181908
+
 - id: c-183273
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19801,6 +19207,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200111
+
 - id: c-183274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -19825,6 +19232,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190663
+
 - id: c-183275
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -19839,13 +19247,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sokių nesusipratimų ir muš-
     tynių. Dažniausiai muštynių atsitikdavo švenčių metu, per
     procesijas, kada ypatingai vieni kitus gebėdavo įžeisti.
-  citata_rodoma: |
-    Miestuose, ypač Vil-
-    niuje, kur mišrai gyveno katali-
-    kai su protestantais, kildavo vi-
-    sokių nesusipratimų ir muš-
-    tynių. Dažniausiai muštynių atsitikdavo švenčių metu, per
-    procesijas, kada ypatingai vieni kitus gebėdavo įžeisti.
+  citata_rodoma: "Miestuose, ypač Vil-\nniuje, kur mišrai gyveno katali-\nkai su protestantais, kildavo vi-\nsokių nesusipratimų ir muš-\ntynių. Dažniausiai muštynių atsitikdavo švenčių metu, per\nprocesijas, kada ypatingai vieni kitus gebėdavo įžeisti."
   statusas: verified
   atnaujinta: "2026-07-14 13:22"
   teiginio_tipas: faktas
@@ -19853,6 +19255,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181810
+
 - id: c-184050
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
@@ -19873,6 +19276,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200704
+
 - id: c-184065
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
@@ -19892,6 +19296,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200720
+
 - id: c-184131
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -19911,6 +19316,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200786
+
 - id: c-184132
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -19931,9 +19337,11 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200787
+
 - id: c-184461
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Už tų tyragetų
     juo tolesniai dar į šiaurę gyveno masagetai, beje, me-
@@ -19953,9 +19361,11 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201111
+
 - id: c-184462
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Padėlis prekės buvo Vilkmergėj, Kaune, Rai-
     grade, nuo kur vieną leido į Toninę, kitą į Rusnę
@@ -19973,9 +19383,11 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201112
+
 - id: c-184463
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jei kas tą žymę neklausęs su­
     laužys ir per piktybę priešingaus, tokį mes skelbiam
@@ -19992,9 +19404,11 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201113
+
 - id: c-184464
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip elgės Ge-
     'diminas netikėlis, arba pagonis, su krikščionimis,
@@ -20018,9 +19432,11 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201114
+
 - id: c-184465
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet Gediminas ne vien baisiomis karėmis nepriete­
     lius savo giminės draudė, nes ir pačia ūke rūpinos
@@ -20039,6 +19455,167 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201115
+
+- id: c-185018
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Žygimantas Kęstutaitis atleido Vilniaus miestiečius nuo muitų,
+    tarp vietų, kuriose iš vilniečių neturi būti imamas muitas, buvo įvardytas ir Kaunas.
+    1443 m. Kazimieras Jogailaitis išdavė Vilniaus miestiečiams raštą, kuriame nurodė
+    savo vietiniams pareigūnams - vietininkams ir tijūnams - bei bajorams netrukdyti
+    vilniečių prekybos laivams laisvai plaukti Nerimi iki Kauno ir atgal.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201671
+
+- id: c-185019
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Štai per 1520-1521 m. Lenkijos
+    ir Vokiečių ordino karą keliai per Vokiečių ordino valstybę buvo uždaryti. Pačiame
+    karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Lietuvos kancleriui ir
+    Vilniaus vaivadai Mikalojui Radvilai, kad dėl kelio į Kauną uždarymo visa druska ir
+    kitos prekės, paprastai vežamos per Kauną, pasuko Bugu ir Narevu, o Kauno muiti-
+    nės sandėliai tušti.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201672
+
+- id: c-185020
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kita Šv. Gertrūdos buvo pastatyta miesto
+    valdose į rytus nuo paties miesto, prie kelio į Vilnių. Aplink ją buvo kapinės.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201673
+
+- id: c-185021
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Miesto
+    panoramoje išsiskyrė tik mūrinių bažnyčių tūriai.
+    Keliai, jungiantys Kauną su kitais miestais, neturėjo didelės reikšmės jo pradinei
+    urbanistinei raidai, nes planuojant miesto gatvių tinklą gal tik vienintelis kelias iš
+    pilies į Vilnių pateko į miesto teritoriją ir galėjo turėti tik nedidelę įtaką planuojant
+    miesto dalį į šiaurę nuo Turgaus aikštės. Kitas kelias į Vilnių driekėsi pietiniu miesto
+    pakraščiu ir greičiausiai buvo susijęs su muitine, veikiančia netoli prie Nemuno esan-
+    čio pranciškonų vienuolyno.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201674
+
+- id: c-185022
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kauno miestiečiai retai, o gal ir niekada tiesiogiai nebendravo su valdovais. Tie-
+    sa, Kauno miestiečių pasiuntiniai miesto reikalais dažnai lankydavosi valdovo dvare,
+    ir ne tik Vilniuje, kur buvo parengta daugiausia valdovų privilegijų Kauno miestui
+    ir kitokių raštų Kauno reikalais. Lietuvoje jie dar buvo rengiami Alytuje, Gardine,
+    Knišine, Smolenske, Tikocine, ten, kur tuo metu buvo valdovas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201675
+
+- id: c-185023
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Vienas iš tokių nesutarimų buvo į seimelius, taip pat į pavieto teismų sesijas su-
+    važiuojančių bajorų, ypač teismo pareigūnų, apgyvendinimo reikalai. Valstybėje jau
+    buvo tapę norma, kad į Vilnių, į valstybės seimus, po 1569 m. Liublino unijos į kon-
+    vokacinius suvažiavimus, o ypač į Vyriausiojo Lietuvos tribunolo sesijas suvažiuo-
+    jantys bajorai apsistodavo miestiečių namuose, niekaip už tą pastovį neatlygindami.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201676
+
+- id: c-185024
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    1560 m. Žygimantas Augustas, reaguodamas į vilniečių skundą, esą jiems trukdo-
+    ma Kaune prekiauti, iš jų imamas vadinamasis atvykimo mokestis (Jl8Ka, mokestis,
+    kurį turėjo sumokėti į miestą su prekėmis atvykęs pirklys) kaip iš maskvėnų, nurodė
+    kauniečiams laikytis 1536 m. Žygimanto Senojo sprendimo. Ginčai dėl vilniečių pre-
+    kybos Kaune teisių buvo atsinaujinę XVII a. trečiojo dešimtmečio pradžioje.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201677
+
+- id: c-185025
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    1580 m. Steponas Batoras leido Kauno cecho siuvėjams
+    naudotis vilniečių nuostatais, 1609 m. Zigmantas Vaza tą leidimą patvirtino.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201678
+
+- id: c-185026
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kauno miestiečių sūnūs buvo jau minėti broliai Albertas, Kazimieras ir Petras
+    Kojaiavičiai, žinomi jėzuitų veikėjai, Albertas - didžiausias XVII a. Lietuvos istori-
+    kas. Jų tėvai, pirklys Jonas Kojaiavičius ir Kauno miesto vaito Alberto Beinarto duktė
+    Brigita, mirė 1627-1628 m. greičiausiai Kaune siautusio maro metu ir broliai visai
+    jauni pateko į Vilniaus jėzuitų globą.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201679
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]

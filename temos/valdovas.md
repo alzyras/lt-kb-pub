@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 293
+tema_objektu_skaicius: 294
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 293.
+Objektų skaičius: 294.
 
 ## Kaip naudoti
 
@@ -331,3 +331,6 @@ Objektų skaičius: 293.
 
 ### Įvykiai
 - [Liublino unija (1569 m.)](../objektai/ivykiai/Liublino%20unija%20%281569%20m.%29)
+
+### Žodynas
+- [vaitas](../objektai/zodynas/vaitas)

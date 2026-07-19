@@ -68,22 +68,7 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
   temporalinis_llm_pakomentavimas: "Teiginys jau yra aiškus lietuviškas sakinys apie Boleslovą Narbutą ir jo veiksmą 1863 m. sukilime. Papildomų detalių iš citatos nereikia."
   pagrindžia:
     - c-170754
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai buvo didelis smūgis tėvui. Sėkmingai iš­
-    vengęs kalniečių kulkų, L. Narbutas žuvo Lietuvoje 1863 m.
-    pavasarį. 1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­
-    ma: į miškus išėjo sūnūs Boleslovas, Pranciškus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188040
+
 ## Citatos
 
 - id: c-170754
@@ -91,22 +76,13 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei­
-    do „Grovo Kyburgo kelionę“. XIX a. pirmosios pusės Lietu­
-    vos bajorų lenkiška romantinės pakraipos kūryba aušrininkams
-    buvo labai artima ir suprantama. Jonas Spudulis rašė Adomui
-    Dambrauskui-Jakštui: „Bet juk žinai, kad ne tik pas lietuvius,
-    ir pas kitas tautas buvo tokie pat vyrai, kurie nerašė savo pri­
-    gimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo
-    tėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip
-    tai būtų padarę rašydami savotiškoje kalboje“15.
-  citata_rodoma: |
     Tai buvo didelis smūgis tėvui. Sėkmingai iš­
     vengęs kalniečių kulkų, L. Narbutas žuvo Lietuvoje 1863 m.
     pavasarį. 1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­
     ma: į miškus išėjo sūnūs Boleslovas, Pranciškus.
+  citata_rodoma: "Tai buvo didelis smūgis tėvui. Sėkmingai iš­\nvengęs kalniečių kulkų, L. Narbutas žuvo Lietuvoje 1863 m. \npavasarį. 1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­\nma: į miškus išėjo sūnūs Boleslovas, Pranciškus."
   statusas: verified
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 11:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -13,6 +13,7 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1008 m.'
@@ -147,7 +148,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-161288
-    - c-161233
+
 <a id="claim-t-177343"></a>
 - t-006
   global_id: t-177343
@@ -290,9 +291,9 @@ media_all_json: |-
   pagrindžia:
     - c-161227
 
-<a id="claim-t-177368"></a>
+<a id="claim-t-177352"></a>
 - t-014
-  global_id: t-177368
+  global_id: t-177352
   teiginys: "Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -771,7 +772,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir faktas tiesiogiai susijęs su Kongresine Lenkija."
   pagrindžia:
     - c-161218
-    - c-167006
+
 <a id="claim-t-177389"></a>
 - t-040
   global_id: t-177389
@@ -842,9 +843,9 @@ media_all_json: |-
   pagrindžia:
     - c-161279
 
-<a id="claim-t-177405"></a>
+<a id="claim-t-177394"></a>
 - t-044
-  global_id: t-177405
+  global_id: t-177394
   teiginys: "Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1263,7 +1264,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai nusako Kongresinės Lenkijos sudarymą."
   pagrindžia:
     - c-161220
-    - c-167005
+
 <a id="claim-t-183044"></a>
 - t-067
   global_id: t-183044
@@ -1400,7 +1401,7 @@ media_all_json: |-
     - c-175948
 
 <a id="claim-t-193644"></a>
-- t-081
+- t-075
   global_id: t-193644
   teiginys: "Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje)."
   atnaujinta: "2026-07-06 12:55"
@@ -1471,6 +1472,19 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184058
+
+<a id="claim-t-201627"></a>
+- t-080
+  global_id: t-201627
+  teiginys: "Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regioną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lankėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184974
 - susijęs iš Didžioji Lenkija: Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją.
 - susijęs iš Vengrija: Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183536|Jogaila (kunigaikštis, XIV–XV a.)]]: Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
@@ -1876,6 +1890,8 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92925|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92926|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems savo herbus.
 - susijęs iš [[objektai/ivykiai/1430 m. Jedlno seimo suvažiavimas.md#claim-t-35819|1430 m. Jedlno seimo suvažiavimas (seimas, XV a.)]]: 1430 m. Jedlne Lenkijos luomai atnaujino pažadą vieną Jogailos sūnų priimti kaip jo įpėdinį su Vytauto ir lietuvių pritarimu.
+- susijęs iš [[objektai/ivykiai/1696 m. Lenkijos karaliaus mirtis Varšuvoje.md#claim-t-202409|1696 m. Lenkijos karaliaus mirtis Varšuvoje]]: Varšuvoje mirė Lenkijos karalius, dienoraštyje pavadintas mūsų geruoju valdovu.
+- susijęs iš [[objektai/ivykiai/1696 m. Lenkijos karaliaus mirtis Varšuvoje.md#claim-t-202410|1696 m. Lenkijos karaliaus mirtis Varšuvoje]]: Birželio 27 d. dienoraščio autorius iš pašto gavo žinią, kad Lenkijos karalius, jo valdovas, birželio 17 d. mirė Varšuvoje.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-183209|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66435|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-183207|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
@@ -3862,6 +3878,7 @@ media_all_json: |-
 - susijęs iš Varšuva: Vilniaus vyskupas I. Masalskis ir Livonijos vyskupas J. Kosakovskis buvo pakarti Varšuvoje birželio 28 dieną.
 - susijęs iš Varšuva: 1570 m. birželio 1 d. Motiejus Kaviečnijskis atsiuntė talerius į Varšuvą; Lietuvoje už juos mokėta po 25 lietuviškus grašius.
 - susijęs iš Varšuva: 1570 m. birželio 1 d. Motiejus Kaviečnijskis atsiuntė talerius į Varšuvą.
+- susijęs iš Varšuva: Lenkijos karalius tą dieną mirė Varšuvoje.
 - susijęs iš Varšuvos kunigaikštystė: 1807 m. Europos žemėlapyje atsirado pusiau nepriklausoma, Napoleono globojama Varšuvos kunigaikštystė.
 - susijęs iš Vengrija: 1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.
 - susijęs iš Viazma: Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos.
@@ -4265,6 +4282,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-24237
@@ -4277,10 +4295,7 @@ media_all_json: |-
     Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos
     ministeriai, o su Lenkijos kaimynais — Lenkų ministeriai. Lie-
     tuva daugiausia turėdavo"reikalų su sau artimiausia Maskva.
-  citata_rodoma: |
-    Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos
-    ministeriai, o su Lenkijos kaimynais — Lenkų ministeriai. Lie-
-    tuva daugiausia turėdavo"reikalų su sau artimiausia Maskva.
+  citata_rodoma: "Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos\nministeriai, o su Lenkijos kaimynais — Lenkų ministeriai. Lie-\ntuva daugiausia turėdavo\"reikalų su sau artimiausia Maskva."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4288,6 +4303,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177381
+
 - id: c-46570
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -4307,20 +4323,7 @@ media_all_json: |-
     dėjusi iš dviejų valsty-
     bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-
     išnykusios.
-  citata_rodoma: |
-    Sudarant Liublino
-    uniją, Lenkijoje, be sei-
-    melių, dar būdavo daro-
-    mi dviejų jos provincijų
-    — Didlenkių ir Mažlen-
-    kių — atskiri astovų su-
-    važiavimai, vadinami
-    generaliniais sei-
-    meliais. Mat, anks-
-    čiau Lenkija buvo susi-
-    dėjusi iš dviejų valsty-
-    bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-
-    išnykusios.
+  citata_rodoma: "Sudarant Liublino\nuniją, Lenkijoje, be sei-\nmelių, dar būdavo daro-\nmi dviejų jos provincijų\n— Didlenkių ir Mažlen-\nkių — atskiri astovų su-\nvažiavimai, vadinami\ngeneraliniais sei-\nmeliais. Mat, anks-\nčiau Lenkija buvo susi-\ndėjusi iš dviejų valsty-\nbių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-\nišnykusios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4329,6 +4332,7 @@ media_all_json: |-
   pagrindzia:
     - t-177353
     - t-177411
+
 - id: c-46573
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -4348,6 +4352,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177420
+
 - id: c-161210
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4361,15 +4366,7 @@ media_all_json: |-
     menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
     Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
     tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
-  citata_rodoma: |
-    bent jau Vilnius
-    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
-    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
-    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
-    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
-    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
-    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
-    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
+  citata_rodoma: "bent jau Vilnius \nprilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja) \ntokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net \njei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, \npastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-\nmenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK. \nBūtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos \ntyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4378,6 +4375,7 @@ media_all_json: |-
   pagrindzia:
     - t-177356
     - t-177377
+
 - id: c-161213
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4393,6 +4391,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177403
+
 - id: c-161214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4411,16 +4410,7 @@ media_all_json: |-
     tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
     Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
     aplinkines žemes.
-  citata_rodoma: |
-    Tų karingų vienuolių viršininkas, greitas
-    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
-    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
-    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
-    pilies sudarė sutartį su Vytautu. Netrukus po to Ordino
-    maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­
-    tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
-    Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
-    aplinkines žemes.
+  citata_rodoma: "Tų karingų vienuolių viršininkas, greitas\npasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­\ngos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­\nsiuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios\npilies sudarė sutartį su Vytautu. Netrukus po to Ordino\nmaršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­\ntuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir\nMaišiagalą, o prie pat sostinės su karių likučiais nusiaubė\naplinkines žemes."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4429,6 +4419,7 @@ media_all_json: |-
   pagrindzia:
     - t-177358
     - t-177407
+
 - id: c-161215
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4446,13 +4437,7 @@ media_all_json: |-
     vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
     (Litwa środkowa) sudarymą.
-  citata_rodoma: |
-    Nors 1920 m.
-    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
-    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
-    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
-    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
-    (Litwa środkowa) sudarymą.
+  citata_rodoma: "Nors 1920 m. \nspalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį \nsusitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-\nvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-\nligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos \n(Litwa środkowa) sudarymą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4461,6 +4446,7 @@ media_all_json: |-
   pagrindzia:
     - t-177386
     - t-177409
+
 - id: c-161216
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4474,13 +4460,7 @@ media_all_json: |-
     kusi Europoj tos galybės ir reikšmės, kurią turėjo susijungusi
     su Lietuva. Be to, tuo pat metu paaiškėjo ir lietuvių pažiūra į
     uniją su Lenkija.
-  citata_rodoma: |
-    Vytauto
-    karūnacija Lenkijai kėlė didelį pavojų^1 ), nes per ją Lietuva ga­
-    lėjo visiškai išsivaduoti iš Lenkijos, o Lenkija dėl to būtų nete­
-    kusi Europoj tos galybės ir reikšmės, kurią turėjo susijungusi
-    su Lietuva. Be to, tuo pat metu paaiškėjo ir lietuvių pažiūra į
-    uniją su Lenkija.
+  citata_rodoma: "Vytauto\nkarūnacija Lenkijai kėlė didelį pavojų^1 ), nes per ją Lietuva ga­\nlėjo visiškai išsivaduoti iš Lenkijos, o Lenkija dėl to būtų nete­\nkusi Europoj tos galybės ir reikšmės, kurią turėjo susijungusi\nsu Lietuva. Be to, tuo pat metu paaiškėjo ir lietuvių pažiūra į\nuniją su Lenkija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4488,6 +4468,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177364
+
 - id: c-161217
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4501,11 +4482,7 @@ media_all_json: |-
     šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų. Jis
     Pabaltijyje ir artimose srityse paliko dabartinį žemės reljefą (upes
     ir ežerus, kalvas ir žemumas) su charakteringomis morenomis.
-  citata_rodoma: |
-    Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį,
-    šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų. Jis
-    Pabaltijyje ir artimose srityse paliko dabartinį žemės reljefą (upes
-    ir ežerus, kalvas ir žemumas) su charakteringomis morenomis.
+  citata_rodoma: "Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį,\nšiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų. Jis\nPabaltijyje ir artimose srityse paliko dabartinį žemės reljefą (upes\nir ežerus, kalvas ir žemumas) su charakteringomis morenomis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4513,6 +4490,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177338
+
 - id: c-161218
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4529,6 +4507,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177388
+
 - id: c-161219
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4544,11 +4523,7 @@ media_all_json: |-
     balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir
     Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbia-
     vimo sutartis.
-  citata_rodoma: |
-    1994 m.
-    balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir
-    Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbia-
-    vimo sutartis.
+  citata_rodoma: "1994 m. \nbalandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir \nLenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbia-\nvimo sutartis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4556,6 +4531,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177382
+
 - id: c-161220
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4574,6 +4550,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177421
+
 - id: c-161221
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4583,10 +4560,7 @@ media_all_json: |-
     vo įmanoma. Artimiausia Lietuvos kaimynė buvo Lenkija ir Krėvos sutartis
     atskleidė naują Lietuvos istorijos puslapį: Lietuva atsigręžė į Lenkiją.
     1387 m.
-  citata_rodoma: |
-    Artimiausia Lietuvos kaimynė buvo Lenkija ir Krėvos sutartis
-    atskleidė naują Lietuvos istorijos puslapį: Lietuva atsigręžė į Lenkiją.
-    1387 m.
+  citata_rodoma: "Artimiausia Lietuvos kaimynė buvo Lenkija ir Krėvos sutartis \natskleidė naują Lietuvos istorijos puslapį: Lietuva atsigręžė į Lenkiją.\n1387 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4594,6 +4568,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177399
+
 - id: c-161222
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4615,6 +4590,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177371
+
 - id: c-161223
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4635,6 +4611,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177367
+
 - id: c-161225
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4655,6 +4632,7 @@ media_all_json: |-
   pagrindzia:
     - t-177376
     - t-177384
+
 - id: c-161226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4675,6 +4653,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177419
+
 - id: c-161227
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4689,14 +4668,7 @@ media_all_json: |-
     sovietų okupacija
     Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
     ta į Tautų Sąjungos Tarybą.
-  citata_rodoma: |
-    Vokietija kartojo nebeturinti regione
-    interesų, Anglija ir Prancūzija kariavo, o sutriuškinus Lenkiją jų įtaka re-
-    gione apskritai sumažėjo.
-    SSRS 1940 metų ultimatumas ir
-    sovietų okupacija
-    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
-    ta į Tautų Sąjungos Tarybą.
+  citata_rodoma: "Vokietija kartojo nebeturinti regione \ninteresų, Anglija ir Prancūzija kariavo, o sutriuškinus Lenkiją jų įtaka re-\ngione apskritai sumažėjo.\nSSRS 1940 metų ultimatumas ir  \nsovietų okupacija\nĮsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-\nta į Tautų Sąjungos Tarybą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4704,6 +4676,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177351
+
 - id: c-161228
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4723,6 +4696,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177340
+
 - id: c-161230
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4739,16 +4713,7 @@ media_all_json: |-
     dobė, maustydami ant tvorų baslių. Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
     netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,
     Plocku vadinama163.
-  citata_rodoma: |
-    2. Apie Lenkijos žemės nuniokojimą
-
-      Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir
-    nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis
-    įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių
-    nuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus
-    išsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo
-    paskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos
-    dobė, maustydami ant tvorų baslių.
+  citata_rodoma: "2. Apie Lenkijos žemės nuniokojimą\n\n  Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir\nnesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis\nįžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių\nnuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus\nišsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo\npaskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos\ndobė, maustydami ant tvorų baslių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -4756,6 +4721,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177413
+
 - id: c-161233
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4785,22 +4751,15 @@ media_all_json: |-
     Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-
     plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva
     žiūrėjo tik per Vilniaus prizmę.
-  citata_rodoma: |
-    Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
-    ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
-    socialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran-
-    tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus
-    krašto, nors sustiprino regiono šalių bendradarbiavimą.
-    Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-
-    plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva
-    žiūrėjo tik per Vilniaus prizmę.
+  citata_rodoma: "Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-\nga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, \nsocialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran-\ntavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus \nkrašto, nors sustiprino regiono šalių bendradarbiavimą.\nPo nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-\nplomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva \nžiūrėjo tik per Vilniaus prizmę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177368
+    - t-177352
+
 - id: c-161237
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4814,13 +4773,7 @@ media_all_json: |-
     Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
     čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
     skynė kelią į tikruosius jo didybės laikus.
-  citata_rodoma: |
-    Per aštuonioliką sa­
-    vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
-    paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
-    Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
-    čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
-    skynė kelią į tikruosius jo didybės laikus.
+  citata_rodoma: "Per aštuonioliką sa­\nvo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir\npaskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net\nAukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­\nčių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­\nskynė kelią į tikruosius jo didybės laikus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4828,6 +4781,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177373
+
 - id: c-161240
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4843,17 +4797,7 @@ media_all_json: |-
     sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
     kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
     priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3.
-  citata_rodoma: |
-    6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
-                                      kovų
-
-      Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
-    Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
-    užjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino
-    viešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai
-    sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
-    kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
-    priklausomas žemes.
+  citata_rodoma: "6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į\n                                  kovų\n\n  Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie\nLenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,\nužjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino\nviešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai\nsudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už\nkančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims\npriklausomas žemes."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -4861,6 +4805,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177406
+
 - id: c-161241
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4871,11 +4816,7 @@ media_all_json: |-
     sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo
     Lenkijos karaliumi. Viena iš sutarties sąlygų buvo Lietuvos krikštas, kurį
     Jogaila 1387 m., grįžęs iš Lenkijos, ir įgyvendino.
-  citata_rodoma: |
-    Išeitis buvo 1385 m. sudaryta Krėvos
-    sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo
-    Lenkijos karaliumi. Viena iš sutarties sąlygų buvo Lietuvos krikštas, kurį
-    Jogaila 1387 m.
+  citata_rodoma: "Išeitis buvo 1385 m. sudaryta Krėvos \nsutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo \nLenkijos karaliumi. Viena iš sutarties sąlygų buvo Lietuvos krikštas, kurį \nJogaila 1387 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4883,6 +4824,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177418
+
 - id: c-161243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4895,11 +4837,7 @@ media_all_json: |-
     A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
     ta išties mažai, priskirti Lietuvai. Lietuvai pripažinta teritorija buvo gana
     artima 1795 m. teritorijai.
-  citata_rodoma: |
-    Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
-    A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
-    ta išties mažai, priskirti Lietuvai. Lietuvai pripažinta teritorija buvo gana
-    artima 1795 m.
+  citata_rodoma: "Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, \nA. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-\nta išties mažai, priskirti Lietuvai. Lietuvai pripažinta teritorija buvo gana \nartima 1795 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4907,6 +4845,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177391
+
 - id: c-161245
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4931,6 +4870,7 @@ media_all_json: |-
   pagrindzia:
     - t-177341
     - t-177408
+
 - id: c-161246
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4950,18 +4890,7 @@ media_all_json: |-
     nors buvo surastas integracijos modelis, pagimdęs lokalinės bažnytinės
     unijos idėją, o tai leidžia kalbėti apie Lietuvą kaip jungtį tarp lotyniško-
     sios Vidurio ir bizantinės Rytų Europos.
-  citata_rodoma: |
-    Lietuvoje, kaip ir Vidurio Europos šalyse
-    (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Vidu-
-    ramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavo-
-    si bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija,
-
-    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
-    13
-    vyravo vakarietiška kultūrinė orientacija ir katalikybė, o ne stačiatikybė,
-    nors buvo surastas integracijos modelis, pagimdęs lokalinės bažnytinės
-    unijos idėją, o tai leidžia kalbėti apie Lietuvą kaip jungtį tarp lotyniško-
-    sios Vidurio ir bizantinės Rytų Europos.
+  citata_rodoma: "Lietuvoje, kaip ir Vidurio Europos šalyse \n(Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Vidu-\nramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavo-\nsi bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija,\n\nĮvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S\n13\nvyravo vakarietiška kultūrinė orientacija ir katalikybė, o ne stačiatikybė, \nnors buvo surastas integracijos modelis, pagimdęs lokalinės bažnytinės \nunijos idėją, o tai leidžia kalbėti apie Lietuvą kaip jungtį tarp lotyniško-\nsios Vidurio ir bizantinės Rytų Europos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4969,6 +4898,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177400
+
 - id: c-161248
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4987,6 +4917,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177362
+
 - id: c-161249
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5000,13 +4931,7 @@ media_all_json: |-
     ir Maskvos atvejais Vilniaus ir Trakų valdovai darniai bendradar­
     biavo, taip trečiame fronte broliui Liubartui labiausiai talkino
     Kęstutis.
-  citata_rodoma: |
-    jos egzistencijai pastoviai grasė vokiečių
-    ordinas. Lietuvos pietvakariuose buvo dar ir trečia valstybė —
-    Lenkija, su kuria išsivystė ilgametis konfliktas. Kaip kryžiuočių
-    ir Maskvos atvejais Vilniaus ir Trakų valdovai darniai bendradar­
-    biavo, taip trečiame fronte broliui Liubartui labiausiai talkino
-    Kęstutis.
+  citata_rodoma: "jos egzistencijai pastoviai grasė vokiečių\nordinas. Lietuvos pietvakariuose buvo dar ir trečia valstybė —\nLenkija, su kuria išsivystė ilgametis konfliktas. Kaip kryžiuočių\nir Maskvos atvejais Vilniaus ir Trakų valdovai darniai bendradar­\nbiavo, taip trečiame fronte broliui Liubartui labiausiai talkino\nKęstutis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5014,6 +4939,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177360
+
 - id: c-161251
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5030,15 +4956,7 @@ media_all_json: |-
     gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
     jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
     kariškai sustiprėjusios Švedijos.
-  citata_rodoma: |
-    Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik
-    Lenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-
-    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
-    valstybės institucijose.
-    Apšvieta ateina į LDK
-    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
-    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
-    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
+  citata_rodoma: "Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik \nLenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-\nminę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių \nvalstybės institucijose. \nApšvieta ateina į LDK\nNuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-\ngaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos \njūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5046,6 +4964,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177365
+
 - id: c-161252
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5064,6 +4983,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177397
+
 - id: c-161253
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5076,12 +4996,7 @@ media_all_json: |-
     į Lenkiją bei Livoniją.
     Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
     pralenkė turtingus prūsus ar karingus kuršius.
-  citata_rodoma: |
-    Vėliau lietuvių žygiai
-    padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir
-    į Lenkiją bei Livoniją.
-    Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
-    pralenkė turtingus prūsus ar karingus kuršius.
+  citata_rodoma: "Vėliau lietuvių žygiai \npadažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir \nį Lenkiją bei Livoniją.\nPlėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi \npralenkė turtingus prūsus ar karingus kuršius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5089,6 +5004,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177348
+
 - id: c-161254
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5104,13 +5020,7 @@ media_all_json: |-
     krikščionišką Vakarų kultūrą. XVI a. vidu-
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
     valstybė – Abiejų Tautų Respublika.
-  citata_rodoma: |
-    Lietuvos Didžioji Kunigaikštija dėl Vo-
-    kiečių ordino pavojaus pamažu stiprino
-    ryšius su Lenkija, o XV–XVI a. perėmė
-    krikščionišką Vakarų kultūrą. XVI a. vidu-
-    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
-    valstybė – Abiejų Tautų Respublika.
+  citata_rodoma: "Lietuvos Didžioji Kunigaikštija dėl Vo-\nkiečių ordino pavojaus pamažu stiprino \nryšius su Lenkija, o XV–XVI a. perėmė \nkrikščionišką Vakarų kultūrą. XVI a. vidu-\nryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė \nvalstybė – Abiejų Tautų Respublika."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5119,6 +5029,7 @@ media_all_json: |-
   pagrindzia:
     - t-177396
     - t-177402
+
 - id: c-161257
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5130,13 +5041,7 @@ media_all_json: |-
     lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
     A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
     ta išties mažai, priskirti Lietuvai.
-  citata_rodoma: |
-    Lietuviai pre-
-    tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
-    no gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo
-    lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
-    A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
-    ta išties mažai, priskirti Lietuvai.
+  citata_rodoma: "Lietuviai pre-\ntendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-\nno gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo \nlietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, \nA. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-\nta išties mažai, priskirti Lietuvai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5144,6 +5049,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177378
+
 - id: c-161259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5156,11 +5062,7 @@ media_all_json: |-
     Aleksandras, Dievo malone Lenkijos karalius, didysis Lie­
     tuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas
     ir tėvonis.
-  citata_rodoma: |
-    Todėl mes,
-    Aleksandras, Dievo malone Lenkijos karalius, didysis Lie­
-    tuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas
-    ir tėvonis.
+  citata_rodoma: "Todėl mes,\nAleksandras, Dievo malone Lenkijos karalius, didysis Lie­\ntuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas\nir tėvonis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5168,6 +5070,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177375
+
 - id: c-161260
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5186,24 +5089,15 @@ media_all_json: |-
     sitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­
     bijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­
     kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas.
-  citata_rodoma: |
-    Taip pat tikėjimu ir garbe prisaikdina­
-    me visus mūsų pareigūnus, kurie tuos reikalus tvarkys kaip
-    mūsų tarnai, kai to teks imtis, kad ištikimai, kaip doriems
-    žmonėms pridera, saugotų tuos daiktus ir niekam kitam ne­
-    duotų, tik pagal šį paskyrimą ir mūsų valią. Ir ypač, kad jos
-    didenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai
-    skirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­
-    sitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­
-    bijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­
-    kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas.
+  citata_rodoma: "Taip pat tikėjimu ir garbe prisaikdina­\nme visus mūsų pareigūnus, kurie tuos reikalus tvarkys kaip \nmūsų tarnai, kai to teks imtis, kad ištikimai, kaip doriems \nžmonėms pridera, saugotų tuos daiktus ir niekam kitam ne­\nduotų, tik pagal šį paskyrimą ir mūsų valią. Ir ypač, kad jos \ndidenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai \nskirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­\nsitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­\nbijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­\nkėjimų, sumų, dvarų ir valdų, to, ką davė Dievas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177405
+    - t-177394
+
 - id: c-161261
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -5221,6 +5115,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177346
+
 - id: c-161262
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5243,6 +5138,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177361
+
 - id: c-161263
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -5261,6 +5157,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177363
+
 - id: c-161265
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5274,12 +5171,7 @@ media_all_json: |-
     tyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą,
     todėl pirmiausia imtasi priemonių prieš pasiturinčius valstiečius – jiems
     palikta iki 30 ha žemės, jie vadinami „buožėmis“, taip pat tuos, kurie nau-
-  citata_rodoma: |
-    Tačiau kolektyviza-
-    cija Lietuvoje strigo dėl partizaninio karo. Pagal naują tvarką į valstybinį
-    žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų
-    į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat per-
-    duota konfiskuota partizanų ir tremtinių žemė. 1948 m.
+  citata_rodoma: "Tačiau kolektyviza-\ncija Lietuvoje strigo dėl partizaninio karo. Pagal naują tvarką į valstybinį \nžemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų \nį Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat per-\nduota konfiskuota partizanų ir tremtinių žemė. 1948 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5287,6 +5179,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177415
+
 - id: c-161267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5304,13 +5197,7 @@ media_all_json: |-
     mu užėmė ano valdos sostinę Gardiną ir šiaip taip
     patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
     Vilniaus diecezijos senųjų turto do- Vilnensis.
-  citata_rodoma: |
-    Pats tuo metu už­
-    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
-    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
-    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
-    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
-    Vilniaus diecezijos senųjų turto do- Vilnensis.
+  citata_rodoma: "Pats tuo metu už­\nėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­\nražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­\nmu užėmė ano valdos sostinę Gardiną ir šiaip taip\npatvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau\nVilniaus diecezijos senųjų turto do- Vilnensis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5318,6 +5205,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177345
+
 - id: c-161269
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5328,11 +5216,7 @@ media_all_json: |-
     Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
     dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
     je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus.
-  citata_rodoma: |
-    Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
-    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
-    Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
-    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.
+  citata_rodoma: "Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis \nišimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir \nLenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-\ndėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5340,6 +5224,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177379
+
 - id: c-161270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5357,6 +5242,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177343
+
 - id: c-161271
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5377,6 +5263,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177404
+
 - id: c-161274
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5387,11 +5274,7 @@ media_all_json: |-
     priklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas
     prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-
     skelbto rekrutų ėmimo.
-  citata_rodoma: |
-    Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
-    sosto ir perduodąs suverenitetą tautai. Tai reiškė Lenkijos karalystės ne-
-    priklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas
-    prasidėjo spontaniškai 1831 m.
+  citata_rodoma: "Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus \nsosto ir perduodąs suverenitetą tautai. Tai reiškė Lenkijos karalystės ne-\npriklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas \nprasidėjo spontaniškai 1831 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5399,6 +5282,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177339
+
 - id: c-161276
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5412,12 +5296,7 @@ media_all_json: |-
     karo, nei taikos“ situacijoje. Ar Lietuva nepralaimėjo neišnaudojusi visų
     federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-
     tas Šveicarijoje pasiteisinęs kantonų principas?
-  citata_rodoma: |
-    1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
-    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
-    karo, nei taikos“ situacijoje. Ar Lietuva nepralaimėjo neišnaudojusi visų
-    federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-
-    tas Šveicarijoje pasiteisinęs kantonų principas?
+  citata_rodoma: "1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-\nnėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei \nkaro, nei taikos“ situacijoje. Ar Lietuva nepralaimėjo neišnaudojusi visų \nfederacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-\ntas Šveicarijoje pasiteisinęs kantonų principas?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5425,6 +5304,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177355
+
 - id: c-161277
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -5457,28 +5337,7 @@ media_all_json: |-
     Plockas |“ Belska o R as , i
     Q KS o; Sluckas 2 garsiąją, valstybės gyvybingumą turėjusią
     padidinti 1791 m. gegužės 3 d. konstituciją.
-  citata_rodoma: |
-    Didelė Lietuvos ir Lenkijos tautų ne-
-    LIETUVA Pe laimė vertė jy visuomenes, dalyvaujant net
-
-    =
-    a
-    o
-    60
-    =
-    I
-    o
-    o
-    m
-    =
-
-    X Geninias 6 M ir karaliui, bandyti gelbėti valstybę. Tai pa-
-    Balstogel a wx o augi as B skatino imtis pertvarkų, kurios peraugo į
-    OL Slanimas 5-MI8S 5 Nesvyžius 2 Ketverių metų seimo veiklą, kuris priėmė
-
-    Plockas |“ Belska o R as , i
-    Q KS o; Sluckas 2 garsiąją, valstybės gyvybingumą turėjusią
-    padidinti 1791 m. gegužės 3 d. konstituciją.
+  citata_rodoma: "Didelė Lietuvos ir Lenkijos tautų ne-\nLIETUVA Pe laimė vertė jy visuomenes, dalyvaujant net\n\n=\na\no\n60\n=\nI\no\no\nm\n=\n\nX Geninias 6 M ir karaliui, bandyti gelbėti valstybę. Tai pa-\nBalstogel a wx o augi as B skatino imtis pertvarkų, kurios peraugo į\nOL Slanimas 5-MI8S 5 Nesvyžius 2 Ketverių metų seimo veiklą, kuris priėmė\n\nPlockas |“ Belska o R as , i\nQ KS o; Sluckas 2 garsiąją, valstybės gyvybingumą turėjusią\npadidinti 1791 m. gegužės 3 d. konstituciją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5486,6 +5345,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177414
+
 - id: c-161279
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5499,13 +5359,7 @@ media_all_json: |-
     taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
     kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
     lią, nebūta.
-  citata_rodoma: |
-    Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
-    ti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.
-    Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
-    taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
-    kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
-    lią, nebūta.
+  citata_rodoma: "Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-\nti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis. \nKitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės \ntaryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo \nkunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-\nlią, nebūta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5514,6 +5368,7 @@ media_all_json: |-
   pagrindzia:
     - t-177393
     - t-177410
+
 - id: c-161280
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5527,13 +5382,7 @@ media_all_json: |-
     tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati,
     kartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,
     kaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija.
-  citata_rodoma: |
-    Tokių atsitikimų buvo ir daugiau. Lietuvos
-    bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vie-
-    ną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą",
-    tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati,
-    kartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,
-    kaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija.
+  citata_rodoma: "Tokių atsitikimų buvo ir daugiau. Lietuvos\nbajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vie-\nną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą\",\ntačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati,\nkartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,\nkaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5541,6 +5390,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177401
+
 - id: c-161281
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5557,14 +5407,7 @@ media_all_json: |-
     buvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar
     taip yra iš tikrųjų, todėl nusivedė du jaunus pasileidėlius pas magistrą, tačiau šis, vos
     išvydęs tuos tarnus, liepė jiems išsinešdinti.
-  citata_rodoma: |
-    Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
-                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
-
-       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
-    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
-    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
-    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
+  citata_rodoma: "Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -5572,6 +5415,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177389
+
 - id: c-161282
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5583,10 +5427,7 @@ media_all_json: |-
     pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
     papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
     dievui bei jam įstotų į šį ordiną.
-  citata_rodoma: |
-    22. Apie Vengrijos ir Lenkijos nusiaubimą
-
-       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
+  citata_rodoma: "22. Apie Vengrijos ir Lenkijos nusiaubimą\n\n   Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -5594,6 +5435,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177344
+
 - id: c-161284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5632,20 +5474,7 @@ media_all_json: |-
     mūsų karalystės valdose privalėtų išlaikyti dešimties len­
     kiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­
     to valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota.
-  citata_rodoma: |
-    O grašius, Tikocine len­
-    kiškų pavidalu nukaldintus, įsakome taip pat, kad kaip
-    Lenkijoje, taip ir Lietuvoje, kad būtų imami pagal lenkiškų
-    grašių kainą. Šiuo mūsų įsakymu norime, kad visi bendrai
-    445
-
-    ## Puslapis 462
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    mūsų pavaldiniai kaip Lenkijoje, taip ir Lietuvoje, ir kitose
-    mūsų karalystės valdose privalėtų išlaikyti dešimties len­
-    kiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­
-    to valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota.
+  citata_rodoma: "O grašius, Tikocine len­\nkiškų pavidalu nukaldintus, įsakome taip pat, kad kaip\nLenkijoje, taip ir Lietuvoje, kad būtų imami pagal lenkiškų\ngrašių kainą. Šiuo mūsų įsakymu norime, kad visi bendrai\n445\n\n## Puslapis 462\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nmūsų pavaldiniai kaip Lenkijoje, taip ir Lietuvoje, ir kitose\nmūsų karalystės valdose privalėtų išlaikyti dešimties len­\nkiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­\nto valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5653,6 +5482,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177390
+
 - id: c-161285
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5668,14 +5498,7 @@ media_all_json: |-
     su 18 palydovų.
     Bet ir jo misijos
     nebuvo sėkmingos.
-  citata_rodoma: |
-    Pagaliau
-    1008 m. gale jis iš-
-    vyko iš Lenkijos
-    aisčių krikštyti net
-    su 18 palydovų.
-    Bet ir jo misijos
-    nebuvo sėkmingos.
+  citata_rodoma: "Pagaliau\n1008 m. gale jis iš-\nvyko iš Lenkijos\naisčių krikštyti net\nsu 18 palydovų.\nBet ir jo misijos\nnebuvo sėkmingos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5683,6 +5506,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177359
+
 - id: c-161286
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5702,6 +5526,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177383
+
 - id: c-161287
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5737,6 +5562,7 @@ media_all_json: |-
   pagrindzia:
     - t-177349
     - t-177350
+
 - id: c-161288
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5753,6 +5579,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177342
+
 - id: c-166436
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5780,6 +5607,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183044
+
 - id: c-167005
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5844,6 +5672,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177395
+
 - id: c-171624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5868,19 +5697,7 @@ media_all_json: |-
     dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
     kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
     Rusia.
-  citata_rodoma: |
-    Pasakiau „stebuklingu būdu“, kadangi apaš­
-    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
-    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
-    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
-    patrauklumas. Lenkijos karalienės Jadvygos ranka, paduota
-    Vladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­
-    rius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija
-    jo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­
-    nyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie
-    didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
-    jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
-    džių.
+  citata_rodoma: "Pasakiau „stebuklingu būdu“, kadangi apaš­\ntališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­\nkinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių\nriterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus\npatrauklumas. Lenkijos karalienės Jadvygos ranka, paduota\nVladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­\nrius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija\njo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­\nnyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie\ndidžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri\njų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­\ndžių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -5888,6 +5705,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188735
+
 - id: c-171625
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5908,6 +5726,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188736
+
 - id: c-175457
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5932,6 +5751,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192687
+
 - id: c-175945
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5951,6 +5771,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193201
+
 - id: c-175946
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5971,6 +5792,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193202
+
 - id: c-175947
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5990,6 +5812,7 @@ media_all_json: |-
   pagrindzia:
     - t-177381
     - t-193203
+
 - id: c-175948
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -6008,6 +5831,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193204
+
 - id: c-176314
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6025,6 +5849,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193644
+
 - id: c-176426
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -6044,6 +5869,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193772
+
 - id: c-176427
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -6062,6 +5888,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193773
+
 - id: c-177580
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -6069,8 +5896,7 @@ media_all_json: |-
   citata_originali: |
     Pirmiausia kurį nors Gediminaitį išsirinkdavo sau
     valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija.
-  citata_rodoma: |
-    Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija.
+  citata_rodoma: "Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -6078,6 +5904,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177381
+
 - id: c-179049
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -6099,6 +5926,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197176
+
 - id: c-184058
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
@@ -6119,6 +5947,26 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200713
+
+- id: c-184974
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Savaime suprantama, kad ėmę masiškai statydintis mūrnamius kauniečiai
+    sekė matytais pavyzdžiais. Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regi-
+    oną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lan-
+    kėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje. Šie miestai dar iš viduram-
+    žių paveldėjo tvirtas raudonų plytų gotikos architektūrinio stiliaus tradicijas, kurios
+    klestėjo ir XVI a.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201627
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Žygimantas Senasis]]
 - Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]]

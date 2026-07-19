@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 28
+tema_objektu_skaicius: 27
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 28.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -32,7 +32,6 @@ Objektų skaičius: 28.
 - [[objektai/asmenys/Barbora (Aleksandro sesuo)]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
-- [[objektai/asmenys/Bona]]
 - [[objektai/asmenys/Bona Sforca]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Elžbieta]]
@@ -51,7 +50,7 @@ Objektų skaičius: 28.
 - [[objektai/asmenys/Ona Jogailaitė]]
 - [[objektai/asmenys/Pranciškus Gonzaga]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]
-- [Vladislovas IV](../objektai/asmenys/Vladislovas%20IV)
+- [[objektai/asmenys/Vladislovas IV]]
 
 ### Autoriai
 - [Konstantinas Sirvydas (kunigas)](../objektai/autoriai/Konstantinas%20Sirvydas)

@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 109
+tema_objektu_skaicius: 112
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 109.
+Objektų skaičius: 112.
 
 ## Kaip naudoti
 
@@ -132,6 +132,7 @@ Objektų skaičius: 109.
 ### Vietos
 - [Dobrynė](../objektai/vietos/Dobryn%C4%97)
 - [Mazovija](../objektai/vietos/Mazovija)
+- [Nevėžis](../objektai/vietos/Nev%C4%97%C5%BEis)
 - [Sūduva](../objektai/vietos/S%C5%ABduva)
 - [Vokietija](../objektai/vietos/Vokietija)
 
@@ -141,12 +142,14 @@ Objektų skaičius: 109.
 - [Laivų kautynės prie Santyro](../objektai/ivykiai/Laiv%C5%B3%20kautyn%C4%97s%20prie%20Santyro)
 - [Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)](../objektai/ivykiai/Reform%C5%B3%20%C5%A1alinink%C5%B3%20pergal%C4%97%20Kry%C5%BEiuo%C4%8Di%C5%B3%20ordino%20vidin%C4%97je%20kovoje%20%281324%20m.%29)
 - [Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)](../objektai/ivykiai/Tamplieri%C5%B3%20ordino%20persekiojimas%20ir%20likvidavimas%20Pranc%C5%ABzijoje%20%281307%E2%80%941314%20m.%29)
+- [Torno taika (1411 m.)](../objektai/ivykiai/Torno%20taika%20%281411%20m.%29)
 - [Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)](../objektai/ivykiai/Vokie%C4%8Di%C5%B3%20ordino%20prad%C5%BEios%20datavimas%20nuo%20Akono%20apgulties%20iki%20ilgesnio%20susiformavimo%20proceso%20%281190-1198%20m.%29)
 - [Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)](../objektai/ivykiai/%C5%A0ventojo%20kry%C5%BEiaus%20relikvijos%20perdavimas%20Hermanui%20ir%20jos%20i%C5%A1siuntimas%20%C4%AF%20Elbingo%20pil%C4%AF)
 
 ### Šaltiniai
 - [1249 m. Ordino — prūsų sutartis](../objektai/saltiniai/1249%20m.%20Ordino%20%E2%80%94%20pr%C5%ABs%C5%B3%20sutartis)
 - [Mikalojaus iš Jerošino Prūsijos žemės kronika](../objektai/saltiniai/Mikalojaus%20i%C5%A1%20Jero%C5%A1ino%20Pr%C5%ABsijos%20%C5%BEem%C4%97s%20kronika)
+- [Salyno sutartis (1398 m.)](../objektai/saltiniai/Salyno%20sutartis%20%281398%20m.%29)
 
 ### Žodynas
 - [didysis magistras](../objektai/zodynas/didysis%20magistras)

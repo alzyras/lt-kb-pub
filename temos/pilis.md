@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 472
+tema_objektu_skaicius: 473
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 472.
+Objektų skaičius: 473.
 
 ## Kaip naudoti
 
@@ -505,6 +505,7 @@ Objektų skaičius: 472.
 - [1249 m. Ordino — prūsų sutartis](../objektai/saltiniai/1249%20m.%20Ordino%20%E2%80%94%20pr%C5%ABs%C5%B3%20sutartis)
 - [Pašuta V. Lietuvos valstybės susidarymas](../objektai/saltiniai/Pa%C5%A1uta%20V.%20Lietuvos%20valstyb%C4%97s%20susidarymas)
 - [Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas](../objektai/saltiniai/Roneburgo%20pilies%20ba%C5%BEny%C4%8Dios%20Dusburgie%C4%8Dio%20kronikos%20nuora%C5%A1as)
+- [Tauta ir žodis](../objektai/saltiniai/Tauta%20ir%20%C5%BEodis)
 
 ### Žodynas
 - [ginklanešiai](../objektai/zodynas/ginklane%C5%A1iai)

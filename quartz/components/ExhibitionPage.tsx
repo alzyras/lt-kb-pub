@@ -41,15 +41,22 @@ function ClaimLinks({ item }: { item: ExhibitionItem }) {
   return (
     <div class="exhibition-claims">
       {item.claims.map((claim) => (
-        <details>
+        <details
+          class={`exhibition-claim ${claim.role === "direct" ? "is-direct" : "is-contextual"}`}
+        >
           <summary>
-            <Quote size={14} aria-hidden="true" /> Teiginys {claim.code}
+            <Quote size={14} aria-hidden="true" /> {claim.label || "Šaltinis ir citata"}
           </summary>
+          <div class="exhibition-claim-label">
+            {claim.role === "direct" ? "Tiesiogiai apie eksponatą" : "Istorinis kontekstas"}
+          </div>
           <p>{claim.text}</p>
-          <a href={claim.url}>
-            Atidaryti teiginį ir jo citatą <ArrowRight size={14} aria-hidden="true" />
-          </a>
-          <small>{claim.sourceTitle}</small>
+          <div class="exhibition-claim-footer">
+            <small>{claim.sourceTitle}</small>
+            <a href={claim.url}>
+              Skaityti citatą <ArrowRight size={14} aria-hidden="true" />
+            </a>
+          </div>
         </details>
       ))}
     </div>
@@ -106,19 +113,7 @@ function Exhibit({ item, index }: { item: ExhibitionItem; index: number }) {
         <span class="exhibition-item-number">{String(index + 1).padStart(2, "0")}</span>
         <h3>{item.titleLt}</h3>
         <ItemMeta item={item} />
-        <p class="exhibition-item-description">
-          {item.descriptionLt}{" "}
-          <span
-            class="exhibition-inline-claims"
-            aria-label="Šią pastraipą pagrindžiantys teiginiai"
-          >
-            {item.claims.map((claim) => (
-              <a href={claim.url} title={`${claim.code}: ${claim.text}`}>
-                [{claim.code}]
-              </a>
-            ))}
-          </span>
-        </p>
+        <p class="exhibition-item-description">{item.descriptionLt}</p>
         <ClaimLinks item={item} />
         <ItemTags item={item} />
         {media.canonicalUrl && (
@@ -143,7 +138,7 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
     section.items.filter((item) => !item.featured),
   )
   return (
-    <main class="exhibition-page">
+    <main class={`exhibition-page exhibition-theme--${exhibition.theme || "historical"}`}>
       <header
         class="exhibition-hero"
         style={{
@@ -157,6 +152,10 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
           <h1>{exhibition.title}</h1>
           <p class="exhibition-subtitle">{exhibition.subtitle}</p>
           <p class="exhibition-intro">{exhibition.description}</p>
+          <p class="exhibition-proof-note">
+            Kiekvienas faktinis teiginys turi nuorodą į šaltinį. Vaizdo interpretacijos pažymėtos
+            kaip parodos pasakojimas.
+          </p>
           <a href="#parodos-pradzia">
             Pradėti parodą <ArrowRight size={17} />
           </a>
@@ -180,7 +179,7 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
               <h2>{section.title}</h2>
               <p>{section.lead}</p>
             </header>
-            <div>
+            <div class="exhibition-section-items">
               {featured.map((item) => {
                 const index = exhibitIndex++
                 return <Exhibit item={item} index={index} />
@@ -234,12 +233,15 @@ function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] })
         </p>
         <h1>Skaitmeninės parodos</h1>
         <p>
-          Istorijos pasakojimai, kuriuose patikrinti vaizdai jungiami su šaltiniais ir teiginiais.
+          Dvi perspektyvos į tą patį istorijos pasaulį: šaltinis, vaizdas ir atmintis vienoje
+          kelionėje.
         </p>
       </header>
       <div>
         {exhibitions.map((exhibition) => (
-          <article>
+          <article
+            class={`exhibition-index-card exhibition-theme--${exhibition.theme || "historical"}`}
+          >
             <a href={`/${exhibition.slug}`}>
               <img
                 src={exhibition.hero.thumbUrl || exhibition.hero.sourceUrl}
@@ -247,7 +249,9 @@ function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] })
               />
             </a>
             <div>
-              <span>Nuolatinė paroda</span>
+              <span>
+                {exhibition.theme === "interwar" ? "Teminė paroda · 1930-ieji" : "Nuolatinė paroda"}
+              </span>
               <h2>
                 <a href={`/${exhibition.slug}`}>{exhibition.title}</a>
               </h2>

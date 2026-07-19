@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 260
+tema_objektu_skaicius: 261
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 260.
+Objektų skaičius: 261.
 
 ## Kaip naudoti
 
@@ -296,6 +296,7 @@ Objektų skaičius: 260.
 
 ### Šaltiniai
 - [Lenkų tautos istorija](../objektai/saltiniai/Lenk%C5%B3%20tautos%20istorija)
+- [Tauta ir žodis](../objektai/saltiniai/Tauta%20ir%20%C5%BEodis)
 
 ### Žodynas
 - [luomas](../objektai/zodynas/luomas)

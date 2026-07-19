@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 249
+tema_objektu_skaicius: 248
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 249.
+Objektų skaičius: 248.
 
 ## Kaip naudoti
 
@@ -32,7 +32,6 @@ Objektų skaičius: 249.
 - [[objektai/asmenys/Albertas]]
 - [[objektai/asmenys/Albertas (Rygos vyskupas)]]
 - [[objektai/asmenys/Albertas (Vilniaus vyskupas)]]
-- [[objektai/asmenys/Albertas Janavičius]]
 - [[objektai/asmenys/Albertas Skvemevita]]
 - [[objektai/asmenys/Albrechtas (Pamedės vyskupas)]]
 - [[objektai/asmenys/Aleksandras Jurgėvičius]]
@@ -51,7 +50,7 @@ Objektų skaičius: 249.
 - [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]]
 - [[objektai/asmenys/Baltramiejus (vyskupas)]]
 - [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]]
-- [Bodzanta (arkivyskupas, XIV a.)](../objektai/asmenys/Bodzanta)
+- [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
 - [Boguslavas (jaunesnysis Dirsovijos grafas)](../objektai/asmenys/Boguslavas%20%28jaunesnysis%20Dirsovijos%20grafas%29)
 - [Boguslavas (vyresnysis Dirsovijos grafas)](../objektai/asmenys/Boguslavas%20%28vyresnysis%20Dirsovijos%20grafas%29)
 - [Boleslovas Narsusis](../objektai/asmenys/Boleslovas%20Narsusis)

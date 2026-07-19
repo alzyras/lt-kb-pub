@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 64
+tema_objektu_skaicius: 65
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 64.
+Objektų skaičius: 65.
 
 ## Kaip naudoti
 
@@ -94,3 +94,4 @@ Objektų skaičius: 64.
 
 ### Žodynas
 - [luomas](../objektai/zodynas/luomas)
+- [pavietas](../objektai/zodynas/pavietas)

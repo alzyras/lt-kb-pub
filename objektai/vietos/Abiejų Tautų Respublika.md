@@ -4,11 +4,14 @@ pavadinimas: 'Abiejų Tautų Respublika'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
+  - '1408 m.'
   - '1623 m.'
+  - '1795 m.'
   - '1807 m.'
   - '2014 m.'
-date_start: '1623'
+date_start: '1408'
 date_end: '2014'
 sukurta: ''
 atnaujinta: ''
@@ -16,7 +19,7 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XVII'
+  - 'XV'
   - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -35,7 +38,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. sudarytą taiką buvo atkurta siena tarp Abiejų Tautų Respublikos ir Turkijos, ėjusi palei Dniestro upę. XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė.
+Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. sudarytą taiką buvo atkurta siena tarp Abiejų Tautų Respublikos ir Turkijos, ėjusi palei Dniestro upę. XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė. Šio laikotarpio chronologinės ribos yra 1408-1795 m. Po to, kai 1795 m. Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su didžiąja Lietuvos dalimi pateko į Rusijos.
 
 ## Teiginiai
 
@@ -73,6 +76,19 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   pagrindžia:
     - c-184056
 
+<a id="claim-t-201581"></a>
+- t-003
+  global_id: t-201581
+  teiginys: "Šio laikotarpio chronologinės ribos yra 1408-1795 m. Po to, kai 1795 m. Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su didžiąja Lietuvos dalimi pateko į Rusijos."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184928
+
 ## Citatos
 
 - id: c-176446
@@ -94,6 +110,7 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193800
+
 - id: c-184056
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
@@ -114,3 +131,21 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200711
+
+- id: c-184928
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Šio laikotarpio chronolo-
+    ginės ribos yra 1408-1795 m.
+    Po to, kai 1795 m. Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos
+    ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su
+    didžiąja Lietuvos dalimi pateko į Rusijos imperiją.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201581
