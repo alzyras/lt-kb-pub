@@ -28,6 +28,7 @@ export type ExhibitionItem = {
   titleLt: string
   descriptionLt: string
   catalogDescriptionLt: string
+  evidenceNoteLt?: string
   featured: boolean
   claimRefs: ExhibitionClaimRef[]
   claims: ExhibitionClaim[]
@@ -39,6 +40,7 @@ export type ExhibitionSection = {
   slug: string
   title: string
   lead: string
+  evidenceNoteLt?: string
   navMediaId: string
   navImagePosition?: string
   claimRefs: ExhibitionClaimRef[]

@@ -88,8 +88,11 @@ describe("exhibition manifest", () => {
           assert.equal(item.media.reviewStatus, "accepted")
           assert.ok(item.media.sourceUrl || item.media.thumbUrl)
           assert.ok(
-            item.claims.length > 0 || section.claims.length > 0,
-            `${item.exhibitionItemId} has no item or section evidence`,
+            item.claims.length > 0 ||
+              section.claims.length > 0 ||
+              Boolean(item.evidenceNoteLt?.trim()) ||
+              Boolean(section.evidenceNoteLt?.trim()),
+            `${item.exhibitionItemId} has neither evidence nor an explicit metadata-only note`,
           )
         }
 

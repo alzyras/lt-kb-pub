@@ -8,30 +8,34 @@
         {
           "items": [
             {
-              "catalogDescriptionLt": "Nedidelė, apie 1392–1401 m. Vilniuje kaldinta moneta išlaikė ieties smaigalio ir kryžiaus ženklus. Joje nėra Vytauto portreto ar vardo, todėl ryšys su valdovu yra chronologinis ir politinis, o ne tiesiogiai atvaizduotas. Būtent 1392-uosius biografija vadina lūžio metais: Vytautas nutraukė sąjungą su Ordinu, susitaikė su Jogaila ir gavo valdyti visą Lietuvą. Moneta leidžia tą abstraktų valdžios pasikeitimą pamatyti kasdienėje apyvartoje. Ji rodo, kaip valdovo laikotarpis įsirašo ne vien sutartyse, bet ir mažuose daiktuose, judėjusiuose tarp miestų, dvarų ir žmonių. Mažas mastelis tik sustiprina šio pokyčio materialumą.",
-              "descriptionLt": "Nedidelė, apie 1392–1401 m. Vilniuje kaldinta moneta išlaikė ieties smaigalio ir kryžiaus ženklus. Joje nėra Vytauto portreto ar vardo, todėl ryšys su valdovu yra chronologinis ir politinis, o ne tiesiogiai atvaizduotas. Šaltinio teiginys 1392-uosius vadina lūžio metais ir sieja juos su Vytauto susitaikymu su Jogaila bei Lietuvos valdymu. Moneta leidžia tą abstraktų valdžios pasikeitimą pamatyti kasdienėje apyvartoje. Ji rodo, kaip valdovo laikotarpis įsirašo ne vien sutartyse, bet ir mažuose daiktuose, judėjusiuose tarp miestų, dvarų ir žmonių. Mažas mastelis tik sustiprina šio pokyčio materialumą.",
+              "catalogDescriptionLt": "Nedidelė, apie 1392–1401 m. Vilniuje kaldinta moneta išlaikė ieties smaigalio ir kryžiaus ženklus. Joje nėra Vytauto portreto ar vardo, todėl ryšys su valdovu matomas per datavimą, kaldinimo vietą ir ženklus. A. Šapokos redaguotame 1936 m. leidinyje Vytauto laikų pinigėliai minimi kaip dokumentuose paliudyta smulki pinigų rūšis, sieta su skatikais ir denarais. Šis bendras pinigų istorijos kontekstas neįrodo konkrečios monetos atribucijos, bet padeda suprasti jos vietą valdovo epochos apyvartoje. Mažas daiktas taip parodo kasdienę valdžios ženklų sklaidą.",
+              "descriptionLt": "Nedidelė, apie 1392–1401 m. Vilniuje kaldinta moneta išlaikė ieties smaigalio ir kryžiaus ženklus. Joje nėra Vytauto portreto ar vardo, todėl ryšys su valdovu matomas per datavimą, kaldinimo vietą ir ženklus. A. Šapokos redaguotame 1936 m. leidinyje Vytauto laikų pinigėliai minimi kaip dokumentuose paliudyta smulki pinigų rūšis, sieta su skatikais ir denarais. Šis bendras kontekstas neįrodo konkrečios monetos atribucijos, bet padeda suprasti jos vietą valdovo epochos apyvartoje.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-03-01",
               "featured": true,
               "mediaId": "m-f8d6413fcf11b237fca95a29",
               "titleLt": "Ankstyvojo valdymo ietigalis ir kryžius",
               "claimRefs": [
                 {
-                  "claimId": "t-201472",
-                  "citationId": "c-21380"
+                  "claimId": "t-10729",
+                  "citationId": "c-00212",
+                  "label": "Vytauto laikų pinigėliai",
+                  "role": "contextual"
                 }
               ]
             },
             {
-              "catalogDescriptionLt": "1399 m. laiškas Rygos burmistrui išsaugojo Vytauto kanceliarijos darbą, prikabintą antspaudą ir išskirtinį parašą „Самъ“. Šis dokumentas priartina valdovą labiau negu vėlyvas portretas: matome ne jo veidą, o realiai veikusios valdžios pėdsaką. Biografijos autorius atsargiai spėjo, kad Vytautas galėjo mokėti totorių kalbą, nes jo dvare tarnavo totoriai, o kanceliarija siuntė tokia kalba rašytus dokumentus. Laiškas to spėjimo pats neįrodo, tačiau pagrindžia daugiakalbės ir plačius ryšius palaikiusios kanceliarijos kontekstą. Eksponatas rodo diplomatiją kaip kasdienį valdymo įrankį. Kartu jis primena atsargiai skirti faktą nuo spėjimo.",
-              "descriptionLt": "1399 m. laiškas Rygos burmistrui išsaugojo Vytauto kanceliarijos darbą, prikabintą antspaudą ir išskirtinį parašą „Самъ“. Šis dokumentas priartina valdovą labiau negu vėlyvas portretas: matome ne jo veidą, o realiai veikusios valdžios pėdsaką. Šaltinyje svarstoma, kad Vytautas galėjo mokėti ir rusų bei totorių kalbas. Laiškas to spėjimo pats neįrodo, tačiau pagrindžia daugiakalbės ir plačius ryšius palaikiusios kanceliarijos kontekstą. Eksponatas rodo diplomatiją kaip kasdienį valdymo įrankį. Kartu jis primena atsargiai skirti faktą nuo spėjimo.",
+              "catalogDescriptionLt": "1399 m. laiškas Rygos burmistrui išsaugojo Vytauto kanceliarijos darbą, prikabintą antspaudą ir išskirtinį parašą „Самъ“. Šis dokumentas priartina valdovą labiau negu vėlyvas portretas: matome ne jo veidą, o realiai veikusios valdžios pėdsaką. Ghillebert’as de Lannoy užsiminė, kad iš Vytauto kanceliarijos buvo siunčiami ir totorių kalba parašyti raštai. Tai platesnis kanceliarijos kontekstas, o ne šio konkretaus laiško kalbos įrodymas. Eksponatas rodo diplomatiją ir raštą kaip kasdienius valdymo įrankius.",
+              "descriptionLt": "1399 m. laiškas Rygos burmistrui išsaugojo Vytauto kanceliarijos darbą, prikabintą antspaudą ir išskirtinį parašą „Самъ“. Matome ne vėliau sukurtą valdovo veidą, o realiai veikusios valdžios pėdsaką. Ghillebert’as de Lannoy užsiminė, kad iš Vytauto kanceliarijos buvo siunčiami ir totorių kalba parašyti raštai. Tai platesnis kanceliarijos kontekstas, o ne šio konkretaus laiško kalbos įrodymas.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-02-02",
               "featured": true,
               "mediaId": "m-d8759e31eee98c44627f7eec",
               "titleLt": "Laiškas su valdovo ženklu „Самъ“",
               "claimRefs": [
                 {
-                  "claimId": "t-198362",
-                  "citationId": "c-36592"
+                  "claimId": "t-51016",
+                  "citationId": "c-36303",
+                  "label": "Vytauto kanceliarijos raštai",
+                  "role": "contextual"
                 }
               ]
             },
@@ -54,30 +58,34 @@
               ]
             },
             {
-              "catalogDescriptionLt": "Didelio formato archyvinis aktas dokumentuoja 1404 m. Vytauto įsipareigojimą Vladislovui Jogailai ir Lenkijos karūnai. Pergamentas, tankus lotyniškas tekstas ir antspaudų vietos primena, kad valdžia buvo kuriama ne vien kalaviju, bet ir raštiškais susitarimais. Kėzmarko epizodą aprašantis teiginys rodo kitą to paties santykio pusę: Vytautas atmetė Zigmanto siūlymą suardyti uniją ir apie slaptą karūnos pasiūlymą pranešė Jogailai. Eksponatas todėl nėra paprasta „draugystės“ iliustracija. Jis leidžia matyti nuolat derėtą, įtampa ir abipusiais įsipareigojimais paremtą dviejų valdovų politinį ryšį. Dokumento tyla čia tampa istorinio sudėtingumo dalimi.",
-              "descriptionLt": "Didelio formato archyvinis aktas dokumentuoja 1404 m. Vytauto įsipareigojimą Vladislovui Jogailai ir Lenkijos karūnai. Pergamentas, tankus lotyniškas tekstas ir antspaudų vietos primena, kad valdžia buvo kuriama ne vien kalaviju, bet ir raštiškais susitarimais. Kėzmarko epizodą aprašantis teiginys rodo kitą to paties santykio pusę: Kėzmarke Vytautas Didysis atmetė Zigmanto siūlymą suardyti uniją ir priimti karaliaus karūną. Eksponatas todėl nėra paprasta „draugystės“ iliustracija. Jis leidžia matyti nuolat derėtą, įtampa ir abipusiais įsipareigojimais paremtą dviejų valdovų politinį ryšį. Dokumento tyla čia tampa istorinio sudėtingumo dalimi.",
+              "catalogDescriptionLt": "Didelio formato 1404 m. archyvinis aktas užfiksuoja Vytauto įsipareigojimą Vladislovui Jogailai ir Lenkijos karūnai. Pergamentas, tankus lotyniškas tekstas ir antspaudų vietos primena, kad valdžia buvo kuriama ne vien karine jėga, bet ir raštiškais susitarimais. Zenonas Ivinskis Vytauto ir Jogailos bendrą veikimą nuo Astravo taikos iki 1429 m. apibūdino kaip trisdešimt šešerius metus trukusį bendradarbiavimą. Tai platesnis dviejų valdovų santykio kontekstas, o ne šio akto nuostatų paaiškinimas. Dokumento fizinė forma leidžia pamatyti, kaip politinis įsipareigojimas buvo įforminamas ir saugomas.",
+              "descriptionLt": "Didelio formato 1404 m. archyvinis aktas užfiksuoja Vytauto įsipareigojimą Vladislovui Jogailai ir Lenkijos karūnai. Pergamentas, tankus lotyniškas tekstas ir antspaudų vietos primena, kad valdžia buvo kuriama ne vien karine jėga, bet ir raštiškais susitarimais. Zenonas Ivinskis Vytauto ir Jogailos bendrą veikimą nuo Astravo taikos iki 1429 m. apibūdino kaip trisdešimt šešerius metus trukusį bendradarbiavimą. Tai platesnis jų santykio kontekstas, o ne šio akto nuostatų paaiškinimas.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-02-01",
               "featured": true,
               "mediaId": "m-b250964c8795d8e4c14592f7",
               "titleLt": "Ištikimybės aktas Jogailai, 1404",
               "claimRefs": [
                 {
-                  "claimId": "t-198436",
-                  "citationId": "c-180110"
+                  "claimId": "t-28929",
+                  "citationId": "c-28833",
+                  "label": "Vytauto ir Jogailos bendro veikimo laikotarpis",
+                  "role": "contextual"
                 }
               ]
             },
             {
-              "catalogDescriptionLt": "1410 m. vasario 16 d. lotyniškas Vytauto ediktas buvo išduotas likus keliems mėnesiams iki Žalgirio mūšio. Pergamento puslapis nevaizduoja kariuomenės, tačiau parodo administracinę valdovo pusę: sprendimai, raštas ir teisinė forma lydėjo karinius pasirengimus. 1930 m. biografijoje teigiama, kad Vytautas pats vadovavo savo kariuomenei, o sąjunginės pajėgos turėjo spręsti lenkų vadovybės klausimą. Dokumentas nepatvirtina kiekvienos šio vertinimo detalės, bet suteikia materialų 1410 m. kontekstą. Parodoje jis sąmoningai stabdo herojišką mūšio vaizdinį ir leidžia pamatyti valdovą, kuris tuo pačiu metu valdė per dokumentus.",
-              "descriptionLt": "1410 m. vasario 16 d. lotyniškas Vytauto ediktas buvo išduotas likus keliems mėnesiams iki Žalgirio mūšio. Pergamento puslapis nevaizduoja kariuomenės, tačiau parodo administracinę valdovo pusę: sprendimai, raštas ir teisinė forma lydėjo karinius pasirengimus. Šaltinio teiginys sako, kad Vytautas pats vedė savo kariuomenę; parodoje šį vertinimą paliekame šaltiniui. Dokumentas nepatvirtina kiekvienos šio vertinimo detalės, bet suteikia materialų 1410 m. kontekstą. Parodoje jis sąmoningai stabdo herojišką mūšio vaizdinį ir leidžia pamatyti valdovą, kuris tuo pačiu metu valdė per dokumentus.",
+              "catalogDescriptionLt": "1410 m. vasario 16 d. lotyniškas Vytauto ediktas išduotas tais pačiais metais kaip Žalgirio mūšis, tačiau pats dokumentas čia nesiejamas su nepatvirtintomis karinio vadovavimo detalėmis. Pergamento puslapis atveria kitą valdovo veiklos pusę – raštišką administravimą ir teisinę sprendimų formą. Istorikų aprašyta XIV–XV a. sandūros LDK raštinių plėtra padeda šį pavienį dokumentą matyti platesnėje rašto kultūroje. Parodoje jis sąmoningai pristabdo herojišką mūšio vaizdinį ir primena, kad valdžia veikė ir per dokumentus.",
+              "descriptionLt": "1410 m. vasario 16 d. lotyniškas Vytauto ediktas išduotas tais pačiais metais kaip Žalgirio mūšis, tačiau pats dokumentas čia nesiejamas su nepatvirtintomis karinio vadovavimo detalėmis. Pergamento puslapis atveria kitą valdovo veiklos pusę – raštišką administravimą ir teisinę sprendimų formą. XIV–XV a. sandūros LDK raštinių plėtra padeda jį matyti platesnėje rašto kultūroje.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-02-03",
               "featured": true,
               "mediaId": "m-203da807e4978a3a0aba6612",
               "titleLt": "Ediktas Žalgirio metų pradžioje",
               "claimRefs": [
                 {
-                  "claimId": "t-201463",
-                  "citationId": "c-184812"
+                  "claimId": "t-183307",
+                  "citationId": "c-166697",
+                  "label": "LDK raštinių kultūra XIV–XV a. sandūroje",
+                  "role": "contextual"
                 }
               ]
             }
@@ -107,45 +115,49 @@
               ]
             },
             {
-              "catalogDescriptionLt": "1416 m. herbyne užfiksuota Vytauto vėliava su Kęstutaičių raiteliu ir Lietuvos Vyčiu. Ryški raudonos ir auksinės spalvų kompozicija skirta ne portretiniam panašumui, o valdovo atpažinimui tarptautinėje aplinkoje. Biografijos pasakojime Vytautas mūšio metu judėjo tarp kariuomenės dalinių ir rūpinosi jų tvarka; vėliava padeda suprasti ženklų vaidmenį tokioje kariuomenėje. Ji žymėjo valdžią, grupavo žmones ir pavertė asmeninę dinastinę tapatybę viešu politiniu kodu. Eksponatas todėl sieja karvedžio veiksmą su reprezentacija: valdovas buvo matomas ne tik per savo kūną, bet ir per jį lydinčius ženklus.",
-              "descriptionLt": "1416 m. herbyne užfiksuota Vytauto vėliava su Kęstutaičių raiteliu ir Lietuvos Vyčiu. Ryški raudonos ir auksinės spalvų kompozicija skirta ne portretiniam panašumui, o valdovo atpažinimui tarptautinėje aplinkoje. Šaltinio pasakojime Vytautas Didysis judėjo tarp kariuomenių ir rūpinosi jų tvarka; vėliava padeda suprasti ženklų vaidmenį tokioje kariuomenėje. Ji žymėjo valdžią, grupavo žmones ir pavertė asmeninę dinastinę tapatybę viešu politiniu kodu. Eksponatas todėl sieja karvedžio veiksmą su reprezentacija: valdovas buvo matomas ne tik per savo kūną, bet ir per jį lydinčius ženklus.",
+              "catalogDescriptionLt": "1416 m. herbyne užfiksuota Vytauto vėliava su Kęstutaičių raiteliu ir Lietuvos Vyčiu. Ryški raudonos ir auksinės spalvų kompozicija skirta ne portretiniam panašumui, o valdovo atpažinimui tarptautinėje aplinkoje. Zenonas Ivinskis, aptardamas skirtingus metraščių skaičius, vertino, kad po Vytauto vėliava galėjo kovoti apie penkiasdešimt kunigaikščių, o daugiau kaip dvidešimt jų žuvo. Tai šaltinio autoriaus vertinimas, ne pačios vėliavos atvaizdo įrodoma detalė. Eksponatas parodo, kaip valdovo vardą kariuomenėje atstojo viešai atpažįstamas ženklas.",
+              "descriptionLt": "1416 m. herbyne užfiksuota Vytauto vėliava su Kęstutaičių raiteliu ir Lietuvos Vyčiu. Ryški raudonos ir auksinės spalvų kompozicija skirta ne portretiniam panašumui, o valdovo atpažinimui tarptautinėje aplinkoje. Zenonas Ivinskis, aptardamas skirtingus metraščių skaičius, vertino, kad po Vytauto vėliava galėjo kovoti apie penkiasdešimt kunigaikščių, o daugiau kaip dvidešimt jų žuvo. Tai autoriaus vertinimas, o ne pačiame herbyne įrašyta žinia.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-02-04",
               "featured": true,
               "mediaId": "m-c79692a260b79859579e757a",
               "titleLt": "Vytauto vėliava Konstanco herbyne",
               "claimRefs": [
                 {
-                  "claimId": "t-198382",
-                  "citationId": "c-180194"
+                  "claimId": "t-97105",
+                  "citationId": "c-91630",
+                  "label": "Kunigaikščiai po Vytauto vėliava",
+                  "role": "contextual"
                 }
               ]
             },
             {
-              "catalogDescriptionLt": "Apie 1416–1417 m. heraldinėje knygoje Vytautui priskirtame herbe raitelis, skydas ir karūna sudaro tankią valdžios programą. Vaizdas buvo skirtas atpažinti valdovą, tačiau kartu veikė kaip Lietuvos politinės bendruomenės ženklas. Sutarties teiginys pasakoja, kad Vytautas iš Jogailos gavo Lietuvą valdyti didžiojo kunigaikščio teisėmis ir taip susigrąžino valdžią. Heraldika neįrodo sutarties turinio, bet parodo, kaip įgyta valdžia buvo viešai pateikiama. Šiame eksponate asmuo ir valstybė beveik susilieja: nėra tikro veido, tačiau raitelio figūra leidžia valdovo vardui veikti tarptautinėje ženklų kalboje. Ženklas tampa savotišku politiniu portretu.",
-              "descriptionLt": "Apie 1416–1417 m. heraldinėje knygoje Vytautui priskirtame herbe raitelis, skydas ir karūna sudaro tankią valdžios programą. Vaizdas buvo skirtas atpažinti valdovą, tačiau kartu veikė kaip Lietuvos politinės bendruomenės ženklas. Sutarties teiginys pasakoja, kad Vytautas iš Jogailos gavo Lietuvą valdyti didžiojo kunigaikščio teisėmis ir taip susigrąžino valdžią. Heraldika neįrodo sutarties turinio, bet parodo, kaip įgyta valdžia buvo viešai pateikiama. Šiame eksponate asmuo ir valstybė beveik susilieja: nėra tikro veido, tačiau raitelio figūra leidžia valdovo vardui veikti tarptautinėje ženklų kalboje. Ženklas tampa savotišku politiniu portretu.",
+              "catalogDescriptionLt": "Apie 1416–1417 m. heraldinėje knygoje Vytautui priskirtame herbe raitelis, skydas ir karūna sudaro tankią valdžios programą. Vaizdas buvo skirtas atpažinti valdovą, tačiau kartu veikė kaip Lietuvos politinės bendruomenės ženklas. 1971 m. Lietuvos metraščio leidimo komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas. Ši atribucija pateikiama kaip leidinio komentaro interpretacija. Eksponate asmuo ir valstybė beveik susilieja: tikro veido nėra, tačiau raitelio figūra leidžia valdovo vardui veikti tarptautinėje ženklų kalboje.",
+              "descriptionLt": "Apie 1416–1417 m. heraldinėje knygoje Vytautui priskirtame herbe raitelis, skydas ir karūna sudaro tankią valdžios programą. Vaizdas buvo skirtas atpažinti valdovą, tačiau kartu veikė kaip Lietuvos politinės bendruomenės ženklas. 1971 m. Lietuvos metraščio leidimo komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas. Tai komentaro interpretacija, o ženklas čia tampa savotišku politiniu portretu.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-03-04",
               "featured": true,
               "mediaId": "m-0acd81586d8993830cbb991d",
               "titleLt": "Pahonia kaip asmeninis ir valstybės ženklas",
               "claimRefs": [
                 {
-                  "claimId": "t-198253",
-                  "citationId": "c-180200"
+                  "claimId": "t-186858",
+                  "citationId": "c-170042",
+                  "label": "Vytis kaip Vilniaus žemės herbas",
+                  "role": "contextual"
                 }
               ]
             },
             {
-              "catalogDescriptionLt": "Apie 1430 m. Slucko kronikos puslapyje Vytautas šlovinamas raštu, todėl valdovo reputaciją čia kuria ne portretas, o kalba. Rankraštis gimė tuo metu, kai karūnacijos projektas ir valdovo mirtis suteikė jo figūrai ypatingą politinį krūvį. 1930 m. biografijoje laukta karūna interpretuojama kaip ženklas, turėjęs išgelbėti valstybę ir jos laisvę. Paroda šią stiprią interpretaciją priskiria konkrečiam šaltiniui. Kronika leidžia matyti, kad išaukštintas Vytauto vaizdinys nebuvo vien XX a. išradimas: jis pradėtas formuoti dar valdovo epochos pabaigoje ir perduotas vėlesniems skaitytojams. Rašytinis pagyrimas pats tampa eksponuojamu atvaizdu.",
-              "descriptionLt": "Apie 1430 m. Slucko kronikos puslapyje Vytautas šlovinamas raštu, todėl valdovo reputaciją čia kuria ne portretas, o kalba. Rankraštis gimė tuo metu, kai karūnacijos projektas ir valdovo mirtis suteikė jo figūrai ypatingą politinį krūvį. Šaltinio pasakojime po suvažiavimo laukta karūna siejama su valstybės laisvės ženklu. Paroda šią stiprią interpretaciją priskiria konkrečiam šaltiniui. Kronika leidžia matyti, kad išaukštintas Vytauto vaizdinys nebuvo vien XX a. išradimas: jis pradėtas formuoti dar valdovo epochos pabaigoje ir perduotas vėlesniems skaitytojams. Rašytinis pagyrimas pats tampa eksponuojamu atvaizdu.",
+              "catalogDescriptionLt": "Apie 1430 m. Slucko kronikos puslapyje Vytautas šlovinamas raštu, todėl valdovo reputaciją čia kuria ne portretas, o kalba. Kitame Lietuvos metraščio pasakojime Aleksandras, vadinamas Vytautu, taip pat vaizduojamas kaip didžiai gerbiamas ir šlovinamas valdovas. Tai nėra pažodinis eksponuojamo puslapio paaiškinimas, bet tiesiogiai liudija platesnę metraštinę Vytauto išaukštinimo tradiciją. Rankraštis leidžia matyti, kad toks vaizdinys nebuvo vien XX a. išradimas: jis buvo kuriamas tekstu ir perduodamas vėlesniems skaitytojams. Rašytinis pagyrimas pats tampa eksponuojamu atvaizdu.",
+              "descriptionLt": "Apie 1430 m. Slucko kronikos puslapyje Vytautas šlovinamas raštu, todėl valdovo reputaciją čia kuria ne portretas, o kalba. Kitame Lietuvos metraščio pasakojime Aleksandras, vadinamas Vytautu, taip pat vaizduojamas kaip didžiai gerbiamas ir šlovinamas valdovas. Tai platesnės metraštinės tradicijos liudijimas, o ne pažodinis šio puslapio komentaras. Rašytinis pagyrimas čia pats tampa eksponuojamu atvaizdu.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-04-01",
               "featured": true,
               "mediaId": "m-ece9dfb4cc0790980d24121a",
               "titleLt": "Pašlovinimas Slucko kronikoje",
               "claimRefs": [
                 {
-                  "claimId": "t-198332",
-                  "citationId": "c-180240",
-                  "label": "Karūna kaip valstybės laisvės ženklas",
+                  "claimId": "t-194013",
+                  "citationId": "c-176638",
+                  "label": "Metraštinė Vytauto šlovinimo tradicija",
                   "role": "contextual"
                 }
               ]
@@ -242,10 +254,17 @@
               "exhibitionItemId": "hist-karuna-02",
               "mediaId": "m-9271846f686d86ef49142b33",
               "titleLt": "Vytautas prie totorių pasiuntinių",
-              "descriptionLt": "Franciszeko Smuglevičiaus 1786 m. scena yra vėlyva meninė Vytauto politinio masto interpretacija. Ji nėra jo epochos liudijimas, todėl parodoje skaitoma kaip XVIII a. istorinė vaizduotė.",
-              "catalogDescriptionLt": "Franciszeko Smuglevičiaus 1786 m. scena yra vėlyva meninė Vytauto politinio masto interpretacija. Ji nėra jo epochos liudijimas, todėl parodoje skaitoma kaip XVIII a. istorinė vaizduotė.",
+              "descriptionLt": "Franciszeko Smuglevičiaus 1786 m. scena yra vėlyva meninė Vytauto politinio masto interpretacija. Lietuvos metraštis pasakoja apie Ordos vyresniuosius, atvykusius pas Vytautą į Kijevą su dovanomis ir prašymu paskirti chaną. Šis pasakojimas padeda suprasti totorių pasiuntinių temos istorinį lauką, tačiau neįrodo, kad paveikslas tiksliai vaizduoja būtent tą epizodą.",
+              "catalogDescriptionLt": "Franciszeko Smuglevičiaus 1786 m. scena yra vėlyva meninė Vytauto politinio masto interpretacija. Lietuvos metraštis pasakoja apie Ordos vyresniuosius, atvykusius pas Vytautą į Kijevą su dovanomis ir prašymu paskirti chaną. Šis pasakojimas padeda suprasti totorių pasiuntinių temos istorinį lauką, tačiau neįrodo, kad paveikslas tiksliai vaizduoja būtent tą epizodą. Todėl kūrinys parodoje skaitomas kaip XVIII a. istorinė vaizduotė, o ne valdovo epochos dokumentas.",
               "featured": true,
-              "claimRefs": []
+              "claimRefs": [
+                {
+                  "claimId": "t-196881",
+                  "citationId": "c-178961",
+                  "label": "Ordos pasiuntiniai Lietuvos metraštyje",
+                  "role": "contextual"
+                }
+              ]
             }
           ],
           "sectionId": "vyt-istorijos-scena-xviii",
@@ -254,14 +273,8 @@
           "lead": "XVIII amžiuje Vytautas gyvavo ir kaip portretas, ir kaip istorinio pasakojimo veikėjas. Dailininkai ne atkūrė jo išvaizdą, o savo laikui suprantamai inscenizavo valdovo didybę.",
           "navMediaId": "m-9271846f686d86ef49142b33",
           "navImagePosition": "48% 45%",
-          "claimRefs": [
-            {
-              "claimId": "t-10709",
-              "citationId": "c-160707",
-              "label": "Lucko suvažiavime iškeltas karūnavimo sumanymas",
-              "role": "contextual"
-            }
-          ]
+          "evidenceNoteLt": "Metraščio citata šiame skyriuje taikoma tik totorių pasiuntinių scenos istoriniam kontekstui. XVIII a. portreto data ir apibūdinimas pateikiami iš patvirtintų galerijos metaduomenų; jis nevertinamas kaip autentiškas Vytauto veidas.",
+          "claimRefs": []
         },
         {
           "items": [
@@ -275,8 +288,8 @@
               "claimRefs": []
             },
             {
-              "catalogDescriptionLt": "Jano Hesse 1842 m. graviūra pateikia karūnuotą, šarvuotą ir kalaviju ginkluotą Vytautą. Tai nėra iš natūros sukurtas portretas: XIX a. dailininkas rėmėsi senesniu Nesvyžiuje saugotu atvaizdu ir suteikė valdovui savo epochos istorinio didvyrio bruožų. Šalia šio vėlyvo veido paroda primena rašytinį kilmės teiginį: 1930 m. biografijoje Vytautas vadinamas ketvirtuoju Kęstučio sūnumi ir tikėtinu Birutės pirmagimiu. Vaizdas svarbus kaip atminties, o ne fizinio panašumo dokumentas. Jis leidžia iškart atskirti istorinį asmenį nuo po kelių šimtmečių sukurto jo veido. Taip prasideda parodos dialogas tarp istorijos ir vaizdo.",
-              "descriptionLt": "Jano Hesse 1842 m. graviūra pateikia karūnuotą, šarvuotą ir kalaviju ginkluotą Vytautą. Tai nėra iš natūros sukurtas portretas: XIX a. dailininkas rėmėsi senesniu Nesvyžiuje saugotu atvaizdu ir suteikė valdovui savo epochos istorinio didvyrio bruožų. Šalia šio vėlyvo veido paroda primena rašytinį kilmės teiginį: Šaltinyje Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m. Vaizdas svarbus kaip atminties, o ne fizinio panašumo dokumentas. Jis leidžia iškart atskirti istorinį asmenį nuo po kelių šimtmečių sukurto jo veido. Taip prasideda parodos dialogas tarp istorijos ir vaizdo.",
+              "catalogDescriptionLt": "Jano Hesse 1842 m. graviūra pateikia karūnuotą, šarvuotą ir kalaviju ginkluotą Vytautą. Tai nėra iš natūros sukurtas portretas: XIX a. dailininkas rėmėsi senesniu Nesvyžiuje saugotu atvaizdu ir suteikė valdovui savo epochos istorinio didvyrio bruožų. Vaizdas svarbus kaip atminties, o ne fizinio panašumo dokumentas. Jis leidžia atskirti istorinį asmenį nuo po kelių šimtmečių sukurto jo veido ir pradeda parodos dialogą tarp istorijos bei atvaizdo.",
+              "descriptionLt": "Jano Hesse 1842 m. graviūra pateikia karūnuotą, šarvuotą ir kalaviju ginkluotą Vytautą. Tai nėra iš natūros sukurtas portretas: XIX a. dailininkas rėmėsi senesniu Nesvyžiuje saugotu atvaizdu ir suteikė valdovui savo epochos istorinio didvyrio bruožų. Vaizdas svarbus kaip atminties, o ne fizinio panašumo dokumentas.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-01-01",
               "featured": true,
               "mediaId": "m-d40580df0a4d385cdf5d7d00",
@@ -293,18 +306,13 @@
               "claimRefs": []
             },
             {
-              "catalogDescriptionLt": "Józefo Tadeuszo Polkowskio 1864 m. portrete Vytautas įkomponuotas kaip atpažįstamas istorinis valdovas, nors dailininkas jo gyvo nebuvo matęs. Santūri laikysena, valdžios atributai ir kruopščiai modeliuotas kostiumas kuria biografinio autoriteto įspūdį. 1930 m. biografija reikšmingos Vytauto veiklos pradžią sieja su Kęstučio konfliktu su Jogaila – akimirka, kai sūnui teko rinktis tarp tėvo, pusbrolio ir savo politinės ateities. Chronologinėje vaizdų sekoje portretas rodo, kaip XIX amžius sudėtingą biografiją sutelkė į vieną autoritetingą valdovo figūrą. Jis parodo, kaip XIX amžius sudėtingą jaunystės istoriją pavertė vientisu didžiojo valdovo charakteriu. Žiūrovas kviečiamas šį vientisumą vertinti kritiškai.",
-              "descriptionLt": "Józefo Tadeuszo Polkowskio 1864 m. portrete Vytautas įkomponuotas kaip atpažįstamas istorinis valdovas, nors dailininkas jo gyvo nebuvo matęs. Santūri laikysena, valdžios atributai ir kruopščiai modeliuotas kostiumas kuria biografinio autoriteto įspūdį. Šaltinyje Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu – akimirka, kai sūnui teko rinktis tarp tėvo, pusbrolio ir savo politinės ateities. Chronologinėje vaizdų sekoje portretas rodo, kaip XIX amžius sudėtingą biografiją sutelkė į vieną autoritetingą valdovo figūrą. Jis parodo, kaip XIX amžius sudėtingą jaunystės istoriją pavertė vientisu didžiojo valdovo charakteriu. Žiūrovas kviečiamas šį vientisumą vertinti kritiškai.",
+              "catalogDescriptionLt": "Józefo Tadeuszo Polkowskio 1864 m. portrete Vytautas pateiktas kaip atpažįstamas istorinis valdovas, nors dailininkas jo gyvo nebuvo matęs. Santūri laikysena, valdžios atributai ir kruopščiai modeliuotas kostiumas kuria biografinio autoriteto įspūdį. Chronologinėje vaizdų sekoje portretas rodo, kaip XIX amžius sudėtingą, iš rašytinių šaltinių pažįstamą asmenį sutelkė į vieną vientisą valdovo figūrą. Tai meninis atminties vaizdas, todėl žiūrovas kviečiamas jo autoritetingumą vertinti kritiškai.",
+              "descriptionLt": "Józefo Tadeuszo Polkowskio 1864 m. portrete Vytautas pateiktas kaip atpažįstamas istorinis valdovas, nors dailininkas jo gyvo nebuvo matęs. Santūri laikysena, valdžios atributai ir kruopščiai modeliuotas kostiumas kuria biografinio autoriteto įspūdį. Portretas rodo, kaip XIX amžius sudėtingą istorinį asmenį sutelkė į vieną vientisą valdovo figūrą.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-01-02",
               "featured": true,
               "mediaId": "m-c3cdf2ed3b7f84c7ecb7ec6f",
               "titleLt": "Polkowskio Vytautas – valstybės veikėjas",
-              "claimRefs": [
-                {
-                  "claimId": "t-198424",
-                  "citationId": "c-36593"
-                }
-              ]
+              "claimRefs": []
             },
             {
               "exhibitionItemId": "hist-veidas-01",
@@ -322,14 +330,8 @@
           "lead": "XIX a. viduryje Vytauto veidų sparčiai daugėjo. Graviūros ir tapyba kūrė iškilmingą, atpažįstamą valdovą, nors nė vienas iš šių autorių negalėjo remtis gyvu modeliu.",
           "navMediaId": "m-d40580df0a4d385cdf5d7d00",
           "navImagePosition": "50% 22%",
-          "claimRefs": [
-            {
-              "claimId": "t-198251",
-              "citationId": "c-21374",
-              "label": "Portretuose atpažįstamas Kęstučio ir Birutės sūnus",
-              "role": "contextual"
-            }
-          ]
+          "evidenceNoteLt": "Bendrame teiginių korpuse nėra tiesioginės citatos apie šių XIX a. Vytauto portretų sukūrimą. Autoriai, datos ir kūrinių pavadinimai pateikiami iš patvirtintų galerijos metaduomenų, o vaizdų interpretacija aiškiai žymima kaip parodos pasakojimas.",
+          "claimRefs": []
         },
         {
           "items": [

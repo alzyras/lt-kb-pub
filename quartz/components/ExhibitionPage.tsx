@@ -159,6 +159,7 @@ function Exhibit({
         <ItemMeta item={item} />
         <div class="exhibition-narrative-label">Parodos pasakojimas</div>
         <p class="exhibition-item-description">{item.descriptionLt}</p>
+        {item.evidenceNoteLt && <p class="exhibition-evidence-note">{item.evidenceNoteLt}</p>}
         <ClaimLinks claims={item.claims} />
         {item.claims.length === 0 && sectionClaims.length > 0 && (
           <p class="exhibition-inherited-claims">
@@ -258,6 +259,9 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
               <span>{String(sectionIndex + 1).padStart(2, "0")}</span>
               <h2>{section.title}</h2>
               <p>{section.lead}</p>
+              {section.evidenceNoteLt && (
+                <p class="exhibition-evidence-note">{section.evidenceNoteLt}</p>
+              )}
               {section.claims.length > 0 && (
                 <div class="exhibition-section-claims">
                   <ClaimLinks claims={section.claims} />
