@@ -11,6 +11,8 @@ datos:
   - '1492 m.'
 date_start: '1429'
 date_end: '1492'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,8 +20,6 @@ tags:
   - gyvenvietė
   - upė
   - sostinė
-amziai:
-  - 'XV'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg/1920px-Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg'
@@ -244,6 +244,22 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - susijęs iš Černigovas: Černigove susidarė atskira kunigaikštija.
 - susijęs iš Černigovas: Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą.
 ## Reikšmingi paminėjimai
+- c-008
+  santrauka: 'Narbutas Vilnios vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kaimiečiai iki
+    šiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­
+    čios, nuogos mergos. Jos šokančios, linksmai išdykaujančios;
+    vargas tam, kurį suvilios jų klastingas gundymas.
+    Kitose vietose, kaip man pasakojo, tokias vandenų gundy­
+    tojas paprasti žmonės vadina undinėmis (Ondynami) arba van­
+    denėmis (Wundynami), o tai žodžio nimfa vertimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-010
   santrauka: 'Narbuto perteiktoje legendoje Gediminas nakvojo Šventaragio miške prie Vilnios ir Neries santakos, kur jam prisisapnavo geležinis vilkas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -268,6 +284,27 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+- c-011
+  santrauka: 'Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
+    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
+    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
+    kitame šio veikalo tome.
+    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
+    prie didelių akmenų, esančių laukuose. 1822 metais pasitaikė
+    aptikti kapą prie didoko akmens žemėje, priklausančioje ma­
+    no kaimeliui. Kaimiečiai nuolat kalbėdavo, kad po tuo akme­
+    niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
+    kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
+    padavimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-158384
@@ -515,13 +552,12 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kaimiečiai iki
-    šiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­
-    čios, nuogos mergos. Jos šokančios, linksmai išdykaujančios;
-    vargas tam, kurį suvilios jų klastingas gundymas.
-    Kitose vietose, kaip man pasakojo, tokias vandenų gundy­
-    tojas paprasti žmonės vadina undinėmis (Ondynami) arba van­
-    denėmis (Wundynami), o tai žodžio nimfa vertimas.
+    Iš to žodžio paimtas pa­
+    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
+    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
+    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
+    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
+    ja, kurią seniau vadino Nerimi.
   citata_rodoma: "Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­\njimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­\nniui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­\nja, kurią seniau vadino Nerimi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -559,17 +595,19 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
-    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
-    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
-    kitame šio veikalo tome.
-    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
-    prie didelių akmenų, esančių laukuose. 1822 metais pasitaikė
-    aptikti kapą prie didoko akmens žemėje, priklausančioje ma­
-    no kaimeliui. Kaimiečiai nuolat kalbėdavo, kad po tuo akme­
-    niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
-    kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
-    padavimai.
+    Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
+    numeryje**.
+    372
+
+    ## Puslapis 372
+
+    vedančio iš Užupio į Antakalnį.
   citata_rodoma: "Lietuvos didžiojo kunigaikščio Gedimino kapas yra\nprie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,\n1 Principum viromm tumulis injiciunt omnes humum urtatim, et\navide cupientes tumulos, quam maximos efficere (Herodotas). Luka-\nnas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių\npelenai ilsisi supiltame kalne).\n2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski\nnumeryje**.\n372\n\n## Puslapis 372\n\nvedančio iš Užupio į Antakalnį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -315,23 +315,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-164695
     - c-183584
 
-<a id="claim-t-181132"></a>
-- t-024
-  teiginys: "Panaikinus Vitebsko kunigaikštiją, jos dvarai ir pajamos pateko į tiesioginę Vytauto valdžią."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-164692
-    - c-183589
-
 <a id="claim-t-181136"></a>
 - t-032
   teiginys: "Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
@@ -409,7 +392,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 <a id="claim-t-181141"></a>
 - t-030
   teiginys: "Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -445,7 +428,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 <a id="claim-t-181144"></a>
 - t-033
   teiginys: "1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 18:44"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vitebskas: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -462,9 +445,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-44028
-    - c-164710
     - c-183586
-    - c-183600
 
 <a id="claim-t-181145"></a>
 - t-046
@@ -674,7 +655,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 <a id="claim-t-187685"></a>
 - t-005
   teiginys: "Kęstutis grąžino Jogailai jo tėvo dalį - Vitebską ir kitas sritis, o Jogaila prisiekė Kęstučiui ištikimybę."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1435,12 +1416,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­\nko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­\nnijos ir Podolijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
-
 - id: c-164695
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1640,7 +1619,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
     - t-053
 
 - id: c-164712
@@ -1793,24 +1771,21 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   puslapiai: "PDF 347"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
-    Greitai užpuolęs ir užėmęs Oršą, jis patraukė
-    į Drucką. Drucko kunigaikščiai, pirmųjų Rusios valdo­
-    vų palikuonys, kurie šių neramumų pradžioje mažai
-    klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus
-    antpuolio sutriuškinti, supra-
-    S u tra m d o rusų didi-
-    to, jog kur kas geriau mal­
-    kus
-    dauti Vytautą — kad ir ne­
-    patikimo — atlaidumo, nei iš
-    naujo ginkluotis ir griebtis kalavijo, todėl nesunkiai,
-    pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
-    niams, susilaukė, ko prašė. Taip pat ir Jurijus Svia-
+    Taip pat ir Jurijus Svia-
     toslavovičius, Smolensko valdovas, nors ir elgėsi kaip
     neabejotinas priešas, kol Vytautas dar nebuvo atvykęs,
     tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­
     draugiškus jausmus ir prijungė, puoselėdamas tam tik­
-    rus sumanymus, savo karines jėgas prie Vytauto.
+    rus sumanymus, savo karines jėgas prie Vytauto. Smo-
+    lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
+    buvo nuvesta į Vitebską. Apgula užtruko ištisą mėnesį,
+    tačiau ne dėl to, kad nebuvo
+    A p su p a  V ite b s k ą
+    daroma, kas tokiais atvejais
+    reikalinga, o todėl, kad gynė­
+    jai, ypač Livonijos kariai, klausydami ne tiek Švitri­
+    gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
+    nosi iš paskutiniųjų.
   citata_rodoma: "Taip pat ir Jurijus Svia-\ntoslavovičius, Smolensko valdovas, nors ir elgėsi kaip\nneabejotinas priešas, kol Vytautas dar nebuvo atvykęs,\ntačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­\ndraugiškus jausmus ir prijungė, puoselėdamas tam tik­\nrus sumanymus, savo karines jėgas prie Vytauto. Smo-\nlenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė\nbuvo nuvesta į Vitebską. Apgula užtruko ištisą mėnesį,\ntačiau ne dėl to, kad nebuvo\nA p su p a  V ite b s k ą\ndaroma, kas tokiais atvejais\nreikalinga, o todėl, kad gynė­\njai, ypač Livonijos kariai, klausydami ne tiek Švitri­\ngailos skatinimų, kiek įsakymų bei grasinimų, prieši­\nnosi iš paskutiniųjų."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2123,12 +2098,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­\nko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­\nnijos ir Podolijos."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
-
 - id: c-183590
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2314,27 +2287,25 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   puslapiai: "PDF 148"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 148."
   citata_originali: |
-    O Moldavijos vaivada, matydamas, kad
-    negalės jam atsispirti, pasiuntė pas jį savo pasiuntinius
-    ir sudarė su juo taiką, teikėsi su savo žeme duoti jam
-    vasalo ištikimybės priesaiką, kaip buvo prisiekęs jo
-    tėvui, karaliui Kazimierui, ir surašė raštus, prisiekė
-    griežtai to prisilaikysiąs32.
-    Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo
-    iš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu,
-    kuriuo buvo atžygiavęs, o norėdamas greičiau ir tie­
-    siau išeiti iš [moldavų] žemės, traukė stačiai per Buko­
-    viną ir kalnus, per uolėtus, sunkiai pereinamus miškus,
-    nes per tas akmeningas vietas ėjo tiesus, bet labai blo­
-    gas kelias Lenkijos sienos linkui33.
-    Moldavijos vaivada Steponas, išgirdęs, kad kara­
-    lius Olbrachtas nenori grįžti iš jo žemės tuo pačiu ke­
-    liu, kuriuo buvo atėjęs, o nori eiti kitais naujais ke­
-    liais, per uolėtą Bukoviną, labai dėl to apsidžiaugė34
-    ir, nė kiek nebepaisydamas priesaikos bei amžinosios
-    taikos sutarties, darydamas gėdą savo šaliai, skubiai
-    pranešė turkų sultonui, ir Vengrijai, ir Valakijos vai­
-    vadai.
+    APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
+    ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
+    SU MOLDAVUOS VAIVADA STEPONU
+    Tą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo
+    brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­
+
+    ## Puslapis 146
+
+    vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
+    seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 .
   citata_rodoma: "APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO \nALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA \nSU MOLDAVUOS VAIVADA STEPONU\nTą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo \nbrolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­\n\n## Puslapis 146\n\nvai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti \nseimą Parčeve. Tą pačią žiemą didysis kunigaikštis \nAleksandras su didžiąja kunigaikštiene Elena bei su \ndidikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­\nlenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo \nj Vilnių 3 .\nSeptyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
@@ -2375,7 +2346,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
     - t-053
 
 - id: c-183601
@@ -2802,4 +2772,4 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 - Puolė Vitebską: [[objektai/asmenys/Mechmet Girėjus]], [[objektai/asmenys/Švitrigaila]]
 - Užėmė Vitebską: [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo užkariauta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Vitebskas priklausė [[objektai/vietos/Lietuva]]
+- Vitebskas priklausė Lietuva

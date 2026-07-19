@@ -39,12 +39,10 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Citatos
-
-- id: c-169182
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Karalius, siekdamas išvengti ginkluotų susidūrimų, sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tai­
     gi vienai šaliai manant, jog lietuvių reikalavimai netei­
@@ -62,6 +60,30 @@ Nenurodyta
     minga priemonė šiam ginčui baigti, būtent nutarti, jog
     ateityje Podolė priklausysianti lygiomis teisėmis ir len­
     kams, ir lietuviams.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169182
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Karalius ne be reikalo pradėjo būgštauti,
+    kad, jam būnant toli nuo Lietuvos, nesirastų ten kokių
+    karštakošių, kurie, pasigriebę ginklus, susimanytų puldi­
+    nėti lenkus, visai užkirsdami kelią baigti ginčą taikiomis
+    49 i
+
+    ## Puslapis 490
+
+    priemonėmis,.. Štai todėl, norėdamas išvengti gink­
+    luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
+    nuvyko į Lietuvą.
   citata_rodoma: "Karalius ne be reikalo pradėjo būgštauti,\nkad, jam būnant toli nuo Lietuvos, nesirastų ten kokių\nkarštakošių, kurie, pasigriebę ginklus, susimanytų puldi­\nnėti lenkus, visai užkirsdami kelią baigti ginčą taikiomis\n49 i\n\n## Puslapis 490\n\npriemonėmis,.. Štai todėl, norėdamas išvengti gink­\nluotų susidūrimų, jis sušaukė Naugarduke seimą ir pats\nnuvyko į Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"

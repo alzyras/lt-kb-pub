@@ -22,6 +22,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Pranciškus
 
 ## Santrauka
@@ -29,15 +30,6 @@ media_all_json: |-
 Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė.
 
 ## Teiginiai
-
-<a id="claim-t-60418"></a>
-- t-001
-  teiginys: "Dusburgiečio pasakojime sapne regėtas šventasis Pranciškus su kitais šventaisiais atsisakė priimti maldaujantįjį į savo bendrininkus."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61050
 
 <a id="claim-t-197151"></a>
 - t-002
@@ -73,5 +65,4 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

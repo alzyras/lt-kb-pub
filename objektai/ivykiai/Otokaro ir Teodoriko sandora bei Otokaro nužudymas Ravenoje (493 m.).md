@@ -63,10 +63,12 @@ Nenurodyta
   pagrindžia:
     - c-169119
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169119
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Sąlygos buvo priimtos,
     tačiau neilgai tvėrė taika ir valdymo sandora: jie bu­
@@ -84,40 +86,6 @@ Nenurodyta
     kiją, mat sutartys leido Bi­
     zantijos imperatoriui kvies­
     tis tą gentį į karo sąjungininkus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169119
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Susilaukė paramos iš he­
-    rulų ir Narsesas, įveikęs To-
-    553 m e ta i
-    tilą ir naikinęs gotus Italijo­
-    je. Atgavęs Italiją, jis, mi­
-    rus Justinianui, buvo kviečiamas atgal į Bizantiją, o
-    herulai, vedami Alueto ir Filimunto, iš ten pasitrau­
-    kė ir per Liguriją nukako į Trakiją, ketindami kaip ir
-    anksčiau tarnauti imperatoriaus kariuomenėje, tuo tar­
-    pu likusieji, sukėlę maištą ir išsirinkę vadu Sindevaldą,
-    užėmė Valeriją. Apie tuos pačius metus langobar-
-    dai, vedami Albojino, iškeliavo iš Panonijos ir, pasi­
-    kvietę dalytis grobiu įvai-
-    559 m e ta i
-    rias sarmatų tauteles, tarp
-    jų
-    gepidus
-    (kurie,
-    pasak
-    Prokopijaus, dalyvavo visuose herulų žygiuose), įsi­
-    veržė su didžiule kariuomene į Italiją.
   citata_rodoma: "Sąlygos buvo priimtos,\ntačiau neilgai tvėrė taika ir valdymo sandora: jie bu­\nvo ne tiek bendrininkai, kiek varžovai. Mat Teodori-\nkas, Otokarą dėl akių meiliai į puotą pasikvietęs, pa­\nsiuntė žudikus ir menėje atėmė gyvybę bei sostą; po\n55\n\n## Puslapis 54\n\nto, pasistengęs į savo pusę patraukti herulų kariuome­\nnę, lengvai juos perkalbėjo. Tačiau didelė herulų da­\nlis persikėlė iš Italijos į Grai-\n493 m e ta i\nkiją, mat sutartys leido Bi­\nzantijos imperatoriui kvies­\ntis tą gentį į karo sąjungininkus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

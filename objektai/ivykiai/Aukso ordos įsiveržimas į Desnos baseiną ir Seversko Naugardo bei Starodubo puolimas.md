@@ -9,14 +9,14 @@ datos:
   - '1502 m.'
 date_start: '1500'
 date_end: '1502'
+amziai:
+  - 'XV'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sutartis
   - ivykis
-amziai:
-  - 'XV'
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -101,12 +101,8 @@ Nenurodyta
   statusas: not_found
 - t-001
 
-## Citatos
-
-- id: c-169979
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-002
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     *■ Kalbama apie Vasilijų III Ivanovičlų (1479—1533), Maskvos
     didįjį kunigai kili nuo 1505 m.
@@ -119,6 +115,24 @@ Nenurodyta
     1507 m. kovo mėn. Mirė 1508 m.
     55 Michailas Ivanovičius Ostrogiškis buvo Lucko seniūnu ir Vo­
     lynės žemės maršalu jau 1500 m. gruodžio mėn. ir dar 150!
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169979
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Pa­
+    gal šių sutarti apie 1501 m. birželio mėn. Aukso orda iš Volgos ir
+    Dono žemupio stepių persim etė ) Dono aukštupį ir 1501 m. rug­
+    pjūčio mėn. įsiveržė | buvusiųjų LDK teritorijų Desnos upės ba­
+    seine, 1500 m. prijungta prie Maskvos Didžiosios Kunigaikštystės.
   citata_rodoma: "Pa­\ngal šių sutarti apie 1501 m. birželio mėn. Aukso orda iš Volgos ir \nDono žemupio stepių persim etė ) Dono aukštupį ir 1501 m. rug­\npjūčio mėn. įsiveržė | buvusiųjų LDK teritorijų Desnos upės ba­\nseine, 1500 m. prijungta prie Maskvos Didžiosios Kunigaikštystės."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

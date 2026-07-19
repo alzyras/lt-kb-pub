@@ -129,24 +129,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Pasak Narbuto, Volkovysko apylinkių upė buvo pavadinta religiniu vardu Ros, kuris išliko nepakitęs.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Čia
-    atsivėrė vietovė, kur galima buvo saugiai įsikurti prie
-    upės, plukdančios savo vandenis per gražias apylinkes;
-    ji dar ir šiandien bėga per tankiausiai gyvenamas, gra­
-    žiausias ir derlingiausias Volkovysko apskrities apylinkes.
-    Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
-    išliko visiškai nepakitęs. Be šių įrodymų, turime ir seno­
-    vės autorių paliktų, ir naujų laikų tyrimais patvirtintų
-    paminklų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -210,16 +192,15 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Čia
+    atsivėrė vietovė, kur galima buvo saugiai įsikurti prie
+    upės, plukdančios savo vandenis per gražias apylinkes;
+    ji dar ir šiandien bėga per tankiausiai gyvenamas, gra­
+    žiausias ir derlingiausias Volkovysko apskrities apylinkes.
     Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
     išliko visiškai nepakitęs. Be šių įrodymų, turime ir seno­
     vės autorių paliktų, ir naujų laikų tyrimais patvirtintų
-    paminklų. Dionyzas iš Charakso, imperatoriaus Oktaviano
-    Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
-    upes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,
-    jungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be
-    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
-    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
-    nės sutampa.
+    paminklų.
   citata_rodoma: "Čia\natsivėrė vietovė, kur galima buvo saugiai įsikurti prie\nupės, plukdančios savo vandenis per gražias apylinkes;\nji dar ir šiandien bėga per tankiausiai gyvenamas, gra­\nžiausias ir derlingiausias Volkovysko apskrities apylinkes.\nSi upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar\nišliko visiškai nepakitęs. Be šių įrodymų, turime ir seno­\nvės autorių paliktų, ir naujų laikų tyrimais patvirtintų\npaminklų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

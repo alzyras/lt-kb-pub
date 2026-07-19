@@ -7,13 +7,13 @@ datos:
   - '1521 m.'
 date_start: '1521'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinė-praktika
   - paprotys
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,10 +72,12 @@ Nenurodyta
   pagrindžia:
     - c-169280
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Prūsijoje kryžiuočių ordino aukščiausi ir žemiausi pareigūnai laužė Dievui duotus įžadus ir ėmė tuoktis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169280
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Susitarė dėl ketverių
     metų paliaubų, o per tą lai-
@@ -99,35 +101,6 @@ Nenurodyta
     atvirai niekinti senuosius magistrų, maršalų, komtūrų
     titulus ir galvoti apie valstybinės santvarkos pakei­
     timą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169280
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Tačiau tais
-    metais nesudarė jokio susitarimo, nes Vasilijus, kaip
-    vėliau išaiškino karaliaus atstovas Bogušas Voitikas,
-    išsiuntė raštą neįprastu būdu ir šitaip užkirto kelią
-    pasiuntinybėms. Mat tą raštą paliepė susukti į ritinėlį
-    ir užantspauduoti, kad pasiuntiniai negalėtų sužinoti
-    jo turinio nenuplėšę antspaudo, o pažeidus antspau­
-    dą, maskvėnai, aišku, tuo raštu nebepasitikėtų. Kai tai­
-    kos reikalas Maskvoje dėl visokių atsitiktinių dalykų,
-    o gal — ir šitai arčiau tiesos — dėl sąmoningų Vasili­
-    jaus veiksmų buvo visaip vilkinamas, Prūsijoje įsi­
-    plieskė karas. Magistras, už didelius pinigus pasisam­
-    dęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė
-    su šia kariuomene, vedama maršalo Ditricho fon Šen-
-    bergo, į tas Prūsijos apygardas, kurios priklausė kara­
-    liui.
   citata_rodoma: "Susitarė dėl ketverių\nmetų paliaubų, o per tą lai-\n1521 m e ta i\nką\nramiomis\naplinkybėmis\nturėjo būti parengtos sąly­\ngos amžinai taikai. Tuo metu Liuterio sekta, paplitusi\nVokietijoje, rado galybę pasekėjų Prūsijoje, o kry­\nžiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius,\njau taip buvo ištižęs ir suiręs, kad aukščiausi ir že­\nmiausi pareigūnai, nieko ne-\nK ry žiu o č ių\np a d ė tis\npaisydami, laužė dievui duo-\nP rū sijo je\ntus įžadus ir, išsižadėję se­\nnolių išpažinto Romos tikė­\njimo, puolė šventvagiškai tuoktis. Dėl to visi pradėjo\natvirai niekinti senuosius magistrų, maršalų, komtūrų\ntitulus ir galvoti apie valstybinės santvarkos pakei­\ntimą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

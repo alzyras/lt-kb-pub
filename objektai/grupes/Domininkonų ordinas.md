@@ -15,14 +15,14 @@ datos:
   - '2026 m.'
 date_start: '1216'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,11 +36,19 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Domininkonų ordinas
 
 ## Santrauka
 
 Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje domininkonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai ir Rygoje veikusios evangelizacinės aplinkos dalis.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 
 ## Teiginiai
 
@@ -128,23 +136,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-103888
-
-<a id="claim-t-112514"></a>
-- t-023
-  teiginys: "Ordinas skleidė gandus, kad Vytautas su turkais eina prieš katalikus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bonifacas IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata aiškiai nurodo Bonifaco IX paramą Vytautui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Bonifacas IX rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.90)"
-  pagrindžia:
-    - c-36772
 
 <a id="claim-t-112515"></a>
 - t-022
@@ -270,20 +261,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - susijęs iš [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas.md#claim-t-35959|Vytauto bažnyčių statymas ir vienuolynų steigimas]]: Vytautas Lietuvoje statė ne tik bažnyčias, bet ir vienuolynus.
 - susijęs iš Gardinas: Vytautas Gardine donacijomis parėmė dominikonus ir pranciškonams pastatė bažnyčią.
 - susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
-    III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
-      Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-31056
@@ -332,7 +309,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-023
 
 - id: c-103888
   autorius: "Michał Baliński"
@@ -431,12 +407,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
-    Šitaip brolis Konradas palinko į Teutonų namų ordiną. Vieną gražią dieną, bėgdamas
-    nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš
-    Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
-    ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
-    597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
+    Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
+    III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
+      Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
   citata_rodoma: "Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus\nIII (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).\n  Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -593,6 +566,3 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-019
-
-## Ryšiai
-- Rėmė Domininkonų ordiną: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

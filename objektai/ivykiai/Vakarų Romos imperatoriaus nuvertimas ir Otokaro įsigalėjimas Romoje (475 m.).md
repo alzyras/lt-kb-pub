@@ -63,10 +63,12 @@ Nenurodyta
   pagrindžia:
     - c-169192
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '475 m. herulų valdovas Otokaras, arba Odoakras, užėmė Romą, nuvertė Vakarų Romos imperatorių ir valdė Romoje kaip pirmasis svetimšalis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169192
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Todėl niekas neturėtų piktintis, jeigu aš rašydamas
     nuklysiu už Lietuvos ribų ir truputį paliesiu įvykius,
@@ -92,38 +94,6 @@ Nenurodyta
     peratorių, viešpatavo kaip pir­
     mas iš svetimšalių Romoje, tačiau nesisavino nei val­
     dovo vardo, nei purpurinės mantijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169192
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Dvyliktaisiais
-    viešpatavimo metais, laimėjęs keletą mūšių, sumušė
-    rugijus, paėmė į nelaisvę karalių Feletėją, o jo sūnų
-    Fridrichą išvijo. Nugalėtasis rugijų valdovas maldavo
-    gotą Teodoriką pagalbos, tuo tarpu herulas, porą kar­
-    tų gotų sumuštas, stengėsi
-    487 m e ta i
-    atkurti savo kariauną, telk­
-    damas vyrus iš to Germani-
-    jos krašto, kuris jam mokėjo duoklę; vėliau, keletą
-    kartų su jais nelauktai susidūręs, nebesitikėjo sėkmės
-    atviroje kovoje ir pasitraukė į Raveną. Čia, visą ka­
-    riuomenę sutelkęs prie vieno miesto, gotas neįstengė
-    per trejetą apsupties metų nei priešo į kautynes išvi­
-    lioti, nei priversti jį pasiduoti, todėl pasiūlė herului
-    taiką šitokiomis sąlygomis, kad Italijoje viešpatautų
-    abu, turėdami vienodą galią. Sąlygos buvo priimtos,
-    tačiau neilgai tvėrė taika ir valdymo sandora: jie bu­
-    vo ne tiek bendrininkai, kiek varžovai.
   citata_rodoma: "Todėl niekas neturėtų piktintis, jeigu aš rašydamas\nnuklysiu už Lietuvos ribų ir truputį paliesiu įvykius,\n54\n\n## Puslapis 53\n\nkurie nuo tų laikų buvo susiję pirmiausia su herulų,\no vėliau su langobardų žygiais Italijoje, ypač todėl,\nkad kita knyga nuo to pradeda savo pasakojimą.\nPirmiausia Otokaras, arba\nH e iu lų  karai už jų\nOdoakras, herulų valdovas,\ntė v y n ė s\npakviestas iš Germanuos pus­\nbrolio, Romos imperatoriaus\nAugustulo priešo, smarkiai užpuolė Ticiną ir, jį apsu­\npęs, paėmė į savo rankas, o sugautą Orestą, imperato­\nriaus tėvą, įkalino. Žygiuodamas toliau su kariuomene,\njis užėmė Romą ir, nukėlęs\n475 m e ta i\nnuo sosto Vakarų Romos im­\nperatorių, viešpatavo kaip pir­\nmas iš svetimšalių Romoje, tačiau nesisavino nei val­\ndovo vardo, nei purpurinės mantijos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

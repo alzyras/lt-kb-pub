@@ -55,16 +55,23 @@ Nenurodyta
 <a id="claim-t-192020"></a>
 - t-003
   teiginys: "Narbutas radinį prie Kražių apibūdina kaip 1836 m. Žemaitijoje rastą bronzinę karo dievo Kovo statulėlę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Kražiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kražiai: mention_match, place, gap=5"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių\" parinktas kaip owner_note_path. Targetas \"Kražiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   temporaliniai_duomenys: "įvykio data: 1836 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Palikta Narbuto atribucija, nes dievybės identifikavimas ir stabo reikšmė yra interpretaciniai. Nepridėta detalių apie figūros rankas ar ginklų vaizdavimą."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-174901
+    - c-174902
 
 <a id="claim-t-192021"></a>
 - t-002
@@ -152,7 +159,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-002
     - t-001
 
@@ -161,19 +167,16 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tuo tarpu virš jo galvos
-    ir nugaros trys ženklai „310“, nutolę vienas nuo kito dideliu at­
-    stumu. Abiejose pusėse yra perlų apvadas, atitrauktas kiek nuo
-    krašto.
-    Be jokios abejonės moneta priklauso tam kraštui ir tai tautai,
-    kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nukalta
-    tokiu pat stiliumi kaip gerais Romos cezarių laikais. Piešinys ir
-    graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią piešinio
-    kopiją atsiuntė p/onas/ Marcinovskis, „Kurjer Litewski“ redakto­
-    rius ir mano veikalų leidėjas.
+    Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos žemėje
+    netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietuviai
+    turėjo stabus., Sis stabas yra natūralaus dydžio, iš bronzos, t. y.
+    senovinio Korinto vario, gražiai išlietas, pilnaviduris, be abiejų
+    rankų.
   citata_rodoma: "Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos žemėje\nnetoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietuviai\nturėjo stabus., Sis stabas yra natūralaus dydžio, iš bronzos, t. y.\nsenovinio Korinto vario, gražiai išlietas, pilnaviduris, be abiejų\nrankų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

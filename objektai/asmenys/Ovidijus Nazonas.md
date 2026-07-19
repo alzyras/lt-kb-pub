@@ -53,23 +53,15 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
 <a id="claim-t-191169"></a>
 - t-002
   teiginys: "Narbutas rašė, kad imperatoriaus Augusto laikais Ovidijus Nazonas iki mirties gyveno „mūsų kraštuose“."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 18:44"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ovidijus Nazonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ovidijus Nazonas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174050
-    - c-174051
 
 <a id="claim-t-191170"></a>
 - t-003
@@ -116,32 +108,6 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
     - c-174051
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašė, kad imperatoriaus Augusto laikais Ovidijus Nazonas iki mirties gyveno „mūsų kraštuose“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Priminsiu tik, jog
-    Ovidijus, garsus vyras, senatorius, išsilavinęs ir turtingas, be to,
-    savo malonumui išmokęs to krašto kalbą, galėjo apkeliauti Siaurės
-    kraštus ir palikti Plocke savo užrašus — arba lotyniškus, arba sla­
-    viškus, kurie, pagoniškų šventyklų žynių saugomi, įvedus krikščio-
-    nybę, galėjo patekti į Katedros archyvą, iš kur juos kanauninkas Ja­
-    roslavas atidavė vyskupui Kristijonui. Negalime taip pat atmesti ga­
-    limybės, jog Ovidijus, tiek metų gyvendamas tarp slavų, kur buvo
-    paplitusi daugpatystė ir kur vergės gimdydavo vaikus; taigi Ovidijus,
-    gyvendamas ten ir turėdamas tarnaičių, galėjo susilaukti sūnaus ir
-    jį išsiauklėti savo dvasia. Jeigu tas sūnus vėliau, pasinaudojęs gau­
-    tomis žiniomis, apkeliavo Pabaltijo kraštus ir aprašė ten surinktas
-    žinias, jeigu jis, kaip ir dera, buvo vadinamas syn Ovid ir tas var­
-    das, kaip tuomet slavams buvo įprasta, buvo rašomas iš dešinės į
-    kairę, tai to keliautojo vardas buvo Divonys, o skaitant atvirkščiai,
-    būtų' Syn—Ovid.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 - c-003
   santrauka: 'Narbutas Ovidijų Nazoną priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -198,17 +164,22 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Išmokęs
-    slavų, o galbūt ir lietuvių kalbą, giedojo jomis saldžias eiles, — apie
-    tai jis rašo savo elegijose. Nekalbėsiu jau apie tai, jog, remiantis
-    panašumu, galbūt Ovidijuje slypi ias ir šiandien slavų tautose me­
-    namas faktas apie dainių Bojaną, arba Vojaną. Priminsiu tik, jog
+    Priminsiu tik, jog
     Ovidijus, garsus vyras, senatorius, išsilavinęs ir turtingas, be to,
     savo malonumui išmokęs to krašto kalbą, galėjo apkeliauti Siaurės
     kraštus ir palikti Plocke savo užrašus — arba lotyniškus, arba sla­
     viškus, kurie, pagoniškų šventyklų žynių saugomi, įvedus krikščio-
     nybę, galėjo patekti į Katedros archyvą, iš kur juos kanauninkas Ja­
-    roslavas atidavė vyskupui Kristijonui.
+    roslavas atidavė vyskupui Kristijonui. Negalime taip pat atmesti ga­
+    limybės, jog Ovidijus, tiek metų gyvendamas tarp slavų, kur buvo
+    paplitusi daugpatystė ir kur vergės gimdydavo vaikus; taigi Ovidijus,
+    gyvendamas ten ir turėdamas tarnaičių, galėjo susilaukti sūnaus ir
+    jį išsiauklėti savo dvasia. Jeigu tas sūnus vėliau, pasinaudojęs gau­
+    tomis žiniomis, apkeliavo Pabaltijo kraštus ir aprašė ten surinktas
+    žinias, jeigu jis, kaip ir dera, buvo vadinamas syn Ovid ir tas var­
+    das, kaip tuomet slavams buvo įprasta, buvo rašomas iš dešinės į
+    kairę, tai to keliautojo vardas buvo Divonys, o skaitant atvirkščiai,
+    būtų' Syn—Ovid.
   citata_rodoma: "Priminsiu tik, jog \nOvidijus, garsus vyras, senatorius, išsilavinęs ir turtingas, be to, \nsavo malonumui išmokęs to krašto kalbą, galėjo apkeliauti Siaurės \nkraštus ir palikti Plocke savo užrašus — arba lotyniškus, arba sla­\nviškus, kurie, pagoniškų šventyklų žynių saugomi, įvedus krikščio- \nnybę, galėjo patekti į Katedros archyvą, iš kur juos kanauninkas Ja­\nroslavas atidavė vyskupui Kristijonui. Negalime taip pat atmesti ga­\nlimybės, jog Ovidijus, tiek metų gyvendamas tarp slavų, kur buvo \npaplitusi daugpatystė ir kur vergės gimdydavo vaikus; taigi Ovidijus, \ngyvendamas ten ir turėdamas tarnaičių, galėjo susilaukti sūnaus ir \njį išsiauklėti savo dvasia. Jeigu tas sūnus vėliau, pasinaudojęs gau­\ntomis žiniomis, apkeliavo Pabaltijo kraštus ir aprašė ten surinktas \nžinias, jeigu jis, kaip ir dera, buvo vadinamas syn Ovid ir tas var­\ndas, kaip tuomet slavams buvo įprasta, buvo rašomas iš dešinės į \nkairę, tai to keliautojo vardas buvo Divonys, o skaitant atvirkščiai, \nbūtų' Syn—Ovid."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -216,7 +187,6 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-005
 
 - id: c-174052

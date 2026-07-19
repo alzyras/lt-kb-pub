@@ -76,9 +76,31 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
 - susijęs iš [[objektai/asmenys/Neseckis.md#claim-t-190189|Neseckis]]: Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui.
 - susijęs iš [[objektai/autoriai/Neseckis.md#claim-t-190373|Neseckis]]: Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė herbą Krunevičiui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+- c-003
+  santrauka: 'Malachovskis pateikė žinių, kad Gediminas suteikė herbą Krunevičiui, nors Narbutas nurodo neaiškų šio teiginio šaltinį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
+    Lietuvoje šeimos herbai egzistavo70.
+    500
+
+    ## Puslapis 510
+
+    70 Malachovskis savo bajoriškų pavardžių rinkinyje (neaišku,
+    kokiu šaltiniu remdamasis) pateikė žinių apie tai, kaip Gediminas
+    suteikė herbą Krunevičiui. Neseckiui šis herbas, pavadintas Kru-
+    nevičiaus vardu, yra žinomas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-173059
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
     jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
@@ -88,32 +110,6 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
     nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
     Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
     kad jiems būtų suteikti herbai -  taip būdavo Lenkijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173059
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Pa­
-    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
-    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
-    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
-    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
-    Nors pirmaujančios lietuvių giminės po Horodlės seimo
-    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
-    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
-    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
-    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
-    dalo ir seno graviravimo signečių pėdsakas. Jose pastebime
-    arba mitologinius ženklus, arba pavaizduotus fetišus, arba die-
-    11 Skaityk straipsnį „Šventyklos”.
   citata_rodoma: "Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10. Sis paprotys lietuviams\nnebuvo būdingas, bet kai kurios riterių šeimos, priklausančios\nLietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,\nkad jiems būtų suteikti herbai -  taip būdavo Lenkijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

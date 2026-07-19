@@ -103,7 +103,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
 <a id="claim-t-192211"></a>
 - t-004
   teiginys: "Narbutas žodžiui „galinduoti“ teikia pirmenybę prieš Galintuvojt kildinimą iš senovės prūsų žodžio."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
@@ -116,7 +116,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175068
+    - c-175069
 
 <a id="claim-t-192212"></a>
 - t-001
@@ -196,12 +196,10 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   citata_rodoma: "Bet teisingiausia\npalyginti su abejotinais ir dirbtiniais spėjimais, o gal tu­\nrėtų būti prielaida šio pavadinimo kilmės iš gelonų, t. y.\nvisos lietuvių tautos protėvių, kurie, persiikraustę į šiuos\nkraštus, nors ir buvo susijungę su budinais, galėjo įam­\nžinti pavadinimą savo palikuonių igelonų gentyje; apie\njų koloniją jau rašėme (§ 216)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-175069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -233,4 +231,5 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
     - t-006
     - t-002
     - t-005
+    - t-004
     - t-001

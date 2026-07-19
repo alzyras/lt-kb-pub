@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Konstantinas Sirvydas (kunigas)
 
 ## Santrauka
@@ -136,63 +137,27 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   pagrindžia:
     - c-176259
 
-<a id="claim-t-197311"></a>
-- t-008
-  teiginys: "Konstantinas Sirvydas buvo gerai įtvirtinta."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179123
-
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas nurodo, kad kunigas Sirvydas savo žodyne Aitvarą vadina Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec.'
+- c-001
+  santrauka: 'Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Dainos.
-    177
+    Visiems javams ir žemės ūkio padargams įvardyti yra
+    savi lietuviški žodžiai15.
+    15
+    Skaityk kunigo Ksavero Bogušo studiją apie lietuvių tautos ir
+    kalbos kilmę, taip pat Sirvydo žodyną.
+    137
 
-    ## Puslapis 177
+    ## Puslapis 137
 
-    Aitvaras (Ajtwaros)
-    Vyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­
-    ris paprastai užgula miegančias moteris, tykoja jų už tvorų,
-    todėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.
-    Kunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai
-    Incubus, lenkiškai Latawiec.
+    Nijolė ĮNijota)
+    Pragaro karalienė, Pokliaus žmona, Krūminės duktė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Narbutas remiasi kunigu Sirvydu aiškindamas Vasario vardą per žodžius „Lutis“, „Pūsis“ ir „Pūstis“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    11. Vasaris (Wassaris) -pavasarinis, arba veikiau Pawassa-
-    ris. Kitaip pasak kunigo Sirvydo: Lutis (liūtis) -  lietingas, arba
-    Pūsis, taip pat ir Pūstis, keliamasis.
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Narbutas, remdamasis K. Sirvydo žodynu, žodį „dykra“ aiškino kaip „Solitudo“ ir „Giria“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    1 Bogušo disertacija. P. 45; K. Sirvydo žodynas. P. 3 11. Čia dyk­
-    ra — Solitudo, Giria.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173175
@@ -220,14 +185,17 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šie sakė, kad aukštieji dievai užsiundę tas
-    piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
-    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
-    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
-    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
-    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
-    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
-    rybė moka daryti stebuklus lengvatikių akyse.
+    Dainos.
+    177
+
+    ## Puslapis 177
+
+    Aitvaras (Ajtwaros)
+    Vyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­
+    ris paprastai užgula miegančias moteris, tykoja jų už tvorų,
+    todėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.
+    Kunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai
+    Incubus, lenkiškai Latawiec.
   citata_rodoma: "Dainos.\n177\n\n## Puslapis 177\n\nAitvaras (Ajtwaros)\nVyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­\nris paprastai užgula miegančias moteris, tykoja jų už tvorų,\ntodėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.\nKunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai\nIncubus, lenkiškai Latawiec."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -240,13 +208,9 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šventę sudarė tai, kad mergaitės bėgda­
-    vo už kaimo tekančios saulės link. Vos nušvitus pirmajam ryto
-    saulės spinduliui, mergaitės, lengvai apsirengusios ir basos, bė­
-    ga dainuodamos dainą, kad jos einančios pasitikti pavasario.
-    Pribėgusios kaimo galą, grįžta atgalios, šokinėja, dainuoja, plo­
-    ja rankomis, perbėga per visą kaimą ir linksmai skelbia, kad
-    atėjo pavasaris.
+    11. Vasaris (Wassaris) -pavasarinis, arba veikiau Pawassa-
+    ris. Kitaip pasak kunigo Sirvydo: Lutis (liūtis) -  lietingas, arba
+    Pūsis, taip pat ir Pūstis, keliamasis.
   citata_rodoma: "11. Vasaris (Wassaris) -pavasarinis, arba veikiau Pawassa-\nris. Kitaip pasak kunigo Sirvydo: Lutis (liūtis) -  lietingas, arba\nPūsis, taip pat ir Pūstis, keliamasis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -261,13 +225,8 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Čia dyk­
-    ra — Solitudo, Giria. Pagaliau tegu mokslininkai kaip
-    išmanydami
-    varžosi darydami etimologines išvadas, mes nelinkę šito daryti; ta­
-    čiau vis dėlto Giryja, kraštas Gerrhus ir Grykija, jei ir nereiškia vie­
-    no krašto, tokį pavadinimą yra gavusi iš tos pačios tautos.
-    2 Geras, id ėst Lithuanos.
+    1 Bogušo disertacija. P. 45; K. Sirvydo žodynas. P. 3 11. Čia dyk­
+    ra — Solitudo, Giria.
   citata_rodoma: "1 Bogušo disertacija. P. 45; K. Sirvydo žodynas. P. 3 11. Čia dyk­\nra — Solitudo, Giria."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -332,5 +291,3 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008

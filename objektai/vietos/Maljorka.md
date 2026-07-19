@@ -7,13 +7,13 @@ datos:
   - '1230 m.'
 date_start: '1230'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - gamtinis-objektas
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,47 +32,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol.
-
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Maljorkos ir Menorkos salų užėmimą
-
-      1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir
-    Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).
-
-                              21.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-194539
-
-## Citatos
-
-- id: c-59336
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Toji mat klimpo į nuodėmes iš vargo, o jis — džiaugdamasis pertekliumi, lengvapėdiškai
-    savo nuodėmėmis sukurstęs prieš save dievo rūstybę; šitokių minčių kamuojamas, jis
-    kiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
-    bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis į švento
-    Mikalojaus koplyčią Gladbache, tikėdamasis, jog ten dievas patarsiąs, ką daryti.
-    Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
-    popiežių, kuriam ir išpažino visas savo nuodėmes.
-  citata_rodoma: "Apie Maljorkos ir Menorkos salų užėmimą\n\n  1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir\nMenorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).\n\n\n\n                          21."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
 
 ## Teiginiai
 
@@ -117,6 +76,30 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
 - susijęs iš Ispanija: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.
 - susijęs iš Menorka: 1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai.
 - susijęs iš Menorka: 1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai.
+## Citatos
+
+- id: c-59336
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Apie Maljorkos ir Menorkos salų užėmimą
+
+      1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir
+    Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).
+
+
+
+                              21.
+  citata_rodoma: "Apie Maljorkos ir Menorkos salų užėmimą\n\n  1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir\nMenorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).\n\n\n\n                          21."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-003
 
 ## Ryšiai
 - Užėmė Maljorką: [[objektai/grupes/Saracėnai]]

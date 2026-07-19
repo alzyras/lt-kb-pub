@@ -9,6 +9,9 @@ datos:
   - '1500 m.'
 date_start: '1298'
 date_end: '1500'
+amziai:
+  - 'XIII'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,9 +19,6 @@ tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XIII'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -106,6 +106,32 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   pagrindžia:
     - c-178888
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pavijęs siaubėjus ne­
+    toli Livonijos įlankos, magistras Brunonas nirtulingai
+    juos užpuolė prie Treiderės upės, jau apsikrovusius
+    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
+    dėl to, kad neturėjo po ranka kariuomenės (paprastai
+    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
+    džiusi po kaimus. Kai žuvo aštuoni šimtai lietuvių, o
+    trys tūkstančiai buvo paimta į nelaisvę, rodėsi, jog
+    kryžiuočiai netoli pergalės, o lietuviams belieka bėgti.
+    Kartais vis dėlto beviltiškoje padėtyje gelbsti ir tai,
+    kad nėra kur bėgti. Kadangi iš užpakalio buvo jūra,
+    vienoje pusėje trukdė Treiderės upė, o kitoje pusėje
+    ir priekyje puolė priešai, jie turėjo kariauti, nes ne­
+    buvo jokios vilties pabėgti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+
 ## Citatos
 
 - id: c-59277
@@ -139,20 +165,15 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pavijęs siaubėjus ne­
+    Po to nugalėtojai, paleisti pasiplėšti grobio,
+    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
+    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
     toli Livonijos įlankos, magistras Brunonas nirtulingai
     juos užpuolė prie Treiderės upės, jau apsikrovusius
     grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
     dėl to, kad neturėjo po ranka kariuomenės (paprastai
     šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
-    džiusi po kaimus. Kai žuvo aštuoni šimtai lietuvių, o
-    trys tūkstančiai buvo paimta į nelaisvę, rodėsi, jog
-    kryžiuočiai netoli pergalės, o lietuviams belieka bėgti.
-    Kartais vis dėlto beviltiškoje padėtyje gelbsti ir tai,
-    kad nėra kur bėgti. Kadangi iš užpakalio buvo jūra,
-    vienoje pusėje trukdė Treiderės upė, o kitoje pusėje
-    ir priekyje puolė priešai, jie turėjo kariauti, nes ne­
-    buvo jokios vilties pabėgti.
+    džiusi po kaimus.
   citata_rodoma: "Po to nugalėtojai, paleisti pasiplėšti grobio,\nnusiaubė visas apylinkes, naikindami ugnimi ir kala­\nviju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­\ntoli Livonijos įlankos, magistras Brunonas nirtulingai\njuos užpuolė prie Treiderės upės, jau apsikrovusius\ngrobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal\ndėl to, kad neturėjo po ranka kariuomenės (paprastai\nšitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­\ndžiusi po kaimus."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"

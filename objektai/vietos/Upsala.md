@@ -8,13 +8,13 @@ datos:
   - '1150 m.'
 date_start: '1147'
 date_end: '1150'
-amziai:
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -102,29 +102,6 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
 - susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188391|Adomas Bremenietis]]: Narbutas rašė, kad Adomas Bremenietis mini šventąjį ąžuolą, augusį Švedijoje netoli Upsalos.
 - susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188394|Adomas Bremenietis]]: Narbutas citavo Adomą Bremenietį apie Upsalos žynius: „de sacerdotibus, qui ad Ubsolam Daemonibus astare solebant“.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190636|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis tikėjo barstukų pasirodymais ir rėmėsi Olafo, Agripos bei kitų autorių liudijimais.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas aiškino, kad Upsala buvo svarbiausioji teismo vieta ir dievų buveinė, todėl jos reikšmė sutapo su krivio pavadinimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kadangi šiam aiškinimui nieko negali-
-    m . 03
-    417
-
-    ## Puslapis 417
-
-    ma prikišti, tad reikia sutikti, kad Upsala buvo svarbiausioji
-    teismo vieta ir dievų buveinė. Tuos sprendimus skelbė ne kas
-    kitas, o ten gyvenantis žynys, kuris savo dvigubu aukštu rangu
-    teikė tai vietai dvigubą reikšmę -  ir kaip dievų buveinės, ir
-    kaip teismo sostinės, taigi Upsalos ir krivio pavadinimai savo
-    prasme bus visiškai tapatūs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-171804
@@ -176,16 +153,18 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tuo tarpu Prūsijoje krivis yra
-    figūra, kuri niekaip negali būti svetima to krašto istorijai, jei­
-    gu kas nusimano apie krivio tikrąją padėtį. Šių aukštų pareigų
-    pavadinimas4 ir pobūdis yra germaniškos arba gotiškos kilmės
-    ir paimtas iš gotų tautos vidinės santvarkos.
-    3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai
-    radę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­
-    ką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais
-    iš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,
-    kurie šitiek laiko lydėjo gotus Pietryčių Europoje.
+    Kadangi šiam aiškinimui nieko negali-
+    m . 03
+    417
+
+    ## Puslapis 417
+
+    ma prikišti, tad reikia sutikti, kad Upsala buvo svarbiausioji
+    teismo vieta ir dievų buveinė. Tuos sprendimus skelbė ne kas
+    kitas, o ten gyvenantis žynys, kuris savo dvigubu aukštu rangu
+    teikė tai vietai dvigubą reikšmę -  ir kaip dievų buveinės, ir
+    kaip teismo sostinės, taigi Upsalos ir krivio pavadinimai savo
+    prasme bus visiškai tapatūs.
   citata_rodoma: "Kadangi šiam aiškinimui nieko negali-\nm . 03\n417\n\n## Puslapis 417\n\nma prikišti, tad reikia sutikti, kad Upsala buvo svarbiausioji\nteismo vieta ir dievų buveinė. Tuos sprendimus skelbė ne kas\nkitas, o ten gyvenantis žynys, kuris savo dvigubu aukštu rangu\nteikė tai vietai dvigubą reikšmę -  ir kaip dievų buveinės, ir\nkaip teismo sostinės, taigi Upsalos ir krivio pavadinimai savo\nprasme bus visiškai tapatūs."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

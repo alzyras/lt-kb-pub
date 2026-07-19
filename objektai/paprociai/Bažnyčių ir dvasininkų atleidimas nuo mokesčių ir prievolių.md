@@ -52,11 +52,11 @@ Nenurodyta
 <a id="claim-t-93016"></a>
 - t-002
   teiginys: "Bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-88429
+    - c-88430
 
 <a id="claim-t-93017"></a>
 - t-001
@@ -91,12 +91,10 @@ Nenurodyta
   citata_rodoma: "Tomis pat teisėmis naudojo­\nsi ir dvasininkai. Tėvūnams buvo įsakyta aprūpinti klebonus\nžeme, mokėti jiems tam tikrą metinį mokestį (6 rub.), klausyti\nvyskupo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-88430
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -116,4 +114,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-001

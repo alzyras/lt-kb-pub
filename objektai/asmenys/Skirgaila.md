@@ -15,16 +15,16 @@ datos:
   - '1447 m.'
 date_start: '1386'
 date_end: '1447'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XIV'
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg'
@@ -961,6 +961,57 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - susijęs iš Polockas: Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio, kilo atviras susirėmimas.
 - susijęs iš Polockas: Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas.
 - susijęs iš [[objektai/asmenys/Vygandas.md#claim-t-30415|Vygandas]]: Vygandas buvo vienas iš penkių Jogailos brolių, Julijonos sūnų, paminėtų liudininkais trijose Jogailos ir Skirgailos sutartyse.
+## Reikšmingi paminėjimai
+- c-031
+  santrauka: 'Narbutas rašė, kad 1386-1447 m. Lietuva pasiekė didžiausią galybę, ypač valdant Vytautui, sostą paveldėjusiam iš Skirgailos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Mums iš'Ukmergės apskrities pavyko gauti dai­
+    nelę, kuri rodo, jog šis pavadinimas atsirado nuo Dewine Upes;
+    dainininkas sako, jog pasikinkys j roges žirgelius ir važiuos gro­
+    bio:
+    Založym do san koniki,
+    Osiadtamy wrone žrebie,
+    Pojedziem wojowac,
+    Wojnę toczyč w ryški kraj,
+    O žeby tylko wody zamarzly.
+    Bo trzeba przebyč osim rzek
+    A dziewiątą rzekę szeroką.
+    Tobie tatuniu pięc koni,
+    Tobie matuniu pięč krow,
+    Tobie
+    siestruniu
+    pięc
+    ztotych
+    pierseieni,
+    A
+    tobie
+    bracie
+    dziewaję Lote\vkę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-032
+  santrauka: 'O kunigaikštis Jogaila pažado neišpildė, atstojo nuo tiesos ir mano tėviškės man neatidavė, o davė mano tėviškę savo broliui kunigaikščiui Skirgailai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O dorasis ir dievobai­
+    mingasis Konstantinopolio imperatorius, ir tas su juo
+    gyveno didelėje meilėje. Taip pat ir Čekų karalystė
+    didžią garbę teikė šlovingajam valdovui. Ir Danijos
+    karalius didžiai šlovino ir daugeliu dovanų apdovanojo
+    šlovingąjį valdovą, didį kunigaikštį Vytautą.
+    Tais laikais jo brolis Jogaila, lenkiškai Vladislovu
+    vadinamas, sėdėjo Krokuvos karalystės soste. Ir tasai
+    gyveno su juo didelėje meilėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-30278
@@ -1665,28 +1716,10 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Mums iš'Ukmergės apskrities pavyko gauti dai­
-    nelę, kuri rodo, jog šis pavadinimas atsirado nuo Dewine Upes;
-    dainininkas sako, jog pasikinkys j roges žirgelius ir važiuos gro­
-    bio:
-    Založym do san koniki,
-    Osiadtamy wrone žrebie,
-    Pojedziem wojowac,
-    Wojnę toczyč w ryški kraj,
-    O žeby tylko wody zamarzly.
-    Bo trzeba przebyč osim rzek
-    A dziewiątą rzekę szeroką.
-    Tobie tatuniu pięc koni,
-    Tobie matuniu pięč krow,
-    Tobie
-    siestruniu
-    pięc
-    ztotych
-    pierseieni,
-    A
-    tobie
-    bracie
-    dziewaję Lote\vkę.
+    IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo
+    turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­
+    džiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris
+    sostą paveldėjo iš Skirgailos.
   citata_rodoma: "IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo\nturėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­\ndžiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris\nsostą paveldėjo iš Skirgailos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -1701,15 +1734,18 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O dorasis ir dievobai­
-    mingasis Konstantinopolio imperatorius, ir tas su juo
-    gyveno didelėje meilėje. Taip pat ir Čekų karalystė
-    didžią garbę teikė šlovingajam valdovui. Ir Danijos
-    karalius didžiai šlovino ir daugeliu dovanų apdovanojo
-    šlovingąjį valdovą, didį kunigaikštį Vytautą.
-    Tais laikais jo brolis Jogaila, lenkiškai Vladislovu
-    vadinamas, sėdėjo Krokuvos karalystės soste. Ir tasai
-    gyveno su juo didelėje meilėje.
+    Ir
+    šitaip mus prie to privedė vienas neištikimas mūsų pa­
+    tarėjas.
+    O kunigaikštis Jogaila pažado neišpildė, atstojo nuo
+    tiesos ir mano tėviškės man neatidavė, o davė mano
+    tėviškę savo broliui kunigaikščiui Skirgailai. Ogi Skir­
+    gaila nėra mūsų 2 krikščionių tikėjimo, jis yra rusų
+    181
+
+    ## Puslapis 175
+
+    tikėjimo3 , kurio ir šiandien laikosi.
   citata_rodoma: "Ir \nšitaip mus prie to privedė vienas neištikimas mūsų pa­\ntarėjas.\nO kunigaikštis Jogaila pažado neišpildė, atstojo nuo \ntiesos ir mano tėviškės man neatidavė, o davė mano \ntėviškę savo broliui kunigaikščiui Skirgailai. Ogi Skir­\ngaila nėra mūsų 2 krikščionių tikėjimo, jis yra rusų\n181\n\n## Puslapis 175\n\ntikėjimo3 , kurio ir šiandien laikosi."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

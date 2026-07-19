@@ -20,6 +20,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Barzdaitis J. Krikščionybės kritikos Lietuvoje pradininkai. Filosofija praeitis ir dabartis
 
 ## Santrauka
@@ -27,22 +28,6 @@ media_all_json: |-
 Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius prūsus laikytis senosios tėvų religijos ir kovoti prieš Ordino agresiją (Barzdaitis J., Krikščionybės..., p. 20—21).
 
 ## Teiginiai
-
-<a id="claim-t-61050"></a>
-- t-001
-  teiginys: "Barzdaitis Vytenio epizodą aiškino kaip raginimą lietuviams ir pavergtiesiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Barzdaitis J. Krikščionybės kritikos Lietuvoje pradininkai. Filosofija praeitis ir dabartis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=130"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barzdaitis J. Krikščionybės kritikos Lietuvoje pradininkai. Filosofija praeitis ir dabartis\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61682
 
 <a id="claim-t-197016"></a>
 - t-002
@@ -76,5 +61,4 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

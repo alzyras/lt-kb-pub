@@ -38,7 +38,7 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 <a id="claim-t-71551"></a>
 - t-001
   teiginys: "P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,7 +53,6 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Tarasenkos leidinį ir jo išleidimo duomenis."
   pagrindžia:
     - c-70102
-    - c-70106
 
 <a id="claim-t-201498"></a>
 - t-002
@@ -110,12 +109,10 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   citata_rodoma: "(”)\n_Lietuvos piliakalniai,_ Vilnius 1956."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-184845
   autorius: "Zigmantas Kiaupa"
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"

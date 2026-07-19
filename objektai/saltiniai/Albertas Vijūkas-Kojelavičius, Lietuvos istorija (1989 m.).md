@@ -12,13 +12,13 @@ datos:
   - '1989 m.'
 date_start: '1650'
 date_end: '1989'
+amziai:
+  - 'XVII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XVII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -112,6 +112,30 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   pagrindžia:
     - c-167806
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    A. Kojelavičiaus
+    „Lietuvos istorijoje" gausu beletristikos, vis dėlto au­
+    torius buvo teisus, vadindamas save istoriku,
+    Jo pirmtakai — Aleksandras Gvagninis (lotyniškasis
+    „Sarmatų Europos aprašymas", 1578) ir Motiejus Strij­
+    kovskis (lenkiškoji „Lenkijos, Lietuvos, Žemaitijos ir
+    visos Rusios kronika", 1582). Šiedu autoriai vaidijosi.
+    Antrasis apkaltino pirmąjį plagiatu. Jis mat davęs jam,
+    savo viršininkui, veikalą pasiskaityti, o šis begėdiškai
+    pasisavinęs darbą ir išspausdinęs savo vardu, tačiau
+    „kiekvienas matys, jog varna puošiasi svetimomis
+    plunksnomis". Šitaip rašė M. Strijkovskis apie A. Gvag-
+    ninį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-167804
@@ -141,19 +165,25 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    A. Kojelavičiaus
-    „Lietuvos istorijoje" gausu beletristikos, vis dėlto au­
-    torius buvo teisus, vadindamas save istoriku,
-    Jo pirmtakai — Aleksandras Gvagninis (lotyniškasis
-    „Sarmatų Europos aprašymas", 1578) ir Motiejus Strij­
-    kovskis (lenkiškoji „Lenkijos, Lietuvos, Žemaitijos ir
-    visos Rusios kronika", 1582). Šiedu autoriai vaidijosi.
-    Antrasis apkaltino pirmąjį plagiatu. Jis mat davęs jam,
-    savo viršininkui, veikalą pasiskaityti, o šis begėdiškai
-    pasisavinęs darbą ir išspausdinęs savo vardu, tačiau
-    „kiekvienas matys, jog varna puošiasi svetimomis
-    plunksnomis". Šitaip rašė M. Strijkovskis apie A. Gvag-
-    ninį.
+    BBK-63.3(2L)
+    Vi-109
+    Spausdinama pagal leidinį:
+    Albertas Vijūkas-Kojelavičius
+    LIETUVOS ISTORIJA, V., Vaga, 1988
+    REDAKCINE KOM ISIJA
+    J. LANKUTIS (pirm ininkas),
+    A. JOVAIŠAS, A. MALDONIS, V. MERKYS,
+    E. ULČINAITĖ, H. ZABULIS
+    Įvadą ir paaiškinim us parašė
+    JUOZAS JURGINIS
+    Iš lotynų ka!bos_vertė
+    LEONAS VALKŪNAS
+    V
+    0503020908—250
+    -----------------------  Prot. Nr.
+    M853(10)—89
+    1—89
+    (6) Vertimas, įvadas, paaiškinimai.
   citata_rodoma: "BBK-63.3(2L)\nVi-109\nSpausdinama pagal leidinį:\nAlbertas Vijūkas-Kojelavičius\nLIETUVOS ISTORIJA, V., Vaga, 1988\nREDAKCINE KOM ISIJA\nJ. LANKUTIS (pirm ininkas),\nA. JOVAIŠAS, A. MALDONIS, V. MERKYS,\nE. ULČINAITĖ, H. ZABULIS\nĮvadą ir paaiškinim us parašė\nJUOZAS JURGINIS\nIš lotynų ka!bos_vertė\nLEONAS VALKŪNAS\nV\n0503020908—250\n-----------------------  Prot. Nr.\nM853(10)—89\n1—89\n(6) Vertimas, įvadas, paaiškinimai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

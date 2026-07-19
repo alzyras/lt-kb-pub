@@ -70,10 +70,12 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
   pagrindžia:
     - c-172191
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saugiai keliauti per tolimiausius tų tautų kraštus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172190
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     279
 
@@ -87,52 +89,6 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
     jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
     giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
     davo karalių, ponų ir prastuomenės didžios pagarbos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas remiasi Pretorijumi aiškindamas, kad „Krewule“ vadinti mažieji kriviai, žemesnės kategorijos teisėjai arba žyniai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
-    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
-    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
-    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
-    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
-    rijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų
-    žynių vyriausiąjį žynį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172190
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    kėjimo bei daugybės svetimų dievų priėmimas, o dar vietinės
-    sąlygos ir nepaprastai didelis atitolimas nuo Azijos - visa tai
-    smulkiuose religijos dalykuose užtemdė budizmą, tad iki mūsų
-    laikų išliko tiktai kai kurie svarbiausi principai. Šiaip žinoma,
-    kad pirmasis budizmo patriarchas gimė Ceilone6; sukūręs reli­
-    giją palyginti su visomis kitomis tų kraštų religijomis supranta­
-    mesnę liaudžiai ir tinkamesnę jos gerovei, jis persikėlė į apsi­
-    švietusią šalį, tai yra į Indiją, kur braminai skleidė vietinį, arba
-    vien tik savo kraštui būdingą, tikėjimą, kadangi, pasak jų, žmo­
-    gus, miręs nepašlakstytas šventųjų upių vandeniu, negalįs būti
-    išganytas; Budhos sektos šalininkai su šituo nesutinka, kitaip
-    sakant, leidžia laikyti vandenį šventu kiekvienoje šalyje. Dėl ši­
-    to turėjo kilti religiniai vaidai, ir pagaliau po keleto amžių, tai
-    yra praėjus pusšešto amžiaus po Kristaus, Šakjamunis dvide­
-    šimt aštuntasis įpėdinis, pavadintas Bodhidana, persikėlė į Ti­
-    betą ir apsigyveno prie šventojo Sungo kalno, netoli Honaros
-    miesto; ten ir mirė krikščionių eros 495 metais.
   citata_rodoma: "279\n\n## Puslapis 279\n\ndintas kriviu3, kurį gerbė kaip popiežių, nes kaip mūsų Šven­\ntasis tėvas valdo visuotinę bažnyčią, taip šis vadovavo stab­\nmeldžiams. Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­\nviai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­\ntoritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir\njo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­\ngiai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­\ndavo karalių, ponų ir prastuomenės didžios pagarbos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -147,21 +103,13 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mirus senajam vyriausiajam žyniui, vaidilos labai slaptai
-    išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
-    nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
-    iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo. Nors
-    Hartknochas abejoja tokią konklavą buvus, kadangi ankstes­
-    nieji istorikai apie ją neužsimena, tačiau užginčyti tai - neįma­
-    nomas dalykas, nes vietos padavimai ir dainos galėjo išsaugoti
-    ir perteikti vėlesniems amžiams tą detalę, kurią pamaldieji ra­
-    šytojai savo raštuose praleido nenorėdami lyginti su švento­
-    mis dabartinės Romos apeigomis.
-    Henenbergeris išsaugojo mums vyriausiųjų žynių sąrašą,
-    pradedamą Vaidevučiu, kuris VI amžiaus pradžioje, iki kry­
-    žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
-    tvarką (pas Hartknochą, p. 149):
-    1.
+    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
+    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
+    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
+    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
+    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
+    rijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų
+    žynių vyriausiąjį žynį.
   citata_rodoma: "Pretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų\nžynių vyriausiąjį žynį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

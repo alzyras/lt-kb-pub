@@ -70,16 +70,6 @@ Nenurodyta
   pagrindžia:
     - c-177796
 
-<a id="claim-t-195379"></a>
-- t-002
-  teiginys: "Atvykę giminės atsiveždavo mėsų ir ragaišių."
-  atnaujinta: "2026-07-12 02:18"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177794
-
 <a id="claim-t-195380"></a>
 - t-001
   teiginys: "Giminės būdavo kviečiamos antradieniui."
@@ -101,20 +91,14 @@ Nenurodyta
   puslapiai: "p. 102-103 (PDF 100-101)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 102-103 (PDF 100-101)."
   citata_originali: |
-    Pasisveikinę veda svečius į seklyčią.
-    Atvažiavęs dėdė neša
-    102
-
-    geroką maišelį mėsų ir ragaišių. Yra ko nešti, teta nepaneštų.
+    Atvažiavęs dėdė neša geroką maišelį mėsų ir ragaišių. Yra ko nešti, teta nepaneštų.
   citata_rodoma: "Atvažiavęs dėdė neša geroką maišelį mėsų ir ragaišių. Yra ko nešti, teta nepaneštų."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-177795
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -141,15 +125,7 @@ Nenurodyta
   puslapiai: "p. 103 (PDF 101)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 103 (PDF 101)."
   citata_originali: |
-    Ga­
-    vę nešiojamės kišeniukėse, kaip kokį gražumyną; prisirenkame jų po
-    kelis.
-    Valgyti pasilaikome kitai dienai.
-    Atvažiavusius gimines val­
-    gydina seklyčioje, atskirai, dėl tikrump, kad būtų pavalgę
-    ir sotūs,
-    paskui veda į grįčią prie besėdos, sodina už stalo: moterį sodina ker­
-    tėje, vyras pats sau randa vietą prie vyrų.
+    Atvažiavusius gimines valgydina seklyčioje, atskirai, dėl tikrump, kad būtų pavalgę ir sotūs, paskui veda į grįčią prie besėdos, sodina už stalo: moterį sodina kertėje, vyras pats sau randa vietą prie vyrų.
   citata_rodoma: "Atvažiavusius gimines valgydina seklyčioje, atskirai, dėl tikrump, kad būtų pavalgę ir sotūs, paskui veda į grįčią prie besėdos, sodina už stalo: moterį sodina kertėje, vyras pats sau randa vietą prie vyrų."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

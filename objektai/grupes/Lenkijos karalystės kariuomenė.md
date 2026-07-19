@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Lenkijos karalystės kariuomenė
 
 ## Santrauka
@@ -34,26 +35,6 @@ media_all_json: |-
 1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta reguliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. Vilniaus prieigose lenkų kariuomenė ir sukilėlių daliniai patyrė pralaimėjimą.
 
 ## Teiginiai
-
-<a id="claim-t-23482"></a>
-- t-001
-  teiginys: "1831 m. birželį į Lietuvą buvo pasiųsta apie 12,6 tūkst. karių turėjusi reguliarioji Lenkijos karalystės kariuomenė."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkijos karalystės kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai sako, kad Lenkijos karalystės kariuomenė buvo pasiųsta į Lietuvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lenkijos karalystės kariuomenė siuntė į Lietuva (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1831 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-25111
 
 <a id="claim-t-23483"></a>
 - t-002
@@ -111,9 +92,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-## Ryšiai
-- Lenkijos karalystės kariuomenė užėmė [[objektai/vietos/Kaunas]]
-- Lenkijos karalystės kariuomenė siuntė į [[objektai/vietos/Lietuva]]

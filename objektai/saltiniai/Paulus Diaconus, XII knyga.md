@@ -41,10 +41,12 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
   pagrindžia:
     - c-177294
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Paulus Diaconus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-177294
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Gotų pakurstyti he­
     rulai, surinkę savo jaunimą ir narsaus Malabato2 vado­
@@ -54,26 +56,6 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
     XII,
     P.
     259.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-177294
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    2 Malabato vardas, yra lietuviškas.; mitologijoje tokią formą turi
-    dievo Alabačio vardas. Kiti istorikai vadina jį Naulobatu, Naulobates,
-    bet toks
-    vardas
-    yra
-    dar
-    lietuviškesnis.
   citata_rodoma: "Gotų pakurstyti he­\nrulai, surinkę savo jaunimą ir narsaus Malabato2 vado­\n1 Paulus\nDiaconus.\nLib.\nXII,\nP.\n259."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

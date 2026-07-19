@@ -7,13 +7,13 @@ datos:
   - '1463 m.'
 date_start: '1463'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - seimas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,12 +66,10 @@ Nenurodyta
   pagrindžia:
     - c-168996
 
-## Citatos
-
-- id: c-168996
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Į Vilniuje susirinkusį lietuvių seimą atvyko Lenkijos pasiuntiniai Stanislovas Ostrorogas ir Jonas Ritvianskis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     P areiškęs,
     k ad tokiam sv arb iam re ik a lu i a p ta rti bei d eram ai jį
@@ -97,6 +95,27 @@ Nenurodyta
     p a tra u k d a ­
     m as su k ariu o m en e p rie Torunės ir įsikurdamas čia sto ­
     vyklą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168996
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Gavo jie tik tokį atsakymą, kad
+    lenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­
+    mams. Kai Vilniuje susirinko lietuvių seimas, atvyko
+    čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kali-
+    šo vaivada, ir Jonas Ritvianskis, karalystės maršalas.
+    Anksčiau nei jie atkeliavo pats karalius, norėdamas
+    asmeniškai aptramdyti priešingų grupuočių įniršį, ne­
+    paisant to, seimo posėdžiuose užvirė atkakli kova.
   citata_rodoma: "Gavo jie tik tokį atsakymą, kad\nlenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­\nmams. Kai Vilniuje susirinko lietuvių seimas, atvyko\nčia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kali-\nšo vaivada, ir Jonas Ritvianskis, karalystės maršalas.\nAnksčiau nei jie atkeliavo pats karalius, norėdamas\nasmeniškai aptramdyti priešingų grupuočių įniršį, ne­\npaisant to, seimo posėdžiuose užvirė atkakli kova."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

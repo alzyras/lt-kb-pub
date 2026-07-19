@@ -7,13 +7,13 @@ datos:
   - '1377 m.'
 date_start: '1377'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinis-įvykis
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,25 +70,9 @@ Nenurodyta
   pagrindžia:
     - c-169882
 
-<a id="claim-t-196787"></a>
-- t-004
-  teiginys: "Lietuvos metraštis pasakoja, kad po Algirdo mirties Kęstutis pripažino Jogailą didžiuoju kunigaikščiu Vilniuje ir važinėjo pas jį tartis."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-169882
-
-## Citatos
-
-- id: c-169882
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     O paskui didysis kunigaikštis Algirdas 1377 me­
     tais35 pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­
@@ -103,6 +87,28 @@ Nenurodyta
     davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
     gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
     dą34 ir išvedė į žmones.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-169882
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O paskui Petras Goštautas atsivedė kitus vienuo-
+    lius-pranciškonus, bet nebedrįso jau statyti jiems vie­
+    nuolyno toje vietoje, kur pirmieji nužudyti, įkūrė jiems
+    vienuolyną toje vietoje, kur smėlynėje prie Vingrių
+    turėjo pasistatęs namą, kur dabar stovi dievo motinos
+    vienuolynas \  Ir nuo tų laikų Vilniuje stovi pirmas
+    krikščioniškas Romos tikėjimo dievo motinos vienuo­
+    lių vienuolynas 5 .
   citata_rodoma: "O paskui Petras Goštautas atsivedė kitus vienuo- \nlius-pranciškonus, bet nebedrįso jau statyti jiems vie­\nnuolyno toje vietoje, kur pirmieji nužudyti, įkūrė jiems \nvienuolyną toje vietoje, kur smėlynėje prie Vingrių \nturėjo pasistatęs namą, kur dabar stovi dievo motinos \nvienuolynas \\  Ir nuo tų laikų Vilniuje stovi pirmas \nkrikščioniškas Romos tikėjimo dievo motinos vienuo­\nlių vienuolynas 5 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -111,4 +117,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004

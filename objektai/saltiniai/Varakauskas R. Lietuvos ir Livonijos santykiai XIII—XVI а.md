@@ -53,10 +53,7 @@ Dusburgietis teigia, kad varakauskas R.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Мержинский А. Ф. О надровском жреце огня Криве. — Труды IX археологического
-    съезда в Вильне 1893, М., 1895, r. 1, с. 246—259.
-    Мержинский А. Ф. Ромове: Археологическое исследование (из Трудов X
-    археологического съезда.
+    Varakauskas R. Lietuvos ir Livonijos santykiai XIII—XVI а.—V., 1982.
   citata_rodoma: "Varakauskas R. Lietuvos ir Livonijos santykiai XIII—XVI а.—V., 1982."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

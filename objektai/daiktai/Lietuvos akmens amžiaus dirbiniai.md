@@ -117,6 +117,37 @@ Nenurodyta
   pagrindžia:
     - c-05277
 
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ankstyviausieji žmogaus kultūros pėdsakai pietų Pabaltijyje
+    yra datuojami 15.000-10.000 m. pr. Kr. Palei Lietuvos sieną Ryt­
+    prūsiuose rasti kauliniai dirbiniai (elnio ragai, kauliniai ietgaliai)
+    yra priskiriami baltų plote iki šiol beveik visai neaptiktai ir todėl
+    čia, galima sakyti, nežinomai paleolito kultūrai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
+    titnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram­
+    dyti gremžtukų, rėžtukų, durklų, ietgalių, žeberklų, kirvių). Lie­
+    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
+    drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių
+    yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
+    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
+    munės durpynuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-05233
@@ -124,8 +155,7 @@ Nenurodyta
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Ankstyviausieji žmogaus kultūros pėdsakai pietų Pabaltijyje
-    yra datuojami 15.000-10.000 m. pr. Kr. Palei Lietuvos sieną Ryt­
+    Palei Lietuvos sieną Ryt-
     prūsiuose rasti kauliniai dirbiniai (elnio ragai, kauliniai ietgaliai)
     yra priskiriami baltų plote iki šiol beveik visai neaptiktai ir todėl
     čia, galima sakyti, nežinomai paleolito kultūrai.
@@ -144,12 +174,12 @@ Nenurodyta
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
-    titnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram­
-    dyti gremžtukų, rėžtukų, durklų, ietgalių, žeberklų, kirvių). Lie­
-    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
+    titnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram-
+    dyti gremžtukų, rėžtukų, durklų, ietgalių, žeberklų, kirvių). Lie-
+    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi-
     drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių
     yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
-    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
+    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne-
     munės durpynuose.
   citata_rodoma: "Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug\ntitnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram-\ndyti gremžtukų, rėžtukų, durklų, ietgalių, žeberklų, kirvių). Lie-\ntuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi-\ndrinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių\nyra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,\nNerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne-\nmunės durpynuose."
   statusas: verified

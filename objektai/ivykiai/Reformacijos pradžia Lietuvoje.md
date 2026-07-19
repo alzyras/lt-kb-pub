@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Reformacijos pradžia Lietuvoje
 
 ## Santrauka
@@ -52,26 +53,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-20460"></a>
-- t-002
-  teiginys: "Abraomas Kulvietis siekė lietuvių kalbą padaryti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Vilnius: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Abraomas Kulvietis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Kulvietis Vilniuje įkūrė mokyklą; mokyklos kandidato nėra, todėl objektas yra vieta."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Abraomas Kulvietis pastatė Vilnius (0.78)"
-  temporaliniai_duomenys: "įvykio data: po 1525 m.; įvykio data: 1525 m.; įvykio data: 1542 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiksliai perteikia citatos informaciją."
-  pagrindžia:
-    - c-23185
 
 <a id="claim-t-20461"></a>
 - t-001
@@ -134,5 +115,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

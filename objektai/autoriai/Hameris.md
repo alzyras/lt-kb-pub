@@ -26,46 +26,6 @@ media_all_json: |-
 
 Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė trečios eilutės pirmą žodį.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė trečios eilutės pirmą žodį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,
-    gyvenusią galų kaimynystėje, prie Dnestro.
-    Ponas Hameris dar prieš poną Volianskį mėgino šif­
-    ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­
-    rašą. Jis perskaitė tik trečios eilutės pirmą žodį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174490
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Tuo tarpu vėliau, po Diono klestėjimo metų,
-    apie juos jau niekas nebekalba. Tikriausiai III amžiaus
-    pabaigoje jie persikėlė į Vakarus, į Palenkės girias. Jor­
-    danas, vardydamas įvairių genčių tautas, kurias valdė
-    gotai Germanariko valdymo laikais, gyvenusias nuo Juo­
-    dosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,
-    Bugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,
-    kurie turėjo gyventi šalia tos teritorijos ribų.
-  citata_rodoma: "Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,\ngyvenusią galų kaimynystėje, prie Dnestro.\nPonas Hameris dar prieš poną Volianskį mėgino šif­\nruoti tą visiškai senovės tyrinėtojams nesuprantamą už­\nrašą. Jis perskaitė tik trečios eilutės pirmą žodį."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-191608"></a>
@@ -80,3 +40,24 @@ Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senov
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174490
+
+## Citatos
+
+- id: c-174490
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,
+    gyvenusią galų kaimynystėje, prie Dnestro.
+    Ponas Hameris dar prieš poną Volianskį mėgino šif­
+    ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­
+    rašą. Jis perskaitė tik trečios eilutės pirmą žodį.
+  citata_rodoma: "Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,\ngyvenusią galų kaimynystėje, prie Dnestro.\nPonas Hameris dar prieš poną Volianskį mėgino šif­\nruoti tą visiškai senovės tyrinėtojams nesuprantamą už­\nrašą. Jis perskaitė tik trečios eilutės pirmą žodį."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

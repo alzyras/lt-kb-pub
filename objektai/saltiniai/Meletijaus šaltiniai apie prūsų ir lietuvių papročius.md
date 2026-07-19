@@ -60,10 +60,12 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
   pagrindžia:
     - c-179147
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-173400
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.
@@ -72,34 +74,6 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
     kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
     Burtininkė (Burte)
     Lietuvių barde -  Burtyniczka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173400
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Beveik nežinome tautos, kuri, būdama tamsi arba nepa­
-    žindama tikrojo tikėjimo, neturėtų savų pranašavimo būdų;
-    įvairios tautos jų prisigalvodavo įvairių. Alanai, senieji kai ku­
-    rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­
-    liai, burdavo, kaip sako istorija, iš karklo šakų, tam tikru būdu
-    sumaišytų; vėliau, traukdami vieną po kitos tam tikru nustaty­
-    tu laiku bei ištardami kažkokius žodžius ir kitaip burtininkų
-    mada vaipydamiesi, skaitydavo lemties knygą .
-    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
-    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
-    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
-    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
-    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
-    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
-    kaip tai pamatysime toliau.
   citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

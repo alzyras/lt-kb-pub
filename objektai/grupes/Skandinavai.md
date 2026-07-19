@@ -11,14 +11,14 @@ datos:
   - '2026 m.'
 date_start: '1936'
 date_end: '2026'
-amziai:
-  - 'XX'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
+amziai:
+  - 'XX'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,7 +60,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 <a id="claim-t-188332"></a>
 - t-001
   teiginys: "Narbutas mano, kad lietuvių ir skandinavų mitologijų panašumą ryškino skandinavų perimti graikų elementai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,7 +75,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171225
-    - c-176994
 
 <a id="claim-t-188334"></a>
 - t-003
@@ -466,112 +465,32 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
 - susijęs iš [[objektai/zodynas/Ausiurland.md#claim-t-192200|Ausiurland]]: Narbutas aiškina, kad Ausiurland, Austarreich ir Austurmeg reiškia Rytų žemę, Rytų valstybę ir Rytų kelią.
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas rašo, kad skandinavai Frėjos kelione aiškino jos žinomumą ir garbinimą įvairiuose kraštuose.'
+- c-008
+  santrauka: 'Narbutas iš skandinavų legendų sprendžia, kad Biarmija buvo turtinga brangiųjų metalų ir viliojo skandinavų plėšikus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Labai sukrės­
-    ta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo
-    vyro; gailios ašaros, kurias ji išliejo, virto gryno aukso lašais.
-    Skandinavai taip pat manė, kad dėl tos kelionės deivė Frėja
-    tapo žinoma įvairiuose kraštuose ir buvo garbinama įvairių
-    tautų. Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
-    tinkame mūsų kaimiečių padavimuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Narbutas perteikia Prūsijos kronikininkų nuomonę, kad lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šie dievaičiai atitinka Antikos Paną.
-    Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
-    „Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­
-    viai perėmę iš skandinavų.
-    30 Stenden Lettische Grammatik.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-012
-  santrauka: 'Narbutas Assagardą laikė senovės šiaurės miestu Rusioje, kur, jo teigimu, nuolat gyveno skandinavai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Prie Rusnės, kiek
-    žemiau Sancinės, dešinėje pakrantėje ir prie įlankos, yra
-    223
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
+    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
+    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
+    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
+    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
+    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
+    mokėjo gana neblogai gintis.
+    435
 
-    ## Puslapis 221
+    ## Puslapis 435
 
-    kaimas Sena Rusia, Sienas-Russ; ši vieta verta visokeriopo
-    tyrinėtojo dėmesio, nes ten turėjusi būti pilis arba viena
-    seniausių lietuvių kolonijų. Garsus senovės šiaurės mies­
-    tas Assagard, apie kurį ir jo buvimo vietą parašyta tiek
-    prieštaringų nuomonių, be abejo, buvęs Rusioje, kur nuo­
-    lat gyveno skandinavai. Sis pavadinimas kilo iš skandina­
-    vų religijos ir reiškė vietą, kurioje buvo mitinių tos liau­
-    dies pusdievių ir senovės didvyrių, vadinamų asais, kurių
-    protėviai kartu su Odinu atėjo nuo Azovo jūros.
+    Išaugus rusų valstybės galiai, Biarmija savaime turėjo tap­
+    ti jos provincija, tačiau ši tauta atkakliai laikėsi savo senosios
+    stabmeldystės; smulkesnės žinios apie ją yra dingusios.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-015
-  santrauka: 'Su šių dviejų religijų sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam plaikos kilo mitologija, kurią imamės išdėstyti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
-    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
-    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
-    čią beveik visas menkiausias smulkmenas.
-    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
-    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
-    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
-    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
-    plaikos kilo mitologija, kurią imamės išdėstyti.
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-018
-  santrauka: 'Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iškyla kitas klausimas: kaip šis raidynas pateko į Žemaitiją?
-    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
-    užkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­
-    sinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir
-    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
-    kraštams.
-    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
-    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
-    to gyventojams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-020
-  santrauka: 'Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Romėnai darydavo pakirptuves
-    įvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­
-    ves nukirpdavo kasas ir paaukodavo Junonai; tai vadinosi He-
-    ratelea, tai maždaug atitinka ką tik aprašytas apeigas. Pasak
-    islandų sagose esančių padavimų, skandinavai taip pat žinojo
-    pakirptuves. Senovės lenkai ypač laikėsi šio papročio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-42931
@@ -628,17 +547,13 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tokią pat reikšmę
-    katinas turėjo romėnams, jis simbolizavo pilietinę laisve, kito­
-    kią, negu suteikiama vergams ir karo belaisviams, kurios žen­
-    klas buvo kepurė.
-    Dar pateikiame dainelę apie tą deive, pažodžiui išverstą iš
-    lietuvių kalbos:
-    Milenka Lielhua,
-    Draga wolnošci!
-    Skrytaš się w niekios przestrzenie.
-    Gdiež ciebie szukač?
-    Czy juž tylko na ionie šmierci?
+    Labai sukrės­
+    ta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo
+    vyro; gailios ašaros, kurias ji išliejo, virto gryno aukso lašais.
+    Skandinavai taip pat manė, kad dėl tos kelionės deivė Frėja
+    tapo žinoma įvairiuose kraštuose ir buvo garbinama įvairių
+    tautų. Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
+    tinkame mūsų kaimiečių padavimuose.
   citata_rodoma: "Labai sukrės­\nta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo\nvyro; gailios ašaros, kurias ji išliejo, virto gryno aukso lašais.\nSkandinavai taip pat manė, kad dėl tos kelionės deivė Frėja\ntapo žinoma įvairiuose kraštuose ir buvo garbinama įvairių\ntautų. Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­\ntinkame mūsų kaimiečių padavimuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -672,19 +587,11 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O
-    čia surinksime visokias išlikusias žinias apie dangaus kūnų su­
-    dievinimą, kadangi aukščiau nurodėme ne vieną dievaitį, tie­
-    siogiai kilusį iš šio šaltinio, ir kitus, galėjusius būti tos kilmės;
-    kadangi užrašai žuvo, šito tiksliai aprašyti negalėjome. Be jo­
-    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
-    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
-    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
-    no, gyveno ši tauta, garbinusi dangaus kūnus .
-    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
-    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
-    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
-    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+    Šie dievaičiai atitinka Antikos Paną.
+    Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
+    „Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­
+    viai perėmę iš skandinavų.
+    30 Stenden Lettische Grammatik.
   citata_rodoma: "Šie dievaičiai atitinka Antikos Paną.\nPrūsijos kronikininkų, besivadovaujančių Olafo Didžiojo\n„Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­\nviai perėmę iš skandinavų.\n30 Stenden Lettische Grammatik."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -814,20 +721,21 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Garsus senovės šiaurės mies­
+    Prie Rusnės, kiek
+    žemiau Sancinės, dešinėje pakrantėje ir prie įlankos, yra
+    223
+
+    ## Puslapis 221
+
+    kaimas Sena Rusia, Sienas-Russ; ši vieta verta visokeriopo
+    tyrinėtojo dėmesio, nes ten turėjusi būti pilis arba viena
+    seniausių lietuvių kolonijų. Garsus senovės šiaurės mies­
     tas Assagard, apie kurį ir jo buvimo vietą parašyta tiek
     prieštaringų nuomonių, be abejo, buvęs Rusioje, kur nuo­
     lat gyveno skandinavai. Sis pavadinimas kilo iš skandina­
     vų religijos ir reiškė vietą, kurioje buvo mitinių tos liau­
     dies pusdievių ir senovės didvyrių, vadinamų asais, kurių
-    protėviai kartu su Odinu atėjo nuo Azovo jūros. Rusioje
-    yra dvi upės, primenančios minėtą pavadinimą; viena jų
-    vadinasi Aisė ir prasideda Raseinių apskrityje, kerta Prū­
-    sijos sieną, plaukia pro Poješėtų, Dvylių, Aspurvos, t. y.
-    Ąsos purvo, kaimus, žemiau Šilėnų kaimo įteka į Veiviržo
-    upę. Antroji šiandien vadinama Ašva; ji prasideda taip
-    pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir­
-    žą ties Loišės pasienio smukle.
+    protėviai kartu su Odinu atėjo nuo Azovo jūros.
   citata_rodoma: "Prie Rusnės, kiek\nžemiau Sancinės, dešinėje pakrantėje ir prie įlankos, yra\n223\n\n## Puslapis 221\n\nkaimas Sena Rusia, Sienas-Russ; ši vieta verta visokeriopo\ntyrinėtojo dėmesio, nes ten turėjusi būti pilis arba viena\nseniausių lietuvių kolonijų. Garsus senovės šiaurės mies­\ntas Assagard, apie kurį ir jo buvimo vietą parašyta tiek\nprieštaringų nuomonių, be abejo, buvęs Rusioje, kur nuo­\nlat gyveno skandinavai. Sis pavadinimas kilo iš skandina­\nvų religijos ir reiškė vietą, kurioje buvo mitinių tos liau­\ndies pusdievių ir senovės didvyrių, vadinamų asais, kurių\nprotėviai kartu su Odinu atėjo nuo Azovo jūros."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -883,20 +791,15 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kadangi ir šioje yra nemažai pasi­
-    savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
-    šybė pasirodo esanti dar ryškesnė. Bet jos principai visiškai
-    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
-    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
-    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
-    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
-    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
-    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
-    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
-    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
-    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
-    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
-    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
+    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
+    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
+    čią beveik visas menkiausias smulkmenas.
+    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
+    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
+    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
+    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
+    plaikos kilo mitologija, kurią imamės išdėstyti.
   citata_rodoma: "Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip\ntatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną\nir tais pačiais principais besiremiančią religiją, pamėgdžiojan-\nčią beveik visas menkiausias smulkmenas.\nNet atrodo, kad Graikijos ir senosios Romos dievai, išgui­\nti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­\ndami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų\nsistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­\nplaikos kilo mitologija, kurią imamės išdėstyti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -904,7 +807,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
     - t-015
 
@@ -956,18 +858,15 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Siek tiek pasistūmėję upe
-    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
-    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
-    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
-    (Betygola) pavadinimas. Šių keliautojų vadas vadinosi Nemu­
-    nas (Nemon). Apie jį dar esama padavimo, kad jis buvęs gar­
-    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
-    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
-    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
-    keliais milžinkapiais. Pusdievio ir Nemuno vardo panašumas
-    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
-    kas šia upe keliavęs, bus davęs upei savo vardą.
+    Iškyla kitas klausimas: kaip šis raidynas pateko į Žemaitiją?
+    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
+    užkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­
+    sinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir
+    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
+    kraštams.
+    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
+    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
+    to gyventojams.
   citata_rodoma: "Iškyla kitas klausimas: kaip šis raidynas pateko į Žemaitiją?\nAtsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo\nužkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­\nsinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir\nauksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem\nkraštams.\nApie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1010,16 +909,15 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
-    vos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­
-    kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
-    globtė (Abglojte), kas reiškia nuometą. Uždedant ant galvos šį
-    vainiką, svočia (Pirszle) lietuviškai dainuodavo tokį dvieilį:
-    Dziewczynę gdy przyyviedziesz, to cząstka twego data.
+    Romėnai darydavo pakirptuves
+    įvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­
+    ves nukirpdavo kasas ir paaukodavo Junonai; tai vadinosi He-
+    ratelea, tai maždaug atitinka ką tik aprašytas apeigas. Pasak
+    islandų sagose esančių padavimų, skandinavai taip pat žinojo
+    pakirptuves. Senovės lenkai ypač laikėsi šio papročio.
   citata_rodoma: "Romėnai darydavo pakirptuves\nįvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­\nves nukirpdavo kasas ir paaukodavo Junonai; tai vadinosi He-\nratelea, tai maždaug atitinka ką tik aprašytas apeigas. Pasak\nislandų sagose esančių padavimų, skandinavai taip pat žinojo\npakirptuves. Senovės lenkai ypač laikėsi šio papročio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

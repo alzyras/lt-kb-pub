@@ -53,17 +53,10 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir su vi­
-    somis šiomis ginkluotomis pajėgomis ištraukė 19 prieš
-    chaną Temir-Kutlujų, ketindamas atimti iš jo karalystę
-    ir sakė, girdamasis bei grasindamas Ordai: „Eime, už­
-    kariausime totorių žemę, sumušime Temir-Kutlujų, pa­
-    sodinsime sostan chaną Tochtamyšą, o jis mus pasodins
-    valdyti visos Rusų žemės."
-    Ir, šitaip prakalbėjęs, leidosi kariauti su totoriais.
-    Tuo metu chanas Temir-Kutlujus suskubo atvykti su
-    daugeliu pulkų, su visomis savo ordos pajėgomis, susi­
-    tiko20 su Vytautu lauke prie Vorkslos upės51 ir antra-
+    paleido savo uošvį
+    kunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­
+    ju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo-
+    vičiui davė Roslavlio2  miestą.
   citata_rodoma: "paleido savo uošvį \nkunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­\nju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo- \nvičiui davė Roslavlio2  miestą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

@@ -76,10 +76,12 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
 - susijęs iš [[objektai/paprociai/Romuvos vardinimas ir šventinimas prie dviejų upių santakos.md#claim-t-192088|Romuvos vardinimas ir šventinimas prie dviejų upių santakos]]: Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos.
 - susijęs iš [[objektai/paprociai/Romuvos vardinimas ir šventinimas prie dviejų upių santakos.md#claim-t-192088|Romuvos vardinimas ir šventinimas prie dviejų upių santakos]]: Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir budinų gyvenimu tarp Dono ir Doneco.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-171925
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
     Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
@@ -90,50 +92,6 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
     tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
     kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
     kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Teodoro Narbuto aiškinimu, budinai naujame krašte indų papročiu pašventino upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vadinasi, tokiu pat būdu ten pateko ir
-    masagetai4.
-    59
-    Naujame pasirinktame krašte budinai indų papročiu
-    pašventino upę mitiniu Ross vardu, kurį randame šian­
-    dienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­
-    dis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­
-    1 Moralius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171925
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Galbūt neįsižeis slavų seno­
-    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
-    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
-    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
-    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
-    sų gatve.
-    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
-    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
-    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
-    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
-    arba šiek tiek vėliau.
-    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
-    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
-    liaudies padavimų.
   citata_rodoma: "Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir\nRoksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo\ntos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo\nkairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­\nkančią per jų sodybų vidurį, jie pavadino Rose (Ross)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -148,15 +106,14 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ne­
-    storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
-    vės, laikė ją apgulę visą vasarą, bet, negalėdami jos
-    įveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-
-    ku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje.
+    Vadinasi, tokiu pat būdu ten pateko ir
+    masagetai4.
+    59
+    Naujame pasirinktame krašte budinai indų papročiu
+    pašventino upę mitiniu Ross vardu, kurį randame šian­
+    dienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­
+    dis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­
+    1 Moralius.
   citata_rodoma: "Vadinasi, tokiu pat būdu ten pateko ir\nmasagetai4.\n59\nNaujame pasirinktame krašte budinai indų papročiu\npašventino upę mitiniu Ross vardu, kurį randame šian­\ndienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­\ndis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­\n1 Moralius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

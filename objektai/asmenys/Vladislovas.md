@@ -152,36 +152,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200667|seimelis]]: 1749 m. Smolensko pavieto seimelyje buvo renkami tokie pareigūnai kaip vėliavininkas, žemės teisėjas, iždininkas ir žemės raštininkas.
 - susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185966|Jonas Olbrachtas]]: Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Gediminas padėjo Vladislovui kariauti su Brandenburgo markgrafu Voldemaru.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Dvidešimt keturis tūkstančius lenkų be­
-    laisvių dovanojo nelyginant kraitį. Lenkai ėmė naujas
-    2 J 2
-
-    ## Puslapis 211
-
-    viltis puoselėti; naudodamiesi tvirta taika, jie ėmė rū­
-    pestingai prižiūrėti tas pasienio žemes, kurias arba prie­
-    šas buvo kalaviju nusiaubęs, arba patys palikę ne­
-    gyvenamas dėl nuolatinių antpuolių, Gediminas padėjo
-    vėliau Vladislovui kariauti
-    su Voldemaru, Brandenburgo
-    markgrafu. Šiuo žygiu buvo
-    nusiaubti
-    didžiuliai
-    priešo
-    valdų plotai, ypač dėl to, kad
-    lietuviai nelyginant laukiniai
-    stabmeldžiai niokojo šventas ir nešventas vietas, nie­
-    ko nepaisydami ir nerodydami jokios pagarbos tikėji­
-    mui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-003
   santrauka: 'Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -248,8 +218,11 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Lenkai ėmė naujas
+    Dvidešimt keturis tūkstančius lenkų be­
+    laisvių dovanojo nelyginant kraitį. Lenkai ėmė naujas
     2 J 2
+
+    ## Puslapis 211
 
     viltis puoselėti; naudodamiesi tvirta taika, jie ėmė rū­
     pestingai prižiūrėti tas pasienio žemes, kurias arba prie­
@@ -265,16 +238,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     lietuviai nelyginant laukiniai
     stabmeldžiai niokojo šventas ir nešventas vietas, nie­
     ko nepaisydami ir nerodydami jokios pagarbos tikėji­
-    mui. Dėl vieno bajoro nepaprastos drąsos žuvo pulko
-    vadas Dovydas, garsus sve-
-    L ietu vio v a d o D o v y -
-    timuose kraštuose karo žy­
-    do š lo v ė ir m irtis
-    giais, o tėvynėje aukščiau­
-    siomis pareigybėmis ir gimi­
-    nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo
-    tada, kai, grįždamas su kariuomene namo, siaubė Ma-
-    zoviją.
+    mui.
   citata_rodoma: "Dvidešimt keturis tūkstančius lenkų be­\nlaisvių dovanojo nelyginant kraitį. Lenkai ėmė naujas\n2 J 2\n\n## Puslapis 211\n\nviltis puoselėti; naudodamiesi tvirta taika, jie ėmė rū­\npestingai prižiūrėti tas pasienio žemes, kurias arba prie­\nšas buvo kalaviju nusiaubęs, arba patys palikę ne­\ngyvenamas dėl nuolatinių antpuolių, Gediminas padėjo\nvėliau Vladislovui kariauti\nsu Voldemaru, Brandenburgo\nmarkgrafu. Šiuo žygiu buvo\nnusiaubti\ndidžiuliai\npriešo\nvaldų plotai, ypač dėl to, kad\nlietuviai nelyginant laukiniai\nstabmeldžiai niokojo šventas ir nešventas vietas, nie­\nko nepaisydami ir nerodydami jokios pagarbos tikėji­\nmui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

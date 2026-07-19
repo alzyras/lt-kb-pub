@@ -53,17 +53,7 @@ Trumpa žemdirbių formulė apie perdirbtą žemę.
   puslapiai: "p. 21 (PDF 19)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 21 (PDF 19)."
   citata_originali: |
-    Jau žydi
-    ievos — laikas avižos ir žirniai sėti, savaime ateina metas bulvėms so­
-    dinti, miežiams ir linams sėti.
-    Imant dėmesin visus vasarojaus sėjos
-    darbus ir atsiminus, kad kiekvieną javą pasėjus pridengdavo ne akė­
-    jimu, bet arimu, kad miežiams, bulbėms ir linams dirva buvo karto­
-    jama, vadinasi, antrą sykį ariama, ir kad po kiekvieno arimo akėdavo,
-    atsiminus visa tai, suprasime, kad dirva vasarojui būdavo per daug
-    susmulkinta ir nepatikdavo augalams, ypač miežiams, tvirtos žemės*
-    Patys ūkininkai suprasdami tai, sakydavo: „Mes žemę per daug išpliau-
-    piame.“
+    Patys ūkininkai suprasdami tai, sakydavo: „Mes žemę per daug išpliaupiame.“
   citata_rodoma: "Patys ūkininkai suprasdami tai, sakydavo: „Mes žemę per daug išpliaupiame.“"
   statusas: verified
   atnaujinta: "2026-07-12 02:45"

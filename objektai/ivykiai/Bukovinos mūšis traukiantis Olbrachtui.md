@@ -129,33 +129,10 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Sužinoję, kad maskvėnai paėmė Brianską, Možaisko
-    kunigaikštis Semionas Ivanovičius bei kunigaikštis Va­
-    silijus Ivanovičius Semiačičius atvyko prie Kontovto"
-    upės pas Maskvos didžiojo kunigaikščio vaivadą Jako­
-    vą Zacharičių ir prisiekė tarnausią Maskvos didžiajam
-    kunigaikščiui su visais miestais — su Černigovu, su
-    Starodubu, su Gomeliu, su Naugardu-Seversku, su Ryls-
-    ku ir su visais valsčiais, kuriuos valdė, būdami Lietuvos
-    Didžiosios Kunigaikštystės valdiniais. O Belajos kuni­
-    gaikštis Semionas Ivanovičius atvyko į Maskvą dar
-    prieš Briansko paėmimą ir su visa savo tėvonija paklu­
-    so Maskvos didžiajam kunigaikščiuiIJ.
-    Lietuvos didysis kunigaikštis Aleksandras, išgirdęs
-    kad jo uošvis, Maskvos didysis kunigaikštis Ivanas Va-
-    siljevičius, pradėjo prieš jį tokį karą, ir kad Briansko
-    miestas ir daugelis miestų pasidavę jam ir su minėtai­
-
-    siais kunigaikščiais prisiekę jam tarnauti, siunčia į Smo­
-    lenską savo etmoną, kunigaikštį Konstantiną Ivanovi-
-    čių Ostrogiškį, bei savo kiemo maršalą, Merkinės ir
-    Anykščių vietininką poną Grigalių Stanislovaitį Asti-
-    ką l3, ir savo pataurininkį, Belsko vietininką poną Mi­
-    kalojų Mikalojaitj
-    ir maršalą poną Joną Petraitį1S, ir
-    maršalą, Naugarduko ir Slonimo vietininką poną Liu­
-    taurą Chreptavičių l6, ir daugelį kitų savo kunigaikščių,
-    ir ponų, ir dvarionių, ir bajorų.
+    Kai karalius perėjo miškus ir Bukoviną, Moldavijos
+    vaivada su visais savo žmonėmis pasuko atgalios. Tada
+    Moldavijos vaivada paėmė nelaisvėn Lenkijos karalys­
+    tės didįjį maršalą poną Točinskį 3 S .
   citata_rodoma: "Kai karalius perėjo miškus ir Bukoviną, Moldavijos \nvaivada su visais savo žmonėmis pasuko atgalios. Tada \nMoldavijos vaivada paėmė nelaisvėn Lenkijos karalys­\ntės didįjį maršalą poną Točinskį 3 S ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

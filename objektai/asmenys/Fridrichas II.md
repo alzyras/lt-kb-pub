@@ -217,22 +217,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Fridrichas II turėjo nesantuokinį sūnų Manfredą, iš kurio 1265 m. Sicilijos karalius Karolis atėmė sostą ir gyvybę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
-                                nesantuokinio sūnaus, mirtį
-
-      1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį
-    Sicilijos karaliumi, kurią jam davė popiežius Urbonas. Tas Karolis atėmė iš Manfredo,
-    nesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.
-    22, 30).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-005
   santrauka: 'Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -313,15 +297,13 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tais metais, vasario mėnesį, pagavo jūrų žuvį, panašią į liūtą, tame paplūdimyje, kuris
-    yra prieš Montaltą, ir nunešė prie Orvjeto, kur sugužėjo gausybė popiežiaus rūmininkų
-    pasižiūrėti šios pabaisos, nes jos oda buvo apžėlusi plaukais, kojos trumpos, uodega —
-    kaip liūto, galva — kaip liūto, be to, ausys, nasrai, dantys ir liežuvis irgi atrodė beveik
-    nelyginant liūto. Pasakojo, kad pagauta baisiai raudojusi, todėl daug žmonių iš to ir suvokė,
-    kokia būsianti ateitis. Štai neilgai trukus po to Sicilijos karalystėje palermiečiai, pagauti
-    baisaus įsiūčio, išžudė iš paniekos anksčiau minėtajam karaliui visus ten gyvenusius
-    prancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios
-    sakėsi pastojusios nuo prancūzų, vėrė šonus ir žudė jų negimusius kūdikius (Ptol.
+    Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
+                                nesantuokinio sūnaus, mirtį
+
+      1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį
+    Sicilijos karaliumi, kurią jam davė popiežius Urbonas. Tas Karolis atėmė iš Manfredo,
+    nesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.
+    22, 30).
   citata_rodoma: "Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II\n                            nesantuokinio sūnaus, mirtį\n\n  1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį\nSicilijos karaliumi, kurią jam davė popiežius Urbonas. Tas Karolis atėmė iš Manfredo,\nnesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.\n22, 30)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

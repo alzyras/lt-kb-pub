@@ -384,109 +384,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-188351|Slavai]]: Narbutas nurodė Naruševičiaus nuomonę, kad slavai žinojo panašią amžinąją ugnį, vadintą Zwicz.
 - susijęs iš Lenkų tautos istorija: Adomo Stanislovo Naruševičiaus šešių tomų veikalas „Lenkų tautos istorija“ plačiai apėmė ir Lietuvos istoriją.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Naruševičiumi, rašė, kad Henilą garbino serbai ir kitos slavų tautos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Mat, pasak Naruševičiaus , He-
-    nilą garbino serbai ir kitos slavų tautos. 10
-    10 Historya narodu Polskiego. -  T. I. -  S. 362*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Žyniai iš jų burdavo. Žemaičiai
-    manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
-    užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
-    užgesino .
-    Kaip mano Naruševičius', slavai taip pat žinojo panašią
-    ugnį, vadintą Zwicz.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-188396
-    - t-194644
-- c-007
-  santrauka: 'Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Gotų žygis su Filimeru. 161 krikščioniško­
-    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
-    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
-    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
-    met ribojo senovės geografų taip pavadintus kraštus. Bet
-    atsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir
-    buvo nuneštas srovės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: zemas
-  patikimumo_saltinis: ai
-- c-008
-  santrauka: 'Naruševičių Narbutas mini tarp autorių, kurių požiūris turėjo pagrįsti nuomonę, kad venedams priklausė Lietuvos istorijai svarbios gentys.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kaip slavai atsirado ‘šiose lygumose arba kaip
-    ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
-    Pasakysime tiktai tiek, kad venedams priklausė ne viena
-    gentis, labai dominanti mūsų veikalą, o panagrinėję pa­
-    ties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,
-    dar labiau sustiprinsime šią nuomonę. Galėjo būti, kad
-    venedų slavams ikikrikščioniškosios eros amžiais ar kiek
-    vėliau priklausė kuri nors Baltijos jūros pakrantė tarp
-    Vyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš
-    rytų slenkančių genčių; jų pėdsakas išliko Vindavos upės
-    pavadinime; be to, Vinidų, Vinidarių pavardę dera lai­
-    kyti lietuviškos kilmės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-009
-  santrauka: 'Naruševičius, Narbuto perteikimu, Ptolemėjo chunus siejo su graikų-skitų gentimi ir galimu atsikėlimu iš Chijo salos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Prajus** vėlgi kalba apie tą patį, žiūrė­
-    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
-    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
-    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
-    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
-    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
-    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
-    Chue, Chunnigard-, ji priklausė minėtai tautai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-013
-  santrauka: 'Naruševičių Narbutas mini kaip vieną senovės tyrinėtojų, aptikusių gelonų-budinų buvimo pėdsakų Sniatyno apylinkėse.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­
-    novės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),
-    212
-
-    ## Puslapis 210
-
-    215
-    Atvedėme keliavusią gelonų-budinų tautą į Sniatyno
-    apylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad
-    jų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris
-    ir Naruševičius1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-014
   santrauka: 'Naruševičius, Narbuto teigimu, daugelyje darbų patvirtino nuomonę apie gelonų tautos gyvenimą Nemuno aukštupyje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -530,12 +427,9 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kerpyčius ir Šilinyčius
-    (Kierpiczus i Syleniczus)
-    Dievaičiai draugai, statybos globotojai. Pirmasis valdė vi­
-    sa, kas naudojama statybose iš iškasenų, antrasis - iš augalų
-    karalystės.
-    Kerpyčiaus vardas, atrodo, kilęs iš Kirpicz - rusiškai plyta.
+    Mat, pasak Naruševičiaus , He-
+    nilą garbino serbai ir kitos slavų tautos. 10
+    10 Historya narodu Polskiego. -  T. I. -  S. 362*.
   citata_rodoma: "Mat, pasak Naruševičiaus , He-\nnilą garbino serbai ir kitos slavų tautos. 10\n10 Historya narodu Polskiego. -  T. I. -  S. 362*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -548,13 +442,12 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pa­
-    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
-    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
-    pačiu šventu vardu Ross. Šitaip galindų tauta turėjo Rosės * 5
-    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
-    likti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį
-    seniausius budizmo principus, pastebėjo Kašmiro žemumoje*.
+    Žyniai iš jų burdavo. Žemaičiai
+    manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
+    užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
+    užgesino .
+    Kaip mano Naruševičius', slavai taip pat žinojo panašią
+    ugnį, vadintą Zwicz.
   citata_rodoma: "Žyniai iš jų burdavo. Žemaičiai\nmanė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai\nužmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį\nužgesino .\nKaip mano Naruševičius', slavai taip pat žinojo panašią\nugnį, vadintą Zwicz."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -657,14 +550,13 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Siame žygyje jie ėjo per spalių kraštą, kurio gyvento­
-    jus pasiėmė kartu su savimi. Apie šią tautą senovės ty­
-    rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
-    buvę kairiojoje Dono pakrantėje, prie Kimerijos Bospo­
-    ro2; šis teiginys, paimtas iš senovės geografų ir esantis
-    Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai
-    sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
-    nėje Mazovijoje.
+    Gotų žygis su Filimeru. 161 krikščioniško­
+    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
+    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
+    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
+    met ribojo senovės geografų taip pavadintus kraštus. Bet
+    atsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir
+    buvo nuneštas srovės.
   citata_rodoma: "Gotų žygis su Filimeru. 161 krikščioniško­\nsios eros metais, pasak Naruševičiaus tyrimų1, gotai su\nsavo karaliumi Filimeru, pereidami iš Germanijos į Sar-\nmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­\nmet ribojo senovės geografų taip pavadintus kraštus. Bet\natsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir\nbuvo nuneštas srovės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -677,18 +569,18 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Lietuvių tauta 'arba visiškai negimininga slavams, ar­
-    ba turi labai tolimus ryšius, nes šias tautas sieja tik po­
-    litiniai saitai. Safaržykas teigia, jog priešistoriniais lai­
-    kais buvusi viena tauta, kuri, laikui bėgant, susidvejino5.
-    Kiti, pavyzdžiui, Solovjovas6, aiškina atvirkščiai ir teigia,
-    jog priešistoriniais laikais buvusios dvi Skirtingos tau­
-    tos, kurios istoriniais laikais susiliejo. Bet šie istorikai
-    patys prisipažįsta, jog nežino priešistorinių epochų, todėl
-    1 Išsamius įrodymus to, kad venedai iš tikrųjų buvo slavai ir
-    tą vardą jiems suteikė kitos tautos, o ne jie patys taip save vadino,
-    be to, Adelungas ir net Dobrovskis venedus klaidingai priskyrė prie
-    vokiečių, pateikė Safaržykas (Starožytnošci slawianskie.
+    Kaip slavai atsirado ‘šiose lygumose arba kaip
+    ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
+    Pasakysime tiktai tiek, kad venedams priklausė ne viena
+    gentis, labai dominanti mūsų veikalą, o panagrinėję pa­
+    ties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,
+    dar labiau sustiprinsime šią nuomonę. Galėjo būti, kad
+    venedų slavams ikikrikščioniškosios eros amžiais ar kiek
+    vėliau priklausė kuri nors Baltijos jūros pakrantė tarp
+    Vyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš
+    rytų slenkančių genčių; jų pėdsakas išliko Vindavos upės
+    pavadinime; be to, Vinidų, Vinidarių pavardę dera lai­
+    kyti lietuviškos kilmės.
   citata_rodoma: "Kaip slavai atsirado ‘šiose lygumose arba kaip\nir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.\nPasakysime tiktai tiek, kad venedams priklausė ne viena\ngentis, labai dominanti mūsų veikalą, o panagrinėję pa­\nties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,\ndar labiau sustiprinsime šią nuomonę. Galėjo būti, kad\nvenedų slavams ikikrikščioniškosios eros amžiais ar kiek\nvėliau priklausė kuri nors Baltijos jūros pakrantė tarp\nVyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš\nrytų slenkančių genčių; jų pėdsakas išliko Vindavos upės\npavadinime; be to, Vinidų, Vinidarių pavardę dera lai­\nkyti lietuviškos kilmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -703,15 +595,14 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Nestoras irgi nusirašė visa tai. Esmė ta,
-    kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų,
-    daugiausia netvarkingai surašytų ir sukompiliuotų iš
-    įvairių šaltinių, kuriuos naudojo šis geografas, daugybė­
-    je jam ne sykį atsitikdavo, kad, paėmęs du vienos tau­
-    tos pavadinimus iš įvairių epochų ir autorių, pateikė juos
-    atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
-    nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
-    1 Lib. XXXI.
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
   citata_rodoma: "Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama\nChue, Chunnigard-, ji priklausė minėtai tautai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -769,19 +660,17 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­
+    novės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),
+    212
+
+    ## Puslapis 210
+
+    215
     Atvedėme keliavusią gelonų-budinų tautą į Sniatyno
     apylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad
     jų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris
-    ir Naruševičius1. Labiausiai dėl to, kad ten randame tik­
-    rai lietuviškų upių pavadinimų, pasikartojančių Lietuvos
-    žemėje: Lunia pakartoja Lunią, arba Lunają, įtekančią iš
-    kairiojo kranto į Nemuną Gardino apskrityje; Marocz,
-    Maročė, panaši į Merecz, Merkį, kuris srūva Trakų vals­
-    čiuje ir iš dešinės pusės įteka į Nemuną. Taip pat ir tre­
-    čios tenykštės upės, į Lunią įtekančios Nočios, pavadini­
-    mas sutampa su pavadinimu dviejų upelių, plaukiančių
-    per Lydos apskritį; vienas jų už Rodūnios įteka į Ditvą,
-    antras — į Pelesą tarp Pravožos ir Dubičių.
+    ir Naruševičius1.
   citata_rodoma: "1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­\nnovės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),\n212\n\n## Puslapis 210\n\n215\nAtvedėme keliavusią gelonų-budinų tautą į Sniatyno\napylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad\njų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris\nir Naruševičius1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

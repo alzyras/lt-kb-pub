@@ -62,10 +62,12 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   pagrindžia:
     - c-174643
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Plocko kanauninko Jaroslavo kronikoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174642
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Tidemanas rašo, kad
     jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
@@ -74,27 +76,6 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
     no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
     būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
     mis2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174642
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Visos svarbiausios šio veikalo detalės turi
-    geriausių šiaurinių kraštų tyrinėtojų išvadas4. Tik buvo
-    manoma, kad už Divonio vardo slypi kažkoks romėnų
-    astronomas, kuris buvo įpareigotas išmatuoti šiaurinę Eu­
-    ropą; šie Julijaus Cezario pradėti matavimai vyko be pa­
-    liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
-    iki 24 metų prieš Kristaus gimimą. Tiems topografams
-    vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
   citata_rodoma: "Tačiau Tidemanas rašo, kad\njis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės\naprašymas išliko rankraštyje, kuris atiteko Plocko kated­\nros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­\nno rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi\nbūti knyga, parašyta slavų kalba, bet graikiškomis raidė­\nmis2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

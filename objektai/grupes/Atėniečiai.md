@@ -27,45 +27,6 @@ media_all_json: |-
 
 Pasak Narbuto cituojamo Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak Narbuto cituojamo Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Herodotas liudija, kad egiptiečiai tam tikrą žalčių rūšį lai­
-    kė dievaičiais. Pasak Plutarcho, pas atėniečius prijaukinti žal­
-    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
-    vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
-    nėms apsireikšdavo žalčiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172400
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Jų mitologijoje buvo kažko­
-    kia mitinė būtybė, vadintaBrehkina, tai yra rėksne. Pasak Sten-
-    derio, atseit tai buvusi namų senė, sergėjanti naminius žalčius
-    ir rupūžes; ji aprėkdavusi kiekvieną įeinantį, kad nesumindy-
-    tų pieno karalienės.
-    J. F. R. kronika mini tokią rupūžę, užaugusią nepaprasto
-    dydžio, išmaitintą pienu; ji išdarinėjusi neapsakomus dalykus.
-  citata_rodoma: "Herodotas liudija, kad egiptiečiai tam tikrą žalčių rūšį lai­\nkė dievaičiais. Pasak Plutarcho, pas atėniečius prijaukinti žal­\nčiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­\nvo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­\nnėms apsireikšdavo žalčiu."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189512"></a>
@@ -91,3 +52,23 @@ Pasak Narbuto cituojamo Plutarcho, atėniečių prijaukinti žalčiai dalyvaudav
 - susijęs iš [[objektai/grupes/Romėnai.md#claim-t-188326|Romėnai]]: Narbutas nurodė, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu.
 - susijęs iš [[objektai/grupes/Senovės romėnai.md#claim-t-189372|Senovės romėnai]]: Narbutas rašo, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu.
 - susijęs iš [[objektai/paprociai/Šventųjų žalčių laikymas namuose, maitinimas ir aukos.md#claim-t-189792|Šventųjų žalčių laikymas namuose, maitinimas ir aukos]]: Narbutas žalčių garbinimą senovėje vaizdavo kaip visuotinį reiškinį, minėdamas indus, chaldėjus, egiptiečius, persus, graikus, romėnus ir kitas tautas.
+## Citatos
+
+- id: c-172400
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Herodotas liudija, kad egiptiečiai tam tikrą žalčių rūšį lai­
+    kė dievaičiais. Pasak Plutarcho, pas atėniečius prijaukinti žal­
+    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
+    vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
+    nėms apsireikšdavo žalčiu.
+  citata_rodoma: "Herodotas liudija, kad egiptiečiai tam tikrą žalčių rūšį lai­\nkė dievaičiais. Pasak Plutarcho, pas atėniečius prijaukinti žal­\nčiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­\nvo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­\nnėms apsireikšdavo žalčiu."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

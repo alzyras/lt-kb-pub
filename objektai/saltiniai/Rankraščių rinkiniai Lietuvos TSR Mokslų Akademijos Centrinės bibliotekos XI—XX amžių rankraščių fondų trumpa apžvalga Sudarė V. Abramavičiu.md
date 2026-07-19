@@ -7,12 +7,12 @@ datos:
   - '1963 m.'
 date_start: '1963'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,39 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX amžių rankraščių fondų trumpa apžvalga / Sudarė V.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'V. Abramavičius sudarė „Rankraščių rinkinius“, išleistus Vilniuje 1963 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX
-    amžių rankraščių fondų trumpa apžvalga / Sudarė V. Abramavičius.—V., 1963.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61899
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
-    šviesoje.—K., 1935.
-    Vydūnas. Sieben Hundert Jahre deutsch-litauischer Bezie-Orden — Voigt J. Geschichte
-    Preussens, Bd.
-  citata_rodoma: "Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX\namžių rankraščių fondų trumpa apžvalga / Sudarė V. Abramavičius.—V., 1963."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -85,3 +52,21 @@ Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijo
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną bibliografinį sakinį."
   pagrindžia:
     - c-61899
+
+## Citatos
+
+- id: c-61899
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX
+    amžių rankraščių fondų trumpa apžvalga / Sudarė V. Abramavičius.—V., 1963.
+  citata_rodoma: "Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX\namžių rankraščių fondų trumpa apžvalga / Sudarė V. Abramavičius.—V., 1963."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

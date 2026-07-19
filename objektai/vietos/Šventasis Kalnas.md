@@ -49,12 +49,10 @@ Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo 
   pagrindžia:
     - c-170632
 
-## Citatos
-
-- id: c-170632
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo Grigorijaus palaimintas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Mindaugą nužudžius, Vaišvilkas išsigando to paties
     likimo, pabėgo j Pinską ir ten gyveno. O Treniota
@@ -65,6 +63,28 @@ Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo 
     čion, pasidalysime Mindaugo žemę ir turtą." Tajam
     pas jį atvažiavus, Tautvilą ir ėmė galvoti, kaip Trenio­
     tą nužudyti, o Treniota tą patį galvojo apie Tautvilą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-170632
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
+    Paskiau leidosi kelionėn į Poionos6  vienuolyną pas
+    5 6
+
+    ## Puslapis 52
+
+    Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­
+    lyne trejus metus. Iš ten iškeliavo j Šventąjį Kalną 7  ir
+    buvo Grigorijaus palaimintas.
   citata_rodoma: "Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų. \nPaskiau leidosi kelionėn į Poionos6  vienuolyną pas\n5 6\n\n## Puslapis 52\n\nGrigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­\nlyne trejus metus. Iš ten iškeliavo j Šventąjį Kalną 7  ir \nbuvo Grigorijaus palaimintas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

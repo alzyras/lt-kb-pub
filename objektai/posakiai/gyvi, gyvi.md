@@ -65,16 +65,7 @@ Garsinis vaizdinys, užfiksuotas kaip atpažįstama trumpa formulė.
   puslapiai: "p. 17 (PDF 15)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 17 (PDF 15)."
   citata_originali: |
-    Darbas tęsiasi be palio­
-    vos ir amžinai.
-    Kitėja ir gyvoji gamta.
-    Seniau, eidamas vilnijančiais augančių
-    javų laukais, žmogus nuolat girdėdavo griežlių, putpelių ir vyturių
-    giesmes; einant ganyklomis ir pievomis, pempės perdėm apie jį su­
-    kinėdavo krikštaudamos ,,gyvi, gyvi“ ;
-    šlaituose giedodavo skambiais
-    balsais lakštingalos, grįčios ir klėties pastogėse, prie kiekvienos geg­
-    nės, būdavo po kregždės lizdą.
+    einant ganyklomis ir pievomis, pempės perdėm apie jį sukinėdavo krikštaudamos ,,gyvi, gyvi“ ;
   citata_rodoma: "einant ganyklomis ir pievomis, pempės perdėm apie jį sukinėdavo krikštaudamos ,,gyvi, gyvi“ ;"
   statusas: verified
   atnaujinta: "2026-07-12 02:45"

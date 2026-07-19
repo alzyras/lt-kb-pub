@@ -22,15 +22,15 @@ datos:
   - '2026 m.'
 date_start: '650'
 date_end: '2026'
-amziai:
-  - 'VII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - upė
   - valstybė
   - vieta
+amziai:
+  - 'VII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -307,15 +307,22 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 <a id="claim-t-188878"></a>
 - t-015
   teiginys: "Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Danija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švedija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Danija: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedija\" parinktas kaip owner_note_path. Targetas \"Danija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
-    - c-171765
+    - c-171767
 
 <a id="claim-t-188879"></a>
 - t-006
@@ -605,87 +612,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš Rusija: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
 - susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192293|judančios žemės sluoksniai]]: Narbutas aiškina, kad Autorius „judančios žemės sluoksnius“ sieja su naujais, giliais, vietomis vandens užtvindytais sluoksniais.
-## Reikšmingi paminėjimai
-- c-010
-  santrauka: 'Švedijos karalius atsisakė siūlomos karo sąjungos, bijodamas galimo Maskvos puolimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Neilgai trukus ten nu­
-    vyko su panašia užduotimi Žemaitijos vyskupas, tačiau
-    nei jo pastangos, nei karaliaus autoritetas nesutramdė
-    pasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­
-    das, pakvietė į karo sąjungininkus Švedijos karalių.
-    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
-    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
-    ros, Augustas laiškais stengėsi sutaikyti švedus bei
-    maskvėnus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-011
-  santrauka: 'Teodoras Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare ir mūšyje prie Abo miesto buvo kontūzytas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
-    siliepė sveikatai -  jis apkurto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-012
-  santrauka: 'Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    416
-
-    ## Puslapis 416
-
-    giminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,
-    jie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­
-    rodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­
-    mo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­
-    kėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios
-    žmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau
-    bendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­
-    tykiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-013
-  santrauka: 'Narbutas rašė, kad Švedijoje vyriausiasis žynys ir teisėjas dėl savo pareigų laikė save aukščiausiuoju karaliumi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kaip tik
-    Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
-    jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
-    raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-016
-  santrauka: 'Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Taip pat skaityki­
-    te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
-    tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­
-    rijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -
-    P.' 143-167.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-112473
@@ -902,23 +828,15 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ilgainiui įsidrąsino net penktadieniais
-    valgyti mėsą ir kitus raginti šitaip elgtis, dėl to kartą
-    vargais negalais išnešė sveiką kailį užpultas paprastų
-    žmonelių. Bijodamas čia padėti galvą, turėjo sprukti
-    iš miesto, tačiau pasėta sėkla netgi ir be jo davė tokį
-    derlių, kad per trumpą laiką visi turtingesni miestiečiai
-    pakeitė tikėjimą.
-    Tos pačios priežastys sukėlė neramumus Livonijoje.
-    Į Liuterio sektą perėjo Livo-
-    T os p a č io s p a sk a to s
-    nijos riterių magistras Vilhel-
-    su k e lia
-    n era m u m u s
-    mas Fiurstenbergas, atvirai
-    L iv o n ijo je
-    atsižadėdamas beveik su visu
-    ordinu Romos tikėjimo.
+    Neilgai trukus ten nu­
+    vyko su panašia užduotimi Žemaitijos vyskupas, tačiau
+    nei jo pastangos, nei karaliaus autoritetas nesutramdė
+    pasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­
+    das, pakvietė į karo sąjungininkus Švedijos karalių.
+    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
+    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
+    ros, Augustas laiškais stengėsi sutaikyti švedus bei
+    maskvėnus.
   citata_rodoma: "Neilgai trukus ten nu­\nvyko su panašia užduotimi Žemaitijos vyskupas, tačiau\nnei jo pastangos, nei karaliaus autoritetas nesutramdė\npasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­\ndas, pakvietė į karo sąjungininkus Švedijos karalių.\nKadangi švedų valdovas atsisakė siūlomos sąjungos,\nbūgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­\nros, Augustas laiškais stengėsi sutaikyti švedus bei\nmaskvėnus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -933,15 +851,10 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tuo me­
-    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
-    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
-    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
-    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
-    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
-    kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
-    kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
-    mitologiją.
+    T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
+    siliepė sveikatai -  jis apkurto.
   citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -950,7 +863,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-015
     - t-022
 
 - id: c-171767
@@ -958,41 +870,36 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Hunc index nota utrimque inustulata emittebat sin-
-    gidum singulis territorii quadrantibus, ut per manus vicinorum
-    extraditus et facti notitiam simul et comparandi maneatum cir­
-    cumferret: quomodo non juditia tantum, sed et promiscue om­
-    nes conventus publici indicti fuerunt, ubi de casu aliquo extra
-    ordinem deliberandum erat, aut judicandum. Erat autem hic
-    baculus nunciatorius effectus ad modum rei, de qua in Conven­
-    tu tractatio instituenda fuit, ut, si res sacra, crux lignea, si homi­
-    cidium, ligneum telum, aut securis (Budlafla senuosiuose šve­
-    dų įstatymuose būdavo vadinamas šaukimas į teismą papras­
-    tosiose bylose, panaudojant lazdą, kuri buvo praminta žinių
-    arba pranešėjo, pasiuntinio lazda. Šią lazdą su išdegintu iš abie­
-    jų pusių ženklu teisėjas išsiųsdavo skirtingą atskiriems terito­
-    rijos gyventojams, kad žinia apie įvykį ir kartu įspėjimas būti
-    pasiruošusiems pasklistų aplinkui.
+    416
+
+    ## Puslapis 416
+
+    giminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,
+    jie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­
+    rodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­
+    mo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­
+    kėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios
+    žmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau
+    bendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­
+    tykiui.
   citata_rodoma: "416\n\n## Puslapis 416\n\ngiminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,\njie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­\nrodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­\nmo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­\nkėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios\nžmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau\nbendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­\ntykiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
 - id: c-171768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šitaip būdavo paskelbiami
-    ne vien teismai, bet ir be skirtumo visokios viešosios sueigos;
-    ten turėdavo būti svarstomi kokie nors neeiliniai klausimai
-    arba bylos. Ši pranešėjo lazda būdavo pažymėta priklausomai
-    nuo dalyko, kuris turėdavo būti svarstomas sueigoje, kaip an­
-    tai, jeigu tikėjimo dalykas, - mediniu kryžiumi; jeigu žmogžu­
-    dystė, - medine strėle arba kirviu). Naudojimasis ta budlafla
-    kilęs iš seniausių stabmeldystės laikų, nes tą patį paprotį ran-
+    Kaip tik
+    Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
+    jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
+    raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
   citata_rodoma: "Kaip tik\nŠvedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­\njas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­\nraliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1040,13 +947,11 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Viso veikalo leidimą, atsi­
-    žvelgiant į 1830 metų sausio 8 dienos įstatymą apie autorių
-    teises, atidaviau leidėjo nuosavybėn. Pastarasis po to, kai bus
-    gautas cenzūros sutikimas pardavinėti, privalo už kiekvieną
-    tomą sumokėti 300 rublių sidabru honoraro. Taip pat iš karto
-    po išspausdinimo dar turi duoti po 60 kiekvieno tomo egzem­
-    pliorių“14.
+    Taip pat skaityki­
+    te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
+    tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­
+    rijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -
+    P.' 143-167.
   citata_rodoma: "Taip pat skaityki­\nte: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­\ntas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­\nrijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -\nP.' 143-167."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

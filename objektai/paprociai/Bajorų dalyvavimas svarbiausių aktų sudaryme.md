@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Bajorų dalyvavimas svarbiausių aktų sudaryme
 
 ## Santrauka
@@ -90,15 +91,6 @@ Nenurodyta
   pagrindžia:
     - c-70302
 
-<a id="claim-t-71795"></a>
-- t-001
-  teiginys: "Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-70300
-
 <a id="claim-t-71796"></a>
 - t-007
   teiginys: "1401 m. Vilniaus susitarimuose Lietuvos bajorai pirmą kartą unijų istorijoje surašė atskirą aktą."
@@ -117,6 +109,11 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pirminio teiginio citata nepalaiko, bet joje yra tinkamas faktas apie Lietuvos bajorų aktą."
   pagrindžia:
     - c-05408
+
+## Ryšiai
+
+### Teminiai klasteriai
+- valdovas
 
 ## Citatos
 
@@ -196,12 +193,10 @@ Nenurodyta
   citata_rodoma: "Lenkų ponų\ntaryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­\nkams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-70302
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -81,10 +81,12 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
   pagrindžia:
     - c-174470
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie vakarinę Boristenio pusę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174469
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­
     novės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),
@@ -97,32 +99,6 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
     apylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad
     jų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris
     ir Naruševičius1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174469
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Atvedėme keliavusią gelonų-budinų tautą į Sniatyno
-    apylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad
-    jų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris
-    ir Naruševičius1. Labiausiai dėl to, kad ten randame tik­
-    rai lietuviškų upių pavadinimų, pasikartojančių Lietuvos
-    žemėje: Lunia pakartoja Lunią, arba Lunają, įtekančią iš
-    kairiojo kranto į Nemuną Gardino apskrityje; Marocz,
-    Maročė, panaši į Merecz, Merkį, kuris srūva Trakų vals­
-    čiuje ir iš dešinės pusės įteka į Nemuną. Taip pat ir tre­
-    čios tenykštės upės, į Lunią įtekančios Nočios, pavadini­
-    mas sutampa su pavadinimu dviejų upelių, plaukiančių
-    per Lydos apskritį; vienas jų už Rodūnios įteka į Ditvą,
-    antras — į Pelesą tarp Pravožos ir Dubičių.
   citata_rodoma: "1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­\nnovės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),\n212\n\n## Puslapis 210\n\n215\nAtvedėme keliavusią gelonų-budinų tautą į Sniatyno\napylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad\njų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris\nir Naruševičius1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

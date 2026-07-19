@@ -57,11 +57,7 @@ Vilniaus Aušros broma šiame šaltinyje yra šventovė ar miesto vartai.
   puslapiai: "p. 137 (PDF 135)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 137 (PDF 135)."
   citata_originali: |
-    Vaikščiodavo dar ir kitokių. Kitas, įėjęs į grįčią, pasako pagarbi­
-    nimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki
-    nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčio-
-    je užsilaiko. Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­
-    niaus Aušros bromos Dievo Motinos.
+    Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­niaus Aušros bromos Dievo Motinos.
   citata_rodoma: "Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­niaus Aušros bromos Dievo Motinos."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"

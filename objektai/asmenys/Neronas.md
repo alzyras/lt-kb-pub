@@ -50,19 +50,6 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   pagrindžia:
     - c-174100
 
-<a id="claim-t-194918"></a>
-- t-002
-  teiginys: "Neronas sugrįžo į Romą."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-174100
-
 <a id="claim-t-197779"></a>
 - t-003
   teiginys: "2 Vidit enim eques Romanus missus ad id compar atidų m a Ju liana curante gladiatorium mumis Neronis principis, qui haec commercis (prekybos kelio pozicijos) ei littora peragravit, tanta copia investa, ut retta arcendis feris podium protegentia succinis."
@@ -95,27 +82,6 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   santrauka: 'Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug gintaro, norėdamas Romai parodyti prašmatnų reginį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Čia ir gimė Melas pasaka apie ilgaau­
-    sius žmones Satmali, Plinijaus vadintus Panotii1.
-    176
-    Krikščioniškosios eros 54 ar 55 metais imperatorius
-    Neronas, norėjęs parodyti Romai ypač prašmatnų reginį,
-    sumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­
-    mas. Dėl to iš Karnunto gyvenvietės prie Dunojaus buvo
-    išsiųstas kilmingas romėnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174100
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
     Daugiau smulkmenų apie
     šią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į
     Romą. Pasaulio sostinę didžiai nustebino neregėta pra­
@@ -125,6 +91,27 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
     retų egzempliorių matytas vienas gintaro gabalas, svėręs
     13 romėniškų svarų, arba apie pusę dešimties mūsų sva­
     rų2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-174100
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Čia ir gimė Melas pasaka apie ilgaau­
+    sius žmones Satmali, Plinijaus vadintus Panotii1.
+    176
+    Krikščioniškosios eros 54 ar 55 metais imperatorius
+    Neronas, norėjęs parodyti Romai ypač prašmatnų reginį,
+    sumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­
+    mas. Dėl to iš Karnunto gyvenvietės prie Dunojaus buvo
+    išsiųstas kilmingas romėnas.
   citata_rodoma: "Čia ir gimė Melas pasaka apie ilgaau­\nsius žmones Satmali, Plinijaus vadintus Panotii1.\n176\nKrikščioniškosios eros 54 ar 55 metais imperatorius\nNeronas, norėjęs parodyti Romai ypač prašmatnų reginį,\nsumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­\nmas. Dėl to iš Karnunto gyvenvietės prie Dunojaus buvo\nišsiųstas kilmingas romėnas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -133,7 +120,6 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-177314
   autorius: "Teodoras Narbutas"

@@ -7,14 +7,14 @@ datos:
   - '1396 m.'
 date_start: '1396'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - invazija
   - karas
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,12 +90,10 @@ Nenurodyta
   pagrindžia:
     - c-169086
 
-## Citatos
-
-- id: c-169085
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Švitrigaila kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą, o vasario 6 d. kryžiuočiai nuniokojo Lietuvą ir Žemaitiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     gi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,
     Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­
@@ -112,19 +110,14 @@ Nenurodyta
     kunigaikštis Teodoras San-
     k u n ig a ik ščiu
     guška.
-  citata_rodoma: "Tuo metu jau galima buvo\nmanyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau\nnerimo Švitrigaila. Matydamas, kad Vytautą lydi pa­\nstovi sėkmė, jis niršo ir siuto, galop ėmėsi ryžtingų\nžingsnių, pasitelkdamas sve-\nK ry žiu o č ia i\nn io k o ja\ntimšalių ginklą. Jis nuolatos\nL ie tu v ą\nkurstė Prūsijos bei Livonijos\nkryžiuočių magistrus prieš\nVytautą. Vasario 6 šie žiauriai nuniokojo Lietuvą, o po\nto Žemaitiją."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-169086
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Vasario 6 d. kryžiuočiai žiauriai nuniokojo Lietuvą, o paskui Žemaitiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ta pačia proga ka­
     ralius bei Vytautas susitarė, kad Severesko kunigaikš­
@@ -150,6 +143,61 @@ Nenurodyta
     kryžiuočių magistrus prieš
     Vytautą. Vasario 6 šie žiauriai nuniokojo Lietuvą, o po
     to Žemaitiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169085
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tuo metu jau galima buvo
+    manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau
+    nerimo Švitrigaila. Matydamas, kad Vytautą lydi pa­
+    stovi sėkmė, jis niršo ir siuto, galop ėmėsi ryžtingų
+    žingsnių, pasitelkdamas sve-
+    K ry žiu o č ia i
+    n io k o ja
+    timšalių ginklą. Jis nuolatos
+    L ie tu v ą
+    kurstė Prūsijos bei Livonijos
+    kryžiuočių magistrus prieš
+    Vytautą. Vasario 6 šie žiauriai nuniokojo Lietuvą, o po
+    to Žemaitiją.
+  citata_rodoma: "Tuo metu jau galima buvo\nmanyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau\nnerimo Švitrigaila. Matydamas, kad Vytautą lydi pa­\nstovi sėkmė, jis niršo ir siuto, galop ėmėsi ryžtingų\nžingsnių, pasitelkdamas sve-\nK ry žiu o č ia i\nn io k o ja\ntimšalių ginklą. Jis nuolatos\nL ie tu v ą\nkurstė Prūsijos bei Livonijos\nkryžiuočių magistrus prieš\nVytautą. Vasario 6 šie žiauriai nuniokojo Lietuvą, o po\nto Žemaitiją."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-169086
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vasario 6 šie žiauriai nuniokojo Lietuvą, o po
+    to Žemaitiją. Vytautas, ligi šiol laikęs savo kariuomenę
+    Rusioje žiemos stovykloje, negalėjo su keliais būriais,
+    jį palydėjusiais į Lietuvą, im-
+    1396 m e ta i
+    tis jokių veiksmingesnių žy­
+    gių: nei niokojančių atremti,
+    nei traukiančių namo vytis. Norėdamas vis dėlto atsi­
+    lyginti priešui už tą antpuolį, jis, kuo greičiausiai su­
+    telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus,
+    užėmė
+    Daugpilį
+    Dauguvos
+    V y ta u ta s  n io k o ja  Li-
+    pakrantėje.
   citata_rodoma: "Vasario 6 šie žiauriai nuniokojo Lietuvą, o po\nto Žemaitiją. Vytautas, ligi šiol laikęs savo kariuomenę\nRusioje žiemos stovykloje, negalėjo su keliais būriais,\njį palydėjusiais į Lietuvą, im-\n1396 m e ta i\ntis jokių veiksmingesnių žy­\ngių: nei niokojančių atremti,\nnei traukiančių namo vytis. Norėdamas vis dėlto atsi­\nlyginti priešui už tą antpuolį, jis, kuo greičiausiai su­\ntelkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus,\nužėmė\nDaugpilį\nDauguvos\nV y ta u ta s  n io k o ja  Li-\npakrantėje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

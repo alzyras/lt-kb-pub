@@ -119,12 +119,9 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   pagrindžia:
     - c-175126
 
-## Citatos
-
-- id: c-175125
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Bet manęs
     toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
@@ -134,6 +131,37 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
     sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis. Si
     skrynia būdavo naudojama ir kelionės daiktams, ginklams susidė­
     ti; tai buvo pačių vertingiausių daiktų saugykla (хранилище).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+
+- c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Iš čia atsiradęs žodis Za-kon, įstatymas. Bet manęs
+    toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
+    atkreipiau į žodį Kontyna. Aš pats piliečių sutartyse, parašytose
+    Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-
+    тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo
+    sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+
+## Citatos
+
+- id: c-175125
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Si skrynia būdavo naudojama ir kelionės daiktams, ginklams susidėti; tai buvo pačių vertingiausių daiktų saugykla (хранилище).
   citata_rodoma: "Si skrynia būdavo naudojama ir kelionės daiktams, ginklams susidėti; tai buvo pačių vertingiausių daiktų saugykla (хранилище)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -149,12 +177,7 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš čia atsiradęs žodis Za-kon, įstatymas. Bet manęs
-    toks aiškinimas netenkina, todėl slavų senienų tyrinėtojų dėmesį
-    atkreipiau į žodį Kontyna. Aš pats piliečių sutartyse, parašytose
-    Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-
-    тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo
-    sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis.
+    Aš pats piliečių sutartyse, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Контьma — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis.
   citata_rodoma: "Aš pats piliečių sutartyse, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Контьma — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

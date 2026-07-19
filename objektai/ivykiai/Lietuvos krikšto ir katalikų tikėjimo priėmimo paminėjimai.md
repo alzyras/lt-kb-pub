@@ -8,14 +8,14 @@ datos:
   - '1386 m.'
 date_start: '1240'
 date_end: '1386'
-amziai:
-  - 'XIII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - krikštas
   - ivykis
+amziai:
+  - 'XIII'
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -158,28 +158,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  santrauka: 'Narbutas rašo, kad Vladislovo Jogailos ir jo brolių rūpesčiu Bažnyčia Lietuvoje priėmė 5 635 500 atverstų stabmeldžių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasakiau „stebuklingu būdu“, kadangi apaš­
-    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
-    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
-    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
-    patrauklumas. Lenkijos karalienės Jadvygos ranka, paduota
-    Vladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­
-    rius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija
-    jo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­
-    nyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie
-    didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
-    jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
-    džių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-172485
@@ -214,25 +192,18 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Nors sumišęs su stabmeldyste, klai­
-    dingas ir absurdiškas, vis dėlto tai yra tikėjimas mūsų viešpa­
-    čiu Jėzumi Kristumi, jo mirtimi ir prisikėlimu. Autorius dėsto
-    ir daugiau panašių esminių pamokymų, svarbių tam amžiui.
-    Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­
-    delis lietuvių svetingumas, darbštumas, namų gyvenimo do­
-    rybės.
-    Iš šito rankraščio pasisemiame žinių apie pirminį krikščio­
-    nybės paplitimą Lietuvoje; XI amžiuje krikščionybė tikriau­
-    siai buvo paplitusi tik labai menkai, nes lietuvių vyriausiųjų
-    žynių valdžia gyvavo nepajudinama iki XIII amžiaus vidurio;
-    tuomet prūsai suklupo prieš kryžiuočius, panašiai Livonija su
-    Kuršu, pačioje Lietuvoje tų pačių riterių puolimai darėsi bai­
-    sesni, lietuviai kunigaikščiai savo žvilgsnius ėmė labiau kreipti
-    į rusų kraštus, o jų savitarpio kovos sudrebino vidinę valstybės
-    sandarą; pagaliau užkariavus Minską, Naugarduką, Pinską ir
-    dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
-    kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
-    Rusia.
+    Pasakiau „stebuklingu būdu“, kadangi apaš­
+    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
+    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
+    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
+    patrauklumas. Lenkijos karalienės Jadvygos ranka, paduota
+    Vladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­
+    rius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija
+    jo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­
+    nyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie
+    didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
+    jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
+    džių.
   citata_rodoma: "Pasakiau „stebuklingu būdu“, kadangi apaš­\ntališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­\nkinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių\nriterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus\npatrauklumas. Lenkijos karalienės Jadvygos ranka, paduota\nVladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­\nrius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija\njo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­\nnyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie\ndidžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri\njų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­\ndžių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

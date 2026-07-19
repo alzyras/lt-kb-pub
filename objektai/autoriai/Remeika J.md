@@ -61,21 +61,6 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   pagrindžia:
     - c-87575
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'J. Remeikos darbe minima, kad Nemuno senvagė dešiniajame krante priešais Ragainę vadinama Merguva.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    99), liaudyje
-    žinomos aukos Ragiui, Ragei (Dovydaitis Pr., Biržiška M., Auka, p. 153—154). Nemuno
-    senvagė deš. krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių
-    gyvenvietė (Remeika J., Ką kalneliai..., p. 15).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-87574
@@ -101,13 +86,10 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai
-    nesuvokiami.
-    182 (177). Apie Ragainės pilies užkariavimą
-    Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir
-    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
-    Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
-    yra Ragainės pilis, ją užpuolė468.
+    99), liaudyje
+    žinomos aukos Ragiui, Ragei (Dovydaitis Pr., Biržiška M., Auka, p. 153—154). Nemuno
+    senvagė deš. krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių
+    gyvenvietė (Remeika J., Ką kalneliai..., p. 15).
   citata_rodoma: "99), liaudyje\nžinomos aukos Ragiui, Ragei (Dovydaitis Pr., Biržiška M., Auka, p. 153—154). Nemuno\nsenvagė deš. krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių\ngyvenvietė (Remeika J., Ką kalneliai..., p. 15)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

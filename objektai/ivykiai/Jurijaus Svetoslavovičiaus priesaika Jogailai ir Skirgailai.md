@@ -102,19 +102,12 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Glėbas pateko pas
-    kryžiuočius ne per Veišiškių—Wissewaldės kautynes, o buvo Lietu­
-    vos kariuomenės paimtas 1386 m, per Vechros—Mstislavlio mūšį ir,
-    matyti, 1390 m. pradžioje Vytauto perduotas kryžiuočiams kaip,
-    įkaitas.
-    17 Kalbama apie Algirdo sūnaus Konstantino sūnų Glėbą, apie
-    kurį nieko daugiau nežinoma. Lietuvos metraščių TS nuorašuose
-    vietoj Glebo minimas Vasilijus, kuris buvo antrasis Konstantino
-    Algirdaičio sūnus, dar gyvenąs 1417 m.
-    18 Kunigaikščio Jono, Levo sūnaus (tėvo vardą be pravardės
-    nurodo Lietuvos metraščių PS nuorašai) Tetos, arba Tepliaus (taip
-    įis vadinamas nuoraše „Origo regis Jagyello", PSRL, XVII, p. 216).
-    gyvenimas visiškai nežinomas.
+    Smolensko kunigaikščio sūnus Jurijus, patekęs ties Mstislav-
+    llu į nelaisvę, buvo nugabentas į Krokuvą. Č ia 1386,V.20 jis pri­
+    siekė Jogailai ir Skirgailai vasalo ištikimybės priesaiką. V.22 su
+    juo buvo sudaryta sutartis, patvirtinta Vilniuje 1386.1X.16, kuria
+    Ju riju s Svetoslavovičlus įsipareigojo neberem ti Polocko kunigaikš­
+    čio Andriaus Algirdalčio.
   citata_rodoma: "Smolensko kunigaikščio sūnus Jurijus, patekęs ties Mstislav- \nllu į nelaisvę, buvo nugabentas į Krokuvą. Č ia 1386,V.20 jis pri­\nsiekė Jogailai ir Skirgailai vasalo ištikimybės priesaiką. V.22 su \njuo buvo sudaryta sutartis, patvirtinta Vilniuje 1386.1X.16, kuria \nJu riju s Svetoslavovičlus įsipareigojo neberem ti Polocko kunigaikš­\nčio Andriaus Algirdalčio."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

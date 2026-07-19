@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Romovės šventykla
 
 ## Santrauka
@@ -95,7 +96,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
 <a id="claim-t-194749"></a>
 - t-005
   teiginys: "Tad paskaitykime dabar pačios seno vinės šventyklos aprašymą."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,7 +104,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171793
     - c-171794
 
 <a id="claim-t-197477"></a>
@@ -142,38 +142,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   pagrindžia:
     - c-179211
 - susijęs iš Sipapilis: Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Narbutas rašo, kad Romovės šventyklą supo apeigų aikštė, kurioje buvo sukrautos malkų stirtos šventajai ugniai palaikyti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Priešais ąžuolą,
-    angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos
-    aukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­
-    rioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla
-    buvo Adytum. Aikštėje buvo sukrautos stirtos malkų šventajai
-    ugniai palaikyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Tad paskaitykime dabar pačios seno vinės šventyklos aprašymą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tad paskaitykime dabar pačios seno­
-    vinės šventyklos aprašymą. Plačios lygumos, užliejamos dvie­
-    jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
-    neišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­
-    pis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis
-    šventyklos kampus7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-171793
@@ -197,7 +165,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
 
 - id: c-171794
   autorius: "Teodoras Narbutas"
@@ -244,14 +211,12 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    puikiais statiniais9 10 1, kurių buvo Prūsijoje, kol kryžiuočiai su­
-    griovė.
-    Kaune tarp kitų pojėzuitinių pastatų yra ir namo, sumūryto
-    senoviniu būdu ir iš senovinių medžiagų, griuvėsiai. Pasakoja­
-    ma, jog tai būta lietuvių dievui Perkūnui skirtos šventovės. Kai
-    XVII amžiaus pabaigoje jėzuitai atsikraustė į Kauną, lai iš pra­
-    džių įsigijo tik du pastatus: viename palys apsigyveno, o kitą per­
-    statė į bažnyčią.
+    Priešais ąžuolą,
+    angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos
+    aukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­
+    rioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla
+    buvo Adytum. Aikštėje buvo sukrautos stirtos malkų šventajai
+    ugniai palaikyti.
   citata_rodoma: "Priešais ąžuolą,\nangos link, sienoje stovėjo aukurai, kuriuose buvo deginamos\naukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­\nrioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla\nbuvo Adytum. Aikštėje buvo sukrautos stirtos malkų šventajai\nugniai palaikyti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -266,14 +231,12 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bet kadangi Rikajoth prūsiškai reiškia religinę sosti­
-    ne, tad tai turėjo būti vyriausiojo žynio buveinė, o ne šventasis
-    miestas. Panašių vietovių yra Lietuvoje, Žemaitijoje ir Livoni­
-    joje - Rykantai (Rykonty), Rykainiai (Rikojnie; gal Rukainiai? -
-    R. J.) ir panašios.
-    Senprūsių kalbojeR/Uv, arbaRyks, reiškė valstybę, Rikaus-
-    na - valdžią, Rikys - valdovą, Rykyans - viešpatavimą, Ryeki -
-    karalystę, Rikint - valdyti.
+    Tad paskaitykime dabar pačios seno­
+    vinės šventyklos aprašymą. Plačios lygumos, užliejamos dvie­
+    jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
+    neišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­
+    pis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis
+    šventyklos kampus7.
   citata_rodoma: "Tad paskaitykime dabar pačios seno­\nvinės šventyklos aprašymą. Plačios lygumos, užliejamos dvie­\njų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,\nneišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­\npis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis\nšventyklos kampus7."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

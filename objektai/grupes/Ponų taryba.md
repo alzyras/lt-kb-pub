@@ -159,11 +159,12 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
 <a id="claim-t-199011"></a>
 - t-002
   teiginys: "Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba ir seimai."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-19 19:01"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-181374
+    - c-181366
+    - c-181371
 
 <a id="claim-t-199012"></a>
 - t-011
@@ -191,7 +192,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
 <a id="claim-t-199013"></a>
 - t-010
   teiginys: "Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -376,19 +377,16 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   puslapiai: "PDF 125"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 125."
   citata_originali: |
-    Ir didysis kunigaikštis Kazimieras labai
-    susirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­
-    sios Kunigaikštystės, ir tuoj pat rašė laiškus į visas sa­
-    vo valdas, visiems Didžiosios Kunigaikštystės pareigū­
-    nams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­
-    žinti Žemaičius savo tėvonijon, kaip anksčiau kad
-    priklausė. Sutelkė nemenkas lietuvių pajėgas, patrau­
-    kė į Žemaičius ir apsistojo Kaune, o žemaičiai sujojo
-    ir sustojo anapus Nevėžio, ketindami stoti į mūšį su
-    didžiuoju kunigaikščiu Kazimieru IS.
-    Ir tuomet kreipėsi į didįjį kunigaikštį Kazimierą jo
-    globėjas Jonas Goštautas, sakydamas: „Valdove, kuni­
-    gaikšti Kazimierai.
+    Ir jis sutiko važiuoti
+    su jais ir be lenkų ponų sutikimo nusileido iš Sando-
+    miro pilies pas lietuvių ponus, ir tiedu ponai greitai įį
+    paėmė ir su didele pagarba pristatė didikams į Brastą H .
+    Ir ten Ponų Taryba — kunigaikštis Jurgis Alšėniškis,
+    ir Vilniaus kaštelionas, 2emaičių seniūnas Kęsgailą, ir
+    Jonas Goštautas, ir Mikalojus Nemiravičius, ir krašto
+    maršalas Astikas 1 5  — pakėlė karalaitį Kazimierą į Lie­
+    tuvos didžiuosius kunigaikščius l6 . Tuo metu jis turėjo
+    ne daugiau, kaip trylika metų.
   citata_rodoma: "Ir jis sutiko važiuoti \nsu jais ir be lenkų ponų sutikimo nusileido iš Sando- \nmiro pilies pas lietuvių ponus, ir tiedu ponai greitai įį \npaėmė ir su didele pagarba pristatė didikams į Brastą H . \nIr ten Ponų Taryba — kunigaikštis Jurgis Alšėniškis, \nir Vilniaus kaštelionas, 2emaičių seniūnas Kęsgailą, ir \nJonas Goštautas, ir Mikalojus Nemiravičius, ir krašto \nmaršalas Astikas 1 5  — pakėlė karalaitį Kazimierą į Lie­\ntuvos didžiuosius kunigaikščius l6 . Tuo metu jis turėjo \nne daugiau, kaip trylika metų."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -407,20 +405,20 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
     taus gimimo tūkstantis keturi šimtai devyniasdešimt
     šeštaisiais didysis kunigaikštis Aleksandras išvyko
-    į Brastą \ o karalius Olbrachtas su jų broliu, karalai­
-    čiu Zigmantu — į Liubliną 5. Paskui abi šalys su visais
-    savo Tarybų ponais suvažiavo į Parčevą 6 dalyvauti sei­
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
     me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
     tais sumanė ir nutarė — visa tai paliko didelė paslap­
-    tis 7, Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
-    vą ®, o didysis kunigaikštis Aleksandras — į Vilnių9.
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
     Septyni tūkstančiai penktaisiais metais nuo pasaulio
     sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
     tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
     ralius Olbrachas sutelkė galybę savo kariuomenės ir
     su visomis Lenkijos karalystės jėgomis, su paruoštais
     žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
-    Steponą l0.
+    Steponą l0 .
   citata_rodoma: "Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais \nsavo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­\nme, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­\ntais sumanė ir nutarė — visa tai paliko didelė paslap­\ntis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­\nvą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .\nSeptyni tūkstančiai penktaisiais metais nuo pasaulio \nsutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­\ntai devyniasdešimt septintųjų metų vasarą Lenkijos ka­\nralius Olbrachas sutelkė galybę savo kariuomenės ir \nsu visomis Lenkijos karalystės jėgomis, su paruoštais \nžirgais ir ginklais išžygiavo prieš Moldavijos vaivadą \nSteponą l0 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -468,6 +466,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
 
 - id: c-181367
   redaktorius: "A. Šapoka"
@@ -577,6 +576,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
 
 - id: c-181372
   autorius: "Anoniminis metraštininkas"
@@ -621,20 +621,20 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
     taus gimimo tūkstantis keturi šimtai devyniasdešimt
     šeštaisiais didysis kunigaikštis Aleksandras išvyko
-    į Brastą \ o karalius Olbrachtas su jų broliu, karalai­
-    čiu Zigmantu — į Liubliną 5. Paskui abi šalys su visais
-    savo Tarybų ponais suvažiavo į Parčevą 6 dalyvauti sei­
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
     me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
     tais sumanė ir nutarė — visa tai paliko didelė paslap­
-    tis 7, Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
-    vą ®, o didysis kunigaikštis Aleksandras — į Vilnių9.
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
     Septyni tūkstančiai penktaisiais metais nuo pasaulio
     sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
     tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
     ralius Olbrachas sutelkė galybę savo kariuomenės ir
     su visomis Lenkijos karalystės jėgomis, su paruoštais
     žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
-    Steponą l0.
+    Steponą l0 .
   citata_rodoma: "Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais \nsavo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­\nme, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­\ntais sumanė ir nutarė — visa tai paliko didelė paslap­\ntis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­\nvą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .\nSeptyni tūkstančiai penktaisiais metais nuo pasaulio \nsutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­\ntai devyniasdešimt septintųjų metų vasarą Lenkijos ka­\nralius Olbrachas sutelkė galybę savo kariuomenės ir \nsu visomis Lenkijos karalystės jėgomis, su paruoštais \nžirgais ir ginklais išžygiavo prieš Moldavijos vaivadą \nSteponą l0 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
@@ -659,31 +659,26 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   citata_rodoma: "Taryboje\nbuvo suteikta laisvė kiekvienam visiškai laisvai kal-\nbėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių\npatarimas būtų ir nemalonus jam."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-181375
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   puslapiai: "PDF 125"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 125."
   citata_originali: |
-    Ir didysis kunigaikštis Kazimieras labai
-    susirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­
-    sios Kunigaikštystės, ir tuoj pat rašė laiškus į visas sa­
-    vo valdas, visiems Didžiosios Kunigaikštystės pareigū­
-    nams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­
-    žinti Žemaičius savo tėvonijon, kaip anksčiau kad
-    priklausė. Sutelkė nemenkas lietuvių pajėgas, patrau­
-    kė į Žemaičius ir apsistojo Kaune, o žemaičiai sujojo
-    ir sustojo anapus Nevėžio, ketindami stoti į mūšį su
-    didžiuoju kunigaikščiu Kazimieru IS.
-    Ir tuomet kreipėsi į didįjį kunigaikštį Kazimierą jo
-    globėjas Jonas Goštautas, sakydamas: „Valdove, kuni­
-    gaikšti Kazimierai.
+    Ir jis sutiko važiuoti
+    su jais ir be lenkų ponų sutikimo nusileido iš Sando-
+    miro pilies pas lietuvių ponus, ir tiedu ponai greitai įį
+    paėmė ir su didele pagarba pristatė didikams į Brastą H .
+    Ir ten Ponų Taryba — kunigaikštis Jurgis Alšėniškis,
+    ir Vilniaus kaštelionas, 2emaičių seniūnas Kęsgailą, ir
+    Jonas Goštautas, ir Mikalojus Nemiravičius, ir krašto
+    maršalas Astikas 1 5  — pakėlė karalaitį Kazimierą į Lie­
+    tuvos didžiuosius kunigaikščius l6 . Tuo metu jis turėjo
+    ne daugiau, kaip trylika metų.
   citata_rodoma: "Ir jis sutiko važiuoti \nsu jais ir be lenkų ponų sutikimo nusileido iš Sando- \nmiro pilies pas lietuvių ponus, ir tiedu ponai greitai įį \npaėmė ir su didele pagarba pristatė didikams į Brastą H . \nIr ten Ponų Taryba — kunigaikštis Jurgis Alšėniškis, \nir Vilniaus kaštelionas, 2emaičių seniūnas Kęsgailą, ir \nJonas Goštautas, ir Mikalojus Nemiravičius, ir krašto \nmaršalas Astikas 1 5  — pakėlė karalaitį Kazimierą į Lie­\ntuvos didžiuosius kunigaikščius l6 . Tuo metu jis turėjo \nne daugiau, kaip trylika metų."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"

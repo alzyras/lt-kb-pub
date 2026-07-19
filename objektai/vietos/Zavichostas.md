@@ -87,6 +87,24 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
 - susijęs iš Sanas: Sanas apibūdinamas kaip į Vislą iš dešinės įtekanti upė, esanti apie 15 km aukščiau Zavichosto.
 - susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186707|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Komentare nurodoma, kad tarp lietuvių kunigaikščių J. Dlugošas mini ir Jogailą su Vytautu.
 - susijęs iš Visla: Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Kai visi lietuviai kariai, paėmę po pagalį, me­
+    tė į miestą ir primėtė pilną miestą pagalių, uždegė vi­
+    są Zavichosto miestą6. Ir sudeginę Zavichostą, nužy­
+    giavo prie Opatovo?, sudegino ir išdegino daug kitų
+
+    miestų ir kaimų ligi pat Vislicos8, ir daug ponių bei
+    panelių parsivarė nelaisvėn.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-168618
@@ -130,10 +148,12 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   citata_originali: |
     Kai visi lietuviai kariai, paėmę po pagalį, me­
     tė į miestą ir primėtė pilną miestą pagalių, uždegė vi­
-    są Zavichosto miestą6. Ir sudeginę Zavichostą, nužy­
+    są Zavichosto miestą6 . Ir sudeginę Zavichostą, nužy­
     giavo prie Opatovo?, sudegino ir išdegino daug kitų
 
-    miestų ir kaimų ligi pat Vislicos8, ir daug ponių bei
+    ## Puslapis 85
+
+    miestų ir kaimų ligi pat Vislicos8 , ir daug ponių bei
     panelių parsivarė nelaisvėn.
   citata_rodoma: "Kai visi lietuviai kariai, paėmę po pagalį, me­\ntė į miestą ir primėtė pilną miestą pagalių, uždegė vi­\nsą Zavichosto miestą6 . Ir sudeginę Zavichostą, nužy­\ngiavo prie Opatovo?, sudegino ir išdegino daug kitų\n\n## Puslapis 85\n\nmiestų ir kaimų ligi pat Vislicos8 , ir daug ponių bei \npanelių parsivarė nelaisvėn."
   statusas: verified

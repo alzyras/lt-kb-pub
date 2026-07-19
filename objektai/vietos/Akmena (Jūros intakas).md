@@ -48,14 +48,9 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Plementa), p.
-    Kluniečių ordinas
-    Knivitė, u.
-    Kobrinas
-    Kolainiai (Colayne, Kalaine, p., greičiausiai Jurbarko Bišpilio, Višpilio piliakalnyje)
-    Colm/Kolm
-    Colmelawcken, Collmilawken
-    Colmen (deš.
+    Ašeradė)
+      Akmena (Jūros intakas), u.
+      Akmena (Mituvos intakas), u.
   citata_rodoma: "Ašeradė)\n  Akmena (Jūros intakas), u.\n  Akmena (Mituvos intakas), u."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

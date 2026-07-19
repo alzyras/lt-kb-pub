@@ -135,33 +135,20 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Sužinoję, kad maskvėnai paėmė Brianską, Možaisko
-    kunigaikštis Semionas Ivanovičius bei kunigaikštis Va­
-    silijus Ivanovičius Semiačičius atvyko prie Kontovto"
-    upės pas Maskvos didžiojo kunigaikščio vaivadą Jako­
-    vą Zacharičių ir prisiekė tarnausią Maskvos didžiajam
-    kunigaikščiui su visais miestais — su Černigovu, su
-    Starodubu, su Gomeliu, su Naugardu-Seversku, su Ryls-
-    ku ir su visais valsčiais, kuriuos valdė, būdami Lietuvos
-    Didžiosios Kunigaikštystės valdiniais. O Belajos kuni­
-    gaikštis Semionas Ivanovičius atvyko į Maskvą dar
-    prieš Briansko paėmimą ir su visa savo tėvonija paklu­
-    so Maskvos didžiajam kunigaikščiuiIJ.
-    Lietuvos didysis kunigaikštis Aleksandras, išgirdęs
-    kad jo uošvis, Maskvos didysis kunigaikštis Ivanas Va-
-    siljevičius, pradėjo prieš jį tokį karą, ir kad Briansko
-    miestas ir daugelis miestų pasidavę jam ir su minėtai­
-
-    siais kunigaikščiais prisiekę jam tarnauti, siunčia į Smo­
-    lenską savo etmoną, kunigaikštį Konstantiną Ivanovi-
-    čių Ostrogiškį, bei savo kiemo maršalą, Merkinės ir
-    Anykščių vietininką poną Grigalių Stanislovaitį Asti-
-    ką l3, ir savo pataurininkį, Belsko vietininką poną Mi­
-    kalojų Mikalojaitj
-    ir maršalą poną Joną Petraitį1S, ir
-    maršalą, Naugarduko ir Slonimo vietininką poną Liu­
-    taurą Chreptavičių l6, ir daugelį kitų savo kunigaikščių,
-    ir ponų, ir dvarionių, ir bajorų.
+    Ir kai ka­
+    ralius Olbrachtas su visa kariuomene jau buvo Buko­
+    vinoje ir žygiavo be baimės dėl sudarytos amžinosios
+    taikos ir priesaikos, nesitikėdamas iš niekur smūgio,
+    tuo metu Moldavijos vaivadai Steponui labai skaudėjo
+    kojos, bet, norėdamas įvykdyti savo sumanymą, jis
+    užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­
+    ko su visais savo žmonėmis, ir su turkais, ir su veng­
+    rais, ir su valachais, ir tuose miškuose bei bukynuose
+    užpuolė karalių Olbrachtą bei jo kariuomenę* * , dau­
+    gelį iš jo kariuomenės nukovė, o kitus paėmė gyvus;
+    atėmė daug gurguolių su dideliu turtu ir kelias garsias
+    patrankas, o pačiam karaliui Olbrachtui ir daugeliui
+    jo ponų bei karių nieko nepakenkė.
   citata_rodoma: "Ir kai ka­\nralius Olbrachtas su visa kariuomene jau buvo Buko­\nvinoje ir žygiavo be baimės dėl sudarytos amžinosios \ntaikos ir priesaikos, nesitikėdamas iš niekur smūgio, \ntuo metu Moldavijos vaivadai Steponui labai skaudėjo \nkojos, bet, norėdamas įvykdyti savo sumanymą, jis \nužmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­\nko su visais savo žmonėmis, ir su turkais, ir su veng­\nrais, ir su valachais, ir tuose miškuose bei bukynuose \nužpuolė karalių Olbrachtą bei jo kariuomenę* * , dau­\ngelį iš jo kariuomenės nukovė, o kitus paėmė gyvus; \natėmė daug gurguolių su dideliu turtu ir kelias garsias \npatrankas, o pačiam karaliui Olbrachtui ir daugeliui \njo ponų bei karių nieko nepakenkė."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

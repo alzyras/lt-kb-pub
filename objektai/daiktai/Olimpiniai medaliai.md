@@ -31,6 +31,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Olimpiniai medaliai
 
 ## Santrauka
@@ -98,25 +99,6 @@ Nenurodyta
   pagrindžia:
     - c-22279
 
-<a id="claim-t-19576"></a>
-- t-008
-  teiginys: "Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius."
-  atnaujinta: "2026-06-14 10:46"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "susije_su -> Barselona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Olimpiniai medaliai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Barselona: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olimpiniai medaliai\" parinktas kaip owner_note_path. Targetas \"Barselona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1992 m.; įvykio data: 2000 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie olimpinius medalius."
-  pagrindžia:
-    - c-22279
-
 ## Citatos
 
 - id: c-22279
@@ -137,7 +119,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-008
 
 - id: c-22280
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

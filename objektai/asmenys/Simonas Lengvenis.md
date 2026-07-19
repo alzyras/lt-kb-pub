@@ -9,16 +9,16 @@ datos:
   - '1348 m.'
 date_start: '1348'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - valdovas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -121,32 +121,6 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114097|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-183772|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po šios per­
-    to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
-    nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo
-    tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas
-    Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka­
-    riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
-    gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
-    Severską — Dimitras Kaributas. Jogaila, atsikratęs šio
-    karo rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­
-    siuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi
-    Su m u ša
-    S via to sla vą ,
-    S m o le n sk o  k u n ig a ik ­
-    štį
-    ti į puolantį priešą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-79124
@@ -236,19 +210,21 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Priešų palikta stovykla atiteko nu­
-    galėtojams; Sviatoslavo sūnus Jurijus po atkaklios ko­
-    vos, kurią kėlė apie save, sužeistas pakliuvo į nuga­
-    lėtojų rankas; vėliau, prisiekęs ir įsipareigojęs visada
-    būti ištikimas ir klusnus Jogailai bei Lietuvos didie­
-    siems kunigaikščiams, jis atgavo tėvoniją. Po šios per­
+    Po šios per­
     to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
     nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo
     tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas
     Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka­
     riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
     gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
-    Severską — Dimitras Kaributas.
+    Severską — Dimitras Kaributas. Jogaila, atsikratęs šio
+    karo rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­
+    siuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi
+    Su m u ša
+    S via to sla vą ,
+    S m o le n sk o  k u n ig a ik ­
+    štį
+    ti į puolantį priešą.
   citata_rodoma: "Po šios per­\nto karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir\nnusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo\ntos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas\nŠvitrigaila su nemaža įgula pasiliko Polocke, kitą ka­\nriuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­\ngaila į Trakus, Simonas Lengvenis į Mstislavlį, o į\nSeverską — Dimitras Kaributas. Jogaila, atsikratęs šio\nkaro rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­\nsiuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi\nSu m u ša\nS via to sla vą ,\nS m o le n sk o  k u n ig a ik ­\nštį\nti į puolantį priešą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

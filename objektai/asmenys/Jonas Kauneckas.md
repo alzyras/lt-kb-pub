@@ -29,50 +29,13 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Jonas Kauneckas
 
 ## Santrauka
 
 1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio žurnalistams pranešė, kad lapkričio 13 dieną Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas (TTGK) (jam dar.
 
-## Teiginiai
-
-<a id="claim-t-18978"></a>
-- t-001
-  teiginys: "Jonas Kauneckas priklausė 1978 m. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Kauneckas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Kauneckas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1978 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys neakcentuoja asmens; citata tiesiogiai nurodo jo narystę TTGK."
-  pagrindžia:
-    - c-21739
-- susijęs iš [[objektai/asmenys/Alfonsas Svarinskas.md#claim-t-18781|Alfonsas Svarinskas]]: Alfonsas Svarinskas 1978 m. lapkričio 22 d. Maskvoje pranešė užsienio žurnalistams apie Tikinčiųjų teisių gynimo komiteto įkūrimą Lietuvoje.
-- susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75690|Andrejus Sacharovas]]: Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.
-- susijęs iš [[objektai/asmenys/Juozas Zdebskis.md#claim-t-19031|Juozas Zdebskis (kunigas)]]: 1978 m. lapkričio 22 d. kunigas Juozas Zdebskis su Alfonsu Svarinsku ir Sigitu Tamkevičiumi Maskvoje pranešė apie TTGK įkūrimą.
-- susijęs iš [[objektai/asmenys/Vincentas Vėlavičius.md#claim-t-19318|Vincentas Vėlavičius (kunigas)]]: Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
-- susijęs iš [[objektai/autoriai/Sigitas Tamkevičius.md#claim-t-63313|Sigitas Tamkevičius]]: Sigitas Tamkevičius 1978 m. Maskvoje pranešė užsienio žurnalistams apie Lietuvoje įkurtą Tikinčiųjų teisių gynimo komitetą.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116745|Katalikų Bažnyčia]]: „Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.
-- susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74678|Lietuvos Helsinkio grupė]]: 1976 m. rudenį Vilniuje įsikūrė grupė, panaši į Maskvos Helsinkio grupę.
-- susijęs iš [[objektai/grupes/Maskvos Helsinkio grupė.md#claim-t-24932|Maskvos Helsinkio grupė]]: 1976 m. gegužės 12 d. buvo įkurta pirmoji Maskvos Helsinkio grupė, vadovaujama Jurijaus Orlovo.
-- susijęs iš [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas.md#claim-t-20047|Tikinčiųjų teisių gynimo komitetas (institucija)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
-- susijęs iš [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas.md#claim-t-20048|Tikinčiųjų teisių gynimo komitetas (institucija)]]: 1978 m. lapkričio 13 d. Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas kėlė religinės diskriminacijos problemą.
-- susijęs iš [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo).md#claim-t-75140|Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]: 1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į Maskvos Helsinkio grupę.
-- susijęs iš [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo).md#claim-t-75141|Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]: 1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į SSRS kurtas Helsinkio Baigiamojo akto stebėsenos grupes.
-- susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20519|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
-- susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20520|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
-- susijęs iš Helsinkio Baigiamasis aktas: Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.
-- susijęs iš Maskva: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
-- susijęs iš Maskva: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
-- susijęs iš [[objektai/zodynas/kulto laisvė.md#claim-t-22201|kulto laisvė]]: Tikinčiųjų teisių gynimo komitetas teigė, kad kulto laisvė praktikoje varžoma, ir siekė katalikams lygių teisių su ateistais.
 ## Citatos
 
 - id: c-21739
@@ -100,8 +63,27 @@ media_all_json: |-
   citata_rodoma: "kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+## Teiginiai
+
+- susijęs iš [[objektai/asmenys/Alfonsas Svarinskas.md#claim-t-18781|Alfonsas Svarinskas]]: Alfonsas Svarinskas 1978 m. lapkričio 22 d. Maskvoje pranešė užsienio žurnalistams apie Tikinčiųjų teisių gynimo komiteto įkūrimą Lietuvoje.
+- susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75690|Andrejus Sacharovas]]: Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.
+- susijęs iš [[objektai/asmenys/Juozas Zdebskis.md#claim-t-19031|Juozas Zdebskis (kunigas)]]: 1978 m. lapkričio 22 d. kunigas Juozas Zdebskis su Alfonsu Svarinsku ir Sigitu Tamkevičiumi Maskvoje pranešė apie TTGK įkūrimą.
+- susijęs iš [[objektai/asmenys/Vincentas Vėlavičius.md#claim-t-19318|Vincentas Vėlavičius (kunigas)]]: Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
+- susijęs iš [[objektai/autoriai/Sigitas Tamkevičius.md#claim-t-63313|Sigitas Tamkevičius]]: Sigitas Tamkevičius 1978 m. Maskvoje pranešė užsienio žurnalistams apie Lietuvoje įkurtą Tikinčiųjų teisių gynimo komitetą.
+- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116745|Katalikų Bažnyčia]]: „Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.
+- susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74678|Lietuvos Helsinkio grupė]]: 1976 m. rudenį Vilniuje įsikūrė grupė, panaši į Maskvos Helsinkio grupę.
+- susijęs iš [[objektai/grupes/Maskvos Helsinkio grupė.md#claim-t-24932|Maskvos Helsinkio grupė]]: 1976 m. gegužės 12 d. buvo įkurta pirmoji Maskvos Helsinkio grupė, vadovaujama Jurijaus Orlovo.
+- susijęs iš [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas.md#claim-t-20047|Tikinčiųjų teisių gynimo komitetas (institucija)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
+- susijęs iš [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas.md#claim-t-20048|Tikinčiųjų teisių gynimo komitetas (institucija)]]: 1978 m. lapkričio 13 d. Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas kėlė religinės diskriminacijos problemą.
+- susijęs iš [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo).md#claim-t-75140|Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]: 1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į Maskvos Helsinkio grupę.
+- susijęs iš [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo).md#claim-t-75141|Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]: 1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į SSRS kurtas Helsinkio Baigiamojo akto stebėsenos grupes.
+- susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20519|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
+- susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20520|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
+- susijęs iš Helsinkio Baigiamasis aktas: Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.
+- susijęs iš Maskva: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
+- susijęs iš Maskva: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
+- susijęs iš [[objektai/zodynas/kulto laisvė.md#claim-t-22201|kulto laisvė]]: Tikinčiųjų teisių gynimo komitetas teigė, kad kulto laisvė praktikoje varžoma, ir siekė katalikams lygių teisių su ateistais.

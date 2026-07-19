@@ -60,23 +60,6 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i�
   pagrindžia:
     - c-179148
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Stenderis savo lat­
-    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
-    sukeltų, neramumų liudytojas.
-    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
-    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
-    mas išliko kaip žalčių laikymas1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173401
@@ -84,14 +67,12 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    FA, sugrįžk, Dievutėliau!
-    Paimk juos ant savus sparnus,
-    Atnešk man juos sveiką tiktai,
-    Nenoriu aš brangių daiktų,
-    Gan man tavo apėmimo)*.
-    Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
-    no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
-    tęsėsi iki pat pilies, dabar virtusios griuvėsiais.
+    Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas1.
   citata_rodoma: "Stenderis savo lat­\nvių mitologijoje prisimena, kad pats buvęs panašių, Auskučio\nsukeltų, neramumų liudytojas.\nGarbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­\nkoja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­\nmas išliko kaip žalčių laikymas1."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

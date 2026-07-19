@@ -81,21 +81,14 @@ media_all_json: |-
 <a id="claim-t-19172"></a>
 - t-003
   teiginys: "Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Adalbertas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Netimeras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Adalbertas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Netimeras\" parinktas kaip owner_note_path. Targetas \"Adalbertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1009 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sakinys yra trumpas, aiškus ir faktas tiesiogiai nurodytas citatoje."
   pagrindžia:
-    - c-21917
+    - c-166954
 
 <a id="claim-t-183561"></a>
 - t-004
@@ -180,12 +173,10 @@ media_all_json: |-
   citata_rodoma: "jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-166954
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -204,6 +195,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-003
     - t-004
 
 ## Ryšiai

@@ -178,10 +178,13 @@ export function evidenceCitationQuoteForClaim(
   const displayQuote =
     entry.fields.get("citata_rodoma")?.trim() || entry.fields.get("citata")?.trim() || ""
   const originalQuote = entry.fields.get("citata_originali")?.trim() || ""
-  if (displayQuote && evidenceSupportsClaim(claimText, displayQuote, contextText)) {
-    return displayQuote
+  if (displayQuote) {
+    // The returned excerpt is the current anchored public text. Do not fall
+    // back to an older original block when that excerpt fails the claim guard:
+    // the two fields can come from different anchors after a merge.
+    return evidenceSupportsClaim(claimText, displayQuote, contextText) ? displayQuote : ""
   }
-  return originalQuote || displayQuote
+  return originalQuote
 }
 
 export function evidenceDocumentContext(markdown: string): string {

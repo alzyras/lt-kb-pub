@@ -166,15 +166,10 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dusburgietis tendencingai aprašo ir daugelį kitų Ordinui
-    nepalankių tarptautinių santykių reiškinių, bažnytinių ginčų, Ordino narių gėdingus
-    poelgius demaskuojančių faktų. Nutyli lenkų feodalinės ekspansijos į prūsų žemes
-    bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
-    žemės dovanojimo charakterio, apimties ir t. t.142
-    Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas. Aprašydamas vieno
-    iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,
-    jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po
-    medžiu pakartas.
+    Tuo tarpu „Narratio“ esama duomenų,
+    jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
+    kunigaikštis jau buvo miręs. Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino
+    priklausomumą nuo joanitų141.
   citata_rodoma: "Tuo tarpu „Narratio“ esama duomenų,\njog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos\nkunigaikštis jau buvo miręs. Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino\npriklausomumą nuo joanitų141."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

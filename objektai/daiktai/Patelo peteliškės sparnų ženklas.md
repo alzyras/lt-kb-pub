@@ -57,10 +57,12 @@ Nenurodyta
   pagrindžia:
     - c-177199
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas teigia, kad vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV lentelėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-177199
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Čio­
     nykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena
@@ -69,26 +71,6 @@ Nenurodyta
     Vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti
     dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV
     lentelėje. Skaitykite straipsnį apie herbus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-177199
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
-    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
-    Dii socii arbaAnactes - monarchai. E Noelis mano, kad Kabi­
-    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
-    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
-    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
-    įvedė paslaptingą jų garbinimo ritualą.
   citata_rodoma: "Čio­\nnykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena\nįnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,\npagrobiantis vėlę.\nVėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti\ndievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV\nlentelėje. Skaitykite straipsnį apie herbus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

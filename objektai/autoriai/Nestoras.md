@@ -197,20 +197,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-006
-  santrauka: 'Iš Nestoro, per Karamziną, Narbutui buvo žinoma, kad Kijevo slėnis anksčiau buvo užlietas vandens, o Dnepras tekėjo kita kryptimi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vietiniai kairiosios Dnepro pakrantės prie Ki­
-    jevo stebėjimai rodo, kad ten judėjo žemės dėl drebėjimo
-    arba vidinės priežasties; tai turėjo sukelti didelius šių
-    1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
-    vandens, Dnepras tekėjo kita kryptimi (Karamzin. T. 1. Nota 523).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 - c-007
   santrauka: 'Narbutas nurodė, kad Abulfedas ir Nestoras jūrai vartojo pavadinimą „Wariazskoje More“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -229,6 +215,22 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     dina Sinus Clytipenus, kurios gale yra sala Lairis, šian­
     dien Eželis2, Kitos mums mažiau rūpi, todėl ir pralei­
     džiame.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-008
+  santrauka: 'Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Kuronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali nis pavadinimas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šneibratas (Sznejbrato)
+    Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
+    aukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-
+    zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
+    Komovės šventykloje.
+    Prūsijos kronikininkai spėja, kad tai buvo sudievintas Pru-
+    lenis, taip pat sudievinto Vaidevučio brolis, vadintas Viršai­
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -335,22 +337,11 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Plytėjo ilga įlanka, arba
-    kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
-    lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
-    je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
-    ežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa-
-    dneprės slėnį, plaukė maždaug varsto atstumu savo slė­
-    niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­
-    šiniąją, senų geografų vadinamą Borysthenis occidentale
-    latus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją
-    šaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą,
-    žemiau Kijevo virstančią didele upe — tikruoju senovės
-    Boristeniu. Vietiniai kairiosios Dnepro pakrantės prie Ki­
+    Vietiniai kairiosios Dnepro pakrantės prie Ki­
     jevo stebėjimai rodo, kad ten judėjo žemės dėl drebėjimo
     arba vidinės priežasties; tai turėjo sukelti didelius šių
     1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
-    vandens, Dnepras tekėjo kita kryptimi (Karamzin.
+    vandens, Dnepras tekėjo kita kryptimi (Karamzin. T. 1. Nota 523).
   citata_rodoma: "Vietiniai kairiosios Dnepro pakrantės prie Ki­\njevo stebėjimai rodo, kad ten judėjo žemės dėl drebėjimo\narba vidinės priežasties; tai turėjo sukelti didelius šių\n1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas\nvandens, Dnepras tekėjo kita kryptimi (Karamzin. T. 1. Nota 523)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -365,13 +356,11 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šneibratas (Sznejbrato)
-    Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
-    aukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-
-    zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
-    Komovės šventykloje.
-    Prūsijos kronikininkai spėja, kad tai buvo sudievintas Pru-
-    lenis, taip pat sudievinto Vaidevučio brolis, vadintas Viršai­
+    Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­
+    mę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-
+    ronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­
+    dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­
+    nis pavadinimas.
   citata_rodoma: "Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­\nmę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-\nronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­\ndina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­\nnis pavadinimas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

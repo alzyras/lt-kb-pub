@@ -22,6 +22,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # deficitas talonai
 
 ## Santrauka
@@ -29,22 +30,6 @@ media_all_json: |-
 Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trūko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų, ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, televizorius, be to. Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...
 
 ## Teiginiai
-
-<a id="claim-t-70104"></a>
-- t-001
-  teiginys: "Sovietmečio Lietuvoje trūko maisto produktų, butų, medicinos reikmenų ir vaistų, o baldams, indams ir televizoriams įsigyti reikėjo talonų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Duona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "deficitas talonai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"deficitas talonai\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-69201
 
 <a id="claim-t-183407"></a>
 - t-002
@@ -77,12 +62,10 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   citata_rodoma: "ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-166801
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

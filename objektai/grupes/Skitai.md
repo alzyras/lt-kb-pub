@@ -9,14 +9,14 @@ datos:
   - '1419 m.'
 date_start: '1419'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - etninė-grupė
   - grupe
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -290,6 +290,88 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   pagrindžia:
     - c-175258
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Narbutas Dnepro pakrančių milžinkapių pylėjus tapatina su skitais, kurie virš mirusiųjų supildavo kalnelius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Statinio viduje paprastai stovi maži mo­
+    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
+    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
+    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
+    žmonės priskiria kažkokią šventumo ypatybe5.
+    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
+    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
+    rius*.
+    4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
+    5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
+    rinkinyje, yra nemažai tokių akmenų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Narbutas rašo, kad senovės Graikijos geografai žinias apie Biarmijos gyventojus gavo iš skitų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    VI priedas
+    Apie lietuvių kalbą
+    Aprašius religiją, papročius, prietarus ir daugelį kitų smul­
+    kesnių dalykų, susijusių su lietuvių tautos gyvenimu senovėje,
+    baigiant šį senovės istorijos tomą, dera pakalbėti apie lietuvių
+    kalbą tam, kad labiau priartėtume prie tų tyrimo objektų, iš
+    kurių būtų galima išvesti tautos istorijos pradžią: jos kilmę,
+    protėvių klajones iš vienos stovyklos į kitą, pastovų apsigyve­
+    nimą, giminystę su kitomis tautomis ir pagausėjimą slenkant
+    amžiams. Ne be pagrindo tyrėjai sugalvojo susekti seniausią
+    tautų istoriją iš jų gimtosios kalbos, nes rezultatas dažniausiai
+    apvainikuodavo jų pastangas visiškai naujais, iki šiol visiškai
+    nežinomais ir visiškai tikrais atradimais. Nesigilinsime į tų at­
+    radimų smulkmenas, kaip teko su jais padirbėti; neturime nė
+    tikslo mėgdžioti etimologinius išvedžiojimus, kaip tik gana pa­
+    plitusius, kadangi visam laikui pasirinkome savo pačių atrastą
+    kelią, kuriame neturi būti vietos etimologinėms išmonėms, pri­
+    temptoms daiktų ir žodžių panašybėmis, išskyrus tik tas, ku­
+    rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
+    daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
+    tymo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-012
+  santrauka: 'Vargais negalais per pasiuntinius išsaugojus taiką didelę metų dali, rudens pradžioje karalius sužinojo, kad Krymo skitai, pasirodę apie Pripetę, siautėja Lie tuvos valdose.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai maskvėnai patyrė kautynėse su Livonijos
+    riteriais šitokį smūgį, Lietuvoje pradėta manyti, jog
+    dabar bus lengviau sudaryti su jais amžinąją taiką, ir
+    todėl nutarta pasiųsti į Maskvą Stanislovą Glebavičių,
+    Polocko vaivadą, ir Bogdaną Sapiegą, Smolensko vie­
+    tininką bei Lietuvos raštininką. Pasiuntiniams pavedė
+    žūt būt atgauti tai, ką Iva­
+    nas buvo išplėšęs iš Lietu­
+    vos. Tuo tarpu šis vėl pra­
+    dėjo skųstis, kad, girdi, pa­
+    tyręs iš Aleksandro naują
+    skriaudą, mat laiško pradžio­
+    je išvardyti ne visi jo titu­
+    lai, galop įniko tvirtinti, jog jis visai nenusikaltęs nei
+    teisei, nei teisėtumui, užimdamas žemes, kurios nuo
+    prosenelių laikų priklausiusios Rusiai, be to, kuo atkak­
+    liausiai aiškino, kad visą Rusią valdyti turįs teisę tik
+    jis vienas, kaip senovės kunigaikščių įpėdinis, ir todėl
+    visai neteisėtai Aleksandras valdąs Smolensko bei Ki­
+    jevo žemes; jeigu norima, girdi, sukurti amžinąją tai­
+    ką, būtina, kad Aleksandras užleistų ir šias žemes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-172368
@@ -316,17 +398,12 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Statinio viduje paprastai stovi maži mo­
-    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
-    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
-    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
-    žmonės priskiria kažkokią šventumo ypatybe5.
-    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
-    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
-    rius*.
-    4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
-    5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
-    rinkinyje, yra nemažai tokių akmenų.
+    Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
+    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
+    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
+    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
+    jų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­
+    damas įsitikinau1 2.
   citata_rodoma: "Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­\njo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­\njų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­\ndamas įsitikinau1 2."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -341,27 +418,17 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    VI priedas
-    Apie lietuvių kalbą
-    Aprašius religiją, papročius, prietarus ir daugelį kitų smul­
-    kesnių dalykų, susijusių su lietuvių tautos gyvenimu senovėje,
-    baigiant šį senovės istorijos tomą, dera pakalbėti apie lietuvių
-    kalbą tam, kad labiau priartėtume prie tų tyrimo objektų, iš
-    kurių būtų galima išvesti tautos istorijos pradžią: jos kilmę,
-    protėvių klajones iš vienos stovyklos į kitą, pastovų apsigyve­
-    nimą, giminystę su kitomis tautomis ir pagausėjimą slenkant
-    amžiams. Ne be pagrindo tyrėjai sugalvojo susekti seniausią
-    tautų istoriją iš jų gimtosios kalbos, nes rezultatas dažniausiai
-    apvainikuodavo jų pastangas visiškai naujais, iki šiol visiškai
-    nežinomais ir visiškai tikrais atradimais. Nesigilinsime į tų at­
-    radimų smulkmenas, kaip teko su jais padirbėti; neturime nė
-    tikslo mėgdžioti etimologinius išvedžiojimus, kaip tik gana pa­
-    plitusius, kadangi visam laikui pasirinkome savo pačių atrastą
-    kelią, kuriame neturi būti vietos etimologinėms išmonėms, pri­
-    temptoms daiktų ir žodžių panašybėmis, išskyrus tik tas, ku­
-    rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
-    daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
-    tymo.
+    Matoma, kad jie apsigyveno toli­
+    muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
+    ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
+    kios varginančios ir ilgos žiemos. Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę.
   citata_rodoma: "Matoma, kad jie apsigyveno toli­\nmuose Siaurės Europos rytuose seniausiai, kai tik slavų gen­\nties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­\nkios varginančios ir ilgos žiemos. Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -590,27 +657,17 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai maskvėnai patyrė kautynėse su Livonijos
-    riteriais šitokį smūgį, Lietuvoje pradėta manyti, jog
-    dabar bus lengviau sudaryti su jais amžinąją taiką, ir
-    todėl nutarta pasiųsti į Maskvą Stanislovą Glebavičių,
-    Polocko vaivadą, ir Bogdaną Sapiegą, Smolensko vie­
-    tininką bei Lietuvos raštininką. Pasiuntiniams pavedė
-    žūt būt atgauti tai, ką Iva­
-    nas buvo išplėšęs iš Lietu­
-    vos. Tuo tarpu šis vėl pra­
-    dėjo skųstis, kad, girdi, pa­
-    tyręs iš Aleksandro naują
-    skriaudą, mat laiško pradžio­
-    je išvardyti ne visi jo titu­
-    lai, galop įniko tvirtinti, jog jis visai nenusikaltęs nei
-    teisei, nei teisėtumui, užimdamas žemes, kurios nuo
-    prosenelių laikų priklausiusios Rusiai, be to, kuo atkak­
-    liausiai aiškino, kad visą Rusią valdyti turįs teisę tik
-    jis vienas, kaip senovės kunigaikščių įpėdinis, ir todėl
-    visai neteisėtai Aleksandras valdąs Smolensko bei Ki­
-    jevo žemes; jeigu norima, girdi, sukurti amžinąją tai­
-    ką, būtina, kad Aleksandras užleistų ir šias žemes.
+    Mat paliaubų susitarimas,
+    pasak Ivano, apimąs tik kaimiečius ir nusikaltėlius, bet
+    neliečiąs nei laisvųjų žmonių, nei vyrų, išgarsėjusių
+    karo žygiais ar valstybiniais darbais.
+    Vargais negalais per pasiuntinius išsaugojus taiką
+    didelę metų dali, rudens pradžioje karalius sužinojo,
+    kad Krymo skitai, pasirodę apie Pripetę, siautėja Lie­
+    tuvos valdose. Bematant jis
+    įsakė kunigaikščiams Simonui
+    Olelkaičiui ir Jurgiui Dubro-
+    vickiui sustabdyti priešą.
   citata_rodoma: "Mat paliaubų susitarimas,\npasak Ivano, apimąs tik kaimiečius ir nusikaltėlius, bet\nneliečiąs nei laisvųjų žmonių, nei vyrų, išgarsėjusių\nkaro žygiais ar valstybiniais darbais.\nVargais negalais per pasiuntinius išsaugojus taiką\ndidelę metų dali, rudens pradžioje karalius sužinojo,\nkad Krymo skitai, pasirodę apie Pripetę, siautėja Lie­\ntuvos valdose. Bematant jis\nįsakė kunigaikščiams Simonui\nOlelkaičiui ir Jurgiui Dubro-\nvickiui sustabdyti priešą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

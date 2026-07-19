@@ -66,13 +66,9 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Salavija nebuvo tikra prūsų lygos provincija,
-    nes jai priklausė Rusia. Tačiau, kai joje dar prieš bendrą
-    prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­
-    gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių
-    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva. Jos sos­
-    to arba svarbesnė pilis buvo Salava, be to, manoma,
-    kad Tilžės apylinkėse.
+    Pavadinimas kilęs iš lietuviško
+    žodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­
+    tinčia žeme.
   citata_rodoma: "Pavadinimas kilęs iš lietuviško\nžodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­\ntinčia žeme."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

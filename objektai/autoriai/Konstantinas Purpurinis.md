@@ -70,23 +70,6 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   pagrindžia:
     - c-174467
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių kiekvieną sudarė keturios ordos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pažiūrėkime į šio pavadinimo ištakas, rem­
-    damiesi savo žiniomis. Anot anuometinio istoriko Kons­
-    tantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-
-    towy), kurių kiekvieną sudarė keturios ordos; orda dali­
-    josi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-
-    1 Poloviečiai patys save vadino Kipczak.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174466
@@ -94,16 +77,12 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Viena žlugo, kaip jau rašėme, nuo graikų ir jų sąjungi­
-    ninkų ginklą, kita išsilaikė ir visuomet buvo bloga rusų
-    kaimynė. Pečenegų pavadinimas buvo bendrinis arba tai­
-    komas visai tautai, t. y. abiem jos pusėms, gyvenančioms
-    abipus Dnepro žemupio. Bet ta pusė, kuri gyveno kairio­
-    joje šios upės pakrantėje, buvo pavadinta poloviečiais
-    nuo pusės (polouiy, arba potovuicy). Neabejotinai slaviš­
-    ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
-    kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
-    vengrai vadino šias gentis kumanais.
+    Pažiūrėkime į šio pavadinimo ištakas, rem­
+    damiesi savo žiniomis. Anot anuometinio istoriko Kons­
+    tantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-
+    towy), kurių kiekvieną sudarė keturios ordos; orda dali­
+    josi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-
+    1 Poloviečiai patys save vadino Kipczak.
   citata_rodoma: "Pažiūrėkime į šio pavadinimo ištakas, rem­\ndamiesi savo žiniomis. Anot anuometinio istoriko Kons­\ntantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-\ntowy), kurių kiekvieną sudarė keturios ordos; orda dali­\njosi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

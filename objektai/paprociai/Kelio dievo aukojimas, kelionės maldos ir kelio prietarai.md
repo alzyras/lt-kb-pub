@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Kelio dievo aukojimas, kelionės maldos ir kelio prietarai
 
 ## Santrauka
@@ -47,7 +48,7 @@ Nenurodyta
 <a id="claim-t-189775"></a>
 - t-001
   teiginys: "Pasak Strijkovskio, senovėje kelių dievaičiui aukotos baltos vištos, prašant laimingos kelionės ir sugrįžimo namo."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 20:13"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,6 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172658
+    - c-172662
 
 <a id="claim-t-189777"></a>
 - t-003
@@ -146,25 +148,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-004
-  santrauka: 'Narbutas rašė, kad Lietuvos kaimiečiai išsaugojo kelionės prietarą neišvažiuojant perkirsti kelio keleiviui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    O
-    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
-    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
-    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
-    būtų priskirta nelaimingam jo perėjimui per kelią.
-    Prietaringas kaimietis, prieš sėsdamas į vežimą arba išei­
-    damas su kinkiniu į lauką, turi apeiti jį ratu. O pačiame kelyje
-    sutikti tam tikri asmenys arba gyvuliai arba perbėgę per kelią
-    pranašauja, kad kelionė bus sėkminga arba nesėkminga.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-172658
@@ -225,16 +208,15 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Miestuose būdavo sve­
-    čių namai, vadinti namijomis (Numejone). Juose apgyvendin­
-    ti svetimšaliai jausdavosi visiškai saugūs - tiek asmenys, tiek
-    turtas. Antikos žmonės yra pastebėję, kad net per vidaus maiš­
-    tus svetimšalis, ramiai pasiliekantis tokiame name, neturėda­
-    vo ko bijoti, o atbėgusiems į tokius namus maištininkams, ger­
-    biant svetingumą, nieko blogo nebuvo daroma.
-    Viename žmonių pasakojime sakoma, kad Numėjas drau­
-    ge su Peskija važinėdavo po kaimus, dvarus ir miestus, juos
-    matydavo apsirengusius baltai, važnyčiojančius baltus žirgus.
+    O
+    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
+    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
+    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
+    būtų priskirta nelaimingam jo perėjimui per kelią.
+    Prietaringas kaimietis, prieš sėsdamas į vežimą arba išei­
+    damas su kinkiniu į lauką, turi apeiti jį ratu. O pačiame kelyje
+    sutikti tam tikri asmenys arba gyvuliai arba perbėgę per kelią
+    pranašauja, kad kelionė bus sėkminga arba nesėkminga.
   citata_rodoma: "O\ndėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo\njų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­\nleiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­\nbūtų priskirta nelaimingam jo perėjimui per kelią.\nPrietaringas kaimietis, prieš sėsdamas į vežimą arba išei­\ndamas su kinkiniu į lauką, turi apeiti jį ratu. O pačiame kelyje\nsutikti tam tikri asmenys arba gyvuliai arba perbėgę per kelią\npranašauja, kad kelionė bus sėkminga arba nesėkminga."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -264,4 +246,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-005

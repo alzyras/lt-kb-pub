@@ -8,13 +8,13 @@ datos:
   - '1669 m.'
 date_start: '1422'
 date_end: '1669'
+amziai:
+  - 'XV'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XV'
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -95,6 +95,28 @@ Nenurodyta
     - c-174904
     - c-175282
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Foigtas (Gesch. Preuss. B. I. S. 678) teigia,
+    jog, anot vietinių padavimų, negalima abejoti, kad ši bažnytėlė ga­
+    lėjusi būti pastatyta XIII amžiaus pabaigoje, bet ne vėliau, kai Sem­
+    bą užkariavo čekų karalius Otokaras; to paties amžiaus antrosios
+    pusės pradžioje buvusi medinė bažnytėlė, o 1422 metais, antrą ar
+    trečią kartą sunaikinus vis atstatomus medinius pastatus, pradėta
+    statyti mūrinę (Voigt. S. 663—666). Si išvada atitinka senus pada­
+    vimus
+    ir prūsų
+    istoriko
+    tyrimo išvadas.
+  citata_rodoma: ''
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-174903
@@ -102,8 +124,8 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Foigtas (Gesch. Preuss. B. I. S. 678) teigia,
-    jog, anot vietinių padavimų, negalima abejoti, kad ši bažnytėlė ga­
+    Foigtas (Gesch. Preuss. B. I. S. 678) teigia, jog, anot vietinių pada­
+    vimų, negalima abejoti, kad ši bažnytėlė ga­
     lėjusi būti pastatyta XIII amžiaus pabaigoje, bet ne vėliau, kai Sem­
     bą užkariavo čekų karalius Otokaras; to paties amžiaus antrosios
     pusės pradžioje buvusi medinė bažnytėlė, o 1422 metais, antrą ar

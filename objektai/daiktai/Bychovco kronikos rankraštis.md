@@ -154,20 +154,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    T. Narbuto prašomas, rankraščio savininkas Alek­
-    sandras Bychovcas perdavė jį istoriko pažįstamam tei­
-    sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
-    siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
-    paviete, Nočios parapijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
 - c-004
   santrauka: 'Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -221,14 +207,10 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Haličo-Volynės kunig.
-    Danieliaus Romanovičiaus
-    žygį prieš jotvingius, kurio metu jis, jodamas per ežerą, pamatęs
-    pakrantėje gražų kalną ir ant jo pilį Raigardą (PSRL. II. p 828).
-    18 Rusų
-    kronika — veikiausiai,
-    Volynės metraštis. įėjęs i IM
-    sudėtį.
+    Nuo šio žodžio BK rankraštyje buvo spraga. T. Narbuto pa­
+    žymėta daugtaškiu. Mūsų vertim e spraga užpildoma tekstu, paimtu
+    iš Lietuvos metraščių PS Račinskio nuorašo. (PSRL. t. XVII,
+    p. 3 0 4 - 305).
   citata_rodoma: "Nuo šio žodžio BK rankraštyje buvo spraga. T. Narbuto pa­\nžymėta daugtaškiu. Mūsų vertim e spraga užpildoma tekstu, paimtu \niš Lietuvos metraščių PS Račinskio nuorašo. (PSRL. t. XVII, \np. 3 0 4 - 305)."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -241,15 +223,11 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Aš ją paėmiau savojo veikalo pa­
-    grindu kaip vienintelį Lietuvos istorijos liudininką at­
-    remti priekaištams, daromiems Strijkovskiui"7.
-    Baigdamas „Lietuvos istoriją", T. Narbutas nuo
-    1838 m. pradėjo rūpintis Bychovco kronikos išspaus­
-    dinimu. 1844.11.23 jis išsiuntė rankraštį į Vilnių savo
-    artimiausiam bičiuliui gydytojui A. Renjerui, prašyda­
-    mas perduoti jį giminaičiui V. Narbutui *, kuris vėliau
-    tvarkė spausdinimo reikalus ir skaitė korektūras.
+    T. Narbuto prašomas, rankraščio savininkas Alek­
+    sandras Bychovcas perdavė jį istoriko pažįstamam tei­
+    sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
+    siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
+    paviete, Nočios parapijoje.
   citata_rodoma: "T. Narbuto prašomas, rankraščio savininkas Alek­\nsandras Bychovcas perdavė jį istoriko pažįstamam tei­\nsėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­\nsiuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos \npaviete, Nočios parapijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -270,11 +248,9 @@ Nenurodyta
     ki przettumaczona", nors iš tikrųjų rankraštis buvo ne
     vertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­
     čio, kirilica rašyto teksto transkripcija lotyniškai len­
-    kiškais rašmenimis. Rankraščio pradžioje (1. 1—8) teks­
+    kiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­
     to paraštėse būta tos pačios rašysenos trumpų pastabų
-    apie turinį lenkų kalba, bet ar jų jau būta toje kopi­
-    joje, iš kurios transkribuotas rastasis lankraštis, ar jos
-    paties transkribuotojo prirašytos — neišaiškinta.
+    apie turinį lenkų kalba
   citata_rodoma: "lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame \nrankraščio puslapyje, XVII a. rašysena buvę lenkiškai \nužrašyta: „Kronika Litewska z ruskiego języka na pols- \nki przettumaczona\", nors iš tikrųjų rankraštis buvo ne \nvertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­\nčio, kirilica rašyto teksto transkripcija lotyniškai len­\nkiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­\nto paraštėse būta tos pačios rašysenos trumpų pastabų \napie turinį lenkų kalba"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

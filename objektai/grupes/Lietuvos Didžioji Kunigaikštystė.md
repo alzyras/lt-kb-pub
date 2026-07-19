@@ -14,6 +14,9 @@ datos:
   - '2026 m.'
 date_start: '1386'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,9 +24,6 @@ tags:
   - grupe
   - kraštas
   - tauta
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '49'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APiersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png'
@@ -330,6 +330,55 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187724|Lietuvos kariuomenė]]: Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu.
 - susijęs iš [[objektai/grupes/Korano giminė.md#claim-t-187779|Korano giminė]]: Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduojama kaip neapsakomas kraujo praliejimas.
 - susijęs iš Cepro upė: Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius aplink Ceprą ir už Cepros.
+## Reikšmingi paminėjimai
+- c-007
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Kaip neišma­
+    tuojama dangaus aukštybė ir jūros gilybė, taip neap­
+    sakoma ir to šlovingojo valdovo galybė ir narsumas.
+    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
+    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
+    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
+    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
+    imperatoriumigyveno su juo didelėje meilėje.
+    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
+    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
+    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
+    atvykti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-012
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Istorikas T. Narbutas LTI pirmajame tome pirmasis siste­
+    miškai išdėstė lietuvių mitologijos metmenis. Savo populiaru­
+    mu šis tomas prilygo kitiems aštuoniems. Istoriko supratimu,
+    lietuvių mitologija prilygsta graikų, todėl yra klasikinė. Lietu­
+    viškų dievybių panteonas visiškai atitinka tiek indų, tiek grai­
+    kų dieviškąjį pasaulį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-016
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1).
+    '* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko
+    kunigaikštis (1386—1392 ir 1401— 1404). Vytautui galutinai prijun­
+    gus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė
+    į Didįjį Naugardų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-42809
@@ -505,7 +554,7 @@ media_all_json: |-
     dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
     kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
     mė, bet ir Vengrų žemės valdovas, vadinamas Romos
-    imperatoriumigyveno su juo didelėje meilėje.
+    im peratorium igyveno su juo didelėje meilėje.
     Kartą šis šlovingasis valdovas, būdamas savo pilyje,
     Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
     rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
@@ -643,12 +692,11 @@ media_all_json: |-
   puslapiai: "PDF 9"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 9."
   citata_originali: |
-    Istorikas T. Narbutas LTI pirmajame tome pirmasis siste­
-    miškai išdėstė lietuvių mitologijos metmenis. Savo populiaru­
-    mu šis tomas prilygo kitiems aštuoniems. Istoriko supratimu,
-    lietuvių mitologija prilygsta graikų, todėl yra klasikinė. Lietu­
-    viškų dievybių panteonas visiškai atitinka tiek indų, tiek grai­
-    kų dieviškąjį pasaulį.
+    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
+    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
+    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
+    nuvertinimo priežastis -  istoriko politinės simpatijos LDK ir
+    lietuvių tautai.
   citata_rodoma: "Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai\nvertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo\nklaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI\nnuvertinimo priežastis -  istoriko politinės simpatijos LDK ir\nlietuvių tautai."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
@@ -725,7 +773,7 @@ media_all_json: |-
   citata_originali: |
     1).
     '* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko
-    kunigaikštis (1386—1392 ir 1401— 1404). Vytautui galutinai prijun­
+    kunigaikštis (1386— 1392 ir 1401— 1404). Vytautui galutinai prijun­
     gus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė
     į Didįjį Naugardų.
   citata_rodoma: "1).\n'* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko \nkunigaikštis (1386— 1392 ir 1401— 1404). Vytautui galutinai prijun­\ngus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė \nį Didįjį Naugardų."

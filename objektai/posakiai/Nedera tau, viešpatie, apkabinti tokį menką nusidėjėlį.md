@@ -27,43 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio šventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus bučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro jį apkabinti.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Brolis iš Glizbergo per Didžiojo penktadienio pamaldas atsisakė būti apkabintas nukryžiuotojo medinių rankų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio
-    šventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus
-    bučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro  jį apkabinti.
-    Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
-    menką nusidėjėlį“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-59767
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Sventopelkas su savo kariuomene priėjo
-    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas į priekį daug karių bei ginklanešių,
-    kurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė
-    ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
-    kariuomenės. Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.
-  citata_rodoma: "Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio\nšventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus\nbučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro  jį apkabinti.\nBrolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį\nmenką nusidėjėlį“."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-59135"></a>
@@ -81,3 +44,24 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59767
+
+## Citatos
+
+- id: c-59767
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio
+    šventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus
+    bučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro  jį apkabinti.
+    Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
+    menką nusidėjėlį“.
+  citata_rodoma: "Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio\nšventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus\nbučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro  jį apkabinti.\nBrolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį\nmenką nusidėjėlį“."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

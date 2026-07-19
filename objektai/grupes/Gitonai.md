@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Gitonai
 
 ## Santrauka
@@ -57,10 +58,12 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
 - susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-192478|Variagai (normanai)]]: Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu.
 - susijęs iš St. Peterburgo kodeksas: St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
 - susijęs iš Tacitas, Germania: Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei sarmatams, nei germanams, o jų vakarinė riba siejama su Vysla.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų greta estų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-175740
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Siek tiek labiau venedų reika­
     lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
@@ -71,34 +74,6 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
     kolonijomis, užsiima žemdirbyste, prekyba, pernicitate gau­
     dent, turi pėstininkų kariuomenę; jų gyvenimo būdas vi­
     siškai skiriasi nuo sarmatų klajoklių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-175740
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Sis aprašymas ap­
-    ima plačius ir labai didžiulius kraštus. Žymusis mūsų
-    senovės tyrinėtojas ponas Suroveckis2 labai gerai aiškina,
-    kad šiose venedų srityse lokalizuoja senų senovės slavų
-    gyvenamąsias vielas, aprašinėdamas ribas kraštų, kur
-    šen bei ten esti slavų valstiečių, kolonijų. Pasak jo, šio
-    venedų krašto ribos buvusios tokios: „Pradedant nuo Vys­
-    los, išilgai estų kraštų, per šiandienį Nemuną (viduryje,
-    kiek žemiau Gardino), Žemaitiją, Livoniją, Estiją (Gu­
-    diją) net iki rytinio Baltijos pakraščio (Suomių įlanką);
-    iš ten pro Volgos ir Dnepro versmes iki Pripetės žiočių,
-    toliau išilgai šios upės iki jos versmių, per dalį Polesės ir
-    Voluinės, per Dnestro aukštupį net ligi Tatrų ir Vyslos,
-    kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
-    1 De Mor.
   citata_rodoma: "Siek tiek labiau venedų reika­\nlus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­\nklauso nei sarmatams, nei germanams, turi daug žemių,\nvakaruose teka Vysla; jų kaimynai — estai bei gitonai\n(§§ 66—80), šiaurėje — finai, pietuose — peucinai, o\nrytuose yra nežinomos sritys. Jie stato namus, gyvena\nkolonijomis, užsiima žemdirbyste, prekyba, pernicitate gau­\ndent, turi pėstininkų kariuomenę; jų gyvenimo būdas vi­\nsiškai skiriasi nuo sarmatų klajoklių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

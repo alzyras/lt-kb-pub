@@ -81,16 +81,11 @@ Dusburgietis teigia, kad apie brolį Ditrichą, aštuntą Prūsijos magistrą Br
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šis dievui
-    pasišventęs kunigaikštis be kitų gerų darbų, kuriuos broliams padarė, gerindamas jų
-    padėtį Prūsijos žemėje, paliko Prūsijos žemėje dar ir 24 savo šeimynos vyrus, kilmingus
-    ir įgudusius karius, kuriuos leido apvilkti Teutonų ordino apsiaustais, dosniai juos
-    aprūpindamas viskuo, kas reikalinga kaip vienuoliams ir kariams.
-    405  Netikslu: Ditrichas iš Gaterslebeno Prūsijos krašto magistru buvo 1271 —1273
-    m.
-    406  Meiseno markgrafas Ditrichas II.
-    407 D.— invenit propugnaculum in introitu terre Nattangie; Jer.— dî zucht kegn
-    Nattąngin in daz lant, an dets înwege er sâ vant gebûwit eine vestin.
+    Apie brolį Ditrichą, aštuntą Prūsijos magistrą
+
+       Brolis Ditrichas iš Gaterslebeno, aštuntas Prūsijos žemės magistras, vadovavo šešerius
+    metus405, pradėjęs 1271 viešpaties metais. Tuo pat metu maršalu buvo brolis Konradas
+    iš Tirbergo Vyresnysis.
   citata_rodoma: "Apie brolį Ditrichą, aštuntą Prūsijos magistrą\n\n   Brolis Ditrichas iš Gaterslebeno, aštuntas Prūsijos žemės magistras, vadovavo šešerius\nmetus405, pradėjęs 1271 viešpaties metais. Tuo pat metu maršalu buvo brolis Konradas\niš Tirbergo Vyresnysis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

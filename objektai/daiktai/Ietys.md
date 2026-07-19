@@ -230,14 +230,7 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    mišką, bet vis dėlto neteko daug karių, o Fiodoras Dmitri-
-    jevičius, narsiai puolęs, buvo sužeistas ir mirė prie Narevo
-    upės. Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums
-    nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,
-    tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­
-    gę pataikyti savo krauju". Taip ir įvyko: Danielius įsakė
-    savo riteriams paskubėti. Tai matydami, jotvingiai išsi­
-    gando, nes įsitikino rusų ir lenkų galia.
+    Jis pasileido zovada tarp priešo gretų, paleido iš rankų ietį ir vos nebuvo nukautas.
   citata_rodoma: "Jis pasileido zovada tarp priešo gretų, paleido iš rankų ietį ir vos nebuvo nukautas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -252,13 +245,7 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
-    kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
-    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
-    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
-    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
-    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
-    liai su lankais, paruoštais smūgiui.
+    Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui.
   citata_rodoma: "Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

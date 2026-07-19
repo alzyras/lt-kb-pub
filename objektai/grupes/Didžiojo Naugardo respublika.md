@@ -76,7 +76,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
 <a id="claim-t-12357"></a>
 - t-004
   teiginys: "Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Vokiečiai: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -95,7 +95,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
 <a id="claim-t-12358"></a>
 - t-005
   teiginys: "Vytautui gyvenimo pabaigoje pasisekė paimti savo įtakon Pskovą ir Didįjį Naugardą."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Naugardas; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -163,7 +163,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
 <a id="claim-t-198538"></a>
 - t-009
   teiginys: "Didžiojo Naugardo gyventojai, bijodami Vytauto kariuomenės, pažadėjo jam tarnauti, mokėti duoklę ir laikyti jį valdovu."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -333,26 +333,26 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   puslapiai: "PDF 104-105"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 104-105."
   citata_originali: |
-    O Vytauto ka­
-    riuomenėje didžiuoju etmonu buvo kunigaikštis Jonas
-    2adivydas7, Jogailos ir Vytauto brolis8, o kiemo et­
-    monu — ponas Jonas Goštautas9.
-    Kai tie anksčiau minėti etmonai pradėjo rikiuoti
-    žmones, apie tas duobes, kurias jiems vokiečiai iškasė.
+    Pskoviečiai, nebenorėdami,
+    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
+    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
+    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
+    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
+    (07
 
-    nieko nežinojo, taigi, kariuomenę berikiuodami, di­
-    dieji etmonai — kunigaikštis Jonas Zadivydas ir ponas
-    Sokolas — įkrito į duobes ir nulūžo kojas, labai susi­
-    žeidė ir nuo to mirė; ir ne vien tik etmonai, bet ir dau­
-    gelis karių dėl tų duobių labai nukentėjo.
-    Matydami, kad jų didžiuosius etmonus ištiko nelai­
-    mė, karalius Jogaila ir didysis kunigaikštis Vytautas
-    paskyrė jų vieton du etmonus: vieton Sokolo paskyrė
-    poną Spytką, o Vytautas — poną Joną Goštautą, ir įsa­
-    kė rikiuoti kariuomenes ir ruošti vėliavas mūšiui, o tų
-    klastingų duobių saugotis.
-    Tada tie etmonai, išrikiavę karius, žengė į mūšį,
-    o vokiečiai, šitai matydami, susikovė su jais.
+    ## Puslapis 103
+
+    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
+    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
+    žygiavo prieš Naugardą.
+    Naugardiečiai, matydami pskoviečius jam pasidavus
+    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
+    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
+    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
+    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
+    kaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas
+    paskyrė jiems vietininku savo svainį, kunigaikštį Si­
+    moną Alšėniškį, vadinamą Rūsčiuoju 9 .
   citata_rodoma: "Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n(07\n\n## Puslapis 103\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą.\nNaugardiečiai, matydami pskoviečius jam pasidavus \nir priėmus jo vietininką, nebenorėdami, kad jų žemė \nnuo didžiojo kunigaikščio Vytauto dar labiau nukentė­\ntų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam \ntarnauti, ir duoklę duoti, ir laikyti ji savo valdovu, \nkaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas \npaskyrė jiems vietininku savo svainį, kunigaikštį Si­\nmoną Alšėniškį, vadinamą Rūsčiuoju 9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -413,26 +413,26 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   puslapiai: "PDF 104-105"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 104-105."
   citata_originali: |
-    O Vytauto ka­
-    riuomenėje didžiuoju etmonu buvo kunigaikštis Jonas
-    2adivydas7, Jogailos ir Vytauto brolis8, o kiemo et­
-    monu — ponas Jonas Goštautas9.
-    Kai tie anksčiau minėti etmonai pradėjo rikiuoti
-    žmones, apie tas duobes, kurias jiems vokiečiai iškasė.
+    Pskoviečiai, nebenorėdami,
+    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
+    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
+    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
+    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
+    (07
 
-    nieko nežinojo, taigi, kariuomenę berikiuodami, di­
-    dieji etmonai — kunigaikštis Jonas Zadivydas ir ponas
-    Sokolas — įkrito į duobes ir nulūžo kojas, labai susi­
-    žeidė ir nuo to mirė; ir ne vien tik etmonai, bet ir dau­
-    gelis karių dėl tų duobių labai nukentėjo.
-    Matydami, kad jų didžiuosius etmonus ištiko nelai­
-    mė, karalius Jogaila ir didysis kunigaikštis Vytautas
-    paskyrė jų vieton du etmonus: vieton Sokolo paskyrė
-    poną Spytką, o Vytautas — poną Joną Goštautą, ir įsa­
-    kė rikiuoti kariuomenes ir ruošti vėliavas mūšiui, o tų
-    klastingų duobių saugotis.
-    Tada tie etmonai, išrikiavę karius, žengė į mūšį,
-    o vokiečiai, šitai matydami, susikovė su jais.
+    ## Puslapis 103
+
+    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
+    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
+    žygiavo prieš Naugardą.
+    Naugardiečiai, matydami pskoviečius jam pasidavus
+    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
+    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
+    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
+    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
+    kaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas
+    paskyrė jiems vietininku savo svainį, kunigaikštį Si­
+    moną Alšėniškį, vadinamą Rūsčiuoju 9 .
   citata_rodoma: "Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n(07\n\n## Puslapis 103\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą.\nNaugardiečiai, matydami pskoviečius jam pasidavus \nir priėmus jo vietininką, nebenorėdami, kad jų žemė \nnuo didžiojo kunigaikščio Vytauto dar labiau nukentė­\ntų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam \ntarnauti, ir duoklę duoti, ir laikyti ji savo valdovu, \nkaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas \npaskyrė jiems vietininku savo svainį, kunigaikštį Si­\nmoną Alšėniškį, vadinamą Rūsčiuoju 9 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"

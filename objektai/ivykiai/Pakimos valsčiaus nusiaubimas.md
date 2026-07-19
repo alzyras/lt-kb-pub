@@ -96,9 +96,12 @@ Nenurodyta
   pagrindžia:
     - c-63047
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-63047
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą
 
@@ -109,31 +112,10 @@ Nenurodyta
     vardu Nagutinas496. Rytui išaušus, ledas taip ištirpo, kad niekam nė į galvą nebūtų atėję,
     jog jie čia perėjo.
 
+
+
+
          203 (198).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-183952
-    - t-194414
-
-## Citatos
-
-- id: c-63047
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Tiek kartų jis traukė prieš juos į kovą, kad magistras, būgštaudamas, kad jis nepatirtų
-    didesnio pralaimėjimo, uždraudė jam ateityje juos puldinėti be savo ypatingo leidimo.
-    Klausiamas, dėl ko esąs ant jų taip įtūžęs, atsakydavo: „Man būtų visai nesvarbu, ką
-    su jais darau, jeigu nerūpėtų, kad būčiau jų sužeistas penkiomis žaizdomis, kaip už
-    mane buvo sužeistas Kristus“. Šitaip ir įvyko, nes ilgainiui sūduviai, sužeidę penkiomis
-    žaizdomis, jį nukovė.
-    207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį
-    Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
-    šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido.
   citata_rodoma: "Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą\n\n  Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro\nįsakytas, sutelkė visą savo kariuomenę  ir įsiveržė  į Sūduvos žemės valsčių, vardu\nPakima495; smarkiai jį nusiaubęs, nudeginęs ir apiplėšęs, paėmęs  į nelaisvę ir išžudęs\ndaugybę žmonių, patraukė atgal ir vakare perėjo su savo kariuomene užšalusį ežerą,\nvardu Nagutinas496. Rytui išaušus, ledas taip ištirpo, kad niekam nė į galvą nebūtų atėję,\njog jie čia perėjo.\n\n\n\n\n     203 (198)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

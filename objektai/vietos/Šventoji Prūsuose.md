@@ -49,22 +49,6 @@ media_all_json: |-
   pagrindžia:
     - c-171979
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Šventoji (Szwentoja) Prūsuose minima kaip upė, įtekanti į Elksnės kairįjį krantą arba į Timbrą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai labai įdomus sutapimas, o galbūt ir
-    pamėgdžiojimas reiškinio, apie kurį kalbame*.
-    5. Prūsuose dar yra Šventoji upė (Szwentoja), įtekanti į
-    Elksnės (Ebcne) upę jos kairiajame krante arba į Timbrą, kuri
-    įteka į Nemunyną, arba į pietinę Nemuno atšaką.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-171979
@@ -72,17 +56,11 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apskritai lietuvių mitologija visus ežerus manė esant glo­
-    bojamus dievo Atrimpo, šiuo atveju vadinto Ežeriniu (Ežeri­
-    nis).
-    Šventosiose upėse ir ežeruose niekam nederėjo gaudyti žu­
-    vies, nebent per didelį badmetį, priešų apgultį arba staiga iški­
-    lus kitokiam reikalui.
-    Upių ir ežerų vardai yra seniausi tautų palikimo pamin­
-    klai, kadangi net tautoms pakeitus gyvenamąją vietą ir po tūks­
-    tančio permainų jie paprastai nesikeičia, ir upės, tekėdamos
-    įprasta vaga, išsaugo atminimą apie gentis ir tautas, kurios vie­
-    na po kitos išnyksta arba atsiranda jų pakrantėse.
+    Tai labai įdomus sutapimas, o galbūt ir
+    pamėgdžiojimas reiškinio, apie kurį kalbame*.
+    5. Prūsuose dar yra Šventoji upė (Szwentoja), įtekanti į
+    Elksnės (Ebcne) upę jos kairiajame krante arba į Timbrą, kuri
+    įteka į Nemunyną, arba į pietinę Nemuno atšaką.
   citata_rodoma: "Tai labai įdomus sutapimas, o galbūt ir\npamėgdžiojimas reiškinio, apie kurį kalbame*.\n5. Prūsuose dar yra Šventoji upė (Szwentoja), įtekanti į\nElksnės (Ebcne) upę jos kairiajame krante arba į Timbrą, kuri\nįteka į Nemunyną, arba į pietinę Nemuno atšaką."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

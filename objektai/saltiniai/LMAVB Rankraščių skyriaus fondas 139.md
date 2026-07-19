@@ -3,8 +3,6 @@ tipas: saltinis
 pavadinimas: 'LMAVB Rankraščių skyriaus fondas 139'
 saltiniai:
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
-variantai:
-  - 'LMAVB, RS, f. 139'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,16 +25,9 @@ media_all_json: |-
 
 ## Santrauka
 
-LMAVB Rankraščių skyriaus fondas 139 straipsnyje naudojamas kaip pagrindinis Jono Dominyko Lopacinskio korespondencijos archyvinis fondas.
+Nenurodyta
 
 ## Bibliografiniai duomenys
 
 - Archyvinė santrumpa: LMAVB, RS, f. 139.
 - Pilnas pavadinimas: Lietuvos mokslų akademijos Vrublevskių bibliotekos rankraščių skyrius, fondas 139.
-
-## Teiginiai
-
-<a id="claim-t-200429"></a>
-- t-001
-  teiginys: "Straipsnyje santrumpa LMAVB, RS išskleidžiama kaip Lietuvos mokslų akademijos Vrublevskių bibliotekos rankraščių skyrius, o nurodytas fondas yra 139."
-  pagrindžia:

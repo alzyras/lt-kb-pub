@@ -435,22 +435,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - susijęs iš Šventaragio slėnis: Pasak Vilniaus įkūrimo legendos, Šventaragio slėnyje Gediminas susapnavo sapną, kurį išaiškino žynys Lizdeika.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
-## Reikšmingi paminėjimai
-- c-011
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš to žodžio paimtas pa­
-    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
-    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
-    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
-    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
-    ja, kurią seniau vadino Nerimi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-177511
@@ -458,13 +442,12 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kaimiečiai iki
-    šiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­
-    čios, nuogos mergos. Jos šokančios, linksmai išdykaujančios;
-    vargas tam, kurį suvilios jų klastingas gundymas.
-    Kitose vietose, kaip man pasakojo, tokias vandenų gundy­
-    tojas paprasti žmonės vadina undinėmis (Ondynami) arba van­
-    denėmis (Wundynami), o tai žodžio nimfa vertimas.
+    Iš to žodžio paimtas pa­
+    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
+    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
+    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
+    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
+    ja, kurią seniau vadino Nerimi.
   citata_rodoma: "Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­\njimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­\nniui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­\nja, kurią seniau vadino Nerimi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

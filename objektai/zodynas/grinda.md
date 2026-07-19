@@ -61,21 +61,6 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   pagrindžia:
     - c-59480
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Prie grindos ir dabartinio vieškelio broliai sutvirtino malūną kaip pilį ir paliko jame sargybą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant
-    pilį, palikdami jame du brolius ir daug ginklanešių jam saugoti. Šią pilį neilgai trukus
-    prūsai užkariavo, apsiautę ją su didele kariuomene, ir, išžudę brolius bei ginklanešius,
-    pavertė pelenais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-59480
@@ -99,12 +84,10 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Niekad arba beveik niekad netruko čia
-    maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar
-    rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno. Kai kurie vienuoliai,
-    atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
-    kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
-    „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
+    už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant
+    pilį, palikdami jame du brolius ir daug ginklanešių jam saugoti. Šią pilį neilgai trukus
+    prūsai užkariavo, apsiautę ją su didele kariuomene, ir, išžudę brolius bei ginklanešius,
+    pavertė pelenais.
   citata_rodoma: "už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant\npilį, palikdami jame du brolius ir daug ginklanešių jam saugoti. Šią pilį neilgai trukus\nprūsai užkariavo, apsiautę ją su didele kariuomene, ir, išžudę brolius bei ginklanešius,\npavertė pelenais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

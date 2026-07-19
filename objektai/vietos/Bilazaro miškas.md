@@ -57,11 +57,7 @@ Bilazaro miškas šiame šaltinyje yra miškas.
   puslapiai: "p. 57 (PDF 55)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 57 (PDF 55)."
   citata_originali: |
-    Pridotkas ir Radviliškis.
-    Buvo tai pusantro šimto hektarų žemės plo­
-    tas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.
-    Šiandien
-    toje vietoje „kelmai kelmuoti, pakalnės nuplikę“ .
+    „Buvo tai pusantro šimto hektarų žemės plotas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.“
   citata_rodoma: "„Buvo tai pusantro šimto hektarų žemės plotas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"

@@ -229,23 +229,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš [[objektai/zodynas/konfitiūrai.md#claim-t-200689|konfitiūrai]]: Jono Dominyko Lopacinskio laiške konfitiūrai minimi kaip koadjutoriaus vaišės iš ananasų, karambolų ir kitų indiškų vaisių.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
-    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
-    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
-    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
-    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
-    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-14711
@@ -336,15 +319,12 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   puslapiai: "PDF 222"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 222."
   citata_originali: |
-    Pakitusiu dėl vėlesnių perstatymų pavidalu Ji tebestovi ligi
-    šiol Vilniuje prie dabartinės Kutuzovo aikštės.
-    ‘ Pasakojimas, kad Petras Goštautas atsikvietęs | Vilnių dar
-    pranciškonų, taip pat laikomas legenda, kilusia, veikiausiai, dar
-    XV a. antrojoje pusėje. Neabejotina, kad pranciškonai, jsikūru-
-    siejl prieš 1387 m. Vilniaus vienuolyne prie Trakų vartų, buvo kilų
-    iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
-    vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
-    vardj — „in Arena" arba „na Piaskach".
+    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
+    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
+    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
+    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
+    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
+    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
   citata_rodoma: "4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­\nkotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias \nj vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas \niš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus \nvaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­\ntautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458)."
   statusas: verified
   atnaujinta: "2026-07-12 23:05"

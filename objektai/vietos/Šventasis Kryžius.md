@@ -7,13 +7,13 @@ datos:
   - '1370 m.'
 date_start: '1370'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kraštas
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -112,6 +112,26 @@ media_all_json: |-
   pagrindžia:
     - c-170403
 - susijęs iš Šventojo Kryžiaus kalnai: Šventojo Kryžiaus kalnai yra Lenkijos Kielcų vaivadijos kalnų ketera, kurioje yra 593 m aukščio Šventojo Kryžiaus viršūnė.
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Šventasis Kryžius — 593 m aukščio viršūnė ,.Lysa Gora” (apie
+    20 km I vakarus nuo Opatovo) Lenkijos Kielcų vaivadijos kalnų
+    keteroje, vadinamoje Lysogory arba Gėry Swigtokrzyskie (Švento
+    Kryžiaus kalnai). Ant šio kalno XII a, buvo įkurtas benediktinų
+    vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius
+    su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu
+    sidabriniuose apsoduose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+    - t-003
+    - t-004
+
 ## Citatos
 
 - id: c-170403
@@ -121,11 +141,9 @@ media_all_json: |-
   citata_originali: |
     Šventasis Kryžius — 593 m aukščio viršūnė ,.Lysa Gora” (apie
     20 km I vakarus nuo Opatovo) Lenkijos Kielcų vaivadijos kalnų
-    keteroje, vadinamoje Lysogory arba Gėry Swigtokrzyskie (Švento
+    keteroje, vadinamoje Lysogory arba G ėry Swigtokrzyskie (Švento
     Kryžiaus kalnai). Ant šio kalno XII a, buvo įkurtas benediktinų
-    vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius
-    su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu
-    sidabriniuose apsoduose.
+    vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija.
   citata_rodoma: "Šventasis Kryžius — 593 m aukščio viršūnė ,.Lysa Gora” (apie \n20 km I vakarus nuo Opatovo) Lenkijos Kielcų vaivadijos kalnų \nketeroje, vadinamoje Lysogory arba G ėry Swigtokrzyskie (Švento \nKryžiaus kalnai). Ant šio kalno XII a, buvo įkurtas benediktinų \nvienuolynas ir bažnyčia, kurioje buvo saugoma relikvija."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

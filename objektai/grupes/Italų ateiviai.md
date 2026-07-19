@@ -29,26 +29,6 @@ Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu i
 
 ## Teiginiai
 
-<a id="claim-t-185426"></a>
-- t-001
-  teiginys: "Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu iš Italijos po hunų nusiaubimų 924 metais."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Herbas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Italų ateiviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Herbas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Italų ateiviai\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168787
-
 <a id="claim-t-193313"></a>
 - t-002
   teiginys: "Kojelavičius vaizdavo italų ateivius kaip sumaniai veikusius Lietuvoje, kur ateiviai ir vietiniai gyventojai galiausiai susivienijo."
@@ -62,12 +42,10 @@ Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu i
   pagrindžia:
     - c-176041
 
-## Citatos
-
-- id: c-168787
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu iš Italijos po hunų nusiaubimų 924 metais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš tiesų ne be
     pagrindo spėjama, kad jie atvykę iš Insubrijos bei Li-
@@ -97,15 +75,47 @@ Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu i
     įlanką, palei krantą nusigavo į Nemuno, arba Chrono,
     žiotis, kur upė, ilgai tekėdama per Rusią, Lietuvą ir
     Prūsiją, išsilieja sutelkusi vandenis dvylika atšakų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168787
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Galimas daiktas, alanai, arba herulai (kurie,
+    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
+    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
+    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
+    buvo tinkamiausios įsikurti ir neniokojamos karų. Pa­
+    galiau nesvarbu, dėl kokios dingsties, reikalo ar būti­
+    nybės jie leidosi į tokį tolimą kelią, vieną dalyką se­
+    noliai atkakliai tvirtina: ateivių italų esą buvę penki
+    šimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus
+    buvo vardijami vadai: Palemonas, arba Publijus Libo-
+    nas, herbo Stulpai,
+    Julijonas
+    Dausprungas;,
+    kurio
+    59
+
+    ## Puslapis 58
+
+    giminės herbas Kentauras, Prosperas Cezarinas — her­
+    bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
+    Rožynas.
   citata_rodoma: "Galimas daiktas, alanai, arba herulai (kurie,\nistorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­\nro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie\npasitraukė iš tėvynės ir pasuko į tas žemes, kurios\nbuvo tinkamiausios įsikurti ir neniokojamos karų. Pa­\ngaliau nesvarbu, dėl kokios dingsties, reikalo ar būti­\nnybės jie leidosi į tokį tolimą kelią, vieną dalyką se­\nnoliai atkakliai tvirtina: ateivių italų esą buvę penki\nšimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus\nbuvo vardijami vadai: Palemonas, arba Publijus Libo-\nnas, herbo Stulpai,\nJulijonas\nDausprungas;,\nkurio\n59\n\n## Puslapis 58\n\ngiminės herbas Kentauras, Prosperas Cezarinas — her­\nbo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba\nRožynas."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-176041
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

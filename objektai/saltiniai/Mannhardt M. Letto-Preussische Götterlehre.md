@@ -52,23 +52,7 @@ Dusburgietis teigia, kad mannhardt M.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    iš Gilberštetės, Saksas
-
-    iš Hibelino
-
-    iš Liuksemburgo
-
-    iš Magdeburgo
-
-    iš Španheimo
-
-    iš Vienos
-
-    kancleris
-
-    (D.— Jonis, Jer.— Jon), Sarginio s.
-
-    Krikštytojas, šv.
+    Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.
   citata_rodoma: "Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

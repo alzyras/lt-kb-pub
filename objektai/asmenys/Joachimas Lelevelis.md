@@ -10,17 +10,17 @@ datos:
   - '1861 m.'
 date_start: '1756'
 date_end: '1861'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - asmuo
   - mokslininkas
+amziai:
+  - 'XVIII'
+  - 'XIX'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -124,26 +124,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - susijęs iš [[objektai/asmenys/Jozefas Frankas.md#claim-t-19009|Jozefas Frankas]]: Jozefas Frankas buvo iš Austrijos į Vilniaus universitetą atvykęs mokslininkas, kurio darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Liudvigas Heinrichas Bojanus.md#claim-t-78065|Liudvigas Heinrichas Bojanus]]: Liudvigas Heinrichas Bojanus dirbo Vilniaus universitete tarp tarptautiniu mastu žinomų mokslininkų.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113356|Vilniaus universitetas]]: Vilniaus universitetas tapo istorinės Lietuvos žemių visuomeninio ir kultūrinio gyvenimo centru.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Joachimas Lelevelis gelonus ir budinus laikė išgalvotomis tautomis ir priekaištavo senovės geografų kompiliatoriams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Prieš ¡pradedant toliau tyri­
-    nėt i, ne pro šalį bus paneigti kai kuriuos priekaištus mū­
-    sų ką tik išdėstytiems faktams. Lelevelis2 linkęs gelonus
-    ir budinus pastatyti į išgalvotų tautų gretą, griežtai prie­
-    kaištaudamas, kad senovės geografų kompiliatoriai net
-    ligi XIX amžiaus nepastebėjo šio tariamo atradimo. Sis
-    drąsus nuosprendis, paskelbtas daugelio veikalų išgarsin­
-    to istoriko, nusipelno atsakymo, nors šiaip jau jo nereikė­
-    tų dėl to, kad aptarta tiek daug šios temos dalykų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-21725
@@ -223,18 +203,15 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sis
+    Prieš ¡pradedant toliau tyri­
+    nėt i, ne pro šalį bus paneigti kai kuriuos priekaištus mū­
+    sų ką tik išdėstytiems faktams. Lelevelis2 linkęs gelonus
+    ir budinus pastatyti į išgalvotų tautų gretą, griežtai prie­
+    kaištaudamas, kad senovės geografų kompiliatoriai net
+    ligi XIX amžiaus nepastebėjo šio tariamo atradimo. Sis
     drąsus nuosprendis, paskelbtas daugelio veikalų išgarsin­
     to istoriko, nusipelno atsakymo, nors šiaip jau jo nereikė­
-    tų dėl to, kad aptarta tiek daug šios temos dalykų. Mūsų
-    senovės geografijos tyrinėtojas gal iš savo didelio moks­
-    lingumo, neužtikęs pakankamai išvardytų kai kurių seno­
-    vės tautų gyvenamųjų vietovių, pyksta pats ant savęs ir
-    piktžodžiauja prieš kompiliatorius, kam jie kartoja jų pa­
-    vadinimus. Tuo tarpu jie, pasirinkę kuklesnę poziciją, ry­
-    žosi verčiau pelnyti žodis į žodį atkartojančių Mariną*
-    ir Ptolemėją priekaištų negu vadinti pasakų išmone var­
-    dus tautų, kurių gyvenamųjų vietovių nepasisekė nustatyti.
+    tų dėl to, kad aptarta tiek daug šios temos dalykų.
   citata_rodoma: "Prieš ¡pradedant toliau tyri­\nnėt i, ne pro šalį bus paneigti kai kuriuos priekaištus mū­\nsų ką tik išdėstytiems faktams. Lelevelis2 linkęs gelonus\nir budinus pastatyti į išgalvotų tautų gretą, griežtai prie­\nkaištaudamas, kad senovės geografų kompiliatoriai net\nligi XIX amžiaus nepastebėjo šio tariamo atradimo. Sis\ndrąsus nuosprendis, paskelbtas daugelio veikalų išgarsin­\nto istoriko, nusipelno atsakymo, nors šiaip jau jo nereikė­\ntų dėl to, kad aptarta tiek daug šios temos dalykų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

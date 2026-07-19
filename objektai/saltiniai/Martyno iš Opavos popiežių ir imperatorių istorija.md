@@ -214,37 +214,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: '1232 m. Tolede vienas žydas esą rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
-
-      1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą
-    akmenyje  ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai  ir
-    lotyniškai. Rašte tiek buvo pasakyta kiek ir psalmyne, ir jis bylojo apie trilypį pasaulį nuo
-    Adomo ligi Antikristo, iškeldamas aikštėn žmonių savybes. Apie trečiąjį pasaulį šitaip
-    kalbėjo: „Trečiame pasaulyje gims iš mergelės Marijos dievo sūnus ir kentės dėl žmonių
-    išganymo“. Žydas, šitai perskaitęs, su visa šeimyna priėmė krikštą. Be to, ten buvo
-    parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol. 21,34).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XIII a. aštuntojo dešimtmečio įvykiais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,
-    po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl
-    „Polonus“), bet mirė ten nenuvykęs. Jis parašė Romos popiežių ir imperatorių istoriją
-    (faktus pateikdamas paraleliškai), kuri baigiama XIII a. VlII-ojo dešimtmečio įvykiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-007
   santrauka: 'Brolių pamokslininkų ordinas datuojamas 1216 m., o Mažesniųjų brolių ordinas – 1223 m., valdant popiežiui Honorijui III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -284,10 +253,10 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie trečiąjį pasaulį šitaip
-    kalbėjo: „Trečiame pasaulyje gims iš mergelės Marijos dievo sūnus ir kentės dėl žmonių
-    išganymo“. Žydas, šitai perskaitęs, su visa šeimyna priėmė krikštą. Be to, ten buvo
-    parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol.
+    Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
+
+      Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu
+    prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
   citata_rodoma: "Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu\n\n  Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu\nprie šventojo altoriaus (Ptol. 21,4; Mart. p. 395)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -302,16 +271,15 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo metu, kai šitai
-    dėjosi, vienas riteris su daugybe ginklanešių žiauriai apiplėšė šio landgrafo žemę; kai jis
-    traukė atgal, jį pasitiko tarnas, atskubėjęs iš jo pilies, ir pranešė, jog jo žmona atidavė
-    dievui sielą tą pačią valandą, kai, skausmų paguldyta, pagimdė negyvą berniuką. Šitai
-    išgirdęs, sielvarto pagautas riteris suprato, jog dievas jį šitaip nubaudęs už tai, kad jis
-    grobikišku antpuoliu trukdęs savo valdovui landgrafui tesėti savo šventą sumanymą.
-    Grąžinęs tad grobį tiems, iš kurių buvo paėmęs, jis kreipėsi į savo valdovą, prašydamasis
-    dovanojamas už nusikaltimą. Jam landgrafas tarė: „Kaip tu drįsai man į akis pasirodyti?“
-    Šis atsakė: „Atėjau pas jus, pasitikėdamas jūsų nepaprastu maloningumu ir atlaidumu,
-    nes kaip ir jūs tvirtai iš grynos širdies pasiryžau stoti į Teutonų namų ordiną“.
+    Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
+
+      1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą
+    akmenyje  ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai  ir
+    lotyniškai. Rašte tiek buvo pasakyta kiek ir psalmyne, ir jis bylojo apie trilypį pasaulį nuo
+    Adomo ligi Antikristo, iškeldamas aikštėn žmonių savybes. Apie trečiąjį pasaulį šitaip
+    kalbėjo: „Trečiame pasaulyje gims iš mergelės Marijos dievo sūnus ir kentės dėl žmonių
+    išganymo“. Žydas, šitai perskaitęs, su visa šeimyna priėmė krikštą. Be to, ten buvo
+    parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol. 21,34).
   citata_rodoma: "Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga\n\n  1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą\nakmenyje  ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai  ir\nlotyniškai. Rašte tiek buvo pasakyta kiek ir psalmyne, ir jis bylojo apie trilypį pasaulį nuo\nAdomo ligi Antikristo, iškeldamas aikštėn žmonių savybes. Apie trečiąjį pasaulį šitaip\nkalbėjo: „Trečiame pasaulyje gims iš mergelės Marijos dievo sūnus ir kentės dėl žmonių\nišganymo“. Žydas, šitai perskaitęs, su visa šeimyna priėmė krikštą. Be to, ten buvo\nparašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol. 21,34)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -326,15 +294,10 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kitų
-    pratęstas iki 1315 m. (imperatorių istorija) ir 1320 m. (popiežių istorija), veikalas buvo
-    išleistas XVI a.128 Dusburgiečio laikais šiuo veikalu plačiai naudojosi teologai ir kanonistai,
-    nors XIX a. teksto tyrinėjimai parodė, jog tai buvusi paviršutiniška kompiliacija.
-    Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus
-    bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.
-    pradžios įvykiais129.
-    Dusburgietis marginaliniuose paaiškinimuose (51-ame paragrafe iš 126) rėmėsi abiem
-    minėtais autoriais.
+    Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,
+    po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl
+    „Polonus“), bet mirė ten nenuvykęs. Jis parašė Romos popiežių ir imperatorių istoriją
+    (faktus pateikdamas paraleliškai), kuri baigiama XIII a. VlII-ojo dešimtmečio įvykiais.
   citata_rodoma: "Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,\npo to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl\n„Polonus“), bet mirė ten nenuvykęs. Jis parašė Romos popiežių ir imperatorių istoriją\n(faktus pateikdamas paraleliškai), kuri baigiama XIII a. VlII-ojo dešimtmečio įvykiais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -390,12 +353,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
-    Šitaip brolis Konradas palinko į Teutonų namų ordiną. Vieną gražią dieną, bėgdamas
-    nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš
-    Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
-    ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
-    597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
+    Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
+    III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
   citata_rodoma: "Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus\nIII (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

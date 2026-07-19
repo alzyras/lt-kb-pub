@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)
 
 ## Santrauka
@@ -44,22 +45,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-75222"></a>
-- t-003
-  teiginys: "Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-23111
 
 <a id="claim-t-75223"></a>
 - t-004
@@ -94,12 +79,10 @@ Nenurodyta
   citata_rodoma: "Kiek­\nvienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-\nrių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos \nrinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir \nkonsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-\nmo) Europos parlamentui teisę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-73084
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

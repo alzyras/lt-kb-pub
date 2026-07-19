@@ -8,16 +8,16 @@ datos:
   - '1235 m.'
 date_start: '1202'
 date_end: '1235'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - diplomatas
   - kunigaikštis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,6 +31,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Labuda G
 
 ## Santrauka
@@ -38,15 +39,6 @@ media_all_json: |-
 Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigia, kad jučas); Labuda G. Dusburgietis teigia, kad labuda G.
 
 ## Teiginiai
-
-<a id="claim-t-64697"></a>
-- t-007
-  teiginys: "G. Labuda Dirsovės vardą laikė prūsišku."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-65347
 
 <a id="claim-t-64698"></a>
 - t-005
@@ -102,7 +94,7 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 <a id="claim-t-64701"></a>
 - t-002
   teiginys: "G. Labuda recenzavo M. Hellmanno darbą apie Prūsijos istorijos pagrindus."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -126,25 +118,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65349
-
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'G. Labuda recenzavo M. Hellmanno darbą apie Prūsijos istorijos pagrindus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
-
-      149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,
-    с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—
-    30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński
-    J. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV
-
-    iš Dusburgo kronikos faktai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -184,7 +157,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-006
 
 - id: c-65348
@@ -192,13 +164,14 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šit todėl mums ir šiandien aktualu pažinti šią viduramžių kroniką, nes ji ne tik
-    ryškiai atskleidžia vokiečių feodalų agresijos praeityje esmę, bet įgalina giliau suvokti
-    revanšistinių samprotavimų, taikaus tautų sambūvio priešininkų idėjines ištakas.
-    Nepaisant mūsų minėtų tendencijų ir netikslumų,  Dusburgo kronika — labai svarbus
-    istorijos šaltinis, kuriame užfiksuota daug svarbios baltistikai bei lituanistikai medžiagos.
-    Čia pateikta ryškių faktų, charakterizuojančių ekonominę, visuomeninę ir politinę prūsų
-    bei lietuvių nobiliteto padėtį, XIII—XIV a. susiformavusius klasinius skirtumus.
+    Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
+
+      149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,
+    с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—
+    30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński
+    J. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV
+
+    iš Dusburgo kronikos faktai.
   citata_rodoma: "Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro\n\n  149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,\nс. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—\n30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński\nJ. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV\n\niš Dusburgo kronikos faktai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

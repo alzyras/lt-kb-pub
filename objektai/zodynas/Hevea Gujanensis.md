@@ -108,15 +108,13 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
   citata_originali: |
     Tik
     Hevea Gujanensis, anot gamtininkų aprašymų, išauga
-    taip pat labai aukšta; jos vainikas menkas, kamienas vi­
-    siškai bešakis, medis lengvas, retas, lankstus, labai pa­
-    našūs į Manioc, vaisius tribriaunis, turi tris sėklų bran­
+    taip pat labai aukšta; jos vainikas menkas, kamienas vi-
+    siškai bešakis, medis lengvas, retas, lankstus, labai pa-
+    našūs į Manioc, vaisius tribriaunis, turi tris sėklų bran-
     duolius, valgomus migdolus, iš kurių gaunama alyva,
-    vartojama vietoj riebalų. Jos sakai aromatingi, naudo­
-    jami žvakėms ir deglams daryti. Tad čia rasta šiokia to­
+    vartojama vietoj riebalų. Jos sakai aromatingi, naudo-
+    jami žvakėms ir deglams daryti. Tad čia rasta šiokia to-
     kia giminystė, bet tik giminystė“.
-    Man atrodo panašu į tiesą, kad kažkada gintaro pal­
-    mė augusi Šiaurėje.
   citata_rodoma: "Tik\nHevea Gujanensis, anot gamtininkų aprašymų, išauga\ntaip pat labai aukšta; jos vainikas menkas, kamienas vi-\nsiškai bešakis, medis lengvas, retas, lankstus, labai pa-\nnašūs į Manioc, vaisius tribriaunis, turi tris sėklų bran-\nduolius, valgomus migdolus, iš kurių gaunama alyva,\nvartojama vietoj riebalų. Jos sakai aromatingi, naudo-\njami žvakėms ir deglams daryti. Tad čia rasta šiokia to-\nkia giminystė, bet tik giminystė“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

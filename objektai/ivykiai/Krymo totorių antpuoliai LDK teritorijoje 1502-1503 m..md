@@ -8,14 +8,14 @@ datos:
   - '1503 m.'
 date_start: '1502'
 date_end: '1503'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - invazija
   - karas
   - ivykis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -103,9 +103,12 @@ Nenurodyta
   pagrindžia:
     - c-169988
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+## Citatos
+
+- id: c-169988
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais,
     pradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m.
@@ -115,32 +118,6 @@ Nenurodyta
     duko ir Vilniaus vaivadijas, pasiekdami pat| valstybės centrą.
     T ai turėjo daryti labai dideli ir nem alonų |spūd| ano meto LDK
     visuomenei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-186805
-
-## Citatos
-
-- id: c-169988
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    “ Konflikto priežastis buvo ne tik A. Drošdšos ir Iljiničiaus
-    byla, bet ir politiniai nesutarimai — J. Zaberezinskio ir kitų LDK
-    Ponų Tarybos narių pasisakymas už vadinamųjų Melniko unijų,
-    kuriai Aleksandras ir jo broliai buvo priešingi dėl savo dinastinių
-    interesų. Savo ruožtu M. Glinskis veikė kaip Aleksandro politikos
-    rėmėjas, J. Zaberezinskio ir jo šalininkų politinis priešininkas.
-    4T Iš Jono Zaberezinskio buvo atimta n e tik Trakų vaivados,
-    bet laikinai ir krašto maršalo vieta. Be to, jis drauge su Vilniaus
-    vyskupu Vaitiekumi Taboru, etmonu St. Kiška ir Žemaičių seniūnu
-    Stanislovu
-    Jonaičiu
-    Kęsgailą buvo pašalintas iš Ponų Tarybos.
   citata_rodoma: "BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais, \npradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m. \nKrymo totoriai tenkinosi pietinių LDK sričių — Podolės ir Voly­\nnės — niokojimu, o  nuo 1502 m. persim etė | šiaurę nuo Pripetės \npelkių. ) dar nepažeistas ir palyginti tankiau gyvenam as Naugar­\nduko ir Vilniaus vaivadijas, pasiekdami pat| valstybės centrą. \nT ai turėjo daryti labai dideli ir nem alonų |spūd| ano meto LDK \nvisuomenei."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

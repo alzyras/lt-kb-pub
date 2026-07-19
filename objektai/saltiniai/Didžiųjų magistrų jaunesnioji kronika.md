@@ -8,12 +8,12 @@ datos:
   - '1217 m.'
 date_start: '1216'
 date_end: '1217'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -79,20 +79,6 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   pagrindžia:
     - c-61584
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),
-    kitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. L.,
-    Die Eroberung.., 4, 109; Sch-K).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61582
@@ -100,11 +86,9 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie 3 brolių ir 40 vyrų nužudymą
-    Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene
-    patraukė prie Baigos. Broliai su savo kariais, jiems priešindamiesi, nukovė du kilmingus
-    prūsus. Tą dieną pakilo tokia migla, kad žmonės, tolėliau stovėdami, negalėjo kits kito
-    matyti.
+    412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),
+    kitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. L.,
+    Die Eroberung.., 4, 109; Sch-K).
   citata_rodoma: "412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),\nkitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. L.,\nDie Eroberung.., 4, 109; Sch-K)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

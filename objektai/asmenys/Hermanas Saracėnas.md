@@ -125,26 +125,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     - c-60552
 
 ## Reikšmingi paminėjimai
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie vieno Karaliaučiaus brolio šlovingą gyvenimą
-
-      Tuo metu Karaliaučiaus pilies brolių konvente gyveno brolis Hermanas, pravarde
-    Saracėnas341, gimęs  Švabijoje;  dar būdamas  pasaulietis,  jis  taip  karštai  pamilo
-    švenčiausiąją mergelę Mariją, kad niekada niekam nieko neatsakydavo, jos vardu ko
-    paprašytas. Kartą, kai vienas karys, jo paimtas  į nelaisvę ir spiriamas arba sumokėti
-    tam tikrą pinigų sumą, kurios nieku būdu nestengė surinkti, arba padėti galvą, paprašė,
-    kažkieno pamokytas, jo pasigailėti iš pagarbos švenčiausiajai mergelei Marijai, šis brolis,
-    išgirdęs prašymą, tučtuojau nedvejodamas paleido tą karį.
-
-                             80 (78).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-194492
 - c-003
   santrauka: 'Pasakojime Mergelė Marija ne kartą slapta ir draugiškai kalbėjosi su Hermanu Saracėnu, jau priimtu į Teutonų ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -189,18 +169,20 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dar apie tą patį
-    Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po
-    kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną
-    sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis stengėsi patirti jos
-    liūdesio priežastį, atsakė: „Man liūdna, kad mano mielieji sūnūs, o tavo broliai iš Teutonų
-    ordino, kitados apie nieką kita nesikalbėję, tik apie mano sūnų, apie mane ir šventųjų
-    darbus, dabar apie nieką kita nesikalba, tik apie karalių bei kunigaikščių darbus ir šio
-    pasaulio tuštybę, o labai retai kada arba niekada nemini nei mano sūnaus, nei manęs,
-    nei šventųjų darbų“.
-    340  Gerhardas iš Hiršbergo (Hircbergo) 1257—1259 m. buvo krašto vicemagistras
-    (Voigt J., Namen.., p. 3; AB, 1, p. 278).
-    341  Toliau (III, 87) Dusburgietis rašo, kad jis žuvo Durbės kautynėse.
+    Apie vieno Karaliaučiaus brolio šlovingą gyvenimą
+
+      Tuo metu Karaliaučiaus pilies brolių konvente gyveno brolis Hermanas, pravarde
+    Saracėnas341, gimęs  Švabijoje;  dar būdamas  pasaulietis,  jis  taip  karštai  pamilo
+    švenčiausiąją mergelę Mariją, kad niekada niekam nieko neatsakydavo, jos vardu ko
+    paprašytas. Kartą, kai vienas karys, jo paimtas  į nelaisvę ir spiriamas arba sumokėti
+    tam tikrą pinigų sumą, kurios nieku būdu nestengė surinkti, arba padėti galvą, paprašė,
+    kažkieno pamokytas, jo pasigailėti iš pagarbos švenčiausiajai mergelei Marijai, šis brolis,
+    išgirdęs prašymą, tučtuojau nedvejodamas paleido tą karį.
+
+
+
+
+                             80 (78).
   citata_rodoma: "Apie vieno Karaliaučiaus brolio šlovingą gyvenimą\n\n  Tuo metu Karaliaučiaus pilies brolių konvente gyveno brolis Hermanas, pravarde\nSaracėnas341, gimęs  Švabijoje;  dar būdamas  pasaulietis,  jis  taip  karštai  pamilo\nšvenčiausiąją mergelę Mariją, kad niekada niekam nieko neatsakydavo, jos vardu ko\npaprašytas. Kartą, kai vienas karys, jo paimtas  į nelaisvę ir spiriamas arba sumokėti\ntam tikrą pinigų sumą, kurios nieku būdu nestengė surinkti, arba padėti galvą, paprašė,\nkažkieno pamokytas, jo pasigailėti iš pagarbos švenčiausiajai mergelei Marijai, šis brolis,\nišgirdęs prašymą, tučtuojau nedvejodamas paleido tą karį.\n\n\n\n\n                         80 (78)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

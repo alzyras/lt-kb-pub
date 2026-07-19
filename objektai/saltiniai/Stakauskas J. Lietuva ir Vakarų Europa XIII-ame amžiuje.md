@@ -7,12 +7,12 @@ datos:
   - '1934 m.'
 date_start: '1934'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,38 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad stakauskas J.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Stakausko veikalas „Lietuva ir Vakarų Europa XIII-ame amžiuje“ išleistas 1934 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje.—K., 1934.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61928
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    252—261.
-    Батура Р. К. Из проблематики «Хроники земли Прусской» Дусбурга. — Балто-
-    славянские этноязыковые отношения в историческом и ареальном плане: Тезисы
-    докладов, М, 1983 с.
-  citata_rodoma: "Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje.—K., 1934."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -84,3 +52,20 @@ Dusburgietis teigia, kad stakauskas J.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą ir leidimo metus."
   pagrindžia:
     - c-61928
+
+## Citatos
+
+- id: c-61928
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje.—K., 1934.
+  citata_rodoma: "Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje.—K., 1934."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

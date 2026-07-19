@@ -11,14 +11,14 @@ datos:
   - '1621 m.'
 date_start: '1430'
 date_end: '1621'
+amziai:
+  - 'XV'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
-amziai:
-  - 'XV'
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -250,6 +250,53 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 - susijęs iš [[objektai/zodynas/Szalin.md#claim-t-192578|Szalin]]: Narbuto aiškinimu, Salavijos pavadinimas kilo iš lietuviško žodžio Szalin, nes ji laikyta toliausiai į šiaurę plytinčia žeme.
 - susijęs iš [[objektai/zodynas/Szalin.md#claim-t-192221|Szalin]]: Narbuto aiškinimu, Szalin siejamas su Salavija, nes ši buvo laikoma toliausiai į šiaurę plytinčia žeme.
 - susijęs iš [[objektai/asmenys/Petras (Krokuvos vaivada).md#claim-t-186155|Petras (Krokuvos vaivada)]]: Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Narbutas pasakoja, kad Frotono III sūnus Fridleifas buvo auklėtas Rusioje pas motinos giminaičius ir jų padedamas susigrąžino Danijos sostą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Sklinda garsūs senoviniai skandinavų padavimai apie
+    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
+    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
+    ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
+    Haroldo rūmuose kartu su karalaičiu Vikaru. Sis Siaurės
+    didvyris pirmaisiais V amžiaus metais, kai Letrą, t. y. Da­
+    niją, valdė karaliai Halfadonas ir Fridleifas, o po jų —
+    Frotonas IV, daug kartų rengė žygius į tolimus kraštus.
+    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
+    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
+    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
+    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
+    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
+    nijos karalystei.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Todėl, būdamas ramus dėl vidaus reikalų, Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į Rusią.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Skirmantas, kuo grei­
+    čiausiai sutraukęs didžiulę kariuomenę, kurią sudarė
+    rusai, šioje Neries pusėje gyvenantys lietuviai, be to,
+    Kukovaičio atsiųsti Užnerio lietuviai, pasiuntiniams
+    surengė kuo šauniausią puotą; po ilgų vaišių, kai šie
+    jau ketino keliauti atgal, Skirmantas įsakė visiems nu­
+    pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
+    pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
+    tuviams kalbėję apie duoklę. Jeigu jie turi kokią teisę
+    į Rusios dalį, pavaldžią Lietuvai, tegu nuo šiol siekia
+    jos ginklais, o ne per pasiuntinius. Tegu jie žino, kad
+    į šitokį pasiuntinių pareiškimą lietuviai negali duoti
+    kitokio atsakymo nei tas, kurį dabar davė".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-81923
@@ -354,20 +401,17 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Visi Šie įvykiai siejami su III amžiumi.
+    235
+    Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
+    pas motinos, karalaitės Chunigardijos, gimines; vieno iš
+    giminaičių — rusnėnų karaliuko — padedamas, jis susi­
+    grąžino iš jo tėvo atimtą Danijos sostą1.
+    236
     Sklinda garsūs senoviniai skandinavų padavimai apie
     didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
     niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
-    ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
-    Haroldo rūmuose kartu su karalaičiu Vikaru. Sis Siaurės
-    didvyris pirmaisiais V amžiaus metais, kai Letrą, t. y. Da­
-    niją, valdė karaliai Halfadonas ir Fridleifas, o po jų —
-    Frotonas IV, daug kartų rengė žygius į tolimus kraštus.
-    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
-    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
-    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
-    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
-    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
-    nijos karalystei.
+    ringumo žmogus.
   citata_rodoma: "Visi Šie įvykiai siejami su III amžiumi.\n235\nFrotono III sūnus Fridleifas buvo auklėjamas Rusioje,\npas motinos, karalaitės Chunigardijos, gimines; vieno iš\ngiminaičių — rusnėnų karaliuko — padedamas, jis susi­\ngrąžino iš jo tėvo atimtą Danijos sostą1.\n236\nSklinda garsūs senoviniai skandinavų padavimai apie\ndidvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­\nniojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­\nringumo žmogus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -406,19 +450,20 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Skirmantas, kuo grei­
-    čiausiai sutraukęs didžiulę kariuomenę, kurią sudarė
-    rusai, šioje Neries pusėje gyvenantys lietuviai, be to,
-    Kukovaičio atsiųsti Užnerio lietuviai, pasiuntiniams
-    surengė kuo šauniausią puotą; po ilgų vaišių, kai šie
-    jau ketino keliauti atgal, Skirmantas įsakė visiems nu­
-    pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
-    pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
-    tuviams kalbėję apie duoklę. Jeigu jie turi kokią teisę
-    į Rusios dalį, pavaldžią Lietuvai, tegu nuo šiol siekia
-    jos ginklais, o ne per pasiuntinius. Tegu jie žino, kad
-    į šitokį pasiuntinių pareiškimą lietuviai negali duoti
-    kitokio atsakymo nei tas, kurį dabar davė".
+    Grėsminga tebuvo šiaurė, tačiau
+    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
+    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
+    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
+    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
+    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
+    tas, norėdamas išdildyti pri-
+    S k irm a n ta s su m u ša
+    siminimus apie pralaimėjimą,
+    sk itu s
+    patirtą prieš keletą metų;
+    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
+    pareikalauti iš Rusios duoklės.
   citata_rodoma: "Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią. Karą prieš Skirmantą susimanė rengti Balakla-\njus, naujas Užvolgio skitų kunigaikštis, galimas daib-\ntas, norėdamas išdildyti pri-\nS k irm a n ta s su m u ša\nsiminimus apie pralaimėjimą,\nsk itu s\npatirtą prieš keletą metų;\nteisėtos priežasties, jis išleido pasiuntinius, turėjusius\npareikalauti iš Rusios duoklės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

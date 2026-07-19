@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Simonas Grunau
 
 ## Santrauka
@@ -115,7 +116,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 <a id="claim-t-188610"></a>
 - t-005
   teiginys: "Narbutas perteikė Grunau pasakojimą, kad šis atsitiktinai pateko į kaimą per ožio aukojimą ir turėjo prisiekti Perkūnui neišduoti apeigų vyskupui."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,6 +133,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171499
+    - c-171505
 
 <a id="claim-t-188611"></a>
 - t-006
@@ -203,7 +205,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 <a id="claim-t-188615"></a>
 - t-010
   teiginys: "Narbutas Simoną Grunau vadino seniausiu žinomu šio pasakojimo šaltiniu ir gynė jį kaip didesnės pagarbos vertą kronikininką."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -219,6 +221,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171504
+    - c-171505
 
 <a id="claim-t-188616"></a>
 - t-011
@@ -277,93 +280,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - susijęs iš Simono Grunau kronika: Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93428|Kristijonas (vyskupas, XIII a.)]]: Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.
 - susijęs iš [[objektai/autoriai/Kristijonas.md#claim-t-190394|Kristijonas]]: Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą ir krivio buvimą grindė pirmojo Prūsijos vyskupo Kristijono kronika.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Narbutas rašė, kad Simonas Grunau kroniką grindė seniausiomis kronikomis apie legendinį žiemą ir vasarą žaliavusį Romovės ąžuolą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šio milžiniš­
-    ko medžio kelmo skersmuo buvo šešios uolektys, šakos suda­
-    rė tris tarpsnius, arba aukštus, ir buvo tokios tankios ir apau­
-    gusios lapais, kad neprasiskverbdavo nei lietus, nei sniegas.
-    Nuostabiausias dalykas, ką aiškiai patvirtina seniausios kroni­
-    kos, iš kurių rašė savo kroniką Simonas Grunau, kad Romo­
-    vės ąžuolas žaliavo vasarą bei žiemą ir lapai visi nuo jo niekad
-    nenukrisdavo. Tą ypatybę kronikininkai priskiria velnio galy­
-    bei, manydami, kad velniai buvo garbinami toje šventykloje
-    šalies dievų pavidalu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Narbutas perteikė Grunau pasakojimą, kad šis atsitiktinai pateko į kaimą per ožio aukojimą ir turėjo prisiekti Perkūnui neišduoti apeigų vyskupui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kronikininkas
-    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
-    patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
-    kūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis
-    taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
-    dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
-    už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
-    vo lazda.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Grunau pasakojime apie išpažintį vyrai klaupdavosi prieš vaidilą, išpažindavo nuodėmes ir kaip atgailą patirdavo fizines bausmes.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tą išpažintį jis
-    taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
-    dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
-    už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
-    vo lazda. Pagaliau atgailautojai apmušė ir patį vaidilą. Į mote­
-    ris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­
-    žintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug
-    kitokių pamokymų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-008
-  santrauka: 'Narbutas nurodė, kad Henenbergeris ir Hartknochas iš Grunau perėmė žinią apie ypatingą senovės prūsų vėliavos užrašą nežinomomis raidėmis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ant tos vėliavos
-    buvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­
-    telės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-
-    6 Hartknoch.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-010
-  santrauka: 'Narbutas Simoną Grunau vadino seniausiu žinomu šio pasakojimo šaltiniu ir gynė jį kaip didesnės pagarbos vertą kronikininką.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
-    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-21972
@@ -430,20 +346,16 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vis dėlto galimas
-    daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
-    reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
-    apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
-    mą amalo žaluma nuspalvintų jo vainiką.
-    Sventamiestyje, vėliau Heiligenbeilyje, vadinamame Šven­
-    tuoju Kirveliu, augo panašios rūšies žiemą vasarą žalias neap­
-    sakomo storumo ąžuolas. Varmijos vyskupų biografas Trete-
-    ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
-    kas ąžuolas, kuris tiek vasarą, tiek žiemą žaliavo (be abejo,
-    velnio pastangomis).
-    Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa­
-    prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa­
-    mokslų ir pamokymų, nesiliovė po juo garbinti dievų.
+    Šio milžiniš­
+    ko medžio kelmo skersmuo buvo šešios uolektys, šakos suda­
+    rė tris tarpsnius, arba aukštus, ir buvo tokios tankios ir apau­
+    gusios lapais, kad neprasiskverbdavo nei lietus, nei sniegas.
+    Nuostabiausias dalykas, ką aiškiai patvirtina seniausios kroni­
+    kos, iš kurių rašė savo kroniką Simonas Grunau, kad Romo­
+    vės ąžuolas žaliavo vasarą bei žiemą ir lapai visi nuo jo niekad
+    nenukrisdavo. Tą ypatybę kronikininkai priskiria velnio galy­
+    bei, manydami, kad velniai buvo garbinami toje šventykloje
+    šalies dievų pavidalu.
   citata_rodoma: "Šio milžiniš­\nko medžio kelmo skersmuo buvo šešios uolektys, šakos suda­\nrė tris tarpsnius, arba aukštus, ir buvo tokios tankios ir apau­\ngusios lapais, kad neprasiskverbdavo nei lietus, nei sniegas.\nNuostabiausias dalykas, ką aiškiai patvirtina seniausios kroni­\nkos, iš kurių rašė savo kroniką Simonas Grunau, kad Romo­\nvės ąžuolas žaliavo vasarą bei žiemą ir lapai visi nuo jo niekad\nnenukrisdavo. Tą ypatybę kronikininkai priskiria velnio galy­\nbei, manydami, kad velniai buvo garbinami toje šventykloje\nšalies dievų pavidalu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -458,20 +370,14 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žino­
-    mai gero elgesio ir pasitikėjimo vertas liudytojas dėdavo savo
-    kepurę ant stalo priešais teisėją ir sakydavo: „Kaip aš tą kepu­
-    rę atiduodu į tavo rankas, taip esu pasirengęs atiduoti savo
-    galvą, laiduodamas, kad mano liudijimas yra sąžiningas“. Šie
-    paprasti žodžiai, kupini nuoširdaus išpažinimo ir ryžtingai ra­
-    ginantys pasitikėti, yra senųjų lietuvių būdo bruožas; jiems liu­
-    dytojo sąžiningumas buvo ne žaislas. Jeigu priesaiką duodavo
-    tam, kad kas nors būtų išteisintas, tai tas, kuris norėjo būti ištei­
-    sintas, sakydavo priesaikos žodžius, o kaip užstatą duodavo tam
-    tikrą pinigų sumą, pavyzdžiui, rublį grašiais; jeigu ieškinį patei­
-    kusi pusė sutikdavo su priesaikos žodžiais, tai yra su kepurės
-    padavimu, priesaiką priimdavo, bet jai būtinai reikėjo sumokėti
-    rublį grašiais, kurie buvo kepurėje.
+    Kronikininkas
+    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
+    patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
+    kūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis
+    taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
+    dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
+    už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
+    vo lazda.
   citata_rodoma: "Kronikininkas\nGrunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai\npatekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­\nkūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis\ntaip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­\ndilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė\nuž plaukų, kitiems skaldė antausius, trečius gerokai apmušda­\nvo lazda."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -487,20 +393,14 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žino­
-    mai gero elgesio ir pasitikėjimo vertas liudytojas dėdavo savo
-    kepurę ant stalo priešais teisėją ir sakydavo: „Kaip aš tą kepu­
-    rę atiduodu į tavo rankas, taip esu pasirengęs atiduoti savo
-    galvą, laiduodamas, kad mano liudijimas yra sąžiningas“. Šie
-    paprasti žodžiai, kupini nuoširdaus išpažinimo ir ryžtingai ra­
-    ginantys pasitikėti, yra senųjų lietuvių būdo bruožas; jiems liu­
-    dytojo sąžiningumas buvo ne žaislas. Jeigu priesaiką duodavo
-    tam, kad kas nors būtų išteisintas, tai tas, kuris norėjo būti ištei­
-    sintas, sakydavo priesaikos žodžius, o kaip užstatą duodavo tam
-    tikrą pinigų sumą, pavyzdžiui, rublį grašiais; jeigu ieškinį patei­
-    kusi pusė sutikdavo su priesaikos žodžiais, tai yra su kepurės
-    padavimu, priesaiką priimdavo, bet jai būtinai reikėjo sumokėti
-    rublį grašiais, kurie buvo kepurėje.
+    Tą išpažintį jis
+    taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
+    dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
+    už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
+    vo lazda. Pagaliau atgailautojai apmušė ir patį vaidilą. Į mote­
+    ris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­
+    žintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug
+    kitokių pamokymų.
   citata_rodoma: "Tą išpažintį jis\ntaip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­\ndilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė\nuž plaukų, kitiems skaldė antausius, trečius gerokai apmušda­\nvo lazda. Pagaliau atgailautojai apmušė ir patį vaidilą. Į mote­\nris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­\nžintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug\nkitokių pamokymų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -534,14 +434,10 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sis paprotys lietuviams
-    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
-    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
-    kad jiems būtų suteikti herbai - taip būdavo Lenkijoje. Bet, ne­
-    paisant to, visuomet, bent jau nuo Gedimino laikų, Lietuvoje
-    šeimos herbai egzistavo*. Vienas kitas aiškiai lietuviškas her­
-    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
-    rios tais herbais naudojosi.
+    Ant tos vėliavos
+    buvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­
+    telės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-
+    6 Hartknoch.
   citata_rodoma: "Ant tos vėliavos\nbuvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­\ntelės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-\n6 Hartknoch."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -579,27 +475,16 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O kas gi buvo
-    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
-    tuva kilties ir vienos genties broliai? Labiausiai kritikui nepa­
-    tiko, kad didžioji vardų dalis baigiasi raide o; tokių prūsiškų,
-    šiaip jau žinomų vardų esą maža. Atsakant į tai, reikia atkreipti
-    kritiko dėmesį, kad tie vardai kronikose iš dalies rašomi ne­
-    tiksliai, kadangi šiaip jau žinomiBrutenes (Brutenis) ir Wejda-
-    wutis (Vaidevutis) tame būryje turi tokias pat vardų galūnes.
-    Tačiau pats kritikas negali užginčyti, kad buvo vardų ir su to­
-    kia galūne; tegu pamąsto apie tokį atvejį, jog tų žmonių būry­
-    je daugiausia buvo turinčių tas nelaimingas galūnes, kurios
-    padarė, kad autorius pats susilpnina ir vienu plunksnos brūkš­
-    niu padaro abejotinus savo principinius teiginius, taip stropiai
-    pateiktus anksčiau toje pačioje istorijoje, ir vyriausiojo žynio
-    buvimo įrodymus, nukreiptus prieš priešingų hipotezių kėlė­
-    jus, - įrodymus, tokius tvirtus, aiškius ir akivaizdžius, kiek tik
-    leidžia pagalbinės istorijos mokslo priemonės, - pasitelkda­
-    mas hipotezes jiems visiškai sugriauti ir dar hipotezes, pasi­
-    skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
-    savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
-    jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
+    1.
+    Seniausias žinomas šito šaltinis yra Simonas Grunau,
+    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
+    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
+    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
+    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
+    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
+    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
+    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
+    11 Sirvydo žodynas.
   citata_rodoma: "1.\nSeniausias žinomas šito šaltinis yra Simonas Grunau,\nnaujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš\ntikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­\nšantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug\nužsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais\nnekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­\nma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų\narba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­\n11 Sirvydo žodynas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -632,6 +517,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
+    - t-010
     - t-011
 
 - id: c-173850

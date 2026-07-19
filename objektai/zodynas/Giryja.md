@@ -120,24 +120,22 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
     - c-175064
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas Giryjos kilmę aiškina per lietuvių kalbos žodį „girija“, reiškiantį mišką.'
+- c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Reikėtų
-    atsisakyti šio aiškinimo, nes paminklas daug senesnis už
-    pačią epochą. Gal net lengviau būtų paaiškinti šio žodžio
-    'kilmę iš lietuvių kalbos; jis turi prasmę be jokao raidžių
-    iškraipymo: Giryja, girija, miškas, Girkija, girkija, miš­
-    kingumas1. Be to, prisiminkime, kad senaisiais amžiais
-    ir svetimšaliai vadindavo lietuvius Geras\ lietuvių kalba
-    turi tokį pat žodį, taip pat primena skitišką gerų kastą
-    (§34), ¡gyvenusią miškingose dykrose prie tautos kapų.
+    P. 3 11. Čia dyk­
+    ra — Solitudo, Giria. Pagaliau tegu mokslininkai kaip
+    išmanydami
+    varžosi darydami etimologines išvadas, mes nelinkę šito daryti; ta­
+    čiau vis dėlto Giryja, kraštas Gerrhus ir Grykija, jei ir nereiškia vie­
+    no krašto, tokį pavadinimą yra gavusi iš tos pačios tautos.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+    - t-005
 
 ## Citatos
 
@@ -170,11 +168,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    P. 3 11. Čia dyk­
-    ra — Solitudo, Giria. Pagaliau tegu mokslininkai kaip
-    išmanydami
-    varžosi darydami etimologines išvadas, mes nelinkę šito daryti; ta­
-    čiau vis dėlto Giryja, kraštas Gerrhus ir Grykija, jei ir nereiškia vie­
+    tačiau vis dėlto Giryja, kraštas Gerrhus ir Grykija, jei ir nereiškia vie­
     no krašto, tokį pavadinimą yra gavusi iš tos pačios tautos.
   citata_rodoma: "tačiau vis dėlto Giryja, kraštas Gerrhus ir Grykija, jei ir nereiškia vie­\nno krašto, tokį pavadinimą yra gavusi iš tos pačios tautos."
   statusas: verified
@@ -191,18 +185,15 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Be to, prisiminkime, kad senaisiais amžiais
+    Reikėtų
+    atsisakyti šio aiškinimo, nes paminklas daug senesnis už
+    pačią epochą. Gal net lengviau būtų paaiškinti šio žodžio
+    'kilmę iš lietuvių kalbos; jis turi prasmę be jokao raidžių
+    iškraipymo: Giryja, girija, miškas, Girkija, girkija, miš­
+    kingumas1. Be to, prisiminkime, kad senaisiais amžiais
     ir svetimšaliai vadindavo lietuvius Geras\ lietuvių kalba
     turi tokį pat žodį, taip pat primena skitišką gerų kastą
     (§34), ¡gyvenusią miškingose dykrose prie tautos kapų.
-    S] pavadinimą pateikia kronikininkas Jonas, gy-venęs apie
-    1359 metus2. Ulmigerijos pavadinimas yra sudurtinis, t. y.
-    iš Ulm ir Gerya; pirmasis žodis buvo senovinės tvirtovės
-    pavadinimas, kurią vėliau vokiečiai pavadino Culm, o
-    lenkai —• Ruimu. Sis Kulmo provincijos pavadinimas sve­
-    timšalių raštuose buvo taikomas ir visai Prūsijai, būtent
-    priklausančiai kryžiuočiams, kurie valdyti pradėjo nuo
-    Ruimo.
   citata_rodoma: "Reikėtų\natsisakyti šio aiškinimo, nes paminklas daug senesnis už\npačią epochą. Gal net lengviau būtų paaiškinti šio žodžio\n'kilmę iš lietuvių kalbos; jis turi prasmę be jokao raidžių\niškraipymo: Giryja, girija, miškas, Girkija, girkija, miš­\nkingumas1. Be to, prisiminkime, kad senaisiais amžiais\nir svetimšaliai vadindavo lietuvius Geras\\ lietuvių kalba\nturi tokį pat žodį, taip pat primena skitišką gerų kastą\n(§34), ¡gyvenusią miškingose dykrose prie tautos kapų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

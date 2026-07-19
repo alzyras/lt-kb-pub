@@ -48,6 +48,27 @@ Nenurodyta
 
 Nenurodyta
 
+## Reikšmingi paminėjimai
+- c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Visa tai, kartu ir
+    įgimtas sąmojus darė jį tikrai nepaprastu žmogumi. Galų gale
+    kalba pasisuko apie dangaus kūnus, apie kuriuos taip man sakė:
+    „Senovės lietuviai, būdami pagonys, garbino dangaus kūnus, kaip
+    ir kitas žemės dievybes, iš kitokios minties atsiradusias, ir kurias
+    vargu ar būtų įmanoma suskaičiuoti, nes šis senovės tikėjimas
+    buvo užmirštas. Bet apie dangaus kūnus išliko' daugiau žinių, to­
+    dėl apsakysiu, ką žinau iš senų ir protingų valstiečių pasakoji­
+    mų, tarp kurių dar ir dabar galima rasti tokių, kurie mena tik
+    padavimuose ir dainose užfiksuotą praeitį — tik juose lietuviška
+    dvasia dar tebegyvena.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-174977
@@ -74,9 +95,6 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Visa tai, kartu ir
-    įgimtas sąmojus darė jį tikrai nepaprastu žmogumi. Galų gale
-    kalba pasisuko apie dangaus kūnus, apie kuriuos taip man sakė:
     „Senovės lietuviai, būdami pagonys, garbino dangaus kūnus, kaip
     ir kitas žemės dievybes, iš kitokios minties atsiradusias, ir kurias
     vargu ar būtų įmanoma suskaičiuoti, nes šis senovės tikėjimas
@@ -84,7 +102,7 @@ Nenurodyta
     dėl apsakysiu, ką žinau iš senų ir protingų valstiečių pasakoji­
     mų, tarp kurių dar ir dabar galima rasti tokių, kurie mena tik
     padavimuose ir dainose užfiksuotą praeitį — tik juose lietuviška
-    dvasia dar tebegyvena.
+    dvasia dar tebegyvena“.
   citata_rodoma: "„Senovės lietuviai, būdami pagonys, garbino dangaus kūnus, kaip\nir kitas žemės dievybes, iš kitokios minties atsiradusias, ir kurias\nvargu ar būtų įmanoma suskaičiuoti, nes šis senovės tikėjimas\nbuvo užmirštas. Bet apie dangaus kūnus išliko' daugiau žinių, to­\ndėl apsakysiu, ką žinau iš senų ir protingų valstiečių pasakoji­\nmų, tarp kurių dar ir dabar galima rasti tokių, kurie mena tik\npadavimuose ir dainose užfiksuotą praeitį — tik juose lietuviška\ndvasia dar tebegyvena“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

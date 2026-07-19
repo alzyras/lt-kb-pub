@@ -145,7 +145,7 @@ media_all_json: |-
 <a id="claim-t-180435"></a>
 - t-063
   teiginys: "Maskvos caras pyko, kad Steponas Batoras nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -581,7 +581,7 @@ media_all_json: |-
 <a id="claim-t-180476"></a>
 - t-035
   teiginys: "Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio, kilo atviras susirėmimas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Polockas: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -595,8 +595,6 @@ media_all_json: |-
   pagrindžia:
     - c-164058
     - c-182630
-    - c-164094
-    - c-182628
 
 <a id="claim-t-180479"></a>
 - t-049
@@ -858,7 +856,7 @@ media_all_json: |-
 <a id="claim-t-197474"></a>
 - t-085
   teiginys: "Trečioji - Jaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni gaikščio, mirusios Gedimino žmonos brolio, duktė."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2124,7 +2122,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-042
-    - t-035
 
 - id: c-164097
   autorius: "Michał Baliński"
@@ -2254,15 +2251,13 @@ media_all_json: |-
   puslapiai: "PDF 81"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 81."
   citata_originali: |
-    Bet anksčiau vokiečiai bu­
-    vo abiejų priešai — ir didžiojo kunigaikščio Kęstučio,
-    ir didžiojo kunigaikščio Jogailos. Pirmą kartą Livoni­
-    jos kariuomenė buvo atėjusi j pagalbą kunigaikščiui
-    Skirgailai prie Polocko, o paskui Prūsijos kariuomenė
-    su maršalu buvo atžygiavusi prie Trakų. O dabar jau
-    trečią kartą Livonijos kariuomenė atėjo su juo. Tai jau
-    buvo įrodymai, kad jie su jais išvien stojo prieš didįjį
-    kunigaikštį Kęstutį.
+    26. APIE KRYŽIUOČIŲ PAGALBĄ JOGAILAI IR DIDŽIOJO
+    KUNIGAIKŠČIO KĘSTUČIO NUŽUDYMĄ
+    Didysis kunigaikštis Kęstutis, užėmęs Vilnių, pasiun­
+    čia į Polocką du žmones, vieną į kariuomenę o kitą
+    į miestą. Polockiečiai apsidžiaugė ir šauksmu pranešė
+    kariuomenei, kariai atsimetė nuo Skirgailos ir patrau­
+    kė į Vilnių, pas didįjį kunigaikštį Kęstutį.
   citata_rodoma: "26. APIE KRYŽIUOČIŲ PAGALBĄ JOGAILAI IR DIDŽIOJO \nKUNIGAIKŠČIO KĘSTUČIO NUŽUDYMĄ\nDidysis kunigaikštis Kęstutis, užėmęs Vilnių, pasiun­\nčia į Polocką du žmones, vieną į kariuomenę o kitą \nį miestą. Polockiečiai apsidžiaugė ir šauksmu pranešė \nkariuomenei, kariai atsimetė nuo Skirgailos ir patrau­\nkė į Vilnių, pas didįjį kunigaikštį Kęstutį."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2922,7 +2917,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-042
-    - t-035
 
 - id: c-182629
   autorius: "Teodoras Narbutas"
@@ -3131,27 +3125,25 @@ media_all_json: |-
   puslapiai: "PDF 148"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 148."
   citata_originali: |
-    O Moldavijos vaivada, matydamas, kad
-    negalės jam atsispirti, pasiuntė pas jį savo pasiuntinius
-    ir sudarė su juo taiką, teikėsi su savo žeme duoti jam
-    vasalo ištikimybės priesaiką, kaip buvo prisiekęs jo
-    tėvui, karaliui Kazimierui, ir surašė raštus, prisiekė
-    griežtai to prisilaikysiąs32.
-    Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo
-    iš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu,
-    kuriuo buvo atžygiavęs, o norėdamas greičiau ir tie­
-    siau išeiti iš [moldavų] žemės, traukė stačiai per Buko­
-    viną ir kalnus, per uolėtus, sunkiai pereinamus miškus,
-    nes per tas akmeningas vietas ėjo tiesus, bet labai blo­
-    gas kelias Lenkijos sienos linkui33.
-    Moldavijos vaivada Steponas, išgirdęs, kad kara­
-    lius Olbrachtas nenori grįžti iš jo žemės tuo pačiu ke­
-    liu, kuriuo buvo atėjęs, o nori eiti kitais naujais ke­
-    liais, per uolėtą Bukoviną, labai dėl to apsidžiaugė34
-    ir, nė kiek nebepaisydamas priesaikos bei amžinosios
-    taikos sutarties, darydamas gėdą savo šaliai, skubiai
-    pranešė turkų sultonui, ir Vengrijai, ir Valakijos vai­
-    vadai.
+    APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
+    ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
+    SU MOLDAVUOS VAIVADA STEPONU
+    Tą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo
+    brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­
+
+    ## Puslapis 146
+
+    vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
+    seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 .
   citata_rodoma: "APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO \nALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA \nSU MOLDAVUOS VAIVADA STEPONU\nTą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo \nbrolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­\n\n## Puslapis 146\n\nvai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti \nseimą Parčeve. Tą pačią žiemą didysis kunigaikštis \nAleksandras su didžiąja kunigaikštiene Elena bei su \ndidikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­\nlenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo \nj Vilnių 3 .\nSeptyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -3442,4 +3434,4 @@ media_all_json: |-
 - Užėmė Polocką: [[objektai/asmenys/Skirgaila]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Rusai]], [[objektai/asmenys/Tautvilas]]
-- Polockas priklausė [[objektai/vietos/Lietuva]]
+- Polockas priklausė Lietuva

@@ -61,22 +61,6 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   pagrindžia:
     - c-172106
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas Baubliu vadino pasakojimų pranašišką ąžuolą, kuris esą kalbėdavęs ir atsakydavęs į klausimus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­
-    kus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­
-    mus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose
-    medžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo
-    Baubliu (Baublis)Ąi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172106
@@ -107,15 +91,11 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kad ir kaip ten būtų buvę, palikę
-    ramybėje mokslines išvadas, drįstame kurti savo hipotezę, jog
-    tiek ir lietuviams, tiek ir kitoms žemdirbių tautoms aludarystė
-    galėjo būti namų išradimas. Įvairiai ruošiant javus, lengva ap­
-    tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
-    ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
-    ėjus fermentaciją, alus jau ir gatavas. Iš tikrųjų turime įrody­
-    mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­
-    nojo nuo seniausių laikų.
+    Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­
+    kus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­
+    mus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose
+    medžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo
+    Baubliu (Baublis)Ąi.
   citata_rodoma: "Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­\nkus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­\nmus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose\nmedžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo\nBaubliu (Baublis)Ąi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -89,15 +89,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   puslapiai: "p. 133 (PDF 131)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 133 (PDF 131)."
   citata_originali: |
-    Šuo, dar jaunas būdamas, dėl savo kvailumo tiek
-    arti prilenda prie elgetos, kad gauna paragauti
-    jo rimbo, o paskiau
-    jau visada žino, kokio atstumo ta riba, kurios nereikia peržengti.
-    Raulas (tokia vaizduojamo elgetos pavardė) iš mažo sargino sa­
-    vo sergančią motiną, rinkdamas pas žmones
-    jai maistą, tuo pačiu ir
-    pats misdamas. Užaugęs bernavo pas ūkininkus, o pačią ir vaikus lai­
-    kė čia pat ūkininko grįtelėje.
+    Užaugęs bernavo pas ūkininkus, o pačią ir vaikus laikė čia pat ūkininko grįtelėje.
   citata_rodoma: "Užaugęs bernavo pas ūkininkus, o pačią ir vaikus laikė čia pat ūkininko grįtelėje."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
@@ -113,13 +105,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   puslapiai: "p. 133 (PDF 131)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 133 (PDF 131)."
   citata_originali: |
-    Ubago var­
-    das — poniška duona.“
-    Elgeta Raulas kasmet duoda sau du mėnesiu atostogų:
-    jis
-    ei­
-    na vasarą į dvarą sodo daboti. Ten gauna valgymą ir tris rublius per
-    du mėnesiu.
+    Elgeta Raulas kasmet duoda sau du mėnesiu atostogų: jis eina vasarą į dvarą sodo daboti. Ten gauna valgymą ir tris rublius per du mėnesiu.
   citata_rodoma: "Elgeta Raulas kasmet duoda sau du mėnesiu atostogų: jis eina vasarą į dvarą sodo daboti. Ten gauna valgymą ir tris rublius per du mėnesiu."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
@@ -135,17 +121,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   puslapiai: "p. 133 (PDF 131)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 133 (PDF 131)."
   citata_originali: |
-    Su rimbu veik­
-    damas nekerta iš aukšto, kaip daro piemenys, bet siaučia pažemiu,
-    sukdamas rimbą ratu taip, kad šuo, perdaug prisiartinęs, visada gaus
-    rimbo galu per koją. Šuo, dar jaunas būdamas, dėl savo kvailumo tiek
-    arti prilenda prie elgetos, kad gauna paragauti
-    jo rimbo, o paskiau
-    jau visada žino, kokio atstumo ta riba, kurios nereikia peržengti.
-    Raulas (tokia vaizduojamo elgetos pavardė) iš mažo sargino sa­
-    vo sergančią motiną, rinkdamas pas žmones
-    jai maistą, tuo pačiu ir
-    pats misdamas.
+    Raulas (tokia vaizduojamo elgetos pavardė) iš mažo sargino savo sergančią motiną, rinkdamas pas žmones jai maistą, tuo pačiu ir pats misdamas.
   citata_rodoma: "Raulas (tokia vaizduojamo elgetos pavardė) iš mažo sargino savo sergančią motiną, rinkdamas pas žmones jai maistą, tuo pačiu ir pats misdamas."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"

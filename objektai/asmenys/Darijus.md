@@ -179,25 +179,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - susijęs iš Voluika: Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje.
 - susijęs iš [[objektai/asmenys/Artabanas.md#claim-t-191254|Artabanas]]: Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti Darijų nuo žygio į nepažįstamą, nusiaubtą ir sausringą kraštą.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir keltis per Dnestrą, Būgą, Dneprą bei Donecą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kadangi priešo būriai buvo narsūs ir puikiai gink­
-    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
-    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
-    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
-    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
-    priverstas greitai pereiti visą Skitiją, persikelti per to­
-    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
-    cas. Antra vertus, persų karalius, pasak Herodoto, savo
-    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
-    čio tarytum padėjo skitams įgyvendinti jų ketinimus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-004
   santrauka: 'Narbutas manė, kad skitų žemdirbiai koloniją prie Dnepro įkūrė dar prieš Darijaus puolimą prieš Skitiją V a. pr. Kr. pradžioje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -215,27 +196,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Narbutas Darijaus nesėkmingam žygiui priskyrė didelę įtaką Skitijos vidaus gyvenimui ir jos artėjimui prie žlugimo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Galop išdidžiam monarchui buvo laimė persikelti
-    su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
-    pastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­
-    taip persai būtų jį neišvengiamai visiškai sutriuškinę1.
-    40
-    Darijui nepavyko įveikti skitų, bet šis žygis turėjo
-    didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­
-    tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo. Ko
-    gero, remdami Skitijos kolonistus graikus, persai palaikė
-    jų siekimą sunaikinti seną krašto tvarką ir suteikė progą
-    svetimoms gentims imtis veiksmų šiam tikslui įgyven­
-    dinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -244,20 +204,16 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Veltui šis uolus karvedys, nors į jo patarimus ir nebuvo
-    atkreipta dėmesio, iš paskutiniųjų stengėsi išgelbėti ka­
-    riuomenę, rodydamas kovingumo, pavyzdingos tvarkos ir
-    ištvermės įveikiant didžiausius sunkumus pavyzdį; mil­
-    žiniškos Darijaus kariuomenės buvo neįmanoma apsau­
-    goti nuo milžiniškų nuostolių. Sis karalius troško žūtbūt
-    pasiekti paskutines Skituos sritis. Jis nuėjo net iki gelonų
-    ir budinu krašto, kur tik pirmąsyk patyrė didelį džiaugs­
-    mą, išgriaudamas keletą tvirtų pilių. Dėl įvairių trūkumų
-    reikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo
-    atėjusi. Galop išdidžiam monarchui buvo laimė persikelti
-    su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
-    pastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­
-    taip persai būtų jį neišvengiamai visiškai sutriuškinę1.
+    Kadangi priešo būriai buvo narsūs ir puikiai gink­
+    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
+    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
+    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
+    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
+    priverstas greitai pereiti visą Skitiją, persikelti per to­
+    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
+    cas. Antra vertus, persų karalius, pasak Herodoto, savo
+    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
+    čio tarytum padėjo skitams įgyvendinti jų ketinimus.
   citata_rodoma: "Kadangi priešo būriai buvo narsūs ir puikiai gink­\nluoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­\ngalvoję ir išvengdami lemtingų kovų bei puldinėdami iš\nšonų ir užnugario, vertė priešą sparčiai žygiuoti su visa\njo nesuskaičiuojamų atsargų našta. Taip Darijus buvo\npriverstas greitai pereiti visą Skitiją, persikelti per to­\nkias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-\ncas. Antra vertus, persų karalius, pasak Herodoto, savo\ndvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­\nčio tarytum padėjo skitams įgyvendinti jų ketinimus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -342,28 +298,18 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ponas Eichvaldas, buvusio Vilniaus universiteto, o vėliau —
-    Vilniaus
-    medicinos-chirurgijos
-    akademijos
-    profesorius, „Dorpater
-    Jahrbuch“ paskelbė savo straipsnį apie Darijaus žygį prieš skitus
-    pavadinimu „Darijus, Histapo sūnus, Pinsko apylinkėse“, Jis, remda­
-    masis Herodoto ir Ktesijaus, o ypač pirmojo, kuris paliko budinu ša­
-    lies aprašymą, duomenimis, daro išvadą, jog lai turėjusi būti dabar­
-    tinė Polesė. Tą išvadą jis grindžia šiandienine topografine šios že­
-    mės padėtimi, Herodoto minimais upių pavadinimais bei kitomis
-    smulkmenomis, leidžiančiomis taip manyti
-    ir
-    įžvelgti
-    panašumą.
-    Eichvaldo hipotezės esmė būtų tokia: Darijus žygiavo kairiuoju Dnesl-
-    ro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių
-    Voluinės, Minsko ir Lietuvos gubernijų, o atgal grįžo dešiniąja Dnest-
-    ro pakrante. Ten keliaudamas susidūrė su budinais, Polesės gyvento­
-    jais, melanchlenais, estais, o galbūt ir androfagais, i. y. samojedals,
-    grįždamas susitiko su neurais Galicijos pasienyje bei androfagais
-    Transilvanijoje.
+    Galop išdidžiam monarchui buvo laimė persikelti
+    su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
+    pastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­
+    taip persai būtų jį neišvengiamai visiškai sutriuškinę1.
+    40
+    Darijui nepavyko įveikti skitų, bet šis žygis turėjo
+    didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­
+    tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo. Ko
+    gero, remdami Skitijos kolonistus graikus, persai palaikė
+    jų siekimą sunaikinti seną krašto tvarką ir suteikė progą
+    svetimoms gentims imtis veiksmų šiam tikslui įgyven­
+    dinti.
   citata_rodoma: "Galop išdidžiam monarchui buvo laimė persikelti\nsu likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats\npastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­\ntaip persai būtų jį neišvengiamai visiškai sutriuškinę1.\n40\nDarijui nepavyko įveikti skitų, bet šis žygis turėjo\ndidelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­\ntent nuo to laiko ji aiškiai ėmė artėti prie žlugimo. Ko\ngero, remdami Skitijos kolonistus graikus, persai palaikė\njų siekimą sunaikinti seną krašto tvarką ir suteikė progą\nsvetimoms gentims imtis veiksmų šiam tikslui įgyven­\ndinti."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

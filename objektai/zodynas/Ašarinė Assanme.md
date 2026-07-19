@@ -8,13 +8,13 @@ datos:
   - '1820 m.'
 date_start: '1789'
 date_end: '1820'
-amziai:
-  - 'XVIII'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XVIII'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -74,10 +74,12 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
   pagrindžia:
     - c-179149
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras pastatydavo kape prie mirusiojo kojų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172001
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ne­
     turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
@@ -87,30 +89,6 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     surinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių
     indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
     rusiojo kojų. Apie tai bus straipsnyje „Kapai“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172001
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Aplink
-    buvo girdimas įvairių žvėrių riaumojimas. Tačiau jėzuitai neišsi­
-    gando, elgėsi drąsiai ir nebaudžiami naikino senojo tikėjimo lie­
-    kanas ir vaizdinius. O šių reiškinių pasireiškimus aiškino kaip
-    krikščioniško Dievo įrodymą ir piktosios dvasios, įsikūnijusios į
-    stabus, menkumo demonstravimą. Taip jų mokslas rado mora­
-    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
-    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
-    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
-    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
-    kai.
   citata_rodoma: "Ne­\nturtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net\njei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­\nmingumo turi paklykauti .\nSeniau ašaras, išverktas per laidotuves, labai rūpestingai\nsurinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių\nindelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­\nrusiojo kojų. Apie tai bus straipsnyje „Kapai“."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

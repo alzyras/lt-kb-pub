@@ -7,13 +7,13 @@ datos:
   - '1384 m.'
 date_start: '1384'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - žemėlapis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,6 +51,22 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   pagrindžia:
     - c-61562
 
+<a id="claim-t-60931"></a>
+- t-003
+  teiginys: "XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokiškieji kryžiuočių kelių aprašymai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiškieji kryžiuočių kelių aprašymai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61564
+
 <a id="claim-t-60932"></a>
 - t-001
   teiginys: "1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow."
@@ -86,21 +102,6 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   pagrindžia:
     - c-61566
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kadangi  kair. Jūros intakas Sešuvis XIV a. pabaigoje kryžiuočių kelių   į Lietuvą
-    aprašymuose vadinamas Sessow, Sassow ir pan. (Weg. 6, 15, 27), daryta prielaida, kad
-    Dusburgiečio paminėta pilis buvusi prie Sešuvies (Mortensen G., Beitrage..., p. 27), jo
-    žemupio kair. krante (SZM, p. 289, žemėlapis; Salys A., Skalva, p. 538, 540).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61562
@@ -127,20 +128,19 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie daugybės pagudėnų išžudymą
-    Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
-    sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
-    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
-    476  1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
-    (plg. D. III, 223). Sukilimas galėjo vykti vienu metu su Lietuvos—jotvingių įsiveržimu
-    (D. III, 192) į vakarines Ordino valdas (Töppen M.— SRP, 1, p. 136).
+    Kadangi  kair. Jūros intakas Sešuvis XIV a. pabaigoje kryžiuočių kelių   į Lietuvą
+    aprašymuose vadinamas Sessow, Sassow ir pan. (Weg. 6, 15, 27), daryta prielaida, kad
+    Dusburgiečio paminėta pilis buvusi prie Sešuvies (Mortensen G., Beitrage..., p. 27), jo
+    žemupio kair. krante (SZM, p. 289, žemėlapis; Salys A., Skalva, p. 538, 540).
   citata_rodoma: "Kadangi  kair. Jūros intakas Sešuvis XIV a. pabaigoje kryžiuočių kelių   į Lietuvą\naprašymuose vadinamas Sessow, Sassow ir pan. (Weg. 6, 15, 27), daryta prielaida, kad\nDusburgiečio paminėta pilis buvusi prie Sešuvies (Mortensen G., Beitrage..., p. 27), jo\nžemupio kair. krante (SZM, p. 289, žemėlapis; Salys A., Skalva, p. 538, 540)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-61565
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

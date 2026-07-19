@@ -19,15 +19,15 @@ datos:
   - '2026 m.'
 date_start: '1289'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
   - sostinė
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -202,14 +202,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169153"></a>
 - t-022
   teiginys: "Draikas buvo nuvestas į Ragainę ir ten su visa šeimyna pakrikštytas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1409 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata turi neaiškią ankstesnio sakinio pradžią, bet aiškiai remia faktą apie Ragainę ir Draiką."
   pagrindžia:
-    - c-153893
     - c-153901
 
 <a id="claim-t-169154"></a>
@@ -342,14 +341,12 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169161"></a>
 - t-010
   teiginys: "Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1409 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-153887
-    - c-153893
     - c-153901
 
 <a id="claim-t-169162"></a>
@@ -826,6 +823,129 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - susijęs iš Aukaimio pilis (pilis): Per šv. Jono Krikštytojo dieną 36 lietuviai iš Aukaimio pilies apylinkių patraukė plėšikiškais išpuoliais trikdyti Ragainės brolių ramybės.
 - susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-62449|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus.
 - susijęs iš [[objektai/daiktai/Pilies vartai.md#claim-t-59700|Pilies vartai (pilis, XIV a.)]]: Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: '1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ši pilis
+    — vienas svarbiausių Žemaitijos gynybos centrų (žr. paaiškinimus D. III, 320, 1; D.
+    papildymai, 9; be to, SZM, p. 225; LAA, 2, p. 106).
+
+    328 (321). Apie 80 lietuvių žūtį 1316 metais
+    Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
+    60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,
+    turėjo iš čia pasitraukti, o į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
+    išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
+    329 (322). Apie Bisenės pilies sudeginimą 1316 metais
+    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
+    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
+    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
+    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: '1289 m. brolis Meinhardas Nemuno pakrantėje pastatė Landeshutės pilį, kuri vėliau vadinta Ragaine.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Kolainių pilies užpuolimą
+    1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
+    magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
+    pėstininkų. Pilyje buvo [jos] vadas Surminas, o su juo 120 karingų vyrų, kurie narsiai
+    priešinosi broliams. Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
+    nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo. Kai pradėjo temti,
+    penki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių
+    nuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino
+    paprastus karius, kad šie nudūmė prie laivų, manydami, jog artėja priešai. Broliai nieku
+    būdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tai
+    jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
+    pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
+    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
+    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
+    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87). Prūsijoje karų
+    dalyviams dievas netgi atleidžiąs bausmes, už kurias šiaip gresiąs amžinas pasmerkimas
+    (III, 54). Tai jau kryžiuočių kovinės dvasios ugdymas.
+    Vizijomis apie brolių žaizdas ir randus, kuriuos rodanti abejojantiems pati švenčiausioji
+    mergelė, teigiama, jog Vokiečių ordinas esąs pats geriausias, labiausiai nusipelnęs tarp
+    kitų panašių brolijų (III, 12).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-013
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Po to vieną pavakarę jis
+    išvydo teisėją, sėdintį prie pakylos, ir apsukui stovėjusią minią žmonių, kurie įniko jį
+    kaltinti visokiausiais nusikaltimais; įvestas į teismą ir teisėjo paklaustas, kuo galįs atremti
+    jam keliamus įkalčius, jis nusigandęs tylėjo. Ilgokai jam grasinę, galop tarėjai paprašė
+    teisėją jo pasigailėti, o jį paakino tučtuojau pakeisti savo gyvenimo būdą. Kai brolis
+    Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-017
+
+- c-015
+  santrauka: 'Tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vis dėlto vertėtų manyti, kad Petras iš Dusburgo, rašydamas
+    kroniką, gyveno rytinėje Kryžiuočių valstybės dalyje, veikiausiai Karaliaučiuje, nes tik
+    kronikos papildymuose pirmą kartą ryškiau iškyla „vakarinė“ autoriaus orientacija. Todėl
+    manoma, kad autorius persikėlė arčiau didžiojo magistro ryšium su kronikos dedikavimu
+    Verneriui64.
+    Buvo nuomonių, kad kronikos autorius kilęs iš pareinio Duisburgo. Pastaruoju metu jį
+    bandoma kildinti iš olandų Dusburgo (Doesburg), į rytus nuo Utrechto esančio miesto,
+    kur Vokiečių ordinas veikė nuo XIII а.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-019
+  santrauka: '1299 m. Brandenburgo komtūras Kanonas papildė kariuomenę stipriu Ragainės būriu ir laivais nuplukdė ją į Lietuvos gilumą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kanonas,
+    1299 m e ta i
+    Brandenburgo komtūras, su
+    nemaža kariuomene įsibro­
+    vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos
+    bei Pieštvės papilyse namus, o po to, papildęs kariuo­
+    menę stipriu Ragainės būriu, nugabeno ją laivais į
+    krašto gilumą. Pasroviui atskubėjo lietuviai ir, praradę
+    tik vieną saviškį, privertė priešą pasukti atgal. Kai
+    Nemune vyko šios laivų grumtynės, šeši šimtai raite­
+    lių įsiveržė į Prūsiją ir, nuniokoję pražygiuojamus kai­
+    mus, įvarė baimės aplinkinėms žemėms, nes kaimiečiai
+    nežinojo, kuria kryptimi ir kokiomis jėgomis priešas
+    puls. Kunonas, gavęs žinią apie priešą, spėjo, jog šie
+    braunasi į Notangą (mat ši buvo arčiausiai); tada sku­
+    biai patraukė su būriu į šalį ir, parinkęs gerą vietą
+    pasaloms, pradėjo laukti jų pasirodant.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-37686
@@ -868,20 +988,15 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ši pilis
-    — vienas svarbiausių Žemaitijos gynybos centrų (žr. paaiškinimus D. III, 320, 1; D.
-    papildymai, 9; be to, SZM, p. 225; LAA, 2, p. 106).
+    Apie Ragainės pilies užpuolimą
 
-    328 (321). Apie 80 lietuvių žūtį 1316 metais
-    Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
-    60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,
-    turėjo iš čia pasitraukti, o į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
-    išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
-    329 (322). Apie Bisenės pilies sudeginimą 1316 metais
-    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
-    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
-    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
-    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus.
+      1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir
+    netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai
+    jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė
+    atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį
+    Joną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,
+    pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
+    pasėlius.
   citata_rodoma: "Apie Ragainės pilies užpuolimą\n\n  1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir\nnetikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai\njiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė\natsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį\nJoną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,\npasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus\npasėlius."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -889,7 +1004,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
     - t-023
 
 - id: c-153888
@@ -918,16 +1032,16 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Kolainių pilies užpuolimą
-    1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
-    magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
-    pėstininkų. Pilyje buvo [jos] vadas Surminas, o su juo 120 karingų vyrų, kurie narsiai
-    priešinosi broliams. Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
-    nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo. Kai pradėjo temti,
-    penki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių
-    nuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino
-    paprastus karius, kad šie nudūmė prie laivų, manydami, jog artėja priešai. Broliai nieku
-    būdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti.
+    Apie Ragainės ir Skalvių pilių pastatymą
+
+      1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
+    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
   citata_rodoma: "Apie Ragainės ir Skalvių pilių pastatymą\n\n  1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti\nkrikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio\nkankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei\nant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai\nreiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,\npalikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,\nsu 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,\npastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -942,17 +1056,11 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tai
+    Dievo ir švenčiausios panelės
+    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
+    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333). Tai
     jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
     pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
-    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
-    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
-    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87). Prūsijoje karų
-    dalyviams dievas netgi atleidžiąs bausmes, už kurias šiaip gresiąs amžinas pasmerkimas
-    (III, 54). Tai jau kryžiuočių kovinės dvasios ugdymas.
-    Vizijomis apie brolių žaizdas ir randus, kuriuos rodanti abejojantiems pati švenčiausioji
-    mergelė, teigiama, jog Vokiečių ordinas esąs pats geriausias, labiausiai nusipelnęs tarp
-    kitų panašių brolijų (III, 12).
   citata_rodoma: "Dievo ir švenčiausios panelės\nglobojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje\nplėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333). Tai\njau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo\npagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -1003,8 +1111,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
-    - t-010
     - t-014
 
 - id: c-153894
@@ -1116,12 +1222,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Po to vieną pavakarę jis
-    išvydo teisėją, sėdintį prie pakylos, ir apsukui stovėjusią minią žmonių, kurie įniko jį
-    kaltinti visokiausiais nusikaltimais; įvestas į teismą ir teisėjo paklaustas, kuo galįs atremti
-    jam keliamus įkalčius, jis nusigandęs tylėjo. Ilgokai jam grasinę, galop tarėjai paprašė
-    teisėją jo pasigailėti, o jį paakino tučtuojau pakeisti savo gyvenimo būdą. Kai brolis
-    Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.
+    Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
+    Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
+
+
+
+
+          281 (274).
   citata_rodoma: "Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį\nDraiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.\n\n\n\n\n      281 (274)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -1155,14 +1262,11 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vis dėlto vertėtų manyti, kad Petras iš Dusburgo, rašydamas
-    kroniką, gyveno rytinėje Kryžiuočių valstybės dalyje, veikiausiai Karaliaučiuje, nes tik
-    kronikos papildymuose pirmą kartą ryškiau iškyla „vakarinė“ autoriaus orientacija. Todėl
-    manoma, kad autorius persikėlė arčiau didžiojo magistro ryšium su kronikos dedikavimu
-    Verneriui64.
-    Buvo nuomonių, kad kronikos autorius kilęs iš pareinio Duisburgo. Pastaruoju metu jį
-    bandoma kildinti iš olandų Dusburgo (Doesburg), į rytus nuo Utrechto esančio miesto,
-    kur Vokiečių ordinas veikė nuo XIII а.
+    Tyrinėtojai siejo Dusburgietį
+    iš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,
+    didžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs
+    pasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą
+    (1309 m.
   citata_rodoma: "Tyrinėtojai siejo Dusburgietį\niš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,\ndidžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs\npasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą\n(1309 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -1239,6 +1343,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
+    Kur kas didesnės sėkmės kitais metais susilaukė šeši
+    178
+
+    ## Puslapis 177
+
+    šimtai
+    raitelių.
     Kanonas,
     1299 m e ta i
     Brandenburgo komtūras, su
@@ -1247,15 +1358,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     bei Pieštvės papilyse namus, o po to, papildęs kariuo­
     menę stipriu Ragainės būriu, nugabeno ją laivais į
     krašto gilumą. Pasroviui atskubėjo lietuviai ir, praradę
-    tik vieną saviškį, privertė priešą pasukti atgal. Kai
-    Nemune vyko šios laivų grumtynės, šeši šimtai raite­
-    lių įsiveržė į Prūsiją ir, nuniokoję pražygiuojamus kai­
-    mus, įvarė baimės aplinkinėms žemėms, nes kaimiečiai
-    nežinojo, kuria kryptimi ir kokiomis jėgomis priešas
-    puls. Kunonas, gavęs žinią apie priešą, spėjo, jog šie
-    braunasi į Notangą (mat ši buvo arčiausiai); tada sku­
-    biai patraukė su būriu į šalį ir, parinkęs gerą vietą
-    pasaloms, pradėjo laukti jų pasirodant.
+    tik vieną saviškį, privertė priešą pasukti atgal.
   citata_rodoma: "Kur kas didesnės sėkmės kitais metais susilaukė šeši\n178\n\n## Puslapis 177\n\nšimtai\nraitelių.\nKanonas,\n1299 m e ta i\nBrandenburgo komtūras, su\nnemaža kariuomene įsibro­\nvęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos\nbei Pieštvės papilyse namus, o po to, papildęs kariuo­\nmenę stipriu Ragainės būriu, nugabeno ją laivais į\nkrašto gilumą. Pasroviui atskubėjo lietuviai ir, praradę\ntik vieną saviškį, privertė priešą pasukti atgal."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -1367,4 +1470,4 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - Puolė Ragainę: [[objektai/grupes/Lietuviai]]
 - Gynė Ragainę: [[objektai/asmenys/Ditrichas iš Ezbeko]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Ditrichas iš Ezbeko]], [[objektai/asmenys/Otonas iš Bergo]], [[objektai/asmenys/Otonas iš Cedlico]]
-- Ragainė priklausė [[objektai/vietos/Lietuva]]
+- Ragainė priklausė Lietuva

@@ -69,16 +69,7 @@ Karolis Šidlauskas aprašomas kaip nedidelio ūgio samdinys, drauge tarnavęs s
   puslapiai: "p. 37-38 (PDF 35-36)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 37-38 (PDF 35-36)."
   citata_originali: |
-    Darbininkai, barščiais nuraminę pirmąjį alkį ir nuovargį, uoliau
-    pradėjo šnekėti ir klausyti.
-    Pradėjo Kasparas:
-    — Tarnavau aš užpernai Kairenėliuose
-    pas Laukį.
-    Su manimi
-    drauge tarnavo per vyrą kitas, Karolis Šidlauskas, nedidokas žmogus,
-    37
-
-    pramanytas Karaliuku.
+    Su manimi drauge tarnavo per vyrą kitas, Karolis Šidlauskas, nedidokas žmogus, pramanytas Karaliuku.
   citata_rodoma: "Su manimi drauge tarnavo per vyrą kitas, Karolis Šidlauskas, nedidokas žmogus, pramanytas Karaliuku."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"

@@ -29,26 +29,6 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
 
 ## Teiginiai
 
-<a id="claim-t-191474"></a>
-- t-001
-  teiginys: "Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Pitėjas Masilietis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Talis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pitėjas Masilietis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Talis\" parinktas kaip owner_note_path. Targetas \"Pitėjas Masilietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174356
-
 <a id="claim-t-197823"></a>
 - t-002
   teiginys: "Talis gabenamas, nei kelio, kuriuo jį veždavo."
@@ -107,5 +87,4 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

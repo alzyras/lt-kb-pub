@@ -73,19 +73,8 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    iš lenkų istorikų tų posakį mini Kromeris ir B. Vapovskis, ta­
-    čiau priskiria ji ne Aleksandrui, o jo broliui Lenkijos karaliui
-    Jonui Olbrachtui; taip jis atsakęs j Lenkijos kanclerio Kreslavo
-    Kurozvenskio
-    mėginimą
-    atkalbėti
-    Olbrachtą nuo žygiavimo per
-    Moldavijos teritoriją. M. Strijkovskio Kronikoje (p. 648) savo marš­
-    kinius žada sudeginti ir Aleksandras, ir Jonas Olbrachtas.
-    14 Vadovaujančių Lietuvos feodalinių sluoksnių neutrali pozi­
-    cija Lenkijos—Moldavijos konflikto atžvilgiu galėjo būti sukelta
-    Maskvos didžiojo kunigaikščio Ivano III-jo, Moldavijos vaivados
-    Stepono giminaičio ir sąjungininko, diplomatinio spaudimo.
+    '  Liubuckas — LDK ir MDK pasienio miestas (prie Okos, i Siau­
+    ros vakarus nuo Tūlos, apie 150 km i pietus nuo Maskvos!.
   citata_rodoma: "'  Liubuckas — LDK ir MDK pasienio miestas (prie Okos, i Siau­\nros vakarus nuo Tūlos, apie 150 km i pietus nuo Maskvos!."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

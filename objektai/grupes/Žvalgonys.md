@@ -42,10 +42,12 @@ Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pran
   pagrindžia:
     - c-172431
 - susijęs iš [[objektai/zodynas/Žvalgonys Swalgones.md#claim-t-189354|Žvalgonys Swalgones]]: Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ir sakiusius kalbas.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ateitį ir sakydavusius kalbas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172431
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Žvalgonys (Swalgones)
     Tai buvo žyniai, atliekantys vedybų apeigas, arba tekančių
@@ -56,29 +58,6 @@ Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pran
     giti, gerai įsižiūrėti, deramai ištirti, kaip sako Ostermejeris. Tad
     sutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­
     namus dalykus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172431
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    kaimą, nuo namo prie namo ir dainuoti savo pačių sudėtas
-    dainas arba improvizacijas, kurių kiekviena eilutė turi baigtis
-    šūksniu Ej Eofym! Tai yra burtininkų procesijos pamėgdžioji­
-    mas. Namų šeimininkas, priimantis tokius sveikinimus, būti­
-    nai turi duoti ką nors dainuotojams, nes jie, sekdami senovės
-    bardų pavyzdžiu, gali visą naktį neduoti jam užmigti, gali pri­
-    mėtyti į šulinį akmenų ir ką tik bus nutvėrę.
-    Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo
-    metais dar būta burtininkų pėdsakų, priskiria jiems ateities
-    išpranašavimą liejant ištirpintą vašką į šaltą vandenį.
   citata_rodoma: "Žvalgonys (Swalgones)\nTai buvo žyniai, atliekantys vedybų apeigas, arba tekančių\nmerginų abejotinos skaistybės bylų teisėjai. Jie išpranašauda­\nvo jaunavedžiams ateitį ir per tokias iškilmes sakydavo kal­\nbas. Jų pavadinimas kilęs iš žodžioSwalgajt, kuris senovės prū­\nsų kalba reiškė tuoktis. Anot kitų, tas pavadinimas kilęs išCwal-\ngiti, gerai įsižiūrėti, deramai ištirti, kaip sako Ostermejeris. Tad\nsutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­\nnamus dalykus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -8,16 +8,16 @@ datos:
   - '1273 m.'
 date_start: '1267'
 date_end: '1273'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - pilis
   - vyskupas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,6 +31,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Beckherrn C
 
 ## Santrauka
@@ -67,19 +68,6 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   pagrindžia:
     - c-61181
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'C. Beckherrnas rašė apie prūsų ginklus ir karybą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-
-    Kozaryn L. Zycie..., p. 218—221.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61179
@@ -87,12 +75,8 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    jų namuose rastumei tokių valgių ir tokių gėrimų, kuriais šia proga nepasidalytų su savo
-    svečiu. Jiems rodosi, jog svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki
-    apsvaigimo. Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui
-    namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką
-    išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria
-    visi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi.
+    210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-
+    Kozaryn L. Zycie..., p. 218—221.
   citata_rodoma: "210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-\nKozaryn L. Zycie..., p. 218—221."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

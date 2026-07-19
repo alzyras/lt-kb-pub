@@ -52,9 +52,7 @@ Dusburgietis teigia, kad pakarklis P.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Stepinš P. Durbės kauja.— Rīga, 1967.
-    Steponavičienė J. Dėl lietuviškų vietovardžių prūsinimo kryžiuočių ordino raštuose.—
-    Baltistica, 1974, 10 (2), p. 163— 168.
+    Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935.
   citata_rodoma: "Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

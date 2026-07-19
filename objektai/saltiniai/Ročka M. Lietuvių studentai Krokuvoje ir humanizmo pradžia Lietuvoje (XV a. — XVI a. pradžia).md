@@ -9,13 +9,13 @@ datos:
   - '1966 m.'
 date_start: '1401'
 date_end: '1966'
-amziai:
-  - 'XV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,39 +34,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad ročka M.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Ročkos straipsnis „Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje“ 1966 m. paskelbtas leidinyje „Literatūra“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ročka M. Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje (XV a. — XVI
-    a. pradžia).— Literatūra, V., 1966, 9, p. 55—84.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61906
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Volkaitė-Kulikauskienė R. Lietuviai IX—XII amžiais.— V., 1970.
-    Volkaitė-Kulikauskienė R. Lietuva valstybės susidarymo išvakarėse.— Lietuvių
-    materialinė kultūra IX—XIII amžiuje, V., 1978, 1, p. 4—13.
-    de Vries Jan.
-  citata_rodoma: "Ročka M. Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje (XV a. — XVI\na. pradžia).— Literatūra, V., 1966, 9, p. 55—84."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -88,3 +55,21 @@ Dusburgietis teigia, kad ročka M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, straipsnio pavadinimą, metus ir leidinį."
   pagrindžia:
     - c-61906
+
+## Citatos
+
+- id: c-61906
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Ročka M. Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje (XV a. — XVI
+    a. pradžia).— Literatūra, V., 1966, 9, p. 55—84.
+  citata_rodoma: "Ročka M. Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje (XV a. — XVI\na. pradžia).— Literatūra, V., 1966, 9, p. 55—84."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

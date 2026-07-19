@@ -11,14 +11,14 @@ datos:
   - '1414 m.'
 date_start: '1357'
 date_end: '1414'
-amziai:
-  - 'XIV'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XIV'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -197,24 +197,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60109|Draika]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102841|Dusburgas]]: Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą.
 - susijęs iš [[objektai/paprociai/Burtų metimas prieš karo išpuolį.md#claim-t-62110|Burtų metimas prieš karo išpuolį]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės, todėl tuojau pasuko atgal.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto žmonių ne­
-    daug žuvo, nes gyventojai,
-    palikę namus priešų valiai, patys su visais brangesniais
-    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
-    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
-    viršininkas Draika pradėjo linkti į krikščionių tikėji­
-    mą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-67480
@@ -268,18 +250,13 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pilies
+    Vis dėlto žmonių ne­
+    daug žuvo, nes gyventojai,
+    palikę namus priešų valiai, patys su visais brangesniais
+    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
+    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
     viršininkas Draika pradėjo linkti į krikščionių tikėji­
-    mą. Negalėdamas tarp saviškių garbinti dievo pagal
-    šias apeigas, jis ryžosi pereiti priešo pusėn, o prieš
-    tai pelnyti jo palankumą nepaprasta išdavyste. Todėl,
-    pasiuntęs tarpininku savo sūnų Piną, suderino savo
-    ketinimus su Folradu, Ragainės komtūru, ir sutarė die­
-    ną; Draika pats vadovavo nakties sargybai, kai Folra-
-    das tamsoje pritraukė prie pilies kariuomenę: atida­
-    rius vartus, buvo įleistas į pilį, karius ir visą kariauti
-    pajėgiantį jaunimą jis skerste išskerdė, o vaikus ir
-    moteris išsivarė į vergovę.
+    mą.
   citata_rodoma: "Vis dėlto žmonių ne­\ndaug žuvo, nes gyventojai,\npalikę namus priešų valiai, patys su visais brangesniais\ndaiktais išsislapstė miškų tankmėse. Tais pačiais me­\ntais per išdavystę buvo prarasta Aukaimio pilis. Pilies\nviršininkas Draika pradėjo linkti į krikščionių tikėji­\nmą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

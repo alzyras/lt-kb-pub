@@ -104,55 +104,6 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
 - susijęs iš [[objektai/asmenys/Liudvikas Libencelė.md#claim-t-186145|Liudvikas Libencelė]]: Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179284|Lietuviai]]: 1314 m. lietuviai naktį įsibrovė į maršalo Henriko palapines Medininkų valsčiuje, nužudė 4 vyrus ir išsivarė du arklius.
 - susijęs iš [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis.md#claim-t-185754|Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]: Kojelavičiaus pasakojime magistras Meinhardas su didele kariauna įsiveržė į Lietuvą ir žiauriai nusiaubė Paštuvos bei Gaižuvos valsčius.
-## Reikšmingi paminėjimai
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
-    Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto
-    Jazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,
-    kalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.
-
-                    247 (240).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-194494
-- c-003
-  santrauka: 'Jazbutas persekiojo Henriko Cutsverto vadovaujamą užpakalinę vorą ir puolė priešą kalaviju.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pasivijęs jį, atsitraukiantį su dideliu grobiu,
-    Jazbutas įniko persekioti už-
-    N u žu d o m a s
-    lie tu v ių
-    pakaimę vorą, kuriai tuomet
-    k u n ig a ik štis J a zb u ta s
-    vadovavo Henrikas Cutsver-
-    tas. Šį išvydęs, Jazbutas, su
-    įniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų
-    puolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­
-    rikas ietimi persmeigė Jazbutą, kuris, griūdamas že­
-    mėn, nukirto kalaviju puolančiam nugalėtojui pirštą.
-    Susidūrus vadams, įsiliepsnojo mūšis: narsiausi prieki­
-    nio būrio kariai veržėsi ginti užpakalinio, kadangi ir
-    lietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,
-    m
-
-    ## Puslapis 165
-
-    bijodami patekti j pasalas, vengė nutolti nuo stovyk­
-    los) nepuolė, nepralaimėjo ir nelaimėjo kovos nė vie­
-    na pusė, tačiau visas grobis, lietuviams matant ir iš
-    pykčio griežiant dantimis, buvo išgabentas j Prūsiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-60779
@@ -179,16 +130,15 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Brolis Henrikas visa
-    tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus,
-    kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė. Todėl magistras įsakė
-    kariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė
-    vieną po kito tuos, kurie buvo svarbiausieji šios išdavystės sumanytojai, ir kiekvienam
-    priskyrė po vieną brolį, turėjusį jį saugoti, kad nepabėgtų. Kai paprasti žmonės išvydo,
-    jog svarbiausieji klastininkai nuolatos bendrauja su broliais ir prie stalo, ir kitokiuose
-    pasilinksminimuose, labai nusigando ir, manydami, jog jų sąmokslas esąs susektas,
-    nedrįso nieko bloga broliams daryti, ir šitaip broliai iš dievo malonės sveiki bei gyvi
-    pargrįžo namo.
+    Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
+    Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto
+    Jazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,
+    kalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.
+
+
+
+
+                    247 (240).
   citata_rodoma: "Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką\nCutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto\nJazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,\nkalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.\n\n\n\n\n                247 (240)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -204,7 +154,14 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šį išvydęs, Jazbutas, su
+    Pasivijęs jį, atsitraukiantį su dideliu grobiu,
+    Jazbutas įniko persekioti už-
+    N u žu d o m a s
+    lie tu v ių
+    pakaimę vorą, kuriai tuomet
+    k u n ig a ik štis J a zb u ta s
+    vadovavo Henrikas Cutsver-
+    tas. Šį išvydęs, Jazbutas, su
     įniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų
     puolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­
     rikas ietimi persmeigė Jazbutą, kuris, griūdamas že­
@@ -214,19 +171,12 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
     lietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,
     m
 
+    ## Puslapis 165
+
     bijodami patekti j pasalas, vengė nutolti nuo stovyk­
     los) nepuolė, nepralaimėjo ir nelaimėjo kovos nė vie­
     na pusė, tačiau visas grobis, lietuviams matant ir iš
     pykčio griežiant dantimis, buvo išgabentas j Prūsiją.
-    Vėliau, birželio pabaigoje, tas pats Henrikas su tūks­
-    tančio penkių šimtų raitelių pulku išsivarė Junigedos10
-    apylinkėmis grobį ir šit kaip
-    R a g a in ės k a ria i kla s-
-    užėmė pačią pilį. Išdėstęs vi-
-    ta u žim a J u n ig e d ą
-    sus kitus būrius abipus kelio
-    pasalose, jis įsakė Ragainės
-    būriui traukti tiesiai prie pilies vartų.
   citata_rodoma: "Pasivijęs jį, atsitraukiantį su dideliu grobiu,\nJazbutas įniko persekioti už-\nN u žu d o m a s\nlie tu v ių\npakaimę vorą, kuriai tuomet\nk u n ig a ik štis J a zb u ta s\nvadovavo Henrikas Cutsver-\ntas. Šį išvydęs, Jazbutas, su\nįniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų\npuolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­\nrikas ietimi persmeigė Jazbutą, kuris, griūdamas že­\nmėn, nukirto kalaviju puolančiam nugalėtojui pirštą.\nSusidūrus vadams, įsiliepsnojo mūšis: narsiausi prieki­\nnio būrio kariai veržėsi ginti užpakalinio, kadangi ir\nlietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,\nm\n\n## Puslapis 165\n\nbijodami patekti j pasalas, vengė nutolti nuo stovyk­\nlos) nepuolė, nepralaimėjo ir nelaimėjo kovos nė vie­\nna pusė, tačiau visas grobis, lietuviams matant ir iš\npykčio griežiant dantimis, buvo išgabentas j Prūsiją."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

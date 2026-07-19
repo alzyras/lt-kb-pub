@@ -8,6 +8,8 @@ datos:
   - '1448 m.'
 date_start: '1448'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,8 +17,6 @@ tags:
   - kunigaikštis
   - miestas
   - pilis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -221,6 +221,73 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
 - susijęs iš Vilniaus Aukštutinė pilis: Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184691|Dimitras Kaributas]]: Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184915|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantui Kęstutaičiui atvykus iš Seversko į Lietuvą, prie jo neraginami rinkosi didikai ir bajorai.
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Vytautas, pasiuntęs lengvuosius raitelius persekioti bėgančiųjų, su pagrindinėmis jėgomis patraukė į Severską.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tačiau ir Dimitras
+    perprato Vytauto sumanymus, nes žygūnų atsiuntimas
+    rodė, jog šis ieško dingsties karui. Skubiai sušaukęs
+    karius, sulaukęs paramos iš Tverės, jis patraukė į Lie­
+    tuvą, nenorėdamas kariauti savo valdose. Prie Nekudo-
+    vo abi kariuomenės sustojo viena prieš kitą; neilgai
+    trukus, prasidėjo mūšis; į kovos liniją išvesti pulkai
+    smarkiai susikovė, tačiau sėkmė ilgai nelinko nei į
+    vieną, nei į kitą pusę ir kova užsitęsė daug valandų.
+    Ilgainiui rusų kariuomenė pirma sutriko ir pradėjo
+    trauktis. Vytautas, šitai išvy-
+    S usikauna
+    su D im it-
+    dęs, su visomis jėgomis puo-
+    tu,
+    S e v e r s k o
+    kuni-
+    lė
+    vytis
+    atsitraukiančiųjų,
+    g a ikščiu
+    persekioti pakrikusio priešo,
+    galop, su narsiausiais kariais
+    pasivijęs pagrindinę kovos rikiuotę ir ją pralaužęs, pri­
+    vertė rusus bėgti, kur pakliuvo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Š tai dėl to ir lenkai, ir lie­
+    tuviai pradėjo šnairuoti į karalių: lenkai manė, jog
+    skitai įsiveržė į Podolę dėl
+    L en k a i
+    ir
+    lie tu v ia i
+    to, kad sudarė kokius slaptus
+    p r a d e d a įta rin ėti ka-
+    susitarimus su karaliumi, o
+    ralių
+    lietuviai B učackio elgesį aiš­
+    k in o si karaliaus neapdairu­
+    mu. L enkai pirmieji atvirai jį užsipuolė, reik alau d am i
+    su šau k ti luom us į Piotrkovo seim ą. T am e seim e jie v i­
+    saip rag in o k a ra lių n iek o n ed a ry ti B učackui, atėm u siam
+    iš lietuvių Chmelniką ir M edžibožą, be to, neatiduoti
+    u žg ro b tų P odolės žem ių lietu v iam s, o su siru o šu s iš L en­
+    k ijo s į L ietuvą, n iek u b ū d u n esu g a lv o ti leistis į k elią
+    be lenkų senatorių. Karalius į tai atsakė, jo g nė v ie ­
+    nam len k u i n e k e tin ą s atsa k y ti teisės b ū ti jo palydovu,
+    bet tokiu svarbiu L ietu v ai reikalu jis nieko n eg alįs nu­
+    tarti be L ietuvos sen ato žinios ir p ritarim o .
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-82083
@@ -322,17 +389,7 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tačiau ir Dimitras
-    perprato Vytauto sumanymus, nes žygūnų atsiuntimas
-    rodė, jog šis ieško dingsties karui. Skubiai sušaukęs
-    karius, sulaukęs paramos iš Tverės, jis patraukė į Lie­
-    tuvą, nenorėdamas kariauti savo valdose. Prie Nekudo-
-    vo abi kariuomenės sustojo viena prieš kitą; neilgai
-    trukus, prasidėjo mūšis; į kovos liniją išvesti pulkai
-    smarkiai susikovė, tačiau sėkmė ilgai nelinko nei į
-    vieną, nei į kitą pusę ir kova užsitęsė daug valandų.
-    Ilgainiui rusų kariuomenė pirma sutriko ir pradėjo
-    trauktis. Vytautas, šitai išvy-
+    Vytautas, šitai išvy-
     S usikauna
     su D im it-
     dęs, su visomis jėgomis puo-
@@ -346,7 +403,21 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
     persekioti pakrikusio priešo,
     galop, su narsiausiais kariais
     pasivijęs pagrindinę kovos rikiuotę ir ją pralaužęs, pri­
-    vertė rusus bėgti, kur pakliuvo.
+    vertė rusus bėgti, kur pakliuvo. Nenorėdamas, kad nu-
+    340
+
+    ## Puslapis 339
+
+    galėtieji turėtų laiko kokioje
+    S u m u ša S e v e r s k o  ka-
+    vietoje atsikvėpti, jis išsiuntė
+    iiu s
+    lengvųjų raitelių būrius bė­
+    gančiųjų persekioti, tuo tarpu
+    pats, surinkęs grobį, su pagrindinėmis jėgomis patraukė
+    į Severską. To krašto sostinė Seversko Naugardas —
+    nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų
+    žmonių turtais.
   citata_rodoma: "Vytautas, šitai išvy-\nS usikauna\nsu D im it-\ndęs, su visomis jėgomis puo-\ntu,\nS e v e r s k o\nkuni-\nlė\nvytis\natsitraukiančiųjų,\ng a ikščiu\npersekioti pakrikusio priešo,\ngalop, su narsiausiais kariais\npasivijęs pagrindinę kovos rikiuotę ir ją pralaužęs, pri­\nvertė rusus bėgti, kur pakliuvo. Nenorėdamas, kad nu-\n340\n\n## Puslapis 339\n\ngalėtieji turėtų laiko kokioje\nS u m u ša S e v e r s k o  ka-\nvietoje atsikvėpti, jis išsiuntė\niiu s\nlengvųjų raitelių būrius bė­\ngančiųjų persekioti, tuo tarpu\npats, surinkęs grobį, su pagrindinėmis jėgomis patraukė\nį Severską. To krašto sostinė Seversko Naugardas —\nnemažas miestas, garsėjęs ne tik valdovo, bet ir kitų\nžmonių turtais."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -361,28 +432,31 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Š tai dėl to ir lenkai, ir lie­
-    tuviai pradėjo šnairuoti į karalių: lenkai manė, jog
-    skitai įsiveržė į Podolę dėl
-    L en k a i
-    ir
-    lie tu v ia i
-    to, kad sudarė kokius slaptus
-    p r a d e d a įta rin ėti ka-
-    susitarimus su karaliumi, o
-    ralių
-    lietuviai B učackio elgesį aiš­
-    k in o si karaliaus neapdairu­
-    mu. L enkai pirmieji atvirai jį užsipuolė, reik alau d am i
-    su šau k ti luom us į Piotrkovo seim ą. T am e seim e jie v i­
-    saip rag in o k a ra lių n iek o n ed a ry ti B učackui, atėm u siam
-    iš lietuvių Chmelniką ir M edžibožą, be to, neatiduoti
-    u žg ro b tų P odolės žem ių lietu v iam s, o su siru o šu s iš L en­
-    k ijo s į L ietuvą, n iek u b ū d u n esu g a lv o ti leistis į k elią
-    be lenkų senatorių. Karalius į tai atsakė, jo g nė v ie ­
-    nam len k u i n e k e tin ą s atsa k y ti teisės b ū ti jo palydovu,
-    bet tokiu svarbiu L ietu v ai reikalu jis nieko n eg alįs nu­
-    tarti be L ietuvos sen ato žinios ir p ritarim o .
+    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
+    gužės pabaigoje, Mykolas su
+    1448 m e ta i
+    sk itais įsiv eržė į Severską ir,
+    Sum u ša M y k o lą  Se-
+    sum ušęs greitosiom is sutelk-
+    v e r s k e
+    tas jėg as, jam  p asto ju sias k e ­
+    lią, p aėm ė Brianską, Naugar-
+    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
+    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
+    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
+    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
+    žemių. Niekur neberasdamas užtarėjų, M ykolas pasp­
+    ruko į Maskvą, kur, priim-
+    M y k o lo  m irtis
+    tas į vienuolyną, kurį m etą
+    čia gyv en o  kaip paprastas
+    488
+
+    ## Puslapis 487
+
+    žmogus, o galop ir galą gavo, vienuolyno igumenui da­
+    vus apnuodytos duonos, kurią krikščionys paprastai var­
+    toja šventajai mišių aukai.
   citata_rodoma: "K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­\ngužės pabaigoje, Mykolas su\n1448 m e ta i\nsk itais įsiv eržė į Severską ir,\nSum u ša M y k o lą  Se-\nsum ušęs greitosiom is sutelk-\nv e r s k e\ntas jėg as, jam  p asto ju sias k e ­\nlią, p aėm ė Brianską, Naugar-\ndą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,\ndar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė\nį Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį\nkarą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų\nžemių. Niekur neberasdamas užtarėjų, M ykolas pasp­\nruko į Maskvą, kur, priim-\nM y k o lo  m irtis\ntas į vienuolyną, kurį m etą\nčia gyv en o  kaip paprastas\n488\n\n## Puslapis 487\n\nžmogus, o galop ir galą gavo, vienuolyno igumenui da­\nvus apnuodytos duonos, kurią krikščionys paprastai var­\ntoja šventajai mišių aukai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

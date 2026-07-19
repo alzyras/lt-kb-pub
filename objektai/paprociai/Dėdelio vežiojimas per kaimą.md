@@ -131,11 +131,7 @@ Nenurodyta
   puslapiai: "p. 169 (PDF 167)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 169 (PDF 167)."
   citata_originali: |
-    Eisime basi į bažnyčią. Skaitytojas gal to­
-    kių jausmų neturi, nes dabar Pelenija — ne Pelenija, gavėnia — ne
-    gavėnia, nejaučiamas griežtas skirtumas minimų laikų. Užgavėnėse
-    jau ne devynis sykius valgoma, Pelenijoje jau dantų neplaunama, dė­
-    delio nevežiojama ir gavėnios negavėjama.
+    Pelenijoje jau dantų neplaunama, dėdelio nevežiojama ir gavėnios negavėjama.
   citata_rodoma: "Pelenijoje jau dantų neplaunama, dėdelio nevežiojama ir gavėnios negavėjama."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
@@ -149,11 +145,7 @@ Nenurodyta
   puslapiai: "p. 169 (PDF 167)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 169 (PDF 167)."
   citata_originali: |
-    Pervažiavę vi­
-    są kaimą ir sugrįžę, vaikai veža dėdelį, iš kur paėmę. Jo būstinės vieta
-    esti pas įlaidų ūkininką ant tvarto.
-    Čia jį nurėdo, arba palieka aprė­
-    dytą kitiems metams.
+    Pervažiavę visą kaimą ir sugrįžę, vaikai veža dėdelį, iš kur paėmę. Jo būstinės vieta esti pas įlaidų ūkininką ant tvarto. Čia jį nurėdo, arba palieka aprėdytą kitiems metams.
   citata_rodoma: "Pervažiavę visą kaimą ir sugrįžę, vaikai veža dėdelį, iš kur paėmę. Jo būstinės vieta esti pas įlaidų ūkininką ant tvarto. Čia jį nurėdo, arba palieka aprėdytą kitiems metams."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

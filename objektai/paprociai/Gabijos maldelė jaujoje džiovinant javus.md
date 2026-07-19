@@ -69,10 +69,12 @@ Nenurodyta.
   pagrindžia:
     - c-170786
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak Narbuto perteikiamo Lasickio, šlapią vasarą jaujose džiovinant javus buvo nusilenkiama deivei Gabijai ir kalbama maldelė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-170786
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lasickis pažįstąjį Gabijos (Gabie) vardu ir pateikia tokių
     duomenų apie jį: „Kai vasara Šlapia ir sunku išdžiovinti javus
@@ -84,32 +86,6 @@ Nenurodyta.
     nies užkeikimas jaujoje, kad nekiltų gaisras. Prietaringi žemai­
     čių valstiečiai tebekalba ją dar dabar, kurstydami ugnį savo
     t džiovyklose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-170786
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Kronikininkai mini Svaistiką (Szwajstix) arba Svaitestiksą
-    (Swajtestix) kaip šviesos dievą: lietuviškai tas žodis reiškia švie­
-    sos teikėją arba žadinančiąją šviesą, o tai atitinka senovės Fe­
-    bą.
-    „Lietuviams saulė, vadinama Sotuar, priklauso pirmosios
-    eilės dievams, sakytum, lyg pasaulio prikėlėja arba pasaulio
-    dvasia. Vis dėlto ši dievybė pas juos neturi atskirų šventyklų,
-    kaip tai buvo pas visus šiaurės stabmeldžius. Juk jie turi savus
-    šiokios tokios astronomijos mokovus: skaičiuoja metų laikus,
-    mėnesius, savaites, dienas; savo mėnesį pradeda nuo jauno
-    mėnulio; savaitę kaip musulmonai - nuo penktadienio, kurį
-    paskiria savo Jupiteriui, o antrą dieną po penktadienio, tai yra
-    sekmadienį, jie, visai kaip senovės romėnai, paskiria saulei.
   citata_rodoma: "Lasickis pažįstąjį Gabijos (Gabie) vardu ir pateikia tokių\nduomenų apie jį: „Kai vasara Šlapia ir sunku išdžiovinti javus\nlauke, juos džiovina jaujose ir, nusilenkdami deivei Gabijai,\nmaldauja jos šitokiais žodžiais: „Gabija, dievaite, pakelk garą,\nneleisk kibirkščių ! “ (Gabie Diewajte, pakielk garu, nie lajsk kir-\nbvctu). Tai reiškia: „Gabija, miela deive, duok daugiau šilu­\nmos, neleisk ugniai per daug kibirkščiuoti“. Si maldelė yra ug­\nnies užkeikimas jaujoje, kad nekiltų gaisras. Prietaringi žemai­\nčių valstiečiai tebekalba ją dar dabar, kurstydami ugnį savo\nt džiovyklose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

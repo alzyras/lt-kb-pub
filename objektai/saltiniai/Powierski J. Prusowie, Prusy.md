@@ -26,36 +26,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad powierski J.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Powierskio tekstas „Prusowie, Prusy“ paskelbtas SSS 4 tomo 1 dalyje, 368–371 puslapiuose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Powierski J. Prusowie, Prusy.— SSS, t. 4, cz. 1, s. 368— 371.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61874
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Urban W. The Baltic Crusade.—Northern Illinois University Press De Kalb, 1975.
-    Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky.
-  citata_rodoma: "Powierski J. Prusowie, Prusy.— SSS, t. 4, cz. 1, s. 368— 371."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-61242"></a>
@@ -73,3 +43,20 @@ Dusburgietis teigia, kad powierski J.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61874
+
+## Citatos
+
+- id: c-61874
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Powierski J. Prusowie, Prusy.— SSS, t. 4, cz. 1, s. 368— 371.
+  citata_rodoma: "Powierski J. Prusowie, Prusy.— SSS, t. 4, cz. 1, s. 368— 371."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

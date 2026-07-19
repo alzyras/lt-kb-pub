@@ -61,19 +61,6 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
   pagrindžia:
     - c-61233
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
-    Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61232
@@ -81,10 +68,8 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Antikinių šaltinių tyrimas rodo, kad lotyniškoji
-    forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros
-    pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54,
-    66); žr. ir GAO, p. 204; Gimbutienė M. Baltai, p. 17—19, 48—51, 66, 106, 114.
+    Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
+    Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).
   citata_rodoma: "Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,\nRytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

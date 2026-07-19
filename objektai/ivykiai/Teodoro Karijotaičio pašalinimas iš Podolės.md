@@ -99,17 +99,8 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    2 Dlmitrijus Ivanovičius — Maskvos didysis kunigaikštis (1351—
-    1389), nugalėjęs totorius Kulikovo mūšyje prie Dono ir dėl to pra­
-    mintas Doniškiu (Donskoj).
-    3 Algirdo žygio į Maskvų legendos istorinis pagrindas yra
-    1368—1373 m. karo įvykiai, kada Lietuvos kariuomenė, vadovau­
-    jama Algirdo, jo brolių Polocko kunigaikščio Andriaus ir Trakų
-    kunigaikščio Kęstučio bei jo sūnaus Vytauto, traukė į pagalbų
-    Algirdo svainiui, Tverės kunigaikščiui Michailui, kovojančiam su
-    Maskvos kunigaikščiu dėl pirmavimo šiaurės rytų Rusioje. Legen­
-    dos veiksmas vyksta pavasarį, per Velykas, bet iš tikro du Krem­
-    liaus apgulimai (1368 ir 1370 m.) buvo gruodžio mėn.
+    1 7  Teodoro Karijotaičio pašalinimas Iš Podolės (jį pašalino Vy­
+    tautas 1393 m.) laikytinas vienu iš valstybės centralizavimo aktų.
   citata_rodoma: "1 7  Teodoro Karijotaičio pašalinimas Iš Podolės (jį pašalino Vy­\ntautas 1393 m.) laikytinas vienu iš valstybės centralizavimo aktų."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

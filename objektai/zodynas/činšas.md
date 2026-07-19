@@ -43,15 +43,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 
 ## Teiginiai
 
-<a id="claim-t-82131"></a>
-- t-006
-  teiginys: "Činšininkas citatoje aiškinamas kaip duoklininkas, tai yra duoklę mokantis valstietis."
-  atnaujinta: "2026-05-31 12:00"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-78623
-
 <a id="claim-t-82132"></a>
 - t-005
   teiginys: "Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių."
@@ -240,12 +231,10 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
     kas, nieko gera nedavė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-
 - id: c-78624
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

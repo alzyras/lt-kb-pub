@@ -74,9 +74,12 @@ Nenurodyta
   pagrindžia:
     - c-63143
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-63143
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
 
@@ -85,29 +88,10 @@ Nenurodyta
     ilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo
     ginklanešiais, ir ji po šiai dienai tebestovi apleista.
 
+
+
+
      152 (147).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-194423
-
-## Citatos
-
-- id: c-63143
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Susirūpinęs dėl šio
-    įvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes
-    išeiti [iš miesto] ir tiksliai sužinoti, kiek priešo kariuomenėje karių ir kokio ji stiprumo.
-    Išeinančius [iš miesto] pasitiko prūsai, prasidėjo kautynės, kuriose jie sužeidė vieną tokį
-    aukštą prūsą, kad jis buvo visa uolektimi aukštesnis už kitus, ir pusgyvį jį atsigabeno į
-    miestą. Jį paėmus į nelaisvę, be galo susikrimto prūsų vadas, kuris pažadėjo pasitraukti
-    nuo miesto ir nebeskriausti krikščionių, jeigu jiems būsiąs atiduotas šis sužeistasis, o
-    šitaip abi šalys ir padarė.
   citata_rodoma: "Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis\n\n  Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios\natskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje\nilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo\nginklanešiais, ir ji po šiai dienai tebestovi apleista.\n\n\n\n\n 152 (147)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

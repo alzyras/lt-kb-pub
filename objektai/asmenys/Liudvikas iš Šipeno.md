@@ -80,13 +80,15 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
-    nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
-    turėjome keliauti ten, kur amžinos linksmybės“. Nors jis ir nesirgo jokia kita liga, o tik
-    ta, kurią esu paminėjęs, vis dėlto, pasiprašęs kunigo ir priėmęs bažnyčios sakramentus,
-    tą pačią dieną laimingai atidavė viešpačiui sielą.
-    279 (272). Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
-    Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus.
+    Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
+
+       Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
+    metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
+
+
+
+
+      273 (266).
   citata_rodoma: "Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą\n\n   Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus\nmetus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.\n\n\n\n\n  273 (266)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

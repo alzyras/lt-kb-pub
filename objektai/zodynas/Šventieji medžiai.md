@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Šventieji medžiai
 
 ## Santrauka
@@ -28,19 +29,6 @@ media_all_json: |-
 Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medžius, bet ir neliečiamus miškelius. Lietuvių religija medžių atžvilgiu mokė tokio pat pamal dumo: ne vieną šito pavyzdį turime kronikose, pasakojimuo se, padavimuose ir liaudies dainose. Hamadriadė Chrisopelėja, būdama netoli mirties, nes upė paplovė medžio, nuo kurio priklausė jos būtis, šaknis, kreipėsi į tenai medžiojusį Arką, prašydama nukreipti šalin vandenį ir apkas ti žemėmis jau beveik griūvantį medį.
 
 ## Teiginiai
-
-<a id="claim-t-189191"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medžius, bet ir neliečiamus miškelius."
-  atnaujinta: "2026-07-19 18:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177090
 
 <a id="claim-t-194693"></a>
 - t-002
@@ -123,7 +111,6 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-179159

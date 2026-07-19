@@ -85,16 +85,8 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Hartknochas labai ar­
-    gumentuotai įrodo, kad lietuvių Žemininkas ir prusųKurchus -
-    tai tas pats dievas. Jis buvo žemės dievas, valdė žemės derlių ir
-    tamsą, buvo šviesos dievo antipodas, namų ir apskritai viso
-    krašto globėjas.
-    Lietuviai teikė jam garbę, laikydami žalčius ir maitindami
-    juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai. Jis
-    priklausė pagrindiniams dievams ir iš jų buvo žemiausias, ka­
-    dangi valdė žemės elementą. Jo valdžioje buvo visa, kas val­
-    goma, ko reikėjo gyvoms būtybėms išsimaitinti.
+    Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir
+    arklio.
   citata_rodoma: "Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir\narklio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

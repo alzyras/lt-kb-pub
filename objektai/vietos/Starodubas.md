@@ -12,13 +12,13 @@ datos:
   - '2026 m.'
 date_start: '1377'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,7 +63,7 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
 <a id="claim-t-193233"></a>
 - t-005
   teiginys: "Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -187,13 +187,10 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
 - susijęs iš [[objektai/ivykiai/Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.).md#claim-t-200606|Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.)]]: Per 1758 m. susirėmimą Antanui Lapai sužeista kakta ir ranka, o Weysenhofui - nosis, ranka ir kakta; jis prarado pirštą.
 - susijęs iš Bereza: 1760 m. Mykolas Antanas Sapiega buvo palaidotas Berezoje.
 - susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39099|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: 1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.
-## Citatos
-
-- id: c-168517
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 603"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 603."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Persigabenę per Dneprą ir pažygiavę vieną
     mylią, jie įkūrė pamiškėje stovyklą palikę prie upės
@@ -212,6 +209,35 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     ir pradėjo kruvinas kauty­
     nes, kol priešai, netikėto antpuolio pritrenkti, nespėjo
     atsigauti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168517
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 603"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 603."
+  citata_originali: |
+    Maskvėnai tvirtino,
+    kad didysis kunigaikštis jiems neleidęs stoti į atvirą
+    mūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei
+    605
+
+    ## Puslapis 604
+
+    įsakymų, o šaukdami ir triukšmaudami, paliko stovyk­
+    lą bei gurguoles ir pasileido sprukti per miškus ir pel­
+    kes. Po šio įvykio Glinskis, nelyginant sumažėjęs ne
+    tik savo šalininkų, bet ir savo paties akyse, pasitraukė
+    į Starodubą su išsaugotais pulkais, kuriais labiausiai
+    pasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas
+    pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,
+    didikų patartas, nesiryžo persekioti maskvėnų.
   citata_rodoma: "Maskvėnai tvirtino,\nkad didysis kunigaikštis jiems neleidęs stoti į atvirą\nmūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei\n605\n\n## Puslapis 604\n\nįsakymų, o šaukdami ir triukšmaudami, paliko stovyk­\nlą bei gurguoles ir pasileido sprukti per miškus ir pel­\nkes. Po šio įvykio Glinskis, nelyginant sumažėjęs ne\ntik savo šalininkų, bet ir savo paties akyse, pasitraukė\nį Starodubą su išsaugotais pulkais, kuriais labiausiai\npasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas\npabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,\ndidikų patartas, nesiryžo persekioti maskvėnų."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

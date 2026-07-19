@@ -10,15 +10,15 @@ datos:
   - '1221 m.'
 date_start: '1220'
 date_end: '1221'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -138,6 +138,27 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78878|baskakas]]: 1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78879|baskakas]]: 1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.
 ## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lyginant lietuvių mitologiją su senąja graikų ir romėnų
+    mitologija, be pritempimo ir be kokio nors išankstinio įsitiki­
+    nimo savaime krito į akis panašumai ir beveik tapatumai. Greta
+    to, vertindami pastangas mitologų, norinčių įtvirtinti priešin­
+    gą nuomonę, kaip antai S tenderio1, atkakliai ieškojusio duo­
+    menų tokiai nuomonei pagrįsti, radome vien tik tuščius spė­
+    liojimus, etimologinę painiavą ir kažkokį užsispyrimą ginant
+    savo įsivaizdavimą. Dabar šioje antrojoje knygoje užsibrėžė­
+    me tikslą smulkiai išnarstyti visą mitologiją, paaiškinti tai, ką
+    pasakėme pirmojoje, ir, pateikdami duomenis, nušviečiančius
+    lietuvių tautos senovę, dar uoliau ieškoti tiesos su tokiu pačiu
+    bešališkumu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: '4 Lietuvos metraštis 49 Zivinbudas, Lietuvos ir Žemaičių didysis kunigaikš tis, nusiuntė jam pagalbon savo vyresnįjį sūnų Kukovaitį4 su visomis savo Lietuvos bei 2emaičių pajėgo mis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -160,6 +181,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 ## Citatos
 
 - id: c-169494
@@ -229,18 +251,17 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lyginant lietuvių mitologiją su senąja graikų ir romėnų
-    mitologija, be pritempimo ir be kokio nors išankstinio įsitiki­
-    nimo savaime krito į akis panašumai ir beveik tapatumai. Greta
-    to, vertindami pastangas mitologų, norinčių įtvirtinti priešin­
-    gą nuomonę, kaip antai S tenderio1, atkakliai ieškojusio duo­
-    menų tokiai nuomonei pagrįsti, radome vien tik tuščius spė­
-    liojimus, etimologinę painiavą ir kažkokį užsispyrimą ginant
-    savo įsivaizdavimą. Dabar šioje antrojoje knygoje užsibrėžė­
-    me tikslą smulkiai išnarstyti visą mitologiją, paaiškinti tai, ką
-    pasakėme pirmojoje, ir, pateikdami duomenis, nušviečiančius
-    lietuvių tautos senovę, dar uoliau ieškoti tiesos su tokiu pačiu
-    bešališkumu.
+    Apie tai dar bus mūsų is­
+    torijos tęsinyje.
+    221
+
+    ## Puslapis 221
+
+    Kukovaitis (Kukowojtis)
+    Sudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­
+    patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­
+    laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
+    įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
   citata_rodoma: "Apie tai dar bus mūsų is­\ntorijos tęsinyje.\n221\n\n## Puslapis 221\n\nKukovaitis (Kukowojtis)\nSudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­\npatavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­\nlaidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai\nįvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -273,5 +294,5 @@ media_all_json: |-
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pajauta]]
-- Kukovaitis buvo valdovas [[objektai/vietos/Naugardukas]]
+- Kukovaitis buvo valdovas Naugardukas
 - Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

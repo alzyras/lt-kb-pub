@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # M. Liubavskij
 
 ## Santrauka
@@ -49,15 +50,6 @@ Liubavskij). Liubavskij, M.
   ryšio_subjekto_parinkimas: "M. Liubavskij: owner_note_path, author, gap=0"
   ryšio_targeto_parinkimas: "Bizantija: mention_match, place, gap=97"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Liubavskij\" parinktas kaip owner_note_path. Targetas \"Bizantija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-33057
-
-<a id="claim-t-30840"></a>
-- t-002
-  teiginys: "M. Liubavskij paskelbė darbą apie Lietuvos ir slavų santykius XI-XII a."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33057
@@ -102,4 +94,3 @@ Liubavskij). Liubavskij, M.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

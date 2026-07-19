@@ -28,50 +28,6 @@ media_all_json: |-
 
 md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland. - pagrindzia: - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą. citataoriginali: | Kiti.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Lasickiu, Platelių valsčių sieja su legendine pilimi, tačiau pažymi, kad Lasickis apie ją daugiau nepapasakojo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Į medį sviesdavo papjautus gaidžius, statydavo
-    ant jų uždegtas žvakes. Ypač jis globojo Platelių valsčių, ku­
-    riame ir buvusi toji legendinė pilis. Kadangi Lietuvoje yra ne
-    172
-
-    ## Puslapis 172
-
-    vieni Plateliai, gaila, kad Lasickis, kurio aprašymai visuomet
-    pernelyg trumpi, nieko daugiau nepapasakojo apie tą pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171934
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Lietuviškasis Ganiklis būtų panašiausias į romėnų pieme­
-    nų dievus, jeigu lygintume šventimus ir iškilmes su Liuperka-
-    lijomis - švente dievaičiui Panui ir deivei Liuperkai (Luper-
-    ca), saugančiai kaimene nuo vilkų, pagerbti. Panašiai ir Palili-
-    jų iškilmės piemenų deivės Palės garbei turėjo daug atitikme­
-    nų lietuvių piemenų Sekminių šventėje.
-    Šeimynos dievas (Siemi Dewas)
-    Namų šeimynos dievaitis.
-  citata_rodoma: "Į medį sviesdavo papjautus gaidžius, statydavo\nant jų uždegtas žvakes. Ypač jis globojo Platelių valsčių, ku­\nriame ir buvusi toji legendinė pilis. Kadangi Lietuvoje yra ne\n172\n\n## Puslapis 172\n\nvieni Plateliai, gaila, kad Lasickis, kurio aprašymai visuomet\npernelyg trumpi, nieko daugiau nepapasakojo apie tą pilį."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189045"></a>
@@ -112,3 +68,27 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
 - susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192022|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: 1836 m. Burokų dvare, priklausiusiame maršalkai Jucevičiui, Bonaventūras Milevskis, ardamas žemę, iškasė figūrą.
 - susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
 - susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
+## Citatos
+
+- id: c-171934
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Į medį sviesdavo papjautus gaidžius, statydavo
+    ant jų uždegtas žvakes. Ypač jis globojo Platelių valsčių, ku­
+    riame ir buvusi toji legendinė pilis. Kadangi Lietuvoje yra ne
+    172
+
+    ## Puslapis 172
+
+    vieni Plateliai, gaila, kad Lasickis, kurio aprašymai visuomet
+    pernelyg trumpi, nieko daugiau nepapasakojo apie tą pilį.
+  citata_rodoma: "Į medį sviesdavo papjautus gaidžius, statydavo\nant jų uždegtas žvakes. Ypač jis globojo Platelių valsčių, ku­\nriame ir buvusi toji legendinė pilis. Kadangi Lietuvoje yra ne\n172\n\n## Puslapis 172\n\nvieni Plateliai, gaila, kad Lasickis, kurio aprašymai visuomet\npernelyg trumpi, nieko daugiau nepapasakojo apie tą pilį."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

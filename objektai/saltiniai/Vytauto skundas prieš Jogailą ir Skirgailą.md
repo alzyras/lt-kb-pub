@@ -48,12 +48,12 @@ Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų ti
   citata_originali: |
     Tačiau jie vertė ir
     mane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­
-    nių nekenčiamas4. Ir aš prieš savo norą, jų valią vyk­
+    nių nekenčiamas4 . Ir aš prieš savo norą, jų valią vyk­
     dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
     kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
     tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
     jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
-    Krokuvos karalystė 5 jį paėmė, tada aš vėl pareiškiau
+    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
     savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
     tikėjimo.
   citata_rodoma: "Tačiau jie vertė ir \nmane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­\nnių nekenčiamas4 . Ir aš prieš savo norą, jų valią vyk­\ndydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­\nkiau tai viešai žmonėms, o sykiu slaptai laikiausi savo \ntikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­\njimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir \nKrokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau \nsavo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių \ntikėjimo."

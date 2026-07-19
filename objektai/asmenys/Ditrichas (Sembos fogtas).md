@@ -212,25 +212,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-008
-  santrauka: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Ramijos pilies užkariavimą
-
-      Pasikliaudamas viešpačiu, žmogus drįsta imtis sunkių, rodos, jo prigimčiai tiesiog
-    neįmanomų dalykų, kai iš tam tikrų apraiškų bei požymių jaučia, jog dievas jam palankus.
-    Todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene  į kitą Nemuno krantą,
-    tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir
-    nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių paėmęs į nelaisvę,
-    o kitus išžudęs.
-
-                     184 (179).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -239,13 +220,12 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tris
-    kartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties. Ketvirtą
-    kartą fogtas nupirko jam ketvirtą baltą žirgą ir pareiškė, kad tiek sykių šitai kartosiąs,
-    iki tą prūsą atpratinsiąs nuo prietarų. Kadangi ketvirtojo arklio velnias nepasmaugė kaip
-    pirmųjų, Dargis įtikėjo, nuolankiai išpažino savo klaidą ir pasidarė uolus tikėjimo bei
-    tikinčiųjų šalininkas, karštas dievo bei šventųjų gerbėjas, sutvirtinęs tikėjimu daugeliui
-    klystančiųjų naujakrikščių širdis.
+    Apie vieną stebuklą
+
+      Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris
+    nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo
+    prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo
+    tvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius.
   citata_rodoma: "Apie vieną stebuklą\n\n  Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris\nnepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo\nprietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo\ntvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -384,15 +364,19 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Skalvos žemės nusiaubimą
-    Kadangi lengvai pelnomas atleidimas skatina dar daugiau nusidėti, reikėjo, kad skalviai
-    už šitokį akiplėšišką nusikaltimą gautų sunkią bausmę, antraip jie ir ateityje galėtų
-    mėginti šitaip nusižengti. Tad magistras ir broliai, norėdami atkeršyti, subūrė stiprią
-    kariuomenę, kuri, įsibrovusi į Skalvos žemę, nusiaubė ją skersai ir išilgai, plėšdama ir
-    degindama, toje jos dalyje, kuri susisiekia su Prūsijos žeme471, daug žmonių išžudė, o
-    moteris ir vaikus surištus išsivarė. Tuo metu Stinigutas472, skalvių vadas, ėmė juos vytis
-    su didele kariuomene, o magistras ir broliai, šitai pastebėję, slaptai paspendė pasalas,
-    užpuolė žygiuojančią skalvių kariuomenę, daug jų nukovė, o kitus privertė bėgti.
+    Apie Ramijos pilies užkariavimą
+
+      Pasikliaudamas viešpačiu, žmogus drįsta imtis sunkių, rodos, jo prigimčiai tiesiog
+    neįmanomų dalykų, kai iš tam tikrų apraiškų bei požymių jaučia, jog dievas jam palankus.
+    Todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene  į kitą Nemuno krantą,
+    tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir
+    nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių paėmęs į nelaisvę,
+    o kitus išžudęs.
+
+
+
+
+                     184 (179).
   citata_rodoma: "Apie Ramijos pilies užkariavimą\n\n  Pasikliaudamas viešpačiu, žmogus drįsta imtis sunkių, rodos, jo prigimčiai tiesiog\nneįmanomų dalykų, kai iš tam tikrų apraiškų bei požymių jaučia, jog dievas jam palankus.\nTodėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene  į kitą Nemuno krantą,\ntuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir\nnukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių paėmęs į nelaisvę,\no kitus išžudęs.\n\n\n\n\n                 184 (179)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

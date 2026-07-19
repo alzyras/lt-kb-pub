@@ -53,40 +53,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 
 ## Teiginiai
 
-<a id="claim-t-00084"></a>
-- t-011
-  teiginys: "Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> P. Klimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "P. Klimas: mention_match, author, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis\" parinktas kaip owner_note_path. Targetas \"P. Klimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-00108
-
-<a id="claim-t-05577"></a>
-- t-002
-  teiginys: "Zenonas Ivinskis savo vardu ir pavarde pasirašė veikalo pratarmę Bonoje 1970 m. spalio 15 d."
-  atnaujinta: "2026-05-31 14:17"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1492-1494; įvykio data: 1970 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-163253
-
 <a id="claim-t-05579"></a>
 - t-004
   teiginys: "Ivinskis, Z. (Bražėnas) nurodomas kaip tekstų „Lietuvių tautos istorijos periodizacijos metmens“ ir „Lietuvos ir kitų baltų praeitis sovietų aiškinime“ autorius."
@@ -141,7 +107,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     - c-163251
 
 <a id="claim-t-179567"></a>
-- t-001
+- t-011
   teiginys: "Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -208,12 +174,9 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - susijęs iš Vilnius: Z. Ivinskis po pirmojo bolševikmečio pertraukos Ekonominių mokslų fakultete Vilniuje skaitė Lietuvos ūkio istoriją.
 - susijęs iš [[objektai/zodynas/bibliografiniai rinkiniai bibliografinis rinkinys.md#claim-t-32764|bibliografiniai rinkiniai bibliografinis rinkinys]]: Zenonas Ivinskis pirmąjį Lietuvos istorijos bibliografijos rinkinį vertino kaip palikusį didelę spragą.
 - susijęs iš [[objektai/zodynas/bibliografinė apžvalga bibliografinis veikalas.md#claim-t-32767|bibliografinė apžvalga bibliografinis veikalas]]: Zenonas Ivinskis Bibliografia Historii Polski laikė svarbiu bibliografiniu veikalu Lietuvos istorijos tyrinėtojui.
-## Citatos
-
-- id: c-00108
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
     tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
@@ -222,15 +185,27 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
     kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
     tymą ir nepriklausomojo gyvenimo laikotarpį.
-  citata_rodoma: "|"
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  statusas: verified
 
+## Citatos
+
+- id: c-00108
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    |
+  citata_rodoma: "|"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-163247
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -334,7 +309,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-011
 
 - id: c-163253
   autorius: "Zenonas Ivinskis"
@@ -354,5 +329,4 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-005

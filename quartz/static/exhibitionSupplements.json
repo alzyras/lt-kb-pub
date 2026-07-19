@@ -24,7 +24,7 @@
               "catalogDescriptionLt": "Apie 1930 m. tapytas Vytauto Didžiojo portretas. Parodoje jis naudojamas kaip tarpukario atminties vaizdas, o ne kaip autentiškas XIV–XV a. valdovo veidas.",
               "featured": true,
               "claims": [
-                {"code": "t-66990", "text": "1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66990", "role": "contextual", "label": "Jubiliejaus istorinis kontekstas"},
+                {"code": "t-66989", "text": "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66989", "role": "contextual", "label": "Jubiliejaus istorinis kontekstas"},
                 {"code": "t-66991", "text": "Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66991", "role": "contextual", "label": "Jubiliejus kaip valstybės pasakojimas"}
               ]
             },
@@ -168,7 +168,7 @@
               "catalogDescriptionLt": "Muziejaus kataloge įvardytas paveikslas „Vytautas Didysis“. Neaiškūs duomenys sąmoningai nepildomi spėjimais.",
               "featured": true,
               "claims": [
-                {"code": "t-66990", "text": "1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66990", "role": "contextual", "label": "Jubiliejinis laikas"},
+                {"code": "t-66989", "text": "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66989", "role": "contextual", "label": "Jubiliejinis laikas"},
                 {"code": "t-66991", "text": "Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66991", "role": "contextual", "label": "Jubiliejus kaip valstybės atmintis"}
               ]
             }
@@ -243,7 +243,7 @@
               "catalogDescriptionLt": "Katalogo įraše įvardytas Lietuvos didžiojo kunigaikščio Vytauto atvaizdas. Neaiškūs autoriaus ir datos duomenys nepildomi spėjimais.",
               "featured": true,
               "claims": [
-                {"code": "t-66990", "text": "1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66990", "role": "contextual", "label": "Jubiliejinis įrėminimas"}
+                {"code": "t-66989", "text": "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66989", "role": "contextual", "label": "Jubiliejinis įrėminimas"}
               ]
             },
             {

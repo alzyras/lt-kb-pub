@@ -65,10 +65,12 @@ Nenurodyta
   pagrindžia:
     - c-172822
 - susijęs iš [[objektai/zodynas/Perkrikštijimas De rebaptisantis hominibus.md#claim-t-189239|Perkrikštijimas De rebaptisantis hominibus]]: Narbutas rašė, kad rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje buvo įvestas dar prieš Kazimierą Vienuolį.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas smerkė kunigus, kurie antrą kartą krikštijo Lietuvoje manichėjais vadintus žmones, nes krikšto kartoti nedera.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172822
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nors paprotys senovinis, virtęs teise, bet pik­
     tnaudžiauti juo nepateisinama. Todėl blogai daro kunigai, ku­
@@ -77,31 +79,6 @@ Nenurodyta
     dan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra­
     mentą draudžiama. Pakanka pasiekti, kad išsižadėtų klaidų ir
     paklustų Romos bažnyčiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172822
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Pas
-    mus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš
-    tų popų, kurie nenorėjo priimti Biblijos ir liturgijos, Maskvos
-    patriarcho Nikono pataisytos; persekiojami tėvynėje, jie visu
-    būriu persikėlė į Lietuvą. Bet dar prieš XVII amžių, kaip gali­
-    ma spėti iš Kulčinskio duomenų', pas mus buvo nemažai įvai­
-    rių rusų sektantų. Taigi seniausiais laikais rusai, tokios pat prie­
-    žasties skatinami, galėjo keltis į Lietuvą ir skleisti savo tikėji­
-    mą tarp jos gyventojų. O šitaip (anot to, ką dėsto autorius)
-    galėjo rastis sektantiškos pažiūros.
-    Kai dėl pakartotinio krikštijimo, tai privalome padaryti dar
-    kai kurias pataisas.
   citata_rodoma: "Nors paprotys senovinis, virtęs teise, bet pik­\ntnaudžiauti juo nepateisinama. Todėl blogai daro kunigai, ku­\nrie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichė-\njų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var­\ndan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra­\nmentą draudžiama. Pakanka pasiekti, kad išsižadėtų klaidų ir\npaklustų Romos bažnyčiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

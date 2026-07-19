@@ -7,14 +7,14 @@ datos:
   - '1799 m.'
 date_start: '1799'
 date_end: ''
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -109,25 +109,6 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   pagrindžia:
     - c-177316
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašo, kad Safaržykas mini Vienos Imperatoriškajame Senienų kabinete saugomą paminklą kaip seniausią istorinį jazigų pėdsaką.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pats se­
-    niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
-    gai egzistavo dar prieš Kristų, yra istorinis paminklas, da­
-    bar saugomas Imperatoriškajame Senienų kabinete Vie­
-    noje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu
-    su kitomis brangenybėmis 1799 metais buvo rasta Toron-
-    talo komitate, netoli Šv. Mikalojaus piiesto, kasant vy­
-    nuogyną pono Nako dvare.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174075
@@ -157,15 +138,14 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ponas Tadas Votianskis, lietuvių kalbos mokovas,
-    jį aiškina taip: „Manau, jog pirmasis žodis BOYAA, wuld,
-    wulda, yra šiandieninis malda, t. y. valdyk, viešpatauk,
-    karaliauk; panašus į vokišką walte. Žodis po vardo Zu-
-    panie — TECH reiškia tješe, t. y. teisėtai, teisingai, pa­
-    prastai. Ketvirtas žodis АУГЕ reiškia daugie, daug, dau­
-    giu, daugio, daugiel, daugiaus; lenkų kalboje mielce ar­
-    ba dlugo. Antroje eilutėje pirmas žodis Т01ГН, tojge,
-    reiškia šiandien taigi, lenkiškai a zatem, więc.
+    Pats se­
+    niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
+    gai egzistavo dar prieš Kristų, yra istorinis paminklas, da­
+    bar saugomas Imperatoriškajame Senienų kabinete Vie­
+    noje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu
+    su kitomis brangenybėmis 1799 metais buvo rasta Toron-
+    talo komitate, netoli Šv. Mikalojaus piiesto, kasant vy­
+    nuogyną pono Nako dvare.
   citata_rodoma: "Pats se­\nniausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­\ngai egzistavo dar prieš Kristų, yra istorinis paminklas, da­\nbar saugomas Imperatoriškajame Senienų kabinete Vie­\nnoje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu\nsu kitomis brangenybėmis 1799 metais buvo rasta Toron-\ntalo komitate, netoli Šv. Mikalojaus piiesto, kasant vy­\nnuogyną pono Nako dvare."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

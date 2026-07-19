@@ -9,14 +9,14 @@ datos:
   - '2026 m.'
 date_start: '1936'
 date_end: '2026'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -86,6 +86,22 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   pagrindžia:
     - c-171060
 
+## Reikšmingi paminėjimai
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1822. Mamoničių namai sto­
+    vėjo, rodos, toje vietoje, kur dabar Sle-
+    dzinskio namai, Nr. 203, o šalia,
+    kampiniame name, seniau buvo
+    cerkvelė. Vėliau Mamoničių spaus­
+    tuvė, matyt, atiteko bazilijonams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-171057
@@ -113,11 +129,11 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    1822. Mamoničių namai sto­
+    Mamoničių namai sto-
     vėjo, rodos, toje vietoje, kur dabar Sle-
     dzinskio namai, Nr. 203, o šalia,
     kampiniame name, seniau buvo
-    cerkvelė. Vėliau Mamoničių spaus­
+    cerkvelė. Vėliau Mamoničių spaus-
     tuvė, matyt, atiteko bazilijonams.
   citata_rodoma: "Mamoničių namai sto-\nvėjo, rodos, toje vietoje, kur dabar Sle-\ndzinskio namai, Nr. 203, o šalia,\nkampiniame name, seniau buvo\ncerkvelė. Vėliau Mamoničių spaus-\ntuvė, matyt, atiteko bazilijonams."
   statusas: verified

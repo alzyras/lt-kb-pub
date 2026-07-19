@@ -10,13 +10,13 @@ datos:
   - '1435 m.'
 date_start: '1300'
 date_end: '1435'
+amziai:
+  - 'XIII'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinis-terminas
-amziai:
-  - 'XIII'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -247,6 +247,68 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - susijęs iš [[objektai/zodynas/daugiakonfesiškumas.md#claim-t-22101|daugiakonfesiškumas]]: LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
 - susijęs iš [[objektai/zodynas/metropolija.md#claim-t-05445|metropolija]]: Gediminui nepasisekė išlaikyti Lietuvos metropolijos.
 - susijęs iš [[objektai/zodynas/metropolija.md#claim-t-97282|metropolija]]: 1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos, didindamas pavojų Lietuvos stačiatikių plotams.
+## Reikšmingi paminėjimai
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pagaliau jam pasi­
+    sekė atstatyti Vytenio ir Gedimino laikų padėtį. 1354 m. Konstan­
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
+    sančių žemių metropolitą — arkivyskupą Romaną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Algirdas 1370 smarkiai
+    pasisakė prieš Aleksį, atsakydamas į priekaištus savo laiške Kons­
+    tantinopolio Filotejui^16. Patriarchas Lietuvos stačiatikių metro­
+    politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
+    gyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas
+    sostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Konstan­
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
+    sančių žemių metropolitą — arkivyskupą Romaną.
+    Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,
+    Lietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo
+    pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
+    gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
+    Filotėją įtikinti Lietuvos ortodoksų labui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-007
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Jame taip pat ryškiai atsispindi klasinė pozicija LDK feoda­
+    linės visuomenės aristokratų, priešiškų Žygimantui Kęstutaičiu'. ku­
+    rių aplinkoje sukurtas apologinis pasakojimas apie Žygimanto Kęs­
+    tutaičio nužudymų. Jis atik ai skiriasi nuo ankstesnio pasakojimo
+    apie Žygimanto Kęstutaičio ir Svitrigai'os karų. parašyto palankiai
+    Žygimantui Kęstutaičiu!.
+    * Čia gal turimas galvoje Jurgio Lengvenalčlo buvimas Žygi­
+    manto Kęstutaičio nelaisvėje 1432.XII 8— 1433, nes 1433 m. jis pa­
+    liego Iš nelaisvės Ir 1438—1440 iki Žygimanto Kęstutaičio nužudy­
+    mo vietlninkavo Didžiajame Naugarde.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-167991
@@ -287,9 +349,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Pagaliau jam pasi­
-    sekė atstatyti Vytenio ir Gedimino laikų padėtį. 1354 m. Konstan­
-    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
+    1354 m. Konstan-
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau-
     sančių žemių metropolitą — arkivyskupą Romaną.
   citata_rodoma: "1354 m. Konstan-\ntinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau-\nsančių žemių metropolitą — arkivyskupą Romaną."
   statusas: verified
@@ -305,9 +366,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Algirdas 1370 smarkiai
-    pasisakė prieš Aleksį, atsakydamas į priekaištus savo laiške Kons­
-    tantinopolio Filotejui^16. Patriarchas Lietuvos stačiatikių metro­
+    Patriarchas Lietuvos stačiatikių metro-
     politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
     gyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas
     sostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė.
@@ -364,12 +423,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Konstan­
-    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
-    sančių žemių metropolitą — arkivyskupą Romaną.
-    Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,
-    Lietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo
-    pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
+    Lietuvos stačiatikių metropolija nebebuvo
+    atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-
     gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
     Filotėją įtikinti Lietuvos ortodoksų labui.
   citata_rodoma: "Lietuvos stačiatikių metropolija nebebuvo\natnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."
@@ -388,16 +443,11 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   puslapiai: "PDF 274"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 274."
   citata_originali: |
-    Jame taip pat ryškiai atsispindi klasinė pozicija LDK feoda­
-    linės visuomenės aristokratų, priešiškų Žygimantui Kęstutaičiu'. ku­
-    rių aplinkoje sukurtas apologinis pasakojimas apie Žygimanto Kęs­
-    tutaičio nužudymų. Jis atik ai skiriasi nuo ankstesnio pasakojimo
-    apie Žygimanto Kęstutaičio ir Svitrigai'os karų. parašyto palankiai
-    Žygimantui Kęstutaičiu!.
-    * Čia gal turimas galvoje Jurgio Lengvenalčlo buvimas Žygi­
-    manto Kęstutaičio nelaisvėje 1432.XII 8— 1433, nes 1433 m. jis pa­
-    liego Iš nelaisvės Ir 1438—1440 iki Žygimanto Kęstutaičio nužudy­
-    mo vietlninkavo Didžiajame Naugarde.
+    ”  „O  trečių vasarų" — kalbama apie 1435 m
+    w Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos. Bu­
+    vo Volynės (1415— 1428). Smolensko (nuo 1428) vyskupu. 1432 m.
+    Švitrigailos pasiūlymu ¡šventintas Konstantinopolyje LDK ir Mask­
+    vos Didžiosios Kunigaikštystės bei kitų rusų žemių metropolitu.
   citata_rodoma: "”  „O  trečių vasarų\" — kalbama apie 1435 m\nw Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos. Bu­\nvo Volynės (1415— 1428). Smolensko (nuo 1428) vyskupu. 1432 m. \nŠvitrigailos pasiūlymu ¡šventintas Konstantinopolyje LDK ir Mask­\nvos Didžiosios Kunigaikštystės bei kitų rusų žemių metropolitu."
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
@@ -412,12 +462,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Konstan­
-    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
-    sančių žemių metropolitą — arkivyskupą Romaną.
-    Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,
-    Lietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo
-    pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
+    Lietuvos stačiatikių metropolija nebebuvo
+    atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-
     gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
     Filotėją įtikinti Lietuvos ortodoksų labui.
   citata_rodoma: "Lietuvos stačiatikių metropolija nebebuvo\natnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."

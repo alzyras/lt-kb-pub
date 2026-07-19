@@ -93,16 +93,7 @@ Visuomeninė draugija.
   puslapiai: "p. 9 (PDF 8)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“, p. 9 (PDF 8)."
   citata_originali: |
-    valdžioj, kenčia visokią priespaudą, daug tūkstančių yra is ten pabėgė­
-    lių; ir yra todėl Karielos švietimo dr-ja; joje velionis buvo garbės na­
-    rys ir vicepirmininkas; jos laikrašty „Toukomies“ (Sėjėjas) daug rašė
-    karielų klausimu.
-    Yra vėl kita Suomijoj draugija, kurioj velionis gyvai dalyvavo ir
-    net buvo jos pirmininkas, tai Nepriklausomybės Sąjunga.
-    Tai didelė,
-    pc visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia,
-    rūpi­
-    nasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje.
+    Yra vėl kita Suomijoj draugija, kurioj velionis gyvai dalyvavo ir net buvo jos pirmininkas, tai Nepriklausomybės Sąjunga. Tai didelė, po visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia, rūpinasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje.
   citata_rodoma: "Yra vėl kita Suomijoj draugija, kurioj velionis gyvai dalyvavo ir net buvo jos pirmininkas, tai Nepriklausomybės Sąjunga. Tai didelė, po visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia, rūpinasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje."
   statusas: verified
   atnaujinta: "2026-07-12 11:11"

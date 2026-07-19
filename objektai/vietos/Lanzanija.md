@@ -7,13 +7,13 @@ datos:
   - '1216 m.'
 date_start: '1216'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - žemė
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,20 +55,6 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - susijęs iš 1216 m. vasario 18 d. popiežiaus patvirtinti Lubavos ir Lanzanijos užrašymai: 1216 m. vasario 18 d. popiežius patvirtino Lubavos ir Lanzanijos užrašymus vyskupui Kristijonui.
 - susijęs iš Lubavos žemė: Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.
 - susijęs iš [[objektai/ivykiai/Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas.md#claim-t-59559|Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas]]: Lubavos nobiliai, vadovaujami Survabūno, ir Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir
-    Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono
-    valdžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-59396
@@ -76,11 +62,9 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kristijonui radus bendrą kalbą su prūsų nobiliais, nemaža prūsų priėmė krikštą.
-    Stiprindamas savo pozicijas Prūsijoje, Kristijonas stengėsi išvengti pavaldumo lenkų
-    bažnyčiai ir feodalams, norėjusiems pajungti prūsų naujakrikščius. Popiežiaus bulės
-    liudija, kad lenkų feodalai, nepaisydami Kristijono nepritarimo, braudavosi į apkrikštytų
-    prūsų žemes.
+    Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir
+    Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono
+    valdžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius.
   citata_rodoma: "Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir\nLanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono\nvaldžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

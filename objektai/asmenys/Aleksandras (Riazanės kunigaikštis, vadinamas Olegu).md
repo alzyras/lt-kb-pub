@@ -48,10 +48,12 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
   pagrindžia:
     - c-169534
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169534
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Po to, kai visas Se-
     verskas vėl kaip kadaise atsi-
@@ -74,40 +76,6 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
     širdies, kaip nesėkmė, todėl
     ir Dimitras, ilgai kalėdamas,
     išmoko klusnumo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169534
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Vis dėlto dau­
-    giausia bėdos Dimitrui padarė gaisrai, kilę iš karto ke­
-    liose vietose: nuo tam tyčia padarytais prietaisais svie­
-    džiamų į miestą degmenų netruko suliepsnoti stogai bei
-    mediniai namai, be to, išvesti Vytauto kariai, saugiai
-    prislinkę keliose vietose prie įtvirtinimų pakasais, pa­
-    degė bokštus ir vartus. Liepsnos ir priešo puolami gy­
-    nėjai, grūmęsi su dvigubu pavojumi, nieko nepajėgė pa­
-    daryti, ir miestas netrukus buvo užimtas ir apiplėštas.
-    Ką rado miestiečių namuose, tas atiteko kariams, kuni­
-    gaikščio Dimitro lobiai ir visi turtai, sugabenti į pilį ir
-    bažnyčias, pakliuvo į Vytauto iždą. Po to, kai visas Se-
-    verskas vėl kaip kadaise atsi-
-    S e v e r s k ą
-    p riju n g ia
-    dūrė Lietuvos Didžiosios Ku-
-    p rie L ietu vo s
-    nigaikštystės valdžioje, kraš­
-    tui buvo paskirtas vietinin­
-    kas, turėjęs Vytauto vardu jį valdyti ir žiūrėti, kad
-    Dimitro šalininkai nesukeltų karo.
   citata_rodoma: "Po to, kai visas Se-\nverskas vėl kaip kadaise atsi-\nS e v e r s k ą\np riju n g ia\ndūrė Lietuvos Didžiosios Ku-\np rie L ietu vo s\nnigaikštystės valdžioje, kraš­\ntui buvo paskirtas vietinin­\nkas, turėjęs Vytauto vardu jį valdyti ir žiūrėti, kad\nDimitro šalininkai nesukeltų karo. Dimitrą su žmona bei\nvaikais išsiuntė į Vilnių, čia jį ilgam uždarė Aukštuti­\nnėje pilyje, o į laisvę paleido, kai Aleksandras (žmonių\nvadinamas Olegu), Riazanės kunigaikštis, karštomis\nmaldomis jį užstojo ir, davęs užstatą, laidavo jam Vy­\ntauto palankumą. Niekas taip\nD im itru i a tid u o d a  tė-\nstipriai nesutramdo išpuikėlio\nv o n iją\nširdies, kaip nesėkmė, todėl\nir Dimitras, ilgai kalėdamas,\nišmoko klusnumo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

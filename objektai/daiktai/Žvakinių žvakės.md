@@ -63,10 +63,12 @@ Nenurodyta
   pagrindžia:
     - c-172645
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas žvakinius apibūdino kaip pranašautojus, kurie nusiliedavo žvakes ir pagal jų degimą bei dūmus pranašaudavo ateitį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172645
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie juos
     buvo manoma, jog panorėję jie moką nukreipti vėją, nuraminti
@@ -77,29 +79,6 @@ Nenurodyta
     Pūtikai (Pustones)
     Ypatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­
     timu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172645
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Jas rink­
-    davo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­
-    davo prie didžiųjų šventyklų ir deivės Praurimės žymiausių au­
-    kurų. Buvo ypatingos aukos, kurias atnašauti privalėjo vaidi­
-    lutės. Apskritai visa, kas religijos dalykuose tiesiogiai susiję su
-    moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­
-    josi su gražiąja lytimi, buvo vaidilučių sritis. Neturime smul­
-    kesnių žinių apie jas nei iš padavimų, nei iš istorijos. Vis dėlto
-    reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos
-    ir iki nustatytų metų, o vėliau galėdavo ištekėti.
   citata_rodoma: "Apie juos\nbuvo manoma, jog panorėję jie moką nukreipti vėją, nuraminti\njį arba paleisti, kad pūstų.\nŽvakiniai (Žwakones)\nŠie pranašautojai nusiliedavo tam tikras žvakes ir pagal jų\ndegimą bei dūmus kurdavo savo ateities pranašavimus.\nPūtikai (Pustones)\nYpatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­\ntimu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -7,12 +7,12 @@ datos:
   - '1929 m.'
 date_start: '1929'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,45 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad zajączkowski S.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—
-    Lwów, 1929.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-62011
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Justas šv.
-    Justinianas
-    Kabelka J.
-    Kaltis (Colte, Kolte)
-    Kalvaitis V. (Kalwaitis W.)
-    Kaminskis A. (Kamiński)
-    Kandeimas (D. — Candeym, Jer. — Kandemînen gens)
-    Kanthe
-    Kantigirdas (Cantegerde, Kantegirt; Kantigirde)
-    Karaliūnas S.
-  citata_rodoma: "Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—\nLwów, 1929."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-61379"></a>
@@ -88,3 +49,21 @@ Dusburgietis teigia, kad zajączkowski S.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62011
+
+## Citatos
+
+- id: c-62011
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—
+    Lwów, 1929.
+  citata_rodoma: "Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—\nLwów, 1929."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

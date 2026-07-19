@@ -70,6 +70,27 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
 - susijęs iš Starobelsko apskritis: Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai buvo įsikūrę greta į rytus, Dono ir Doneco tarpupyje.
 - susijęs iš Voluika: Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje.
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Galbūt šis keistas požiū­
+    ris atsirado dėl to, kad tam tikrais metų laikais bado
+    spaudžiami neurai išeidavo iš savo miškų ir grobdavo
+    gyvulius iš skitų. Į šiaurę nuo skitų, net ligi Dono, gy­
+    veno gelonai ir budinai, kitapus Dono, iki jūros, j rytus
+    nuo skitų, — sarmatai. Skitų valstybė buvo galinga,
+    tirštai gyvenama ir taiki. Bet galų gale tokia palanki
+    genties padėtis baigėsi dėl menkų, kaip ir jie patys, žmo­
+    giškų dalykų. Klajojantys skitai, iš karto vengę bend­
+    rauti su graikų atvykėliais ir pasitraukdavę iš jų apgy­
+    ventų vietų, pagaliau pradėjo su jais bendrauti, ėmė pirk­
+    ti iš jų civilizuoto pasaulio dirbinius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   santrauka: 'Getai, pelazgų giminės gentis, ne praleido progos pasistūmėti prie Dnestro, įsiterpdami tarp klajoklių skitų ordų, kariaudami su kai kuriomis iš jų ar paremdami jas kovose vienos su kitomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -92,6 +113,7 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 ## Citatos
 
 - id: c-175708
@@ -99,18 +121,15 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galbūt šis keistas požiū­
-    ris atsirado dėl to, kad tam tikrais metų laikais bado
-    spaudžiami neurai išeidavo iš savo miškų ir grobdavo
-    gyvulius iš skitų. Į šiaurę nuo skitų, net ligi Dono, gy­
-    veno gelonai ir budinai, kitapus Dono, iki jūros, j rytus
-    nuo skitų, — sarmatai. Skitų valstybė buvo galinga,
-    tirštai gyvenama ir taiki. Bet galų gale tokia palanki
-    genties padėtis baigėsi dėl menkų, kaip ir jie patys, žmo­
-    giškų dalykų. Klajojantys skitai, iš karto vengę bend­
-    rauti su graikų atvykėliais ir pasitraukdavę iš jų apgy­
-    ventų vietų, pagaliau pradėjo su jais bendrauti, ėmė pirk­
-    ti iš jų civilizuoto pasaulio dirbinius.
+    36
+    Dideliame skitų krašte taip pat gyveno svetimos, ski­
+    tų pakenčiamos, ypač graikų persikėlėlių ir su jais turė­
+    jusios ryšių arba susigiminiavusios tautos, pavyzdžiui,
+    gelonų, kurių kolonija plytėjo į šiaurę nuo skitų krašto,
+    kairiojoje Dnepro pakrantėje tarp budinu. Šie, susiję su
+    anais, visuomet kaimyniškai, taikiai ir sutartinai gyveno
+    su skitais. Gerai sutarė ir getai iš pietų, gyvenę prie
+    Dunojaus.
   citata_rodoma: "36\nDideliame skitų krašte taip pat gyveno svetimos, ski­\ntų pakenčiamos, ypač graikų persikėlėlių ir su jais turė­\njusios ryšių arba susigiminiavusios tautos, pavyzdžiui,\ngelonų, kurių kolonija plytėjo į šiaurę nuo skitų krašto,\nkairiojoje Dnepro pakrantėje tarp budinu. Šie, susiję su\nanais, visuomet kaimyniškai, taikiai ir sutartinai gyveno\nsu skitais. Gerai sutarė ir getai iš pietų, gyvenę prie\nDunojaus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

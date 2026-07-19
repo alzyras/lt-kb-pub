@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Belskis
 
 ## Santrauka
@@ -53,19 +54,6 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
   ryšio_subjekto_parinkimas: "Belskis: owner_note_path, author, gap=0"
   ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Belskis\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173264
-
-<a id="claim-t-190382"></a>
-- t-002
-  teiginys: "Narbutas mini, kad Belskis savo kronikoje pasakojo panašų dalyką apie senovės prūsų monetas."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
@@ -108,7 +96,6 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-173265
   autorius: "Teodoras Narbutas"

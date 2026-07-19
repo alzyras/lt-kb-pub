@@ -10,15 +10,15 @@ datos:
   - '1426 m.'
 date_start: '1426'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -336,6 +336,32 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168105
+
+## Reikšmingi paminėjimai
+- c-014
+  santrauka: 'Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sugrįžti nuo tikėjimo reikalų prie vals­
+    tybės rūpesčių paragino Vytautą tai, kad netrukus turė­
+    jo baigtis dvejų metų paliaubos su kryžiuočiais. Nus­
+    prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai
+    pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,
+    ąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai
+    atmetė vieną po kitos visas
+    1418 m e ta i
+    siūlomas taikos sąlygas, pasi-
+    S u sitik im a s d ė l tai-
+    pūtėliškai reikalaudami visos
+    k o s a tn eša k a rą
+    Žemaitijos, susitikimas neat­
+    nešė jokios naudos, ir netru­
+    kus kryžiuočiai iš pasalų pradėjo atvirą karą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -701,21 +727,12 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Sugrįžti nuo tikėjimo reikalų prie vals­
-    tybės rūpesčių paragino Vytautą tai, kad netrukus turė­
-    jo baigtis dvejų metų paliaubos su kryžiuočiais. Nus­
-    prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai
-    pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,
-    ąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai
-    atmetė vieną po kitos visas
-    1418 m e ta i
-    siūlomas taikos sąlygas, pasi-
-    S u sitik im a s d ė l tai-
-    pūtėliškai reikalaudami visos
-    k o s a tn eša k a rą
-    Žemaitijos, susitikimas neat­
-    nešė jokios naudos, ir netru­
-    kus kryžiuočiai iš pasalų pradėjo atvirą karą.
+    Po to ir viena, ir kita šalis puldinėjo
+    ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti
+    didesnę kariuomenę, Vytautas patraukė į Trakus ir čia,
+    mirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-
+    šėnų kunigaikščio Algimantaičio dukra. Julijona mi-
+    rusiajai buvo teta.
   citata_rodoma: "Po to ir viena, ir kita šalis puldinėjo\nir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti\ndidesnę kariuomenę, Vytautas patraukė į Trakus ir čia,\nmirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-\nšėnų kunigaikščio Algimantaičio dukra. Julijona mi-\nrusiajai buvo teta."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

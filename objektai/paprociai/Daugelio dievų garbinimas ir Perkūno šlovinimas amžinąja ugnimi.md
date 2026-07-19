@@ -63,10 +63,12 @@ Nenurodyta
   pagrindžia:
     - c-169275
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuvos krikšto aprašyme bajorų ir kunigaikščių pagonybė siejama su daugelio dievų garbinimu ir Perkūno šlovinimu amžinąja ugnimi.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169275
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lietuvių pagonybės ir antikinės stabmel­
     dystės jis netapatino ir neieškojo tarp jų panašumo. Iš Lietuvos
@@ -75,27 +77,6 @@ Nenurodyta
     šlo­
     vino amžinąja ugnimi. Krikštydamiesi jie pasižadėjo garbinti vieną
     dievą pagal krikščionių apeigas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169275
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Lie­
-    tuvos teritorijoje atsirado Vilniaus bei Trakų vaivadijos ir Žemai­
-    čių seniūnija. Didžiojo kunigaikščio vyriausybė niekad nei Lietuvos,
-    nei Rusios nelaikė atskiru kariniu ar teisiniu vienetu. Didžiosios Ku­
-    nigaikštystės skirstymas į Lietuvą, Žemaitiją ir Rusią plito po Liu­
-    blino unijos (1569), kai Ukraina buvo prijungta prie Lenkijos, o
-    Lietuva su Baltarusija pasidarė jungtinės valstybės, vadintos Žeč­
-    pospolita, dalimi.
   citata_rodoma: "Lietuvių pagonybės ir antikinės stabmel­\ndystės jis netapatino ir neieškojo tarp jų panašumo. Iš Lietuvos\nkrikšto aprašymo matyti, kad bajorų ir kunigaikščių pagonybė pa­\nsireiškė tuo, kad prietaringai garbino daugelį dievų ir Perkūną\nšlo­\nvino amžinąja ugnimi. Krikštydamiesi jie pasižadėjo garbinti vieną\ndievą pagal krikščionių apeigas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

@@ -57,22 +57,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 
 ## Teiginiai
 
-<a id="claim-t-92017"></a>
-- t-011
-  teiginys: "Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra."
-  atnaujinta: "2026-05-31 12:01"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Žuvėdai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių jūra: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žuvėdai: mention_match, group, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių jūra\" parinktas kaip owner_note_path. Targetas \"Žuvėdai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10525
-
 <a id="claim-t-92018"></a>
 - t-008
   teiginys: "Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla."
@@ -234,5 +218,3 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011

@@ -26,41 +26,13 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Gertrude Ellion
 
 ## Santrauka
 
 1865 m.), Gertrude Ellion (Geltrūda Elion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV būdamas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. batsiuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m. premija).
 
-## Teiginiai
-
-<a id="claim-t-18916"></a>
-- t-001
-  teiginys: "Gertrude Ellion 1988 m. gavo medicinos ir fiziologijos srities Nobelio premiją, o jos tėvas vaikystėje emigravo iš Lietuvos į JAV."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gertrude Ellion: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=115"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gertrude Ellion\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1927 m.; įvykio data: 1967 m.; įvykio data: 1975 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra fragmentas; citata leidžia suformuluoti aiškų biografinį faktą."
-  pagrindžia:
-    - c-21682
-- susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
-- susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
-- susijęs iš [[objektai/asmenys/Bernardas Berensonas.md#claim-t-101637|Bernardas Berensonas]]: Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių apylinkių.
-- susijęs iš [[objektai/asmenys/Bernardas Berensonas.md#claim-t-101638|Bernardas Berensonas]]: Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.
-- susijęs iš [[objektai/asmenys/David Baltimore.md#claim-t-78048|David Baltimore]]: David Baltimore'as buvo 1975 m. medicinos ir fiziologijos Nobelio premijos laureatas, siejamas su Lietuva.
-- susijęs iš [[objektai/asmenys/Sydney Brenner.md#claim-t-19279|Sydney Brenner]]: Sydney Brenneris gimė 1927 m. batsiuvio, 1910 m. emigravusio iš Lietuvos į Pietų Afriką, šeimoje ir 2002 m. gavo Nobelio premiją.
-- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45105|Litvakai]]: Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
-- susijęs iš Butrimonys: Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.
-- susijęs iš Želva: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
 ## Citatos
 
 - id: c-21682
@@ -86,8 +58,18 @@ media_all_json: |-
   citata_rodoma: "rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+## Teiginiai
+
+- susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
+- susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
+- susijęs iš [[objektai/asmenys/Bernardas Berensonas.md#claim-t-101637|Bernardas Berensonas]]: Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių apylinkių.
+- susijęs iš [[objektai/asmenys/Bernardas Berensonas.md#claim-t-101638|Bernardas Berensonas]]: Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.
+- susijęs iš [[objektai/asmenys/David Baltimore.md#claim-t-78048|David Baltimore]]: David Baltimore'as buvo 1975 m. medicinos ir fiziologijos Nobelio premijos laureatas, siejamas su Lietuva.
+- susijęs iš [[objektai/asmenys/Sydney Brenner.md#claim-t-19279|Sydney Brenner]]: Sydney Brenneris gimė 1927 m. batsiuvio, 1910 m. emigravusio iš Lietuvos į Pietų Afriką, šeimoje ir 2002 m. gavo Nobelio premiją.
+- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45105|Litvakai]]: Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
+- susijęs iš Butrimonys: Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.
+- susijęs iš Želva: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.

@@ -9,16 +9,16 @@ datos:
   - '1236 m.'
 date_start: '1226'
 date_end: '1236'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
   - karalius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,9 +71,12 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   pagrindžia:
     - c-175813
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-175812
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
     sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
@@ -86,33 +89,6 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
     kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
     keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
     nelaisvėje buvo nužudytas tuo kalaviju.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-175812
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Priklausomai nuo gėrimo pagaminimo būdo
-    dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima
-    ¡r kitose mitologijose.
-    Iš padavimų apie graikų dievus žinome, kad garsus prana­
-    šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
-    karo, apie 1380 metus prieš Kristaus gimimą, pirmasis Graiki­
-    joje įvedė Bakcho garbinimą. Todėl tais laikais, kai lietuvių
-    tauta brandino savo stabmeldystę, to dievo garbinimas kitur
-    buvo labai senas ir visuotinai paplitęs. Lietuviai įvedė tą gar­
-    binimą savo šalyje, tačiau natūralu, kad, neturėdami vynuo­
-    gių, savo Bakchui turėjo priskirti kitas ypatybes ir atributus,
-    nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
-    ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
-    mingumo skraiste.
   citata_rodoma: "Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje\nsugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties\nkalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­\nją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­\nsų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo\nGercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis\nDaugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

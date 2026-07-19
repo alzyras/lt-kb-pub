@@ -44,7 +44,7 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 <a id="claim-t-89794"></a>
 - t-001
   teiginys: "Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_palaidotas -> Kulmenzė: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -142,15 +142,11 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tą pačią dieną jie norėjo užkariauti sembų kuorus
-    [propugnacula], kuriais buvo apsupta Karaliaučiaus pilis, tačiau broliai juos atkalbėjo,
-    nes vargu ar per likusias valandas tą dieną būtų baigę šias smarkias kautynes. Išaušus,
-    kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,
-    nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho
-    grafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.
-    Brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
-    vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
-    atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.
+    Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais
+
+       Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o
+    palaidotas Kulmenzės bažnyčioje. Tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas,
+    įgudęs kariauti ir Kristui atsidavęs vyras.
   citata_rodoma: "Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais\n\n   Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o\npalaidotas Kulmenzės bažnyčioje. Tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas,\nįgudęs kariauti ir Kristui atsidavęs vyras."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -211,5 +207,5 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
     - t-004
 
 ## Ryšiai
-- Helmerichas mirė [[objektai/vietos/Lubava]]
-- Helmerichas buvo palaidotas [[objektai/vietos/Kulmenzė]]
+- Helmerichas mirė Lubava
+- Helmerichas buvo palaidotas Kulmenzė

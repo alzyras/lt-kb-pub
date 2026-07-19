@@ -9,13 +9,13 @@ datos:
   - '1428 m.'
 date_start: '1406'
 date_end: '1428'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -81,6 +81,24 @@ media_all_json: |-
   pagrindžia:
     - c-170393
 
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ‘ 1428 m. žygio karo veiksmai buvo sustabdyti, liepos 28 d.
+    naugardiečiams paprašius taikos.
+    s XV a. pirmojoje pusėje Pskovo bajorų respublika kariavo su
+    LDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­
+    klausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo-
+    ronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28),
+    Rževų ir Polocku (V1I.30—VII1.2).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
 ## Citatos
 
 - id: c-170393
@@ -88,9 +106,7 @@ media_all_json: |-
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    ‘ 1428 m. žygio karo veiksmai buvo sustabdyti, liepos 28 d.
-    naugardiečiams paprašius taikos.
-    s XV a. pirmojoje pusėje Pskovo bajorų respublika kariavo su
+    s XV a. pirm ojoje pusėje Pskovo bajorų respublika kariavo su
     LDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­
     klausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo-
     ronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28),

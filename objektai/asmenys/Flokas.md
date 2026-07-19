@@ -52,10 +52,12 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
 - susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191319|Starkateras]]: Narbutas pasakoja, kad Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
 - susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191241|Vyresnysis Starkateras]]: Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
 - susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191241|Vyresnysis Starkateras]]: Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš rūmų ir pasisavino jo aukso bei sidabro lobius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174279
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šio nenaudėlio sukaupti ant Anapilio kalno tur­
     tai atiteko Danijos karaliui ir padėjo rengiant karo žy­
@@ -65,30 +67,6 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
     238
     Čia dera prisiminti ir įžymaus Siaurės kraštų kariūno,
     Olandijos karaliaus Jarmeriko žygius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174279
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Čia dera prisiminti ir įžymaus Siaurės kraštų kariūno,
-    Olandijos karaliaus Jarmeriko žygius. Jis jau seniau, dar
-    jo tėvui karaliui Sivarui gyvenant, kai kariavo Pamaryje
-    1 Wizin, Vizinas lietuvių kalba, Lydos apskrityje vartojamu dia­
-    lektu, reiškia šliužą, bjaurų, šliaužiojantį padarą.
-    2 Tadas
-    Cackis
-    (Martyno Galo ir Vincento
-    Kadlubeko
-    lenkų
-    istorijos nagrinėjimuose. Prierašas Nr. 21); Lindė (Historisch-kritisch.
   citata_rodoma: "Šio nenaudėlio sukaupti ant Anapilio kalno tur­\ntai atiteko Danijos karaliui ir padėjo rengiant karo žy­\ngius3. Tas pats Starkateras, privertęs rusnėnų karaliuką\nFloką sprukti iš savo rūmų, pasisavino jo nesuskaičiuoja­\nmus lobius, daugybę aukso ir sidabro4.\n238\nČia dera prisiminti ir įžymaus Siaurės kraštų kariūno,\nOlandijos karaliaus Jarmeriko žygius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

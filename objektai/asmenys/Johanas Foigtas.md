@@ -164,7 +164,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 <a id="claim-t-190893"></a>
 - t-008
   teiginys: "Narbutas vertino, kad Johano Foigto tyrimas dėl aptariamos tvirtovės lokalizacijos prie Ząsupėnų buvo kiek klaidingas."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -172,7 +172,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
-    - c-173775
+    - c-179328
 
 <a id="claim-t-197756"></a>
 - t-010
@@ -224,22 +224,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-188413|Johanas Foigtas]]: Johanas Foigtas buvo Karaliaučiaus universiteto profesorius ir daugiatomės „Prūsijos istorijos“ autorius.
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-187954|Albertas Vijūkas-Kojalavičius]]: S. Daukantas T. Narbutui atsiuntė Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį.
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Pasak Narbuto, Reinchardo teiginys apie Stavaniją rėmėsi Johanu Foigtu ir vietovardžiais Stabinas bei Staviškės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau vokiečių senovės tyrinėtojai prira­
-    šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
-    visiškai nereikšmingi. Naujausias yra Reinchardo teigi­
-    mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
-    į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
-    nes ten yra vietovardžių Stabinas, Staviškės. Tai bent
-    etimologinių išvadų pagrindas!
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-004
   santrauka: 'Narbutas vertina, kad Johanas Foigtas, svarstydamas skirių ir hirių gentis, pateko į keblią padėtį ir darė netaiklias išvadas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -261,35 +245,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-- c-005
-  santrauka: 'III priede Narbutas pateikė Johano Foigto ištrauką apie dingusį Vitiemdijos kraštą ir Aistmarių ploto išsiplėtimą į rytus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    333
-
-    ## Puslapis 344
-
-    *  *  *
-    III priedas
-    A p ie  d in g u s į
-    Vitiem dijos k ra štą
-    Ištrauka iš Foigto
-    (Gesch. Preuss. B. I. S. 677)
-    Tai,
-    kad
-    Aistmarės1
-    gerokai
-    išplėtė savo
-    plotą,
-    ypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies
-    ir Piliavos miesto viską dengia marių vandenys, anks­
-    tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
-    nėra naujas teiginys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-007
   santrauka: 'Pasak Narbuto, Johanas Foigtas manė, kad Salavija senais pagonių laikais buvo kitas Lietuvos kraštas, vadintas Pusne.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -313,14 +268,11 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    būti tariama Mergo; Henenbergerio Ronis yra Romais - visiš­
-    kai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­
-    tuvoje daugelyje vietovardžių - Balčiai (Bolcie), Baltininkai
-    (Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas
-    visiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,
-    Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
-    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
-    tuva kilties ir vienos genties broliai?
+    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
+    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
+    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
+    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
+    argumentų, vien kaip savo paties abejonę.
   citata_rodoma: "Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­\nda apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­\nnuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra\npaimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas\nargumentų, vien kaip savo paties abejonę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -358,15 +310,13 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Naujausias yra Reinchardo teigi­
+    Tačiau vokiečių senovės tyrinėtojai prira­
+    šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
+    visiškai nereikšmingi. Naujausias yra Reinchardo teigi­
     mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
     į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
     nes ten yra vietovardžių Stabinas, Staviškės. Tai bent
-    etimologinių išvadų pagrindas! Sztaba (liejinys), Staw
-    (tvenkinys) nors ir labai panašiai skamba, tačiau tai
-    lenkiški žodžiai, ir, jei gerbiamieji istorikai būtų tai su­
-    vokę, jiems, be abejo, nereikėtų vargti ieškant lietuviams
-    vietos svetimoje žemėje, kur jie niekados negyveno.
+    etimologinių išvadų pagrindas!
   citata_rodoma: "Tačiau vokiečių senovės tyrinėtojai prira­\nšė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti\nvisiškai nereikšmingi. Naujausias yra Reinchardo teigi­\nmas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi\nį pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,\nnes ten yra vietovardžių Stabinas, Staviškės. Tai bent\netimologinių išvadų pagrindas!"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -409,9 +359,13 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    * * *
+    333
+
+    ## Puslapis 344
+
+    *  *  *
     III priedas
-    A p ie d in g u s į
+    A p ie  d in g u s į
     Vitiem dijos k ra štą
     Ištrauka iš Foigto
     (Gesch. Preuss. B. I. S. 677)
@@ -424,8 +378,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     ypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies
     ir Piliavos miesto viską dengia marių vandenys, anks­
     tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
-    nėra naujas teiginys. Dar kronikininkas Lukas Davidas
-    (t. IT.
+    nėra naujas teiginys.
   citata_rodoma: "333\n\n## Puslapis 344\n\n*  *  *\nIII priedas\nA p ie  d in g u s į\nVitiem dijos k ra štą\nIštrauka iš Foigto\n(Gesch. Preuss. B. I. S. 677)\nTai,\nkad\nAistmarės1\ngerokai\nišplėtė savo\nplotą,\nypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies\nir Piliavos miesto viską dengia marių vandenys, anks­\ntesniais laikais buvo gyvenama sausuma, jokiais požiūriais\nnėra naujas teiginys."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -480,7 +433,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
     - t-013
 
 - id: c-179327
@@ -520,4 +472,5 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-008
     - t-012

@@ -51,14 +51,11 @@ Danielius čia formuluoja karo maksimos pavidalo pastabą apie krikščionio ir 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kitą rytą pastebėta, jog kai kurie priešų
-    vadai, nežinodami čionykščių vietų, pasiklydo. Tarp jų du
-    apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir
-    atvestas pas kunigaikštį Danielių. Kunigaikštis jam ištiesė
-    ranką ir pažadėjo dovanoti gyvybę, jeigu šis sutiks būti
-    vedliu. Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
-    kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
-    prūsai ir bartai.
+    Kai jie persikėlė per Othos upę, norėjo užimtose žemėse pasi-
+      skirstyti pareigomis, bet Danielius tarė: „Vyrai, riteriai!
+      Nejaugi nežinote, kad krikščionio jėga ■— atvirame lauke,
+      o pagonies — pasaloje; tai priklauso nuo būdo, kuriuo
+      kariaujama".
   citata_rodoma: "Kai jie persikėlė per Othos upę, norėjo užimtose žemėse pasi-\n  skirstyti pareigomis, bet Danielius tarė: „Vyrai, riteriai!\n  Nejaugi nežinote, kad krikščionio jėga ■— atvirame lauke,\n  o pagonies — pasaloje; tai priklauso nuo būdo, kuriuo\n  kariaujama\"."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

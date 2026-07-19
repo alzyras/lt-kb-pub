@@ -16,15 +16,15 @@ datos:
   - '2026 m.'
 date_start: '1044'
 date_end: '2026'
+amziai:
+  - 'XI'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XI'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,7 +69,7 @@ media_all_json: |-
 <a id="claim-t-119085"></a>
 - t-022
   teiginys: "Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Naugardukas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -405,7 +405,7 @@ media_all_json: |-
 <a id="claim-t-119110"></a>
 - t-026
   teiginys: "Naugarduke buvo pastatyta viena iš dviejų pranciškonų bažnyčių, kita stovėjo Vilniuje."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -441,7 +441,7 @@ media_all_json: |-
 <a id="claim-t-119112"></a>
 - t-018
   teiginys: "Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Naugardukas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -562,7 +562,7 @@ media_all_json: |-
 <a id="claim-t-187622"></a>
 - t-033
   teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -585,7 +585,7 @@ media_all_json: |-
 <a id="claim-t-187623"></a>
 - t-005
   teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -719,23 +719,6 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178868
-
-<a id="claim-t-199657"></a>
-- t-008
-  teiginys: "Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis."
-  atnaujinta: "2026-07-12 23:03"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis teiginys buvo fragmentas, bet citata pagrindžia glaustą faktą apie Naugarduką."
-  ryšio_patikimumas: "pastate -> Naugardukas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Gedimino pastatytą pranciškonų bažnyčią Naugarduke."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-182456
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
 - susijęs iš Z. Zinkevičius, Lietuvių kalbos kilmė: Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.
@@ -906,6 +889,52 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184876|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
+## Reikšmingi paminėjimai
+- c-021
+  santrauka: 'Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai vyskupas užbaigė šią kalbą, karalių
+    staiga ištiko
+    paralyžius, o
+    K a ra lių se n a te ištin -
+    šitai visiems įvarė baimės ir
+    k a p a ra ly žiu s
+    siaubo. Gal priepuolį sukėlė
+    per didelis pyktis, išsiliejus
+    tulžiai, bet žmonės jį išsiaiškino kaip blogą ženklą,
+    kaip dievo kerštą. Dėl karaliaus ligos seimas buvo pa­
+    leistas, kadangi vargu ar ką galima buvo benuveikti.
+    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
+    metas, valdovo valia turėjęs būti Trakuose vaišingai
+    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-072
+
+- c-024
+  santrauka: 'Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O
+    kunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas
+    Foma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir
+    po puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi-
+    loslavičius, ten susirgo ir, parvykęs į Kijevą, septintą
+    dieną mirė ,8. Šventikai su žvakėmis, giedodami laido­
+    tuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo
+    miesto į šventąjį dievo motinos katakombų vienuolyną,
+    ir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­
+    lia šventojo Pečeros Teodozijaus19 grabo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-32272
@@ -1430,20 +1459,14 @@ media_all_json: |-
   puslapiai: "PDF 582"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
   citata_originali: |
-    Kai vyskupas užbaigė šią kalbą, karalių
-    staiga ištiko
-    paralyžius, o
-    K a ra lių se n a te ištin -
-    šitai visiems įvarė baimės ir
-    k a p a ra ly žiu s
-    siaubo. Gal priepuolį sukėlė
-    per didelis pyktis, išsiliejus
-    tulžiai, bet žmonės jį išsiaiškino kaip blogą ženklą,
-    kaip dievo kerštą. Dėl karaliaus ligos seimas buvo pa­
-    leistas, kadangi vargu ar ką galima buvo benuveikti.
-    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
-    metas, valdovo valia turėjęs būti Trakuose vaišingai
-    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+    Tuo metu ten
+    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
+    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
+    kėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­
+    jami Naugarduko vaivados Alberto Goštauto, subruz­
+    do ginti pilies, o kiti pasitraukė už Nemuno. Priešas,
+    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
+    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
   citata_rodoma: "Tuo metu ten\nsusirinkę didikai tarėsi, kaip susigerinti su karaliumi,\nkaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio\nkėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­\njami Naugarduko vaivados Alberto Goštauto, subruz­\ndo ginti pilies, o kiti pasitraukė už Nemuno. Priešas,\nįžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­\nteliams vytis bėgančiuosius, o su kitais apgulė pilį."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -1501,16 +1524,18 @@ media_all_json: |-
   puslapiai: "PDF 95"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 95."
   citata_originali: |
-    O
-    kunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas
-    Foma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir
-    po puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi-
-    loslavičius, ten susirgo ir, parvykęs į Kijevą, septintą
-    dieną mirė ,8. Šventikai su žvakėmis, giedodami laido­
-    tuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo
-    miesto į šventąjį dievo motinos katakombų vienuolyną,
-    ir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­
-    lia šventojo Pečeros Teodozijaus19 grabo.
+    Suėjo kariuomenės Dokudo-
+    vo 1  vietovėje, ir Vytauto kariuomenė sumušė Karibu-
+    98
+
+    ## Puslapis 94
+
+    to kariuomenę3 . O pats kunigaikštis Kaributas su ku­
+    nigaikštiene ir su vaikais pabėgo į Naugarduką3 . Di­
+    dysis kunigaikštis Vytautas, sutelkęs savo kariuomenę,
+    pats nužygiavo į Naugarduką ir, užėmęs miestą, kuni­
+    gaikštį Kaributą, ir jo kunigaikštienę, ir jo vaikus pa­
+    ėmė nelaisvėn 4 .
   citata_rodoma: "Suėjo kariuomenės Dokudo- \nvo 1  vietovėje, ir Vytauto kariuomenė sumušė Karibu-\n98\n\n## Puslapis 94\n\nto kariuomenę3 . O pats kunigaikštis Kaributas su ku­\nnigaikštiene ir su vaikais pabėgo į Naugarduką3 . Di­\ndysis kunigaikštis Vytautas, sutelkęs savo kariuomenę, \npats nužygiavo į Naugarduką ir, užėmęs miestą, kuni­\ngaikštį Kaributą, ir jo kunigaikštienę, ir jo vaikus pa­\nėmė nelaisvėn 4 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -1696,16 +1721,18 @@ media_all_json: |-
   puslapiai: "PDF 95"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 95."
   citata_originali: |
-    O
-    kunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas
-    Foma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir
-    po puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi-
-    loslavičius, ten susirgo ir, parvykęs į Kijevą, septintą
-    dieną mirė ,8. Šventikai su žvakėmis, giedodami laido­
-    tuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo
-    miesto į šventąjį dievo motinos katakombų vienuolyną,
-    ir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­
-    lia šventojo Pečeros Teodozijaus19 grabo.
+    Suėjo kariuomenės Dokudo-
+    vo 1  vietovėje, ir Vytauto kariuomenė sumušė Karibu-
+    98
+
+    ## Puslapis 94
+
+    to kariuomenę3 . O pats kunigaikštis Kaributas su ku­
+    nigaikštiene ir su vaikais pabėgo į Naugarduką3 . Di­
+    dysis kunigaikštis Vytautas, sutelkęs savo kariuomenę,
+    pats nužygiavo į Naugarduką ir, užėmęs miestą, kuni­
+    gaikštį Kaributą, ir jo kunigaikštienę, ir jo vaikus pa­
+    ėmė nelaisvėn 4 .
   citata_rodoma: "Suėjo kariuomenės Dokudo- \nvo 1  vietovėje, ir Vytauto kariuomenė sumušė Karibu-\n98\n\n## Puslapis 94\n\nto kariuomenę3 . O pats kunigaikštis Kaributas su ku­\nnigaikštiene ir su vaikais pabėgo į Naugarduką3 . Di­\ndysis kunigaikštis Vytautas, sutelkęs savo kariuomenę, \npats nužygiavo į Naugarduką ir, užėmęs miestą, kuni­\ngaikštį Kaributą, ir jo kunigaikštienę, ir jo vaikus pa­\nėmė nelaisvėn 4 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -2223,12 +2250,10 @@ media_all_json: |-
   citata_rodoma: "Bet ir tuo jis nepasiten­\nkino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
-
 - id: c-182457
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

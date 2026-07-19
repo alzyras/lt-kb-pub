@@ -63,11 +63,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   puslapiai: "p. 9 (PDF 8)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“, p. 9 (PDF 8)."
   citata_originali: |
-    Paminėtame „Toukomies“ laikraštyje daug įdėta velionies raštų
-    ir apie Lietuvą ir ypač apie Vilniaus klausimą. Ir ne vien tame laikraš­
-    tyje. „Uusi Suomi“ (Naujoji Suomija) vienas didžiausių ir įtakingiau­
-    sių suomių dienraščių mielai dėdavo prof. Niemio raštus; ten taip pat
-    yra raštų apie Vilnių.
+    Ir ne vien tame laikraštyje. „Uusi Suomi“ (Naujoji Suomija) vienas didžiausių ir įtakingiausių suomių dienraščių mielai dėdavo prof. Niemio raštus; ten taip pat yra raštų apie Vilnių.
   citata_rodoma: "Ir ne vien tame laikraštyje. „Uusi Suomi“ (Naujoji Suomija) vienas didžiausių ir įtakingiausių suomių dienraščių mielai dėdavo prof. Niemio raštus; ten taip pat yra raštų apie Vilnių."
   statusas: verified
   atnaujinta: "2026-07-12 11:56"

@@ -129,36 +129,30 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     - c-173368
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašo, kad Stenderis latvių Dyžą arba Dyszą laikė deive, savo ypatybėmis atitikusia Pergrubę.'
+- c-005
+  santrauka: 'Narbutas Vaidilutes apibūdino kaip žynes, davusias amžinos skaistybės įžadus ir už jų sulaužymą baustas žiauriausia mirtimi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
-    gėlių ir vaismedžių sodas.
-    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
-    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
-    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Narbutas cituoja Stenderio prisiminimą, kad jaunystėje dėl „tokio bergždžio būrimo“ nekaltai nubaustas vienas žmogus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Buvo buriama
-    stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.
-    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
-    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
-    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
-    mo nekaltai nubaudė vieną žmogų“42.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+    Antikos laikais panašiai būdavo
+    apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram
+    laikui pasiversdavę vilkais.
+    Vaidilutės (Wejdalotki)
+    Tai buvo žynės, duodančios amžinos skaistybės -  tikra šio
+    žodžio prasme -  įžadus; sulaužiusias tą priesaiką bausdavo
+    32 Lettische Grammatik.
+    300
 
+    ## Puslapis 300
+
+    žiauriausia mirtimi: sudegindavo gyvas, išrengtas, pakabintas
+    ant aukšto medžio, užkasdavo gyvas arba nuskandindavo Ne­
+    mune, įkišę į odinį, akmenų prikimštą maišą ir užsiuvę kartu
+    su katinu, šunimi bei nuodinga gyvate.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-173363
@@ -187,16 +181,11 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Švento Jono, Kalėdų, Švenčiau­
-    siosios mergelės į dangų ėmimo šventės, vadinamos Žolinės
-    atlaidais, proga neša pašventinti žoles, daržoves, vaisius ir juos
-    laiko, kad saugotų namus nuo piktų dvasių; jų dūmais nuveja­
-    mos šalin kai kurios ligos, atnešamos blogų vėjų, krušos ir žai­
-    bų debesys, tokių žolių ryšelis įnirusiems įdedamas į pagalvę
-    ir atliekami įvairūs kerėjimai, kurie yra senųjų Pergrubės gar­
-    binimo apeigų liekanos.
-    Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
-    pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
   citata_rodoma: "Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -249,13 +238,12 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    - 134*.
-    3 Kai kurios mūsų šeimininkės dar iki šiol moka virti tą gėrimą
-    virtuvėje puoduose arba nedideliuose katiluose. Jis labai panašus į
-    anglišką alų.
-    i Alų, kuris buvo skirtas atnašavimui, pirkdavo už pinigus, kuriuos
-    gaudavo už javus, tikriausiai bendrai viso kaimo pasėtus atskiroje dir­
-    voje, tai yra šventame lauke (Luc.
+    Buvo buriama
+    stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.
+    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
+    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
+    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
+    mo nekaltai nubaudė vieną žmogų“42.
   citata_rodoma: "Buvo buriama\nstebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.\nBuvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.\nStenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­\nsimenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­\nmo nekaltai nubaudė vieną žmogų“42."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

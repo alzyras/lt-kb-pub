@@ -49,10 +49,12 @@ media_all_json: |-
   pagrindžia:
     - c-169490
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Žiemą, užšalus Nemunui, magistro Konrado fon Tirbergo vedami kryžiuočiai įsiveržė į Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169490
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Taigi kai lietuviai įrudenėjus buvo užsi­
     ėmę žygiu į Sandomirą, kryžiuočiai, stojus žiemai, kai
@@ -76,33 +78,6 @@ media_all_json: |-
     į Lietuvą vedami magistro
     Konrado fon Tirbergo. Ka­
     riuomenė žygiavo dviem voromis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169490
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    L ie tu v a
-    n io k o ja m a
-    k ry žiu o č ių
-    užšalęs Nemunas leido- leng­
-    vai persikelti ledu, įsiveržė
-    į Lietuvą vedami magistro
-    Konrado fon Tirbergo. Ka­
-    riuomenė žygiavo dviem voromis. Pirmoji apsupo Bi-
-    senės pilį ir po kovos, trukusios nuo Aušros ligi vi­
-    durdienio, užėmė ją bei sudegino; kita vora nuniokojo
-    aplinkines žemes, tačiau, traukdami atgal, patyrė di­
-    delių nuostolių, nes Nemuno ledas, nepakankamai tuo
-    metu tvirtas, neatlaikė jų svorio ir nemaža dalis ka­
-    riuomenės bei grobio paskendo verpetuose.
   citata_rodoma: "Taigi kai lietuviai įrudenėjus buvo užsi­\nėmę žygiu į Sandomirą, kryžiuočiai, stojus žiemai, kai\nv q\nL ietu vis P elužis k u rs­\nto p rū su s p rieš Lietu-\nneapsirinku spėliodamas, su­\nkurstyti Pelužio. Mat šis, ki­\nlęs iš Lietuvos didžiųjų ku­\nnigaikščių, Treniotos ar Dau­\nmanto sūnus, persekiojamas\n157\n\n## Puslapis 156\n\nL ie tu v a\nn io k o ja m a\nk ry žiu o č ių\nužšalęs Nemunas leido- leng­\nvai persikelti ledu, įsiveržė\nį Lietuvą vedami magistro\nKonrado fon Tirbergo. Ka­\nriuomenė žygiavo dviem voromis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

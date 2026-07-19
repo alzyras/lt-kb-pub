@@ -126,6 +126,23 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   pagrindžia:
     - c-183828
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Vieno Lietuvos bajoro duktė ypač garsėjo prisirišimu prie trijų
+    savo brolių. Labiausiai jai patikdavę, kai galėdavo jiems pasimei­
+    linti: siuvinėti gūnias, austi juostas. Kartą atsitiko taip, kad jie
+    išėjo į karą ir visi trys žuvo; pavasarį į namus sugrįžo tik jų žir­
+    gai. Sesuo, gailesčio pagauta, metė tėvų namus ir, netekusi proto,
+    graudžiai vaitojo klajodama po įvairias vietas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-170947
@@ -168,12 +185,10 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   puslapiai: "PDF 480"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
   citata_originali: |
-    Vieno Lietuvos bajoro duktė ypač garsėjo prisirišimu prie trijų
-    savo brolių. Labiausiai jai patikdavę, kai galėdavo jiems pasimei­
-    linti: siuvinėti gūnias, austi juostas. Kartą atsitiko taip, kad jie
-    išėjo į karą ir visi trys žuvo; pavasarį į namus sugrįžo tik jų žir­
-    gai. Sesuo, gailesčio pagauta, metė tėvų namus ir, netekusi proto,
-    graudžiai vaitojo klajodama po įvairias vietas.
+    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį
+    LTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­
+    imta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“
+    dalies, pavadintos „Metamorfozės lietuvių mitologijoje“.
   citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį\nLTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­\nimta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“\ndalies, pavadintos „Metamorfozės lietuvių mitologijoje“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -15,15 +15,15 @@ datos:
   - '2026 m.'
 date_start: '1348'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
   - valstybė
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -1717,6 +1717,39 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 - susijęs iš [[objektai/asmenys/Motiejus Pretorijus.md#claim-t-191216|Motiejus Pretorijus]]: Narbutas rašo, kad Pretorijus prūsus ir rusus laikė viena pradine gentimi, o variagų vardą kildino iš prūsiško žodžio „Warejs“.
 ## Reikšmingi paminėjimai
+- c-008
+  santrauka: 'Polocko rusai valdžią valstybėje perdavė trisdešimčiai senelių, o svarbiausius reikalus svarstė aikštės sueigose.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Taigi verčiau sekite savo mokytojais graikais — ir jų
+    čių, kurie teistų kitus". Tad trisdešimčiai senelių liau­
+    dis ir atidavė valdžią valstybėje; žmonės buvo kvie­
+    čiami varinio varpo dūžiais j sueigas aikštėje, kur vie­
+    šai svarstė bendrame pasitarime svarbiausius reikalus.
+    Savo valdžią jie jau buvo primetę trisdešimčiai tūks­
+    tančių paprastų piliečių ir (žinia, žmogui niekada nėra
+    gana) net kaimynams mėgino kalaviju primesti savo
+    1219 m e ta i
+    M in gaila, N a u g a rd u ­
+    ko k u n ig a ik štis
+    gavo Michailas, arba Min­
+    gaila; jis, paskatintas pirm­
+    taką lydėjusios sėkmės, ge­
+    rokai išplėtė
+    lietuvių val­
+    das,
+    prijungdamas nemaža
+    P o lo ck o v a ls ty b ė s
+    sa n tv a rk a
+    tikybinėmis
+    apeigomis,
+    ir
+    valstybine santvarka.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-009
   santrauka: 'Pasak Karamzino ir kitų istorikų, Rusia vadintas kraštas egzistavo dar prieš epochą, kai slavai pradėjo vadintis rusais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1738,6 +1771,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 ## Citatos
 
 - id: c-31253
@@ -1917,30 +1951,14 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Taigi verčiau sekite savo mokytojais graikais — ir jų
-    čių, kurie teistų kitus". Tad trisdešimčiai senelių liau­
-    dis ir atidavė valdžią valstybėje; žmonės buvo kvie­
-    čiami varinio varpo dūžiais j sueigas aikštėje, kur vie­
-    šai svarstė bendrame pasitarime svarbiausius reikalus.
-    Savo valdžią jie jau buvo primetę trisdešimčiai tūks­
-    tančių paprastų piliečių ir (žinia, žmogui niekada nėra
-    gana) net kaimynams mėgino kalaviju primesti savo
-    1219 m e ta i
-    M in gaila, N a u g a rd u ­
-    ko k u n ig a ik štis
-    gavo Michailas, arba Min­
-    gaila; jis, paskatintas pirm­
-    taką lydėjusios sėkmės, ge­
-    rokai išplėtė
-    lietuvių val­
-    das,
-    prijungdamas nemaža
-    P o lo ck o v a ls ty b ė s
-    sa n tv a rk a
-    tikybinėmis
-    apeigomis,
-    ir
-    valstybine santvarka.
+    Erdvilui mirus, Naugarduko kunigaikštystę valdyti
+    žemių. Polocko rusai savo valstybės valdymą buvo
+    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
+    permainų priežastis buvo ta, kad per skitų karą buvo
+    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
+    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
+    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
+    savo ištižimą laisvės, kurią iš priešų malonės gavote.
   citata_rodoma: "Erdvilui mirus, Naugarduko kunigaikštystę valdyti\nžemių. Polocko rusai savo valstybės valdymą buvo\nperdavę ne vienam kunigaikščiui, bet tautai5; šitokių\npermainų priežastis buvo ta, kad per skitų karą buvo\nnetekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,\ntvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­\nrėkite, kad, susiradę kokį valdovą, neprarastumėte per\nsavo ištižimą laisvės, kurią iš priešų malonės gavote."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"

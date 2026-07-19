@@ -100,24 +100,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - susijęs iš [[objektai/asmenys/Meletijus ir Vaiselijus.md#claim-t-190184|Meletijus ir Vaiselijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros.
 - susijęs iš [[objektai/autoriai/Meletijus.md#claim-t-190338|Meletijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip Antimp, o Lasickis - kaip Audros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    -  Frankfurt und Leip­
-    zig, 1684*.
-    103
-
-    ## Puslapis 103
-
-    liones, nepažindami krašto realijų, todėl to dievo vardas buvo
-    rašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-
-    sickis -Audros.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Teodoro Narbuto pasakojime Vaiselijumi remiamasi Hoggerland pavadinimą siejant su mitinio kunigaikščio Hogo vardu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -142,14 +124,15 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šitoks lietuvių supratimas galėjo apdovanoti
-    amžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­
-    nųjį ir pirmykštį pradą, kad parodytų nepaliaujamą gyvųjų bū­
-    tybių ir augalų atsinaujinimą.
-    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
-    na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
-    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
-    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“.
+    -  Frankfurt und Leip­
+    zig, 1684*.
+    103
+
+    ## Puslapis 103
+
+    liones, nepažindami krašto realijų, todėl to dievo vardas buvo
+    rašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-
+    sickis -Audros.
   citata_rodoma: "-  Frankfurt und Leip­\nzig, 1684*.\n103\n\n## Puslapis 103\n\nliones, nepažindami krašto realijų, todėl to dievo vardas buvo\nrašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-\nsickis -Audros."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

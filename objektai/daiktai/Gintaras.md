@@ -49,16 +49,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-08290"></a>
-- t-001
-  teiginys: "Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis."
-  atnaujinta: "2026-05-30 12:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10247
-
 <a id="claim-t-192494"></a>
 - t-002
   teiginys: "Narbutas pritaria Kocebui, kuris gintarą vadino saulės akmeniu ir sunkiai atskleidžiama gamtos mįsle."
@@ -164,12 +154,10 @@ Nenurodyta
   citata_rodoma: "Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,\narba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos\nvaišino, kaip šiandien iš gudiškumo yra sakoma, apieras jiems darė, degindami gyvulius, vašką,\ngintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,\nkasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-175284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

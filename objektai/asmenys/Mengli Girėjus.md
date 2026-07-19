@@ -113,6 +113,30 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
 - susijęs iš Trakai: Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.
 - susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195007|Šich Achmetas]]: Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
+## Reikšmingi paminėjimai
+- c-002
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Išgirdę šią vado kalbą, kariai nelyginant įgiję naujų
+    jėgų trečią kartą taip veržliai užpuolė priešą, kad da­
+    lis skitų krito kovos lauke, o kiti leidosi bėgti. Paste­
+    bėjęs, kokiame pavojuje atsidūrė jo kariai, Mengli Gi-
+    rėjus, palikęs nedidelius būrius belaisviams saugoti,
+    patraukė į kovą su pagrindinėmis jėgomis ir, apėjęs
+    lenkus, smarkiai užgriuvo dešinįjį Konstantino sparną.
+    Jis vylėsi, jog šis antpuolis padėsiąs jam laimėti mūšį,
+    jog Lietuvos bei Volynės raiteliai, ilgos kovos išvar­
+    ginti, nieku būdu neatsilaikysią prieš pailsėjusius jo
+    karius, o bėgdami ir kitus paskatinsią sprukti kur kojos
+    neša.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-006
+    - t-010
+
 ## Citatos
 
 - id: c-177385
@@ -140,18 +164,15 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Išgirdę šią vado kalbą, kariai nelyginant įgiję naujų
-    jėgų trečią kartą taip veržliai užpuolė priešą, kad da­
-    lis skitų krito kovos lauke, o kiti leidosi bėgti. Paste­
-    bėjęs, kokiame pavojuje atsidūrė jo kariai, Mengli Gi-
-    rėjus, palikęs nedidelius būrius belaisviams saugoti,
-    patraukė į kovą su pagrindinėmis jėgomis ir, apėjęs
-    lenkus, smarkiai užgriuvo dešinįjį Konstantino sparną.
-    Jis vylėsi, jog šis antpuolis padėsiąs jam laimėti mūšį,
-    jog Lietuvos bei Volynės raiteliai, ilgos kovos išvar­
-    ginti, nieku būdu neatsilaikysią prieš pailsėjusius jo
-    karius, o bėgdami ir kitus paskatinsią sprukti kur kojos
-    neša.
+    Lie­
+    tuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,
+    jiems atiteko dešimt tūkstančių arklių bei didžiulis ir
+    įvairus grobis. Garsas apie šią pergalę plačiai paskli­
+    do, be kita ko, ir dėl to, kad mūšio lauke krito trys
+    Mengli Girėjaus sūnūs bei žentas. Kovoje nedalyvavu­
+    sius skitus, kurie ilgai klaidžiojo po visokius pašalius
+    beplėšikaudami, ilgainiui įvairiose vietose išgaudė ir
+    išžudė lenkų kariai.
   citata_rodoma: "Lie­\ntuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,\njiems atiteko dešimt tūkstančių arklių bei didžiulis ir\nįvairus grobis. Garsas apie šią pergalę plačiai paskli­\ndo, be kita ko, ir dėl to, kad mūšio lauke krito trys\nMengli Girėjaus sūnūs bei žentas. Kovoje nedalyvavu­\nsius skitus, kurie ilgai klaidžiojo po visokius pašalius\nbeplėšikaudami, ilgainiui įvairiose vietose išgaudė ir\nišžudė lenkų kariai."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"

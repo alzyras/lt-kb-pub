@@ -8,6 +8,8 @@ datos:
   - '1420 m.'
 date_start: '1419'
 date_end: '1420'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,8 +17,6 @@ tags:
   - diplomatinis-įvykis
   - ivykis
   - politinis-sprendimas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -104,6 +104,31 @@ Nenurodyta
   pagrindžia:
     - c-169036
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Vytautas ilgai dvejojo dėl čekų pasiūlymo priimti karaliaus vainiką, bet nuodugniau apsvarstęs padėtį jį atmetė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Prisi­
+    jungus šioms tautoms, taip išaugsiančios valstybės
+    jėgos, jog jų visiškai pakaksią sutramdyti ir imperato­
+    riui Zigmantui, už kurį vargu ar kas esąs priešiškesnis
+    lenkų tautai, ir kryžiuočiams. Rodėsi, jog jie kalba tei­
+    singai, jog tai, ką jie siūlo, tikrai naudinga, tačiau ka­
+    ralius po senovei atsikalbinėjo; Vytautas, kur kas la­
+    biau už jį trokšdamas šlovės ir karaliaus vainiko, ilgą
+    laiką dvejojo, nežinodamas, ar priimti, ar atmesti jų
+    pasiūlymus, ir dėl to vengė aiškiai pasiuntiniams
+    m
+
+    atsakyti. Nuodugniau apsvarstęs padėtį, jis vis dėlto
+    taip pat atmetė čekų siūlymus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169036
@@ -170,6 +195,8 @@ Nenurodyta
     laiką dvejojo, nežinodamas, ar priimti, ar atmesti jų
     pasiūlymus, ir dėl to vengė aiškiai pasiuntiniams
     m
+
+    ## Puslapis 400
 
     atsakyti. Nuodugniau apsvarstęs padėtį, jis vis dėlto
     taip pat atmetė čekų siūlymus.

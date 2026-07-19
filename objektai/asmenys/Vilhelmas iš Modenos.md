@@ -8,11 +8,6 @@ datos:
   - '1330 m.'
 date_start: '1222'
 date_end: '1330'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +15,11 @@ tags:
   - kunigaikštis
   - ordinas
   - popiežius
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -104,19 +104,6 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   pagrindžia:
     - c-60708
 - susijęs iš [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.).md#claim-t-66951|Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]: Vilhelmas iš Modenos apaštališkojo sosto vardu įsakė skelbti kryžiaus karą prieš Sventopelko persekiojimą Prūsijos žemėse.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: '1243 m. liepos mėn. Vilhelmas iš Modenos padalijo Prūsiją į Kulmo, Pamedės, Varmės ir Sembos vyskupystes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    269 1243 m. liepos mėn. Vilhelmas (nuo 1222 m. Modenos vyskupas) padalijo Prūsiją
-    į Kulmo, Pamedės, Varmės ir Sembos vyskupystes (PUB, 1, 1, Nr. 143).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-60708
@@ -174,13 +161,8 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Neilgai trukus tas pats Sventopelkas, velnio išpera, iš naujo sutelkė nuo tikėjimo
-    atsimetusius naujakrikščius ir, su ginklu rankose įsibrovęs į aukštutines žemes, būtent:
-    į Pamedės ir Kulmo žemes, viską siaubė, plėšdamas ir degindamas; jis užkariavo ir iki
-    pamatų sugriovė visas pilis bei įtvirtinimus, išskyrus tris, būtent: Torunės, Kulmo ir
-    Rudino. Jis išžudė 4 tūkstančius dievo žmonių, kurie jo garbei bei šlovei ten gyveno, ir
-    rodėsi, jog visa Prūsijos žemė paraudusi nuo krikščionių kraujo.
-    36.
+    269 1243 m. liepos mėn. Vilhelmas (nuo 1222 m. Modenos vyskupas) padalijo Prūsiją
+    į Kulmo, Pamedės, Varmės ir Sembos vyskupystes (PUB, 1, 1, Nr. 143).
   citata_rodoma: "269 1243 m. liepos mėn. Vilhelmas (nuo 1222 m. Modenos vyskupas) padalijo Prūsiją\nį Kulmo, Pamedės, Varmės ir Sembos vyskupystes (PUB, 1, 1, Nr. 143)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

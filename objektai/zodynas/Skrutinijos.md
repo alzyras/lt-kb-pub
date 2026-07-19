@@ -7,13 +7,13 @@ datos:
   - '1757 m.'
 date_start: '1757'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - teisinis-terminas
   - sąvoka
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,10 +55,12 @@ Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių me
   pagrindžia:
     - c-172219
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių metu liudytojai prisiekdavo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172219
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Arntas (Arndt) 17 pa-
     teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
@@ -69,30 +71,6 @@ Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių me
     tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
     kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
     17 Lieflandische Geschichte (1757 metų leidimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172219
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Tą pastebėjęs
-    Neliubavičius (Nielubowicz) vienoje senoje lietuviškoje dai­
-    noje. Hartknochas, mėgstantis viską pritempti prie germaniš­
-    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
-    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
-    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
-    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
-    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
-    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
-    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
-    vuose išlikę duomenys iš XIII amžiaus.
   citata_rodoma: "Arntas (Arndt) 17 pa-\nteilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­\nmiečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,\nsubyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

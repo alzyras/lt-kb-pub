@@ -49,10 +49,12 @@ Narbutas Krewe-Krewejto titulą lygino su persų vyriausiojo kunigo pavadinimais
   pagrindžia:
     - c-172201
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Krewe-Krewejto titulą lygino su persų vyriausiojo kunigo pavadinimais Mubad-Mubaden ir Destruri-Destur, reiškusiais žynių žynį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172201
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Taigi Vai­
     devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,
@@ -63,31 +65,6 @@ Narbutas Krewe-Krewejto titulą lygino su persų vyriausiojo kunigo pavadinimais
     bad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.
     Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
     jų visiškai negalima pripažinti teisingais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172201
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Sako,
-    kad kadaise jis gyvenęs ir Šventamiestyje, kitaip Šventajame
-    Karvelyje; tam tikrais kritiškais momentais, kai Didžiajai Ro-
-    rnovei kildavo grėsmė, kad gali būti priešo užimta, arba kai ji
-    būdavo naikinama, kaip per karus su lenkais, tuomet jis gy­
-    vendavo vietovėse, kurios turi panašius pavadinimus. Privati
-    jo buveinė vadinosi Rikajotu. Pavyzdingas vyriausiojo žynio
-    gyvenimas ir darbai darydavo jo asmenį šventą šiame ir būsi­
-    mame gyvenime. Sekdami pavyzdžiu senovės Indijos filosofų,
-    kurie savo valia paliepdavo juos sudeginti ant laužo, kai bus
-    sulaukę žilos senatvės, jie paprastai surengdavo liaudžiai tokį
-    pat reginį.
   citata_rodoma: "Taigi Vai­\ndevutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,\nbuvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­\ngaikščiai .\nTikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto,\npanašiai kaip senovės persų vyriausiasis kunigas vadinosi Mu-\nbad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.\nDėl krivio pavadinimo kilmės buvo daug spėliojimų, bet\njų visiškai negalima pripažinti teisingais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

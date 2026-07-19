@@ -171,17 +171,13 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Statinio viduje paprastai stovi maži mo­
-    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
-    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
-    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
-    žmonės priskiria kažkokią šventumo ypatybe5.
-    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
-    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
-    rius*.
-    4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
-    5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
-    rinkinyje, yra nemažai tokių akmenų.
+    Kad Pavyslio, Padneprio senieji gyventojai
+    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
+    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
+    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
+    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
+    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
+    jų, neužkąsdami jų žemėje, supildavo kalnelius.
   citata_rodoma: "Kad Pavyslio, Padneprio senieji gyventojai\nir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų\nvaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­\njo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­\njų, neužkąsdami jų žemėje, supildavo kalnelius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

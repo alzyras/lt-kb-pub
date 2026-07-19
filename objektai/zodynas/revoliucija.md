@@ -246,17 +246,10 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tebus ir čia leista at­
-    kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
-    dalelė Rus ir Ross — lietuviško šventos upės pavadini­
-    mo. O savo gyvenimą tolimame Septynių miestų krašte,
-    kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­
-    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­
+    O savo gyvenimą tolimame Septynių miestų krašte, kur jie buvo laiko audrų nublokšti, agatirai galėjo iš-
+    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau-
     jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
-    gyventi prie Marokos. Sis persikėlimas, o tai visiškai įti­
-    kėtina, įvyko gana anksti, nes IX amžiuje jau randame
-    klestintį miestą Vppeleela-, apie tai bus rašoma vėliau,
-    nagrinėjant atitinkamą epochą.
+    gyventi prie Marokos.
   citata_rodoma: "O savo gyvenimą tolimame Septynių miestų krašte, kur jie buvo laiko audrų nublokšti, agatirai galėjo iš-\nkeisti į gyvenvietes tarp giminingų kartų, kai nesiliau-\njančios sarmatų revoliucijos neleido jiems ilgiau ramiai\ngyventi prie Marokos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -273,20 +266,10 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Apie juos jis pateikia tokių iš senovės rašytojų su­
-    rinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais
-    kairiojoje Dnepro pakrantėje, gelonų ir budinu kaimynys­
-    tėje, vakaruose jie ribojosi su neurais arba ir su skitų-
-    gerų kraštu, taip pat netoli gyveno masagetai, melanchle-
-    nai ir antropofagai. Vėliau juos pavergė alanai išvien su
-    gelonais ir budinais. Laikui bėgant, kai pastarieji paju­
+    Vėliau juos pavergė alanai išvien su
+    gelonais ir budinais. Laikui bėgant, kai pastarieji paju-
     dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
-    tirus išsikelti iš Uždneprės. Taip pat yra senovės geogra­
-    fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
-    macija, jog agatirai, arba kitaip agazirai ar angershirai,
-    yra ta pati Amiano minima gentis, savaime suprantama,
-    gerokai prieš autoriaus amžių įsikūrusi krašte, per kurį
-    tekėjo dvi upės: Lela-Upe ir Anger-Upe.
+    tirus išsikelti iš Uždneprės.
   citata_rodoma: "Vėliau juos pavergė alanai išvien su\ngelonais ir budinais. Laikui bėgant, kai pastarieji paju-\ndėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-\ntirus išsikelti iš Uždneprės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -9,16 +9,16 @@ datos:
   - '1499 m.'
 date_start: '1499'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -106,6 +106,34 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 - susijęs iš Ivano Vasiljevičiaus laiškas Aleksandrui su titulu „visos Rusios caras“: Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
 - susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Numalšinęs Livoniją ir iš­
+    siuntęs į Maskvą Palenkės
+    vaivadą Vasilijų Tiškevičių,
+    maršalą Mykolą Pašušvinskį
+    bei Lietuvos raštininką Joną
+    Gaiką, turėjusius derėtis su
+    maskvėnais dėl taikos, kara­
+    lius iš stovyklos patraukė į
+    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
+    tas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­
+    veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
+    karui prieš skitus ir švedus, baimindamasis, matyt, kad
+    Augustas pirmas neužimtų šio krašto. Šiaip ar taip, jis
+    negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
+    tis su Livonijos magistru. Maskvėnai, į šį žygį patraukę
+    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
+    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-83499
@@ -195,23 +223,18 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Numalšinęs Livoniją ir iš­
-    siuntęs į Maskvą Palenkės
-    vaivadą Vasilijų Tiškevičių,
-    maršalą Mykolą Pašušvinskį
-    bei Lietuvos raštininką Joną
-    Gaiką, turėjusius derėtis su
-    maskvėnais dėl taikos, kara­
-    lius iš stovyklos patraukė į
-    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
-    tas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­
-    veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
-    karui prieš skitus ir švedus, baimindamasis, matyt, kad
-    Augustas pirmas neužimtų šio krašto. Šiaip ar taip, jis
-    negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
-    tis su Livonijos magistru. Maskvėnai, į šį žygį patraukę
-    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
-    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
+    Nieko nepešę, kara­
+    liaus legatai iškeliavo iš Maskvos, o netrukus pas ka­
+    ralių atvyko Ivano pasiuntinys, neturėjęs jokios rim­
+    tesnės užduoties, tik po senovei protestavęs dėl kaimy­
+    nų daromų skriaudų. Šiaip pasiuntinybė turėjo visai
+    kitą tikslą: įteikus karaliui laišką, kaip visuomet įžūlų
+    ir pasipūtėlišką, paaiškėjo, kad Ivanas prasimanė dar
+    vieną titulą, pasirašydamas Livonijos valdovu. Kara­
+    lius atmetė nepagrįstus skundus, savo ruožtu pareiškęs,
+    jog maskvėnai po senovei skriaudžia Lietuvą, o laiš­
+    kuose uždraudė minėti ir Maskvos caro, ir Livonijos
+    valdovo titulus.
   citata_rodoma: "Nieko nepešę, kara­\nliaus legatai iškeliavo iš Maskvos, o netrukus pas ka­\nralių atvyko Ivano pasiuntinys, neturėjęs jokios rim­\ntesnės užduoties, tik po senovei protestavęs dėl kaimy­\nnų daromų skriaudų. Šiaip pasiuntinybė turėjo visai\nkitą tikslą: įteikus karaliui laišką, kaip visuomet įžūlų\nir pasipūtėlišką, paaiškėjo, kad Ivanas prasimanė dar\nvieną titulą, pasirašydamas Livonijos valdovu. Kara­\nlius atmetė nepagrįstus skundus, savo ruožtu pareiškęs,\njog maskvėnai po senovei skriaudžia Lietuvą, o laiš­\nkuose uždraudė minėti ir Maskvos caro, ir Livonijos\nvaldovo titulus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

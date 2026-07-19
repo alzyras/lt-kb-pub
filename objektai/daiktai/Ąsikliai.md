@@ -56,12 +56,7 @@ Nenurodyta
   puslapiai: "p. 53 (PDF 51)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 53 (PDF 51)."
   citata_originali: |
-    Vyžai adyti dar buvo reikalingi ąsikliai. Tai buvo du šaka­
-    liukai iš abiejų pusių perkišti per vyžos ąsas,
-    kad ši neadant nesusi­
-    kraipytų.
-    Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas
-    karnomis.
+    Tai buvo du šakaliukai iš abiejų pusių perkišti per vyžos ąsas, kad ši neadant nesusikraipytų. Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis.
   citata_rodoma: "Tai buvo du šakaliukai iš abiejų pusių perkišti per vyžos ąsas, kad ši neadant nesusikraipytų. Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"

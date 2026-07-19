@@ -92,11 +92,7 @@ Duburys šiame šaltinyje yra upuokšnis.
   puslapiai: "p. 16 (PDF 14)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 16 (PDF 14)."
   citata_originali: |
-    Bet dabar
-    jos negana.
-    Duburys panoro gilesnės vagos.
-    Tas pats krioklys imasi ją gilinti vi­
-    sa tėkmė.
+    Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė.
   citata_rodoma: "Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"

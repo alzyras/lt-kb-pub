@@ -71,14 +71,14 @@ Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvyki
   puslapiai: "PDF 271"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 271."
   citata_originali: |
-    813 8851 Ir J. D'u-
+    D'u-
     gošo (IV. p. 511—5121 žinoma, kad 1434 m. rugplūčio pabaigoje
     vienas Livonijos kryžiuočių dalinys buvo įsibrovęs I Upytės pavie­
     tų. o kiti du — | Žemaitija; Iš pastarųjų vienas buvo sumuštas
-    Žemaičių seniūno vadovaujamų lietuvių. Apie Livonijos magistro
-    F. Kerskorfo vadovaujamų pajėgų susijungimų Brėslaujoje su Švit­
+    Žemaičių seniūno vadovaujam ų lietuvių. Apie Livonijos magistro
+    F. Kerskorfo vadovaujam ų pajėgų susijungimų Brėslaujoje su Švit­
     rigailos pajėgomis papildomų im lų nėra.
-    ” „O trečių vasarų" — kalbama apie 1435 m
+    ”  „O  trečių vasarų" — kalbama apie 1435 m
     w Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos.
   citata_rodoma: "D'u- \ngošo (IV. p. 511—5121 žinoma, kad 1434 m. rugplūčio pabaigoje \nvienas Livonijos kryžiuočių dalinys buvo įsibrovęs I Upytės pavie­\ntų. o kiti du — | Žemaitija; Iš pastarųjų vienas buvo sumuštas \nŽemaičių seniūno vadovaujam ų lietuvių. Apie Livonijos magistro \nF. Kerskorfo vadovaujam ų pajėgų susijungimų Brėslaujoje su Švit­\nrigailos pajėgomis papildomų im lų nėra.\n”  „O  trečių vasarų\" — kalbama apie 1435 m\nw Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos."
   statusas: verified

@@ -7,13 +7,13 @@ datos:
   - '1263 m.'
 date_start: '1263'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,25 +70,10 @@ Nenurodyta
   pagrindžia:
     - c-168973
 
-<a id="claim-t-196213"></a>
-- t-002
-  teiginys: "Kojelavičius Lietuvos žygių į Mazoviją kontekste vaizdavo lenkus ir mozūrus kaip dažnų lietuvių antpuolių varginamus krikščionis."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168973
-
-## Citatos
-
-- id: c-168973
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po teisybei, ne tik mozūrams, bet ir lenkams įky­
     rėjo šitiek daugel kartų užgriūnanti nelaimė. Lenkų
@@ -101,6 +86,33 @@ Nenurodyta
     nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
     mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
     čio, žmona, karalienės sesuo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-168973
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Ki­
+    tais metais Mindaugas žiemą nusiaubė Livoniją: vasa­
+    rio 2 dieną užėmė bei su-
+    1263 m e ta i
+    griovė Pernu, prie Daugav-
+    gryvos susikovė su priešu.
+    Po to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­
+    ją: kadangi čia negalėjo priešo įvilioti į mūšį, o po
+    ankstesnių nuniokojimų šalyje nebuvo nieko dora li­
+    kę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos
+    Lovičiaus apygardos, todėl iš ten buvo išgabentas di­
+    džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­
+    ju.
   citata_rodoma: "Ki­\ntais metais Mindaugas žiemą nusiaubė Livoniją: vasa­\nrio 2 dieną užėmė bei su-\n1263 m e ta i\ngriovė Pernu, prie Daugav-\ngryvos susikovė su priešu.\nPo to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­\nją: kadangi čia negalėjo priešo įvilioti į mūšį, o po\nankstesnių nuniokojimų šalyje nebuvo nieko dora li­\nkę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos\nLovičiaus apygardos, todėl iš ten buvo išgabentas di­\ndžiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­\nju."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -109,4 +121,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

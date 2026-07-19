@@ -84,13 +84,7 @@ Valančiaus, VAIKŲ KNYGELĖ.
   puslapiai: "p. 165 (PDF 163)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 165 (PDF 163)."
   citata_originali: |
-    Mat, pagiedojus atsiranda smuikorius. Gieda iš pra­
-    džios Kalėdų giesmes, ilgai pagiedoję, užbaigia karunka. Paskui šne­
-    kos, vietos naujienos, juokavimai,
-    neretai
-    skaitymai kalendoriaus
-    „Vilniaus Zavackio drukarnės“ (taip vadino kalendorių) arba skaity­
-    mas iš vyskupo Valančiaus knygelių.
+    skaitymas iš vyskupo Valančiaus knygelių
   citata_rodoma: "skaitymas iš vyskupo Valančiaus knygelių"
   statusas: verified
   atnaujinta: "2026-07-12 11:56"

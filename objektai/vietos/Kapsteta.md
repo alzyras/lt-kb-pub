@@ -62,18 +62,6 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kur buvo Kapstetos pilis, nėra aišku.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kur buvo Kapstetos  pilis, nėra aišku. Mūsų manymu, vertas dėmesio vietovardis
-    Kappershagen (Sch-K) deš. Alnos žemupio krante  į pietus nuo Vėluvos. Galbūt tai
-    suvokietinta Kapsteta (Capostete).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Sembų kariuomenė, vedama Tirsko, užkariavo Kapstetos pilį Vonsdorfo žemėje ir ją sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -97,13 +85,9 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    76 (75). Apie vienos Notangos dalies nuniokojimą
-    Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
-    kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium],
-    nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
-    ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
-    drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
-    moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
+    Kur buvo Kapstetos  pilis, nėra aišku. Mūsų manymu, vertas dėmesio vietovardis
+    Kappershagen (Sch-K) deš. Alnos žemupio krante  į pietus nuo Vėluvos. Galbūt tai
+    suvokietinta Kapsteta (Capostete).
   citata_rodoma: "Kur buvo Kapstetos  pilis, nėra aišku. Mūsų manymu, vertas dėmesio vietovardis\nKappershagen (Sch-K) deš. Alnos žemupio krante  į pietus nuo Vėluvos. Galbūt tai\nsuvokietinta Kapsteta (Capostete)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

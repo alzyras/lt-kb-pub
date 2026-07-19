@@ -58,15 +58,22 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 <a id="claim-t-188819"></a>
 - t-002
   teiginys: "Narbutas mitologinį pasakojimą apie deivę siejo su Raseinių apskrities Pašvenčio apylinkėse girdėta tradicija."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Raseiniai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Raseinių apskritis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Raseiniai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raseinių apskritis\" parinktas kaip owner_note_path. Targetas \"Raseiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171709
+    - c-171708
 
 <a id="claim-t-188820"></a>
 - t-003
@@ -114,22 +121,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
     - c-171709
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas mitologinį pasakojimą apie deivę siejo su Raseinių apskrities Pašvenčio apylinkėse girdėta tradicija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pats pavadinimas, iš­
-    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
-    kovskis, o deivei.
-    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
-    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
-    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
-    nepaprasto grožio vienatinę dukterį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-003
   santrauka: 'Narbutas rašė, kad Raseinių ir Upytės apskrityse rasti akmenys rodė ten vykusias ateivių iš Brandenburgo atneštas religines apeigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -140,26 +131,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
     ir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti
     religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
     juos dar teks pakalbėti).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Narbutas Pajūrio kaimo fetišą Dievaitį siejo su neapibrėžta vieta Raseinių apskrityje, tikriausiai prie Jūros upės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Rageziowan
-    Kęsgailų giminės fetišas.
-    Dievaitis (Dewojtis)
-    Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
-    seinių apskrityje, tikriausiai prie Jūros upės.
-    207
-
-    ## Puslapis 207
-
-    Vetustis (W etustis)
-    Rietavo miestelio fetišas, lietuviškai -  senovinis.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -191,21 +162,22 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Užtat išmoko dirbti žemę ir gauti naudos iš
-    pasėtų įvairių javų, kurių sėklų buvo atsivežusi. Nuo to ji ėmė
-    mokyti žemdirbystės meno vargšus žmones, kurie maitinosi
-    laukiniais gamtos vaisiais. Iškirtus lydymui vieną mišką, ka­
-    daise pilną drakonų siaubūnų (Siaubimas), jame buvo suras­
-    tas akmuo, ant kurio Lemtis savo pirštu buvo užrašiusi kara­
-    lienės Krūminės dukters likimą, kurį jai skyrė dievai prieš daug
-    daug amžių.
+    Pats pavadinimas, iš­
+    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
+    kovskis, o deivei.
+    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
+    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
+    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
+    nepaprasto grožio vienatinę dukterį.
   citata_rodoma: "Pats pavadinimas, iš­\nreikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­\nkovskis, o deivei.\nApie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­\nšvenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­\ndangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo\nnepaprasto grožio vienatinę dukterį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-171709
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -227,7 +199,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-005
 
 - id: c-171710
@@ -235,13 +206,17 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Reikėjo iškasti griovį slėnelyje prie gyvena­
-    mojo namo, ir kaip tik toje vietoje, kur buvo seno perkaso
-    pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė. Aš, pri­
-    žiūrėdamas jų darbą, pastebėjau tą akmenį. Jis iš karto nuste­
-    bino mane ypatinga savo išvaizda. Liepiau apvalyti nuo jo dum­
-    blą. Pasvarstęs, kad visame perkase nebuvo jokio akmens, su­
-    vokiau, kad jis ten buvo tyčia įmestas.
+    Rageziowan
+    Kęsgailų giminės fetišas.
+    Dievaitis (Dewojtis)
+    Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
+    seinių apskrityje, tikriausiai prie Jūros upės.
+    207
+
+    ## Puslapis 207
+
+    Vetustis (W etustis)
+    Rietavo miestelio fetišas, lietuviškai -  senovinis.
   citata_rodoma: "Rageziowan\nKęsgailų giminės fetišas.\nDievaitis (Dewojtis)\nPajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­\nseinių apskrityje, tikriausiai prie Jūros upės.\n207\n\n## Puslapis 207\n\nVetustis (W etustis)\nRietavo miestelio fetišas, lietuviškai -  senovinis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

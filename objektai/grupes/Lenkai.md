@@ -23,15 +23,15 @@ datos:
   - '1923 m.'
 date_start: '1200'
 date_end: '1923'
+amziai:
+  - 'XII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
   - kariuomenė
-amziai:
-  - 'XII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -3555,6 +3555,287 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - susijęs iš Podolė: Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją.
 - susijęs iš Stralsundas: Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.
 - susijęs iš Ukmergė: Lenkų kultūros organizacijos rėmė Lietuvos vyriausybės finansuojamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.
+## Reikšmingi paminėjimai
+- c-049
+  santrauka: 'Prūsų kariuomenė kelis kartus užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius, o moteris ir vaikus varė į nelaisvę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
+    netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,
+    Plocku vadinama163. Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,
+    neskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų
+    ir griežtos klauzūros moterų vienuolynų. Jie žudė kunigus bei kitus dvasininkus, ir
+    bažnytinius, ir pasaulietinius, vienus — už bažnyčios sienų, kitus — pačioje bažnyčioje,
+    daugelį — prie altoriaus, netgi tuo metu, kai šie teikė švenčiausiojo Jėzaus Kristaus kūną
+    bei kraują, o pačius sakramentus, niekindami dievą, nepagarbiai mėtė žemėn ir trypė
+    kojomis. Jie grobstė liturgines taures, ampules bei kitus bažnytinius indus, korporalus ir
+    kitus dievo garbinimui skirtus rūbus, juos pavartodami neleistiniems tikslams, o dievui
+    pasišventusias mergeles jėga vilko iš klauzūrų ir begėdiškai niekino. Trumpai kalbant,
+    niekas nestengtų surašyti, kokių baisių piktadarybių ir siaubingų skriaudų jie padarė
+    tikėjimui bei tikintiesiems.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-074
+  santrauka: 'Kai kurių asmenų maištingi sumanymai išardė sutartimi sutvirtintą lietuvių draugystę su lenkais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Povilas, Krokuvos ganytojas, no­
+    rėdamas atkeršyti Boleslovui Droviajam už asmeniškas
+    skriaudas, protarpiais slapta kviesdavosi į lenkų kraštą
+    lietuvių kariaunas. Kilus nesutarimams tarp Boleslovo
+    ir riterių ordino, jų keliai išsiskyrė, prasidėjo ginkluo­
+    tos kovos, maištui vadovauti už akių buvo išrinktas
+    Vladislovas, Opolės kunigaikštis; vėliau, išvaikius ir
+    sumušus maištingą bajoriją, Boleslovo reikalai smarkiai
+    pagerėjo. Tada Povilas, anksčiau niršęs ant valdovo,
+    jau nebegalėjo daugiau pakęsti jo sėkmės; bijodamas
+    ir nekęsdamas, be to, stokodamas jėgų ir negalėdamas
+    patenkinti savo neapykantos ir griebtis smurto, jis pra­
+    dėjo siausti, remdamasis svetimais ginklais ir savo klas­
+    ta.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-075
+  santrauka: 'Giliginui valdant lietuvių kariaunos nusiaubė Mazoviją, Kulmo kraštą ir Kujaviją, o lenkai buvo smarkiai sumušti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kujaviją, be to, antrą kartą
+    1277 m e ta i
+    įsibrovusios į Lenčicos že­
+    mes, išsivarė, kaip sako, apie
+    keturiasdešimt tūkstančių belaisvių. Vargu ar tuo skai­
+    čiumi galima patikėti, vis dėlto jis svariai įrodo, jog
+    lenkai buvo smarkiai sumušti.
+    Kiti metai Giliginui tapo
+    lemtingi: mirė sosto įpėdinis
+    jo sūnus Romuntas. Kaip tei­
+    giama įvairių rašytojų, Ro­
+    muntas paliko penketą sūnų,
+    tačiau artesnis tiesai vos ke­
+    lių šaltinių minimas pasakojimas, jog jis mirė bevai­
+    kis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­
+    kio amžiaus, kad jauniausias iš jų, Traidenis, Romun-
+    tui dar gyvam esant, vadovavo kariuomenei kaip
+    vyriausiasis vadas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-079
+  santrauka: 'Lietuvos didikų ginče nugalėjo ryšių su Jogailos gimine ir sąjungos su lenkais šalininkai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sąmokslininkai, tikėdamiesi atlyginimo iš Žygimanto
+    varžovo, be to, bijodami galimo tardymo ir teismo,
+    rėmė tremtyje gyvenantį Bo-
+    L ietu vo s d id ik ų pažiū-
+    leslovą. Ir vieni, ir kiti nepai­
+    ros į n a u ją jį v a ld o v ą
+    sė valstybės reikalų, o žiūrėjo
+    tik savo asmeninės naudos.
+    Tie, kurie, nepriklausydami nei vienai, nei kitai grupuo­
+    tei, galvojo apie krašto ateitį, stengėsi suvokti, kaip po
+    dabartinių negandų toliau klostysis įvykiai, ir svarstė,
+    kokios žalos atnešė valstybei Jogailos išvykimas į Len­
+    kiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-080
+  santrauka: 'Kazimieras su žymiaisiais lenkų didikais viešėjo Sandomire, kai karalius Vladislovas buvo išvykęs iš Lenkijos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
+    gimine ir sąjungą su lenkais. Manvydas susitarė su
+    Goštautu bei Astiku, laikantis senojo susitarimo su len­
+    kais, paskelbti valdovu patį karalių Vladislovą. Kiti
+    manė, kad karaliaus išrinkimas didžiuoju kunigaikščiu
+    gali atnešti daugiau žalos nei naudos, nes, neseniai pa­
+    keltas į Vengrijos karaliaus sostą ir atskirtas nuo Lietu­
+    vos tokių didelių nuotolių, negalėsiąs laiku nei žinios
+    apie pavojų gauti, nei ką padėti, todėl griežtai prieši­
+    nosi karaliaus kandidatūrai. Galop po karštų ginčų dauge­
+    lis nutarė rinkti į valdovus Alšėnų kunigaikščio Jurgio
+    Algimantaičio pasiūlytą karaliaus Vladislovo brolį Kazi­
+    mierą. Kiti parėmė šį siūlymą
+    iš baimės, kad atidėliojant yal-
+    džia
+    valstybėje
+    neatitektų
+    Mykolui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-085
+  santrauka: 'Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pasiuntiniai prašė, kad su tokiu
+    pat įkarščiu, su kuriuo neseniai atkalbinėjo Aleksandrą
+    nekariauti prieš Steponą, dabar padėtų karaliui Jonui
+    bei didžiajam kunigaikščiui Aleksandrui, pasiryžusiems
+    pradėti karą prieš turkus ir paremti Steponą, ypač dėl
+    to, kad to reikalauja ne tik pavienių asmenų susitarimai,
+    bet ir viso krikščionių pasaulio bendras reikalas. Iva­
+    nas, patvirtinęs, kad nieku būdu nepatiksiąs bėdoje Ste­
+    pono, pridūrė, kad neturįs kol kas jokių žinių apie Ste­
+    ponui gresiantį pavojų ir todėl ketinąs ateiti į pagalbą
+    tik tada, kai šis pats jos paprašysiąs. Kalbėdamas dėl
+    akių gražius žodžius, širdyje galvojo apie karą prieš
+    <
+    Lietuvą pasiryžęs pasipelnyti
+    1499 m eta i
+    iš svetimos nelaimės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-086
+  santrauka: 'Aleksandras Vilniuje užbaigė lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Beje, Fridri­
+    chas dar nebuvo apsispren-
+    U žim a L en k ijo s so stą
+    dęs, ką siūlyti į valdovus iš
+    lovą, ar Aleksandrą, ar Žygimantą, todėl jam labai rū­
+    pėjo sužinoti, kurį pasirinks ir kurį labiau palaikys
+    bajorai. Daug kas rėmė Žygimantą, Opavos ir Glogo-
+    vo kunigaikštį, dar daugiau — Vladislovą, Vengrijos
+    karalių, kurį kuo karščiausiai ir kvietė per karalystės
+    maršalą Kmitą atvykti iš Budos ir užsidėti karaliaus
+    vainiką. Vis dėlto Liudviko karalystė turėjo blogą gar­
+    są, nes valstybė buvo nusiaubta, iždas — tuščias, be
+    to, daug kam, negalinčiam užmiršti Vladislovo Varnie­
+    čio, Vengrijos karaliaus titulas, turimas Vladislovo,
+    rodėsi tolygus nelaimių ir prakeiksmo ženklui. Ne ma­
+    žiau rūpesčių kėlė baimė, kad, aplenkus Aleksandra,
+    Lietuva atsiskirsianti nuo Lenkijos. Šitoka lenkų nuo­
+    taikų ir pažiūrų įvairovė padarė Aleksandrui didelį
+    įspūdį, ir jis vienu metu susimanė griebtis jėgos ir
+    šitaip pakreipti savo naudai visą reikalą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-087
+  santrauka: 'Bychovco kronikos pasakojime lenkai vaizduojami atėmę Vytautui skirtą karaliaus vainiką, kad Lietuva netaptų karalyste.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir Lvove juos pasiekė žinia
+    apie didžiojo kunigaikščio mirtį. Lenkai, nenorėdami,
+    kad Lietuva būtų karalystė, tą karaliaus vainiką iš jų
+    atėmė8 ir, perkirtę pusiau, prilydė puses prie Krokuvos
+    vyskupo karūnos, kuri ir dabar tebėra Krokuvos pilies
+    švento Stanislavo bažnyčioje 9.
+    Karalius Jogaila gedėjo didžiojo kunigaikščio Vy­
+    tauto ir verkė kaip brolis mylimo brolio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-088
+  santrauka: 'Narbuto lenkų kalba parašytas veikalas išryškino etnokultūrinius lietuvių ir „koroniažų“, tai yra Lenkijos gyventojų, skirtumus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Aš, kaip atrodo, pasirinkau vidurio kelią: pateikdamas faktus
+    apie tautą, išvadas ir visa tai, ko nėra šaltiniuose, palieku pa­
+    daryti pačiam skaitytojui. Hiūmas buvo mano pavyzdys, tik
+    nežinau, ar tai pavyko“12.
+    T. Narbuto istorijos darbų kritika stiprėjo. Lietuvos istori­
+    kas Mykolas Balinskis rašė: „Kas tiek pasakų palaikė tiesa ir
+    j gretino jas su tikrais įvykiais, kas nesvyruodamas kaitaliojo da-
+    11 List T. Narbutta do A. Reniera 1843 r.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-089
+  santrauka: 'Narbutas perteikė autoriaus pranašystę, kad Lenkijos ir Lietuvos tautos nenukryps kaip čekai dėl valdovo tikėjimo ir valdinių prisirišimo prie sosto.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kai dėl jų vadinimo manichėjiečiais, tai
+    senų katalikų rašytojų papratimu šitaip praminti turėjo būti
+    rusų sektantai, nes vidurinių amžių autoriai paprastai mani­
+    chėjiečiais vadindavo albigiečius, petrobrusijonus, Tancheli-
+    no sekėjus popelikonus, katarus ir kitus XII, XIII ir Xl V am­
+    žių sektantus.
+    Mat katalikai taip neapkentė manichėjiečių ir agapijonų
+    sektos, kad žodžiai „eretikas“ ir „manichėjietis“ reiškė tą patį.
+    Todėl neabejojame, kad toji sekta pas mus buvo, nors šiaip
+    apie ją, atrodo, nėra jokios užuominos. Ne daugiau šviesos
+    mums gali paskolinti rusų bažnyčios istorija. Tuo tarpu yra tik­
+    ras dalykas, jog Rusijoje, taip pat besiribojančiuose su ja kraš­
+    tuose nuo seno atsirasdavo sektų, dažnai tokių neaiškių, su­
+    painiotų ir slaptų, kad vietiniai rašytojai patys nesugeba nu­
+    statyti, kaip jos atsirado, nors nemaža jų gyvuoja iki šiol.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-091
+  santrauka: 'Narbutas nurodė dokumentinius įrodymus, kad XVI a. teismuose nuosprendžiai sakyti lietuviškai, o knygose rašyti rusiškai, lotyniškai arba lenkiškai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Be abejo, ji yra lietuvių kalbos šaltinis, - taip pat kaip ir
+    kitų Europos kalbų, kuriomis kalba seniausios tos pasaulio
+    dalies tautos23. Norėdami tą aiškiau įrodyti, pateiksime pavyz­
+    džių.
+    Kalbų kilmės tyrimuose yra nusistovėjusi taisyklė lyginti
+    skaitvardžius nuo 1 iki 10; taip gaunamas pirmasis jų giminiš­
+    kumo rodiklis. Pažvelkime į lentelę, kurioje keturi svarbiausi
+    lietuvių kalbos dialektai lyginami su sanskritu.
+    Sanskritas (iš
+    Mąjevskio)
+    Lietuviškai
+    Latviškai
+    Prūsiškai
+    Heruliškai
+    1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-092
+  santrauka: 'Aprašomoje vietoje viena iš trijų mūrinių šventyklų buvo lenkų, o dvi kitos - rusinų apeigoms.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Žyniai, paklausti, ką reiškiąs tas garbini­
+    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
+    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
+    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
+    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
+    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
+    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
+    no paviete, kur lietuviai gyvena, ir Trakų. Palyginus su Šrioku (cituo­
+    ta vieta) ir su žinia, paskelbta leidinyje „Znicz“ (1835.- P. 34), pa­
+    aiškėja, kad čia pakartojamas to Jeronimo pasakojimas popiežiui
+    Enėjui Silvijui, arba Pijui II, ir 1432-1439 metais vykusio Bazelio
+    bažnytinio susirinkimo šventiesiems tėvams, kuriuo jis atsiskaitė apie
+    savo apaštalavimą Lietuvoje 1392 arba 1393 metais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-00333
@@ -4608,19 +4889,17 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
+    Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir
+    nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis
+    įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių
+    nuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus
+    išsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo
+    paskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos
+    dobė, maustydami ant tvorų baslių. Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
     netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,
     Plocku vadinama163. Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,
     neskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų
-    ir griežtos klauzūros moterų vienuolynų. Jie žudė kunigus bei kitus dvasininkus, ir
-    bažnytinius, ir pasaulietinius, vienus — už bažnyčios sienų, kitus — pačioje bažnyčioje,
-    daugelį — prie altoriaus, netgi tuo metu, kai šie teikė švenčiausiojo Jėzaus Kristaus kūną
-    bei kraują, o pačius sakramentus, niekindami dievą, nepagarbiai mėtė žemėn ir trypė
-    kojomis. Jie grobstė liturgines taures, ampules bei kitus bažnytinius indus, korporalus ir
-    kitus dievo garbinimui skirtus rūbus, juos pavartodami neleistiniems tikslams, o dievui
-    pasišventusias mergeles jėga vilko iš klauzūrų ir begėdiškai niekino. Trumpai kalbant,
-    niekas nestengtų surašyti, kokių baisių piktadarybių ir siaubingų skriaudų jie padarė
-    tikėjimui bei tikintiesiems.
+    ir griežtos klauzūros moterų vienuolynų.
   citata_rodoma: "Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir\nnesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis\nįžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių\nnuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus\nišsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo\npaskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos\ndobė, maustydami ant tvorų baslių. Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,\nnetekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,\nPlocku vadinama163. Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,\nneskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų\nir griežtos klauzūros moterų vienuolynų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -5129,20 +5408,15 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Povilas, Krokuvos ganytojas, no­
+    Grįžęs iš to žy­
+    gio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau­
+    sėdijas: tuo metu buvo padėti pamatai Gervėčių mies­
+    teliui. Tačiau ir vidaus ramybe, ir sutartimi sutvirtintą
+    draugystę su lenkais išardė kurių ne kurių asmenų
+    maištingi sumanymai. Povilas, Krokuvos ganytojas, no­
     rėdamas atkeršyti Boleslovui Droviajam už asmeniškas
     skriaudas, protarpiais slapta kviesdavosi į lenkų kraštą
-    lietuvių kariaunas. Kilus nesutarimams tarp Boleslovo
-    ir riterių ordino, jų keliai išsiskyrė, prasidėjo ginkluo­
-    tos kovos, maištui vadovauti už akių buvo išrinktas
-    Vladislovas, Opolės kunigaikštis; vėliau, išvaikius ir
-    sumušus maištingą bajoriją, Boleslovo reikalai smarkiai
-    pagerėjo. Tada Povilas, anksčiau niršęs ant valdovo,
-    jau nebegalėjo daugiau pakęsti jo sėkmės; bijodamas
-    ir nekęsdamas, be to, stokodamas jėgų ir negalėdamas
-    patenkinti savo neapykantos ir griebtis smurto, jis pra­
-    dėjo siausti, remdamasis svetimais ginklais ir savo klas­
-    ta.
+    lietuvių kariaunas.
   citata_rodoma: "Grįžęs iš to žy­\ngio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau­\nsėdijas: tuo metu buvo padėti pamatai Gervėčių mies­\nteliui. Tačiau ir vidaus ramybe, ir sutartimi sutvirtintą\ndraugystę su lenkais išardė kurių ne kurių asmenų\nmaištingi sumanymai. Povilas, Krokuvos ganytojas, no­\nrėdamas atkeršyti Boleslovui Droviajam už asmeniškas\nskriaudas, protarpiais slapta kviesdavosi į lenkų kraštą\nlietuvių kariaunas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -5158,6 +5432,21 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
+    Gili­
+    ginas valdė ne ilgiau kaip trejus metus: bemaž nieko
+    įsidėmėtina tais laikais neįvyko, išskyrus kelis nioko­
+    jamus žygius į Lenkiją, tiesa, ir juos ne visus sumini
+    rašytojai. Žymesnis ir pačių lenkų minimas tas, kai lie­
+    tuvių kariaunos, nusiaubusios Mazoviją, Kulmo kraštą,
+    1275 m eta i
+    G iliginas — L ie tu v o s
+    d id y s is
+    k u n ig a ik štis,
+    T robius — Ž e m a itijo s
+    133
+
+    ## Puslapis 132
+
     Kujaviją, be to, antrą kartą
     1277 m e ta i
     įsibrovusios į Lenčicos že­
@@ -5165,17 +5454,6 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     keturiasdešimt tūkstančių belaisvių. Vargu ar tuo skai­
     čiumi galima patikėti, vis dėlto jis svariai įrodo, jog
     lenkai buvo smarkiai sumušti.
-    Kiti metai Giliginui tapo
-    lemtingi: mirė sosto įpėdinis
-    jo sūnus Romuntas. Kaip tei­
-    giama įvairių rašytojų, Ro­
-    muntas paliko penketą sūnų,
-    tačiau artesnis tiesai vos ke­
-    lių šaltinių minimas pasakojimas, jog jis mirė bevai­
-    kis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­
-    kio amžiaus, kad jauniausias iš jų, Traidenis, Romun-
-    tui dar gyvam esant, vadovavo kariuomenei kaip
-    vyriausiasis vadas.
   citata_rodoma: "Gili­\nginas valdė ne ilgiau kaip trejus metus: bemaž nieko\nįsidėmėtina tais laikais neįvyko, išskyrus kelis nioko­\njamus žygius į Lenkiją, tiesa, ir juos ne visus sumini\nrašytojai. Žymesnis ir pačių lenkų minimas tas, kai lie­\ntuvių kariaunos, nusiaubusios Mazoviją, Kulmo kraštą,\n1275 m eta i\nG iliginas — L ie tu v o s\nd id y s is\nk u n ig a ik štis,\nT robius — Ž e m a itijo s\n133\n\n## Puslapis 132\n\nKujaviją, be to, antrą kartą\n1277 m e ta i\nįsibrovusios į Lenčicos že­\nmes, išsivarė, kaip sako, apie\nketuriasdešimt tūkstančių belaisvių. Vargu ar tuo skai­\nčiumi galima patikėti, vis dėlto jis svariai įrodo, jog\nlenkai buvo smarkiai sumušti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -5297,19 +5575,14 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Sąmokslininkai, tikėdamiesi atlyginimo iš Žygimanto
-    varžovo, be to, bijodami galimo tardymo ir teismo,
-    rėmė tremtyje gyvenantį Bo-
-    L ietu vo s d id ik ų pažiū-
-    leslovą. Ir vieni, ir kiti nepai­
-    ros į n a u ją jį v a ld o v ą
-    sė valstybės reikalų, o žiūrėjo
-    tik savo asmeninės naudos.
-    Tie, kurie, nepriklausydami nei vienai, nei kitai grupuo­
-    tei, galvojo apie krašto ateitį, stengėsi suvokti, kaip po
-    dabartinių negandų toliau klostysis įvykiai, ir svarstė,
-    kokios žalos atnešė valstybei Jogailos išvykimas į Len­
-    kiją.
+    Šitokios mintys, platinamos ir žodiškai, ir raštiškai
+    laiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­
+    jorai, sukėlė didelį nemažo būrio palankumą Aleksan­
+    drui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.
+    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
+    gimine ir sąjungą su lenkais. Manvydas susitarė su
+    Goštautu bei Astiku, laikantis senojo susitarimo su len­
+    kais, paskelbti valdovu patį karalių Vladislovą.
   citata_rodoma: "Šitokios mintys, platinamos ir žodiškai, ir raštiškai\nlaiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­\njorai, sukėlė didelį nemažo būrio palankumą Aleksan­\ndrui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.\nNugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos\ngimine ir sąjungą su lenkais. Manvydas susitarė su\nGoštautu bei Astiku, laikantis senojo susitarimo su len­\nkais, paskelbti valdovu patį karalių Vladislovą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -5324,24 +5597,32 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
-    gimine ir sąjungą su lenkais. Manvydas susitarė su
-    Goštautu bei Astiku, laikantis senojo susitarimo su len­
-    kais, paskelbti valdovu patį karalių Vladislovą. Kiti
-    manė, kad karaliaus išrinkimas didžiuoju kunigaikščiu
-    gali atnešti daugiau žalos nei naudos, nes, neseniai pa­
-    keltas į Vengrijos karaliaus sostą ir atskirtas nuo Lietu­
-    vos tokių didelių nuotolių, negalėsiąs laiku nei žinios
-    apie pavojų gauti, nei ką padėti, todėl griežtai prieši­
-    nosi karaliaus kandidatūrai. Galop po karštų ginčų dauge­
-    lis nutarė rinkti į valdovus Alšėnų kunigaikščio Jurgio
-    Algimantaičio pasiūlytą karaliaus Vladislovo brolį Kazi­
-    mierą. Kiti parėmė šį siūlymą
-    iš baimės, kad atidėliojant yal-
-    džia
-    valstybėje
-    neatitektų
-    Mykolui.
+    Mat, jeigu per
+    K a zim iera s J ogailaitis
+    išren k a m a s
+    L ietu vo s
+    d id žiu o ju
+    k u n ig a ik š­
+    čiu
+    468
+
+    ## Puslapis 467
+
+    skubėjimą ir bus padaryta
+    Pasiuntinių
+    k v ie č ia -
+    kas nors ne taip, kaip šitokio-
+    m a s į B restą
+    mis aplinkybėmis dera, dėl to
+    bus galima vėliau atsiprašyti
+    brolį ir ištaisyti klaidą, tuo tarpu atidėliojant galima
+    nieko nepešti. Tuo metu karalius Vladislovas, išvykęs
+    iš Lenkijos, rengėsi su vengrais kariauti prieš turkus, o
+    Kazimieras su žymiaisiais lenkų didikais viešėjo Sando-
+    mire. Godžiai trokštantis valdžios viršūnių jaunikaitis
+    klausėsi pasiuntinių kalbos, tačiau šalimais esantys re­
+    gentai neleido jam tarti atsakomojo žodžio paskubomis,
+    skatinamam jaunatviško įkarščio.
   citata_rodoma: "Mat, jeigu per\nK a zim iera s J ogailaitis\nišren k a m a s\nL ietu vo s\nd id žiu o ju\nk u n ig a ik š­\nčiu\n468\n\n## Puslapis 467\n\nskubėjimą ir bus padaryta\nPasiuntinių\nk v ie č ia -\nkas nors ne taip, kaip šitokio-\nm a s į B restą\nmis aplinkybėmis dera, dėl to\nbus galima vėliau atsiprašyti\nbrolį ir ištaisyti klaidą, tuo tarpu atidėliojant galima\nnieko nepešti. Tuo metu karalius Vladislovas, išvykęs\niš Lenkijos, rengėsi su vengrais kariauti prieš turkus, o\nKazimieras su žymiaisiais lenkų didikais viešėjo Sando-\nmire. Godžiai trokštantis valdžios viršūnių jaunikaitis\nklausėsi pasiuntinių kalbos, tačiau šalimais esantys re­\ngentai neleido jam tarti atsakomojo žodžio paskubomis,\nskatinamam jaunatviško įkarščio."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -5469,22 +5750,15 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pasiuntiniai prašė, kad su tokiu
-    pat įkarščiu, su kuriuo neseniai atkalbinėjo Aleksandrą
-    nekariauti prieš Steponą, dabar padėtų karaliui Jonui
-    bei didžiajam kunigaikščiui Aleksandrui, pasiryžusiems
-    pradėti karą prieš turkus ir paremti Steponą, ypač dėl
-    to, kad to reikalauja ne tik pavienių asmenų susitarimai,
-    bet ir viso krikščionių pasaulio bendras reikalas. Iva­
-    nas, patvirtinęs, kad nieku būdu nepatiksiąs bėdoje Ste­
-    pono, pridūrė, kad neturįs kol kas jokių žinių apie Ste­
-    ponui gresiantį pavojų ir todėl ketinąs ateiti į pagalbą
-    tik tada, kai šis pats jos paprašysiąs. Kalbėdamas dėl
-    akių gražius žodžius, širdyje galvojo apie karą prieš
-    <
-    Lietuvą pasiryžęs pasipelnyti
-    1499 m eta i
-    iš svetimos nelaimės.
+    Po to Lietuvos Didžiosios Kunigaikštystės
+    vardu sudarė taiką su Steponu, Valachijos valdovu,
+    bei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,
+    Vengrijos karaliaus, pastangomis lenkai, vengrai, če­
+    kai, lietuviai ir valachai sudarė sutartis, kuriomis ne
+    tik valdovai, bet ir visos jų karalystės bei žemės pa­
+    žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
+    Dievobaimingas Aleksandro įstangas sužlugdė klas­
+    tingos Ivano pinklės.
   citata_rodoma: "Po to Lietuvos Didžiosios Kunigaikštystės\nvardu sudarė taiką su Steponu, Valachijos valdovu,\nbei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,\nVengrijos karaliaus, pastangomis lenkai, vengrai, če­\nkai, lietuviai ir valachai sudarė sutartis, kuriomis ne\ntik valdovai, bet ir visos jų karalystės bei žemės pa­\nžadėjo viena kitą ginti, kai prasidės karas prieš turkus.\nDievobaimingas Aleksandro įstangas sužlugdė klas­\ntingos Ivano pinklės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -5499,26 +5773,21 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Beje, Fridri­
-    chas dar nebuvo apsispren-
-    U žim a L en k ijo s so stą
-    dęs, ką siūlyti į valdovus iš
-    lovą, ar Aleksandrą, ar Žygimantą, todėl jam labai rū­
-    pėjo sužinoti, kurį pasirinks ir kurį labiau palaikys
-    bajorai. Daug kas rėmė Žygimantą, Opavos ir Glogo-
-    vo kunigaikštį, dar daugiau — Vladislovą, Vengrijos
-    karalių, kurį kuo karščiausiai ir kvietė per karalystės
-    maršalą Kmitą atvykti iš Budos ir užsidėti karaliaus
-    vainiką. Vis dėlto Liudviko karalystė turėjo blogą gar­
-    są, nes valstybė buvo nusiaubta, iždas — tuščias, be
-    to, daug kam, negalinčiam užmiršti Vladislovo Varnie­
-    čio, Vengrijos karaliaus titulas, turimas Vladislovo,
-    rodėsi tolygus nelaimių ir prakeiksmo ženklui. Ne ma­
-    žiau rūpesčių kėlė baimė, kad, aplenkus Aleksandra,
-    Lietuva atsiskirsianti nuo Lenkijos. Šitoka lenkų nuo­
-    taikų ir pažiūrų įvairovė padarė Aleksandrui didelį
-    įspūdį, ir jis vienu metu susimanė griebtis jėgos ir
-    šitaip pakreipti savo naudai visą reikalą.
+    Labai
+    jiems padėjo ir tai, kad Aleksandras pasirūpino Vil­
+    niuje užbaigti prieš trejus metus Piotrkove lenkams
+    pažadėtą lietuvių bei lenkų santarvės aktą, kuris, pa­
+    tvirtintas Lietuvos Didžiosios Kunigaikštystės antspau­
+    du bei dvidešimt penkių žymiausių didikų antspaudais
+    ir parašais, ir buvo dabar atgabentas į bendrą su len­
+    kais seimą, paaiškinus, jog bus jiems viešai įteiktas,
+    jeigu paskelbs Aleksandrą karaliumi, o sunaikintas,
+    jeigu jį aplenks. Šios aplinkybės paskatinti lenkai visi
+    it vienas ir paskelbė Aleksandrą karaliumi. Negalėjo
+    nepritarti šiam jų žingsniui ir Vladislovas, nes matė,
+    jog tuo būdu sulydomos į vieną dvi galingos tautos, o
+    ta sąjunga labai naudinga visam krikščioniškajam pa­
+    sauliui.
   citata_rodoma: "Labai\njiems padėjo ir tai, kad Aleksandras pasirūpino Vil­\nniuje užbaigti prieš trejus metus Piotrkove lenkams\npažadėtą lietuvių bei lenkų santarvės aktą, kuris, pa­\ntvirtintas Lietuvos Didžiosios Kunigaikštystės antspau­\ndu bei dvidešimt penkių žymiausių didikų antspaudais\nir parašais, ir buvo dabar atgabentas į bendrą su len­\nkais seimą, paaiškinus, jog bus jiems viešai įteiktas,\njeigu paskelbs Aleksandrą karaliumi, o sunaikintas,\njeigu jį aplenks. Šios aplinkybės paskatinti lenkai visi\nit vienas ir paskelbė Aleksandrą karaliumi. Negalėjo\nnepritarti šiam jų žingsniui ir Vladislovas, nes matė,\njog tuo būdu sulydomos į vieną dvi galingos tautos, o\nta sąjunga labai naudinga visam krikščioniškajam pa­\nsauliui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -5534,9 +5803,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     Ir Lvove juos pasiekė žinia
     apie didžiojo kunigaikščio mirtį. Lenkai, nenorėdami,
     kad Lietuva būtų karalystė, tą karaliaus vainiką iš jų
-    atėmė8 ir, perkirtę pusiau, prilydė puses prie Krokuvos
+    atėmė8  ir, perkirtę pusiau, prilydė puses prie Krokuvos
     vyskupo karūnos, kuri ir dabar tebėra Krokuvos pilies
-    švento Stanislavo bažnyčioje 9.
+    švento Stanislavo bažnyčioje 9 .
     Karalius Jogaila gedėjo didžiojo kunigaikščio Vy­
     tauto ir verkė kaip brolis mylimo brolio.
   citata_rodoma: "Ir Lvove juos pasiekė žinia \napie didžiojo kunigaikščio mirtį. Lenkai, nenorėdami, \nkad Lietuva būtų karalystė, tą karaliaus vainiką iš jų \natėmė8  ir, perkirtę pusiau, prilydė puses prie Krokuvos \nvyskupo karūnos, kuri ir dabar tebėra Krokuvos pilies \nšvento Stanislavo bažnyčioje 9 .\nKaralius Jogaila gedėjo didžiojo kunigaikščio Vy­\ntauto ir verkė kaip brolis mylimo brolio."
@@ -5553,14 +5822,12 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Aš, kaip atrodo, pasirinkau vidurio kelią: pateikdamas faktus
-    apie tautą, išvadas ir visa tai, ko nėra šaltiniuose, palieku pa­
-    daryti pačiam skaitytojui. Hiūmas buvo mano pavyzdys, tik
-    nežinau, ar tai pavyko“12.
-    T. Narbuto istorijos darbų kritika stiprėjo. Lietuvos istori­
-    kas Mykolas Balinskis rašė: „Kas tiek pasakų palaikė tiesa ir
-    j gretino jas su tikrais įvykiais, kas nesvyruodamas kaitaliojo da-
-    11 List T. Narbutta do A. Reniera 1843 r.
+    T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
+    kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
+    tojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet
+    mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
+    reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
+    kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
   citata_rodoma: "T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­\nkino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­\ntojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet\nmus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių\nreikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,\nkad mes jų turime daugiau ir kur kas geresnių negu lenkai“11."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -5575,21 +5842,14 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai dėl jų vadinimo manichėjiečiais, tai
-    senų katalikų rašytojų papratimu šitaip praminti turėjo būti
-    rusų sektantai, nes vidurinių amžių autoriai paprastai mani­
-    chėjiečiais vadindavo albigiečius, petrobrusijonus, Tancheli-
-    no sekėjus popelikonus, katarus ir kitus XII, XIII ir Xl V am­
-    žių sektantus.
-    Mat katalikai taip neapkentė manichėjiečių ir agapijonų
-    sektos, kad žodžiai „eretikas“ ir „manichėjietis“ reiškė tą patį.
-    Todėl neabejojame, kad toji sekta pas mus buvo, nors šiaip
-    apie ją, atrodo, nėra jokios užuominos. Ne daugiau šviesos
-    mums gali paskolinti rusų bažnyčios istorija. Tuo tarpu yra tik­
-    ras dalykas, jog Rusijoje, taip pat besiribojančiuose su ja kraš­
-    tuose nuo seno atsirasdavo sektų, dažnai tokių neaiškių, su­
-    painiotų ir slaptų, kad vietiniai rašytojai patys nesugeba nu­
-    statyti, kaip jos atsirado, nors nemaža jų gyvuoja iki šiol.
+    Autorius pateikia iš­
+    kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
+    gyne. Baigdamas už uolų tikėjimą pagiria Lietuvos bajorus,
+    kurie, vėl paklusę Apaštališkajam sostui, nusipelno didžio var­
+    do visoje bažnyčioje. Pranašauja, kad Lenkijos ir Lietuvos tau­
+    tos niekad nenukryps panašiai kaip čekai, kadangi didis val­
+    dovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis
+    šito laidas.
   citata_rodoma: "Autorius pateikia iš­\nkalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­\ngyne. Baigdamas už uolų tikėjimą pagiria Lietuvos bajorus,\nkurie, vėl paklusę Apaštališkajam sostui, nusipelno didžio var­\ndo visoje bažnyčioje. Pranašauja, kad Lenkijos ir Lietuvos tau­\ntos niekad nenukryps panašiai kaip čekai, kadangi didis val­\ndovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis\nšito laidas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -5625,21 +5885,12 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Be abejo, ji yra lietuvių kalbos šaltinis, - taip pat kaip ir
-    kitų Europos kalbų, kuriomis kalba seniausios tos pasaulio
-    dalies tautos23. Norėdami tą aiškiau įrodyti, pateiksime pavyz­
-    džių.
-    Kalbų kilmės tyrimuose yra nusistovėjusi taisyklė lyginti
-    skaitvardžius nuo 1 iki 10; taip gaunamas pirmasis jų giminiš­
-    kumo rodiklis. Pažvelkime į lentelę, kurioje keturi svarbiausi
-    lietuvių kalbos dialektai lyginami su sanskritu.
-    Sanskritas (iš
-    Mąjevskio)
-    Lietuviškai
-    Latviškai
-    Prūsiškai
-    Heruliškai
-    1.
+    Atvirkščiai, visi prieinami tyri­
+    nėjimai rodo, kad toji tauta skyrėsi nuo lietuvių. Yra dokumen­
+    tinių įrodymų, jog teismuose XVI amžiuje nuosprendžius saky­
+    davo lietuviškai, o į knygas įrašydavo rusiškai, lotyniškai arba
+    lenkiškai . Vilniuje lietuviškus pamokslus kunigai iš ambonų
+    sakydavo iki XVII amžiaus pirmojo ketvirčio .
   citata_rodoma: "Atvirkščiai, visi prieinami tyri­\nnėjimai rodo, kad toji tauta skyrėsi nuo lietuvių. Yra dokumen­\ntinių įrodymų, jog teismuose XVI amžiuje nuosprendžius saky­\ndavo lietuviškai, o į knygas įrašydavo rusiškai, lotyniškai arba\nlenkiškai . Vilniuje lietuviškus pamokslus kunigai iš ambonų\nsakydavo iki XVII amžiaus pirmojo ketvirčio ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -5654,19 +5905,12 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žyniai, paklausti, ką reiškiąs tas garbini­
-    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
-    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
-    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
-    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
-    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
-    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
-    no paviete, kur lietuviai gyvena, ir Trakų. Palyginus su Šrioku (cituo­
-    ta vieta) ir su žinia, paskelbta leidinyje „Znicz“ (1835.- P. 34), pa­
-    aiškėja, kad čia pakartojamas to Jeronimo pasakojimas popiežiui
-    Enėjui Silvijui, arba Pijui II, ir 1432-1439 metais vykusio Bazelio
-    bažnytinio susirinkimo šventiesiems tėvams, kuriuo jis atsiskaitė apie
-    savo apaštalavimą Lietuvoje 1392 arba 1393 metais.
+    Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­
+    tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­
+    nės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o
+    kitos dvi -  rusinu, kur jie įprastai atlieka savo apeigas. Rusinai
+    taip pat turi priemiesčiuose dvi šventyklas: vieną mūrinę, kitą
+    medinę.
   citata_rodoma: "Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­\ntesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­\nnės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o\nkitos dvi -  rusinu, kur jie įprastai atlieka savo apeigas. Rusinai\ntaip pat turi priemiesčiuose dvi šventyklas: vieną mūrinę, kitą\nmedinę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

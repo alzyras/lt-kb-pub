@@ -284,7 +284,7 @@ Nenurodyta
     vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
     vos metraščio" antraštė duota dėl nusistojusios jau lie­
     tuvių tarybinėje istoriografijoje tradicijos vadinti
-    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
+    metraščiais visą XV— XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
   citata_rodoma: "Pavadinimas ,,Lietuvos metraštis, arba Bychovco \nkronika\", kuris duotas šiam vertimui į lietuvių kalbą, \nnėra autentiškas. Rankraštis neturėjo jokio pavadini­\nmo. „Bychovco kronika\" jis buvo pramintas XIX a. \npagal rankraščio savininką, Gardino gubernijos Volko- \nvysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­\nvos metraščio\" antraštė duota dėl nusistojusios jau lie­\ntuvių tarybinėje istoriografijoje tradicijos vadinti \nmetraščiais visą XV— XVI a. pirmosios pusės Lietuvos \nDidžiojoje Kunigaikštystėje kilusią istorinę raštiją."
   statusas: verified
@@ -306,7 +306,7 @@ Nenurodyta
     vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
     vos metraščio" antraštė duota dėl nusistojusios jau lie­
     tuvių tarybinėje istoriografijoje tradicijos vadinti
-    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
+    metraščiais visą XV— XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
     „Metraščio" (siaurąja prasme) sąvoka Bychovco kroni­
     kai taikoma tik sąlyginai, kadangi pastarąją sudaro dau­

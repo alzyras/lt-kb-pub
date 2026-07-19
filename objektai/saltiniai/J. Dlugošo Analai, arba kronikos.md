@@ -134,19 +134,6 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
     - c-85465
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'J. Dlugošo veikale 1282 m. lietuvių kariuomenės įsiveržimas į Sandomežo žemę siejamas su mūšiu Ruvne, į pietus nuo Drohičino.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    491 Greičiausiai kalbama apie lietuvių kariuomenės įsiveržimą 1282 m. rudenį  į
-    Sandomežo žemę ir mūšį Ruvne (Równe), Sandomežo žemės šiaurės rytuose, į pietus nuo
-    Drohičino (Długosz J., Roczniki..., kn. 7 (1974), p. 282—285; Krakowski S., Obrona...,
-    p. 110—113).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-003
   santrauka: 'J. Dlugošas „Analuose, arba kronikose“, rašytuose 1455-1480 m., panaudojo Mikalojaus iš Jerošino eiliuotą vertimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -156,19 +143,6 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
     Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
     Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
     Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'J. Dlugošas buvo susipažinęs su Mikalojaus iš Jerošino eiliuotu vertimu ir panaudojo jį savo Lenkijos istorijos „Analuose, arba kronikose“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Iš šio vertimo Dusburgiečio
-    kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
-      Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
-    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: saltinio_teiginys
@@ -200,12 +174,10 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    201 (196). Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
-    Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
-    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
-    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
-    pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
-    metais.
+    491 Greičiausiai kalbama apie lietuvių kariuomenės įsiveržimą 1282 m. rudenį  į
+    Sandomežo žemę ir mūšį Ruvne (Równe), Sandomežo žemės šiaurės rytuose, į pietus nuo
+    Drohičino (Długosz J., Roczniki..., kn. 7 (1974), p. 282—285; Krakowski S., Obrona...,
+    p. 110—113).
   citata_rodoma: "491 Greičiausiai kalbama apie lietuvių kariuomenės įsiveržimą 1282 m. rudenį  į\nSandomežo žemę ir mūšį Ruvne (Równe), Sandomežo žemės šiaurės rytuose, į pietus nuo\nDrohičino (Długosz J., Roczniki..., kn. 7 (1974), p. 282—285; Krakowski S., Obrona...,\np. 110—113)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -220,13 +192,8 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    XVI a.
-    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
-    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
-    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
-    Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
-    m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
-    variantas.
+    Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
+    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
   citata_rodoma: "Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo\njį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -241,11 +208,10 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
-    Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
-    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
-    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
-    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
+    Iš šio vertimo Dusburgiečio
+    kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
+      Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
+    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m.
   citata_rodoma: "Iš šio vertimo Dusburgiečio\nkronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.\n  Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo\njį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

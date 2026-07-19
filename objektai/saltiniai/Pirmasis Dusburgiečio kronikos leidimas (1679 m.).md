@@ -7,12 +7,12 @@ datos:
   - '1679 m.'
 date_start: '1679'
 date_end: ''
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,6 +65,23 @@ Dusburgietis teigia, kad pirmąjį Dusburgiečio kronikos leidimą parengė K.
   pagrindžia:
     - c-61857
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Pirmąjį Dusburgiečio kronikos leidimą K. Hartknochas parengė Karaliaučiuje 1679 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum
+    Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas
+    XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais)85.
+    Pridėta platus įvadas ir komentarai, tiesa, atskleidžiantys visų pirma Ordino istoriją;
+    baltistiniai, lituanistiniai faktai juose paliesti žymiai mažiau ir mūsų negali patenkinti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
 ## Citatos
 
 - id: c-61857
@@ -72,11 +89,9 @@ Dusburgietis teigia, kad pirmąjį Dusburgiečio kronikos leidimą parengė K.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum
-    Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas
-    XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais)85.
-    Pridėta platus įvadas ir komentarai, tiesa, atskleidžiantys visų pirma Ordino istoriją;
-    baltistiniai, lituanistiniai faktai juose paliesti žymiai mažiau ir mūsų negali patenkinti.
+    Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
+    m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
+    variantas.
   citata_rodoma: "Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679\nm.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio\nvariantas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

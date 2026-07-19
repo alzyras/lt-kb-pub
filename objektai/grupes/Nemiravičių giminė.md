@@ -53,6 +53,8 @@ Pasak metraščio, po Vytauto atsakymo dėl taikos ponas Andrius buvo pramintas 
     visgi tarė didžiajam kunigaikščiui Vytautui: „Tokia
     JOS
 
+    ## Puslapis 102
+
     laika netvirta, jei tarp valdovų nebuvo kraujo pralie­
     jimo." Didysis kunigaikštis Vytautas atsakė: „Mielas
     brolau, kas buvo — pražuvo, ir aš savo žodžio, kaip

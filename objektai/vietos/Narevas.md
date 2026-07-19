@@ -179,26 +179,6 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - susijęs iš Šešupė: Padalijus Užnemunę, Ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno į Šešupę.
 - susijęs iš Šešupė: Padalijus Užnemunę, ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno iki Šešupės.
 - susijęs iš Žemaitija: Vaikių ir Pagraudės valsčiai Žemaitijoje buvo nusiaubti žudynėmis ir apiplėšti, todėl daugelį metų beveik neturėjo gyventojų.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    1237 metais jis ve­
-    dė savo būrius prieš jotvingius į Brastos apylinkes, bet
-    itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
-    jo sumanymas nebuvo įgyvendintas3.
-    122
-    Nuo tų laikų matyti, kad jotvingiai pasitraukė nuo
-    Bugo—Narevo bei Prūsijos ir Lietuvos sienų link. Taip pat
-    prisidėdavo prie prūsų, kai šie sukildavo prieš kryžiuo­
-    1 Hipatijaus ( Voluinės) metraštis (spausdintas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-37557
@@ -268,15 +248,15 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos
-    net ligi Drevantos pelkių, lengvino kariaujančių su vo­
-    kiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko
-    su tam tikromis pertraukomis 1242—1253 metais1. Ne
-    viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
-    nes turime žinių apie didelį ir galingą jotvingių žygį į
-    Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
-    niais to krašto sunkumais: mongolai nuolat puldinėjo, o
-    kunigaikščiai vaidijosi tarpusavyje.
+    1237 metais jis ve­
+    dė savo būrius prieš jotvingius į Brastos apylinkes, bet
+    itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
+    jo sumanymas nebuvo įgyvendintas3.
+    122
+    Nuo tų laikų matyti, kad jotvingiai pasitraukė nuo
+    Bugo—Narevo bei Prūsijos ir Lietuvos sienų link. Taip pat
+    prisidėdavo prie prūsų, kai šie sukildavo prieš kryžiuo­
+    1 Hipatijaus ( Voluinės) metraštis (spausdintas).
   citata_rodoma: "1237 metais jis ve­\ndė savo būrius prieš jotvingius į Brastos apylinkes, bet\nitin dideli pavasario potvyniai ;užtvindė upių krantus, ir\njo sumanymas nebuvo įgyvendintas3.\n122\nNuo tų laikų matyti, kad jotvingiai pasitraukė nuo\nBugo—Narevo bei Prūsijos ir Lietuvos sienų link. Taip pat\nprisidėdavo prie prūsų, kai šie sukildavo prieš kryžiuo­\n1 Hipatijaus ( Voluinės) metraštis (spausdintas)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

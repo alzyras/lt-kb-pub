@@ -26,46 +26,6 @@ media_all_json: |-
 
 I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto Saurų dvaro bibliotekoje.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto Saurų dvaro bibliotekoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Minėtas I. Danilavičiaus rinkinys,
-    davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto
-    Saurų dvaro bibliotekoje ([Narbutt T.] Spisanie Muzeum w Szavv-
-    rach.
-    L.
-    13.
-    Nr.
-    85).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174698
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Pajūrio žemaičių vaiz­
-    duotėje jos įgaudavo dailių nuogų merginų, gyvenančių gintaro
-    rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusiviliodavo
-    į savo slėptuves dailius jaunikaičius, kurie jau niekuomet iš ten
-    nebesugrįždavo25. Tų deivių karalienės vardas buvo Jūratė28.
-  citata_rodoma: "Minėtas I. Danilavičiaus rinkinys,\ndavęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto\nSaurų dvaro bibliotekoje ([Narbutt T.] Spisanie Muzeum w Szavv-\nrach.\nL.\n13.\nNr.\n85)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-191816"></a>
@@ -87,3 +47,27 @@ I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui,
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174698
+
+## Citatos
+
+- id: c-174698
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Minėtas I. Danilavičiaus rinkinys,
+    davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto
+    Saurų dvaro bibliotekoje ([Narbutt T.] Spisanie Muzeum w Szavv-
+    rach.
+    L.
+    13.
+    Nr.
+    85).
+  citata_rodoma: "Minėtas I. Danilavičiaus rinkinys,\ndavęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto\nSaurų dvaro bibliotekoje ([Narbutt T.] Spisanie Muzeum w Szavv-\nrach.\nL.\n13.\nNr.\n85)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

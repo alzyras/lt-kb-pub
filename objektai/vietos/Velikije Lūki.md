@@ -89,7 +89,7 @@ media_all_json: |-
   citata_originali: |
     ‘ 1428 m. žygio karo veiksmai buvo sustabdyti, liepos 28 d.
     naugardiečiams paprašius taikos.
-    s XV a. pirmojoje pusėje Pskovo bajorų respublika kariavo su
+    s XV a. pirm ojoje pusėje Pskovo bajorų respublika kariavo su
     LDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­
     klausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo-
     ronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28),

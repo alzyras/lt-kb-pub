@@ -55,38 +55,6 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
   pagrindžia:
     - c-172121
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę, laikytus svetingumo dievybėmis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Buvo ir keliautojų deivė Vibilia.
-    Numėjas ir Peskija (Numejas i Peskia)
-    Dievaitis ir dievaitė, jo draugė, svetingumo dievybės. Šių
-    žodžių prasmė, senosios kalbos aiškinimu5, sutampa su šių die­
-    vybių pašaukimu, žemaitiškai reiškia Swecias ir [Viešnia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas rašo, kad miestuose buvę svečių namai, vadinti namijomis, arba Numejone, kur svetimšaliai jautėsi saugūs su savo turtu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Būta ir viešo svetingumo, tai yra šventyklose ir šventose
-    giraitėse; ten ne tik žmogus, bet ir kiekvienas gyvas padaras
-    rasdavo prieglobstį nuo persekiojimo. Tikrąja to žodžio pras­
-    me tai buvo šventosios slėptuvės,/lz>7«. Miestuose būdavo sve­
-    čių namai, vadinti namijomis (Numejone). Juose apgyvendin­
-    ti svetimšaliai jausdavosi visiškai saugūs -  tiek asmenys, tiek
-    turtas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172120
@@ -94,13 +62,11 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Gaila, kad, šalia to mandagumo, išgarsinusio senovės lie­
-    tuvius, neturime išlikusių to dievaičio garbinimo apeigų. Tuo
-    labiau kad nežinome kitų senovės tautų panašios religinės mo­
-    ralės pavyzdžių.
-    Lietuvonis (Lieth u wanis)
-    Lietaus dievaitis; tas, kuris švelniu lietumi reikiamu metu
-    nudžiugina gamtą.
+    Buvo ir keliautojų deivė Vibilia.
+    Numėjas ir Peskija (Numejas i Peskia)
+    Dievaitis ir dievaitė, jo draugė, svetingumo dievybės. Šių
+    žodžių prasmė, senosios kalbos aiškinimu5, sutampa su šių die­
+    vybių pašaukimu, žemaitiškai reiškia Swecias ir [Viešnia.
   citata_rodoma: "Buvo ir keliautojų deivė Vibilia.\nNumėjas ir Peskija (Numejas i Peskia)\nDievaitis ir dievaitė, jo draugė, svetingumo dievybės. Šių\nžodžių prasmė, senosios kalbos aiškinimu5, sutampa su šių die­\nvybių pašaukimu, žemaitiškai reiškia Swecias ir [Viešnia."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -115,13 +81,13 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mūsų pastebėjimai iš senovės šiaurės tautų mitologijos ver­
-    čia tvirtinti, kad šis dievaitis perimtas iš skandinavų ir vaizda­
-    vo Frėjų, deivės Frėjos, arba lietuvių deivės Lietuvos, brolį.
-    Pats brolio ir sesers vardų panašumas ir tos pačios jų ypatybės
-    patvirtina šios nuomonės teisingumą.
-    Frėjus apdovanodavo turtais, gausa ir taika, siųsdamas pa­
-    lankią elementų įtaką. Tą patį darė ir Lietuvonis, siųsdamas
+    Būta ir viešo svetingumo, tai yra šventyklose ir šventose
+    giraitėse; ten ne tik žmogus, bet ir kiekvienas gyvas padaras
+    rasdavo prieglobstį nuo persekiojimo. Tikrąja to žodžio pras­
+    me tai buvo šventosios slėptuvės,/lz>7«. Miestuose būdavo sve­
+    čių namai, vadinti namijomis (Numejone). Juose apgyvendin­
+    ti svetimšaliai jausdavosi visiškai saugūs -  tiek asmenys, tiek
+    turtas.
   citata_rodoma: "Būta ir viešo svetingumo, tai yra šventyklose ir šventose\ngiraitėse; ten ne tik žmogus, bet ir kiekvienas gyvas padaras\nrasdavo prieglobstį nuo persekiojimo. Tikrąja to žodžio pras­\nme tai buvo šventosios slėptuvės,/lz>7«. Miestuose būdavo sve­\nčių namai, vadinti namijomis (Numejone). Juose apgyvendin­\nti svetimšaliai jausdavosi visiškai saugūs -  tiek asmenys, tiek\nturtas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

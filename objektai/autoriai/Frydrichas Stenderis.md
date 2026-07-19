@@ -291,116 +291,71 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-179109
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Stenderio nuomone, latvių mitologijoje kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja lytimis.'
+- c-002
+  santrauka: 'Narbutas nesutiko su Stenderio siejimu Tiimpus su Atrimpos ir vadino Tiimpus paprastu girtuoklių globėjo epitetu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    28 Ponas Adomas Borovskis*.
-    1
-    Latviai kiekvieną deivę vadino motina (Mathe), ir, jų suprati­
-    mu, beveik kiekvienas dalykas, turintis savo dievą, -  kiekvieną iš jų
-    apskritai vadino tėvu (Thews), -  turėjo ir savo deivę, kitaip sakant,
-    jiems kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja
-    lytimis. Tokia Stenderio nuomonė (Lettische Grammatik).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Stenderis pastebėjo, kad latviai turėjo deivę Dyža arba Dysza, kurią Narbutas pagal ypatybes siejo su Pergrube.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pergrubė (Pergrubie)
-    Pavasario, gėlių, daržų, žmogaus pastangomis gausinamų
-    žemės vaisių deivė.
-    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
-    gėlių ir vaismedžių sodas.
-    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
-    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
-    grubę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-008
-  santrauka: 'Stenderis barstukų vardą kildino iš latviškų žodžių Berhns, lietuviškai bernas, ir Stuhke, reiškiančio lėlę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jiems nusilenkdavo pats Pušaitis, prašydamas
-    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
-    jus nuo nelaimingų žmonių engimo.
-    Barstukai (Barstuki)
-    Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
-    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
-    ke -  lėlė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-012
-  santrauka: 'Narbutas teigia, kad šio dievo garbei buvo švenčiama šventė apie gruodžio 25 1 Stender.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šio dievo garbei buvo švenčiama šventė apie gruodžio 25
-    1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­
-    dangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­
-    mesnei Lietuvai.
-    2 Ibidem.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-014
-  santrauka: 'Tai rodo, kad vietos gyventojai kadaise Nemuną tik rai vadino Kruoniu (Kronus)'', o gal kaip deivė upė buvo garbi- 17 Stender.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ties Prienais, kur Nemunas daro pusračio vingį,
-    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
-    Kronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­
-    rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-
-    17 Stender. Lettische Grammatik.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-015
-  santrauka: 'Frydrichas Stenderis gali patekti į pastatą net pro rakto skylutę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Latviai vadina Leetons arba Leetowens -  „vaiduokliu, vy­
-    riškos lyties dvasia, kuri paprastai tarytum smėlio maišas už­
-    gula miegantį žmogų, naktį užsėda ant arklių ir ant merginų,
-    kad šios net išprakaituoja. Jis gali patekti į pastatą net pro
-    rakto skylutę. Dar ir dabar jį tiki tamsūs žmonės“14 15.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-017
-  santrauka: 'Jis gyvendavo žemėje, 16 16 Stender, Lettische Grammatik.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pušaitis (Puschajtis)
-    Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
-    vadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16
-    16 Stender, Lettische Grammatik.
-    179
+    Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
+    dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
+    eina Bubbulis -  paims, pagriebs“. Jį taip pat vadino Tiimpus,
+    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
+    buvo paprastas girtuoklių globėjo epitetas. Kadangi to dievo
+    L
+    99
 
-    ## Puslapis 179
+    ## Puslapis 99
 
-    po alyvų krūmais.
+    stabas ar kažkoks keistas jo atvaizdas per jo šventę, švenčiamą
+    vasario mènes j, buvo vežiojamas rogėmis iš kaimo j kaimą, o
+    lietuvių kalba rogės vadinamos Ragutas, todėl tinkamiausia
+    būtų išvada, kad ir tas dievas Ragutis plačiausiai buvo vadina­
+    mas vardu, kilusiu iš to žodžio.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- c-007
+  santrauka: 'Narbutas Lygičiaus ir Derintojo ryšį su šokiais, žaidimais ir pantomimomis grindė Stenderio straipsnio „Lyguo (Lihgo)“ pastabomis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lygičius ir Derintojas
+    (Ligiczus i Derfintos)
+    Lasickio manymu, tai dievaičiai bičiuliai -  santaros, vieny­
+    bės, žmonių draugiškų tarpusavio sąjungų kūrėjai. Tačiau nuo
+    169
 
+    ## Puslapis 169
+
+    jų nuotaikos priklausė ir linksmi šokiai, kompanijų žaidimai,
+    ir pantomimos vaidinimai. Taip pagal Stenderlo pastebėjimus
+    straipsnyje „Lyguo (Lihgo)“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-018
+  santrauka: 'Frydrichas Stenderis buvo paskutiniais savo smukimo metais, šito aiškiai nemini, kadangi šis seniausias religijos sluoksnis jau labai seniai virto Titanų giminės garbinimu, su kuriuo priviso įvairių dievų, kuriuos aprašyti buvo ankstesnių skyrių ir dar bus kitų šio 23 Stender.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šito liekanas pastebime lietuvių mitologijoje. Tiesa,
+    kronikininkai, aprašinėjantys lietuvių genties tautų religiją, ko­
+    kia ji buvo paskutiniais savo smukimo metais, šito aiškiai ne­
+    mini, kadangi šis seniausias religijos sluoksnis jau labai seniai
+    virto Titanų giminės garbinimu, su kuriuo priviso įvairių die­
+    vų, kuriuos aprašyti buvo ankstesnių skyrių ir dar bus kitų šio
+    23 Stender. Lettische Grammatik,
+    184
+
+    ## Puslapis 184
+
+    „Lietuvių tautos istorijos“ pirmojo tomo skyrių uždavinys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-173148
@@ -432,16 +387,13 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lada (Lado)
-    Didžioji deivė, visuotinai paplitusi senovinėje Siaurės Eu­
-    ropoje.
-    Kai kurie kronikininkai klysta šiame mite įžiūrėdami die­
-    vą, nes visi slavų, estų, lietuvių paminklai mena deivę.
-    Lietuviai laikotarpį nuo gegužės 25 iki birželio 25 dienos
-    paskirdavo Ladai. Jai buvo atnašaujami balti gaidžiai, rengtos
-    viešos puotos, šokta pievose, mergaitės dainuodavo dainas,
-    kuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­
-    ive, tai yra: „Lada, didžioji mūsų deive“.
+    28 Ponas Adomas Borovskis*.
+    1
+    Latviai kiekvieną deivę vadino motina (Mathe), ir, jų suprati­
+    mu, beveik kiekvienas dalykas, turintis savo dievą, -  kiekvieną iš jų
+    apskritai vadino tėvu (Thews), -  turėjo ir savo deivę, kitaip sakant,
+    jiems kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja
+    lytimis. Tokia Stenderio nuomonė (Lettische Grammatik).
   citata_rodoma: "28 Ponas Adomas Borovskis*.\n1\nLatviai kiekvieną deivę vadino motina (Mathe), ir, jų suprati­\nmu, beveik kiekvienas dalykas, turintis savo dievą, -  kiekvieną iš jų\napskritai vadino tėvu (Thews), -  turėjo ir savo deivę, kitaip sakant,\njiems kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja\nlytimis. Tokia Stenderio nuomonė (Lettische Grammatik)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -497,19 +449,14 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Dar dabar kaimo žmonės daug vilčių deda į žo­
-    les, pašventintas įvairiais metų laikais, - ne gydymo, bet tam
-    tikro jų panaudojimo prieš įvairius nelaimingus nutikimus ir
-    įsikalbėtas baimes požiūriu. Švento Jono, Kalėdų, Švenčiau­
-    siosios mergelės į dangų ėmimo šventės, vadinamos Žolinės
-    atlaidais, proga neša pašventinti žoles, daržoves, vaisius ir juos
-    laiko, kad saugotų namus nuo piktų dvasių; jų dūmais nuveja­
-    mos šalin kai kurios ligos, atnešamos blogų vėjų, krušos ir žai­
-    bų debesys, tokių žolių ryšelis įnirusiems įdedamas į pagalvę
-    ir atliekami įvairūs kerėjimai, kurie yra senųjų Pergrubės gar­
-    binimo apeigų liekanos.
-    Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
-    pavasarį, kai tik nutirpsta sniegas.
+    Pergrubė (Pergrubie)
+    Pavasario, gėlių, daržų, žmogaus pastangomis gausinamų
+    žemės vaisių deivė.
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę.
   citata_rodoma: "Pergrubė (Pergrubie)\nPavasario, gėlių, daržų, žmogaus pastangomis gausinamų\nžemės vaisių deivė.\nKitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -524,14 +471,13 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rytojaus dieną ūkininkai žiūri, kurio valgio dau­
-    giau suvalgyta: jeigu duonos, vadinasi, dievaičiai pagausins
-    jiems javų; jeigu mėsos, - seksis su gyvulių prieaugliu ir 1.1.; o
-    to valgio, kuris jiems buvo gardžiausias, per kitas šventes de­
-    da daugiau, negu buvo per ankstesnes, prašydami, kad pagau­
-    sintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
-    kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
-    ir neša tiems, kurie jiems geresni.
+    Jiems nusilenkdavo pats Pušaitis, prašydamas
+    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
+    jus nuo nelaimingų žmonių engimo.
+    Barstukai (Barstuki)
+    Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
+    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
+    ke -  lėlė.
   citata_rodoma: "Jiems nusilenkdavo pats Pušaitis, prašydamas\nkaimiečių vardu, idant markopoliai sulaikytų savo garbinto­\njus nuo nelaimingų žmonių engimo.\nBarstukai (Barstuki)\nPožemio dievaičiai, nykštukai. Tą vardą Stenderis išveda\niš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-\nke -  lėlė."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -603,13 +549,11 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš šio vardo prasmės pastebime, kad
-    tas dievas reiškė tą patį, ką Antikos žmonėms Saturnas. Tas
-    senovės mitas, primenantis labai reikšmingą Titanų šeimynos
-    asmenį, negalėjo būti nežinomas lietuvių mitologijai.
-    Tačiau Prūsijos kronikininkai linkę manyti, kad šiuo vardu
-    buvo garbinamas senovės kunigaikštis Vaidevutis, neva laiky­
-    tas dievu.
+    Šio dievo garbei buvo švenčiama šventė apie gruodžio 25
+    1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­
+    dangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­
+    mesnei Lietuvai.
+    2 Ibidem.
   citata_rodoma: "Šio dievo garbei buvo švenčiama šventė apie gruodžio 25\n1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­\ndangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­\nmesnei Lietuvai.\n2 Ibidem."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -641,15 +585,11 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuviai pažinojo tiktai vienintelę Parką: apie ją skamba
-    liaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,
-    bet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­
-    jau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­
-    lą, kuris baigiasi žvaigžde. Toji Verpėja verpia taip aukštai, kad,
-    nors per dieną nuverpia tokį ilgą siūlą, kuriuo būtų galima
-    skersai išmatuoti visą pasaulį, vis dėlto ta žvaigždė leidžiasi
-    juo po truputį ir tik po daugelio metų ji pasidaro šiek tiek
-    didesnė.
+    Ties Prienais, kur Nemunas daro pusračio vingį,
+    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
+    Kronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­
+    rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-
+    17 Stender. Lettische Grammatik.
   citata_rodoma: "Ties Prienais, kur Nemunas daro pusračio vingį,\npastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk\nKronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­\nrai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-\n17 Stender. Lettische Grammatik."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -662,13 +602,11 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Štai kaip dailiai žmonių gud­
-    rybė moka daryti stebuklus lengvatikių akyse.
-    F. Noelis mitologijos žodyne, straipsnyje „Incubus“, sako:
-    „Tai piktosios dvasios, apie kurias manyta, kad ateina uždu­
-    sinti vyrų ir moterų savo kūno svoriu. Tai yra tai, ką prancūzai
-    vadina košmaru (Cochemar). Tą vardą duodavo taip pat fau­
-    nams ir satyrams dėl jų gašlumo.
+    Latviai vadina Leetons arba Leetowens -  „vaiduokliu, vy­
+    riškos lyties dvasia, kuri paprastai tarytum smėlio maišas už­
+    gula miegantį žmogų, naktį užsėda ant arklių ir ant merginų,
+    kad šios net išprakaituoja. Jis gali patekti į pastatą net pro
+    rakto skylutę. Dar ir dabar jį tiki tamsūs žmonės“14 15.
   citata_rodoma: "Latviai vadina Leetons arba Leetowens -  „vaiduokliu, vy­\nriškos lyties dvasia, kuri paprastai tarytum smėlio maišas už­\ngula miegantį žmogų, naktį užsėda ant arklių ir ant merginų,\nkad šios net išprakaituoja. Jis gali patekti į pastatą net pro\nrakto skylutę. Dar ir dabar jį tiki tamsūs žmonės“14 15."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -704,13 +642,15 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
-    pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
-    teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
-    kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
-    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
-    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
-    garbinamas Pušaitis ir barstukai18“.
+    Pušaitis (Puschajtis)
+    Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
+    vadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16
+    16 Stender, Lettische Grammatik.
+    179
+
+    ## Puslapis 179
+
+    po alyvų krūmais.
   citata_rodoma: "Pušaitis (Puschajtis)\nPožemio dievaitis, engiamų vargšų gynėjas, nykštukų,\nvadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16\n16 Stender, Lettische Grammatik.\n179\n\n## Puslapis 179\n\npo alyvų krūmais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

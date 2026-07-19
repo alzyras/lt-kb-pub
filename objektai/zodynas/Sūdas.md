@@ -39,15 +39,6 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 
 ## Teiginiai
 
-<a id="claim-t-07709"></a>
-- t-004
-  teiginys: "Sūdas vartojamas skolų ir ginčo sprendimo kontekste, kai sprendimą galėjo persūdyti didysis kunigaikštis."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09639
-
 <a id="claim-t-07710"></a>
 - t-003
   teiginys: "Sūdas citatoje pripažindavo vergais skolininkus, kurie negalėjo laiku grąžinti skolos."
@@ -85,5 +76,4 @@ Vartojamos formos: `sūdąs`, `sūdą`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-003

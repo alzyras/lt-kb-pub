@@ -7,12 +7,12 @@ datos:
   - '1971 m.'
 date_start: '1971'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,40 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad wojtecki D.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'D. Wojteckio studija apie Vokiečių ordino XIII a. personalijų istoriją išleista Vysbadene 1971 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert
-    —Wiesbaden, 1971.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-62001
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Палмайтис Л. Прусское deiwas, санскритское devásya, литовское diẽvojis и
-    русское евоный: Мифический формант генитива *-sio и отгенитивное склонение. —
-    Baltistica, 1980, 16(1), р. 19—24.
-    Пашуто В. Т. Помезания: «Помезанская правда» как исторический источник
-    изучения общественного и политического строя Помезании XIII—XIV вв.
-  citata_rodoma: "Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert\n—Wiesbaden, 1971."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -86,3 +52,21 @@ Dusburgietis teigia, kad wojtecki D.
   temporalinis_llm_pakomentavimas: "Citata nurodo leidinio autorių, temą, vietą ir metus."
   pagrindžia:
     - c-62001
+
+## Citatos
+
+- id: c-62001
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert
+    —Wiesbaden, 1971.
+  citata_rodoma: "Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert\n—Wiesbaden, 1971."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

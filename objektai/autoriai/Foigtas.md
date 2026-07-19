@@ -31,15 +31,22 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
 <a id="claim-t-190389"></a>
 - t-001
   teiginys: "Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų tautoms seniai žinomos garbingos pareigos."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Germanai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Foigtas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Germanai: mention_match, group, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Foigtas\" parinktas kaip owner_note_path. Targetas \"Germanai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-177049
+    - c-173272
 
 <a id="claim-t-194652"></a>
 - t-002
@@ -70,36 +77,6 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
 - susijęs iš Vyskupo Kristijono kronika: Narbutas mano, kad Grunau žinią apie vyriausiuosius žynius veikiausiai paėmė iš vyskupo Kristijono kronikos.
 - susijęs iš [[objektai/zodynas/Krivis Krewe Crive.md#claim-t-189106|Krivis Krewe Crive]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
 - susijęs iš [[objektai/zodynas/Krivis Krewe Kriwe.md#claim-t-189198|Krivis Krewe Kriwe]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų tautoms seniai žinomos garbingos pareigos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
-    jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
-    ta žodį krivis kildinti iš Greve, Graff- garbingos pareigos, nuo
-    seno žinomos germanų tautoms. Tačiau mūsų to dalyko su­
-    pratimu sunku su tuo sutikti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Ponas Foigtas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tie­
-    sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,
-    kadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-
-    tas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
-    4 Dusburg.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173272
@@ -107,34 +84,12 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pavyzdingas vyriausiojo žynio
-    gyvenimas ir darbai darydavo jo asmenį šventą šiame ir būsi­
-    mame gyvenime. Sekdami pavyzdžiu senovės Indijos filosofų,
-    kurie savo valia paliepdavo juos sudeginti ant laužo, kai bus
-    sulaukę žilos senatvės, jie paprastai surengdavo liaudžiai tokį
-    pat reginį. Šia tema Hartknochas pateikė tokią ištrauką iš se­
-    nesnių kronikų (p. 154): „Pirmiausia vaidilos sušaukia žmo- 12
+    Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
+    jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
+    ta žodį krivis kildinti iš Greve, Graff- garbingos pareigos, nuo
+    seno žinomos germanų tautoms. Tačiau mūsų to dalyko su­
+    pratimu sunku su tuo sutikti.
   citata_rodoma: "Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet\njų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­\nta žodį krivis kildinti iš Greve, Graff- garbingos pareigos, nuo\nseno žinomos germanų tautoms. Tačiau mūsų to dalyko su­\npratimu sunku su tuo sutikti."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-177049
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šios garbingos elementariųjų religijos dalykų pareigos su­
-    tapo su aukščiausiosios civilinės valdžios turėjimu. Taigi Vai­
-    devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,
-    buvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­
-    gaikščiai .
-    Tikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto,
-    panašiai kaip senovės persų vyriausiasis kunigas vadinosi Mu-
-    bad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.
-  citata_rodoma: "Tie­\nsa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,\nkadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-\ntas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.\n4 Dusburg."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -142,4 +97,22 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-177049
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Tie­
+    sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,
+    kadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-
+    tas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
+    4 Dusburg.
+  citata_rodoma: "Tie­\nsa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,\nkadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-\ntas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.\n4 Dusburg."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
     - t-002

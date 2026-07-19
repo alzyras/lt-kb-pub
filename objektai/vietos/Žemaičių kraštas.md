@@ -93,6 +93,5 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 ## Ryšiai
 - Žemaičių kraštas (kraštas) priklausė [[objektai/grupes/Kryžiuočių ordinas]]

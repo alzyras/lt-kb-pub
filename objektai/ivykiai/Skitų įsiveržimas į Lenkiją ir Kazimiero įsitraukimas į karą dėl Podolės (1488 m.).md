@@ -8,14 +8,14 @@ datos:
   - '1489 m.'
 date_start: '1488'
 date_end: '1489'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - invazija
   - karas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -74,7 +74,7 @@ Nenurodyta
 <a id="claim-t-193364"></a>
 - t-003
   teiginys: "Kojelavičiaus pasakojime karalius Kazimieras, teisindamasis paliaubomis su Vasiljevičiumi, vengė karo ir nieko tvirto nepasiūlė Tverės pabėgėliui."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,7 +82,29 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
-    - c-176091
+    - c-169132
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kojelavičiaus pasakojime karalius Kazimieras, teisindamasis paliaubomis su Vasiljevičiumi, vengė karo ir nieko tvirto nepasiūlė Tverės pabėgėliui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tverė turėjo labai galingas karo
+    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
+    ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­
+    jinga maskvėnų sėkmė, toks smarkus jų augimas kai­
+    mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi
+    seniai mėgdamas ramybę, po senovei vengė karo. To­
+    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
+    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
+    jį pagerbęs, bet nieko doro nepažadėjęs. Tuo tarpu Va­
+    siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
+    pradėjo karo, bet žalos daryti nevengė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -122,28 +144,29 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-003
 
 - id: c-176091
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tverė turėjo labai galingas karo
-    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
-    ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­
-    jinga maskvėnų sėkmė, toks smarkus jų augimas kai­
-    mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi
-    seniai mėgdamas ramybę, po senovei vengė karo. To­
-    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
-    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
-    jį pagerbęs, bet nieko doro nepažadėjęs. Tuo tarpu Va­
-    siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
-    pradėjo karo, bet žalos daryti nevengė.
+    Netru­
+    kus liautasi grasinti ginklu:
+    šitai patenkino neveiklų
+    karalių, tačiau valstybei iš to buvo maža naudos. Su­
+    kruto visi nelyginant iš gilaus miego pabudę tik tada,
+    kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs
+    žaibas skitų įsibrovimas.
+    Karalius, jausdamas, jog
+    1488 m e ta i
+    diena nuo dienos vis labiau
+    silpsta, žinojo, kad artėja pa­
+    skutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­
+    sokias progas, iškelti sūnus į deramas aukštybes.
   citata_rodoma: "Netru­\nkus liautasi grasinti ginklu:\nšitai patenkino neveiklų\nkaralių, tačiau valstybei iš to buvo maža naudos. Su­\nkruto visi nelyginant iš gilaus miego pabudę tik tada,\nkai sukrėtė širdis tarytum netoliese staiga blykstelėjęs\nžaibas skitų įsibrovimas.\nKaralius, jausdamas, jog\n1488 m e ta i\ndiena nuo dienos vis labiau\nsilpsta, žinojo, kad artėja pa­\nskutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­\nsokias progas, iškelti sūnus į deramas aukštybes."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003

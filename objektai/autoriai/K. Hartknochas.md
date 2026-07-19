@@ -248,15 +248,23 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
 <a id="claim-t-188436"></a>
 - t-014
   teiginys: "Narbutas perteikia Hartknocho aiškinimą, kad senovės prūsų žodis Sigos reiškė tvarką arba vienuoliją."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Pajūris: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Signotai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pajūris: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje po signotų apibūdinimo sakoma, kad tų žynių būdavo pajūrio srityse."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Signotai gyveno Pajūris (0.72)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173513
+    - c-171326
 
 <a id="claim-t-190628"></a>
 - t-015
@@ -282,15 +290,22 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
 <a id="claim-t-190629"></a>
 - t-016
   teiginys: "Narbutas pažymi, kad Hartknochas, regis, abejojo, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "K. Hartknochas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Hartknochas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171324
+    - c-173512
 
 <a id="claim-t-190630"></a>
 - t-017
@@ -423,158 +438,36 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
 - susijęs iš [[objektai/grupes/Sambiai.md#claim-t-188047|Sambiai]]: Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais.
 - susijęs iš Simono Grunau kronika: Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui.
 ## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Narbutas nurodo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos paimtą faktą apie elnio laikymą dievuku fetišu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+- c-002
+  santrauka: 'K. Hartknochas parengė pirmąjį Dusburgiečio kronikos leidimą, išleistą Karaliaučiuje 1679 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Žiūrėk II lentelės 4-ąjį piešinį.
-    Elnias (Elnis)
-    Elnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis
-    pašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą
-    Hartknochas pagrindžia savo pastebėjimais15.
+    Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum
+    Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas
+    XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais)85.
+    Pridėta platus įvadas ir komentarai, tiesa, atskleidžiantys visų pirma Ordino istoriją;
+    baltistiniai, lituanistiniai faktai juose paliesti žymiai mažiau ir mūsų negali patenkinti.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Narbutas rašo, kad Hartknochas, remdamasis savo tyrimais, ant Kukovaičio kalno lokalizavo Kerniaus užkurtą Amžinąją ugnį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai liudija Strijkovskis. Ant
-    Kukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­
-    kų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­
-    begyvuojantis kaimo žmonių pasakojimuose. Hartknochas,
-    remdamasis savo tyrimais, pasakoja, kad ant to paties kalno
-    nuo seno degusi Kerniaus užkurta Amžinoji ugnis .
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
+- t-021
+
+- c-003
+  santrauka: 'Kristupas Hartknochas nurodytas kaip Petro Dusburgiečio „Prūsijos kronikos“ autorius ir rinkėjas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Lietuvos istorijos momentus87. Kronika įvertinta ir lietuvių tarybinėje istoriografijoje88.
+    Liaudies Lenkijoje pasirodžiusiame specialiai Dusburgiečio kronikai skirtame M.
+    Poliakuvnos darbe išsamiai išanalizuoti kronikos šaltiniai, be kita ko, žodinė tradicija
+    ir paties kronikininko stebėjimai, teologiniai ir politiniai šio kūrinio uždaviniai ir kt.
+    klausimai89.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-009
-  santrauka: 'Narbutas rašo, kad Hartknochas pateikė duomenų apie Insterburgo valsčiuje augusią šventąją pušį Romutą arba Ruombotą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Henenbergeris tikina, kad dar jo laikais,
-    tai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­
-    nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
-    si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
-    meldžių papratimu slapčia ateidavo prie jos m elstis18.
-    PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­
-    tąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-
-    go valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo
-    horizontaliai, o paskui suaugdavo užsiriesdamos į viršų.
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-011
-  santrauka: 'Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe užrašą padėjo tarp Prūsos ir Bysleidos upių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Žymiausia šventykla buvo Romovėje, ku­
-    rios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos
-    vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
-    reiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­
-    sijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-
-    leidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­
-    tas ne visai tiksliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-014
-  santrauka: 'Narbutas perteikia Hartknocho aiškinimą, kad senovės prūsų žodis Sigos reiškė tvarką arba vienuoliją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir
-    susijuosdavo balta drobine skara.
-    Signotai (Sigonottaį
-    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
-    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
-    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
-    Gardaičio tarnai, todėl jų būdavo pajūrio srityse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-015
-  santrauka: 'Narbutas vertina, kad Hartknochas po ilgo svarstymo pritarė kronikininkų minčiai apie bendruomenėje gyvenusius dvasininkus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš šventojo
-    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
-    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
-    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
-    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-
-    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
-    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
-    kai, gyvenę bendruomenėje su tam tikromis teisėmis. Tuos tei­
-    ginius patvirtina kitų senovės istorikų tyrimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-016
-  santrauka: 'Narbutas pažymi, kad Hartknochas, regis, abejojo, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Londono A l yra tiesiog ištobulintas šitas
-    alus. Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
-    ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
-    rinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo
-    daryti alų iki atsikraustant kryžiuočiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-017
-  santrauka: 'Narbutas nurodo, kad Hartknochas įrodymui pateikė Gregorijaus IX laiškus, paskelbtus Odorico Raynaldo „Annales ecclesiasticae“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kad nuramintume žmoniškumo gynėjus, turime
-    16
-    Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
-    // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
-    1232. -  Nr. 7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-019
-  santrauka: 'Narbutas rašo, kad Hartknochas be argumentų, kaip savo abejonę, atmetė vyriausiųjų žynių sąrašą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
-    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
-    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
-    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
-    argumentų, vien kaip savo paties abejonę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-020
-  santrauka: 'Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina 12 Treteris, Henenbergeris, Šiucas, Hartknochas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
-    Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­
-    12 Treteris*, Henenbergeris, Šiucas, Hartknochas.
-    13 Opisanie starožytnej Polski.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -601,11 +494,9 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum
-    Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas
-    XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais)85.
-    Pridėta platus įvadas ir komentarai, tiesa, atskleidžiantys visų pirma Ordino istoriją;
-    baltistiniai, lituanistiniai faktai juose paliesti žymiai mažiau ir mūsų negali patenkinti.
+    Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
+    m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
+    variantas.
   citata_rodoma: "Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679\nm.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio\nvariantas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -621,11 +512,8 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Lietuvos istorijos momentus87. Kronika įvertinta ir lietuvių tarybinėje istoriografijoje88.
-    Liaudies Lenkijoje pasirodžiusiame specialiai Dusburgiečio kronikai skirtame M.
-    Poliakuvnos darbe išsamiai išanalizuoti kronikos šaltiniai, be kita ko, žodinė tradicija
-    ir paties kronikininko stebėjimai, teologiniai ir politiniai šio kūrinio uždaviniai ir kt.
-    klausimai89.
+    82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro
+    Hartknoch.
   citata_rodoma: "82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro\nHartknoch."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -657,11 +545,11 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    -Nr. 28) dalį. Vis dėlto patį pavirtimo turinį privalau ap­
-    rašyti.
-    Vieno Lietuvos bajoro duktė ypač garsėjo prisirišimu prie trijų
-    savo brolių. Labiausiai jai patikdavę, kai galėdavo jiems pasi­
-    meilinti: siuvinėti gūnias, austi juostas.
+    Žiūrėk II lentelės 4-ąjį piešinį.
+    Elnias (Elnis)
+    Elnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis
+    pašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą
+    Hartknochas pagrindžia savo pastebėjimais15.
   citata_rodoma: "Žiūrėk II lentelės 4-ąjį piešinį.\nElnias (Elnis)\nElnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis\npašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą\nHartknochas pagrindžia savo pastebėjimais15."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -676,12 +564,12 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    niau nuteiktų skaitytoją ir taiklesniais išvedžiojimais atskleis­
-    tų istorinę tiesą, užkastą amžių užmarštyje. Pagaliau, turėda­
-    mas daugiau galimybių, galėtų išnagrinėti mums neprieina­
-    mus šaltinius. Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
-    pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
-    dingos mūsų tėvynės istorijai.
+    Tai liudija Strijkovskis. Ant
+    Kukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­
+    kų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­
+    begyvuojantis kaimo žmonių pasakojimuose. Hartknochas,
+    remdamasis savo tyrimais, pasakoja, kad ant to paties kalno
+    nuo seno degusi Kerniaus užkurta Amžinoji ugnis .
   citata_rodoma: "Tai liudija Strijkovskis. Ant\nKukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­\nkų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­\nbegyvuojantis kaimo žmonių pasakojimuose. Hartknochas,\nremdamasis savo tyrimais, pasakoja, kad ant to paties kalno\nnuo seno degusi Kerniaus užkurta Amžinoji ugnis ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -735,19 +623,15 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kunigai liepė prie medžio prikalti kryžių, ka­
-    dangi seniau melsdavosi tiesiog po blinde, kuriai priskirdavo
-    kažkokį šventumą; melsdavosi prašydamos laimės ir palikuo­
-    nių gausumo. Toliau klausinėjant, pavyko išgirsti pasakojimą
-    apie šventąją blindę. Viena moteris, besivadinanti Blinde (Blin­
-    da), turėjo ypatingą dovaną: galėjo paleisti į pasaulį aibe pali­
-    kuonių neapsakomai lengvai, be to, ji gimdydavo ne tik įgimtu
-    būdu, bet galėdavo pagimdyti vaikų iš rankų, kojų, galvos ir iš
-    kitų kūno dalių. Žemė, vaisingiausioj i iš motinų, ėmė pavydė­
-    ti jai tokio vaisingumo, todėl vieną kartą, kai Blindé ėjo per
-    gramzdžią pievą, jos kojos įklimpo, ir žemė taip suspaudė pė­
-    das, kad nebegalėjo ji pajudėti iš vietos ir pavirto medžiu -
-    blinde.
+    Henenbergeris tikina, kad dar jo laikais,
+    tai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­
+    nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
+    si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
+    meldžių papratimu slapčia ateidavo prie jos m elstis18.
+    PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­
+    tąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-
+    go valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo
+    horizontaliai, o paskui suaugdavo užsiriesdamos į viršų.
   citata_rodoma: "Henenbergeris tikina, kad dar jo laikais,\ntai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­\nnės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­\nsi didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­\nmeldžių papratimu slapčia ateidavo prie jos m elstis18.\nPŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­\ntąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-\ngo valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo\nhorizontaliai, o paskui suaugdavo užsiriesdamos į viršų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -784,16 +668,13 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Priešais patį ąžuolą buvo trys arkos, kurių
-    nišose stovėjo trys vyriausieji dievai - viduryje Perkūnas, deši­
-    nėje Poklius, kairėje pusėje Atrimpas; kiti dievai, kaip antai
-    Viršaitis, Sneibratas, Kurkas ir Žemininkas, turėjo savo sta­
-    bus vidinių sienų kampinėse nišose. Už ąžuolo buvo nedideli
-    rūsiai arba slėptuvės šventiesiems šliužams. Priešais ąžuolą,
-    angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos
-    aukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­
-    rioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla
-    buvo Adytum.
+    Žymiausia šventykla buvo Romovėje, ku­
+    rios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos
+    vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
+    reiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­
+    sijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-
+    leidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­
+    tas ne visai tiksliai.
   citata_rodoma: "Žymiausia šventykla buvo Romovėje, ku­\nrios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos\nvyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur\nreiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­\nsijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-\nleidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­\ntas ne visai tiksliai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -828,7 +709,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   pagrindzia:
     - t-008
     - t-012
-    - t-016
 
 - id: c-171325
   autorius: "Teodoras Narbutas"
@@ -858,44 +738,36 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    sose antikinėse tautose jų pašaukimas buvo labai kilnus ir ger­
-    biamas; mat jie, pranašesni savo protu ir turintys nuostabią
-    dovaną kurti eiles, pranokdavo kitus žmones, pateikdavo įsta­
-    tymus, kūrė mokslą ir skatindavo karo žygius arba puoselėda­
-    vo pilietines dorybes, tramdydavo nusikaltimus ir diegdavo ap-
-    švietą kerinčia poezijos ir muzikos meno galia. Lietuvių bar­
-    dai grojo styginiu instrumentu, vadintu Citera , kurio garsai
-    būdavo išgaunami sukant rankeną, panašią į veleną; kaip liu­
-    dija liaudies pasakojimai, dar esama senų žmonių, kurie yra
-    mate tokį instrumentą arba girdėję pasakojant apie jį. Padavi­
-    muose dar prisimenami lietuvių liaudies dainų dainuotojai,
-    vaikščioję po kaimus su tokiais instrumentais, panašūs į elge­
-    tas, tačiau, pasak tų pasakojimų, tai buvę seniai.
+    Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir
+    susijuosdavo balta drobine skara.
+    Signotai (Sigonottaį
+    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
+    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
+    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
+    Gardaičio tarnai, todėl jų būdavo pajūrio srityse.
   citata_rodoma: "Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir\nsusijuosdavo balta drobine skara.\nSignotai (Sigonottaį\nTai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos\nsenovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką\narba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
 - id: c-173511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvių bar­
-    dai grojo styginiu instrumentu, vadintu Citera , kurio garsai
-    būdavo išgaunami sukant rankeną, panašią į veleną; kaip liu­
-    dija liaudies pasakojimai, dar esama senų žmonių, kurie yra
-    mate tokį instrumentą arba girdėję pasakojant apie jį. Padavi­
-    muose dar prisimenami lietuvių liaudies dainų dainuotojai,
-    vaikščioję po kaimus su tokiais instrumentais, panašūs į elge­
-    tas, tačiau, pasak tų pasakojimų, tai buvę seniai. Nykstant ir
-    išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­
-    ko iki paprastų dainių lygio; jų klausydavosi pasilinksminimui
-    ir pramogai. O jų sugebėjimai ir išmonė, tamsių žmonių aki­
-    mis, viršijantys kitų sugebėjimus, praradus anksčiau turėtą pa­
-    garbą, pavertė juos kerėtojais.
+    Iš šventojo
+    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
+    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
+    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
+    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-
+    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
+    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
+    kai, gyvenę bendruomenėje su tam tikromis teisėmis. Tuos tei­
+    ginius patvirtina kitų senovės istorikų tyrimai.
   citata_rodoma: "Iš šventojo\nAdalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­\nja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­\ntėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­\nmeldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-\nknochas po ilgo nereikšmingo svarstymo šia tema pataiko į\nankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­\nkai, gyvenę bendruomenėje su tam tikromis teisėmis. Tuos tei­\nginius patvirtina kitų senovės istorikų tyrimai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -910,34 +782,30 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Degintą degtinę su
-    medumi žmonės lenkiškai vadina krupniku (Knipniczek); tas
-    slaviškas pavadinimas tikriausiai kilęs iš to lietuviško gėrimo.
-    Aukos
-    Visų tautų aukos buvo kažkokios vienodos - rėmėsi pir­
-    mykščio pasaulio papročiu, kurio Nojus laikėsi po Tvano. Šiuo
-    požiūriu lietuviai niekuo nesiskyrė nuo graikų ir romėnų, ne­
-    bent tik buvo kai kurių skirtumų, kilusių dėl vietos aplinkybių
-    ir nevienodo apšvietos laipsnio,.
+    Londono A l yra tiesiog ištobulintas šitas
+    alus. Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
+    ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
+    rinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo
+    daryti alų iki atsikraustant kryžiuočiams.
   citata_rodoma: "Londono A l yra tiesiog ištobulintas šitas\nalus. Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­\nligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­\nrinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo\ndaryti alų iki atsikraustant kryžiuočiams."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
 - id: c-173513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Priesaikos su užkeikimu taip pat dar
-    tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
-    (Kad až skradziuprapoltu). Senovės prūsų papročiu prisiekian­
-    tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija
-    Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
-    valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
-    saiką labiau nei pirštų padėjimas ant Evangelijos.
+    Kad nuramintume žmoniškumo gynėjus, turime
+    16
+    Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
+    // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
+    1232. -  Nr. 7.
   citata_rodoma: "Kad nuramintume žmoniškumo gynėjus, turime\n16\nĮrodymui Hartknochas pateikia: Litterae Gregorii Papae IX\n// Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum\n1232. -  Nr. 7."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -945,7 +813,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
     - t-017
 
 - id: c-173514
@@ -976,14 +843,11 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    būti tariama Mergo; Henenbergerio Ronis yra Romais - visiš­
-    kai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­
-    tuvoje daugelyje vietovardžių - Balčiai (Bolcie), Baltininkai
-    (Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas
-    visiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,
-    Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
-    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
-    tuva kilties ir vienos genties broliai?
+    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
+    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
+    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
+    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
+    argumentų, vien kaip savo paties abejonę.
   citata_rodoma: "Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­\nda apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­\nnuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra\npaimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas\nargumentų, vien kaip savo paties abejonę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -998,12 +862,10 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
-    medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,
-    tai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­
-    nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
-    si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
-    meldžių papratimu slapčia ateidavo prie jos m elstis18.
+    Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
+    Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­
+    12 Treteris*, Henenbergeris, Šiucas, Hartknochas.
+    13 Opisanie starožytnej Polski.
   citata_rodoma: "Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už\nBaublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­\n12 Treteris*, Henenbergeris, Šiucas, Hartknochas.\n13 Opisanie starožytnej Polski."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

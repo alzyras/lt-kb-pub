@@ -69,10 +69,12 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   pagrindžia:
     - c-172068
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172067
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Slynksnis-Perlevenu (Slynxnis-Perlewenu)
     Bendras namų dievaitis, namų ir žemdirbio nuosavybės glo­
@@ -82,26 +84,6 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
     tėvas kazokų atamano, kuris vadinosiPiotrKunasowicz Sahaidaczny.
     Strijkovskis tvirtina, kad Kūnas yra tas pats, kaip Kononas. Lietuvių
     kalba Kūnas reiškia kūną, mėsą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172067
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Mongolai labai garbino namų slenksčius: tas, kuris praeidamas
-    paliesdavo juos koja, būdavo baudžiamas. Už tokį neatsargumą jų krašte
-    apaštalavę krikščionių vienuoliai būdavo mušami lazdomis ir net gra­
-    sinama mirtimi. Grafas Jonas Potockis tokį garbinimą pastebėjo ir pas
-    kalmukus (jie turėtų būti mongolų palikuonys), bet vis dėlto ne tokį
-    ryškų, kaip tat matome buvus pas senovės lietuvius (Potocki J. Podrož
-    doAstrahanu // Dziennik Wilenski.
   citata_rodoma: "Slynksnis-Perlevenu (Slynxnis-Perlewenu)\nBendras namų dievaitis, namų ir žemdirbio nuosavybės glo­\nbėjas. 2\n2\nUkrainos slavai turėjo krikšto vardą Kūnas; tokį vardą turėjo\ntėvas kazokų atamano, kuris vadinosiPiotrKunasowicz Sahaidaczny.\nStrijkovskis tvirtina, kad Kūnas yra tas pats, kaip Kononas. Lietuvių\nkalba Kūnas reiškia kūną, mėsą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

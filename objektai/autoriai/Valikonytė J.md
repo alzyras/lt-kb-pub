@@ -7,15 +7,15 @@ datos:
   - '1977 m.'
 date_start: '1977'
 date_end: ''
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,38 +35,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad valikonytė J.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Valikonytė parašė straipsnį apie dvigubą išpirką už moterį Lietuvos Didžiojoje Kunigaikštystėje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Valikonytė  J. Dviguba išpirka už moterį Lietuvos Didžiojoje Kunigaikštystėje XVI
-    amžiaus pirmojoje pusėje — Istorija, V., 1977, 17, sąs. 2, p. 51—64.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61441
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Ловмяньский Г. Руссы и руги, — ВИ, 1971, № 9, с. 43—52.
-    Ловмяньский Г. Роль рыцарских орденов в Прибалтике (XIII—XIV вв.). — Польша
-    и Русь, М., 1974, с.
-  citata_rodoma: "Valikonytė  J. Dviguba išpirka už moterį Lietuvos Didžiojoje Kunigaikštystėje XVI\namžiaus pirmojoje pusėje — Istorija, V., 1977, 17, sąs. 2, p. 51—64."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-60809"></a>
@@ -84,3 +52,21 @@ Dusburgietis teigia, kad valikonytė J.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61441
+
+## Citatos
+
+- id: c-61441
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Valikonytė  J. Dviguba išpirka už moterį Lietuvos Didžiojoje Kunigaikštystėje XVI
+    amžiaus pirmojoje pusėje — Istorija, V., 1977, 17, sąs. 2, p. 51—64.
+  citata_rodoma: "Valikonytė  J. Dviguba išpirka už moterį Lietuvos Didžiojoje Kunigaikštystėje XVI\namžiaus pirmojoje pusėje — Istorija, V., 1977, 17, sąs. 2, p. 51—64."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

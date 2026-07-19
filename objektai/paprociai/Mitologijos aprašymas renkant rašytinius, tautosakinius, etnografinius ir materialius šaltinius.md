@@ -119,6 +119,31 @@ Nenurodyta.
   pagrindžia:
     - c-170785
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Narbutas pratarmėje rašo mitologijos tomui medžiagą sėmęsis iš rašytinių paminklų ir per trisdešimt metų sukaupęs papročių, prietarų, padavimų bei dainų rinkinį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
+    buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­
+    dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­
+    praleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­
+    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
+    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
+    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
+    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
+    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
+    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
+    logija yra raktas seniausiajai tautų istorijai pažinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+    - t-004
+
 ## Citatos
 
 - id: c-170784
@@ -170,7 +195,7 @@ Nenurodyta.
     mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
     surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
     ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
-    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    ybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
     privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
     logija yra raktas seniausiajai tautų istorijai pažinti.
   citata_rodoma: "Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek\nbuvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­\ndėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­\npraleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­\nties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė\nlobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,\nmįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,\nsurinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų\nir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­\nybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį\nprivalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­\nlogija yra raktas seniausiajai tautų istorijai pažinti."

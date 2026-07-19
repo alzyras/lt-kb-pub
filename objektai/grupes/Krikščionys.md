@@ -376,16 +376,14 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Gediminas vis dėlto ne­
+    Teofrido
+    vienuolyno abatas Bernardas. Gediminas vis dėlto ne­
     norėjo nei krikščionybės priimti, nei sutarties sudaryti
     su krikščionimis, todėl visai nutraukė pradėtas dery­
     bas. Jo pasiuntinys Livonijoje išraiškingai prisipažino,
     kad valdovas esąs nusistatęs niekada neišsižadėti pro­
     tėvių tikėjimo ir nesudaryti sutarčių, reikalaujančių
-    keisti tikėjimą. Kad pasiuntinys sakė tiesą, parodė to­
-    lesni įvykiai: bemaž tuo pačiu metu abiem kryptimis
-    patraukusi į žygį lietuvių kariuomenė kuo žiauriausiai
-    siaubė krikščionių žemes.
+    keisti tikėjimą.
   citata_rodoma: "Teofrido\nvienuolyno abatas Bernardas. Gediminas vis dėlto ne­\nnorėjo nei krikščionybės priimti, nei sutarties sudaryti\nsu krikščionimis, todėl visai nutraukė pradėtas dery­\nbas. Jo pasiuntinys Livonijoje išraiškingai prisipažino,\nkad valdovas esąs nusistatęs niekada neišsižadėti pro­\ntėvių tikėjimo ir nesudaryti sutarčių, reikalaujančių\nkeisti tikėjimą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -400,23 +398,21 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
-    buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­
-    dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­
-    praleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­
-    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
-    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
-    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
-    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
-    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
-    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
-    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
-    logija yra raktas seniausiajai tautų istorijai pažinti.
-    Išminties vertintojas ir žmonių giminės bičiulis šiame vi­
-    suotinės mitologijos papildyme ras sau naują naudą: pamatys
-    šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
-    pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
-    lius.
+    Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
   citata_rodoma: "Bet jos principai visiškai\nnutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­\nnėmis; negalima net manyti, kad senovės graikų tikyba būtų\npatekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka\nmūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

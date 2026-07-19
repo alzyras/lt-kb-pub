@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)
 
 ## Santrauka
@@ -51,47 +52,6 @@ Nenurodyta
 ## Rezultatas
 
 Nenurodyta
-
-## Teiginiai
-
-<a id="claim-t-66803"></a>
-- t-001
-  teiginys: "1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: iki 1945 m.; įvykio data: 1945 m.; įvykio data: 1946 m.; įvykio data: 1947 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta, kad būtų išlaikyta citatoje nurodyta aplinkybė apie pirmuosius pokario rinkimus."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-66931
-
-<a id="claim-t-66804"></a>
-- t-002
-  teiginys: "Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1946 m.; įvykio data: 1947 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti teiginį su pokario okupacinės valdžios rinkimais ir užbaigti mintį."
-  pagrindžia:
-    - c-66930
 
 ## Citatos
 
@@ -115,12 +75,10 @@ Nenurodyta
   citata_rodoma: "centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-66931
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,5 +102,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

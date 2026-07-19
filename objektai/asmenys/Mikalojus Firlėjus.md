@@ -47,12 +47,10 @@ Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, 
   pagrindžia:
     - c-169510
 
-## Citatos
-
-- id: c-169510
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, bet dėl sunkių kelių nespėjo laiku su juo susijungti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     įsakymų, o šaukdami ir triukšmaudami, paliko stovyk­
     lą bei gurguoles ir pasileido sprukti per miškus ir pel­
@@ -69,6 +67,34 @@ Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, 
     vojų, nei turės vilčių sėkmingai baigti žygį, jeigu
     kariai, nuvargę po tokio ilgo kelio, imsią persekioti
     priešą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169510
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Ostrogiškio ir Kiškos
+    vedami kariai nioko­
+    ja
+    Maskvos
+    kuni­
+    gaikštystę
+    606
+
+    ## Puslapis 605
+
+    Apie tai sužinojęs, Kiška paprašė karalių pagalbos. Šis
+    įsakė Firlėjui kuo skubiausiai patraukti su lenkų al­
+    gininkais į pagalbą puolamam Kiškai. Jis uoliai ėmėsi
+    vykdyti šį uždavinį, tačiau sutrukdė sunkūs keliai, to­
+    dėl nespėjo laiku atvykti ir susijungti su Kiška.
   citata_rodoma: "Ostrogiškio ir Kiškos\nvedami kariai nioko­\nja\nMaskvos\nkuni­\ngaikštystę\n606\n\n## Puslapis 605\n\nApie tai sužinojęs, Kiška paprašė karalių pagalbos. Šis\nįsakė Firlėjui kuo skubiausiai patraukti su lenkų al­\ngininkais į pagalbą puolamam Kiškai. Jis uoliai ėmėsi\nvykdyti šį uždavinį, tačiau sutrukdė sunkūs keliai, to­\ndėl nespėjo laiku atvykti ir susijungti su Kiška."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

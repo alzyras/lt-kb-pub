@@ -8,15 +8,15 @@ datos:
   - '1620 m.'
 date_start: '1620'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigas
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,40 +71,24 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     - c-179173
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Konstantinas Sirvydas savo žodyne Aitvarą vadino Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec.'
+- c-002
+  santrauka: 'Konstantinas Sirvydas savo žodyne Vilijos upę lotyniškai vadino Vilia, o lietuviškai Nerimi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Dainos.
-    177
+    Dėl šių poeto Jakimavičiaus žodžių įgyjame naują objektą
+    mūsų deivių rinkiniui. Taip pat kunigas Sirvydas savo žodyne
+    Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris).
+    151
 
-    ## Puslapis 177
+    ## Puslapis 151
 
-    Aitvaras (Ajtwaros)
-    Vyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­
-    ris paprastai užgula miegančias moteris, tykoja jų už tvorų,
-    todėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.
-    Kunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai
-    Incubus, lenkiškai Latawiec.
+    Taigi dėl šių priežasčių išeitų dvejopai: arba upė buvo laikoma
+    deive, arba ir upės nimfa vadinosi tokiu pat vardu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Narbutas nurodo, kad kunigas Konstantinas Sirvydas Aušrą vadino Aurora.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Aušra (Aussra)
-    Ryto deivė.
-    Lasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­
-    das vadina ją Aurora.
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-75368
@@ -133,14 +117,17 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šie sakė, kad aukštieji dievai užsiundę tas
-    piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
-    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
-    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
-    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
-    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
-    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
-    rybė moka daryti stebuklus lengvatikių akyse.
+    Dainos.
+    177
+
+    ## Puslapis 177
+
+    Aitvaras (Ajtwaros)
+    Vyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­
+    ris paprastai užgula miegančias moteris, tykoja jų už tvorų,
+    todėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.
+    Kunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai
+    Incubus, lenkiškai Latawiec.
   citata_rodoma: "Dainos.\n177\n\n## Puslapis 177\n\nAitvaras (Ajtwaros)\nVyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­\nris paprastai užgula miegančias moteris, tykoja jų už tvorų,\ntodėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.\nKunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai\nIncubus, lenkiškai Latawiec."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -153,15 +140,10 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rašytiniuose paminkluose niekur negalėjau rasti duo­
-    menų apie šią dievybę, tik J. F. R. kronikoje, kur pasakyta: „Se­
-    novės lietuviai ir jų giminaičiai kuršiai garbino Kruonį (Kro­
-    nis), arba Metą (Mehta), neva laiko arba laiko tarpsnių dei­
-    vę“. Lietuvių senąja tarme Meta (metais) vadinasi kiekvienas
-    laiko tarpas.
-    Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
-    ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
-    namų Kronie.
+    Aušra (Aussra)
+    Ryto deivė.
+    Lasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­
+    das vadina ją Aurora.
   citata_rodoma: "Aušra (Aussra)\nRyto deivė.\nLasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­\ndas vadina ją Aurora."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

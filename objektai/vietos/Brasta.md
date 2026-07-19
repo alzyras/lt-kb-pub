@@ -18,14 +18,14 @@ datos:
   - '2026 m.'
 date_start: '1237'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -754,6 +754,29 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190906|Konradas]]: Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru.
 - susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
+## Reikšmingi paminėjimai
+- c-020
+  santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Kunigaikštis Skirgai­
+    la taip pat davė priesaiką didžiajam kunigaikščiui
+    Vytautui, kaip jie buvo davę, ir didysis kunigaikštis
+    Vytautas nuvyko pas didįjį kunigaikštį Jogailą ir jo
+    kariuomenę. O abiejų šalių pulkai stovi, nieko nepra­
+    dedami.
+    Ir didysis kunigaikštis Jogaila ima prašyti Vytautą,
+    kad juos sutaikintų ir nebūtų kraujo praliejimo. Didy­
+    sis kunigaikštis Vytautas priėmė priesaiką iš didžiojo
+    kunigaikščio Jogailos savo tėvui, kad jo tėvas, didysis
+    kunigaikštis Kęstutis, po susitikimo vėl galės saugiai
+    grįžti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-24084
@@ -1208,18 +1231,12 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Kunigaikštis Skirgai­
-    la taip pat davė priesaiką didžiajam kunigaikščiui
-    Vytautui, kaip jie buvo davę, ir didysis kunigaikštis
-    Vytautas nuvyko pas didįjį kunigaikštį Jogailą ir jo
-    kariuomenę. O abiejų šalių pulkai stovi, nieko nepra­
-    dedami.
-    Ir didysis kunigaikštis Jogaila ima prašyti Vytautą,
-    kad juos sutaikintų ir nebūtų kraujo praliejimo. Didy­
-    sis kunigaikštis Vytautas priėmė priesaiką iš didžiojo
-    kunigaikščio Jogailos savo tėvui, kad jo tėvas, didysis
-    kunigaikštis Kęstutis, po susitikimo vėl galės saugiai
-    grįžti.
+    O kai prisiartina
+    didysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­
+    siduoda l2 . Ir didysis kunigaikštis Kęstutis atvyksta
+    į Gardiną pas savo sūnų l3 , o savo žmoną pasiunčia
+    į Brastą, pasikliaudamas savo žentu Jonušu u. Mazovi­
+    jos kunigaikščiu.
   citata_rodoma: "O kai prisiartina \ndidysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­\nsiduoda l2 . Ir didysis kunigaikštis Kęstutis atvyksta \nį Gardiną pas savo sūnų l3 , o savo žmoną pasiunčia \nį Brastą, pasikliaudamas savo žentu Jonušu u. Mazovi­\njos kunigaikščiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

@@ -26,45 +26,6 @@ media_all_json: |-
 
 Moralius Narbuto išnašoje nurodomas prie aiškinimo apie slavų žodį, reiškusį iš beržo sulos pagamintą giros rūgštį.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Moralius Narbuto išnašoje nurodomas prie aiškinimo apie slavų žodį, reiškusį iš beržo sulos pagamintą giros rūgštį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai yra šiuolaikinis slavų žo­
-    dis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­
-    1 Moralius. Car m. Lib. II, 20 et uit. V. 18, 19.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-175321
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Ne­
-    storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
-    vės, laikė ją apgulę visą vasarą, bet, negalėdami jos
-    įveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-
-    ku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje.
-  citata_rodoma: "Tai yra šiuolaikinis slavų žo­\ndis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­\n1 Moralius. Car m. Lib. II, 20 et uit. V. 18, 19."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-192533"></a>
@@ -88,3 +49,21 @@ Moralius Narbuto išnašoje nurodomas prie aiškinimo apie slavų žodį, reišk
     - c-175321
 - susijęs iš [[objektai/paprociai/Budinų upės pašventinimas indų papročiu.md#claim-t-193030|Budinų upės pašventinimas indų papročiu]]: Narbutas budinams priskiria paprotį naujame krašte pašventinti upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu.
 - susijęs iš Oskolas: Teodoro Narbuto aiškinimu, budinai naujame krašte indų papročiu pašventino upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu.
+## Citatos
+
+- id: c-175321
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Tai yra šiuolaikinis slavų žo­
+    dis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­
+    1 Moralius. Car m. Lib. II, 20 et uit. V. 18, 19.
+  citata_rodoma: "Tai yra šiuolaikinis slavų žo­\ndis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­\n1 Moralius. Car m. Lib. II, 20 et uit. V. 18, 19."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

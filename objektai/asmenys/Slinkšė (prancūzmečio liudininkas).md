@@ -75,18 +75,7 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
   puslapiai: "p. 128 (PDF 126)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 128 (PDF 126)."
   citata_originali: |
-    Minėjant gentis, labai pritiktų seniausias giminietis,
-    kad jį trečios
-    kartos vaikai bent pamatytų.
-    Taigi nusiųsta
-    į
-    Gudžiūnus
-    pasto­
-    tė „strujui“ parvežti, jei ne poteriauti, tai bent į puotą. Žinojo visi,
-    kad Slinkšė per prancūzmetį buvo jau vedęs vyras,
-    turėjo daugiau
-    kaip trisdešimt metų, galėjo šnekėti apie tai, ką pats matė, ne ką
-    iš kitų yra girdėjęs.
+    Žinojo visi, kad Slinkšė per prancūzmetį buvo jau vedęs vyras, turėjo daugiau kaip trisdešimt metų, galėjo šnekėti apie tai, ką pats matė.
   citata_rodoma: "Žinojo visi, kad Slinkšė per prancūzmetį buvo jau vedęs vyras, turėjo daugiau kaip trisdešimt metų, galėjo šnekėti apie tai, ką pats matė."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"

@@ -114,18 +114,14 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
+    Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje
+    prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių
+    pastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t. y.
+    vienijanti ne tik lietuvių, bet ir kitų baltų žemes, priglaudžianti jau užgrobtų baltų žemių
+    gyventojus) Lietuvos valstybė, kaip šį pažangų procesą kraujyje skandino užsienio feodalų
+    agresija. Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
     yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
-    „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
-    (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
-    žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
-    Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
-    1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
-    ir prūsų kraštą. Lietuvos ir Jotvingių jėgos puolė vieną iš minėtos antiprūsiškosios
-    koalicijos dalyvių — Lenkiją25. Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
-    puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų
-    bendradarbiavimas26.
   citata_rodoma: "Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje\nprieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių\npastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t. y.\nvienijanti ne tik lietuvių, bet ir kitų baltų žemes, priglaudžianti jau užgrobtų baltų žemių\ngyventojus) Lietuvos valstybė, kaip šį pažangų procesą kraujyje skandino užsienio feodalų\nagresija. Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių\nir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai\nyra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -60,12 +60,10 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
   pagrindžia:
     - c-169566
 
-## Citatos
-
-- id: c-169566
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gal dėl kitos priežasties, o gal vildamasis atvers­
     ti į krikščionių tikėjimą tėvą karalių bei savo tautą,
@@ -85,6 +83,33 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
     kad nenurimtų neatkeršijęs Treniotai už tiek daug pik­
     tadarybių, kad tėvui Mindaugui paaukotų jo žudiko
     kraują.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-169566
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vaišvilkas mat, pasipiktinęs savo tėvo Min­
+    daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
+    rusus, kur kitados gyveno kaip įkaitas. Didžiai pasi­
+    keitus aplinkybėms, jo širdis ten palinko niekinti visa,
+    kas žemiška, todėl, išpažinęs griežtesnių regulų gyve­
+    nimą pagal Grigorijaus iš Polonos mokslą, gyveno Ga-
+    liče. Gal dėl kitos priežasties, o gal vildamasis atvers­
+    ti į krikščionių tikėjimą tėvą karalių bei savo tautą,
+    iš ten jis vėl persikraustė į Lietuvą; netoli Naugardu­
+    ko Nemuno pakrantėje pasistatęs vienuolyną, ten ėmė
+    su daugeliu tokio pat gyvenimo bendrininkų dievo­
+    baimingai ir pastoviai gyventi, kartkartėmis, tiesa,
+    kurstomas didikų.
   citata_rodoma: "Vaišvilkas mat, pasipiktinęs savo tėvo Min­\ndaugo atsimetimu nuo krikščionių tikybos, pabėgo pas\nrusus, kur kitados gyveno kaip įkaitas. Didžiai pasi­\nkeitus aplinkybėms, jo širdis ten palinko niekinti visa,\nkas žemiška, todėl, išpažinęs griežtesnių regulų gyve­\nnimą pagal Grigorijaus iš Polonos mokslą, gyveno Ga-\nliče. Gal dėl kitos priežasties, o gal vildamasis atvers­\nti į krikščionių tikėjimą tėvą karalių bei savo tautą,\niš ten jis vėl persikraustė į Lietuvą; netoli Naugardu­\nko Nemuno pakrantėje pasistatęs vienuolyną, ten ėmė\nsu daugeliu tokio pat gyvenimo bendrininkų dievo­\nbaimingai ir pastoviai gyventi, kartkartėmis, tiesa,\nkurstomas didikų."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"

@@ -86,6 +86,39 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   pagrindžia:
     - c-169385
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Kazimierui buvo pasiūlyta užimti brolio Vladislovo karaliaus sostą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Zbignevui, Kro­
+    kuvos vyskupui, pakišus mintį, visi, rodydami nepa­
+    prastą sutarimą, nutarė karaliaus sostą pasiūlyti Kazi­
+    mierui ir išsiuntė žygūnus, turėjusius pakviesti valdovą
+    užimti brolio vietos, o Lietuvos luomus — atvykti į
+    4 8 2
+
+    Piotrkovą, kur bus svarstomi bendros valstybės reika­
+    lai. Kazimieras neketino nei atvirai žygūnų pasiūlymo
+    atmesti, nenorėdamas užkirs-
+    N e sa k o , ar priim a pa-
+    ti sau kelio į sostą, nei su
+    siū lym ą , ar a tm e ta
+    džiaugsmu jį tučtuojau pri­
+    imti ne dėl to, kad šitaip de­
+    rėjo elgtis iš pagarbos broliui, jeigu šis kartais ir būtų
+    gyvas, o todėl, kad nežinojo, ką, sutikus tapti karaliu­
+    mi, darys lietuviai, būtent, ar, jam išvykus į Lenkiją,
+    nepradės galvoti apie kitą valdovą. Štai todėl, pareiš­
+    kęs gana dviprasmišką padėką, pasiuntiniams nieko ai­
+    škiai neatsakė, bet pažadėjo Piotrkovo seime pranešti
+    valstybei, koks esąs jo galutinis sprendimas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169382
@@ -158,10 +191,12 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
     užimti brolio vietos, o Lietuvos luomus — atvykti į
     4 8 2
 
+    ## Puslapis 481
+
     Piotrkovą, kur bus svarstomi bendros valstybės reika­
     lai. Kazimieras neketino nei atvirai žygūnų pasiūlymo
     atmesti, nenorėdamas užkirs-
-    N e sa k o , ar priim a pa-
+    N e sa k o , ar priim a  pa-
     ti sau kelio į sostą, nei su
     siū lym ą , ar a tm e ta
     džiaugsmu jį tučtuojau pri­

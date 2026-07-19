@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime
 
 ## Santrauka

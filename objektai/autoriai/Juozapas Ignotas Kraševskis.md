@@ -7,15 +7,15 @@ datos:
   - '1835 m.'
 date_start: '1835'
 date_end: ''
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - autorius
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -74,10 +74,12 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   pagrindžia:
     - c-179120
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Petersburski“ ir priklausė Juozapui Ignotui Kraševskiui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-173181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai buvo dvi didelės recenzijos: pirmoji iš­
     spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
@@ -86,26 +88,6 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
     plunksnai.
     Bene pati reikšmingiausia, ypač didelės apimties (25 pus­
     lapių) buvo anoniminė 1835 metų recenzija18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173181
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Jau vien
-    dėl šios priežasties jo darbas tapo reikšminga medžiaga, kad
-    kada nors būtų parašyta tikra (pabr. mano - R. G.) Lietuvos
-    istorija“20. Recenzento nuomone, T. Narbuto „Lietuvių mito­
-    18 Dzieje starožytne narodu Litewskiego przez Teodora Narbut-
-    ta. - Tom I: Mitologija Litewska, z ošmią rycinami. - Wilno, nakia-
-    dem i drukiem A. Marcinowskiego.
   citata_rodoma: "Tai buvo dvi didelės recenzijos: pirmoji iš­\nspausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­\nroji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­\nmiška, o antroji priklausė Juozapo Ignoto Kraševskio\nplunksnai.\nBene pati reikšmingiausia, ypač didelės apimties (25 pus­\nlapių) buvo anoniminė 1835 metų recenzija18."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

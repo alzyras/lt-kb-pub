@@ -188,14 +188,14 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 <a id="claim-t-194864"></a>
 - t-011
   teiginys: "Sis autorius, kruopščiausiai rin kęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės, vadovaudamas romėnų kariuomenei, be to, buvo visiškai atsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos susipažinti su to meto mokslininkų požiūriais ¡bei."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-175246
+    - c-177260
 
 <a id="claim-t-197515"></a>
 - t-012
@@ -399,81 +399,110 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - susijęs iš [[objektai/posakiai/Panašu į tiesą, kad dakai su getais, prisimindami tiek iš romėnų patirtų pralaimėjimų, pasikvietė pas save gotus, pasiryžę veikiau jungtis su jais negu būti svetimų valdomi.md#claim-t-192117|Panašu į tiesą, kad dakai su getais, prisimindami tiek iš romėnų patirtų pralaimėjimų, pasikvietė pas save gotus, pasiryžę veikiau jungtis su jais negu būti svetimų valdomi]]: Narbutas nurodo Naruševičiaus aiškinimą, kad dakai ir getai po romėnų pralaimėjimų pasikvietė gotus, bet pats su juo nesutinka.
 - susijęs iš [[objektai/asmenys/Tacitas.md#claim-t-190978|Tacitas]]: Narbutas rašo, kad Tacitas jazigus laikė ne ramiais žemdirbiais, o karinga gentimi, turėjusia rinktinę raitąją armiją.
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Narbuto vertinimu, graikai ir romėnai religinėmis paslaptimis tik pamėgdžiojo egiptiečius, pranokusius visas antikines tautas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Antikoje beveik kiekviena tauta turėjo
+    savo slaptas religines šventes, maldas, aukas; kuo labiau iš­
+    prususi kuri nors tauta buvo, tuo painesnis, tamsesnis, deta­
+    lesnis darydavosi tas stabmeldiškasis religinis kultas. Egiptie­
+    čiai savo paslaptimis pranoksta visas antikines tautas; atrodo,
+    šiuo požiūriu graikai ir romėnai tik pamėgdžioja tą nuostabią
+    tautą. Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
+    Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­
+    196
+
+    ## Puslapis 196
+
+    gą tikslą: taisyti papročius, rodyti kelią j tikrąją dorovę, į skaistų
+    dievybės garbinimą, į neišvengiamą bausmę arba atlyginimą
+    busimajame gyvenime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-005
   santrauka: 'Narbutas nurodė, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Pasak Plutarcho, pas atėniečius prijaukinti žal­
-    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
-    vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
-    nėms apsireikšdavo žalčiu.
-    Per daug ilgai reikėtų vardyti visas smulkmenas, bendras
-    lietuviams ir Antikos tautoms, iš tos pačios srities.
+    Pasak Sten-
+    derio, atseit tai buvusi namų senė, sergėjanti naminius žalčius
+    ir rupūžes; ji aprėkdavusi kiekvieną įeinantį, kad nesumindy-
+    tų pieno karalienės.
+    J. F. R. kronika mini tokią rupūžę, užaugusią nepaprasto
+    dydžio, išmaitintą pienu; ji išdarinėjusi neapsakomus dalykus.
+    Ji buvo vieno lietuvių kaimiečio, gyvenusio Neringoje, arba
+    Kuršių nerijoje, namų dievaitė XVI amžiaus pirmojoje pusėje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-008
   santrauka: 'Narbutas lietuvių antspaudų naudojimą vietoj parašų lygino su romėnų praktika.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Užrašas virš akmenų galvų -  runomis'*.
-    Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
-    viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­
-    ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­
-    toj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­
-    9
-    Neseckis (Herbarz Polski.
+    Šis herbas, pavadintas Krunevičiaus vardu, ži­
+    nomas ir Neseckiui.
+    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
+    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
+    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
+    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
+    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
+    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
+    du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvam Voluinėje už nuopelnus kare su totoriais.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-009
   santrauka: 'Kartaginietis, nenorėdamas parodyti kelio paskui plaukusiam romėnų laivui, įviliojo jį į pavojingas vietas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Kai kartaginietis
-    pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
-    rodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats
-    prarado savo laivą ir pražudė savo seklį, tačiau buvo už
-    lai saviškių dosniai apdovanotas1.
-    175
-    Ilgo imperatoriaus Augusto valdymo metais geografi­
-    jos tyrinėjimas padarė geroką pažangą: šis Romos val­
-    dovas pats rašė traktatus apie geografiją, iš visur rinko
-    žinias, pasitelkė matematikus2. Taigi nėra abejonių, kad
+    Taigi nėra abejonių, kad
     valstybės valdžia turėjo tam tikrų tikslių žinių apie jūras
-    ir kraštus, esančius į šiaurę nuo Elbės.
+    ir kraštus, esančius į šiaurę nuo Elbės. Tuo tarpu moksli­
+    ninkams šios žinios veikiausiai buvo neprieinamos. Ant­
+    rajame krikščioniškosios eros amžiuje Dionyzas iš Cha-
+    rakso dar nemokėjo deramai pažymėti Aldesko ir Panti-
+    kapo upių tėkmės. Jis sakė, kad jų versmės nežinomos, gal
+    ištekančios iš Ritėjų kalnų, be to, jis teigė, kad antra
+    šiauresnė už pirmą, o jų vandenys susisiekia su Baltijos
+    jūra. į šiaurę Europa yra susiaurėjusi. Šie pasakiški, t. y.
+    Rifėjų, kalnai skyrė į rytus tekančius Volgos, Dono, Dnep-
+    ro vandens baseinus nuo Dauguvos, Nemuno, Vyslos ir
+    kitų upių, bėgančių į vakarus3.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-010
   santrauka: 'Sis autorius, kruopščiausiai rin kęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės, vadovaudamas romėnų kariuomenei, be to, buvo visiškai atsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos susipažinti su to meto mokslininkų požiūriais ¡bei.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    149
-
-    ## Puslapis 147
-
-    nes pas juos randamas1“. Sis autorius, kruopščiausiai rin­
-    kęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės,
-    vadovaudamas romėnų kariuomenei, be to, buvo visiškai
-    atsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos
-    susipažinti su to meto mokslininkų požiūriais ¡bei sufor­
-    muoti savo nuomonę; anot jo, tai yra nežinomo medžio
-    sakai.
-    151
-    Naujųjų laikų gamtos tyrinėtojai ligi šiol nesutarė dėl
-    gintaro prigimties ir kilmės.
+    Iš įvairių prielaidų įtikina­
+    miausia atrodytų ta, kad ši medžiaga sunkiasi iš jūros
+    dugne esančių uolų kaip gamtinė derva, kuri vėliau kietė­
+    ja vandenyje; tai įrodinėja įvairūs stebėjimai, kurių patei­
+    kimas užimtų pernelyg daug vietos. Bet visa tai paverčia
+    niekais vienas klausimas: iš kur patenka tie gintare ran­
+    dami daiktai ir vabzdžiai? Smėlio, akmenukų, vandens
+    lašų, samanų, lapų, eglės spyglių, musių, bičių, uodų,
+    įvairių kirmėlaičių jūroje pasitaiko labai retai. Kai kurie
+    vabzdžiai ramiai susitaikė su savo likimu, kiti iš baimės
+    mėgino gelbėtis ir, įbridę į klampią masę, taip ir sustin­
+    go, be to, pasitaiko klampaus skysčio užkluptų poravimosi
+    momentu vabzdžių.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -544,14 +573,12 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pasak Sten-
-    derio, atseit tai buvusi namų senė, sergėjanti naminius žalčius
-    ir rupūžes; ji aprėkdavusi kiekvieną įeinantį, kad nesumindy-
-    tų pieno karalienės.
-    J. F. R. kronika mini tokią rupūžę, užaugusią nepaprasto
-    dydžio, išmaitintą pienu; ji išdarinėjusi neapsakomus dalykus.
-    Ji buvo vieno lietuvių kaimiečio, gyvenusio Neringoje, arba
-    Kuršių nerijoje, namų dievaitė XVI amžiaus pirmojoje pusėje.
+    Pasak Plutarcho, pas atėniečius prijaukinti žal­
+    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
+    vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
+    nėms apsireikšdavo žalčiu.
+    Per daug ilgai reikėtų vardyti visas smulkmenas, bendras
+    lietuviams ir Antikos tautoms, iš tos pačios srities.
   citata_rodoma: "Pasak Plutarcho, pas atėniečius prijaukinti žal­\nčiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­\nvo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­\nnėms apsireikšdavo žalčiu.\nPer daug ilgai reikėtų vardyti visas smulkmenas, bendras\nlietuviams ir Antikos tautoms, iš tos pačios srities."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -606,16 +633,13 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šis herbas, pavadintas Krunevičiaus vardu, ži­
-    nomas ir Neseckiui.
-    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
-    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
-    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
-    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
-    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
-    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
-    du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
-    Podbužo dvam Voluinėje už nuopelnus kare su totoriais.
+    Užrašas virš akmenų galvų -  runomis'*.
+    Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
+    viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­
+    ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­
+    toj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­
+    9
+    Neseckis (Herbarz Polski.
   citata_rodoma: "Užrašas virš akmenų galvų -  runomis'*.\nLietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra\nviduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­\nni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­\ntoj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­\n9\nNeseckis (Herbarz Polski."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -628,19 +652,18 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taigi nėra abejonių, kad
+    Kai kartaginietis
+    pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
+    rodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats
+    prarado savo laivą ir pražudė savo seklį, tačiau buvo už
+    lai saviškių dosniai apdovanotas1.
+    175
+    Ilgo imperatoriaus Augusto valdymo metais geografi­
+    jos tyrinėjimas padarė geroką pažangą: šis Romos val­
+    dovas pats rašė traktatus apie geografiją, iš visur rinko
+    žinias, pasitelkė matematikus2. Taigi nėra abejonių, kad
     valstybės valdžia turėjo tam tikrų tikslių žinių apie jūras
-    ir kraštus, esančius į šiaurę nuo Elbės. Tuo tarpu moksli­
-    ninkams šios žinios veikiausiai buvo neprieinamos. Ant­
-    rajame krikščioniškosios eros amžiuje Dionyzas iš Cha-
-    rakso dar nemokėjo deramai pažymėti Aldesko ir Panti-
-    kapo upių tėkmės. Jis sakė, kad jų versmės nežinomos, gal
-    ištekančios iš Ritėjų kalnų, be to, jis teigė, kad antra
-    šiauresnė už pirmą, o jų vandenys susisiekia su Baltijos
-    jūra. į šiaurę Europa yra susiaurėjusi. Šie pasakiški, t. y.
-    Rifėjų, kalnai skyrė į rytus tekančius Volgos, Dono, Dnep-
-    ro vandens baseinus nuo Dauguvos, Nemuno, Vyslos ir
-    kitų upių, bėgančių į vakarus3.
+    ir kraštus, esančius į šiaurę nuo Elbės.
   citata_rodoma: "Kai kartaginietis\npamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­\nrodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats\nprarado savo laivą ir pražudė savo seklį, tačiau buvo už\nlai saviškių dosniai apdovanotas1.\n175\nIlgo imperatoriaus Augusto valdymo metais geografi­\njos tyrinėjimas padarė geroką pažangą: šis Romos val­\ndovas pats rašė traktatus apie geografiją, iš visur rinko\nžinias, pasitelkė matematikus2. Taigi nėra abejonių, kad\nvalstybės valdžia turėjo tam tikrų tikslių žinių apie jūras\nir kraštus, esančius į šiaurę nuo Elbės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -649,33 +672,35 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-011
 
 - id: c-177260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš įvairių prielaidų įtikina­
-    miausia atrodytų ta, kad ši medžiaga sunkiasi iš jūros
-    dugne esančių uolų kaip gamtinė derva, kuri vėliau kietė­
-    ja vandenyje; tai įrodinėja įvairūs stebėjimai, kurių patei­
-    kimas užimtų pernelyg daug vietos. Bet visa tai paverčia
-    niekais vienas klausimas: iš kur patenka tie gintare ran­
-    dami daiktai ir vabzdžiai? Smėlio, akmenukų, vandens
-    lašų, samanų, lapų, eglės spyglių, musių, bičių, uodų,
-    įvairių kirmėlaičių jūroje pasitaiko labai retai. Kai kurie
-    vabzdžiai ramiai susitaikė su savo likimu, kiti iš baimės
-    mėgino gelbėtis ir, įbridę į klampią masę, taip ir sustin­
-    go, be to, pasitaiko klampaus skysčio užkluptų poravimosi
-    momentu vabzdžių.
+    149
+
+    ## Puslapis 147
+
+    nes pas juos randamas1“. Sis autorius, kruopščiausiai rin­
+    kęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės,
+    vadovaudamas romėnų kariuomenei, be to, buvo visiškai
+    atsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos
+    susipažinti su to meto mokslininkų požiūriais ¡bei sufor­
+    muoti savo nuomonę; anot jo, tai yra nežinomo medžio
+    sakai.
+    151
+    Naujųjų laikų gamtos tyrinėtojai ligi šiol nesutarė dėl
+    gintaro prigimties ir kilmės.
   citata_rodoma: "149\n\n## Puslapis 147\n\nnes pas juos randamas1“. Sis autorius, kruopščiausiai rin­\nkęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės,\nvadovaudamas romėnų kariuomenei, be to, buvo visiškai\natsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos\nsusipažinti su to meto mokslininkų požiūriais ¡bei sufor­\nmuoti savo nuomonę; anot jo, tai yra nežinomo medžio\nsakai.\n151\nNaujųjų laikų gamtos tyrinėtojai ligi šiol nesutarė dėl\ngintaro prigimties ir kilmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
 - id: c-179226
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

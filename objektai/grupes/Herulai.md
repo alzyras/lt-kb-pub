@@ -12,15 +12,15 @@ datos:
   - '1565 m.'
 date_start: '1342'
 date_end: '1565'
+amziai:
+  - 'XIV'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - gentis
   - grupe
   - tauta
-amziai:
-  - 'XIV'
-  - 'XVI'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Roman_Empire_125.png/1920px-Roman_Empire_125.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ARoman_Empire_125.png'
@@ -394,6 +394,32 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - susijęs iš Daugava: Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš [[objektai/asmenys/Frederikas.md#claim-t-191203|Frederikas]]: Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiais pasitraukė pas herulus.
 ## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
+    buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­
+    dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­
+    praleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­
+    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
+    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
+    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
+    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
+    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
+    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
+    logija yra raktas seniausiajai tautų istorijai pažinti.
+    Išminties vertintojas ir žmonių giminės bičiulis šiame vi­
+    suotinės mitologijos papildyme ras sau naują naudą: pamatys
+    šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
+    pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
+    lius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-008
   santrauka: 'Narbutas aiškino, kad herulai kai kada pagreitindavo ligos palaužtų senelių mirtį jų pačių prašymu, o ne pagal religijos nuostatus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -414,6 +440,25 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     žįsta lietuvių nuo amžių paveldėtą dievobaimingumą gimdy­
     tojų, kraujo giminių ir visų nelaimingųjų atžvilgiu, kas žino
     neišdildomą jų bruožą gerbti žmogaus gyvybe.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-009
+  santrauka: 'Narbutas gotiškus lietuvių tautų elementus siejo ir su herulais, kurie, jo teigimu, ilgai lydėjo gotus Pietryčių Europoje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tačiau ar klaida
+    kokiame nors dalyke arba jo nesupratimas paneigia dalyko tik­
+    rumą? O gal dėl to nebuvo jokio krivio, kad Dusburgietis per­
+    dėjo jo valdžią? Mes jau anksčiau parodėme, kad kronikinin­
+    kas kaip reikiant nežinojo, koks buvo krivio laipsnis, rangas,
+    valdžios ribos. Jau mes mūsų istorijos tyrimais įrodėme, kad
+    paskutiniais stabmeldystės amžiais Romovių būta ne vienoje
+    vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie
+    vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų. Ar
+    dėl tos klaidos krivis visiškai nustoja egzistuoti?
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -443,6 +488,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 ## Citatos
 
 - id: c-82773
@@ -566,23 +612,21 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
-    buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­
-    dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­
-    praleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­
-    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
-    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
-    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
-    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
-    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
-    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
-    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
-    logija yra raktas seniausiajai tautų istorijai pažinti.
-    Išminties vertintojas ir žmonių giminės bičiulis šiame vi­
-    suotinės mitologijos papildyme ras sau naują naudą: pamatys
-    šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
-    pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
-    lius.
+    Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
   citata_rodoma: "Bet jos principai visiškai\nnutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­\nnėmis; negalima net manyti, kad senovės graikų tikyba būtų\npatekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka\nmūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -648,16 +692,14 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tačiau ar klaida
-    kokiame nors dalyke arba jo nesupratimas paneigia dalyko tik­
-    rumą? O gal dėl to nebuvo jokio krivio, kad Dusburgietis per­
-    dėjo jo valdžią? Mes jau anksčiau parodėme, kad kronikinin­
-    kas kaip reikiant nežinojo, koks buvo krivio laipsnis, rangas,
-    valdžios ribos. Jau mes mūsų istorijos tyrimais įrodėme, kad
-    paskutiniais stabmeldystės amžiais Romovių būta ne vienoje
-    vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie
-    vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų. Ar
-    dėl tos klaidos krivis visiškai nustoja egzistuoti?
+    3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai
+    radę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­
+    ką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais
+    iš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,
+    kurie šitiek laiko lydėjo gotus Pietryčių Europoje. Todėl lietuvių
+    genties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­
+    mą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba
+    svetimoje žemėje.
   citata_rodoma: "3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai\nradę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­\nką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais\niš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,\nkurie šitiek laiko lydėjo gotus Pietryčių Europoje. Todėl lietuvių\ngenties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­\nmą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba\nsvetimoje žemėje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -79,9 +79,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Kiekviena ragana turėjo savo medį, kurį globojo stengda masi padalyti viską, kad jis būtų sveikas ir augtų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-177211
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kiekviena ragana turėjo savo medį, kurį globojo stengda­
     masi padalyti viską, kad jis būtų sveikas ir augtų. Žmonėms,
@@ -90,33 +93,6 @@ Nenurodyta
     kai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­
     kų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti
     neišgydomomis ligomis. Taip anot lietuvių padavimų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-
-## Citatos
-
-- id: c-177211
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Toje vietoje jai bu­
-    vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
-    kutinių lietuvių stabmeldystės laikų. Duomenų apie tai mums
-    paliko Strijkovskis.
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną.
   citata_rodoma: "Kiekviena ragana turėjo savo medį, kurį globojo stengda­\nmasi padalyti viską, kad jis būtų sveikas ir augtų. Žmonėms,\nkurie jai tuo tikslu būtų padėję, ji galėjo suteikti tūkstantį pa­\nslaugų ir malonumų. Priešingai, tam, kuris norėjo savavališ­\nkai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­\nkų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti\nneišgydomomis ligomis. Taip anot lietuvių padavimų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

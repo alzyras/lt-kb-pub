@@ -55,15 +55,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-67116"></a>
-- t-004
-  teiginys: "Traukiant į karę žalčio pasirodymas kelyje buvo laikomas laimės ženklu."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10004
-
 <a id="claim-t-67117"></a>
 - t-003
   teiginys: "Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę."
@@ -103,7 +94,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-003
 
 - id: c-10005

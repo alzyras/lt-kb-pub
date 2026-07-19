@@ -80,28 +80,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   pagrindžia:
     - c-168262
 
-<a id="claim-t-184904"></a>
-- t-005
-  teiginys: "Ligos kamuojamas Živinbudas, išgirdęs apie pergalę ir pamatęs sūnų Kukovaitį, perdavė jam valdžią."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Živinbudas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Živinbudas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1221 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia ligą, sūnaus grįžimą ir valdžios perdavimą."
-  pagrindžia:
-    - c-168265
-
 <a id="claim-t-193415"></a>
 - t-006
   teiginys: "Živinbudas susirgo ir pasimirė, vyras, kuris pelnytai priskirtinas prie žymiausių Lietuvos didvyrių."
@@ -132,6 +110,73 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - susijęs iš [[objektai/asmenys/Kukovaitis.md#claim-t-186133|Kukovaitis]]: Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184591|Žemaičiai]]: Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.
 - susijęs iš [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.).md#claim-t-62862|Lietuvos sutartis su Volyne (1219 m.)]]: 1219 m. Živinbudo valdoma priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir siekiant ginti prūsų kraštą.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be to, buvo paskirti žyniai, kū­
+    renę amžinąją ugnį ąžuolinėmis malkomis; šias prie­
+    taringas apeigas jie išsaugojo ligi krikščionybės laikų.
+    Pasakoti apie tolesnę isto-
+    A p ie m e tų ir laikų
+    rijos eigą man neleidžia aki-
+    sk a ič ia v im u s
+    vaizdi klaida, kurią šiuo at­
+    veju primetė pirmieji lietu­
+    vių istorijos rašytojai ir kurios aš negaliu nutylėti. Mat
+    ši klaida ne tokia maža, kad jos visai nepastebėtų dė­
+    mesingo skaitytojo akis. Gilios tylos gaubiamas išti­
+    sas šimtmetis padaro istorinių įvykių grandinėje di­
+    džiulę spragą. Ją vis dėlto anie rašytojai nejučiomis
+    apėjo, nepaisydami nė to, kad šis tarpsnis atskyrė tėvą
+    nuo sūnų, o tiesioginį įpėdinį nuo jo protėvių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Živinbudas susirgo ir pasimirė, vyras, kuris pelnytai priskirtinas prie žymiausių Lietuvos didvyrių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Polocko rusai savo valstybės valdymą buvo
+    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
+    permainų priežastis buvo ta, kad per skitų karą buvo
+    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
+    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
+    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
+    savo ištižimą laisvės, kurią iš priešų malonės gavote.
+    Taigi verčiau sekite savo mokytojais graikais — ir jų
+    čių, kurie teistų kitus". Tad trisdešimčiai senelių liau­
+    dis ir atidavė valdžią valstybėje; žmonės buvo kvie­
+    čiami varinio varpo dūžiais j sueigas aikštėje, kur vie­
+    šai svarstė bendrame pasitarime svarbiausius reikalus.
+    Savo valdžią jie jau buvo primetę trisdešimčiai tūks­
+    tančių paprastų piliečių ir (žinia, žmogui niekada nėra
+    gana) net kaimynams mėgino kalaviju primesti savo
+    1219 m e ta i
+    M in gaila, N a u g a rd u ­
+    ko k u n ig a ik štis
+    gavo Michailas, arba Min­
+    gaila; jis, paskatintas pirm­
+    taką lydėjusios sėkmės, ge­
+    rokai išplėtė
+    lietuvių val­
+    das,
+    prijungdamas nemaža
+    P o lo ck o v a ls ty b ė s
+    sa n tv a rk a
+    tikybinėmis
+    apeigomis,
+    ir
+    valstybine santvarka.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-61109
@@ -162,22 +207,19 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Be to, buvo paskirti žyniai, kū­
-    renę amžinąją ugnį ąžuolinėmis malkomis; šias prie­
-    taringas apeigas jie išsaugojo ligi krikščionybės laikų.
-    Pasakoti apie tolesnę isto-
-    A p ie m e tų ir laikų
-    rijos eigą man neleidžia aki-
-    sk a ič ia v im u s
-    vaizdi klaida, kurią šiuo at­
-    veju primetė pirmieji lietu­
-    vių istorijos rašytojai ir kurios aš negaliu nutylėti. Mat
-    ši klaida ne tokia maža, kad jos visai nepastebėtų dė­
-    mesingo skaitytojo akis. Gilios tylos gaubiamas išti­
-    sas šimtmetis padaro istorinių įvykių grandinėje di­
-    džiulę spragą. Ją vis dėlto anie rašytojai nejučiomis
-    apėjo, nepaisydami nė to, kad šis tarpsnis atskyrė tėvą
-    nuo sūnų, o tiesioginį įpėdinį nuo jo protėvių.
+    Galbūt šitaip ir bū­
+    tų atsitikę, jeigu, jam mirus,
+    1089 m eta i
+    būtų prasidėjęs tarpuvaldis:
+    mat neturėjo jis sūnaus —
+    savo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs
+    jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš
+    Julijono Dausprungo palikuonių, pajėgų valdyti jauni­
+    kaitį, netrukus jam į žmonas atidavė vienturtę dukterį
+    Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai
+    pasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­
+    tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
+    Deltuvos palaidotas.
   citata_rodoma: "Galbūt šitaip ir bū­\ntų atsitikę, jeigu, jam mirus,\n1089 m eta i\nbūtų prasidėjęs tarpuvaldis:\nmat neturėjo jis sūnaus —\nsavo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs\njiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš\nJulijono Dausprungo palikuonių, pajėgų valdyti jauni­\nkaitį, netrukus jam į žmonas atidavė vienturtę dukterį\nPajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai\npasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­\ntas (kaip tais laikais derėjo) ir ant aukštos kalvos prie\nDeltuvos palaidotas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -227,48 +269,32 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   citata_rodoma: "Grėsminga tebuvo šiaurė, tačiau \ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai, \nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti \nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų, \nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į \nRusią. Karą prieš Skirmantą susimanė rengti Balakla- \njus, naujas Užvolgio skitų kunigaikštis, galimas daib-\ntas, norėdamas išdildyti pri- \nS k irm a n ta s su m u ša \nsiminimus apie pralaimėjimą,\nsk itu s \npatirtą prieš keletą metų;\nteisėtos priežasties, jis išleido pasiuntinius, turėjusius \npareikalauti iš Rusios duoklės."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-176137
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Polocko rusai savo valstybės valdymą buvo
-    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
-    permainų priežastis buvo ta, kad per skitų karą buvo
-    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
-    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
-    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
-    savo ištižimą laisvės, kurią iš priešų malonės gavote.
-    Taigi verčiau sekite savo mokytojais graikais — ir jų
-    čių, kurie teistų kitus". Tad trisdešimčiai senelių liau­
-    dis ir atidavė valdžią valstybėje; žmonės buvo kvie­
-    čiami varinio varpo dūžiais j sueigas aikštėje, kur vie­
-    šai svarstė bendrame pasitarime svarbiausius reikalus.
-    Savo valdžią jie jau buvo primetę trisdešimčiai tūks­
-    tančių paprastų piliečių ir (žinia, žmogui niekada nėra
-    gana) net kaimynams mėgino kalaviju primesti savo
-    1219 m e ta i
-    M in gaila, N a u g a rd u ­
-    ko k u n ig a ik štis
-    gavo Michailas, arba Min­
-    gaila; jis, paskatintas pirm­
-    taką lydėjusios sėkmės, ge­
-    rokai išplėtė
-    lietuvių val­
-    das,
-    prijungdamas nemaža
-    P o lo ck o v a ls ty b ė s
-    sa n tv a rk a
-    tikybinėmis
-    apeigomis,
-    ir
-    valstybine santvarka.
+    Atleidęs
+    pasiuntinius, įsakė juos klyst-
+    82
+
+    ## Puslapis 81
+
+    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
+    valdovui ne tik didesnę pagarbą bei palankumą, bet
+    ir pastovesnę ištikimybę. Tuo pat metu miręs Vykin­
+    tas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­
+    lį Erdvilą, tačiau šis, manydamas, jog vieno valdovo
+    per maža skirtingoms valstybėms, kaip per maža vie­
+    nos sielos į dvi dalis padalytam kūnui, be to, norėda­
+    mas atsiteisti už pagalbą, kurios neseniai sulaukė, per­
+    leido Živinbudui visas teises į Žemaitiją. Tačiau neilgai
+    trukus jis susirgo ir pasimirė, vyras, kuris pelnytai
+    priskirtinas prie žymiausių Lietuvos didvyrių.
   citata_rodoma: "Atleidęs\npasiuntinius, įsakė juos klyst-\n82\n\n## Puslapis 81\n\nitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių\nvaldovui ne tik didesnę pagarbą bei palankumą, bet\nir pastovesnę ištikimybę. Tuo pat metu miręs Vykin­\ntas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­\nlį Erdvilą, tačiau šis, manydamas, jog vieno valdovo\nper maža skirtingoms valstybėms, kaip per maža vie­\nnos sielos į dvi dalis padalytam kūnui, be to, norėda­\nmas atsiteisti už pagalbą, kurios neseniai sulaukė, per­\nleido Živinbudui visas teises į Žemaitiją. Tačiau neilgai\ntrukus jis susirgo ir pasimirė, vyras, kuris pelnytai\npriskirtinas prie žymiausių Lietuvos didvyrių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

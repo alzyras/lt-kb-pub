@@ -129,13 +129,10 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino
-    priklausomumą nuo joanitų141. Dusburgietis tendencingai aprašo ir daugelį kitų Ordinui
-    nepalankių tarptautinių santykių reiškinių, bažnytinių ginčų, Ordino narių gėdingus
-    poelgius demaskuojančių faktų. Nutyli lenkų feodalinės ekspansijos į prūsų žemes
-    bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
-    žemės dovanojimo charakterio, apimties ir t. t.142
-    Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas.
+    Čia Dusburgietis pateikia oficialią
+    Ordino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,
+    jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
+    kunigaikštis jau buvo miręs.
   citata_rodoma: "Čia Dusburgietis pateikia oficialią\nOrdino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,\njog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos\nkunigaikštis jau buvo miręs."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

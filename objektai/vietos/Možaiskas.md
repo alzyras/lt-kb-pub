@@ -9,13 +9,13 @@ datos:
   - '1479 m.'
 date_start: '1471'
 date_end: '1479'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -160,6 +160,72 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - susijęs iš Viazmos žemė: Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.
 - susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
 - susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Galop
+    Vasilijus per karaliaus pasiuntinį Bonfalą Dimitrovičių
+    taip surašė laišką, kaip visuomet daro maskvėnai, tai
+    yra saviškius išteisindamas, o visą bėdą suversdamas
+    karaliaus pasiuntiniams. Jis tvirtino, kad, rūpestingai
+    susipažinus su visu reikalu, ir jam, ir jo vaivadoms
+    bei patarėjams paaiškėjo, kad maskvėnai nieko nėra
+    skriaudę, bet patys buvę daug kartų skriaudžiami, jo
+    vaivados gynę nuskriaustųjų teises, tuo tarpu kara­
+    liaus atstovai nenorį jo nei suprasti, nei pripažinti.
+    Be to, paprašė karalių nutraukti visiems laikams nuo­
+    latinius ginčus ir atsiųsti įgaliotus legatus, kurie ga­
+    lop susitartų dėl taikos ir tikrų abiejų tautų sienų.
+    rim a s
+    su
+    P rū sijo s
+    siuntimą į Maskvą vėlesniam
+    atsiųsti legatus, ta pačia proga nusiskųsdamas dėl nau­
+    jų skriaudų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Vasilijus įsakė sulaikyti karaliaus pasiuntinius Možaiske, kai Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Reikėjo prikalbėti didikus, senatą ir ba­
+    jorus, kad kuo greičiausiai paskelbtų Žygimantą Augus­
+    tą Lietuvos didžiuoju kunigaikščiu. Tartasi šiais klausi­
+    mais uždaruose pasitarimuose, slaptai sukviečiant žmo­
+    nes, kad apie tai nesužinotų lenkai ir nepaverstų nie­
+    kais viso sumanymo. Kai valdovas tvarkė Vilniuje šiuos
+    reikalus, atvyko Maskvos kunigaikščio legatas, atsiųs­
+    tas labai įdomia dingstimi. Mat Vasilijus pasijuto įžeis­
+    tas, kai paaiškėjo, kad Jonas
+    Maskvos k u n ig a ik štis
+    Jesmanas, kilmingas ir suma-
+    įsiže id žia d ė l pasiu n -
+    nūs jaunikaitis, praėjusiais
+    tin io
+    ja u n o am žia u s
+    metais pasiųstas į Maskvą,
+    esąs labai jaunas: šitai su­
+    vokęs kaip savo atšiaurios didybės paniekinimą, jis
+    per pasiuntinį pareikalavo brandesnių metų vyrui
+    1528 m e ta i
+    D era m a si d ė l sū n au s
+    A u g u sto
+    išrin k im o
+    L ie tu v o s
+    d id žiu o ju
+    k u n ig a ik ščiu
+    6 5 7
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-02850
@@ -242,25 +308,15 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Galop
-    Vasilijus per karaliaus pasiuntinį Bonfalą Dimitrovičių
-    taip surašė laišką, kaip visuomet daro maskvėnai, tai
-    yra saviškius išteisindamas, o visą bėdą suversdamas
-    karaliaus pasiuntiniams. Jis tvirtino, kad, rūpestingai
-    susipažinus su visu reikalu, ir jam, ir jo vaivadoms
-    bei patarėjams paaiškėjo, kad maskvėnai nieko nėra
-    skriaudę, bet patys buvę daug kartų skriaudžiami, jo
-    vaivados gynę nuskriaustųjų teises, tuo tarpu kara­
-    liaus atstovai nenorį jo nei suprasti, nei pripažinti.
-    Be to, paprašė karalių nutraukti visiems laikams nuo­
-    latinius ginčus ir atsiųsti įgaliotus legatus, kurie ga­
-    lop susitartų dėl taikos ir tikrų abiejų tautų sienų.
-    rim a s
-    su
-    P rū sijo s
-    siuntimą į Maskvą vėlesniam
-    atsiųsti legatus, ta pačia proga nusiskųsdamas dėl nau­
-    jų skriaudų.
+    Suderinę su karaliumi savo planus,
+    popiežiaus, imperatoriaus bei Romos karaliaus pasiun­
+    tiniai pirmieji iškeliavo į Maskvos kunigaikštystę, kur
+    iš paskos turėjo leistis ir karaliaus legatai, turėję tol
+    laukti pasienyje, kol jiems būsią leista įžengti į Mask­
+    vos žemę. Pirmoji pasiuntinybė patraukė į Možaiską
+    tik tada, kai gavo žinią, jog karaliaus legatai Smo­
+    lenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
+    jųjų metų nepradėta kalbėtis dėl taikos.
   citata_rodoma: "Suderinę su karaliumi savo planus,\npopiežiaus, imperatoriaus bei Romos karaliaus pasiun­\ntiniai pirmieji iškeliavo į Maskvos kunigaikštystę, kur\niš paskos turėjo leistis ir karaliaus legatai, turėję tol\nlaukti pasienyje, kol jiems būsią leista įžengti į Mask­\nvos žemę. Pirmoji pasiuntinybė patraukė į Možaiską\ntik tada, kai gavo žinią, jog karaliaus legatai Smo­\nlenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­\njųjų metų nepradėta kalbėtis dėl taikos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -275,33 +331,15 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Reikėjo prikalbėti didikus, senatą ir ba­
-    jorus, kad kuo greičiausiai paskelbtų Žygimantą Augus­
-    tą Lietuvos didžiuoju kunigaikščiu. Tartasi šiais klausi­
-    mais uždaruose pasitarimuose, slaptai sukviečiant žmo­
-    nes, kad apie tai nesužinotų lenkai ir nepaverstų nie­
-    kais viso sumanymo. Kai valdovas tvarkė Vilniuje šiuos
-    reikalus, atvyko Maskvos kunigaikščio legatas, atsiųs­
-    tas labai įdomia dingstimi. Mat Vasilijus pasijuto įžeis­
-    tas, kai paaiškėjo, kad Jonas
-    Maskvos k u n ig a ik štis
-    Jesmanas, kilmingas ir suma-
-    įsiže id žia d ė l pasiu n -
-    nūs jaunikaitis, praėjusiais
-    tin io
-    ja u n o am žia u s
-    metais pasiųstas į Maskvą,
-    esąs labai jaunas: šitai su­
-    vokęs kaip savo atšiaurios didybės paniekinimą, jis
-    per pasiuntinį pareikalavo brandesnių metų vyrui
-    1528 m e ta i
-    D era m a si d ė l sū n au s
-    A u g u sto
-    išrin k im o
-    L ie tu v o s
-    d id žiu o ju
-    k u n ig a ik ščiu
-    6 5 7
+    Be to, sutarė teismų reikalus sutvarkyti iki
+    garsios Rusioje palaimintosios mergelės globėjos šven­
+    tės, sutikdamas, kad teismo posėdžiuose dalyvautų
+    Mackevičius. Karaliaus legatai jau keliavo namo, kai
+    Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai­
+    kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas
+    palydovas maskvėnas gavęs įsakymą grįžti į Maskvą.
+    Pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­
+    liaus pasiuntinius Možaiske.
   citata_rodoma: "Be to, sutarė teismų reikalus sutvarkyti iki\ngarsios Rusioje palaimintosios mergelės globėjos šven­\ntės, sutikdamas, kad teismo posėdžiuose dalyvautų\nMackevičius. Karaliaus legatai jau keliavo namo, kai\nMaskvą pasiekė žinia, jog valachų pasiuntiniai sulai­\nkyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas\npalydovas maskvėnas gavęs įsakymą grįžti į Maskvą.\nPritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­\nliaus pasiuntinius Možaiske."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

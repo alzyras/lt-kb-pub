@@ -121,31 +121,9 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
 - susijęs iš [[objektai/zodynas/globėjas.md#claim-t-185385|globėjas]]: Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarkant taikos ir karo reikalus.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199225|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Lietuvos metraštis Vasilijų įvardija šeštuoju Algirdo ir Julijonos Oljevnos sūnumi.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
-    nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio
-    dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu­
-    rėjo šešis sūnus1 7 . Vyriausias—Jogaila Vladislovas1 8 ;
-    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
-    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
-    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
-    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
-    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
-    nūs2 5 .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
-## Citatos
-
-- id: c-169339
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+- c-001
+  santrauka: 'Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Magistras, už didelius pinigus pasisam­
     dęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė
@@ -166,19 +144,14 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
     jie vargiai begalėjo išlaikyti rankose ginklą, galop ir
     tie padėjo galvas, atskubėjus iš Lenkijos bei Lietuvos
     karaliaus pulkams.
-  citata_rodoma: "Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­\nnislovo Daugirdo, susitarė su\nT a ik o s\nd e r y b o s\nsu\nVasilijumi tęsti pradėtas tai-\nm a sk v ė n a is\nkos derybas. Vasilijus pri­\nmygtinai reikalavo, kad ka­\nraliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­\nviau galėsiąs tramdyti saviškius, jei šie susimanys be\nsaiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­\nkai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-\niždininkiui, ir Jonui Gornostajui, raštininkui."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
-- id: c-169340
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutvarkęs šį reikalą, ka-
     Su m a sk v ė n a is dera-
@@ -202,6 +175,83 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
     tik tada, kai gavo žinią, jog karaliaus legatai Smo­
     lenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
     jųjų metų nepradėta kalbėtis dėl taikos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Lietuvos metraštis Vasilijų įvardija šeštuoju Algirdo ir Julijonos Oljevnos sūnumi.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
+    nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio
+    dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu­
+    rėjo šešis sūnus1 7 . Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: not_found
+
+## Citatos
+
+- id: c-169339
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
+    nislovo Daugirdo, susitarė su
+    T a ik o s
+    d e r y b o s
+    su
+    Vasilijumi tęsti pradėtas tai-
+    m a sk v ė n a is
+    kos derybas. Vasilijus pri­
+    mygtinai reikalavo, kad ka­
+    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
+    viau galėsiąs tramdyti saviškius, jei šie susimanys be
+    saiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­
+    kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-
+    iždininkiui, ir Jonui Gornostajui, raštininkui.
+  citata_rodoma: "Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­\nnislovo Daugirdo, susitarė su\nT a ik o s\nd e r y b o s\nsu\nVasilijumi tęsti pradėtas tai-\nm a sk v ė n a is\nkos derybas. Vasilijus pri­\nmygtinai reikalavo, kad ka­\nraliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­\nviau galėsiąs tramdyti saviškius, jei šie susimanys be\nsaiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­\nkai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-\niždininkiui, ir Jonui Gornostajui, raštininkui."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-169340
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kad šitokiam tvirtini­
+    mui nėra jokio pagrindo, tarpininkai puikiausiai ži­
+    nojo. Galop ir viena, ir kita šalis sutiko su šešerių me­
+    tų paliaubomis šitokiomis sąlygomis: Vasilijus, pasi­
+    laikydamas Smolenską, atsisako Smolensko didžiojo
+    kunigaikščio titulo, o karaliaus pasiuntiniai sutinka ti­
+    tuluoti Maskvos didįjį kunigaikštį didžiuoju visos Ru­
+    sios valdovu. Kai Vasilijaus legatai patvirtino šį susi­
+    tarimą karaliaus bei senato
+    M a sk v o s v a ld o v a s  ti-
+    akivaizdoje, susiderėjo, kad
+    tu lu o ja m a s d id žiu o ju
+    pasieniuose kylantiems gin-
+    v is o s  R u sios v a ld o v u
+    čams spręsti abi šalys pas-
+    kirsiančios nepaprastus tei­
+    sėjus, kurie ir teis kaimynystėje gyvenančius žmones.
   citata_rodoma: "Kad šitokiam tvirtini­\nmui nėra jokio pagrindo, tarpininkai puikiausiai ži­\nnojo. Galop ir viena, ir kita šalis sutiko su šešerių me­\ntų paliaubomis šitokiomis sąlygomis: Vasilijus, pasi­\nlaikydamas Smolenską, atsisako Smolensko didžiojo\nkunigaikščio titulo, o karaliaus pasiuntiniai sutinka ti­\ntuluoti Maskvos didįjį kunigaikštį didžiuoju visos Ru­\nsios valdovu. Kai Vasilijaus legatai patvirtino šį susi­\ntarimą karaliaus bei senato\nM a sk v o s v a ld o v a s  ti-\nakivaizdoje, susiderėjo, kad\ntu lu o ja m a s d id žiu o ju\npasieniuose kylantiems gin-\nv is o s  R u sios v a ld o v u\nčams spręsti abi šalys pas-\nkirsiančios nepaprastus tei­\nsėjus, kurie ir teis kaimynystėje gyvenančius žmones."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

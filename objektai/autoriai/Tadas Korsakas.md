@@ -41,6 +41,11 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - Abiejų Tautų tarpusavio įžadas
 - Gegužės trečiosios konstitucijos pataisa
 
+## Ryšiai
+
+### Laikotarpiai
+- XVIII amžius
+
 ## Teiginiai
 
 <a id="claim-t-23258"></a>
@@ -74,23 +79,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   ryšio_subjekto_parinkimas: "T. Korsakas: llm_allowed_candidate, person"
   ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Sakinys nurodo, kad T. Korsakas žuvo ginant Varšuvą, taigi jis siejamas su Varšuvos gynimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "T. Korsakas gynė Varšuva (0.88); T. Korsakas mirė Varšuva (0.84)"
-  pagrindžia:
-    - c-70108
-
-<a id="claim-t-23260"></a>
-- t-003
-  teiginys: "Tadas Korsakas žuvo ginant Varšuvą."
-  atnaujinta: "2026-06-14 10:46"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Varšuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "T. Korsakas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja T. Korsako žūtį su Varšuvos gynimu."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   semantiniai_rysiai: "T. Korsakas gynė Varšuva (0.88); T. Korsakas mirė Varšuva (0.84)"
   pagrindžia:
@@ -144,7 +132,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-166739
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

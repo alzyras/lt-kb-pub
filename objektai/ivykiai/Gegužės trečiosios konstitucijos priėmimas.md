@@ -110,7 +110,7 @@ Nenurodyta
 <a id="claim-t-75103"></a>
 - t-003
   teiginys: "Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:

@@ -848,26 +848,22 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    septyneriems metams, o klau-
-    S e p ty n m e tė s
-    p oliau -
-    simą dėl belaisvių perduoti
-    b o s su M a sk v o s ku -
-    pačiam karaliui. Po to mask-
-    n ig a ik šč iu
-    venai atvyko į Vilnių, dė­
-    damiesi atkeliavę pasirašy­
-    ti paliaubų, o iš tikrųjų norėdami sužinoti, kas ma­
-    noma dėl paliaubų metu užimtų kaimų ir belaisvių, ar
-    negalima trumpų paliaubų pakeisti taikos sutartimi,
-    tačiau tokiomis sąlygomis, kad lietuviai paliktų Mask­
-    vos kunigaikščiui Gomelį, atsisakytų Smolensko, rei­
-    kalaudami už tai kokių kitų žemių, o belaisvius abi
-    šalys be niekur nieko paleistų į laisvę, nepaisydamos
-    nei jų kilmės, nei kiekio. Atmetus visus šiuos reika­
-    lavimus, maskvėnams pažadėta, kad neilgai trukus prie
-    Sebežo atvyks karaliaus taikytojai; ištyrę vietoje rei­
-    kalą, jie ir atsilygins tiems, kurie neteko žemių.
+    1543 m e ta i
+    Ž y g im a n ta s
+    A u g u s­
+    ta s v e d a  a u strų  k u ­
+    n ig a ik š ty tę  E lžb ietą
+    Sugrįžęs į Lenkiją, kara­
+    lius suskato apvesdinti sūnų
+    Augustą. Nutarta susigimi­
+    niuoti su Austrijos valdovų
+    šeima ir paprašyti Augustui
+    Romos karaliaus Ferdinando
+    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
+    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
+    kad ji dar labiau sustiprins santarvę ir gerus santy­
+    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
+    jant su Vladislovu bei Liudviku.
   citata_rodoma: "1543 m e ta i\nŽ y g im a n ta s\nA u g u s­\nta s v e d a  a u strų  k u ­\nn ig a ik š ty tę  E lžb ietą\nSugrįžęs į Lenkiją, kara­\nlius suskato apvesdinti sūnų\nAugustą. Nutarta susigimi­\nniuoti su Austrijos valdovų\nšeima ir paprašyti Augustui\nRomos karaliaus Ferdinando\ndukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­\ntorius Karolis V didžiai pritarė šiai santuokai, įsitikinę,\nkad ji dar labiau sustiprins santarvę ir gerus santy­\nkius, kuriems padėta pamatai anksčiau, susigiminiuo­\njant su Vladislovu bei Liudviku."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

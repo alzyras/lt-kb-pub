@@ -66,15 +66,6 @@ Nenurodyta
   pagrindžia:
     - c-177729
 
-<a id="claim-t-195334"></a>
-- t-004
-  teiginys: "Kitoje istorijoje taurė aprašoma kaip stora stiklinė, tyčia daužoma į duris ir aslos akmenį."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177731
-
 <a id="claim-t-200943"></a>
 - t-005
   teiginys: "Paskui vie ni siurbė midų bei alų iš tauragių, kiti iš kaušų, bū davo ir tokių, kurie gerdavo iš paauksytų kaukolių savo neprietelių, karėj pergalėtų 2."
@@ -134,15 +125,7 @@ Nenurodyta
   puslapiai: "p. 99 (PDF 97)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 99 (PDF 97)."
   citata_originali: |
-    Užsižadėdamas net juokų pridirbo.
-    Kai ryto eisme pri­
-    siekti, o šiandien sumanė padaryti degtinei
-    užgavėnes:
-    parsinešė
-    kelias bonkas degtinės, žinoma, kad užtektų, parsikvietė du kaimynu,
-    ir geria tą degtinę, vis ją keikdami.
-    Kai visą išgėrė, sumanė su­
-    daužyti taurelę.
+    Kai visą išgėrė, sumanė sudaužyti taurelę.
   citata_rodoma: "Kai visą išgėrė, sumanė sudaužyti taurelę."
   statusas: verified
   atnaujinta: "2026-07-12 14:04"
@@ -156,18 +139,14 @@ Nenurodyta
   puslapiai: "p. 100 (PDF 98)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 100 (PDF 98)."
   citata_originali: |
-    O taurė stora, kaip koks stiklo burbulas. Paskui ir su­
-    manė duoti į aslos akmenį.
-    Čia vargšei šonas nudužo.
+    O taurė stora, kaip koks stiklo burbulas. Paskui ir sumanė duoti į aslos akmenį. Čia vargšei šonas nudužo.
   citata_rodoma: "O taurė stora, kaip koks stiklo burbulas. Paskui ir sumanė duoti į aslos akmenį. Čia vargšei šonas nudužo."
   statusas: verified
   atnaujinta: "2026-07-12 14:04"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-177732
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

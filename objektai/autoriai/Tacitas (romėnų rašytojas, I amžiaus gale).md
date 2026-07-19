@@ -176,43 +176,6 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   pagrindžia:
     - c-179277
 
-## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Teodoras Narbutas rašo, kad Tacitas 46 skyriuje venedus skyrė nuo sarmatų ir germanų bei aprašė jų kaimynus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad atleiskime
-    senovės autoriams, kurių geografinių žinių gavimo gali­
-    mybės buvo labiau ribotos negu mūsų; jos pražuvo, mums
-    liko vien spausdintos Plinijaus ištraukos arba kitų geog­
-    rafų traktatų fragmentai. Siek tiek labiau venedų reika­
-    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
-    klauso nei sarmatams, nei germanams, turi daug žemių,
-    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
-    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
-    rytuose yra nežinomos sritys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-007
-  santrauka: 'Teodoras Narbutas nurodo, kad Tacitas jazigus laikė karinga gentimi, turėjusia rinktinę raitąją kariuomenę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Plinijus teigia, kad jazigai gyveno prie Tisos
-    upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria
-    jų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­
-    ringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­
-    do, kad jie kariavo su svevų karaliaus Vanijaus Vanino
-    vėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus
-    metu kovėsi romėnų gretose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-64410
@@ -329,21 +292,16 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sis aprašymas ap­
-    ima plačius ir labai didžiulius kraštus. Žymusis mūsų
-    senovės tyrinėtojas ponas Suroveckis2 labai gerai aiškina,
-    kad šiose venedų srityse lokalizuoja senų senovės slavų
-    gyvenamąsias vielas, aprašinėdamas ribas kraštų, kur
-    šen bei ten esti slavų valstiečių, kolonijų. Pasak jo, šio
-    venedų krašto ribos buvusios tokios: „Pradedant nuo Vys­
-    los, išilgai estų kraštų, per šiandienį Nemuną (viduryje,
-    kiek žemiau Gardino), Žemaitiją, Livoniją, Estiją (Gu­
-    diją) net iki rytinio Baltijos pakraščio (Suomių įlanką);
-    iš ten pro Volgos ir Dnepro versmes iki Pripetės žiočių,
-    toliau išilgai šios upės iki jos versmių, per dalį Polesės ir
-    Voluinės, per Dnestro aukštupį net ligi Tatrų ir Vyslos,
-    kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
-    1 De Mor.
+    Tad atleiskime
+    senovės autoriams, kurių geografinių žinių gavimo gali­
+    mybės buvo labiau ribotos negu mūsų; jos pražuvo, mums
+    liko vien spausdintos Plinijaus ištraukos arba kitų geog­
+    rafų traktatų fragmentai. Siek tiek labiau venedų reika­
+    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
+    klauso nei sarmatams, nei germanams, turi daug žemių,
+    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
+    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
+    rytuose yra nežinomos sritys.
   citata_rodoma: "Tad atleiskime\nsenovės autoriams, kurių geografinių žinių gavimo gali­\nmybės buvo labiau ribotos negu mūsų; jos pražuvo, mums\nliko vien spausdintos Plinijaus ištraukos arba kitų geog­\nrafų traktatų fragmentai. Siek tiek labiau venedų reika­\nlus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­\nklauso nei sarmatams, nei germanams, turi daug žemių,\nvakaruose teka Vysla; jų kaimynai — estai bei gitonai\n(§§ 66—80), šiaurėje — finai, pietuose — peucinai, o\nrytuose yra nežinomos sritys."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -356,18 +314,13 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ptolemėjas,
-    vardydamas mūsų šiaurinėse šalyse gyvenusias gentis ir
-    tautas, šalia igilionų, kostobokų, kurių valdos turėtų būti
-    Polesėje prie Bugo, būtent ten, kur mūsų istorijos pra­
-    džioje buvęs jotvingių kraštas. Jei senovės geografas sė­
-    mėsi žinių, kaip dera manyti, iš tyro šaltinio, iš jam sla­
-    vų pateiktų padavimų, be to, slaviškų pavadinimų, kurie
-    slavų kalba reiškia daugiadievius, Czestobohi. Gal todėl,
-    kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai­
-    čiuojamą daugybę dievų, religinių tradicijų; slavai šia
-    prasme taip nedarė, nes, nors slavų mitologijoje buvo
-    nemažai dievų, jiems lenkėsi ne visos gentys.
+    Plinijus teigia, kad jazigai gyveno prie Tisos
+    upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria
+    jų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­
+    ringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­
+    do, kad jie kariavo su svevų karaliaus Vanijaus Vanino
+    vėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus
+    metu kovėsi romėnų gretose.
   citata_rodoma: "Plinijus teigia, kad jazigai gyveno prie Tisos\nupės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria\njų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­\nringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­\ndo, kad jie kariavo su svevų karaliaus Vanijaus Vanino\nvėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus\nmetu kovėsi romėnų gretose."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

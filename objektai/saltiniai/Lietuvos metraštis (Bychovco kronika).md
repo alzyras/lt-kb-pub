@@ -84,6 +84,9 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos metraštis (Bychovco kronika)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "mūšio data: 1368 m.; mūšio data: 1370 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Dmitrijus kariavo prieš Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Raw kronikos citata perrašyta į vientisą sakinį apie Bychovco kroniką. Laidotuvių papročio aiškinimas paliktas su Narbuto citavimo atribucija."
   pagrindžia:
     - c-11252
 
@@ -153,28 +156,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-108131
-
-<a id="claim-t-188490"></a>
-- t-001
-  teiginys: "Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Algirdas (Lietuvos valdovas): 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dmitrijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Karo paskelbimo pasiuntimas Algirdui tiesiogiai rodo Dmitrijaus karo veiksmą prieš Algirdą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "mūšio data: 1368 m.; mūšio data: 1370 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Dmitrijus kariavo prieš Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Raw kronikos citata perrašyta į vientisą sakinį apie Bychovco kroniką. Laidotuvių papročio aiškinimas paliktas su Narbuto citavimo atribucija."
-  pagrindžia:
-    - c-171380
 
 <a id="claim-t-190825"></a>
 - t-014
@@ -278,25 +259,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     rych mili na tuiu horu lesty, y na sud do boha yty“ (Ir jeigu kurio
     nors lietuvių kunigaikščio ar didiko kūną degindavo, tai priėjo
     dėdavo lūšies ar lokio nagus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-009
-  santrauka: 'Narbutas rašo, kad Žemaitija nuo senovės plytėjo tarp Baltijos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Venta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat
-    ir Žemaitija nuo senų seniausių laikų plytėjo tarp Balti­
-    jos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Ven­
-    tos upė, skalavusi lietuvių vinidų gyvenamąsias vietas.
-    274
-    Neroma — atskirai pažymėtas tikrosios Lietuvos kraš­
-    tas. Jo pavadinimas, be abejonės, kilęs iš Neries upės,
-    nes ir kronikos kairiojoje šios upės pakrantėje esančią
-    Lietuvą, vadinamą Užneriu, laiko atskira ir vėliau apgy­
-    vendinta provincija1 2.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -429,11 +391,9 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
-    žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
-    kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
-    paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė į
-    kaimynų krikščionių žemes.
+    Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
+    kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
+    72).
   citata_rodoma: "Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,\nkuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.\n72)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -475,7 +435,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-017
 
 - id: c-173707
@@ -498,17 +457,16 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Taip pat
+    ir Žemaitija nuo senų seniausių laikų plytėjo tarp Balti­
+    jos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Ven­
+    tos upė, skalavusi lietuvių vinidų gyvenamąsias vietas.
+    274
     Neroma — atskirai pažymėtas tikrosios Lietuvos kraš­
     tas. Jo pavadinimas, be abejonės, kilęs iš Neries upės,
     nes ir kronikos kairiojoje šios upės pakrantėje esančią
     Lietuvą, vadinamą Užneriu, laiko atskira ir vėliau apgy­
-    vendinta provincija1 2. Taip pat yra antra išvada apie šio
-    pavadinimo kilmę iš lietuviško žodžio Neromus, nera­
-    mus, ir priešingo būdvardžiui Romus, ramus3. Senovės
-    geografai nemini šio, šiek tiek vėlesnio negu kitos provin­
-    cijos pavadinimo, be to, ir lietuvių kronika teigia, kad
-    lietuvių kolonijos kairiojoje Neries pakrantėje paplito tik
-    X amžiuje.
+    vendinta provincija1 2.
   citata_rodoma: "Taip pat\nir Žemaitija nuo senų seniausių laikų plytėjo tarp Balti­\njos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Ven­\ntos upė, skalavusi lietuvių vinidų gyvenamąsias vietas.\n274\nNeroma — atskirai pažymėtas tikrosios Lietuvos kraš­\ntas. Jo pavadinimas, be abejonės, kilęs iš Neries upės,\nnes ir kronikos kairiojoje šios upės pakrantėje esančią\nLietuvą, vadinamą Užneriu, laiko atskira ir vėliau apgy­\nvendinta provincija1 2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

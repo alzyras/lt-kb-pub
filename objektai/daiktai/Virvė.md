@@ -83,10 +83,7 @@ Nenurodyta
   puslapiai: "p. 34 (PDF 32)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 34 (PDF 32)."
   citata_originali: |
-    Del ugnies ne­
-    puola arklių uodai, ugnies ir vilkai vengia.
-    Ryt rytą, kai tik švinta, kinko arklius ir siunčia mergaites su šie­
-    nu namo. Arkliai vedami už pavadžių; vadžių čia nėra; mergaitės at-
+    Arkliai vedami už pavadžių; vadžių čia nėra; mergaitės at­
     važiuodamos buvo pasitvarkslavę šienviržėmis virvėmis.
   citata_rodoma: "Arkliai vedami už pavadžių; vadžių čia nėra; mergaitės at­\nvažiuodamos buvo pasitvarkslavę šienviržėmis virvėmis."
   statusas: verified

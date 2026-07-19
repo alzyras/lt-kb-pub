@@ -8,14 +8,14 @@ datos:
   - '1300 m.'
 date_start: '1272'
 date_end: '1300'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Guerquin B
 
 ## Santrauka
@@ -49,25 +50,6 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   pagrindžia:
     - c-61342
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'B. Guerquin cituojamas teiginiui, kad Ordino konventas iš Santyro į Marienburgo pilį perkeltas 1280 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    211 (206). Apie Skomanto, sūduvių vado, atsivertimą
-    Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,
-    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
-    žemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
-    tremties, į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
-    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
-    tikėjimui ir broliams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-
 ## Citatos
 
 - id: c-61342
@@ -75,7 +57,7 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    (206). Apie Skomanto, sūduvių vado, atsivertimą
+    211 (206). Apie Skomanto, sūduvių vado, atsivertimą
     Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,
     negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
     žemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas

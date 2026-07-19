@@ -18,17 +18,17 @@ datos:
   - '1378 m.'
 date_start: '1259'
 date_end: '1378'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - valdovas
   - vyskupas
-amziai:
-  - 'XIII'
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '3'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg'
@@ -130,23 +130,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-00156
-
-<a id="claim-t-10689"></a>
-- t-039
-  teiginys: "Kęstutis pastatė mūro pilį Trakų ežero saloje."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Trakai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata pilies pastatymą priskiria Gediminui, o vėliau ją susieja su Trakais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Gediminas pastatė Trakai (0.76)"
-  pagrindžia:
-    - c-160518
 
 <a id="claim-t-10692"></a>
 - t-040
@@ -617,22 +600,23 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 <a id="claim-t-188575"></a>
 - t-004
   teiginys: "Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krėva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krėva: mention_match, place, gap=108"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Krėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_patikimumas: "buvo_sunus -> Gediminas: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginyje Kęstutis aiškiai apibūdintas kaip Gedimino sūnus."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo sūnus Gediminas (0.87)"
   vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
   pagrindžia:
-    - c-171465
+    - c-171464
 
 <a id="claim-t-188576"></a>
 - t-005
@@ -1441,6 +1425,132 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184380|Žygimantas]]: Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66523|Dovydiškių sutarties sudarymas]]: Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos.
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas.md#claim-t-185510|Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]: Po derybų Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
+## Reikšmingi paminėjimai
+- c-023
+  santrauka: 'Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lietuvos krikštą, tačiau jo klastingumas, prie kurio
+    priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
+    kai nepateisinami.
+    Kovojant su priešu, klasta gali būti pateisinama,
+    bet ne tarp savųjų, ypač artimų giminaičių. Krikščio­
+    nis Daumantas padaręs piktadarystę, iš pavydo nužu­
+    dydamas savo brolį pagonį Traidenį: „Jis pasiuntė še­
+    šis žudikus, persirengusius elgetaujančiais kaimiečiais,
+    šie pasitiko valdovą, begrįžtantį iš pirties, pusiaukelė­
+    je, lydimą kelių asmenų; valdovas nusilenkė sutiktie­
+    siems ir mandagiai paklausė, kas ir kaip juos esąs
+    nuskriaudęs, ar jis turįs pagrindo ką nubausti už skriau­
+    das, tačiau žudikai užpuolė jį mušti lazdomis per gal­
+    vą ir užmušė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-067
+
+- c-033
+  santrauka: 'Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
+    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
+    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
+    minimo ir garbinimo apeigos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-034
+  santrauka: 'Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kartą, kai Vitolfas puotavo pas vieną karalių,
+    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
+    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
+    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
+    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
+    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
+    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
+    nugalėjo ir paėmė nesuskaičiuojamus turtus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-036
+  santrauka: 'O šiuos du sa vo sūnus paliko didžiaisiais kunigaikščiais: Jaunulį0 savo sostinėje Vilniuje ir Lietuvos Didžiojoje Kuni gaikštystėje, o Kęstutį1 0 Trakuose bei visoje Žemaičių žemėje.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didysis kunigaikštis Algirdas nespėjo skirtu lai­
+    ku 2 iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis
+    Kęstutis, greitai atjojęs į Vilnių, užėmė Vilniaus mies­
+    tą; didysis kunigaikštis Jaunutis, išgirdęs apie tai, pa­
+    bėgo j Taurakalnį ir tenai naktį3 peršalo. Tenai jį su­
+    gavę, parvežė pas jo brolį, didįjį kunigaikštį Kęstutį.
+    Ir jis, laukdamas savo vyresniojo brolio, didžiojo ku­
+    nigaikščio Algirdo, liepė sargybai tą savo brolį Jau­
+    nutį saugoti, o pas savo brolį, didįjį kunigaikštį Algirdą,
+    išsiuntė žygūną, pranešdamas, kad Vilnių valdąs, o bro­
+    lį, didįjį kunigaikštį Jaunutį, suėmęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-048
+
+- c-038
+  santrauka: 'Kęstutis taip pat davė žodį kunigaikščio Jogailos vardu ir savo vardu, ir [davėj savo ranką.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
+    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
+    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
+    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
+    imperatoriumigyveno su juo didelėje meilėje.
+    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
+    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
+    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
+    atvykti. Ir šis kuo klusniausiai, nedelsdamas atvyko pas
+    jį su savo karaliene, ir reiškė jam didžiausią pagarbą,
+    ir dovanojo brangių dovanų2, ir nuo tol tarpe jų įsiga­
+    lėjo didelė meilė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-039
+  santrauka: '1 0 Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie 1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis jo dalies plotas — tikslesnių žinių nėra.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    22 Skala — sena Podolės vietovė, dabar UTSR Chmelnickio sr.
+    gyvenvietė Skala Podolskaja (prie Zbručo upės, apie 40 km į šiau­
+    rės vakarus nuo Kamenec-Podolsko).
+    a Cervonogradas (orig.— Czerleny horod) — sena Podolės vie­
+    tovė, minima jau IX a., dabar UTSR Ternopolio sr. gyvenvietė
+    į šiaurę nuo Zaleščikų.
+    24 Apie šį Nestaną, kituose Lietuvos metraščių nuorašuose va­
+    dinamą Nestisu ir Nestaku, nieko tikro nežinoma.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-00156
@@ -1618,12 +1728,10 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-039
-
 - id: c-160519
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1978,11 +2086,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Lietuvos krikštą, tačiau jo klastingumas, prie kurio
-    priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
-    kai nepateisinami.
-    Kovojant su priešu, klasta gali būti pateisinama,
-    bet ne tarp savųjų, ypač artimų giminaičių. Krikščio­
+    Krikščio­
     nis Daumantas padaręs piktadarystę, iš pavydo nužu­
     dydamas savo brolį pagonį Traidenį: „Jis pasiuntė še­
     šis žudikus, persirengusius elgetaujančiais kaimiečiais,
@@ -1991,7 +2095,10 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     siems ir mandagiai paklausė, kas ir kaip juos esąs
     nuskriaudęs, ar jis turįs pagrindo ką nubausti už skriau­
     das, tačiau žudikai užpuolė jį mušti lazdomis per gal­
-    vą ir užmušė.
+    vą ir užmušė. Liko valstybė it našlaitė be valdovo".
+    Traidenis mirė 1282 m., nėra žinių, kad jis būtų
+    nužudytas. Savo mirtimi mirė ir Daumantas — Timotie­
+    jus.
   citata_rodoma: "Krikščio­\nnis Daumantas padaręs piktadarystę, iš pavydo nužu­\ndydamas savo brolį pagonį Traidenį: „Jis pasiuntė še­\nšis žudikus, persirengusius elgetaujančiais kaimiečiais, \nšie pasitiko valdovą, begrįžtantį iš pirties, pusiaukelė­\nje, lydimą kelių asmenų; valdovas nusilenkė sutiktie­\nsiems ir mandagiai paklausė, kas ir kaip juos esąs \nnuskriaudęs, ar jis turįs pagrindo ką nubausti už skriau­\ndas, tačiau žudikai užpuolė jį mušti lazdomis per gal­\nvą ir užmušė. Liko valstybė it našlaitė be valdovo\".\nTraidenis mirė 1282 m., nėra žinių, kad jis būtų \nnužudytas. Savo mirtimi mirė ir Daumantas — Timotie­\njus."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
@@ -2313,19 +2420,17 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
-    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
-    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
-    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
-    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
-    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
-    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
-    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
-    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
-    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
-    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
-    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
-    minimo ir garbinimo apeigos.
+    Birutė (Biruta)
+    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
+    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
+    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
+    Sigailą, arba Žygimantą, bei dukterį Danutę.
   citata_rodoma: "Birutė (Biruta)\nŽemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­\nte būryje mergelių, saugojančių šventą Praurimės aukuro ug­\nnį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,\nSigailą, arba Žygimantą, bei dukterį Danutę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2340,21 +2445,22 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kartą, kai Vitolfas puotavo pas vieną karalių,
-    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
-    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
-    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
-    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
-    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
-    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
-    nugalėjo ir paėmė nesuskaičiuojamus turtus.
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
   citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-171465
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2374,7 +2480,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-005
 
 - id: c-176572
@@ -2382,17 +2487,12 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Didysis kunigaikštis Algirdas nespėjo skirtu lai­
+    nučio. Didysis kunigaikštis Algirdas nespėjo skirtu lai­
     ku 2 iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis
     Kęstutis, greitai atjojęs į Vilnių, užėmė Vilniaus mies­
     tą; didysis kunigaikštis Jaunutis, išgirdęs apie tai, pa­
     bėgo j Taurakalnį ir tenai naktį3 peršalo. Tenai jį su­
     gavę, parvežė pas jo brolį, didįjį kunigaikštį Kęstutį.
-    Ir jis, laukdamas savo vyresniojo brolio, didžiojo ku­
-    nigaikščio Algirdo, liepė sargybai tą savo brolį Jau­
-    nutį saugoti, o pas savo brolį, didįjį kunigaikštį Algirdą,
-    išsiuntė žygūną, pranešdamas, kad Vilnių valdąs, o bro­
-    lį, didįjį kunigaikštį Jaunutį, suėmęs.
   citata_rodoma: "nučio. Didysis kunigaikštis Algirdas nespėjo skirtu lai­\nku 2 iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis \nKęstutis, greitai atjojęs į Vilnių, užėmė Vilniaus mies­\ntą; didysis kunigaikštis Jaunutis, išgirdęs apie tai, pa­\nbėgo j Taurakalnį ir tenai naktį3 peršalo. Tenai jį su­\ngavę, parvežė pas jo brolį, didįjį kunigaikštį Kęstutį."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2429,18 +2529,12 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
-    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
-    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
-    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
-    imperatoriumigyveno su juo didelėje meilėje.
-    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
-    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
-    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
-    atvykti. Ir šis kuo klusniausiai, nedelsdamas atvyko pas
-    jį su savo karaliene, ir reiškė jam didžiausią pagarbą,
-    ir dovanojo brangių dovanų2, ir nuo tol tarpe jų įsiga­
-    lėjo didelė meilė.
+    Ir man pačiam
+    jis taip pat davė žodį kunigaikščio Jogailos vardu ir
+    savo vardu, ir [davėj savo ranką. Ir mūsų tėvas pati­
+    kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­
+    gaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­
+    to žodžio suėmė jie mūsų tėvą ir jį nužudė.
   citata_rodoma: "Ir man pačiam \njis taip pat davė žodį kunigaikščio Jogailos vardu ir \nsavo vardu, ir [davėj savo ranką. Ir mūsų tėvas pati­\nkėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­\ngaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­\nto žodžio suėmė jie mūsų tėvą ir jį nužudė."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2455,14 +2549,10 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    22 Skala — sena Podolės vietovė, dabar UTSR Chmelnickio sr.
-    gyvenvietė Skala Podolskaja (prie Zbručo upės, apie 40 km į šiau­
-    rės vakarus nuo Kamenec-Podolsko).
-    a Cervonogradas (orig.— Czerleny horod) — sena Podolės vie­
-    tovė, minima jau IX a., dabar UTSR Ternopolio sr. gyvenvietė
-    į šiaurę nuo Zaleščikų.
-    24 Apie šį Nestaną, kituose Lietuvos metraščių nuorašuose va­
-    dinamą Nestisu ir Nestaku, nieko tikro nežinoma.
+    1 0  Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie
+    1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis
+    jo  dalies plotas — tikslesnių žinių nėra. 1341 m. neabejotinai valdė
+    Žemaičius, Trakų kunigaikštystę su Gardinu ir Palenkę su Brastų.
   citata_rodoma: "1 0  Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie \n1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis \njo  dalies plotas — tikslesnių žinių nėra. 1341 m. neabejotinai valdė \nŽemaičius, Trakų kunigaikštystę su Gardinu ir Palenkę su Brastų."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2685,14 +2775,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - Broliai: [[objektai/asmenys/Narimantas Gediminaitis]]
 - Puolė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/asmenys/Verneris fon Vindekenas]]
 - Kariavo prieš: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė [[objektai/vietos/Gardino žemė]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į [[objektai/vietos/Krėva]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė [[objektai/vietos/Krėva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė [[objektai/vietos/Naujasis Kaunas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė [[objektai/vietos/Vilniaus pilis]], [[objektai/vietos/Vilniaus pilys]], [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) apgulė [[objektai/vietos/Jurbarkas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) užėmė [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į [[objektai/vietos/Nadruva]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė Gardino žemė, Palenkė, Trakai
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva, Trakai, Vilnius
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Krėva
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas Vilnius
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė Naujasis Kaunas
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė Vilniaus pilis, Vilniaus pilys, Vilnius
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) apgulė Jurbarkas
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) užėmė Vilnius
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į Nadruva
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno [[objektai/vietos/Trakai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno Trakai

@@ -27,95 +27,6 @@ media_all_json: |-
 
 Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivaitį, o žmonės parpuldavo veidais žemyn. Narbutas abejojo pasakojimu, kad vaidila galėjęs pagalve uždusinti ligonį, jei būrimai rodė neišvengiamą mirtį.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivaitį, o žmonės parpuldavo veidais žemyn.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kai su­
-    šaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;
-    vaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba
-    pinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis
-    mosikuodavo raudona vėliavėle ir kažką į juos numesdavo...
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas abejojo pasakojimu, kad vaidila galėjęs pagalve uždusinti ligonį, jei būrimai rodė neišvengiamą mirtį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    360
-
-    ## Puslapis 360
-
-    žįsta lietuvių nuo amžių paveldėtą dievobaimingumą gimdy­
-    tojų, kraujo giminių ir visų nelaimingųjų atžvilgiu, kas žino
-    neišdildomą jų bruožą gerbti žmogaus gyvybe. Ar būtų galima
-    įsivaizduoti, kad vaidila, pakviestas raminti ligonio žodžiais apie
-    būsimą laime, uždusintų jį pagalve, jei būrimai parodys neiš­
-    vengiamos jo mirties ženklus? Vaidila ir visi buvo įsitikinę, kad
-    po mirties jie stos prieš teisėją ir anksčiau mirusių žmonių vė­
-    les; ar jie nebūtų bijoję priekaištų ir keršto už toms pačioms
-    vėlėms padarytą skriaudą?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172328
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    - P. 352-353), pataiso La-
-    sickį, tvirtindamas, kad turėtų būti dinvu vietoj diewu; taip ra­
-    šoma ir jo vertime. Tačiau iš visų dalykų, kuriuos tas senasis
-    autorius yra parašęs apie lietuvių mitologiją, pastebime, kad
-    jis nebuvo mokovas lietuvių arba žemaičių kalbos; jos abi su­
-    daro tą pačią kalbą, labai mažai tesiskirdamos; galima ją va­
-    dinti provincine. Todėl manome, kad Lasickis padarė aiškią
-    klaidą, cituodamas tą maldelę, kurią grynai lietuviškai reiktų
-    taip rašyti: Perkūne Dewajte, ne muszk und mana: Tiewe, mel-
-    dzio tawipaltu messu.
-  citata_rodoma: "Kai su­\nšaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;\nvaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba\npinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis\nmosikuodavo raudona vėliavėle ir kažką į juos numesdavo..."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-172329
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Iki valiai prisigiedoję ir prisiverkę, geria už velionį, atsi­
-    sveikindami ir linkėdami labos nakties, taip pat prašo, idant
-    aname pasaulyje pasveikintų jų tėvelius, gimines, bičiulius ir
-    1.1., idant būtų jiems malonus, kaip čia jie buvo malonūs jam
-    gyvam. Tada aprengia drabužiais, pritinkančiais luomui ir ly­
-    čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
-    rankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­
-    riai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti
-    drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
-    pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
-    rūs“. Mes gi apie tai nieko negalime pasakyti*.
-  citata_rodoma: "360\n\n## Puslapis 360\n\nžįsta lietuvių nuo amžių paveldėtą dievobaimingumą gimdy­\ntojų, kraujo giminių ir visų nelaimingųjų atžvilgiu, kas žino\nneišdildomą jų bruožą gerbti žmogaus gyvybe. Ar būtų galima\nįsivaizduoti, kad vaidila, pakviestas raminti ligonio žodžiais apie\nbūsimą laime, uždusintų jį pagalve, jei būrimai parodys neiš­\nvengiamos jo mirties ženklus? Vaidila ir visi buvo įsitikinę, kad\npo mirties jie stos prieš teisėją ir anksčiau mirusių žmonių vė­\nles; ar jie nebūtų bijoję priekaištų ir keršto už toms pačioms\nvėlėms padarytą skriaudą?"
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-189441"></a>
@@ -166,3 +77,50 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
 - susijęs iš Ariogala: Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.
 - susijęs iš Ariogala: Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.
 - susijęs iš [[objektai/daiktai/Vaidilų apeiginiai drabužiai.md#claim-t-189665|Vaidilų apeiginiai drabužiai]]: Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų.
+## Citatos
+
+- id: c-172328
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Kai su­
+    šaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;
+    vaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba
+    pinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis
+    mosikuodavo raudona vėliavėle ir kažką į juos numesdavo...
+  citata_rodoma: "Kai su­\nšaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;\nvaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba\npinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis\nmosikuodavo raudona vėliavėle ir kažką į juos numesdavo..."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-172329
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    360
+
+    ## Puslapis 360
+
+    žįsta lietuvių nuo amžių paveldėtą dievobaimingumą gimdy­
+    tojų, kraujo giminių ir visų nelaimingųjų atžvilgiu, kas žino
+    neišdildomą jų bruožą gerbti žmogaus gyvybe. Ar būtų galima
+    įsivaizduoti, kad vaidila, pakviestas raminti ligonio žodžiais apie
+    būsimą laime, uždusintų jį pagalve, jei būrimai parodys neiš­
+    vengiamos jo mirties ženklus? Vaidila ir visi buvo įsitikinę, kad
+    po mirties jie stos prieš teisėją ir anksčiau mirusių žmonių vė­
+    les; ar jie nebūtų bijoję priekaištų ir keršto už toms pačioms
+    vėlėms padarytą skriaudą?
+  citata_rodoma: "360\n\n## Puslapis 360\n\nžįsta lietuvių nuo amžių paveldėtą dievobaimingumą gimdy­\ntojų, kraujo giminių ir visų nelaimingųjų atžvilgiu, kas žino\nneišdildomą jų bruožą gerbti žmogaus gyvybe. Ar būtų galima\nįsivaizduoti, kad vaidila, pakviestas raminti ligonio žodžiais apie\nbūsimą laime, uždusintų jį pagalve, jei būrimai parodys neiš­\nvengiamos jo mirties ženklus? Vaidila ir visi buvo įsitikinę, kad\npo mirties jie stos prieš teisėją ir anksčiau mirusių žmonių vė­\nles; ar jie nebūtų bijoję priekaištų ir keršto už toms pačioms\nvėlėms padarytą skriaudą?"
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

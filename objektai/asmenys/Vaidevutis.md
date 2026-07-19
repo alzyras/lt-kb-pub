@@ -142,6 +142,26 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
 - susijęs iš [[objektai/ivykiai/Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas.md#claim-t-189633|Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas]]: Narbutas Vaidevutį ir Prutenį vaizduoja kaip geresnės civilinės bei religinės tvarkos įvedėjus, vyriausiuosius žynius ir tautos vadus.
 - susijęs iš [[objektai/paprociai/Šneibratui aukojami paukščiai ir sorų paplotėliai prie liepų.md#claim-t-189886|Šneibratui aukojami paukščiai ir sorų paplotėliai prie liepų]]: Narbutas aiškina, kad Šneibrato mitas galėjo virsti nusipelniusio tautai dievinamo vyro simboliu, o jam aukoti prie liepų kepti sorų paplotėliai.
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs runų užrašas buvo skirtas vėliavai, ar herbui.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Žinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­
+    kė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu
+    šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
+    nomas ir Neseckiui.
+    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
+    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
+    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
+    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
+    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
+    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
+    du erelio sparnai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Tačiau Prūsijos kronikininkai linkę manyti, kad šiuo vardu buvo garbinamas senovės kunigaikštis Vaidevutis, neva laiky tas dievu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -164,6 +184,27 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+- c-005
+  santrauka: 'Vaidevutis buvo skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir herbo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tas, kuris mums išsakė priekaištą,
+    jog mes lietuvius apdovanojome herbais jau tais laikais, kai dar
+    niekur jie nebuvo žinomi, pasakė nesąmonę. Kilmės, giminės arba
+    asmens ženklai yra tokie seni, kaip ir pati žmonių visuomenė, nes
+    visuomet egzistuoja i r būtinybė diferencijuoti žmones. Jeigu kas nors
+    yra šiek tiek susipažinęs su Indijos, Kinijos ar Bretanės istorija
+    iki pat Europos pietvakarinės dalies, tas gali paliudyti, jog ten
+    buvo naudojami arba individualūs, arba tam tikrų šeimų, arba
+    tautų ženklai, signetai, vėliavos, skydai ir t. t. Jų atsiradimo pra­
+    džia dingsta amžių glūdumoje, paliesdama pačią yisuomenės užuo­
+    mazgą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-172913
@@ -171,17 +212,12 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­
-    kė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu
-    šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
-    nomas ir Neseckiui.
-    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
-    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
-    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
-    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
-    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
-    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
-    du erelio sparnai.
+    Tačiau nežinome, iš kokio šaltinio yra
+    tas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio
+    vardą (pono Volianskio šijruotė), tačiau negalime tiksliai pasa­
+    kyti, kam jis buvo skirtas -  vėliavai ar herbui, nes jis užrašytas
+    tarp vėliavos ir herbo. Mes dėl vietos stokos jį užrašėme ant pa­
+    čios vėliavos.
   citata_rodoma: "Tačiau nežinome, iš kokio šaltinio yra\ntas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio\nvardą (pono Volianskio šijruotė), tačiau negalime tiksliai pasa­\nkyti, kam jis buvo skirtas -  vėliavai ar herbui, nes jis užrašytas\ntarp vėliavos ir herbo. Mes dėl vietos stokos jį užrašėme ant pa­\nčios vėliavos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -250,17 +286,11 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tas, kuris mums išsakė priekaištą,
-    jog mes lietuvius apdovanojome herbais jau tais laikais, kai dar
-    niekur jie nebuvo žinomi, pasakė nesąmonę. Kilmės, giminės arba
-    asmens ženklai yra tokie seni, kaip ir pati žmonių visuomenė, nes
-    visuomet egzistuoja i r būtinybė diferencijuoti žmones. Jeigu kas nors
-    yra šiek tiek susipažinęs su Indijos, Kinijos ar Bretanės istorija
-    iki pat Europos pietvakarinės dalies, tas gali paliudyti, jog ten
-    buvo naudojami arba individualūs, arba tam tikrų šeimų, arba
-    tautų ženklai, signetai, vėliavos, skydai ir t. t. Jų atsiradimo pra­
-    džia dingsta amžių glūdumoje, paliesdama pačią yisuomenės užuo­
-    mazgą.
+    Tačiau nežinome, iš kokio šaltinio yra tas piešinys. Mūsų
+    piešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian­
+    skio šil'ruotė), tačiau negalime tiksliai pasakyti, kam jis buvo
+    skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir
+    herbo. Mes dėl vietos stokos jį užrašėme ant pačios vėliavos.
   citata_rodoma: "Tačiau nežinome, iš kokio šaltinio yra tas piešinys. Mūsų\npiešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian­\nskio šil'ruotė), tačiau negalime tiksliai pasakyti, kam jis buvo\nskirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir\nherbo. Mes dėl vietos stokos jį užrašėme ant pačios vėliavos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

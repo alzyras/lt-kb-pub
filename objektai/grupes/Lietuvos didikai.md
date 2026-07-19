@@ -11,14 +11,14 @@ datos:
   - '1527 m.'
 date_start: '1451'
 date_end: '1527'
+amziai:
+  - 'XV'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - bajorija
-amziai:
-  - 'XV'
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -136,6 +136,35 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
 - susijęs iš Bistrica: Jogaila buvo pastatęs bažnyčią Bistricoje.
 - susijęs iš Trakai: Žymiausieji Lietuvos didikai skubiai pasitraukė į Trakus, palikę Jogailą ir valstybės reikalus.
 - susijęs iš [[objektai/zodynas/senatas.md#claim-t-185397|senatas]]: Pasitarus su Lietuvos senatu, į Lenkiją buvo išsiųsti Lietuvos didikai su dovanomis ir pažadais.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Lietuvos didikai ir bajorai svarstė rinkti valdovą, kuris asmeniškai rūpintųsi Lietuvos Didžiosios Kunigaikštystės vientisumu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
+    to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni
+    pritardami naujajam valdovui, o kiti jam priešindamie­
+    si. Narbuto vadovaujami Žygimanto valdiniai bei žemai­
+    čiai, nuo seno atsidavę Kęstučio šeimai, palaikė Mykolą.
+    Sąmokslininkai, tikėdamiesi atlyginimo iš Žygimanto
+    varžovo, be to, bijodami galimo tardymo ir teismo,
+    rėmė tremtyje gyvenantį Bo-
+    L ietu vo s d id ik ų pažiū-
+    leslovą. Ir vieni, ir kiti nepai­
+    ros į n a u ją jį v a ld o v ą
+    sė valstybės reikalų, o žiūrėjo
+    tik savo asmeninės naudos.
+    Tie, kurie, nepriklausydami nei vienai, nei kitai grupuo­
+    tei, galvojo apie krašto ateitį, stengėsi suvokti, kaip po
+    dabartinių negandų toliau klostysis įvykiai, ir svarstė,
+    kokios žalos atnešė valstybei Jogailos išvykimas į Len­
+    kiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-78080
@@ -193,24 +222,17 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
-    to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni
-    pritardami naujajam valdovui, o kiti jam priešindamie­
-    si. Narbuto vadovaujami Žygimanto valdiniai bei žemai­
-    čiai, nuo seno atsidavę Kęstučio šeimai, palaikė Mykolą.
-    Sąmokslininkai, tikėdamiesi atlyginimo iš Žygimanto
-    varžovo, be to, bijodami galimo tardymo ir teismo,
-    rėmė tremtyje gyvenantį Bo-
-    L ietu vo s d id ik ų pažiū-
-    leslovą. Ir vieni, ir kiti nepai­
-    ros į n a u ją jį v a ld o v ą
-    sė valstybės reikalų, o žiūrėjo
-    tik savo asmeninės naudos.
-    Tie, kurie, nepriklausydami nei vienai, nei kitai grupuo­
-    tei, galvojo apie krašto ateitį, stengėsi suvokti, kaip po
-    dabartinių negandų toliau klostysis įvykiai, ir svarstė,
-    kokios žalos atnešė valstybei Jogailos išvykimas į Len­
-    kiją.
+    Esąs tik vienas būdas suteikti valstybei saugią ramybę,
+    tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš­
+    rinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių,
+    nevaldydamas svetimų valstybių, asmeniškai rūpintųsi
+    išsaugoti Lietuvos Didžiosios Kunigaikštystės vientisu­
+    mą. Šitokios mintys, platinamos ir žodiškai, ir raštiškai
+    laiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­
+    jorai, sukėlė didelį nemažo būrio palankumą Aleksan­
+    drui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.
+    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
+    gimine ir sąjungą su lenkais.
   citata_rodoma: "Esąs tik vienas būdas suteikti valstybei saugią ramybę,\ntas pats, kuriuo pavyko išplėsti jos valdas, būtent iš­\nrinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių,\nnevaldydamas svetimų valstybių, asmeniškai rūpintųsi\nišsaugoti Lietuvos Didžiosios Kunigaikštystės vientisu­\nmą. Šitokios mintys, platinamos ir žodiškai, ir raštiškai\nlaiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­\njorai, sukėlė didelį nemažo būrio palankumą Aleksan­\ndrui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.\nNugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos\ngimine ir sąjungą su lenkais."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -225,17 +247,20 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Esąs tik vienas būdas suteikti valstybei saugią ramybę,
-    tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš­
-    rinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių,
-    nevaldydamas svetimų valstybių, asmeniškai rūpintųsi
-    išsaugoti Lietuvos Didžiosios Kunigaikštystės vientisu­
-    mą. Šitokios mintys, platinamos ir žodiškai, ir raštiškai
-    laiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­
-    jorai, sukėlė didelį nemažo būrio palankumą Aleksan­
-    drui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.
-    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
-    gimine ir sąjungą su lenkais.
+    Kiti parėmė šį siūlymą
+    iš baimės, kad atidėliojant yal-
+    džia
+    valstybėje
+    neatitektų
+    Mykolui. Štai todėl kuo grei­
+    čiausiai sušaukė Breste seimą,
+    nes kelias į tą miestą Kazi­
+    mierui buvo artimas, o kitų grupuočių vadovams tolo­
+    kas. Pasiuntė kilmingiausius ir žymiausius didikus bro­
+    lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti
+    Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie
+    kaip beįmanydami privalėjo raginti jaunikaitį, kad jis,
+    lenkų patariamas, nesusimanytų delsti.
   citata_rodoma: "Kiti parėmė šį siūlymą\niš baimės, kad atidėliojant yal-\ndžia\nvalstybėje\nneatitektų\nMykolui. Štai todėl kuo grei­\nčiausiai sušaukė Breste seimą,\nnes kelias į tą miestą Kazi­\nmierui buvo artimas, o kitų grupuočių vadovams tolo­\nkas. Pasiuntė kilmingiausius ir žymiausius didikus bro­\nlius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti\nKazimierą į Brestą kuo greičiausiai perimti valdžios; jie\nkaip beįmanydami privalėjo raginti jaunikaitį, kad jis,\nlenkų patariamas, nesusimanytų delsti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

@@ -28,33 +28,12 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Steponas Kairys
 
 ## Santrauka
 
 Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
-
-## Teiginiai
-
-<a id="claim-t-64123"></a>
-- t-001
-  teiginys: "Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Bernas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Kairys: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bernas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dalyvavimas Berno konferencijoje tiesiogiai sieja Steponą Kairį su vykimu į Berną kaip renginio vietą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Steponas Kairys keliavo į Bernas (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia Stepono Kairio dalyvavimą Berno konferencijoje."
-  pagrindžia:
-    - c-64966
 
 ## Citatos
 
@@ -83,5 +62,3 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

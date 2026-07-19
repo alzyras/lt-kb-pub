@@ -7,13 +7,13 @@ datos:
   - '1465 m.'
 date_start: '1465'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -94,12 +94,10 @@ Nenurodyta
   pagrindžia:
     - c-178593
 
-## Citatos
-
-- id: c-168892
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nebežinoda­
     mi, ko griebtis, sugalvojo padegti vieną kitą namą, iš­
@@ -118,6 +116,31 @@ Nenurodyta
     nei iš tikrųjų (paprastai šitokį atgarsį sukelia pirmi
     gandai), nes žmogus be galo linkęs viską perdėti arba
     visko prisigalvoti, kaip jam šauna į galvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168892
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Iš ten karalius nuvyko į Lietuvą
+    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
+    niuje ir Gardine siautė maras.
+    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
+    vikas, Antiochijos
+    patriar­
+    chas, popiežiaus pasiuntinys.
+    Rytų imperijos gyventojai,
+    pavergti turkų, maldavo Va­
+    karų šalis, o ypač popiežių
+    bei imperatorių padėti be-
+    žlungančiai krikščionybei.
   citata_rodoma: "Iš ten karalius nuvyko į Lietuvą\nir likusius žiemos mėnesius praleido Kaune, nes Vil­\nniuje ir Gardine siautė maras.\nŽiemos pabaigoje atvyko Lietuvon pas karalių Liud­\nvikas, Antiochijos\npatriar­\nchas, popiežiaus pasiuntinys.\nRytų imperijos gyventojai,\npavergti turkų, maldavo Va­\nkarų šalis, o ypač popiežių\nbei imperatorių padėti be-\nžlungančiai krikščionybei."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

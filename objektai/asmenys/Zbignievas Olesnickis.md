@@ -9,10 +9,6 @@ datos:
   - '1423 m.'
 date_start: '1422'
 date_end: '1423'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +16,10 @@ tags:
   - karalius
   - vyskupas
   - popiežius
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -289,24 +289,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 - susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179455|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: 1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.
 - susijęs iš Daugai: Dauguose Vytautas ir Jogaila sužinojo imperatoriaus sprendimą, kuris juos suerzino, nes kryžiuočiams pripažino daugiau, nei šie prašė.
-## Reikšmingi paminėjimai
-- c-012
-  santrauka: 'Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne atsižvelgiant | Lenkijos karalystes tarybaKrokuvos vyskupo Zbignievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą, siekdama patalini!'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Jogaila turėjo pritarti valiai
-    LDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­
-    niu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­
-    atsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig-
-    nievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą,
-    siekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­
-    skyrimui nuo Lenkijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-36599
@@ -545,15 +527,13 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    * Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso
-    Aleksandravičiaus brolis. Talkininkaudamas Svitrigai'ai, žuvo Pa­
-    baisko (Ukmergės) mūšyje 1435 m.
-    Tverė teikė karinę pagalbų Svitrigai'ai. kadangi jos didysis
-    kunigaikšl s (nuo 1425 m.) Boruos Aleksandravičius (1399— I4fil|
-    buvo Švitrigailos giminaitis (Švitrigaila buvo vedęs spėjamų Bonso
-    Aleksandrovičiaus pusseserę Onų); be to, Tverės didysis kunigaikš­
-    tis Borisas Aleksandravičius dar 1427 m. buvo sudaręs su LDK su­
-    tarti, kurios laikėsi ir Vytautui mirus.
+    Jogaila turėjo pritarti valiai
+    LDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­
+    niu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­
+    atsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig-
+    nievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą,
+    siekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­
+    skyrimui nuo Lenkijos.
   citata_rodoma: "Jogaila turėjo pritarti valiai \nLDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­\nniu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­\natsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig- \nnievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą, \nsiekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­\nskyrimui nuo Lenkijos."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

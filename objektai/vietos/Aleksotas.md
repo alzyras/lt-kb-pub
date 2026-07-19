@@ -118,43 +118,6 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
 - susijęs iš Karaliaučiaus bažnyčios Agenda: Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvius iki 1530 m. laikiusis aukų Pergrubei apeigų.
 - susijęs iš Lietuva: 1570 m. Lietuvos monetos buvo keičiamos į lenkiškus pinigus, fiksuojant dėl to patirtus nuostolius.
 - susijęs iš Lietuva: Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškąją Aleksotą apdainuojančias dainas siejo su Kauno apylinkėmis.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrimais ir lygino jį su nimfos Alexothe vardu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iškilmės“.
-    O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
-    deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
-    to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
-    buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Pasak Narbuto užrašyto pasakojimo, Aleksoto priemiestyje ant kalno stovėjusi šventykla arba aukuras meilės dievybėms.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šią vietą iki šiol
-    vadina šilu, nors joje nematyti jokio medžio. Taip pat pasako­
-    ja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­
-    tykla arba aukuras, skirtas meilės dievybėms.
-    159
-
-    ## Puslapis 159
-
-    Iš šių pastebėjimų reikia daryti išvadą, kad pats Kauno
-    miestas pavadinimą gavo veikiau nuo dievaičio Kaunio, o ne
-    nuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto
-    įkūrėjas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-171810
@@ -162,15 +125,11 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
-    nas man papasakojo gerbiamas profesorius ponas Laurinavi­
-    čius. „Reikėtų priminti ir tai, - rašoma jo laiške, - jog amžiną
-    atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­
-    vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­
-    raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš,
-    norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
-    išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
-    kirsti angą ir ją sutvirtinti.
+    Iškilmės“.
+    O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
+    deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
+    to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
+    buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3.
   citata_rodoma: "Iškilmės“.\nO tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji\ndeivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­\nto priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais\nbuvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -185,16 +144,18 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Be to, žemdirbiai jam dar paskirdavo vasa­
-    rojaus pasėlius, kur tam tikruose rėžiuose jam sėdavo, idant
-    teiktųsi būti ir dirvų globėju, kaip kad namų sergėtoju. Šį die­
-    vaitį garbino visiškai taip pat, kaip slavų Pokuitį, skirtumas tik
-    tas, kad vieta jam būdavo skiriama ne kampe, kaip Rusioje,
-    kur ir dabar kabinami šventieji paveikslai, bet virš slenksčio, o
-    jeigu lūšnelė apšildoma be kamino, išvesto per stogą, tai iš
-    lauko pusės virš prieangio durų. Tačiau nesame tikri, kaip tas
-    dievaitis buvo vaizduojamas; atrodo, tai buvo įpjautas medyje
-    arba lentelėje tam tikras ženklas arba mitinis hieroglifas.
+    Šią vietą iki šiol
+    vadina šilu, nors joje nematyti jokio medžio. Taip pat pasako­
+    ja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­
+    tykla arba aukuras, skirtas meilės dievybėms.
+    159
+
+    ## Puslapis 159
+
+    Iš šių pastebėjimų reikia daryti išvadą, kad pats Kauno
+    miestas pavadinimą gavo veikiau nuo dievaičio Kaunio, o ne
+    nuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto
+    įkūrėjas.
   citata_rodoma: "Šią vietą iki šiol\nvadina šilu, nors joje nematyti jokio medžio. Taip pat pasako­\nja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­\ntykla arba aukuras, skirtas meilės dievybėms.\n159\n\n## Puslapis 159\n\nIš šių pastebėjimų reikia daryti išvadą, kad pats Kauno\nmiestas pavadinimą gavo veikiau nuo dievaičio Kaunio, o ne\nnuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto\nįkūrėjas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

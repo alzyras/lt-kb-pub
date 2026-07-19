@@ -9,15 +9,15 @@ datos:
   - '1381 m.'
 date_start: '1380'
 date_end: '1381'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,31 +72,6 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   pagrindžia:
     - c-177096
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Iškalti Dmitrijaus Doniškio laikų rusiški žen klai ir kitokie lietuvių kariški ženklai 2 pav.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    458
-
-    ## Puslapis 458
-
-    ILIUSTRACIJOS
-    (LENTELĖS)
-
-    ## Puslapis 459
-
-    I lentelė
-    1 pav. Senovinio vamzdžio žalvarinis žiedas, puoštas iškiliuoju
-    kalimu, išilginis vaizdas. Iškalti Dmitrijaus Doniškio laikų rusiški žen­
-    klai ir kitokie lietuvių kariški ženklai
-    2 pav.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-83631
@@ -147,12 +122,20 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Aptvare, kurį supa namai, pastatyti šven­
-    tovės tarnams ir pačiam vyriausiajam žyniui, auga žiemą vasarą ža­
-    liuojantis ąžuolas, prie kurio nišose stovi dievų stabai, o prieš juos -
-    aukų deginimo aukuras su nuolat degančia ugnimi. Visa tai juosia
-    šešiakampė mūro siena. Aptvaro viduje matyti 12 ąžuolinių malkų
-    krūvų kiekvienam mėnesiui ugniai kūrenti.
+    458
+
+    ## Puslapis 458
+
+    ILIUSTRACIJOS
+    (LENTELĖS)
+
+    ## Puslapis 459
+
+    I lentelė
+    1 pav. Senovinio vamzdžio žalvarinis žiedas, puoštas iškiliuoju
+    kalimu, išilginis vaizdas. Iškalti Dmitrijaus Doniškio laikų rusiški žen­
+    klai ir kitokie lietuvių kariški ženklai
+    2 pav.
   citata_rodoma: "458\n\n## Puslapis 458\n\nILIUSTRACIJOS\n(LENTELĖS)\n\n## Puslapis 459\n\nI lentelė\n1 pav. Senovinio vamzdžio žalvarinis žiedas, puoštas iškiliuoju\nkalimu, išilginis vaizdas. Iškalti Dmitrijaus Doniškio laikų rusiški žen­\nklai ir kitokie lietuvių kariški ženklai\n2 pav."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

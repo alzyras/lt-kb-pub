@@ -49,6 +49,29 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
   pagrindžia:
     - c-169399
 - susijęs iš [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.).md#claim-t-185840|Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]: Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams atskuba didelės pagalbos pajėgos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Padidėjus lenkų
+    jėgoms, kova pasmarkėjo, tačiau Fiodoras vylėsi lai­
+    mėsiąs, nes, laiku surikiavęs karius, kurių turėjo dau­
+    giau nei lenkai ir kurie nebuvo taip pavargę, grūmėsi
+    su nepailsėjusia ir kovai nepasirengusia kariuomene.
+    Iš pradžių dėl lenkų ryžtingumo bei narsumo nė vie­
+    na šalis neįgavo persvaros, ir kurie ne kurie rusai,
+    tikri dėl pergalės, paliko savo būrius ir sumišai pasi­
+    leido ieškoti grobio. Lenkams nė trupučio nepalengvė­
+    jo, kad rusai nejautė pavojaus. Lenkų ir rusų kovos
+    likimas išsisprendė tada, kai begalinį narsumą parodė
+    šimtininkas Kemlickis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169398
@@ -86,18 +109,14 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Padidėjus lenkų
-    jėgoms, kova pasmarkėjo, tačiau Fiodoras vylėsi lai­
-    mėsiąs, nes, laiku surikiavęs karius, kurių turėjo dau­
-    giau nei lenkai ir kurie nebuvo taip pavargę, grūmėsi
-    su nepailsėjusia ir kovai nepasirengusia kariuomene.
-    Iš pradžių dėl lenkų ryžtingumo bei narsumo nė vie­
-    na šalis neįgavo persvaros, ir kurie ne kurie rusai,
-    tikri dėl pergalės, paliko savo būrius ir sumišai pasi­
-    leido ieškoti grobio. Lenkams nė trupučio nepalengvė­
-    jo, kad rusai nejautė pavojaus. Lenkų ir rusų kovos
-    likimas išsisprendė tada, kai begalinį narsumą parodė
-    šimtininkas Kemlickis.
+    Lenkai atgavo drąsą ir ūpą, tuo
+    tarpu rusai, liovęsi ieškoję grobio ir puolę į kovą, ne­
+    surado nei savo vėliavų, nei savo būrių. Kunigaikštis
+    Fiodoras, manydamas, jog lenkams į pagalbą atskuba
+    didelės jėgos, anksčiau už kitus paspruko su rinkti­
+    niais kariais iš kovos lauko į saugesnę vietą, o paskui,
+    vadą be tvarkos pasileido ir visa kariuomenė. Kur kas
+    daugiau jų žuvo bėgant, nei kovojant.
   citata_rodoma: "Lenkai atgavo drąsą ir ūpą, tuo\ntarpu rusai, liovęsi ieškoję grobio ir puolę į kovą, ne­\nsurado nei savo vėliavų, nei savo būrių. Kunigaikštis\nFiodoras, manydamas, jog lenkams į pagalbą atskuba\ndidelės jėgos, anksčiau už kitus paspruko su rinkti­\nniais kariais iš kovos lauko į saugesnę vietą, o paskui,\nvadą be tvarkos pasileido ir visa kariuomenė. Kur kas\ndaugiau jų žuvo bėgant, nei kovojant."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

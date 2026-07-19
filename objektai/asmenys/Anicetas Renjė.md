@@ -9,14 +9,14 @@ datos:
   - '1877 m.'
 date_start: '1804'
 date_end: '1877'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -146,43 +146,6 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     - c-173729
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-188395|Adomas Stanislovas Naruševičius]]: Narbutas laiške Anicetui Renjė kritikavo Naruševičių, kad šis rašė apie valdžios veiksmus ir karo įvykius, bet ne apie tautą.
 - susijęs iš [[objektai/daiktai/Briliantinis žiedas.md#claim-t-187978|Briliantinis žiedas]]: 1839 m. T. Narbutas, nusiuntęs penkis savo istorijos veikalo tomus Rusijos imperatoriui, gavo briliantinį žiedą, įvertintą 1000 aukso rublių.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Medicinos daktaro Renjė 1839 m. gruodžio 15 d. laiškas iš Vilniaus Narbutui buvo nuoroda į Podčašinskio pastebėjimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tik neaišku, koks buvo rezul­
-    tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos
-    daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį
-    pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos
-    dalykus*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: '1839 m. gruodžio 15 d. laiške iš Vilniaus medicinos daktaras Anicetas Renjė rašė, kad Podčašinskis pastebėjimą padarė prieš Renjė aprašymą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    (Medicinos
-    daktaro
-    Renjė
-    1839.XII.15
-    dienos laiškas iš Vilniaus.) Sį pastebėjimą p/onas/ Podčašinskis
-    padarė
-    dar
-    prieš
-    man
-    aprašant
-    tuos
-    dalykus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-170876
@@ -233,18 +196,11 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Paprasti žmonės visada
-    su dideliu pamaldumu garbino jos karstą toje cerkvėje, o Mask­
-    vos rusai, tiek kartų naikinę Vilnių, neliesdavo tos senos Vil­
-    niaus Petionkos cerkvės, nors jau pasidavusios šventajai uni-
-    jai“.
-    Taip pat ir Vilniuje, sklype, šiandien priklausančiame Vai­
-    kelio Jėzaus vienuolynui, šalia senosios mūrinės miesto sie­
-    nos, yra aiškūs pėdsakai kadaise buvusios tvirtovės arba atski­
-    ros pilaitės, kurią seniau vadino Bokštu (Bakszta). Po visu tuo
-    kalnu yra erdvūs požeminiai koridoriai, labai patvariai išmū­
-    ryti iš plytų, su salėmis, nišomis, besitęsiantys įvairiais zigza­
-    gais; sako, kad iki šiol nežinoma, kur jie baigiasi.
+    Tik neaišku, koks buvo rezul­
+    tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos
+    daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį
+    pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos
+    dalykus*.
   citata_rodoma: "Tik neaišku, koks buvo rezul­\ntatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos\ndaktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį\npastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos\ndalykus*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -259,13 +215,18 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tekstas, kuriuo autorius papil'dė paragrafą, rengdamas antrąjį
-    LTI leidimą (PEĮ. L, 154). Tai informacija iš jau cituoto Kauno
-    gimnazijos prefekto S. Laurinavičiaus laiško. Be kita ko, laiško
-    autorius labai skeptiškai atsiliepė apie tai, jog šioje vietoje ga­
-    lėjo egzistuoti griaustinio ir žaibų dievo šventykla: „Aš mažai
-    tikiu šiais padavimais, bylojančiais, tarytum čia iš tikrųjų buvo
-    garbinamas Perkūnas“.
+    (Medicinos
+    daktaro
+    Renjė
+    1839.XII.15
+    dienos laiškas iš Vilniaus.) Sį pastebėjimą p/onas/ Podčašinskis
+    padarė
+    dar
+    prieš
+    man
+    aprašant
+    tuos
+    dalykus.
   citata_rodoma: "(Medicinos\ndaktaro\nRenjė\n1839.XII.15\ndienos laiškas iš Vilniaus.) Sį pastebėjimą p/onas/ Podčašinskis\npadarė\ndar\nprieš\nman\naprašant\ntuos\ndalykus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

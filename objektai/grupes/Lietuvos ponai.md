@@ -7,13 +7,13 @@ datos:
   - '1316 m.'
 date_start: '1316'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - bajorija
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,48 +32,6 @@ media_all_json: |-
 ## Santrauka
 
 Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tre­
-    čioji paliko bevaikė. Lietuvos ponai 1316 metų sausio mėnesį
-    Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš
-    tai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes
-    Žemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
-    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
-    naudai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172383
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Tai bu­
-    vo nepaprastas žmogus: praeitį žinojo, dabartį suprato, ateitį
-    įspėdavo. Monarchai klausydavo jo patarimų ir valios. Kita­
-    dos jis greičiau perplaukdavo jūrą nuo pasaulio krašto iki kraš­
-    to, negu kas nors spėdavo persikelti per Nemuną. Jis kalbėda­
-    vosi su mėnesiu ir žinojo be galo daug žvaigždžių pavadinimų.
-    Turėjo žirgą, vadintą Juodžiu (Jodž), su kuriuo pralenkdavo
-    vėją.
-  citata_rodoma: "Tre­\nčioji paliko bevaikė. Lietuvos ponai 1316 metų sausio mėnesį\nLietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš\ntai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes\nŽemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­\nčiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto\nnaudai."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -106,6 +64,28 @@ Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaik�
 - susijęs iš Kijevas: 1461 m. Lietuvos ponai kandidatu į Lietuvos valdovus siūlė Kijevo kunigaikštį Simaną.
 - susijęs iš Kijevas: Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde.
 - susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
+## Citatos
+
+- id: c-172383
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Tre­
+    čioji paliko bevaikė. Lietuvos ponai 1316 metų sausio mėnesį
+    Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš
+    tai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes
+    Žemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
+    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
+    naudai.
+  citata_rodoma: "Tre­\nčioji paliko bevaikė. Lietuvos ponai 1316 metų sausio mėnesį\nLietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš\ntai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes\nŽemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­\nčiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto\nnaudai."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Lietuvos ponai paskyrė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

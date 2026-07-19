@@ -123,37 +123,6 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   pagrindžia:
     - c-174602
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia apie sieros šaltinį netoli prūsų Romovės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
-    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
-    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
-    S. 261).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Pasak Teodoro Narbuto, vyskupas Kristijonas Divonio kelionės aprašymą rado Plocko kanauninko Jaroslavo kronikoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tačiau Tidemanas rašo, kad
-    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
-    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
-    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
-    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
-    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
-    mis2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174598
@@ -161,14 +130,10 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Gintaras lenkiškai vadinamas bursztyrv,
-    jo pavadinimas pasiskolintas iš vokiečių kalbos bdrnstein,
-    galbūt iš žodžio boernen, kuris reiškia „degti“, t. y. degus
-    akmuo. Visuose lietuvių kalbos dialektuose vadinamas
-    Gentoras; šio pavadinimo šaltinis, kaip spėja daugelis fi­
-    lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
-    ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
-    žodis Hentar pasiskolintas iš lietuvių.
+    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
+    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
+    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
+    S. 261).
   citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -210,14 +175,13 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Visos svarbiausios šio veikalo detalės turi
-    geriausių šiaurinių kraštų tyrinėtojų išvadas4. Tik buvo
-    manoma, kad už Divonio vardo slypi kažkoks romėnų
-    astronomas, kuris buvo įpareigotas išmatuoti šiaurinę Eu­
-    ropą; šie Julijaus Cezario pradėti matavimai vyko be pa­
-    liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
-    iki 24 metų prieš Kristaus gimimą. Tiems topografams
-    vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
+    Tačiau Tidemanas rašo, kad
+    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
+    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
+    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
+    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
+    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
+    mis2.
   citata_rodoma: "Tačiau Tidemanas rašo, kad\njis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės\naprašymas išliko rankraštyje, kuris atiteko Plocko kated­\nros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­\nno rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi\nbūti knyga, parašyta slavų kalba, bet graikiškomis raidė­\nmis2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -52,11 +52,7 @@ Dusburgietis teigia, kad vanagas A.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    102— 103.
-    Матузова В. И. Археографические принципы издания «Хроники земли прусской»
-    Петра из Дусбурга. — Материалы межреспубликанской научной конференции по
-    источниковедению и историографии народов прибалтийских республик Союза ССР:
-    Источниковедение, В., 1978, с.
+    Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981.
   citata_rodoma: "Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

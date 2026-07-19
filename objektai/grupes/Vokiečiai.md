@@ -14,15 +14,15 @@ datos:
   - '2026 m.'
 date_start: '1221'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
   - ordinas
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -1655,6 +1655,84 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 - susijęs iš [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus.md#claim-t-07778|Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]: Kare paimtus priešus, ypač vokiečius krikščionis, lietuviai versdavo sunkiai dirbti, prirakindavo prie girnų arba laikydavo iki mirties.
 - susijęs iš Kaunas: 1362 metais vokiečiai išgriovė Kauno pilį ir pradėjo brautis giliau į Lietuvą.
 - susijęs iš [[objektai/asmenys/Pavelas Bermontas-Avalovas.md#claim-t-19188|Pavelas Bermontas-Avalovas]]: Pavelas Bermontas-Avalovas vadovavo rusų ir vokiečių kariuomenei, vadintai bermontininkais.
+## Reikšmingi paminėjimai
+- c-013
+  santrauka: 'Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos iš šiaurės.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
+    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
+    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
+    tas, norėdamas išdildyti pri-
+    S k irm a n ta s su m u ša
+    siminimus apie pralaimėjimą,
+    sk itu s
+    patirtą prieš keletą metų;
+    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
+    pareikalauti iš Rusios duoklės. Skirmantas, kuo grei­
+    čiausiai sutraukęs didžiulę kariuomenę, kurią sudarė
+    rusai, šioje Neries pusėje gyvenantys lietuviai, be to,
+    Kukovaičio atsiųsti Užnerio lietuviai, pasiuntiniams
+    surengė kuo šauniausią puotą; po ilgų vaišių, kai šie
+    jau ketino keliauti atgal, Skirmantas įsakė visiems nu­
+    pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
+    pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
+    tuviams kalbėję apie duoklę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-015
+  santrauka: 'Narbutas rašė, kad senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“ ir „Belewitt“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
+    tinkame mūsų kaimiečių padavimuose. Turiu jį savajame se­
+    nų liaudies padavimų rinkinyje; kitą, menkai tesiskiriantį, ga­
+    vau iš Žemaitijos, iš vieno senovės tyrėjo. Pasak šių lietuvių
+    padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
+    pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
+    buvo deivė, kaip vadinosi vyriausiasis dievas. Deivės vardas
+    buvo IJetuva, jos vyro - Trinetas (Trinytis? - R.J.), dukters -
+    Dalia (Dala) arba Dahla.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-016
+  santrauka: 'Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai rašiusį apie kryžiuočius ir vokiečių tautą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    O kas gi buvo
+    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
+    tuva kilties ir vienos genties broliai? Labiausiai kritikui nepa­
+    tiko, kad didžioji vardų dalis baigiasi raide o; tokių prūsiškų,
+    šiaip jau žinomų vardų esą maža. Atsakant į tai, reikia atkreipti
+    kritiko dėmesį, kad tie vardai kronikose iš dalies rašomi ne­
+    tiksliai, kadangi šiaip jau žinomiBrutenes (Brutenis) ir Wejda-
+    wutis (Vaidevutis) tame būryje turi tokias pat vardų galūnes.
+    Tačiau pats kritikas negali užginčyti, kad buvo vardų ir su to­
+    kia galūne; tegu pamąsto apie tokį atvejį, jog tų žmonių būry­
+    je daugiausia buvo turinčių tas nelaimingas galūnes, kurios
+    padarė, kad autorius pats susilpnina ir vienu plunksnos brūkš­
+    niu padaro abejotinus savo principinius teiginius, taip stropiai
+    pateiktus anksčiau toje pačioje istorijoje, ir vyriausiojo žynio
+    buvimo įrodymus, nukreiptus prieš priešingų hipotezių kėlė­
+    jus, - įrodymus, tokius tvirtus, aiškius ir akivaizdžius, kiek tik
+    leidžia pagalbinės istorijos mokslo priemonės, - pasitelkda­
+    mas hipotezes jiems visiškai sugriauti ir dar hipotezes, pasi­
+    skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
+    savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
+    jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-36958
@@ -1906,25 +1984,27 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
+    93
+
+    ## Puslapis 84
+
+    1221 m e ta i
+    K u k o v a itis — L ietu ­
+    v o s  ir Ž e m a itijo s k u ­
+    n ig a ik štis
+    gojo taiką, būdamas beveik
+    iš visų pusių apsuptas bičiu­
+    lių; vakaruose—prūsų- rytuo­
+    se — brolio Ginvilos, Poloc­
+    ko kunigaikščio, pietuose
+    jotvingių ir Skirmanto, Nau­
+    garduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau
+    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
+    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
+    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
     Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
-    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
-    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
-    tas, norėdamas išdildyti pri-
-    S k irm a n ta s su m u ša
-    siminimus apie pralaimėjimą,
-    sk itu s
-    patirtą prieš keletą metų;
-    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
-    pareikalauti iš Rusios duoklės. Skirmantas, kuo grei­
-    čiausiai sutraukęs didžiulę kariuomenę, kurią sudarė
-    rusai, šioje Neries pusėje gyvenantys lietuviai, be to,
-    Kukovaičio atsiųsti Užnerio lietuviai, pasiuntiniams
-    surengė kuo šauniausią puotą; po ilgų vaišių, kai šie
-    jau ketino keliauti atgal, Skirmantas įsakė visiems nu­
-    pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
-    pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
-    tuviams kalbėję apie duoklę.
+    Rusią.
   citata_rodoma: "Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-\n93\n\n## Puslapis 84\n\n1221 m e ta i\nK u k o v a itis — L ietu ­\nv o s  ir Ž e m a itijo s k u ­\nn ig a ik štis\ngojo taiką, būdamas beveik\niš visų pusių apsuptas bičiu­\nlių; vakaruose—prūsų- rytuo­\nse — brolio Ginvilos, Poloc­\nko kunigaikščio, pietuose\njotvingių ir Skirmanto, Nau­\ngarduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -1981,15 +2061,15 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
-    tinkame mūsų kaimiečių padavimuose. Turiu jį savajame se­
-    nų liaudies padavimų rinkinyje; kitą, menkai tesiskiriantį, ga­
-    vau iš Žemaitijos, iš vieno senovės tyrėjo. Pasak šių lietuvių
-    padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
-    pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
-    buvo deivė, kaip vadinosi vyriausiasis dievas. Deivės vardas
-    buvo IJetuva, jos vyro - Trinetas (Trinytis? - R.J.), dukters -
-    Dalia (Dala) arba Dahla.
+    Lietuvos rusinai savo pasakojimuose taip pat mini
+    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
+    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
+    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
+    „Belewitt“**.
+    9
+    Gera lietuvių kalba mundus reiškia pasaulį apskritai, todėl Na-
+    rvmund -  pasaulio pakraštys, Giarymund -  gerasis pasaulis, Zyg-
+    mund -  kitoniškas (skirtingas) pasaulis*.
   citata_rodoma: "Lietuvos rusinai savo pasakojimuose taip pat mini\nDolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­\ntūna, būdama permaininga, vieniems būdavo gera, o kitiems -\nbloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,\n„Belewitt“**.\n9\nGera lietuvių kalba mundus reiškia pasaulį apskritai, todėl Na-\nrvmund -  pasaulio pakraštys, Giarymund -  gerasis pasaulis, Zyg-\nmund -  kitoniškas (skirtingas) pasaulis*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2004,27 +2084,16 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O kas gi buvo
-    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
-    tuva kilties ir vienos genties broliai? Labiausiai kritikui nepa­
-    tiko, kad didžioji vardų dalis baigiasi raide o; tokių prūsiškų,
-    šiaip jau žinomų vardų esą maža. Atsakant į tai, reikia atkreipti
-    kritiko dėmesį, kad tie vardai kronikose iš dalies rašomi ne­
-    tiksliai, kadangi šiaip jau žinomiBrutenes (Brutenis) ir Wejda-
-    wutis (Vaidevutis) tame būryje turi tokias pat vardų galūnes.
-    Tačiau pats kritikas negali užginčyti, kad buvo vardų ir su to­
-    kia galūne; tegu pamąsto apie tokį atvejį, jog tų žmonių būry­
-    je daugiausia buvo turinčių tas nelaimingas galūnes, kurios
-    padarė, kad autorius pats susilpnina ir vienu plunksnos brūkš­
-    niu padaro abejotinus savo principinius teiginius, taip stropiai
-    pateiktus anksčiau toje pačioje istorijoje, ir vyriausiojo žynio
-    buvimo įrodymus, nukreiptus prieš priešingų hipotezių kėlė­
-    jus, - įrodymus, tokius tvirtus, aiškius ir akivaizdžius, kiek tik
-    leidžia pagalbinės istorijos mokslo priemonės, - pasitelkda­
-    mas hipotezes jiems visiškai sugriauti ir dar hipotezes, pasi­
-    skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
-    savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
-    jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
+    1.
+    Seniausias žinomas šito šaltinis yra Simonas Grunau,
+    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
+    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
+    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
+    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
+    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
+    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
+    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
+    11 Sirvydo žodynas.
   citata_rodoma: "1.\nSeniausias žinomas šito šaltinis yra Simonas Grunau,\nnaujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš\ntikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­\nšantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug\nužsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais\nnekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­\nma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų\narba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­\n11 Sirvydo žodynas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

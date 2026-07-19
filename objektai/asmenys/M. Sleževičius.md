@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # M. Sleževičius
 
 ## Santrauka
@@ -37,15 +38,6 @@ media_all_json: |-
 M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius. Šio antrojo kabineto pirmininku buvo M. Sleževičius. Kabinetas tuojau paskelbė visų piliečių šaukimą į savanorių pulkus ginti nepriklausomybės. Valstybės prezidentu buvo išrinktas d r. Kazys Grinius, o ministerių pirmininku buvo paskirtas valstiečių liaudininkų lyderis M. Sleževičius.
 
 ## Teiginiai
-
-<a id="claim-t-79103"></a>
-- t-003
-  teiginys: "M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Centro komiteto narys."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-76194
 
 <a id="claim-t-79104"></a>
 - t-004
@@ -127,5 +119,3 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003

@@ -265,13 +265,19 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
+    Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–
+    1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
+    Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
+    riją lietuviškai. 1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
     buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
     tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
     parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
     veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
     praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
-    europietiškos katalikiškos civilizacijos šalininkas.
+    europietiškos katalikiškos civilizacijos šalininkas. Savo pirmąjį inaugura-
+    cinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-
+    tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
+    bene pirmą kartą.
   citata_rodoma: "Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–\n1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus \nKatalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-\nriją lietuviškai. 1848 m. Vilniuje ši knyga, kurios autorius tais pat metais \nbuvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-\ntintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad \nparašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo \nveikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius – \npraktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo \neuropietiškos katalikiškos civilizacijos šalininkas. Savo pirmąjį inaugura-\ncinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-\ntuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo \nbene pirmą kartą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
@@ -308,13 +314,12 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Tai išryškės
-    po 1863 m., kai vyskupo slapta paraginta liaudis nepasiduos caro val-
-    džios vilionėms ir iš esmės sužlugdys rusinimo politikos užmačias. O
-    vyskupo raginimų laikytasi, nes jis savo ankstesne veikla tapo liaudžiai
-    visomis prasmėmis artimu ir neginčijamu autoritetu. Tad nebūdamas
+    Tad nebūdamas
     politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
-    padarė bene didesnę įtaką, nei kas nors kitas.
+    padarė bene didesnę įtaką, nei kas nors kitas. Ugdydamas liaudies išti-
+    kimybę savo kalbai ir kultūrai, jis niekur nepasisakė ir prieš lenkiškai
+    kalbančiuosius, savo dienoraštį rašė lenkiškai, o pasirašydavo lenkiška
+    maniera – Wolonczewski.
   citata_rodoma: "Tad nebūdamas \npolitiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje \npadarė bene didesnę įtaką, nei kas nors kitas. Ugdydamas liaudies išti-\nkimybę savo kalbai ir kultūrai, jis niekur nepasisakė ir prieš lenkiškai \nkalbančiuosius, savo dienoraštį rašė lenkiškai, o pasirašydavo lenkiška \nmaniera – Wolonczewski."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
@@ -329,6 +334,17 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
+    M. Valančius pasirūpino, kad
+    kunigai turėtų pagarbų požiūrį į
+    lietuviškai kalbančią liaudį, gerai
+    išmoktų lietuviškai ir sakytų pa-
+    mokslus lietuviškai, davė nurody-
+    mą kunigams prie bažnyčių steigti
+    lietuviškas mokyklas. O vyskupija
+    tuomet apėmė didžiąją dalį etni-
+    nės Lietuvos, ne tik Žemaitiją. Tos
+    mokyklos visiškai nukonkuravo
+    valdiškas mokyklas rusų kalba.
     Kai kuriose vietovėse mokančių
     skaityti procentas padidėjo iki
     60 – baudžiavinio kaimo sąlygo-

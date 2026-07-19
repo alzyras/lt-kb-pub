@@ -6,13 +6,13 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-amziai:
-  - 'M'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - rašytojas
+amziai:
+  - 'M'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -73,19 +73,6 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
   pagrindžia:
     - c-61246
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'M. Mažvydas 1547 m. burtininkę vadino šventąja.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    M. Mažvydas
-    (1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61246
@@ -111,11 +98,8 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
-    žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
-    kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
-    paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė į
-    kaimynų krikščionių žemes.
+    M. Mažvydas
+    (1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105).
   citata_rodoma: "M. Mažvydas\n(1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

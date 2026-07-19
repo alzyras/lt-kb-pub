@@ -86,7 +86,7 @@ Nenurodyta
     ir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­
     čiuojamą daugybę dovanų — aukso, sidabro ir bran­
     gių perlų, sabalų bei kitų brangių ir retų žvėrių kai­
-    lių 5, ir apmokėjo išlaidas, kurias Algirdas pasidarė,
+    lių 5 , ir apmokėjo išlaidas, kurias Algirdas pasidarė,
     žygiuodamas j Maskvos žemę.
   citata_rodoma: "Ir, \nniekaip neišgalėdamas jam atsispirti, nusiuntė pas jj, \nprašydamas [taikos] ir žadėdamas jam brangias dova­\nnas, idant jo iš Maskvos, jo tėvonijos, neišvarytų, \no savo rūstybę numalšintų ir pasiimtų iš jo. ką pa­\nnorės.\nIr didysis kunigaikštis Algirdas pasigailėjo, parodė \nsavo maloningumą, nemetė jo iš Maskvos ir padarė su \njuo taiką. O paskui, sudarius susitarimą, ir pats Mask­\nvos didysis kunigaikštis išjojo pas jį, ir matėsi su juo, \nir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­\nčiuojamą daugybę dovanų — aukso, sidabro ir bran­\ngių perlų, sabalų bei kitų brangių ir retų žvėrių kai­\nlių 5 , ir apmokėjo išlaidas, kurias Algirdas pasidarė, \nžygiuodamas j Maskvos žemę."
   statusas: verified

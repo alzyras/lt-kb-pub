@@ -671,19 +671,13 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ratu
-    einantis užrašas perskaitomas; kai dėl herbo įvedimo datos,
-    atrodo, įtikėtina, kad tai buvo 1325 metais, taigi dar stabmel­
-    dystės laikais; todėl pasitvirtina mūsų spėjimas, kad tai milži­
-    nas Alcis laikui bėgant virto šventuoju Kristupu. Antrame ant­
-    spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
-    apačioje - Radvilų herbas Trimitai*.
-    Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio di­
-    džiajame antspaude, įspaustame vaške ir prikabintame prie
-    autentiško 1436 metų rašto (mačiau tikslų antspaudo piešinį),
-    yra keturi herbiniai skydai; viename, kurį kaire ranka laiko
-    kunigaikštis, sėdintis soste su kalaviju dešinėje rankoje, pa­
-    vaizduotas Lietuvos Vytis; tai visos Lietuvos herbas.
+    IV lentelė, 28-asis piešinys. Mačiau aukso žiedą su raudo­
+    nu akmeniu, valstiečio rastą prie Merkinės. Jo skyde gaidys su
+    pridėtu kažkokiu ženklu, panašiu į biarmišką raidę Pej, arba P.
+    Virš skydo tarytum kita tos abėcėlės raidė -  Mena, arba M;
+    žiedo auksakalio darbas labai gražus, graviravimas grubus ir
+    tarsi demonstruojantis pirmą raižytojo gabumų išmėginimą,
+    bet išrėžta labai giliai.
   citata_rodoma: "IV lentelė, 28-asis piešinys. Mačiau aukso žiedą su raudo­\nnu akmeniu, valstiečio rastą prie Merkinės. Jo skyde gaidys su\npridėtu kažkokiu ženklu, panašiu į biarmišką raidę Pej, arba P.\nVirš skydo tarytum kita tos abėcėlės raidė -  Mena, arba M;\nžiedo auksakalio darbas labai gražus, graviravimas grubus ir\ntarsi demonstruojantis pirmą raižytojo gabumų išmėginimą,\nbet išrėžta labai giliai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

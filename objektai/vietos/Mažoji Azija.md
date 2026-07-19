@@ -89,26 +89,6 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   pagrindžia:
     - c-166443
 
-<a id="claim-t-192699"></a>
-- t-004
-  teiginys: "Narbutas aiškina, kad gentis iš Mažosios Azijos per Juodosios ir Viduržemio jūrų pakrantes pateko į Europą ir davė pradžią pelazgams."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Europa: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pelazgai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nors sakinyje veikėjas yra gentis, ji tiesiogiai siejama su pelazgų pradžia ir apsigyvenimu Europoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175469
-
 <a id="claim-t-197895"></a>
 - t-005
   teiginys: "Šios dvi tautos, gal ir skirtingos kilmės, turėjo artimų tarpusavio santykių ir 1 Vidurinėje Azijoje nusidriekę Himalajų kalnai, sudarantys Ki nijos pietų sieną, anot naujesnių duomenų, savo vidutiniu aukščiu viršija Cimborasą, Amerikos Kordiljerų grandinės."
@@ -235,5 +215,4 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-005

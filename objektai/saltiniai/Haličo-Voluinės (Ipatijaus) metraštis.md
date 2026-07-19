@@ -135,24 +135,6 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    1247 metais jotvin­
-    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
-    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
-    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
-    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
-    čino (dabar Kobrino apskritis). Prie pat šio miesto sienų
-    įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
-    pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
-    gaikštukų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -212,19 +194,15 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kai 1253 metų pradžioje susiklostė draugiški Pamario
-    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
-    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
-    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
-    tinga Sembos provincija, bet šie atkaklūs bandymai ją
-    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
-    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
-    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
-    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
-    nės kraštais. Buvo baiminamasi didžiausio pralaimėjimo,
-    jei šios provincijos ir gentys, sudariusios tarpusavio są­
-    jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
-    1 Henning.
+    1247 metais jotvin­
+    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
+    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
+    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
+    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
+    čino (dabar Kobrino apskritis). Prie pat šio miesto sienų
+    įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
+    pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
+    gaikštukų.
   citata_rodoma: "1247 metais jotvin­\ngiai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­\nmet tai buvo garsūs valsčiai, ir tas kraštas buvo labai\nnuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės\nVladimiro, jau trečią dieną pasivijo juos prie pat Drohi-\nčino (dabar Kobrino apskritis). Prie pat šio miesto sienų\nįvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią\npergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-\ngaikštukų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

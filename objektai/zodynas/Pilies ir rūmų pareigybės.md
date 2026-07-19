@@ -36,17 +36,6 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
 
 - Dalies pavadinimų tikslios šiuolaikinės atitikties neįmanoma nusakyti be papildomo tyrimo, bet pareiginis pobūdis tekste akivaizdus.
 
-## Teiginiai
-
-<a id="claim-t-08618"></a>
-- t-002
-  teiginys: "Didžiojo kunigaikščio rūmų pareigybės apėmė rūmų tvarkos, svečių priėmimo, žirgynų, lobio, ūkės žymės ir raštų priežiūrą."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09724
-
 ## Citatos
 
 - id: c-09724
@@ -60,5 +49,3 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

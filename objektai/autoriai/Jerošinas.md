@@ -102,24 +102,6 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 - susijęs iš [[objektai/grupes/Rygos miestiečiai.md#claim-t-81605|Rygos miestiečiai]]: Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą.
 - susijęs iš [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas.md#claim-t-87158|Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]: Jerošino teigimu, Rygos arkivyskupas ir miestiečiai pajūrio miestuose bei popiežiui platino žinią, kad Gediminas norėjęs krikštytis.
 - susijęs iš 1781 m. vokiškas Dusburgiečio kronikos vertimas: 1781 m. Dusburgiečio kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto buvo išversta į vokiečių kalbą.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas spėja, kad Jerošinas apie krivį turėjo daugiau žinių, nes vadino jį Obriste Ewarte.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Aiškiai matyti, kad
-    jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­
-    kankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi
-    jo nobilior beveik nieko daugiau nepasako. Tačiau Jerošinas
-    tuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina
-    Obriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir
-    buvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-84025
@@ -183,13 +165,13 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Betgi, įsigilinus į nurodytosios vietos antrąją dalį, iškyla
-    klausimas, ar toks palyginimas ir išvados prikergimas galėjo
-    kiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji
-    istorinė tiesa dėl to tapo abejotina? Ar krivio buvimas dėl to
-    nevykusio palyginimo virto pasaka? Jokiu būdu. Po tūkstan­
-    čio metų kam nors galbūt ateis į galvą mintis paskelbti Peter­
-    burgą apaštalo Petro pilimi, jo pavadinimą palyginti su šv.
+    Aiškiai matyti, kad
+    jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­
+    kankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi
+    jo nobilior beveik nieko daugiau nepasako. Tačiau Jerošinas
+    tuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina
+    Obriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir
+    buvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum.
   citata_rodoma: "Aiškiai matyti, kad\njam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­\nkankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi\njo nobilior beveik nieko daugiau nepasako. Tačiau Jerošinas\ntuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina\nObriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir\nbuvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

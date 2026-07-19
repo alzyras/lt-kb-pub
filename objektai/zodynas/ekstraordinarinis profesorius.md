@@ -54,13 +54,7 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
   puslapiai: "p. 4 (PDF 3)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“, p. 4 (PDF 3)."
   citata_originali: |
-    magistro — 1894 m., fil. licenciato (tokia ten esą n^okslo laipsnių eilė)
-    — 1899 m. ir tais pačiais metais buvo pakviestas Helsinkų universi­
-    teto suomių liaudies poezijos docentu.
-    1913 m. pakviestas į suomių ir
-    lyginamosios liaudies poezijos extraordinarius profesorius, bet dėl ka­
-    ro nominacija užsitęsė ligi 1918 m., vadinas, iki Suomijos atsivadavi-
-    rno. Ordinariniu profesorium paskirtas 1930 m.
+    1913 m. pakviestas į suomių ir lyginamosios liaudies poezijos extraordinarius profesorius, bet dėl karo nominacija užsitęsė ligi 1918 m., vadinas, iki Suomijos atsivadavimo.
   citata_rodoma: "1913 m. pakviestas į suomių ir lyginamosios liaudies poezijos extraordinarius profesorius, bet dėl karo nominacija užsitęsė ligi 1918 m., vadinas, iki Suomijos atsivadavimo."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"

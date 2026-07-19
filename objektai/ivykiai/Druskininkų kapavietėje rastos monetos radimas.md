@@ -137,16 +137,11 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Informacija, kuria autorius papildė paragrafą, rengdamas ant­
-    rąjį LTI leidimą (PEĮ. L. 26). Tekste minimi faktai paimti iš mi­
-    nėto T. Volianskio laiško (P. 12).
-    94 /Ten
-    pat,
-    nenurodyta
-    vieta/
-    Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
-    (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
-    tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui.
+    Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus-
+    kininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal-
+    bama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul-
+    pai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai
+    pastatyto kalavijo ženklą.
   citata_rodoma: "Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus-\nkininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal-\nbama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul-\npai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai\npastatyto kalavijo ženklą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

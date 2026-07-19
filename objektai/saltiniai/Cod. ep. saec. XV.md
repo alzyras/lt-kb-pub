@@ -46,6 +46,19 @@ media_all_json: |-
   pagrindžia:
     - c-03522
 
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So­
+    kołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,
+    1876 ; t. 12, 1891 ; t. 14, 1894).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-03522
@@ -53,7 +66,7 @@ media_all_json: |-
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So­
+    CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So-
     kołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,
     1876 ; t. 12, 1891 ; t. 14, 1894).
   citata_rodoma: "CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So-\nkołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,\n1876 ; t. 12, 1891 ; t. 14, 1894)."

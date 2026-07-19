@@ -16,6 +16,9 @@ datos:
   - '2026 m.'
 date_start: '1320'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,9 +26,6 @@ tags:
   - kraštas
   - pilis
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -134,7 +134,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 <a id="claim-t-177911"></a>
 - t-033
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -247,7 +247,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 <a id="claim-t-177917"></a>
 - t-022
   teiginys: "Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -259,9 +259,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Podolė priklausė Lietuva (0.96); Kijevo kunigaikštystė priklausė Lietuva (0.96); Karijotaičiai pastatė Bakota (0.82)"
   pagrindžia:
-    - c-32336
     - c-161742
-    - c-182538
     - c-182555
 
 <a id="claim-t-177918"></a>
@@ -328,7 +326,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 <a id="claim-t-177922"></a>
 - t-001
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -524,7 +522,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 <a id="claim-t-177939"></a>
 - t-028
   teiginys: "Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -602,7 +600,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 <a id="claim-t-177946"></a>
 - t-029
   teiginys: "Petras Goštautas, vedęs Bučiacką iš Podolės, priėmė krikštą ir pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1275,6 +1273,152 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
 - susijęs iš Smotričo pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis ir valdė visą šią žemę.
 - susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185581|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus.
+## Reikšmingi paminėjimai
+- c-029
+  santrauka: 'Vytautas, vėl prijungęs Podolę prie Lietuvos, jos pilyse ir miestuose paliko lietuvių įgulas bei lietuvių kilmės vietininkus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vargu ar būtų sėkmingai įveikęs pilį, kuri, pačios gam­
+    tos, rodos, sukurta tvirtovei, ligi tol atrėmė bet kokias
+    žmonių pajėgas ir pastangas, tačiau negi esti tokių
+    gynybinių įtaisų ir tokių įtvirtinimų, kurių nepalaužtų
+    nesantaika? Negi kur esti tokia kalno viršūnė, kurios
+    nepasiektų nesantarvė? Gal dėl Vytauto klastingumo,
+    gal dėl kokios kitos priežasties tarp Podolės ir Valachi-
+    jos karių kilo nesutarimai,
+    Sulaukia
+    K a m e n e c o
+    kurie tarytum išgriovė gyny-
+    k a p itu lia c ijo s
+    bines sienas ir atvėrė priešui
+    kelią: dėl asmeniškos neapy­
+    kantos įtūžusios širdys visiškai užmiršo rūpintis ben­
+    drais reikalais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-043
+    - t-085
+    - t-083
+
+- c-030
+  santrauka: 'Jogailai išvykus iš Lietuvos į Lenkiją, Boleslovas su kariuomene patraukė į Podolę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Išsiuntė Tarlą Zakliką To-
+    porčiką, turėjusį įteikti Kameneco seniūnui karaliaus
+    įsakymą perduoti Kamenecą ir visą Podolę Mykolui Ba-
+    bai, Boleslovo kariuomenės vadui. Tačiau Tarias, iš
+    Andriaus Tenčinskio ir Mikalojaus Dževickio sužinojęs,
+    kaip nepagarbiai elgėsi Boleslovas su karaliumi, įmetė
+    Mykolą į kalėjimą, o į Podolės pilis įvedė stipresnes
+    įgulas.
+    Po visą Europą pasklidę gandai apie beprotišką Bo­
+    leslovo elgesį su karaliumi pasiekė galop ir Romą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-052
+
+- c-032
+  santrauka: 'Lietuviai teigė, kad dėl Jogailos neapgalvotų pažadų Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    rodydamas malonę, turėjusią trukti ne ilgiau, kaip
+    ligi jų gyvos galvos. Tuo tarpu lietuviai atkakliai lai­
+    kėsi savo, tvirtindami, jog seniau, gerokai prieš Kazi­
+    miero Didžiojo viešpatavimą, Podolė buvusi pavaldi
+    skitams, kurie sudarė didžiumą šio krašto gyventojų, o
+    šios tautos valdovams buvę pavaldūs ir seni Podolės
+    gyventojai, ir skitai. Algirdas, Lietuvos didysis kuni­
+    gaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių
+    sienas, pirmas sumušęs svetimšalius ir juos išstūmęs iš
+    šių žemių, po to padalijęs brolio Karijoto sūnums kraš­
+    tą; šie čia pastatę Smotričiaus, Bakotos, Kameneco ir
+    kitas pilis
+    ir jas sutvirtinę, nesigailėdami didelių iš­
+    laidų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-063
+
+- c-033
+  santrauka: 'Visa Lietuva rengėsi karui dėl Podolės, bet apsiribojo grasinimais ir kariuomenės telkimu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    1458 m eta i
+    K araliu s su la ik o nuo
+    karo
+    Neapsakomai sumanus ir
+    apsukrus buvo šis valdovas,
+    jam, tiesą sakant, be galo se­
+    kėsi raminti lietuvius. Jis
+    netruko užgesinti vos beįsi-
+    liepsnojančio karo dėl Podolės liepsną, be to, jo pas­
+    tangomis luomai seime vienu balsu nutarė padėti len­
+    kams, kovojantiems su Prūsija. Suteikė jiems paskolą
+    iš valstybės iždo — aštuoniasdešimt tūkstančių auksi­
+    nų, be to, išsiuntė į pagalbą astuonių tūkstančių vyrų
+    kariuomenę, vedamą Jono Chodkevičiaus, Vitebsko vai­
+    vados. Vis dėlto ir šitokios išlaidos nepadėjo pasiekti
+    Prūsijoje didesnių laimėjimų. Mat Vengrijos pasiunti­
+    nys Iskra, dėdamasis norįs pasiekti taikos, užvilkino
+    karo veiksmus, ir todėl daugybė lenkų be karaliaus
+    miems žygiams, karalius tu­
+    rėjo pasitraukti iš Prūsijos nieko naudinga čia šiuo žy­
+    giu nepešęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-064
+
+- c-035
+  santrauka: 'Lietuvos metraštyje Jonas Žadivydas vadinamas kunigaikščiu, valdžiusiu Podolės žemę.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Paskui, po didžiojo kunigaikš­
+    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
+    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
+    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3B,
+    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 40.
+    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
+    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
+    sers, kam ją ištekino už vergo. Tas Vaidila turėjo di­
+    delę galią pas didįjį kunigaikštį Jogailą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-036
+  santrauka: 'Lietuvos metraštis Vytautą vadina didžiuoju kunigaikščiu ir rašo, kad pavasariop jis ištraukė į Podolės žemę.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Tad atvykite
+    visi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu
+    brolišką meilę į jūsų širdis.“ 7 Ir šitaip išviliojęs juos
+    iš miesto, nes broliai Svetoslavovičiai, juo patikėję, at­
+    jojo pas jį su dovanomis, kaip ir visi Smolensko kuni­
+    gaikščiai ir bajorai, kad nė vieno mieste neliko. O jis,
+    visus juos sučiupęs, ištrėmė į Lietuvą8, tik vienam ku­
+    nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
+    tą 9, Smolensko didžiąją kunigaikštystę — kunigaikščiui
+    Jomantui19 ir Boreikos sūnui Vasilijui ".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-24387
@@ -1350,7 +1494,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
     - t-021
 
 - id: c-46677
@@ -1941,11 +2084,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   puslapiai: "PDF 344"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
   citata_originali: |
-    Vargu ar būtų sėkmingai įveikęs pilį, kuri, pačios gam­
-    tos, rodos, sukurta tvirtovei, ligi tol atrėmė bet kokias
-    žmonių pajėgas ir pastangas, tačiau negi esti tokių
-    gynybinių įtaisų ir tokių įtvirtinimų, kurių nepalaužtų
-    nesantaika? Negi kur esti tokia kalno viršūnė, kurios
+    Negi kur esti tokia kalno viršūnė, kurios
     nepasiektų nesantarvė? Gal dėl Vytauto klastingumo,
     gal dėl kokios kitos priežasties tarp Podolės ir Valachi-
     jos karių kilo nesutarimai,
@@ -1956,7 +2095,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     bines sienas ir atvėrė priešui
     kelią: dėl asmeniškos neapy­
     kantos įtūžusios širdys visiškai užmiršo rūpintis ben­
-    drais reikalais.
+    drais reikalais. Išsiuntė žygūnus, turėjusius tartis dėl
+    pilies perdavimo sąlygų.
   citata_rodoma: "Negi kur esti tokia kalno viršūnė, kurios \nnepasiektų nesantarvė? Gal dėl Vytauto klastingumo, \ngal dėl kokios kitos priežasties tarp Podolės ir Valachi-\njos karių kilo nesutarimai, \nSulaukia \nK a m e n e c o \nkurie tarytum išgriovė gyny- \nk a p itu lia c ijo s \nbines sienas ir atvėrė priešui\nkelią: dėl asmeniškos neapy­\nkantos įtūžusios širdys visiškai užmiršo rūpintis ben­\ndrais reikalais. Išsiuntė žygūnus, turėjusius tartis dėl \npilies perdavimo sąlygų."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -1973,16 +2113,19 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   puslapiai: "PDF 431"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 431."
   citata_originali: |
-    Išsiuntė Tarlą Zakliką To-
-    porčiką, turėjusį įteikti Kameneco seniūnui karaliaus
-    įsakymą perduoti Kamenecą ir visą Podolę Mykolui Ba-
-    bai, Boleslovo kariuomenės vadui. Tačiau Tarias, iš
-    Andriaus Tenčinskio ir Mikalojaus Dževickio sužinojęs,
-    kaip nepagarbiai elgėsi Boleslovas su karaliumi, įmetė
-    Mykolą į kalėjimą, o į Podolės pilis įvedė stipresnes
-    įgulas.
-    Po visą Europą pasklidę gandai apie beprotišką Bo­
-    leslovo elgesį su karaliumi pasiekė galop ir Romą.
+    Nesunkiai pavyko susi­
+    taikyti, nes kalbėjosi broliai, kurių vienas garsėjo bepro­
+    tyste, o kitas — nuostabiu atlaidumu. Vis dėlto, vos ka­
+    ralius Jogaila, išvykęs iš Lietuvos, pasiekė Lenkiją, Bo­
+    leslovas su kariuomene patraukė į Podolę. Atstumtas nuo
+    pilių ir patyręs žymių nuostolių, jis baisiai nusiaubė
+    433
+
+    ## Puslapis 432
+
+    Lvovo ir Terebovlės apylin-
+    Įsiv e ržia  į P o d o lę
+    kės.
   citata_rodoma: "Nesunkiai pavyko susi­\ntaikyti, nes kalbėjosi broliai, kurių vienas garsėjo bepro­\ntyste, o kitas — nuostabiu atlaidumu. Vis dėlto, vos ka­\nralius Jogaila, išvykęs iš Lietuvos, pasiekė Lenkiją, Bo­\nleslovas su kariuomene patraukė į Podolę. Atstumtas nuo\npilių ir patyręs žymių nuostolių, jis baisiai nusiaubė\n433\n\n## Puslapis 432\n\nLvovo ir Terebovlės apylin-\nĮsiv e ržia  į P o d o lę\nkės."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2035,20 +2178,14 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   puslapiai: "PDF 488"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 488."
   citata_originali: |
-    rodydamas malonę, turėjusią trukti ne ilgiau, kaip
-    ligi jų gyvos galvos. Tuo tarpu lietuviai atkakliai lai­
-    kėsi savo, tvirtindami, jog seniau, gerokai prieš Kazi­
-    miero Didžiojo viešpatavimą, Podolė buvusi pavaldi
-    skitams, kurie sudarė didžiumą šio krašto gyventojų, o
-    šios tautos valdovams buvę pavaldūs ir seni Podolės
-    gyventojai, ir skitai. Algirdas, Lietuvos didysis kuni­
-    gaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių
-    sienas, pirmas sumušęs svetimšalius ir juos išstūmęs iš
-    šių žemių, po to padalijęs brolio Karijoto sūnums kraš­
-    tą; šie čia pastatę Smotričiaus, Bakotos, Kameneco ir
-    kitas pilis
-    ir jas sutvirtinę, nesigailėdami didelių iš­
-    laidų.
+    Vėliau, susi­
+    kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
+    gynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­
+    raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta
+    nuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­
+    daręs klaidą, kai, siekdamas sosto, davęs neapgalvotų
+    pažadų, antra vertus, jų reikalas neleisti, kad valstybė
+    dėl anų susitarimų patirtų kokių nuostolių.
   citata_rodoma: "Vėliau, susi­\nkivirčiję su lenkais dėl Rusios, lietuviai visada ginklu\ngynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­\nraliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta\nnuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­\ndaręs klaidą, kai, siekdamas sosto, davęs neapgalvotų\npažadų, antra vertus, jų reikalas neleisti, kad valstybė\ndėl anų susitarimų patirtų kokių nuostolių."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2064,27 +2201,27 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   puslapiai: "PDF 508"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 508."
   citata_originali: |
-    1458 m eta i
-    K araliu s su la ik o nuo
-    karo
-    Neapsakomai sumanus ir
-    apsukrus buvo šis valdovas,
-    jam, tiesą sakant, be galo se­
-    kėsi raminti lietuvius. Jis
-    netruko užgesinti vos beįsi-
-    liepsnojančio karo dėl Podolės liepsną, be to, jo pas­
-    tangomis luomai seime vienu balsu nutarė padėti len­
-    kams, kovojantiems su Prūsija. Suteikė jiems paskolą
-    iš valstybės iždo — aštuoniasdešimt tūkstančių auksi­
-    nų, be to, išsiuntė į pagalbą astuonių tūkstančių vyrų
-    kariuomenę, vedamą Jono Chodkevičiaus, Vitebsko vai­
-    vados. Vis dėlto ir šitokios išlaidos nepadėjo pasiekti
-    Prūsijoje didesnių laimėjimų. Mat Vengrijos pasiunti­
-    nys Iskra, dėdamasis norįs pasiekti taikos, užvilkino
-    karo veiksmus, ir todėl daugybė lenkų be karaliaus
-    miems žygiams, karalius tu­
-    rėjo pasitraukti iš Prūsijos nieko naudinga čia šiuo žy­
-    giu nepešęs.
+    N e s ė k m in g a s  ž y g is  į
+    P rūsiją
+    leidimo paliko stovyklą, o
+    sumažėjus jėgoms ir pralei­
+    dus tinkamą metą
+    lemia-
+    rkovo seime jie, be galo iš­
+    510
+
+    ## Puslapis 509
+
+    Šitai dar labiau sukurstė aist-
+    N a u ja  au d ra  d ė l Po-
+    ras, dar neatvėsusias po anks-
+    d o lės
+    tesnių sambrūzdžių. Visa Lie­
+    tuva suskato rengtis karui dėl
+    Podolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
+    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
+    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
+    nas Goštautas.
   citata_rodoma: "N e s ė k m in g a s  ž y g is  į\nP rūsiją\nleidimo paliko stovyklą, o\nsumažėjus jėgoms ir pralei­\ndus tinkamą metą\nlemia-\nrkovo seime jie, be galo iš­\n510\n\n## Puslapis 509\n\nŠitai dar labiau sukurstė aist-\nN a u ja  au d ra  d ė l Po-\nras, dar neatvėsusias po anks-\nd o lės\ntesnių sambrūzdžių. Visa Lie­\ntuva suskato rengtis karui dėl\nPodolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­\ntenkinta grasinimais bei kariuomenės telkimu, nes kaip\ntik tuo metu mirė žymiausias šios grupuotės vadas Jo­\nnas Goštautas."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2125,15 +2262,11 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   puslapiai: "PDF 77"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 77."
   citata_originali: |
-    Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3B,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 40.
-    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
-    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
-    sers, kam ją ištekino už vergo. Tas Vaidila turėjo di­
-    delę galią pas didįjį kunigaikštį Jogailą.
+    Pirmas bu­
+    vo Vladimiras4 , kuris dalies gavo Kijevą. Antras —
+    kunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­
+    mę. Trečias — kunigaikštis Simonas Lengvenis6 , jo da­
+    lis— Mstislavlis7 .
   citata_rodoma: "Pirmas bu­\nvo Vladimiras4 , kuris dalies gavo Kijevą. Antras —  \nkunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­\nmę. Trečias — kunigaikštis Simonas Lengvenis6 , jo da­\nlis— Mstislavlis7 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2150,16 +2283,16 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   puslapiai: "PDF 96"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 96."
   citata_originali: |
-    Tad atvykite
-    visi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu
-    brolišką meilę į jūsų širdis.“ 7 Ir šitaip išviliojęs juos
-    iš miesto, nes broliai Svetoslavovičiai, juo patikėję, at­
-    jojo pas jį su dovanomis, kaip ir visi Smolensko kuni­
-    gaikščiai ir bajorai, kad nė vieno mieste neliko. O jis,
-    visus juos sučiupęs, ištrėmė į Lietuvą8, tik vienam ku­
-    nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
-    tą 9, Smolensko didžiąją kunigaikštystę — kunigaikščiui
-    Jomantui19 ir Boreikos sūnui Vasilijui ".
+    Didysis kunigaikštis Vytautas, paėmęs Vi­
+    tebsko miestą, vėl sugrįžo į Vilnių.
+    09
+
+    ## Puslapis 95
+
+    Tais pačiais metais", pavasariop, didysis kunigaikš­
+    tis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis
+    Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­
+    ti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui.
   citata_rodoma: "Didysis kunigaikštis Vytautas, paėmęs Vi­\ntebsko miestą, vėl sugrįžo į Vilnių.\n09\n\n## Puslapis 95\n\nTais pačiais metais\", pavasariop, didysis kunigaikš­\ntis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis \nVladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­\nti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2530,7 +2663,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
     - t-021
 
 - id: c-182539
@@ -2779,16 +2911,16 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   puslapiai: "PDF 96"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 96."
   citata_originali: |
-    Tad atvykite
-    visi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu
-    brolišką meilę į jūsų širdis.“ 7 Ir šitaip išviliojęs juos
-    iš miesto, nes broliai Svetoslavovičiai, juo patikėję, at­
-    jojo pas jį su dovanomis, kaip ir visi Smolensko kuni­
-    gaikščiai ir bajorai, kad nė vieno mieste neliko. O jis,
-    visus juos sučiupęs, ištrėmė į Lietuvą8, tik vienam ku­
-    nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
-    tą 9, Smolensko didžiąją kunigaikštystę — kunigaikščiui
-    Jomantui19 ir Boreikos sūnui Vasilijui ".
+    Didysis kunigaikštis Vytautas, paėmęs Vi­
+    tebsko miestą, vėl sugrįžo į Vilnių.
+    09
+
+    ## Puslapis 95
+
+    Tais pačiais metais", pavasariop, didysis kunigaikš­
+    tis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis
+    Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­
+    ti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui.
   citata_rodoma: "Didysis kunigaikštis Vytautas, paėmęs Vi­\ntebsko miestą, vėl sugrįžo į Vilnių.\n09\n\n## Puslapis 95\n\nTais pačiais metais\", pavasariop, didysis kunigaikš­\ntis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis \nVladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­\nti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -2864,16 +2996,16 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   puslapiai: "PDF 96"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 96."
   citata_originali: |
-    Tad atvykite
-    visi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu
-    brolišką meilę į jūsų širdis.“ 7 Ir šitaip išviliojęs juos
-    iš miesto, nes broliai Svetoslavovičiai, juo patikėję, at­
-    jojo pas jį su dovanomis, kaip ir visi Smolensko kuni­
-    gaikščiai ir bajorai, kad nė vieno mieste neliko. O jis,
-    visus juos sučiupęs, ištrėmė į Lietuvą8, tik vienam ku­
-    nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
-    tą 9, Smolensko didžiąją kunigaikštystę — kunigaikščiui
-    Jomantui19 ir Boreikos sūnui Vasilijui ".
+    Didysis kunigaikštis Vytautas, paėmęs Vi­
+    tebsko miestą, vėl sugrįžo į Vilnių.
+    09
+
+    ## Puslapis 95
+
+    Tais pačiais metais", pavasariop, didysis kunigaikš­
+    tis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis
+    Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­
+    ti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui.
   citata_rodoma: "Didysis kunigaikštis Vytautas, paėmęs Vi­\ntebsko miestą, vėl sugrįžo į Vilnių.\n09\n\n## Puslapis 95\n\nTais pačiais metais\", pavasariop, didysis kunigaikš­\ntis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis \nVladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­\nti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -3077,4 +3209,4 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 - Užėmė Podolę: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Gynė Podolę: [[objektai/grupes/Karijotaičiai]]
 - Gyvenamoji vieta: [[objektai/asmenys/Borisas Karijotaitis]]
-- Podolė priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
+- Podolė priklausė Lenkija, Lietuva

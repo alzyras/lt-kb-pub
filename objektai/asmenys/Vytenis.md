@@ -16,6 +16,10 @@ datos:
   - '1283 m.'
 date_start: '1232'
 date_end: '1283'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,10 +27,6 @@ tags:
   - karalius
   - mūšis
   - valdovas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg'
@@ -171,7 +171,7 @@ media_all_json: |-
 <a id="claim-t-176828"></a>
 - t-017
   teiginys: "Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -185,8 +185,6 @@ media_all_json: |-
   pagrindžia:
     - c-160801
     - c-180407
-    - c-56175
-    - c-180418
 
 <a id="claim-t-176830"></a>
 - t-028
@@ -513,23 +511,15 @@ media_all_json: |-
 <a id="claim-t-184892"></a>
 - t-046
   teiginys: "Kojelavičiaus pasakojime Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytenis iš keršto nusiaubė kryžiuočių žemes."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Vytenis kariavo prieš Kryžiuočių ordinas (0.84)"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-168253
+    - c-168247
 
 <a id="claim-t-193408"></a>
 - t-047
@@ -613,7 +603,7 @@ media_all_json: |-
 <a id="claim-t-196650"></a>
 - t-057
   teiginys: "Kojelavičiaus pasakojime Vytenis, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes ir netrukus po šio žygio mirė."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -621,7 +611,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-168253
+    - c-178817
 
 <a id="claim-t-197166"></a>
 - t-058
@@ -766,6 +756,101 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/popiežiaus legatas.md#claim-t-86569|popiežiaus legatas]]: Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.
 - susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195044|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. rašė apie jo žygį į Livoniją.
 - susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195045|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė apie karaliaus Vytenio žygį į Livoniją.
+## Reikšmingi paminėjimai
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Bisenės pilies sudeginimą 1316 metais
+    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
+    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
+    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
+    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
+    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
+    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
+    pilis paliko apleista po šiai dienai.
+    330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
+    Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
+    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
+    vietoje pasalą, įsiveržė [į jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
+    moteris ir vaikus paėmę į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
+    200 lietuvių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Bisenės pilies sudeginimą 1316 metais
+    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
+    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
+    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
+    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
+    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
+    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
+    pilis paliko apleista po šiai dienai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-001
+
+- c-007
+  santrauka: 'Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ligi pat
+    dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
+    krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
+    palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
+    271 (264). Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
+    Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
+    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
+    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
+    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
+    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
+    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-041
+
+- c-018
+  santrauka: 'Lietuvai atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai po šio smūgio Lietuva šiek tiek atsiga­
+    vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
+    riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­
+    čius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
+    Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
+    D o b iy n ą , ž u d o k i y -
+    nių ir plėšimo, žuvo liepsno-
+    devynis tūkstančius belaisvių. Su kryžiuočiais kautasi
+    atvirame lauke: mūšyje krito ordino magistras Bur-
+    chardas Aremas su trisdešimčia to ordino riterių, o
+    lietuviai laimėjo kautynes. Vėliau, sužinojus, jog len­
+    kai ketina smarkiai užpulti lietuvius, paliauta rengti
+    žygius į kaimynų šalis ir pradėta laukti karo; lietuviai
+    nenorėjo, vienur išžygiavę, susilaukti audros iš kitos
+    pusės, jie būgštavo, kad, išsklaidę ir nuvarginę karius,
+    1297 m e ta i
+    L ietu via i
+    siaubia
+    ėję iš kaimų į bažnyčias,
+    miestą pavyko užimti staigiu
+    antpuoliu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-079
+
 ## Citatos
 
 - id: c-30361
@@ -829,7 +914,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
     - t-011
     - t-016
 
@@ -839,20 +923,13 @@ media_all_json: |-
   puslapiai: "PDF 212"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
-    Apie Bisenės pilies sudeginimą 1316 metais
-    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
-    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
-    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
-    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
-    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
-    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
-    pilis paliko apleista po šiai dienai.
-    330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
-    Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
-    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
-    vietoje pasalą, įsiveržė [į jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
-    moteris ir vaikus paėmę į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
-    200 lietuvių.
+    Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,
+    atplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai
+    užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
+    ne kartą mėgino šitai padaryti.
   citata_rodoma: "Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui\nsavo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai\npuldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,\nsudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,\natplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai\nužstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir\nne kartą mėgino šitai padaryti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -888,14 +965,12 @@ media_all_json: |-
   puslapiai: "PDF 212"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
-    Apie Bisenės pilies sudeginimą 1316 metais
-    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
-    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
-    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
-    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
-    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
-    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
-    pilis paliko apleista po šiai dienai.
+    Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
+
+      Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų.
   citata_rodoma: "Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11\n\n  Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui\nsavo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai\npuldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,\nsudegino savo pilies papilį, norėdami išvengti galimų pavojų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -911,17 +986,14 @@ media_all_json: |-
   puslapiai: "PDF 192"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
-    Ligi pat
-    dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
-    krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
-    palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
-    271 (264). Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
-    Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
-    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
-    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
-    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
-    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
-    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
+    Dar apie tą patį
+
+       Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
+    įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.
+    Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
+    kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
+    subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
+    įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes.
   citata_rodoma: "Dar apie tą patį\n\n   Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis\nįsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.\nBrolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,\nkai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis\nsubūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir\nįsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -1242,27 +1314,16 @@ media_all_json: |-
   puslapiai: "PDF 159"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 159."
   citata_originali: |
-    Kai po šio smūgio Lietuva šiek tiek atsiga­
+    Šitaip viena pra­
+    gaištinga puota privertė gedėti dėl artimųjų mirties
+    ar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­
+    noje vietoje tapo apiplėšta beveik visa Lietuva, nes
+    turtingiausieji, kaip tada buvo įprasta, susivežė ten
+    kartu su žmonomis ir vaikais visus lobius, norėdami
+    pasigirti. Kai po šio smūgio Lietuva šiek tiek atsiga­
     vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
     riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­
     čius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
-    Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
-    D o b iy n ą , ž u d o k i y -
-    nių ir plėšimo, žuvo liepsno-
-    devynis tūkstančius belaisvių. Su kryžiuočiais kautasi
-    atvirame lauke: mūšyje krito ordino magistras Bur-
-    chardas Aremas su trisdešimčia to ordino riterių, o
-    lietuviai laimėjo kautynes. Vėliau, sužinojus, jog len­
-    kai ketina smarkiai užpulti lietuvius, paliauta rengti
-    žygius į kaimynų šalis ir pradėta laukti karo; lietuviai
-    nenorėjo, vienur išžygiavę, susilaukti audros iš kitos
-    pusės, jie būgštavo, kad, išsklaidę ir nuvarginę karius,
-    1297 m e ta i
-    L ietu via i
-    siaubia
-    ėję iš kaimų į bažnyčias,
-    miestą pavyko užimti staigiu
-    antpuoliu.
   citata_rodoma: "Šitaip viena pra­\ngaištinga puota privertė gedėti dėl artimųjų mirties\nar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­\nnoje vietoje tapo apiplėšta beveik visa Lietuva, nes\nturtingiausieji, kaip tada buvo įprasta, susivežė ten\nkartu su žmonomis ir vaikais visus lobius, norėdami\npasigirti. Kai po šio smūgio Lietuva šiek tiek atsiga­\nvo, Vytenis, surinkęs visose valdose lėšų, vieną ka­\nriuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­\nčius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -1304,6 +1365,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-040
+    - t-046
     - t-053
 
 - id: c-168249
@@ -1448,13 +1510,10 @@ media_all_json: |-
   citata_rodoma: "Sugrįžęs iš šio žygio, netrukus \nir mirė, valdęs dvidešimt dvejus metus, nukamuotas \nmetų naštos, karo rūpesčių ir visokiausių nesėkmių. \nPragaištingi lietuviams buvo šie metai: mirė valdovas, \nbe to, badas ir maras sunkia našta užgulė žmones.\n1315 m e ta i \nP a sk u tin ie ji V y te n io \nž y g ia i į P rū siją\ntvirtovių įsiveržėlių atremti, \nbuvo suvaryti atgal į pilis, \njavai, beveik pribrendę pjū­\nčiai, raitelių ištrypti, paim­\ntas didžiulis grobis."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-046
-    - t-057
-
 - id: c-176130
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1530,6 +1589,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-052
+    - t-057
 
 - id: c-180403
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1652,14 +1712,12 @@ media_all_json: |-
   puslapiai: "PDF 212"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
-    Apie Bisenės pilies sudeginimą 1316 metais
-    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
-    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
-    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
-    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
-    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
-    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
-    pilis paliko apleista po šiai dienai.
+    Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
+
+      Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų.
   citata_rodoma: "Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11\n\n  Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui\nsavo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai\npuldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,\nsudegino savo pilies papilį, norėdami išvengti galimų pavojų."
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
@@ -1778,7 +1836,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
     - t-011
     - t-016
 
@@ -1788,20 +1845,13 @@ media_all_json: |-
   puslapiai: "PDF 212"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
-    Apie Bisenės pilies sudeginimą 1316 metais
-    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
-    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
-    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
-    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
-    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
-    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
-    pilis paliko apleista po šiai dienai.
-    330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
-    Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
-    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
-    vietoje pasalą, įsiveržė [į jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
-    moteris ir vaikus paėmę į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
-    200 lietuvių.
+    Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,
+    atplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai
+    užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
+    ne kartą mėgino šitai padaryti.
   citata_rodoma: "Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui\nsavo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai\npuldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,\nsudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,\natplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai\nužstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir\nne kartą mėgino šitai padaryti."
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
@@ -2006,17 +2056,14 @@ media_all_json: |-
   puslapiai: "PDF 192"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
-    Ligi pat
-    dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
-    krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
-    palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
-    271 (264). Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
-    Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
-    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
-    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
-    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
-    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
-    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
+    Dar apie tą patį
+
+       Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
+    įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.
+    Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
+    kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
+    subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
+    įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes.
   citata_rodoma: "Dar apie tą patį\n\n   Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis\nįsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.\nBrolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,\nkai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis\nsubūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir\nįsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes."
   statusas: verified
   atnaujinta: "2026-07-12 22:59"

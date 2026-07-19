@@ -106,14 +106,9 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Priekaištaujama, kad, norint su­
-    skaičiuoti 6000 stadijų, reikia imti visą jūros ilgį. Aes­
-    tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
+    Aestuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
     seklias vietas, kurios kartais būva apsemtos, o kartais —
     sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
-    Sala, kurią Plinijus vadina Baltija, remdamasis visais
-    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
-    lia.
   citata_rodoma: "Aestuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,\nseklias vietas, kurios kartais būva apsemtos, o kartais —\nsausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

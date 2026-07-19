@@ -10,15 +10,15 @@ datos:
   - '2026 m.'
 date_start: '1921'
 date_end: '2026'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - institucija
   - tauta
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -146,6 +146,25 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 - susijęs iš Ruhro sritis: Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.
 - susijęs iš [[objektai/zodynas/demarkacijos linija.md#claim-t-181355|demarkacijos linija]]: Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje.
 - susijęs iš [[objektai/zodynas/tranzitas.md#claim-t-70360|tranzitas]]: 1924 m. birželio 2 d. Ambasadorių Konferencija pageidavo, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos bei tranzito.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'E. Galvanauskas manė, kad per Ambasadorių konferenciją Lietuva Klaipėdos negaus, todėl nusistatė kraštą užimti jėga.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prancūzai skelbė, kad
+    Klaipėda gali tapti Lietuvos, bet tik susivienijusios su Lenkija, dalimi. Mat
+    ir Lenkija neslėpė savo planų įsitvirtinti Klaipėdoje. Ministras pirminin-
+    kas E. Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių
+    konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
+    A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
+    džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-001
+
 ## Citatos
 
 - id: c-139019
@@ -197,13 +216,15 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Prancūzai skelbė, kad
-    Klaipėda gali tapti Lietuvos, bet tik susivienijusios su Lenkija, dalimi. Mat
-    ir Lenkija neslėpė savo planų įsitvirtinti Klaipėdoje. Ministras pirminin-
-    kas E. Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių
-    konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
-    A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
-    džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
+    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
+    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    153
+    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
+    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
+    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
+    tine ir karine pergale, kokia ji iš tiesų ir buvo.
   citata_rodoma: "VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis \nteisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n153\nKilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino \nšį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-\nnias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-\ntine ir karine pergale, kokia ji iš tiesų ir buvo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"

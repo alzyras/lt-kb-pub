@@ -7,13 +7,13 @@ datos:
   - '1281 m.'
 date_start: '1281'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - socialinis-įvykis
   - ivykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,10 +71,12 @@ Nenurodyta
   pagrindžia:
     - c-63130
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1281 m. Sicilijos karalystėje palermiečiai išžudė ten gyvenusius prancūzus, tiek vyrus, tiek moteris.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-63130
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Martyną IV, popiežių, karalių Rudolfą ir baisingą jūrų žuvį bei daugybės pran­
                              cūzų [Gallicorum] žūtį Sicilijoje
@@ -90,35 +92,6 @@ Nenurodyta
     prancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios
     sakėsi pastojusios nuo prancūzų, vėrė šonus ir žudė jų negimusius kūdikius (Ptol. 24, 1;
     Mart. p. 422; Mart. p. 424).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-63130
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų,
-    gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną
-    II, kuris jį maloniai priėmė, pervažiavo Italiją ir persikėlė per Alpes, uoliai ragindamas
-    ir visaip skatindamas (mat šitai būta išmintingo žmogaus, gebančio ir veikti, ir kalbėti)
-    tiek Rytų, tiek Vakarų valdovus, tiek žemesnių luomų žmones aliai vieną drąsiai ryžtis
-    sunkiai maldininkų kelionei į Jeruzalę, talkinant viešpačiui, o jo pasiuntiniui savo
-    kalbomis teikiant [kryžininkams] visokeriopų malonių. Neilgai trukus po to jo šventenybė
-    popiežius Urbonas, palydėjęs minėtąjį Petrą į Prancūziją, sušaukė visuotinį susirinkimą,
-    kuriame, pažadėjęs už šitokį dorą bei mielą maldininkų žygį visų nuodėmių atleidimą,
-    nuodugniai išklojo visiems, kuriuos šventoji dvasia skatino atkeršyti už nukryžiuotojo
-    žaizdas ir išvaduoti šventąją žemę, kokių negandų ir kokią priespaudą patiria tikintieji,
-    gyvenantys šventojoje žemėje, kaip niekina ir teršia tie purvini šunys viešpaties kapą
-    bei kitas šventąsias vietas. Ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji
-    gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai
-    bei kiti kilmingieji ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu,
-    duodami viešpačiui įžadus leistis į maldininkų žygį.
   citata_rodoma: "Apie Martyną IV, popiežių, karalių Rudolfą ir baisingą jūrų žuvį bei daugybės pran­\n                         cūzų [Gallicorum] žūtį Sicilijoje\n\n  1281 viešpaties metais valdė Martynas IV, popiežius, ir Rudolfas, Romos karalius.\nTais metais, vasario mėnesį, pagavo jūrų žuvį, panašią į liūtą, tame paplūdimyje, kuris\nyra prieš Montaltą, ir nunešė prie Orvjeto, kur sugužėjo gausybė popiežiaus rūmininkų\npasižiūrėti šios pabaisos, nes jos oda buvo apžėlusi plaukais, kojos trumpos, uodega —\nkaip liūto, galva — kaip liūto, be to, ausys, nasrai, dantys ir liežuvis irgi atrodė beveik\nnelyginant liūto. Pasakojo, kad pagauta baisiai raudojusi, todėl daug žmonių iš to ir suvokė,\nkokia būsianti ateitis. Štai neilgai trukus po to Sicilijos karalystėje palermiečiai, pagauti\nbaisaus įsiūčio, išžudė iš paniekos anksčiau minėtajam karaliui visus ten gyvenusius\nprancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios\nsakėsi pastojusios nuo prancūzų, vėrė šonus ir žudė jų negimusius kūdikius (Ptol. 24, 1;\nMart. p. 422; Mart. p. 424)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

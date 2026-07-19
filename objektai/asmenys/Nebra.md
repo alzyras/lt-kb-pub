@@ -51,10 +51,12 @@ Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Neb
     - c-174329
 - susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191160|Danielius]]: Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.
 - susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191160|Danielius]]: Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Nebrą, atėmė iš jo ietį ir smarkiai sužeidė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174329
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuo tarpu Stegutas tikriausiai žu­
     vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­
@@ -67,33 +69,6 @@ Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Neb
     siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
     kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
     turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174329
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
-    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
-    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
-    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
-    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
-    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
-    žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
-    bių jotvingių gyvenviečių, nes jas tikėjosi užpulti Pietų
-    Rusios kunigaikščiai, kuriems
-    vadovavo Danielius —
-    klastingas, godus ir neramus žmogus. 1237 metais jis ve­
-    dė savo būrius prieš jotvingius į Brastos apylinkes, bet
-    itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
-    jo sumanymas nebuvo įgyvendintas3.
   citata_rodoma: "Tuo tarpu Stegutas tikriausiai žu­\nvo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­\ndėjus traukimuisi, Danielius pavijo jotvingių vadą Nebrą\nir, ištraukęs jam iš rankų ietį, smarkiai sužeidė ir būtų\njau pribaigęs, jeigu nebūtų reikėję padėti Vasilkai, kurį\npriešai spaudė iš visų pusių. Tad Danielius, palikęs Neb-\nrą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems\njotvingiam sK itais metais jotvingių grėsmė iškilo Ru­\nsiai, nes Voluinės kunigaikščiai, prieš išžygiuodami su\nkariauna į Lenkiją, savo sienų nuo pat Brastos apsauga\nturėjo patikėti Pinsko kunigaikščiui Vladimirui1 2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

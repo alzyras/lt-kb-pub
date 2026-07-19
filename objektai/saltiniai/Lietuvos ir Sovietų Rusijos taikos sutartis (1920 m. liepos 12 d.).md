@@ -96,13 +96,13 @@ media_all_json: |-
 <a id="claim-t-75464"></a>
 - t-001
   teiginys: "1920 m. pradžioje Lietuva sutiko pradėti derybas."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1920 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-73243
+    - c-73240
 
 <a id="claim-t-75468"></a>
 - t-011
@@ -287,6 +287,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-009
 
 - id: c-73242
@@ -325,7 +326,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-009
 
 - id: c-166760

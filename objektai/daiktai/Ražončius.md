@@ -47,18 +47,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195348"></a>
-- t-001
-  teiginys: "Elgetos religinis atributas, aprašytas kaip medinių rutuliukų vėrinys."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177753
-- susijęs iš [[objektai/paprociai/Žiemos šventadienių vakarinis giedojimas grįčioje.md#claim-t-195394|Žiemos šventadienių vakarinis giedojimas grįčioje]]: Neatėjęs rytą ražončiaus giedoti galėjo būti apkaltintas tinginyste ir išstumtas iš grįčios.
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -70,20 +58,14 @@ Nenurodyta
   puslapiai: "p. 137 (PDF 135)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 137 (PDF 135)."
   citata_originali: |
-    Raulas ir Šiaučienė — vietos pažįstami elgetos — savo žmonės.
-    Buvo kitokių elgetų rūšis — elgetų iš kilmės. Užsikabinęs ilgą, sto­
-    rų, medinių rutuliukų ražončių, kuris apkabinėtas dideliais ir ma­
-    žais agnasais, ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs
-    nunešiotais miestiečio užvalkčiais.
+    Užsikabinęs ilgą, sto- rų, medinių rutuliukų ražončių, kuris apkabinėtas dideliais ir ma- žais agnasais, ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais.
   citata_rodoma: "Užsikabinęs ilgą, sto- rų, medinių rutuliukų ražončių, kuris apkabinėtas dideliais ir ma- žais agnasais, ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-177754
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -97,6 +79,10 @@ Nenurodyta
   citata_rodoma: "Visi renkasi giedoti ražončių ir „adynas“ ."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Teiginiai
+
+- susijęs iš [[objektai/paprociai/Žiemos šventadienių vakarinis giedojimas grįčioje.md#claim-t-195394|Žiemos šventadienių vakarinis giedojimas grįčioje]]: Neatėjęs rytą ražončiaus giedoti galėjo būti apkaltintas tinginyste ir išstumtas iš grįčios.

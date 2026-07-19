@@ -18,14 +18,14 @@ datos:
   - '2026 m.'
 date_start: '1232'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -347,6 +347,63 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
 - susijęs iš Medininkų žemė: 1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.
 - susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
+## Reikšmingi paminėjimai
+- c-008
+  santrauka: 'Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
+    desnė nelaimė — badas, siau-
+    B adas L ie tu v o je
+    binga našta užgulęs visą Lie­
+    tuvą, galimas daiktas, dėl to,
+    kad tais metais apskritai visur buvo blogas oras, net­
+    gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
+    latinių priešo antpuolių iš baimės niekas nebedirbo
+    žemės ar iš viso nebuvo kam ją dirbti. Neatnešė ato­
+    kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
+    paramos iš Bavarijos grafo Volfgango ir Livonijos
+    kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
+    Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
+    joje tapo visai sunaikintos. Sėkmingai išsigabenus vi­
+    są grobį ir išsivedus visus belaisvius, grėsmingai įsi­
+    veržė į Lietuvą Prūsijos maršalas Šindekopfas ir
+    2 47
+
+    apsupo Gardiną; kadangi Pat-
+    1363 m e ta i
+    rikas, vadovavęs pilies gyny-
+    P iū sų
+    ž y g ia i
+    į
+    Lie-
+    bai, narsiai atrėmė keletą
+    tu v ą ir Ž e m a itiją
+    antpuolių, kryžiuotis, išsiža­
+    dėjęs minties užimti pilį, iš­
+    siuntė karius niokoti kaimų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-009
+  santrauka: 'Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) - 1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas - Fortelnik) - 1297 metais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-05710
@@ -503,15 +560,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
-    desnė nelaimė — badas, siau-
-    B adas L ie tu v o je
-    binga našta užgulęs visą Lie­
-    tuvą, galimas daiktas, dėl to,
-    kad tais metais apskritai visur buvo blogas oras, net­
-    gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
-    latinių priešo antpuolių iš baimės niekas nebedirbo
-    žemės ar iš viso nebuvo kam ją dirbti. Neatnešė ato­
+    Neatnešė ato­
     kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
     paramos iš Bavarijos grafo Volfgango ir Livonijos
     kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
@@ -521,6 +570,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     veržė į Lietuvą Prūsijos maršalas Šindekopfas ir
     2 47
 
+    ## Puslapis 246
+
     apsupo Gardiną; kadangi Pat-
     1363 m e ta i
     rikas, vadovavęs pilies gyny-
@@ -529,7 +580,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     į
     Lie-
     bai, narsiai atrėmė keletą
-    tu v ą ir Ž e m a itiją
+    tu v ą  ir Ž e m a itiją
     antpuolių, kryžiuotis, išsiža­
     dėjęs minties užimti pilį, iš­
     siuntė karius niokoti kaimų.
@@ -547,13 +598,10 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš jos sūnūs: Manvydas
-    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
-    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
-    mirė tuoj po jo gimimo) - 1277 metais. Antroji žmona buvo
-    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
-    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
-    stut, tai reiškia: Klastūnas - Fortelnik) - 1297 metais.
+    Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
+    tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
+    vaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
   citata_rodoma: "Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­\ntis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o\nvaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­\ntauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

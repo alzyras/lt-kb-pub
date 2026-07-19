@@ -65,10 +65,7 @@ Lapkūnas aprašomas kaip vargingas kaimo žmogus, turėjęs gausią šeimą ir 
   puslapiai: "p. 181 (PDF 179)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 181 (PDF 179)."
   citata_originali: |
-    Iš kur bus jos dikti kiaušiniai“ .
-    Gyveno mūsų kaime vargo žmogelis Lapkūnas.
-    Jis turėjo gau­
-    sią šeimą — tris eiles apie krosnį.
+    Gyveno mūsų kaime vargo žmogelis Lapkūnas. Jis turėjo gausią šeimą — tris eiles apie krosnį.
   citata_rodoma: "Gyveno mūsų kaime vargo žmogelis Lapkūnas. Jis turėjo gausią šeimą — tris eiles apie krosnį."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"

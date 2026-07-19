@@ -61,25 +61,10 @@ Nenurodyta
   pagrindžia:
     - c-168945
 
-<a id="claim-t-196174"></a>
-- t-003
-  teiginys: "Per derybas maskvėnai pareikalavo amžinam Maskvos valdymui perduoti didžiojo kunigaikščio užimtas žemes."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168945
-
-## Citatos
-
-- id: c-168945
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutiko ir priėmė
     maskvėnus pataurininkis Mikalojus Kiška, stalininkas
@@ -99,6 +84,35 @@ Nenurodyta
     su visais palydovais. Mat šis, nepakęsdamas Ivano žiau­
     rumo, kartu su visa šeimyna šiek tiek anksčiau buvo
     persikėlęs į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-168945
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kad jie galop patys suprastų, kokie
+    neprotingi jų reikalavimai, karalius pažadėjo atiduoti
+    Andrejų, bet tada, kai Ivanas savo ruožtu karaliui grą­
+    žinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius,
+    Trubeckojus, Odojevskius, Masalskius ir kitus su viso­
+    mis jų šeimynomis ir
+    tėvonijomis. Nieko nenuveikę,
+    pasiuntiniai patraukė atgal, ir
+    ka-
+    štai vėl įsiplieskė karas, kurį
+    maskvėnai pradėjo, nė nelau­
+    kdami, kol pasibaigs paliau­
+    bos. Tuo metu, kai Gardine pasiuntiniai derėjosi dėl
+    taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau­
+    bė kunigaikščių Ostrogiškių valdas.
   citata_rodoma: "Kad jie galop patys suprastų, kokie\nneprotingi jų reikalavimai, karalius pažadėjo atiduoti\nAndrejų, bet tada, kai Ivanas savo ruožtu karaliui grą­\nžinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius,\nTrubeckojus, Odojevskius, Masalskius ir kitus su viso­\nmis jų šeimynomis ir\ntėvonijomis. Nieko nenuveikę,\npasiuntiniai patraukė atgal, ir\nka-\nštai vėl įsiplieskė karas, kurį\nmaskvėnai pradėjo, nė nelau­\nkdami, kol pasibaigs paliau­\nbos. Tuo metu, kai Gardine pasiuntiniai derėjosi dėl\ntaikos, iš Seversko žemės įsiveržusi kariuomenė nusiau­\nbė kunigaikščių Ostrogiškių valdas."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -107,4 +121,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003

@@ -27,45 +27,6 @@ media_all_json: |-
 
 Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių giminė.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių giminė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Simonaitė (Simonajte)
-    Moteriškos giminės fetišas, jį garbino Mikuckių giminė.
-    Sidzia
-    Mikalauskų giminės fetišas.
-    Ventis (W entis)
-    Semetų giminės fetišas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-177188
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Juos reikia
-    laikyti senais vietiniais fetišais.
-    1825 metais man pasitaikė aptikti mano kaimelio senųjų
-    savininkų fetišą. Reikėjo iškasti griovį slėnelyje prie gyvena­
-    mojo namo, ir kaip tik toje vietoje, kur buvo seno perkaso
-    pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė.
-  citata_rodoma: "Simonaitė (Simonajte)\nMoteriškos giminės fetišas, jį garbino Mikuckių giminė.\nSidzia\nMikalauskų giminės fetišas.\nVentis (W entis)\nSemetų giminės fetišas."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-194792"></a>
@@ -80,3 +41,25 @@ Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių gimi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177188
+
+## Citatos
+
+- id: c-177188
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Simonaitė (Simonajte)
+    Moteriškos giminės fetišas, jį garbino Mikuckių giminė.
+    Sidzia
+    Mikalauskų giminės fetišas.
+    Ventis (W entis)
+    Semetų giminės fetišas.
+  citata_rodoma: "Simonaitė (Simonajte)\nMoteriškos giminės fetišas, jį garbino Mikuckių giminė.\nSidzia\nMikalauskų giminės fetišas.\nVentis (W entis)\nSemetų giminės fetišas."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

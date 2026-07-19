@@ -84,14 +84,13 @@ Nenurodyta
 <a id="claim-t-195360"></a>
 - t-004
   teiginys: "Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo."
-  atnaujinta: "2026-07-12 02:18"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177770
     - c-177773
-    - c-177774
 
 <a id="claim-t-195361"></a>
 - t-002
@@ -164,18 +163,7 @@ Nenurodyta
   puslapiai: "p. 34 (PDF 32)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 34 (PDF 32)."
   citata_originali: |
-    Mergaitės jį kolioja: „Tu, dykūne, tin­
-    giny, visą dieną po mišką valkiojais,
-    nenorėdamas
-    grėbti,
-    nė sykio
-    grėblio nepatraukei“ .
-    Pusbernis kertasi, neužsileidžia: „Gi ar jūs sa­
-    vo liežuviais išvaduosite,
-    kad Bogušas parves ir uždarys
-    arklius?“
-    Mergaitės grėbia, krato, varto, džiovina, daboja ateinantį debesį, į ku­
-    pečius deda, dainuškas dainuoja.
+    Mergaitės grėbia, krato, varto, džiovina, daboja ateinantį debesį, į kupečius deda, dainuškas dainuoja.
   citata_rodoma: "Mergaitės grėbia, krato, varto, džiovina, daboja ateinantį debesį, į kupečius deda, dainuškas dainuoja."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
@@ -214,9 +202,7 @@ Nenurodyta
   puslapiai: "p. 32 (PDF 30)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 32 (PDF 30)."
   citata_originali: |
-    Po Švento Jono kurį rytą išgirdome šienapiūtės dainą: „Valioi, ma­
-    no dalgeli“ . . . Sakome: „Tai dvaro lankas šienauja, metas būtų ir mums
-    pradėti, tik praleisime Šventą Petrą“ .
+    Po Švento Jono kurį rytą išgirdome šienapiūtės dainą: „Valioi, mano dalgeli“ . . . Sakome: „Tai dvaro lankas šienauja, metas būtų ir mums pradėti, tik praleisime Šventą Petrą“ .
   citata_rodoma: "Po Švento Jono kurį rytą išgirdome šienapiūtės dainą: „Valioi, mano dalgeli“ . . . Sakome: „Tai dvaro lankas šienauja, metas būtų ir mums pradėti, tik praleisime Šventą Petrą“ ."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
@@ -232,12 +218,7 @@ Nenurodyta
   puslapiai: "p. 34 (PDF 32)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 34 (PDF 32)."
   citata_originali: |
-    Pavalgius vakarienę, arklius suveda prie ugnies,
-    pririša prie kuolų, ir stovi jie trumpą vasaros naktį.
-    Del ugnies ne­
-    puola arklių uodai, ugnies ir vilkai vengia.
-    Ryt rytą, kai tik švinta, kinko arklius ir siunčia mergaites su šie­
-    nu namo.
+    Ryt rytą, kai tik švinta, kinko arklius ir siunčia mergaites su šienu namo.
   citata_rodoma: "Ryt rytą, kai tik švinta, kinko arklius ir siunčia mergaites su šienu namo."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
@@ -253,17 +234,10 @@ Nenurodyta
   puslapiai: "p. 34 (PDF 32)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 34 (PDF 32)."
   citata_originali: |
-    Šiandien su šienu namo nevažiuoja, nes parvažiavus ne­
-    būtų kur arklių dėti.
-    Pavalgius vakarienę, arklius suveda prie ugnies,
-    pririša prie kuolų, ir stovi jie trumpą vasaros naktį.
-    Del ugnies ne­
-    puola arklių uodai, ugnies ir vilkai vengia.
+    Pavalgius vakarienę, arklius suveda prie ugnies, pririša prie kuolų, ir stovi jie trumpą vasaros naktį. Del ugnies nepuola arklių uodai, ugnies ir vilkai vengia.
   citata_rodoma: "Pavalgius vakarienę, arklius suveda prie ugnies, pririša prie kuolų, ir stovi jie trumpą vasaros naktį. Del ugnies nepuola arklių uodai, ugnies ir vilkai vengia."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004

@@ -62,10 +62,12 @@ Nenurodyta
   pagrindžia:
     - c-173949
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto vertinimu, susijungusi su Lenkija Lietuva atsisakė nepriklausomybės, neteko išorinės gynybos ir tapo niokojančių karų grobiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-173949
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Lietuva, susijungusi
     30
@@ -80,31 +82,6 @@ Nenurodyta
     ta; viešieji archyvai sunyko arba blogai saugomi nukentė­
     jo, bažnyčios ir krikščioniškosios minties šventovės ne-
     išsaugojo šių lobių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173949
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Nepaneigiama tiesa tai, kad šis
-    istorikas būtų buvęs laimingesnis, jei būtų panorėjęs ap­
-    siriboti tik senienų ir rankraščių, kurių daugelį turėjo po
-    ranka, rinkėjo šlove; bet, nelaimei, jis įsigeidė istorijos,
-    suskirstytos į knygas ir skyrius, kurių priekyje įdėtų sa­
-    vo rėmėjų vardus. Užsikrovęs šią ne pagal savo jėgas
-    naštą, mūsų garbingasis pirmtakas skubėjo be menkiau­
-    sios kritikos, be atsargumo su datomis, palyginimo, da­
-    lyko nagrinėjimo, ir skubėjo pagrįstai: jau nedaug metų
-    jam buvo skirta gyventi. Tačiau jis nesuskubo įgyvendin­
-    ti visų savo ketinimų. Iš tikrųjų jis negailėjo darbo, bet
-    nemokėjo juo laimingai naudotis.
   citata_rodoma: "Lietuva, susijungusi\n30\n\n## Puslapis 30\n\nsu Lenkija, savanoriškai atsisakė savo nepriklausomybės,\npateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos\nišorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,\npadarė ją niokojančių karų grobiu. Žlugo sustiprintos\ntvirtovės, pati sostinė kelissyk sudegė arba buvo nusiaub­\nta; viešieji archyvai sunyko arba blogai saugomi nukentė­\njo, bažnyčios ir krikščioniškosios minties šventovės ne-\nišsaugojo šių lobių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -28,25 +28,12 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die Abmündung der Deime bei Tapiau)
 
 ## Santrauka
 
 Dusburgietis teigia, kad zweck A.
-
-## Teiginiai
-
-<a id="claim-t-61389"></a>
-- t-001
-  teiginys: "A. Zwecko straipsnis apie Deimės upės vagos susidarymą publikuotas 1896 m. AM 33 tome."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1896 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia straipsnio temą, metus ir leidinį."
-  pagrindžia:
-    - c-62021
 
 ## Citatos
 
@@ -62,5 +49,3 @@ Dusburgietis teigia, kad zweck A.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -68,11 +68,7 @@ Nenurodyta
   puslapiai: "p. 50 (PDF 48)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 50 (PDF 48)."
   citata_originali: |
-    Šeimininkė, pamačiusi piemeniu­
-    ką, pareinantį su trimitu, žino, kad rytoj reikia virti ir kerdžiaus daliai.
-    Piemeniukas, turėdamas rankoje įtakingą įrankį, mėgindavo jį pūsti:
-    kitas ir išmokdavo. Kur valgo, ten gauna viršutinį apsiaustą, bet marš­
-    kinius ir kelnes gauna pasavaičiui.
+    Kur valgo, ten gauna viršutinį apsiaustą, bet marškinius ir kelnes gauna pasavaičiui.
   citata_rodoma: "Kur valgo, ten gauna viršutinį apsiaustą, bet marškinius ir kelnes gauna pasavaičiui."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"

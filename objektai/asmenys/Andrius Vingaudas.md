@@ -92,12 +92,10 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
   pagrindžia:
     - c-169359
 
-## Citatos
-
-- id: c-169357
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to lietuvių didikai savo ir savo
     valdomų sričių vardu prisiekė karaliui bei karalienei
@@ -123,19 +121,14 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     gaudas, Trubčevsko kunigaikštis, Jogailos brolis, per­
     sikėlęs per Dauguvą, nelyginant piktas priešas ėmė
     niokoti lietuvių valdas.
-  citata_rodoma: "Konradas Celneris, ne-\nJ o g a ilo s broliu A n d -\nseniai draugiškai abiejų ka-\nriu m i V in g a u d u\nralių pakviestas į vestuves,\npadalijęs kariuomenę dviem\nvoromis, įsiveržė vienu metu į Lietuvą ir Žemaitiją,\nsukeldamas didelį išgąstį ir padarydamas sunkių nuos­\ntolių; kadangi kunigaikščiai buvo išvykę, abi negan­\ndos rodėsi dar didesnės. Kitoje pusėje Andrius Vin-\ngaudas, Trubčevsko kunigaikštis, Jogailos brolis, per­\nsikėlęs per Dauguvą, nelyginant piktas priešas ėmė\nniokoti lietuvių valdas. Dar vaikas priėmęs krikščio­\nnybę pagal graikų apeigas, buvo rusų labiau mėgsta­\nmas nei kiti broliai; be to, gerokai anksčiau buvo su­\nkėlęs dėl visokių savo savybių beveik visos Rusios\npalankumą."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-169358
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Kojelavičiaus pasakojime Vytautas susitikime susirūpino Andriaus Vingaudo paleidimu, norėdamas pelnyti Jogailos brolių palankumą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išgirdęs apie naujus neramumus, karalius Jogaila
     skubiai atvyko į Lietuvą, kur visomis priemonėmis sten­
@@ -169,19 +162,14 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     pamėgino laimėti jų draugys­
     tę, susirūpindamas Andriumi Vingaudu, Trubčevsko ku­
     nigaikščiu.
-  citata_rodoma: "Kad ateityje nesirastų dėl kokio men­\nko nesutarimo naujų dingsčių karui, jie sutarė, jog nuo\nšiol visus jų ginčus spręsiąs tiktai karalius. Per tą patį\nsusitikimą Vytautas, norėda-\nA n d iių  V in g a u d ą  pa-\nmas pelnyti šiokį tokį kara-\nleid žia  į la isv ę\nliaus brolių palankumą sau,\npamėgino laimėti jų draugys­\ntę, susirūpindamas Andriumi Vingaudu, Trubčevsko ku­\nnigaikščiu. Linkusį į maištus ir su kryžiuočių pagalba\nsiekusį valdžios Andrių Jogaila pirmaisiais savo vieš­\npatavimo metais buvo uždaręs į kalėjimą, kur ligi šiol\ntebelaikė, šiam nė nežinant, ar liks gyvas, ar ne."
-  statusas: verified
-  atnaujinta: "2026-07-13 01:00"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
-- id: c-169359
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  statusas: verified
+- c-003
+  santrauka: 'Kojelavičiaus pasakojime Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, linkusį į maištus ir siekusį valdžios su kryžiuočiais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Skirgaila, visą dėmesį ir visas jėgas dabar nukreipė
     prieš Švitrigailą. Kad ateityje nesirastų dėl kokio men­
@@ -198,6 +186,87 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     siekusį valdžios Andrių Jogaila pirmaisiais savo vieš­
     patavimo metais buvo uždaręs į kalėjimą, kur ligi šiol
     tebelaikė, šiam nė nežinant, ar liks gyvas, ar ne.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169357
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Konradas Celneris, ne-
+    J o g a ilo s broliu A n d -
+    seniai draugiškai abiejų ka-
+    riu m i V in g a u d u
+    ralių pakviestas į vestuves,
+    padalijęs kariuomenę dviem
+    voromis, įsiveržė vienu metu į Lietuvą ir Žemaitiją,
+    sukeldamas didelį išgąstį ir padarydamas sunkių nuos­
+    tolių; kadangi kunigaikščiai buvo išvykę, abi negan­
+    dos rodėsi dar didesnės. Kitoje pusėje Andrius Vin-
+    gaudas, Trubčevsko kunigaikštis, Jogailos brolis, per­
+    sikėlęs per Dauguvą, nelyginant piktas priešas ėmė
+    niokoti lietuvių valdas. Dar vaikas priėmęs krikščio­
+    nybę pagal graikų apeigas, buvo rusų labiau mėgsta­
+    mas nei kiti broliai; be to, gerokai anksčiau buvo su­
+    kėlęs dėl visokių savo savybių beveik visos Rusios
+    palankumą.
+  citata_rodoma: "Konradas Celneris, ne-\nJ o g a ilo s broliu A n d -\nseniai draugiškai abiejų ka-\nriu m i V in g a u d u\nralių pakviestas į vestuves,\npadalijęs kariuomenę dviem\nvoromis, įsiveržė vienu metu į Lietuvą ir Žemaitiją,\nsukeldamas didelį išgąstį ir padarydamas sunkių nuos­\ntolių; kadangi kunigaikščiai buvo išvykę, abi negan­\ndos rodėsi dar didesnės. Kitoje pusėje Andrius Vin-\ngaudas, Trubčevsko kunigaikštis, Jogailos brolis, per­\nsikėlęs per Dauguvą, nelyginant piktas priešas ėmė\nniokoti lietuvių valdas. Dar vaikas priėmęs krikščio­\nnybę pagal graikų apeigas, buvo rusų labiau mėgsta­\nmas nei kiti broliai; be to, gerokai anksčiau buvo su­\nkėlęs dėl visokių savo savybių beveik visos Rusios\npalankumą."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-169358
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kad ateityje nesirastų dėl kokio men­
+    ko nesutarimo naujų dingsčių karui, jie sutarė, jog nuo
+    šiol visus jų ginčus spręsiąs tiktai karalius. Per tą patį
+    susitikimą Vytautas, norėda-
+    A n d iių  V in g a u d ą  pa-
+    mas pelnyti šiokį tokį kara-
+    leid žia  į la isv ę
+    liaus brolių palankumą sau,
+    pamėgino laimėti jų draugys­
+    tę, susirūpindamas Andriumi Vingaudu, Trubčevsko ku­
+    nigaikščiu. Linkusį į maištus ir su kryžiuočių pagalba
+    siekusį valdžios Andrių Jogaila pirmaisiais savo vieš­
+    patavimo metais buvo uždaręs į kalėjimą, kur ligi šiol
+    tebelaikė, šiam nė nežinant, ar liks gyvas, ar ne.
+  citata_rodoma: "Kad ateityje nesirastų dėl kokio men­\nko nesutarimo naujų dingsčių karui, jie sutarė, jog nuo\nšiol visus jų ginčus spręsiąs tiktai karalius. Per tą patį\nsusitikimą Vytautas, norėda-\nA n d iių  V in g a u d ą  pa-\nmas pelnyti šiokį tokį kara-\nleid žia  į la isv ę\nliaus brolių palankumą sau,\npamėgino laimėti jų draugys­\ntę, susirūpindamas Andriumi Vingaudu, Trubčevsko ku­\nnigaikščiu. Linkusį į maištus ir su kryžiuočių pagalba\nsiekusį valdžios Andrių Jogaila pirmaisiais savo vieš­\npatavimo metais buvo uždaręs į kalėjimą, kur ligi šiol\ntebelaikė, šiam nė nežinant, ar liks gyvas, ar ne."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:00"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-169359
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Linkusį į maištus ir su kryžiuočių pagalba
+    siekusį valdžios Andrių Jogaila pirmaisiais savo vieš­
+    patavimo metais buvo uždaręs į kalėjimą, kur ligi šiol
+    tebelaikė, šiam nė nežinant, ar liks gyvas, ar ne. Vytau­
+    tas jį užstojo, maldaute maldaudamas karalių dar kartą
+    nudžiuginti visų širdis: tą dieną ne tik Vytautas baigė
+    ginčą su Skirgaila, karaliui tarpininkaujant, bet, Vytau­
+    tui prašant, susilaukė malonės ir Andrius. Vis dėlto
+    sunkiai išprašė Andriui gyvybę, laisvę bei valdų.
   citata_rodoma: "Linkusį į maištus ir su kryžiuočių pagalba\nsiekusį valdžios Andrių Jogaila pirmaisiais savo vieš­\npatavimo metais buvo uždaręs į kalėjimą, kur ligi šiol\ntebelaikė, šiam nė nežinant, ar liks gyvas, ar ne. Vytau­\ntas jį užstojo, maldaute maldaudamas karalių dar kartą\nnudžiuginti visų širdis: tą dieną ne tik Vytautas baigė\nginčą su Skirgaila, karaliui tarpininkaujant, bet, Vytau­\ntui prašant, susilaukė malonės ir Andrius. Vis dėlto\nsunkiai išprašė Andriui gyvybę, laisvę bei valdų."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"

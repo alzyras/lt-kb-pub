@@ -79,14 +79,7 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
   puslapiai: "p. 39 (PDF 37)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 39 (PDF 37)."
   citata_originali: |
-    Juška kunigu nepadarytas, bet ir bernas
-    nesugadintas; kad dalgio ir žuobrio įsitaisyti nemokėjo,
-    tačiau darbo
-    dirbti netingėjo. Vasarą daug kas kviesdavo jį dirbti ir sodindavo jam
-    bulbių, už aštuonias darbo dienas pūrą.
-    Jo tikrasis darbas buvo žie­
-    momis mokyti vaikus: kas savaitę nuo kiekvieno vaiko imdavo po gri­
-    viną, be to, gaudavo visą maistą.
+    Jo tikrasis darbas buvo žie­momis mokyti vaikus: kas savaitė nuo kiekvieno vaiko imdavo po gri­viną, be to, gaudavo visą maistą.
   citata_rodoma: "Jo tikrasis darbas buvo žie­momis mokyti vaikus: kas savaitė nuo kiekvieno vaiko imdavo po gri­viną, be to, gaudavo visą maistą."
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
@@ -102,12 +95,7 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
   puslapiai: "p. 39 (PDF 37)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 39 (PDF 37)."
   citata_originali: |
-    Prieš mūsų rūmą, kitoj pusėj gatvės, buvo nedidelis rūmiukas, su
-    dviem atskirais butais.
-    Kiekvienas butas turėjo
-    atskirą kambarį ir
-    prieangį, vadinasi, buvo du kambariu su dviem nuomininkais. Geres­
-    nėje gyveno Juška, atidirbdamas dvidešimt keturias dienas per metus.
+    Geres­nėje gyveno Juška, atidirbdamas dvidešimt keturias dienas per metus.
   citata_rodoma: "Geres­nėje gyveno Juška, atidirbdamas dvidešimt keturias dienas per metus."
   statusas: verified
   atnaujinta: "2026-07-12 01:05"

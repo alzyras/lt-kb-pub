@@ -61,22 +61,6 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
   pagrindžia:
     - c-65266
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai buvo žinomi, o tokio plauko žirgai ypatingai gerbti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tarp šių pilių, netoli ežero, pavadinto Pipino ežeru,
-
-      215  Tautosakoje baltas arklys ar balta kumelė — stebuklingi. Žinomi balti ir juodi
-    Perkūno žirgai, šio plauko žirgai buvę ypatingai gerbiami (Dundulienė P., Arklys..., p.
-    83—101).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-65266
@@ -103,11 +87,11 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Žioka (Būga K., 3,
-    p. 135; MPKP, 1, p. 25) ar Skokiai (Salys A.), kartais buvo rašoma ir Šakiai. Vietovė ir
-    tuo pat vardu vienas didžiausių Sembos valsčių buvęs šiaurės Semboje, pietinėje Kuršių
-    marių pakrantėje, apie didelį kyšulį — Pustų ragą (Łowmiański H., Studja..., 2, p. 36,
-    139 ir kt.).
+    Tarp šių pilių, netoli ežero, pavadinto Pipino ežeru,
+
+      215  Tautosakoje baltas arklys ar balta kumelė — stebuklingi. Žinomi balti ir juodi
+    Perkūno žirgai, šio plauko žirgai buvę ypatingai gerbiami (Dundulienė P., Arklys..., p.
+    83—101).
   citata_rodoma: "Tarp šių pilių, netoli ežero, pavadinto Pipino ežeru,\n\n  215  Tautosakoje baltas arklys ar balta kumelė — stebuklingi. Žinomi balti ir juodi\nPerkūno žirgai, šio plauko žirgai buvę ypatingai gerbiami (Dundulienė P., Arklys..., p.\n83—101)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

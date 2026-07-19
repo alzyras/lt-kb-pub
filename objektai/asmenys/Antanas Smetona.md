@@ -228,17 +228,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindžia:
     - c-73444
 
-<a id="claim-t-75720"></a>
-- t-032
-  teiginys: "A. Smetona buvo Vykdomojo Komiteto biuro narys."
-  atnaujinta: "2026-07-19 18:01"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1936 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-73447
-
 <a id="claim-t-75721"></a>
 - t-034
   teiginys: "A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe."
@@ -784,18 +773,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75753"></a>
 - t-033
   teiginys: "A. Smetona buvo Lietuvos Tarybos narys ir jos pirmininkas."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-73432
     - c-73444
 
 <a id="claim-t-75754"></a>
@@ -1289,7 +1270,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-025
-    - t-033
 
 - id: c-73433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1648,7 +1628,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
     - t-048
     - t-012
 
@@ -1733,9 +1712,3 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-059
-
-## Ryšiai
-- Antanas Smetona (Lietuvos prezidentas, XX a.) valdė [[objektai/vietos/Lietuva]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo į [[objektai/vietos/Berlynas]], [[objektai/vietos/Portugalija]], [[objektai/vietos/Šveicarija]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) mirė [[objektai/vietos/Klivlandas]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) paskyrė [[objektai/asmenys/Juozas Tūbelis]]

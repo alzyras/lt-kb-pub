@@ -9,15 +9,15 @@ datos:
   - '1961 m.'
 date_start: '1924'
 date_end: '1961'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - kalbininkas
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -165,6 +165,38 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - susijęs iš [[objektai/zodynas/Aistuva.md#claim-t-11667|Aistuva]]: Kazimieras Jaunius ir Kazimieras Būga žodį „aesti“ kildino iš žodžio „Aistuva“.
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70377|vakariniai baltai]]: Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų.
+## Reikšmingi paminėjimai
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuvos teritorijos jie nepalietė ir dides­
+    nės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­
+    dami su prūsais, gotai jiems tame laikotarpyje yra davę devynius
+    skolinius. Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu­
+    ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
+    esą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'K. Būga 1924 m. paskelbė darbą „Die Vorgeschichte der aistischen (baltischen) Stämme im Lichte der Ortsnamenforschung“.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Suwałki,_ Wiadomości Archeolo­
+    giczne, t. 1, sąs. 1, 1961. — _Apuolė_ , MLTE, I, 85-86 p. — _Baltic Langu­
+    ages_ , EnL, I, 259-261 p. — Būga, K. : _Die Vorgeschichte der aistischen
+    (ibaltischen) Stämme im Lichte der Ortsnamenforschung,_ Streitberg-Fest­
+    gabe, Leipzig 1924, 22-35 p. — (”) _Visųsenieji lietuvių santykiai su ger­
+    manais_ , Kalba ir Senovė, I, Kaunas 1922, 60-75 p. — Endzelin, J. :
+    _Slavjano-baltijskie etjudy_ , Charkov 1911.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-00072
@@ -209,10 +241,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Lietuvos teritorijos jie nepalietė ir dides­
-    nės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­
-    dami su prūsais, gotai jiems tame laikotarpyje yra davę devynius
-    skolinius. Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu­
+    Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu-
     ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
     esą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus.
   citata_rodoma: "Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu-\nba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone\nesą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus."
@@ -229,13 +258,8 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Suwałki,_ Wiadomości Archeolo­
-    giczne, t. 1, sąs. 1, 1961. — _Apuolė_ , MLTE, I, 85-86 p. — _Baltic Langu­
-    ages_ , EnL, I, 259-261 p. — Būga, K. : _Die Vorgeschichte der aistischen
-    (ibaltischen) Stämme im Lichte der Ortsnamenforschung,_ Streitberg-Fest­
-    gabe, Leipzig 1924, 22-35 p. — (”) _Visųsenieji lietuvių santykiai su ger­
-    manais_ , Kalba ir Senovė, I, Kaunas 1922, 60-75 p. — Endzelin, J. :
-    _Slavjano-baltijskie etjudy_ , Charkov 1911.
+    Būga, K. : _Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte
+    der Ortsnamenforschung,_ Streitberg-Festgabe, Leipzig 1924, 22-35 p.
   citata_rodoma: "Būga, K. : _Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte\nder Ortsnamenforschung,_ Streitberg-Festgabe, Leipzig 1924, 22-35 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"

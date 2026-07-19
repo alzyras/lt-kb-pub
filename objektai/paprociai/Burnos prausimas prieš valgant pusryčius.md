@@ -91,15 +91,7 @@ Nenurodyta
   puslapiai: "p. 151 (PDF 149)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 151 (PDF 149)."
   citata_originali: |
-    Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną
-    ne dieną pradėdamas, bet visada eidamas valgyti
-    pusryčių.
-    Mums
-    įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyven­
-    ti su mumis ir skiriasi kalba ir būdu.
-    Dotnavietis, atsikėlęs iš ry­
-    to, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto
-    plaukus, apsivelka ir tada eina į darbą.
+    Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu. Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą.
   citata_rodoma: "Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu. Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

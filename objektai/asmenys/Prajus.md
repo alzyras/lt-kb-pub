@@ -26,53 +26,6 @@ media_all_json: |-
 
 Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolemėjo raštuose nubraižytu žemėlapiu.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolemėjo raštuose nubraižytu žemėlapiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai pasakoja Amia-
-    nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­
-    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
-    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
-    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
-    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
-    ir Geniui, neva net atsikėlusi iš Chijo salos2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174337
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Galėjo
-    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
-    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
-    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
-    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
-    novės Kijevą. Nestoras irgi nusirašė visa tai. Esmė ta,
-    kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų,
-    daugiausia netvarkingai surašytų ir sukompiliuotų iš
-    įvairių šaltinių, kuriuos naudojo šis geografas, daugybė­
-    je jam ne sykį atsitikdavo, kad, paėmęs du vienos tau­
-    tos pavadinimus iš įvairių epochų ir autorių, pateikė juos
-    atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
-    nes ne visuomet buvo įmanoma patikrinti.
-  citata_rodoma: "Tai pasakoja Amia-\nnas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-191455"></a>
@@ -87,3 +40,26 @@ Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolem
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174337
+
+## Citatos
+
+- id: c-174337
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Tai pasakoja Amia-
+    nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2.
+  citata_rodoma: "Tai pasakoja Amia-\nnas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

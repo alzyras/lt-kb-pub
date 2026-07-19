@@ -51,14 +51,11 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją
-    reikšmę. Pažymėjęs, kad kovų su pagudėnais „niekas nestengtų nė tiksliai aprašyti, nė
-    atpasakoti“ (III, 17), toliau pateikia kai kuriuos jų momentus. Pradėdamas kalbėti apie
-    Ordino pastangas užgrobti Sembą, jis pabrėžia, jog „daug karų buvo kariauta prieš
-    sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą
-    reikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar kas įmanytų surašyti“,
-    o jei surašytų, tai „vargu ar kas patikėtų, kaip uoliai broliai puldinėjo sembus, norėdami
-    juos vėl pajungti krikščionių tikėjimui“ (III, 107).
+    Retrospektyvinis požiūris  į įvykius ryškus tokiuose kronikininko
+    pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,
+    paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).
+      Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją
+    reikšmę.
   citata_rodoma: "Retrospektyvinis požiūris  į įvykius ryškus tokiuose kronikininko\npareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,\npaliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).\n  Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją\nreikšmę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

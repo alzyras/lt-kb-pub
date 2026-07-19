@@ -147,17 +147,8 @@ Nenurodyta
   puslapiai: "p. 84 (PDF 82)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 84 (PDF 82)."
   citata_originali: |
-    Iš tokių žydas daugiausia
-    pelnydavo.
-    Kiti išsimanydavo ir veltui degtinės atsigerti:
-    numato,,
-    kur Mendeliene kiaušinius krauna, numato, kad prie jų nesunku pri­
-    eiti, taigi žmogelis, atėjęs į gertuvę, pirmiausia pravėrė kamaros du­
-    ris, pamatė ten kiaušinių prikrautą rėtį, greitai dedasi į kišenę, greitai
-    iš kamaros į geriamąjį kambarį — ir keičia su Mendeliene kiaušinius
-    į degtinę.
     Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­
-    siam girtuokliavimui, įvesdamas „Blaivybės Broliją“ .
+    siam girtuokliavimui, įvesdamas „Blaivybės Broliją“.
   citata_rodoma: "Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­\nsiam girtuokliavimui, įvesdamas „Blaivybės Broliją“."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

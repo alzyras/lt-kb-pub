@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Brastos pasipriešinimas 1792 m. kare
 
 ## Santrauka
@@ -71,23 +72,6 @@ Nenurodyta
   pagrindžia:
     - c-22914
 
-<a id="claim-t-20174"></a>
-- t-002
-  teiginys: "LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Varšuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad LDK kariuomenė atsitraukė prie Varšuvos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuvos kariuomenė keliavo į Varšuva (0.82); Lietuvos kariuomenė gynė Brasta (0.76)"
-  pagrindžia:
-    - c-22915
-
 ## Citatos
 
 - id: c-22914
@@ -127,5 +111,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

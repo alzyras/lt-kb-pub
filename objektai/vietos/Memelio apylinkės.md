@@ -27,49 +27,6 @@ media_all_json: |-
 
 Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavimo, kuriame šiuo vardu dievinta išmintis.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavimo, kuriame šiuo vardu dievinta išmintis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš tikrųjų iš
-    to, ką išguldėme straipsnyje apie Santvarą, Lada buvo lietuvių
-    Latona, dvynių Lėlio ir Lėlės, pramintų Lelyva, motina.
-    Bute (iBudie}
-    Išminties deivė. Jos vardą paėmiau iš vieno liaudies pada­
-    vimo, išgirsto Memelio apylinkėse, iš kurio aiškėja, kad šiuo
-    vardu dievinta išmintis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171913
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Pasak jų blaivesnio to dalyko aiškinimo,
-    Budha buvęs senovės indų mokytojas ir įstatymų kūrėjas, ku­
-    ris išmokė juos šešių mokslų: astronomijos ir astrologijos, mo­
-    ralės, religinių apeigų, gydymo meno, teisės ir prekybos. Vis
-    dėlto matyti, kad, greta to, jis dar skiepijo Dievo teisingesnio
-    supratimo tiesas ir peikė braminų religinį fanatizmą, kadangi
-    jie iki šiol kupini didžiausios paniekos Budhai, nors neginčija
-    didelių jo dorybių ir dieviškumo. Labai senais laikais budistų
-    sekta Indijoje buvo persekiojama ir ištremta iš šalies.
-  citata_rodoma: "Iš tikrųjų iš\nto, ką išguldėme straipsnyje apie Santvarą, Lada buvo lietuvių\nLatona, dvynių Lėlio ir Lėlės, pramintų Lelyva, motina.\nBute (iBudie}\nIšminties deivė. Jos vardą paėmiau iš vieno liaudies pada­\nvimo, išgirsto Memelio apylinkėse, iš kurio aiškėja, kad šiuo\nvardu dievinta išmintis."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189024"></a>
@@ -91,3 +48,26 @@ Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171913
+
+## Citatos
+
+- id: c-171913
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Iš tikrųjų iš
+    to, ką išguldėme straipsnyje apie Santvarą, Lada buvo lietuvių
+    Latona, dvynių Lėlio ir Lėlės, pramintų Lelyva, motina.
+    Bute (iBudie}
+    Išminties deivė. Jos vardą paėmiau iš vieno liaudies pada­
+    vimo, išgirsto Memelio apylinkėse, iš kurio aiškėja, kad šiuo
+    vardu dievinta išmintis.
+  citata_rodoma: "Iš tikrųjų iš\nto, ką išguldėme straipsnyje apie Santvarą, Lada buvo lietuvių\nLatona, dvynių Lėlio ir Lėlės, pramintų Lelyva, motina.\nBute (iBudie}\nIšminties deivė. Jos vardą paėmiau iš vieno liaudies pada­\nvimo, išgirsto Memelio apylinkėse, iš kurio aiškėja, kad šiuo\nvardu dievinta išmintis."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

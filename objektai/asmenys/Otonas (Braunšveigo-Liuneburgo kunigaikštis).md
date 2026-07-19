@@ -122,14 +122,17 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Didžiai dėl to susirūpinę broliai dažnai
-    rinkdavosi pasitarti, vildamiesi rasti šiomis aplinkybėmis tinkamą išeitį. Galop pats
-    Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių
-    sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį
-    didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį pas brolius,
-    imtis tikėjimo bei tikinčiųjų reikalo. Taigi Pomandas iš Baigos pilies sugrįžo pas savo
-    bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai
-    nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.
+    Apie Braunšveigo kunigaikščio atvykimą
+
+      Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera
+    žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe
+    maldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir
+    kunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.
+
+
+
+
+             26.
   citata_rodoma: "Apie Braunšveigo kunigaikščio atvykimą\n\n  Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera\nžinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe\nmaldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir\nkunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.\n\n\n\n\n         26."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

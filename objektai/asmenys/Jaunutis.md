@@ -13,16 +13,16 @@ datos:
   - '1400 m.'
 date_start: '1301'
 date_end: '1400'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - valdovas
   - kunigaikštis
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '4'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/7/71/%D0%9D%D0%B0%D1%80%D0%B8%D0%BC%D1%83%D0%BD%D1%82%2C_%D0%95%D0%B2%D0%BD%D1%83%D1%82%D0%B8%D0%B9%2C_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%2C_%D0%9A%D0%BE%D1%80%D0%B8%D0%B0%D0%B4%2C_%D0%9B%D1%8E%D0%B1%D0%B0%D1%80%D1%82%2C_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D0%B4.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3A%D0%9D%D0%B0%D1%80%D0%B8%D0%BC%D1%83%D0%BD%D1%82%2C_%D0%95%D0%B2%D0%BD%D1%83%D1%82%D0%B8%D0%B9%2C_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%2C_%D0%9A%D0%BE%D1%80%D0%B8%D0%B0%D0%B4%2C_%D0%9B%D1%8E%D0%B1%D0%B0%D1%80%D1%82%2C_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D0%B4.png'
@@ -201,6 +201,25 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 - susijęs iš Ukmergė: Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis.
 - susijęs iš Ukmergė: Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.
 - susijęs iš Ašmena: Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir išvijo iš tenai Jaunutį.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Man tai buvo
+    labai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­
+    čiui Jogailai ir mačiau aiškiai, kad aš čia ničnieko ne­
+    galėjau padaryti ir negalėjau nieku būdu tų privilegijų
+    nusimesti. Ir aš prašiau kunigaikštį Jogailą raštų bei
+    privilegijų dėl tų žemių, kurias jis man buvo davęs,
+    dėl rusų žemės7, kuri buvo priklausiusi Liubartui",
+    kad aš ją galėčiau pasilaikyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-36348
@@ -325,14 +344,11 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Man tai buvo
-    labai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­
-    čiui Jogailai ir mačiau aiškiai, kad aš čia ničnieko ne­
-    galėjau padaryti ir negalėjau nieku būdu tų privilegijų
-    nusimesti. Ir aš prašiau kunigaikštį Jogailą raštų bei
-    privilegijų dėl tų žemių, kurias jis man buvo davęs,
-    dėl rusų žemės7, kuri buvo priklausiusi Liubartui",
-    kad aš ją galėčiau pasilaikyti.
+    Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­
+    niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.
+    Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir
+    išvijo iš tenai Jaunutį. Ir visi krašto žmonės prisidėjo
+    prie jo, ir visos pilys pasidavė jam.
   citata_rodoma: "Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­\nniaus pilies, o kunigaikštis Algirdas negalėjo atvykti. \nIr mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir \nišvijo iš tenai Jaunutį. Ir visi krašto žmonės prisidėjo \nprie jo, ir visos pilys pasidavė jam."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

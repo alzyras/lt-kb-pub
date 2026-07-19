@@ -49,10 +49,12 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
   pagrindžia:
     - c-172476
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neišaiškintų paminklų šifruotoju ir geranorišku tautiečiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172476
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Savo entuziazmu T. Narbutas pasidalijo ir su
     S. Daukantu. Jis rašė: „Tasai ponas Volianskis šiandien yra žy­
@@ -61,30 +63,6 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
     minga, jeigu prisiminsime tai, kas jau buvo anksčiau pasakyta
     šiame rašinyje. Būtent T. Volianskio geranoriškumas darė is­
     torikui didžiausią įspūdį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172476
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Daugumai ten išdėstytų faktų
-    istorikas pritarė; jis mėgdavo kartoti, kad M. Višnevskis apie
-    lietuvių kalbą išmano geriau negu kitas kuris lietuvis. T. Nar­
-    butas abejojo tik vienu tyrinėtojo faktu, t. y. ar lietuvių kalbos
-    gramatika buvo parašyta jau XIII amžiuje48. Su L. A. Jucevi­
-    čiumi, regis, taip pat nebūta glaudesnių kontaktų; laiškų neli­
-    ko, o ir vertinimų taip pat. Vis dėlto parankiniame egzemplio­
-    riuje gausu citatų iš L. A. Jucevičiaus monografijų („Lietuvių
-    liaudies priežodžiai“, 1840; „Žemaitijos atsiminimai“, 1842;
-    „Lietuva“, 1846); po T. Volianskio tai buvo antras ryškiausias
-    darbinio LTI varianto autorius, ir tai jau daug ką pasako.
   citata_rodoma: "Savo entuziazmu T. Narbutas pasidalijo ir su\nS. Daukantu. Jis rašė: „Tasai ponas Volianskis šiandien yra žy­\nmiausias archeologas, iki šiol neišaiškintų paminklų šifruoto­\njas; jis -  mūsų tautietis, labai geranoriškas“46. Ši frazė itin reikš­\nminga, jeigu prisiminsime tai, kas jau buvo anksčiau pasakyta\nšiame rašinyje. Būtent T. Volianskio geranoriškumas darė is­\ntorikui didžiausią įspūdį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

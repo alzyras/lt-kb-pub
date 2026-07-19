@@ -106,17 +106,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-78986
     - c-179823
 
-<a id="claim-t-82512"></a>
-- t-024
-  teiginys: "Kazimieras Jogailaitis turėjo 6 sūnus ir 5 dukteris."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-78983
-    - c-179831
-
 <a id="claim-t-82513"></a>
 - t-022
   teiginys: "Nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl jo šeima jautėsi turinti sosto paveldėjimo teisių."
@@ -158,14 +147,20 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
 <a id="claim-t-184749"></a>
 - t-013
   teiginys: "Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kazimieras patraukė į Vilnių."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168111
     - c-168110
 
 <a id="claim-t-184750"></a>
@@ -249,7 +244,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
 <a id="claim-t-184754"></a>
 - t-001
   teiginys: "Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -267,7 +262,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibendrina citatoje nurodytus Kazimiero veiksmus."
   pagrindžia:
     - c-168115
-    - c-168113
 
 <a id="claim-t-193935"></a>
 - t-025
@@ -564,12 +558,10 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   citata_rodoma: "Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs, bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
-
 - id: c-78984
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -666,27 +658,23 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   puslapiai: "PDF 468"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 468."
   citata_originali: |
-    Netikėtai miš-
-    A tle id ž ia
-    n e tik ė ta i
-    kuose netoli Rūdninkų mies-
-    p a k e lė je
-    s u tik ta m
-    telio jis užšoko ant Kazimiero
-    M y k o lu i
-    palydos. Patekęs į tokią ne­
-    aiškią padėtį, jis, be galo išsi­
-    gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­
-    tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs
-    Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį
-    kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
-    dikus, o jo paties, visiškai atsiduodančio valdovo malo­
-    nei, neatiduoti žmogžudžiams. Kazimieras, maloniai pri­
-    ėmęs ir atidžiai išklausęs, leido jam, pažadėjęs savo ma­
-    lonę, laisvai toliau žygiuoti, o pats patraukė į Vilnių ir
-    netrukus atvyko į miestą sveikinamas didžiulės minios
-    žmonių, karštai trokštančių jį išvysti ir puoselėjančių
-    viltį, jog štai galop įsiviešpataus ramybė.
+    Lenkams prieš­
+    taraujant, lietuviai nė nemanė garsinti savo sumanymo,
+    bijodami tuo būdu pakenkti kunigaikščiui ir valstybei.
+    Štai todėl jie sumanė pasinaudoti lenkų lengvapėdišku­
+    mu, nors pastarieji tikėjosi iš jų visai ko kito: lietuvių
+    N o rs len k a i p riešin a ­
+    si, p a k e lia m a s V iln iu ­
+    je L ietu vo s d id žiu o ju
+    k u n igaikščiu
+    470
+
+    ## Puslapis 469
+
+    luomai nulydėjo Kazimierą į šv. Stanislovo katedrą, ir
+    čia maršalas jį paskelbė Lietuvos didžiuoju kunigaikš­
+    čiu, o Vilniaus vyskupas su įprastinėmis apeigomis pa­
+    kėlė į sostą.
   citata_rodoma: "Lenkams prieš­\ntaraujant, lietuviai nė nemanė garsinti savo sumanymo,\nbijodami tuo būdu pakenkti kunigaikščiui ir valstybei.\nŠtai todėl jie sumanė pasinaudoti lenkų lengvapėdišku­\nmu, nors pastarieji tikėjosi iš jų visai ko kito: lietuvių\nN o rs len k a i p riešin a ­\nsi, p a k e lia m a s V iln iu ­\nje L ietu vo s d id žiu o ju\nk u n igaikščiu\n470\n\n## Puslapis 469\n\nluomai nulydėjo Kazimierą į šv. Stanislovo katedrą, ir\nčia maršalas jį paskelbė Lietuvos didžiuoju kunigaikš­\nčiu, o Vilniaus vyskupas su įprastinėmis apeigomis pa­\nkėlė į sostą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -694,7 +682,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
     - t-014
 
 - id: c-168112
@@ -726,28 +713,31 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   puslapiai: "PDF 486"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 486."
   citata_originali: |
-    Š tai dėl to ir lenkai, ir lie­
-    tuviai pradėjo šnairuoti į karalių: lenkai manė, jog
-    skitai įsiveržė į Podolę dėl
-    L en k a i
-    ir
-    lie tu v ia i
-    to, kad sudarė kokius slaptus
-    p r a d e d a įta rin ėti ka-
-    susitarimus su karaliumi, o
-    ralių
-    lietuviai B učackio elgesį aiš­
-    k in o si karaliaus neapdairu­
-    mu. L enkai pirmieji atvirai jį užsipuolė, reik alau d am i
-    su šau k ti luom us į Piotrkovo seim ą. T am e seim e jie v i­
-    saip rag in o k a ra lių n iek o n ed a ry ti B učackui, atėm u siam
-    iš lietuvių Chmelniką ir M edžibožą, be to, neatiduoti
-    u žg ro b tų P odolės žem ių lietu v iam s, o su siru o šu s iš L en­
-    k ijo s į L ietuvą, n iek u b ū d u n esu g a lv o ti leistis į k elią
-    be lenkų senatorių. Karalius į tai atsakė, jo g nė v ie ­
-    nam len k u i n e k e tin ą s atsa k y ti teisės b ū ti jo palydovu,
-    bet tokiu svarbiu L ietu v ai reikalu jis nieko n eg alįs nu­
-    tarti be L ietuvos sen ato žinios ir p ritarim o .
+    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
+    gužės pabaigoje, Mykolas su
+    1448 m e ta i
+    sk itais įsiv eržė į Severską ir,
+    Sum u ša M y k o lą  Se-
+    sum ušęs greitosiom is sutelk-
+    v e r s k e
+    tas jėg as, jam  p asto ju sias k e ­
+    lią, p aėm ė Brianską, Naugar-
+    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
+    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
+    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
+    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
+    žemių. Niekur neberasdamas užtarėjų, M ykolas pasp­
+    ruko į Maskvą, kur, priim-
+    M y k o lo  m irtis
+    tas į vienuolyną, kurį m etą
+    čia gyv en o  kaip paprastas
+    488
+
+    ## Puslapis 487
+
+    žmogus, o galop ir galą gavo, vienuolyno igumenui da­
+    vus apnuodytos duonos, kurią krikščionys paprastai var­
+    toja šventajai mišių aukai.
   citata_rodoma: "K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­\ngužės pabaigoje, Mykolas su\n1448 m e ta i\nsk itais įsiv eržė į Severską ir,\nSum u ša M y k o lą  Se-\nsum ušęs greitosiom is sutelk-\nv e r s k e\ntas jėg as, jam  p asto ju sias k e ­\nlią, p aėm ė Brianską, Naugar-\ndą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,\ndar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė\nį Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį\nkarą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų\nžemių. Niekur neberasdamas užtarėjų, M ykolas pasp­\nruko į Maskvą, kur, priim-\nM y k o lo  m irtis\ntas į vienuolyną, kurį m etą\nčia gyv en o  kaip paprastas\n488\n\n## Puslapis 487\n\nžmogus, o galop ir galą gavo, vienuolyno igumenui da­\nvus apnuodytos duonos, kurią krikščionys paprastai var­\ntoja šventajai mišių aukai."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -756,7 +746,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-016
-    - t-001
 
 - id: c-168114
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -764,27 +753,15 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   puslapiai: "PDF 531"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 531."
   citata_originali: |
-    Mat jis, po tėvo mirties paveldėjęs
-    valdžią, sugalvojo padaryti tai, kas nepavyko jo tėvui,
-    todėl pradėjo karą prieš Ste-
-    1485 m e ta i
-    poną, Valachijos valdovą, ir
-    T urkų k a ra s V alach i-
-    užėmė Dakijoje keletą mies-
-    jo je
-    tų: vienus jėga užgrobė, kiti
-    patys pasidavė. Šitai sužino­
-    jęs, karalius leidosi į Lvovą. Ten paskelbus, jog Ste­
-    poną bei Valachi ją karalystė imanti į savo globą, nu­
-    siuntė į pagalbą tris tūkstančius rinktinės jaunuome­
-    nės. Kad pagalba buvo deramai stipri, parodė žygio
-    pabaiga: turkai buvo išstumti beveik iš visos Valachi­
-    jos. Sutvarkęs Valachijos reikalus, karalius nuvyko į
-    Lietuvą, nes, bėgant metams ir nykstant dvasios žva­
-    lumui, vis labiau vengė valstybinių reikalų ir vis smar­
-    kiau mėgo medžioklę,
-    o ypač taurų, kurių Lenkijoje
-    negalima užtikti.
+    Tverė turėjo labai galingas karo
+    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
+    ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­
+    jinga maskvėnų sėkmė, toks smarkus jų augimas kai­
+    mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi
+    seniai mėgdamas ramybę, po senovei vengė karo. To­
+    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
+    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
+    jį pagerbęs, bet nieko doro nepažadėjęs.
   citata_rodoma: "Tverė turėjo labai galingas karo\njėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­\nties tūkstančių raitelių. Lietuviams tikrai buvo pavo­\njinga maskvėnų sėkmė, toks smarkus jų augimas kai­\nmynų sąskaita, tačiau karalius Kazimieras, kaip ir visi\nseniai mėgdamas ramybę, po senovei vengė karo. To­\ndėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­\nbomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai\njį pagerbęs, bet nieko doro nepažadėjęs."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -844,7 +821,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     gailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­
     kijos karalystes, tą vasarą per mūšį su turkais be žinios
     dingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­
-    vas, ar ne l3, ir todėl nenorėjo karalaičio išleisti. Lie­
+    vas, ar ne l3 , ir todėl nenorėjo karalaičio išleisti. Lie­
     tuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą,
     apie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­
     džioklės malonumus. Ir karalaičiui Kazimierui labai pa­
@@ -1094,7 +1071,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     gailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­
     kijos karalystes, tą vasarą per mūšį su turkais be žinios
     dingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­
-    vas, ar ne l3, ir todėl nenorėjo karalaičio išleisti. Lie­
+    vas, ar ne l3 , ir todėl nenorėjo karalaičio išleisti. Lie­
     tuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą,
     apie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­
     džioklės malonumus. Ir karalaičiui Kazimierui labai pa­
@@ -1120,12 +1097,10 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   citata_rodoma: "Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs, bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
-
 - id: c-179834
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1435,5 +1410,5 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - t-039
 
 ## Ryšiai
-- Kazimieras Jogailaitis keliavo į [[objektai/vietos/Severskas]]
-- Kazimieras Jogailaitis užėmė [[objektai/vietos/Smolenskas]]
+- Kazimieras Jogailaitis keliavo į Severskas
+- Kazimieras Jogailaitis užėmė Smolenskas

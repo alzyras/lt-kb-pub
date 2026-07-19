@@ -113,6 +113,36 @@ Nenurodyta
   pagrindžia:
     - c-169021
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Dėdamasis, kad gailisi tremtinio, jis
+    siūlė šiam visko, ko tik reikia karui f' pats iš visos šir­
+    dies trokšdamas ir tikėdamasis Lietuvoje išplėsti savo
+    valdas, Konradas gana greitai paskyrė karių bei lėšų
+    kaiui. Buvo aišku, kad pagalbą jis ne duoda, bet par­
+    duoda, tikėdamasis, kad visas pelnas ilgainiui atiteks
+    kryžiuočiams. Už pirmąjį jų patarnavimą teko atsily­
+    ginti Žemaitija, nes Vytautui, nuo pat karo pradžios
+    stokojančiam pinigų, išmokėjo tris šimtus tūkstančių
+    kapų (lietuvių pinigas, prilygstantis penkiems šeštada­
+    liams dabartinio imperialo) tik tada, kai šis užrašė kaip
+    užstatą kryžiuočiams visą Žemaitiją.
+    Sudarius sutartį, į grėti-
+    L ietu va p ra d e d a ka-
+    mas Lietuvos apygardas iš
+    rą su k ry žiu o č ia is
+    dviejų pusių įsiveržė nioko­
+    tojų pulkai: iš Prūsijos per
+    Nemuną ir iš Livonijos per Dauguvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169021
@@ -195,25 +225,22 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Dėdamasis, kad gailisi tremtinio, jis
-    siūlė šiam visko, ko tik reikia karui f' pats iš visos šir­
-    dies trokšdamas ir tikėdamasis Lietuvoje išplėsti savo
-    valdas, Konradas gana greitai paskyrė karių bei lėšų
-    kaiui. Buvo aišku, kad pagalbą jis ne duoda, bet par­
-    duoda, tikėdamasis, kad visas pelnas ilgainiui atiteks
-    kryžiuočiams. Už pirmąjį jų patarnavimą teko atsily­
+    Už pirmąjį jų patarnavimą teko atsily­
     ginti Žemaitija, nes Vytautui, nuo pat karo pradžios
     stokojančiam pinigų, išmokėjo tris šimtus tūkstančių
     kapų (lietuvių pinigas, prilygstantis penkiems šeštada­
     liams dabartinio imperialo) tik tada, kai šis užrašė kaip
     užstatą kryžiuočiams visą Žemaitiją.
     Sudarius sutartį, į grėti-
-    L ietu va p ra d e d a ka-
+    L ietu va  p ra d e d a  ka-
     mas Lietuvos apygardas iš
     rą su k ry žiu o č ia is
     dviejų pusių įsiveržė nioko­
     tojų pulkai: iš Prūsijos per
-    Nemuną ir iš Livonijos per Dauguvą.
+    Nemuną ir iš Livonijos per Dauguvą. Sunkus sve­
+    timšalių pradėtas karas, tačiau žmonės dėl to nelabai
+    būgštavo, atsimindami, jog anksčiau daug kartų lietu­
+    viai savo ginklais buvo atrėmę kryžiuočių antpuolius.
   citata_rodoma: "Už pirmąjį jų patarnavimą teko atsily­\nginti Žemaitija, nes Vytautui, nuo pat karo pradžios\nstokojančiam pinigų, išmokėjo tris šimtus tūkstančių\nkapų (lietuvių pinigas, prilygstantis penkiems šeštada­\nliams dabartinio imperialo) tik tada, kai šis užrašė kaip\nužstatą kryžiuočiams visą Žemaitiją.\nSudarius sutartį, į grėti-\nL ietu va  p ra d e d a  ka-\nmas Lietuvos apygardas iš\nrą su k ry žiu o č ia is\ndviejų pusių įsiveržė nioko­\ntojų pulkai: iš Prūsijos per\nNemuną ir iš Livonijos per Dauguvą. Sunkus sve­\ntimšalių pradėtas karas, tačiau žmonės dėl to nelabai\nbūgštavo, atsimindami, jog anksčiau daug kartų lietu­\nviai savo ginklais buvo atrėmę kryžiuočių antpuolius."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

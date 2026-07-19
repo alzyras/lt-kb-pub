@@ -62,19 +62,6 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   pagrindžia:
     - c-173672
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Riteris Narbuto nurodomas kaip autorius, kurio dėstymu ir paaiškinimais remtasi aiškinant Herodoto ketvirtąją knygą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus
-    (Vorhalle der europäischer Völkergesch. S. 153, 154, 266).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173286
@@ -105,15 +92,8 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Juos matydavo vaikščiojant beveik nuogus,
-    galbūt norinčius parodyti gražų kūno sudėjimą, kurį jiems
-    davė prigimtis ir kuriuo jie pranoko kitus žmones, o gal
-    norėdami pademonstruoti įvairių spalvų ir simbolinių fi­
-    gūrų piešinius3. Maistui ir gėrimui, gal sekdami budi-
-    nais, vartojo kumelių pieną. Tą sveiką gyvulinės kilmės
-    produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
-    suomet labai vertino ir dabar tebevertina šiaurės rytų
-    gyventojai.
+    3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus
+    (Vorhalle der europäischer Völkergesch. S. 153, 154, 266).
   citata_rodoma: "3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus\n(Vorhalle der europäischer Völkergesch. S. 153, 154, 266)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

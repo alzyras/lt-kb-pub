@@ -11,6 +11,10 @@ datos:
   - '1506 m.'
 date_start: '1501'
 date_end: '1506'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,10 +22,6 @@ tags:
   - diplomatas
   - karvedys
   - kunigaikštis
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 <a id="claim-t-82624"></a>
 - t-003
   teiginys: "Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,7 +65,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 <a id="claim-t-82625"></a>
 - t-008
   teiginys: "Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -84,7 +84,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 <a id="claim-t-82626"></a>
 - t-002
   teiginys: "Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Italija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -125,7 +125,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 <a id="claim-t-82630"></a>
 - t-001
   teiginys: "Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kiška: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -196,22 +196,14 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 <a id="claim-t-184804"></a>
 - t-015
   teiginys: "Vasilijus įsakė surakinti Mykolą Glinskį grandinėmis ir išvežti iš stovyklos į Viazmą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Viazma: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Glinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viazma: mention_match, place, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Glinskis\" parinktas kaip owner_note_path. Targetas \"Viazma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-168165
     - c-168166
     - c-168164
 
@@ -284,7 +276,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 <a id="claim-t-193963"></a>
 - t-021
   teiginys: "O tada kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir, perėjęs per upę, smogė visiems totorių pulkams ir per skėlė juos į dvi dalis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -293,6 +285,9 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-176587
+    - c-176588
+    - c-179968
+    - c-179976
     - c-179978
 
 <a id="claim-t-196569"></a>
@@ -359,13 +354,6 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   sudarymo_pagrindimas: "Citata pagrindžia konkrečią Vasilijaus suteiktą padėtį Glinskiui."
   susije_objektai: "llm_object: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva"
   semantiniai_rysiai: "[[objektai/asmenys/Vasilijus|Vasilijus]] paskyrė [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]"
-  ryšio_patikimumas: "susije_su -> Viazma: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Glinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viazma: mention_match, place, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Glinskis\" parinktas kaip owner_note_path. Targetas \"Viazma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
@@ -523,6 +511,59 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195010|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Bychovco kronika Klecko mūšio pergalę apibūdina kaip Lietuvos Didžiosios Kunigaikštystės patirtą „begalinį dievo gailestingumą“.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195015|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195018|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais.
+## Reikšmingi paminėjimai
+- c-008
+  santrauka: 'Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto
+    protingos kalbos neįtikino tų, kurie dėl išglebimo ry­
+    žosi žengti šį beprotišką žingsnį, reikalaudami veikiau
+    išduoti pilį, o ne pasiduoti. Nenorėdami, kad kuriam
+    vienam tektų visa atsakomybė už šį neapykantos vertą
+    sumanymą, jie visi lyg susitarę ėmė šaukti, kad reikia
+    kuo greičiausiai atiduoti pilį, antraip įgulos viršinin­
+    kas žūsiąs nuo jų rankos. Palaužtas jų maištingų nuo­
+    taikų, Sologubas balandžio 20 d. atidavė Glinskiui Smo­
+    lenską; ši žemė, Vytautui nukariavus jos kunigaikščius,
+    ištisą šimtmetį išbuvo Lietuvos didžiųjų kunigaikščių
+    valdžioje. Vasilijus, be galo iškilmingai įžengęs į mies­
+    tą ir rusų bažnyčioje išklausęs pamaldų, čia pat su­
+    laužė duotą žodį, apiplėšdamas ir paprastų miestiečių
+    namus, ir viešuosius pastatus, antra vertus, vienam
+    kitam jis nusiskundė, jog, kariaudamas dėl šios pilies,
+    turėjęs tiek nuostolių, kad tų pinigų būtų užtekę pa­
+    statyti dviem puikiausioms pilims.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-013
+
+- c-025
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai iš pradžių Melnike, Palenkėję,
+    o vėliau Vilniuje tarėsi su valstybės luomais, senato
+    vadovai jį įtikino, kad, saugant valstybės vientisumą,
+    karo imamasi, kai negelbsti visos kitos priemonės, kaip
+    ir gydomas žmogus operuojamas tik tada, kai negelbs­
+    ti visi pavartoti vaistai. Senatas nutarė išsiųsti į Mask­
+    vą žygūną, turėjusį gauti leidimą atvykti pasiuntiniams,
+    kurie būtų taręsi dėl taikos. Tačiau Vasilijus, negalėda­
+    mas užmiršti imperatoriaus bei kryžiuočių pažadų ir
+    tikėdamasis užgrobti visą Lietuvą, apie taiką nenorėjo
+    nė galvoti. Žygimantas, netekęs vilties pasiekti taikos,
+    kuo greičiausiai išsiuntė skitams pagal sutartį paža­
+    dėtą atlyginimą, manydamas, kad šie privers priešą
+    likti savo žemėje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-42155
@@ -734,24 +775,24 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   puslapiai: "PDF 625"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 625."
   citata_originali: |
-    Vis dėlto
-    protingos kalbos neįtikino tų, kurie dėl išglebimo ry­
-    žosi žengti šį beprotišką žingsnį, reikalaudami veikiau
-    išduoti pilį, o ne pasiduoti. Nenorėdami, kad kuriam
-    vienam tektų visa atsakomybė už šį neapykantos vertą
-    sumanymą, jie visi lyg susitarę ėmė šaukti, kad reikia
-    kuo greičiausiai atiduoti pilį, antraip įgulos viršinin­
-    kas žūsiąs nuo jų rankos. Palaužtas jų maištingų nuo­
-    taikų, Sologubas balandžio 20 d. atidavė Glinskiui Smo­
-    lenską; ši žemė, Vytautui nukariavus jos kunigaikščius,
-    ištisą šimtmetį išbuvo Lietuvos didžiųjų kunigaikščių
-    valdžioje. Vasilijus, be galo iškilmingai įžengęs į mies­
-    tą ir rusų bažnyčioje išklausęs pamaldų, čia pat su­
-    laužė duotą žodį, apiplėšdamas ir paprastų miestiečių
-    namus, ir viešuosius pastatus, antra vertus, vienam
-    kitam jis nusiskundė, jog, kariaudamas dėl šios pilies,
-    turėjęs tiek nuostolių, kad tų pinigų būtų užtekę pa­
-    statyti dviem puikiausioms pilims.
+    Tuo tarpu Glinskis suvo-
+    T ia g išk a s
+    M y k o lo
+    kė, jog visos jo viltys bergž-
+    G lin sk io  g a la s
+    džios ir tuščios, nes Vasili­
+    jus, žodžiu pažadėjęs jam ati­
+    duoti Smolenską ir šitaip atsilyginti už paramą, nė
+    nesirengė to daryti. Atsimindamas, kokia sėkmė jį
+    anksčiau lydėjusi, jis bodėjosi dabartine padėtimi, kai
+    niekuo negalima pasitikėti; visur matydamas rusų bar­
+    bariškumą, juto širdyje gailestį dėl savo veiksmų. Kiek­
+    vieną dieną krūtinę plėšė be paliovos stiprėjantis tė­
+    vynės ilgesys ir didėjo viltis, jog karalius gali viską
+    atleisti. Pasiuntęs per ištikimą savo giminaitį laišką ka­
+    raliui, jis nuolankiai paprašė atleidimo, pasižadėdamas
+    ištikima tarnyba atpirkti savo nusikalstamą veiklą, ku­
+    ria atnešęs tėvynei tiek skausmo.
   citata_rodoma: "Tuo tarpu Glinskis suvo-\nT ia g išk a s\nM y k o lo\nkė, jog visos jo viltys bergž-\nG lin sk io  g a la s\ndžios ir tuščios, nes Vasili­\njus, žodžiu pažadėjęs jam ati­\nduoti Smolenską ir šitaip atsilyginti už paramą, nė\nnesirengė to daryti. Atsimindamas, kokia sėkmė jį\nanksčiau lydėjusi, jis bodėjosi dabartine padėtimi, kai\nniekuo negalima pasitikėti; visur matydamas rusų bar­\nbariškumą, juto širdyje gailestį dėl savo veiksmų. Kiek­\nvieną dieną krūtinę plėšė be paliovos stiprėjantis tė­\nvynės ilgesys ir didėjo viltis, jog karalius gali viską\natleisti. Pasiuntęs per ištikimą savo giminaitį laišką ka­\nraliui, jis nuolankiai paprašė atleidimo, pasižadėdamas\ništikima tarnyba atpirkti savo nusikalstamą veiklą, ku­\nria atnešęs tėvynei tiek skausmo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -792,7 +833,6 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-014
-    - t-015
     - t-025
     - t-005
 
@@ -926,10 +966,12 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     savo vardu, ir [davėj savo ranką.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
 - id: c-176589
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1097,10 +1139,12 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     savo vardu, ir [davėj savo ranką.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
 - id: c-179969
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1174,20 +1218,16 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   puslapiai: "PDF 623"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 623."
   citata_originali: |
-    Kai iš pradžių Melnike, Palenkėję,
-    o vėliau Vilniuje tarėsi su valstybės luomais, senato
-    vadovai jį įtikino, kad, saugant valstybės vientisumą,
-    karo imamasi, kai negelbsti visos kitos priemonės, kaip
-    ir gydomas žmogus operuojamas tik tada, kai negelbs­
-    ti visi pavartoti vaistai. Senatas nutarė išsiųsti į Mask­
-    vą žygūną, turėjusį gauti leidimą atvykti pasiuntiniams,
-    kurie būtų taręsi dėl taikos. Tačiau Vasilijus, negalėda­
-    mas užmiršti imperatoriaus bei kryžiuočių pažadų ir
-    tikėdamasis užgrobti visą Lietuvą, apie taiką nenorėjo
-    nė galvoti. Žygimantas, netekęs vilties pasiekti taikos,
-    kuo greičiausiai išsiuntė skitams pagal sutartį paža­
-    dėtą atlyginimą, manydamas, kad šie privers priešą
-    likti savo žemėje.
+    Vasilijui, praradusiam, nesėkminguose antpuoliuo­
+    se nemaža kariuomenės, nebeliko nieko kito, kaip nu­
+    traukti pilies apgulą ir gėdingai sugrįžti į Maskvos
+    kunigaikštystę. Begalvojant apie susidariusią padėtį ir
+    besvarstant visokiausius planus, jam kilo mintis, jog
+    toks gabus žmogus, kaip Glinskis, galėtų padaryti tai,
+    ko pats neįstengė pasiekti. Štai todėl ir kreipėsi į jį,
+    prisiekdamas visais šventaisiais prijungti prie jo tė­
+    vonijos visą žemę su pilimi, jeigu šis padėsiąs mask-
+    vėnams užimti pilį.
   citata_rodoma: "Vasilijui, praradusiam, nesėkminguose antpuoliuo­\nse nemaža kariuomenės, nebeliko nieko kito, kaip nu­\ntraukti pilies apgulą ir gėdingai sugrįžti į Maskvos\nkunigaikštystę. Begalvojant apie susidariusią padėtį ir\nbesvarstant visokiausius planus, jam kilo mintis, jog\ntoks gabus žmogus, kaip Glinskis, galėtų padaryti tai,\nko pats neįstengė pasiekti. Štai todėl ir kreipėsi į jį,\nprisiekdamas visais šventaisiais prijungti prie jo tė­\nvonijos visą žemę su pilimi, jeigu šis padėsiąs mask-\nvėnams užimti pilį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -1242,10 +1282,12 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     savo vardu, ir [davėj savo ranką.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
 - id: c-179978
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1268,5 +1310,5 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - t-021
 
 ## Ryšiai
-- Mykolas Glinskis keliavo į [[objektai/vietos/Vilnius]]
+- Mykolas Glinskis keliavo į Vilnius
 - Mykolas Glinskis puolė [[objektai/grupes/Totoriai]]

@@ -114,12 +114,7 @@ Mokslo draugija.
   puslapiai: "p. 4 (PDF 3)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“, p. 4 (PDF 3)."
   citata_originali: |
-    Ordinariniu profesorium paskirtas 1930 m.
-    Be profesoriavimo
-    universitete velionis nuolatos dėstė ir gimnazijose.
-    1900— 1909 me­
-    tais buvo šiemet atšventusios 100 metų savo gyvavimą Suomių litera­
-    tūros draugijos sekretorium.
+    1900—1909 metais buvo šiemet atšventusios 100 metų savo gyvavimą Suomių literatūros draugijos sekretorium.
   citata_rodoma: "1900—1909 metais buvo šiemet atšventusios 100 metų savo gyvavimą Suomių literatūros draugijos sekretorium."
   statusas: verified
   atnaujinta: "2026-07-12 04:52"

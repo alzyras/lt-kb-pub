@@ -8,15 +8,15 @@ datos:
   - '1563 m.'
 date_start: '1560'
 date_end: '1563'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigas
   - autorius
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,21 +61,6 @@ media_all_json: |-
   pagrindžia:
     - c-173293
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Šventikas Andrejus apie 1560-1563 m. metropolito Makarijaus iniciatyva parašė rusų istorijos ir literatūros paminklą „Степенная книга“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai rusų istorijos ir literatūros paminklas (orig.:
-    „Степенная книга“). Knygą metropolito Maka­
-    rų aus iniciatyva parašė šventikas Andrejus (apie
-    1560-1563 metus).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173293
@@ -83,18 +68,10 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pastara­
-    jam tarpininkaujant, istoriko senienų rinkiniai pa­
-    sipildė Obelių radiniais. T. Narbuto rankas pasie­
-    kė ir šių kasinėjimų, kuriuos vykdė tenykštis dvari­
-    ninkas Karolis Kozakovskis (Kozakowski), aprašy­
-    mas. „Kasinėjau tik dvi dienas, - rašė K. Kozakov­
-    skis J. Pomarnackiui, - radau daugybę daiktų, ku­
-    riuos padovanojau maršalkai Žageliui, maršalkai
-    Sesickiui, Mazovijos vaivadijos gubernatoriui gra­
-    fui Pranciškui Potockiui į jo įdomų numizmatikos
-    ir senovės daiktų kabinetą; taip pat nusiunčiau į
-    Lvovą, į Osolinskių muziejų.
+    Tai rusų istorijos ir literatūros paminklas (orig.:
+    „Степенная книга“). Knygą metropolito Maka­
+    rų aus iniciatyva parašė šventikas Andrejus (apie
+    1560-1563 metus).
   citata_rodoma: "Tai rusų istorijos ir literatūros paminklas (orig.:\n„Степенная книга“). Knygą metropolito Maka­\nrų aus iniciatyva parašė šventikas Andrejus (apie\n1560-1563 metus)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

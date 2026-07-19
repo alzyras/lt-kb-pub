@@ -68,24 +68,10 @@ Nenurodyta
   pagrindžia:
     - c-62561
 
-<a id="claim-t-196983"></a>
-- t-002
-  teiginys: "Apie tai, kaip buvo sunku atgabenti maisto į Karaliaučiaus pilį Prūsai, užkietėję piktadariai, ilgai suko galvą, kaip sunaikinti Karaliaučiaus pilį."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-62561
-
-## Citatos
-
-- id: c-62561
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kai kurie kilmingi sembai paliko gimtuosius namus, su šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis pabėgo į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo
     namų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų
@@ -95,6 +81,32 @@ Nenurodyta
     Prūsai, užkietėję piktadariai, ilgai suko galvą, kaip sunaikinti Karaliaučiaus pilį.
     Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
     už piktus sumanymus bei klastingas užmačias, niekais vertė viską, ko šie griebdavosi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-62561
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    100 (95). Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
+
+      Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į
+    šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš
+    viešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos
+    garsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su
+    šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.
+
+
+
+
+     101 (96).
   citata_rodoma: "100 (95). Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių\n\n  Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į\nšventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš\nviešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos\ngarsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su\nšeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.\n\n\n\n\n 101 (96)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -103,4 +115,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

@@ -16,15 +16,15 @@ datos:
   - '1430 m.'
 date_start: '1225'
 date_end: '1430'
+amziai:
+  - 'XIII'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - kariuomenė
   - ordinas
-amziai:
-  - 'XIII'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -339,22 +339,15 @@ media_all_json: |-
 <a id="claim-t-179382"></a>
 - t-068
   teiginys: "Karaliaučiaus Slaptajame archyve saugoto laiško adresas nurodė jį nedelsiant atiduoti Livonijos magistrui."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 19:01"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonijos ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   temporaliniai_duomenys: "įvykio data: 1410 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį teiginį su konkretesniu laiško apibūdinimu."
   pagrindžia:
-    - c-163107
-    - c-181275
+    - c-163066
+    - c-181262
 
 <a id="claim-t-179384"></a>
 - t-033
@@ -533,7 +526,7 @@ media_all_json: |-
 <a id="claim-t-179398"></a>
 - t-102
   teiginys: "Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -551,7 +544,7 @@ media_all_json: |-
 <a id="claim-t-179399"></a>
 - t-081
   teiginys: "Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vitebskas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -773,7 +766,7 @@ media_all_json: |-
 <a id="claim-t-179420"></a>
 - t-061
   teiginys: "Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -946,7 +939,7 @@ media_all_json: |-
 <a id="claim-t-193321"></a>
 - t-125
   teiginys: "Prūsijos pasienio įvykių metu Livonija, vildamasi pastovios taikos, ilsėjosi nuo karo."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -954,7 +947,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-176049
+    - c-176051
 
 <a id="claim-t-193322"></a>
 - t-126
@@ -972,14 +965,14 @@ media_all_json: |-
 <a id="claim-t-193323"></a>
 - t-127
   teiginys: "Ne tikėto antpuolio išgąsdinti Livonijos raiteliai, gal no rėdami užimti patogesnę kovos poziciją, gal pabėgti, paspaudė pentinais žirgus ir, suvirtę į griovius, visi su sirado čia galą."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-176051
+    - c-178534
 
 <a id="claim-t-193324"></a>
 - t-128
@@ -1173,7 +1166,7 @@ media_all_json: |-
 <a id="claim-t-198958"></a>
 - t-018
   teiginys: "Ordino kronikose 1345-1382 m. užregistruoti 66 žygiai į Lietuvą iš Prūsijos ir 30 iš Livonijos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; llm_object: Lietuva"
   semantiniai_rysiai: "[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] surengė žygį į Lietuva"
@@ -1181,13 +1174,12 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-181244
-    - c-181267
+    - c-181287
 
 <a id="claim-t-198961"></a>
 - t-003
   teiginys: "Ordino kronikose 1345-1382 m. užregistruota 30 žygių į Lietuvą iš Livonijos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsų žemė"
   semantiniai_rysiai: "[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] surengė žygį į Lietuva"
@@ -1202,8 +1194,7 @@ media_all_json: |-
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-181244
-    - c-181267
+    - c-181287
 
 <a id="claim-t-198963"></a>
 - t-012
@@ -1393,6 +1384,92 @@ media_all_json: |-
 - susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
 - susijęs iš [[objektai/zodynas/vikariatas.md#claim-t-36853|vikariatas]]: Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186744|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.
+## Reikšmingi paminėjimai
+- c-042
+  santrauka: '1466 m. žiemos pabaigoje 700 Livonijos raitelių, siųstų kariauti Prūsijoje, susiruošė į žygį, tikėdamiesi išvengti lietuvių saugų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Skitų chanas Ač Girė-
+    jus atsakė jų pasiuntiniui, kad jis net pagalvoti negalįs
+    apie karą be karaliaus Kazimiero žinios ir sutikimo.
+    Kariauti jis galėsiąs tik tada, kai
+    jam pritarsiąs tas,
+    nuo kurio priklauso ir jo sumanymai, ir jo ginkluotė.
+    Todėl Liudvikas ir kreipėsi į karalių. Kai jis išdėstė
+    popiežiaus bei imperatoriaus planus, karalius pasakė
+    visą reikalą atidėsiąs seimui, nes tik jis turįs valsty­
+    bėje aukščiausiąją valdžią, o be luomų žinios nieko
+    reikšmingo negalįs nutarti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-088
+
+- c-044
+  santrauka: 'Valteriui Pletenbergui, Livonijos magistrui, iš tiesų labai sekėsi kariauti: keliose kauty nėse sumušęs stiprias maskvėnų jėgas, jis įniko siaubti Ivano valdas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žinia apie šią
+    nelaimę iškvietė Aleksandrą iš Krokuvos; patikėjęs
+    Lenkijos reikalus broliui Fridrichui, jis atvyko į Vil­
+    nių ir negaišdamas išsiuntė pas Ivaną žygūnus. Pasiun­
+    tinybei vadovavo Petras Miškovskis, Lenčicos vaiva­
+    da, Stanislovas Glebavičius, Lietuvos maršalas, Vaitie­
+    kus Kločka, karalienės rūmininkas, Jonas Sapiega, Lie­
+    tuvos raštininkas. Išvykstantiems pasiuntiniams buvo
+    nurodyta, kad amžina taika galinti būti sudaryta, jei­
+    gu Maskvos valdovas priimsiąs šias svarbiausias są-
+    5 73
+
+    lygas: atstatyti pilis, sugrą-
+    Sudaro šešerių m e tų
+    žinti belaisvius bei perbėgė-
+    pa lia u b a s
+    liūs ir įtraukti į sutarties
+    tekstą Livonijos riterių ma­
+    gistrą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-104
+
+- c-045
+  santrauka: 'Prūsijos ir Livonijos vokiečiai ėmė telkti prieš juos kariuomenę Palangoje, norėdami vėl juos pavergti, bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš mušė tą vokiečių kariuomenę5 .'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Sekančią žiemą6 išsiuntė savo pasiuntinius pas
+    krikščionių imperatorių, ir pas Danijos karalių, Pama­
+    rio kunigaikščius, Silezijos ir vokiečių kunigaikščius,
+    ir pas savo žentą, Maskvos didįjį kunigaikštį, ir pas
+    Tverės didįjį kunigaikštį, ir pas Riazanės didįjį kuni­
+    gaikštį, ir pas Perekopo chaną, ir pas Moldavijos vai­
+    vadą, ir pas krikščionių valdovus, visus kviesdamas
+    pas save.
+    6 Lietuvos metraštis
+    i ! 3
+
+    Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im­
+    peratorius, buvęs tuo metu Vengrijos ir Čekijos kara­
+    liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir
+    Danijos karalius8, ir Perekopo chanas9, ir Riazanės
+    didysis kunigaikštis l0, ir Maskvos didysis kunigaikš­
+    tis", Vytauto žentas, ir Tverės didysis kunigaikštis
+    Borisas Aleksandrovičius'2, ir Prūsijos bei Livonijos
+    magistras l3, ir Odojevo u, ir Peremišlio l5, ir Novosi-
+    lės 16 kunigaikščiai, ir Moldavijos vaivada 17, ir graikų
+    imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
+    Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
+    čiai ir ponai, ir daug įvairių svečių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-00350
@@ -1638,6 +1715,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-082
+    - t-068
 
 - id: c-163067
   autorius: "Michał Baliński"
@@ -1997,7 +2075,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-069
-    - t-068
 
 - id: c-163112
   autorius: "Michał Baliński"
@@ -2386,7 +2463,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-125
     - t-138
 
 - id: c-176050
@@ -2395,17 +2471,18 @@ media_all_json: |-
   puslapiai: "PDF 513"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 513."
   citata_originali: |
-    Skitų chanas Ač Girė-
-    jus atsakė jų pasiuntiniui, kad jis net pagalvoti negalįs
-    apie karą be karaliaus Kazimiero žinios ir sutikimo.
-    Kariauti jis galėsiąs tik tada, kai
-    jam pritarsiąs tas,
-    nuo kurio priklauso ir jo sumanymai, ir jo ginkluotė.
-    Todėl Liudvikas ir kreipėsi į karalių. Kai jis išdėstė
-    popiežiaus bei imperatoriaus planus, karalius pasakė
-    visą reikalą atidėsiąs seimui, nes tik jis turįs valsty­
-    bėje aukščiausiąją valdžią, o be luomų žinios nieko
-    reikšmingo negalįs nutarti.
+    Ir vieni, ir kiti puikiai atliko pavestus užda­
+    vinius.
+    Septyni šimtai Livonij rs raitelių, išsiųstų kariau­
+    ti Prūsijoje, susiruošė į žygį
+    1466 m e ta i
+    žiemos pabaigoje, manydami,
+    L iv o n ijo s raiteliai žū-
+    jog tada bus lengviau išven-
+    sta  Ž e m a itijo je
+    gti lietuvių saugų. Baigėsi
+    vasaris, pelkes ir ežerus den­
+    gė ledas, galintis atlaikyti bet kokį svorį.
   citata_rodoma: "Ir vieni, ir kiti puikiai atliko pavestus užda­\nvinius.\nSeptyni šimtai Livonij rs raitelių, išsiųstų kariau­\nti Prūsijoje, susiruošė į žygį\n1466 m e ta i\nžiemos pabaigoje, manydami,\nL iv o n ijo s raiteliai žū-\njog tada bus lengviau išven-\nsta  Ž e m a itijo je\ngti lietuvių saugų. Baigėsi\nvasaris, pelkes ir ežerus den­\ngė ledas, galintis atlaikyti bet kokį svorį."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2446,8 +2523,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-125
     - t-126
-    - t-127
 
 - id: c-176052
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2455,25 +2532,16 @@ media_all_json: |-
   puslapiai: "PDF 571-572"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 571-572."
   citata_originali: |
-    Žinia apie šią
-    nelaimę iškvietė Aleksandrą iš Krokuvos; patikėjęs
-    Lenkijos reikalus broliui Fridrichui, jis atvyko į Vil­
-    nių ir negaišdamas išsiuntė pas Ivaną žygūnus. Pasiun­
-    tinybei vadovavo Petras Miškovskis, Lenčicos vaiva­
-    da, Stanislovas Glebavičius, Lietuvos maršalas, Vaitie­
-    kus Kločka, karalienės rūmininkas, Jonas Sapiega, Lie­
-    tuvos raštininkas. Išvykstantiems pasiuntiniams buvo
-    nurodyta, kad amžina taika galinti būti sudaryta, jei­
-    gu Maskvos valdovas priimsiąs šias svarbiausias są-
-    5 73
-
-    lygas: atstatyti pilis, sugrą-
-    Sudaro šešerių m e tų
-    žinti belaisvius bei perbėgė-
-    pa lia u b a s
-    liūs ir įtraukti į sutarties
-    tekstą Livonijos riterių ma­
-    gistrą.
+    K aras su L ivo n ija
+    Kai Lietuvoje viešpatavo
+    ramybė, kaimyninėje Livo­
+    nijoje siautėjo karas. Valteriui Pletenbergui, Livonijos
+    magistrui, iš tiesų labai sekėsi kariauti: keliose kauty­
+    nėse sumušęs stiprias maskvėnų jėgas, jis įniko siaubti
+    Ivano valdas. Turėdamas apie keturis tūkstančius vy­
+    rų, jis nusigavo netoli Pskovo, bet čia jį apsupo devy­
+    niasdešimt tūkstančių priešo karių, rodėsi, jog nebeto­
+    li ir paskutinioji.
   citata_rodoma: "K aras su L ivo n ija\nKai Lietuvoje viešpatavo\nramybė, kaimyninėje Livo­\nnijoje siautėjo karas. Valteriui Pletenbergui, Livonijos\nmagistrui, iš tiesų labai sekėsi kariauti: keliose kauty­\nnėse sumušęs stiprias maskvėnų jėgas, jis įniko siaubti\nIvano valdas. Turėdamas apie keturis tūkstančius vy­\nrų, jis nusigavo netoli Pskovo, bet čia jį apsupo devy­\nniasdešimt tūkstančių priešo karių, rodėsi, jog nebeto­\nli ir paskutinioji."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2489,29 +2557,13 @@ media_all_json: |-
   puslapiai: "PDF 108-109"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 108-109."
   citata_originali: |
-    Sekančią žiemą6 išsiuntė savo pasiuntinius pas
-    krikščionių imperatorių, ir pas Danijos karalių, Pama­
-    rio kunigaikščius, Silezijos ir vokiečių kunigaikščius,
-    ir pas savo žentą, Maskvos didįjį kunigaikštį, ir pas
-    Tverės didįjį kunigaikštį, ir pas Riazanės didįjį kuni­
-    gaikštį, ir pas Perekopo chaną, ir pas Moldavijos vai­
-    vadą, ir pas krikščionių valdovus, visus kviesdamas
-    pas save.
-    6 Lietuvos metraštis
-    i ! 3
-
-    Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im­
-    peratorius, buvęs tuo metu Vengrijos ir Čekijos kara­
-    liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir
-    Danijos karalius8, ir Perekopo chanas9, ir Riazanės
-    didysis kunigaikštis l0, ir Maskvos didysis kunigaikš­
-    tis", Vytauto žentas, ir Tverės didysis kunigaikštis
-    Borisas Aleksandrovičius'2, ir Prūsijos bei Livonijos
-    magistras l3, ir Odojevo u, ir Peremišlio l5, ir Novosi-
-    lės 16 kunigaikščiai, ir Moldavijos vaivada 17, ir graikų
-    imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
-    Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
-    čiai ir ponai, ir daug įvairių svečių.
+    Ir išvažinėjo savo keliais.
+    Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
+    vietininkus, nebenorėdami daugiau būti vokiečių val­
+    džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 .
   citata_rodoma: "Ir išvažinėjo savo keliais.\nSekančią vasarą žemaičiai išžudė Prūsijos vokiečių \nvietininkus, nebenorėdami daugiau būti vokiečių val­\ndžioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2577,6 +2629,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-127
     - t-136
 
 - id: c-178535
@@ -2780,8 +2833,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-003
     - t-010
     - t-019
 
@@ -3089,6 +3140,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-082
+    - t-068
 
 - id: c-181263
   autorius: "Michał Baliński"
@@ -3219,8 +3271,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-003
     - t-010
     - t-019
 
@@ -3356,7 +3406,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-069
-    - t-068
 
 - id: c-181276
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3621,6 +3670,8 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-036
+    - t-018
+    - t-003
 
 - id: c-181289
   autorius: "Zenonas Ivinskis"
@@ -3783,29 +3834,13 @@ media_all_json: |-
   puslapiai: "PDF 108-109"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 108-109."
   citata_originali: |
-    Sekančią žiemą6 išsiuntė savo pasiuntinius pas
-    krikščionių imperatorių, ir pas Danijos karalių, Pama­
-    rio kunigaikščius, Silezijos ir vokiečių kunigaikščius,
-    ir pas savo žentą, Maskvos didįjį kunigaikštį, ir pas
-    Tverės didįjį kunigaikštį, ir pas Riazanės didįjį kuni­
-    gaikštį, ir pas Perekopo chaną, ir pas Moldavijos vai­
-    vadą, ir pas krikščionių valdovus, visus kviesdamas
-    pas save.
-    6 Lietuvos metraštis
-    i ! 3
-
-    Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im­
-    peratorius, buvęs tuo metu Vengrijos ir Čekijos kara­
-    liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir
-    Danijos karalius8, ir Perekopo chanas9, ir Riazanės
-    didysis kunigaikštis l0, ir Maskvos didysis kunigaikš­
-    tis", Vytauto žentas, ir Tverės didysis kunigaikštis
-    Borisas Aleksandrovičius'2, ir Prūsijos bei Livonijos
-    magistras l3, ir Odojevo u, ir Peremišlio l5, ir Novosi-
-    lės 16 kunigaikščiai, ir Moldavijos vaivada 17, ir graikų
-    imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
-    Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
-    čiai ir ponai, ir daug įvairių svečių.
+    Ir išvažinėjo savo keliais.
+    Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
+    vietininkus, nebenorėdami daugiau būti vokiečių val­
+    džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 .
   citata_rodoma: "Ir išvažinėjo savo keliais.\nSekančią vasarą žemaičiai išžudė Prūsijos vokiečių \nvietininkus, nebenorėdami daugiau būti vokiečių val­\ndžioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
@@ -3916,7 +3951,7 @@ media_all_json: |-
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Švitrigaila]]
 - Sudarė sutartį su: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Livonijos ordinas puolė [[objektai/vietos/Šiaulių žemė]], [[objektai/vietos/Šiaurės Žemaitija]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Livonijos ordinas puolė Šiaulių žemė, Šiaurės Žemaitija, [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Livonijos ordinas dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - Livonijos ordinas priklausė [[objektai/grupes/Kryžiuočių ordinas]]
 - Livonijos ordinas rėmė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Švitrigaila]]

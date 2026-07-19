@@ -69,10 +69,12 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187494|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Kęstučio ir Algirdo sąmokslas prieš brolį Jaunutį datuojamas 1345 metais.
 - susijęs iš [[objektai/zodynas/patricijus.md#claim-t-187558|patricijus]]: Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Romos patricijų, tarp jų keturių patricijų giminių atstovai.
 - susijęs iš [[objektai/zodynas/ponai.md#claim-t-186928|ponai]]: Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kojelavičiaus pasakojime Julijono Dausprungo giminės herbas buvo Kentauras, kitados laikytas Lietuvos kunigaikštystės herbu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169209
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pagal kilmę bei karinius nuopelnus
     buvo vardijami vadai: Palemonas, arba Publijus Libo-
@@ -90,36 +92,6 @@ Nenurodyta
     bas buvo Kentauras, o dabar — Stulpai. Iš tiesų ne be
     pagrindo spėjama, kad jie atvykę iš Insubrijos bei Li-
     gurijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169209
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    bei herbai giminingi. Vėliau
-    Berengaras, italams iš visų
-    jėgų suskatus, buvo nuverstas nuo sosto, bet, trokšda­
-    mas priešams tuo pačiu atseikėti, jis, sako, suleidęs į
-    savo paties kraštą hunus, kurie, Ticino miestą sulygi­
-    nę su žeme, nusiaubė nelyginant laukiniai visą žemę,
-    pridarę galybę neregėtų negirdėtų piktadarysčių, nevil-
-    tin nugramzdino ir bėgti pas-
-    924 m e ta i
-    katino tuos, kurie jau anks­
-    čiau, bėdų prispausti, norėję
-    palikti Italiją. Taigi šitie arba kiti (apskritai nieko ne­
-    drįstu tokiu neaišku reikalu tvirtai sakyti), Venedų,
-    arba Baltijos, jūra įplaukę neplačiu sąsiauriu į Kuršių
-    įlanką, palei krantą nusigavo į Nemuno, arba Chrono,
-    žiotis, kur upė, ilgai tekėdama per Rusią, Lietuvą ir
-    Prūsiją, išsilieja sutelkusi vandenis dvylika atšakų.
   citata_rodoma: "Pagal kilmę bei karinius nuopelnus\nbuvo vardijami vadai: Palemonas, arba Publijus Libo-\nnas, herbo Stulpai,\nJulijonas\nDausprungas;,\nkurio\n59\n\n## Puslapis 58\n\ngiminės herbas Kentauras, Prosperas Cezarinas — her­\nbo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba\nRožynas. Štai dėl to kitados Lietuvos kunigaikštystės her­\nbas buvo Kentauras, o dabar — Stulpai. Iš tiesų ne be\npagrindo spėjama, kad jie atvykę iš Insubrijos bei Li-\ngurijos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

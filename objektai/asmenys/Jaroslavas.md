@@ -10,6 +10,10 @@ datos:
   - '1041 m.'
 date_start: '1009'
 date_end: '1041'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,10 +21,6 @@ tags:
   - vyskupas
   - asmuo
   - valdovas
-amziai:
-  - 'XI'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,38 +42,25 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 
 ## Teiginiai
 
-<a id="claim-t-18955"></a>
-- t-001
-  teiginys: "Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Kijevo Rusia: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jaroslavas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kijevo Rusia: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Jaroslavą Kijevo Rusios valdovu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Jaroslavas buvo valdovas Kijevo Rusia (0.94); Jaroslavas surengė žygį į Lietuva (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1009 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškų įvardį, todėl paliktas tik citatos remiamas faktas."
-  pagrindžia:
-    - c-21716
-
 <a id="claim-t-190883"></a>
 - t-002
   teiginys: "Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Divonis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jaroslavas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Divonis: mention_match, person, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jaroslavas\" parinktas kaip owner_note_path. Targetas \"Divonis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-179326
+    - c-173765
 
 <a id="claim-t-190884"></a>
 - t-003
@@ -131,6 +118,23 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 - susijęs iš Naugardukas: 1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje.
 - susijęs iš Naugardukas: 1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką.
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Visos svarbiausios šio veikalo detalės turi
+    geriausių šiaurinių kraštų tyrinėtojų išvadas4. Tik buvo
+    manoma, kad už Divonio vardo slypi kažkoks romėnų
+    astronomas, kuris buvo įpareigotas išmatuoti šiaurinę Eu­
+    ropą; šie Julijaus Cezario pradėti matavimai vyko be pa­
+    liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
+    iki 24 metų prieš Kristaus gimimą. Tiems topografams
+    vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: 'Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -156,6 +160,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 ## Citatos
 
 - id: c-21716
@@ -172,32 +177,31 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   citata_rodoma: "ryje (XII a. pradžioje lietuviai minimi tarp genčių, kurios moka Kijevo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-173765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Visos svarbiausios šio veikalo detalės turi
-    geriausių šiaurinių kraštų tyrinėtojų išvadas4. Tik buvo
-    manoma, kad už Divonio vardo slypi kažkoks romėnų
-    astronomas, kuris buvo įpareigotas išmatuoti šiaurinę Eu­
-    ropą; šie Julijaus Cezario pradėti matavimai vyko be pa­
-    liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
-    iki 24 metų prieš Kristaus gimimą. Tiems topografams
-    vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
+    Tačiau Tidemanas rašo, kad
+    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
+    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
+    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
+    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
+    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
+    mis2.
   citata_rodoma: "Tačiau Tidemanas rašo, kad\njis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės\naprašymas išliko rankraštyje, kuris atiteko Plocko kated­\nros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­\nno rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi\nbūti knyga, parašyta slavų kalba, bet graikiškomis raidė­\nmis2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-173766
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -243,7 +247,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-005
 
 - id: c-184348
@@ -276,5 +279,5 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     - t-006
 
 ## Ryšiai
-- Jaroslavas buvo valdovas [[objektai/vietos/Kijevo Rusia]]
-- Jaroslavas surengė žygį į [[objektai/vietos/Lenkija]]
+- Jaroslavas buvo valdovas Kijevo Rusia
+- Jaroslavas surengė žygį į Lenkija

@@ -82,14 +82,8 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ponas Tadas Vo­
-    lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
-    rašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1
-    lenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —
-    R. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­
-    kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
-    Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
-    kalu.
+    Lotynų kalbą slavai venedai ir lietuviai var-
+    tojo kaip diplomatinę kalbą.
   citata_rodoma: "Lotynų kalbą slavai venedai ir lietuviai var-\ntojo kaip diplomatinę kalbą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -47,16 +47,6 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
   pagrindžia:
     - c-177899
     - c-177900
-
-<a id="claim-t-195479"></a>
-- t-002
-  teiginys: "Ažytėnų ganykla apibūdinama kaip apie pusantro šimto hektarų mišku ir aikštėmis apaugęs plotas, prieinantis Bilazaro mišką."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177900
 - susijęs iš Bilazaro miškas: Bilazaro miškas minimas kaip vieta, prie kurios prieina Ažytėnų ganykla.
 ## Citatos
 
@@ -66,12 +56,7 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
   puslapiai: "p. 56 (PDF 54)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 56 (PDF 54)."
   citata_originali: |
-    Štai atginė dėdė su trimis piemenimis, aš pristojau prie jo ket­
-    virtas ; dar turime rasti du piemeniu, prie jų kiemų bestovinčiu.
-    Iš­
-    ginėme iš kaimo bandą, kuri išmintais dirvose takais tiesiai traukė į ga­
-    nyklą.
-    Ažytėnų ganykla tais laikais buvo vadinama dviem vardais:
+    „Ažytėnų ganykla tais laikais buvo vadinama dviem vardais:“
   citata_rodoma: "„Ažytėnų ganykla tais laikais buvo vadinama dviem vardais:“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
@@ -87,11 +72,7 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
   puslapiai: "p. 57 (PDF 55)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 57 (PDF 55)."
   citata_originali: |
-    Pridotkas ir Radviliškis.
-    Buvo tai pusantro šimto hektarų žemės plo­
-    tas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.
-    Šiandien
-    toje vietoje „kelmai kelmuoti, pakalnės nuplikę“ .
+    „Pridotkas ir Radviliškis.“
   citata_rodoma: "„Pridotkas ir Radviliškis.“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
@@ -100,4 +81,3 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

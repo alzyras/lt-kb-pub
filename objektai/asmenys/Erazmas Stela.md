@@ -62,10 +62,12 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
   pagrindžia:
     - c-177097
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, lietuvių kilmės iš alanų pagrindą siejusį su prūsų kildinimu iš gotų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174029
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Alanai buvo
     skitų blondinų gentis, jie davė pradžią roksolanams; gotai
@@ -79,33 +81,6 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
     bendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­
     siedamas kildintiną iš alanų su į šias šalis atėjusių hunų
     antplūdžiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174029
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Gerai pažinojęs
-    prūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko
-    bendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­
-    siedamas kildintiną iš alanų su į šias šalis atėjusių hunų
-    antplūdžiu. Šiandien kai kas mano, jog lietuviai yra dau­
-    gelio tautų mišinys. Tačiau nė vienas nepaaiškina, kokių
-    tautų būtent. Negalima būtų prieštarauti tokiai tiesai, jog
-    į lietuvių tautos sudėtį nebūtų įsiliejusios kokios nors gre­
-    timos tautos, nes Europoje nėra nė vienos tautos, kuri
-    galėtų pasigirti esanti visiškai gryna, o to priežastis —
-    didžiuliai ir dažni maišymaist ir tautų kraustymasis. Taip
-    pat negalima paneigti ir didelio lietuvių genties išsibars­
-    tymo dar priešistoriniais laikais, nes ir prie Reino, ir ana­
-    pus jo yra ryškių litalanų pėdsakų.
   citata_rodoma: "Alanai buvo\nskitų blondinų gentis, jie davė pradžią roksolanams; gotai\ntaip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima\npastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių\nkilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus\npradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-\njną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,\ngyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs\nprūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko\nbendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­\nsiedamas kildintiną iš alanų su į šias šalis atėjusių hunų\nantplūdžiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

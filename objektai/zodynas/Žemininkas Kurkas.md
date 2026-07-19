@@ -27,46 +27,6 @@ media_all_json: |-
 
 Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų Kurku (Kurko, Kurchus).
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų Kurku (Kurko, Kurchus).'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Žemininkas (Ziemienikas)
-    Kitoniškai Kurkas (Kurko, Kurchus). Hartknochas labai ar­
-    gumentuotai įrodo, kad lietuvių Žemininkas ir prusųKurchus -
-    tai tas pats dievas. Jis buvo žemės dievas, valdė žemės derlių ir
-    tamsą, buvo šviesos dievo antipodas, namų ir apskritai viso
-    krašto globėjas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172032
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Dar
-    jis turėjo aukurą, arba akmeni, esantį tarp Frauenburgo ir Tol-
-    kmito, ant kurio žvejai atnašaudavo jam pirmas sužvejotas žu­
-    vis. Apaštalai, apkrikštydami prūsus, daugiausia vargo, kol įvei­
-    kė prietaringą tikėjimą šia dievybe*.
-    Latviai tą dievą, vadindami Zeemneeks, garbino visiškai ta
-    pačia prasme kaip lietuviai.
-  citata_rodoma: "Žemininkas (Ziemienikas)\nKitoniškai Kurkas (Kurko, Kurchus). Hartknochas labai ar­\ngumentuotai įrodo, kad lietuvių Žemininkas ir prusųKurchus -\ntai tas pats dievas. Jis buvo žemės dievas, valdė žemės derlių ir\ntamsą, buvo šviesos dievo antipodas, namų ir apskritai viso\nkrašto globėjas."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189144"></a>
@@ -88,3 +48,25 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172032
+
+## Citatos
+
+- id: c-172032
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Žemininkas (Ziemienikas)
+    Kitoniškai Kurkas (Kurko, Kurchus). Hartknochas labai ar­
+    gumentuotai įrodo, kad lietuvių Žemininkas ir prusųKurchus -
+    tai tas pats dievas. Jis buvo žemės dievas, valdė žemės derlių ir
+    tamsą, buvo šviesos dievo antipodas, namų ir apskritai viso
+    krašto globėjas.
+  citata_rodoma: "Žemininkas (Ziemienikas)\nKitoniškai Kurkas (Kurko, Kurchus). Hartknochas labai ar­\ngumentuotai įrodo, kad lietuvių Žemininkas ir prusųKurchus -\ntai tas pats dievas. Jis buvo žemės dievas, valdė žemės derlių ir\ntamsą, buvo šviesos dievo antipodas, namų ir apskritai viso\nkrašto globėjas."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

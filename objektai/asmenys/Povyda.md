@@ -60,6 +60,30 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   santrauka: 'Povyda netrukus išvadavo Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho ir jų padėjėjus iš pagudėnų nelaisvės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
+    Dėl
+    to sūduviai vis dažniau įsibraudavo į Kulmo žemę ir, smarkiai nuniokoję dievo tautą,
+    viską šioje žemėje sudeginę bei išgrobstę, pasitraukdavo; pajutę, kad niekas jiems
+    nebesipriešina, jie išdrįsdavo net su maža kariuomene brautis į Kulmo žemę. Galop
+    magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį
+    karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele
+    kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo
+    478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas. Apie
+    daugpatystę kronikininkas galėjo rašyti dėl to, kad stengėsi pagonis pavaizduoti kaip
+    didžiausius nedorėlius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-61049
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
     Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių
     apygardų nusiaubimą ir Klemento pilies sugriovimą
     Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras,
@@ -72,30 +96,6 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
     karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele
     kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo
     478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-
-## Citatos
-
-- id: c-61049
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Dėl
-    to sūduviai vis dažniau įsibraudavo į Kulmo žemę ir, smarkiai nuniokoję dievo tautą,
-    viską šioje žemėje sudeginę bei išgrobstę, pasitraukdavo; pajutę, kad niekas jiems
-    nebesipriešina, jie išdrįsdavo net su maža kariuomene brautis į Kulmo žemę. Galop
-    magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį
-    karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele
-    kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo
-    478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas. Apie
-    daugpatystę kronikininkas galėjo rašyti dėl to, kad stengėsi pagonis pavaizduoti kaip
-    didžiausius nedorėlius.
   citata_rodoma: "Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių \napygardų nusiaubimą ir Klemento pilies sugriovimą\nTuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras, \nkuris, šiaip jau apdairiai tvarkęs, ūkio reikalus, kur kas mažiau tiko karui (matyt, mažiau \nbuvo tam linkęs), todėl jis ir negebėjo duoti deramo atkirčio priešo išpuoliams. Dėl \nto sūduviai vis dažniau įsibraudavo į Kulmo žemę ir, smarkiai nuniokoję dievo tautą, \nviską šioje žemėje sudeginę bei išgrobstę, pasitraukdavo; pajutę, kad niekas jiems \nnebesipriešina, jie išdrįsdavo net su maža kariuomene brautis į Kulmo žemę. Galop \nmagistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį \nkarvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele \nkariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo \n478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

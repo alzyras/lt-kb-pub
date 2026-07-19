@@ -30,14 +30,14 @@ aliases:
   - 'objektai/vietos/Zemaitija'
 variantai:
   - 'Žemaitija'
+amziai:
+  - 'IX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kraštas
-amziai:
-  - 'IX'
-  - 'XXI'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg'
@@ -702,7 +702,7 @@ media_all_json: |-
 <a id="claim-t-123039"></a>
 - t-058
   teiginys: "Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai."
-  atnaujinta: "2026-07-19 17:45"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Žemaitija: 0.67"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -716,7 +716,6 @@ media_all_json: |-
   pagrindžia:
     - c-112507
     - c-112518
-    - c-112522
 
 <a id="claim-t-123041"></a>
 - t-054
@@ -1121,7 +1120,7 @@ media_all_json: |-
 <a id="claim-t-185227"></a>
 - t-080
   teiginys: "Vytauto pakviesti pasiuntiniai negaišdami atvyko į Žemaitiją ir spalio mėnesį sutvarkė vyskupystės steigimo reikalus."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1135,7 +1134,6 @@ media_all_json: |-
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168579
     - c-168588
 
 <a id="claim-t-187694"></a>
@@ -1330,24 +1328,24 @@ media_all_json: |-
 <a id="claim-t-188889"></a>
 - t-005
   teiginys: "Narbutas remiasi Lasickiu, kad Žemaitijoje ežeras Orthus buvo laikomas dievu."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   temporaliniai_duomenys: "įvykio data: 1397 m.; įvykio data: 1398 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalinta OCR klaida ir išlaikyta Lasickio tarpinė atribucija. Religinis teiginys neformuluojamas kaip neutralus faktas."
   pagrindžia:
-    - c-171770
+    - c-171778
 
 <a id="claim-t-188890"></a>
 - t-013
@@ -1391,7 +1389,7 @@ media_all_json: |-
 <a id="claim-t-190665"></a>
 - t-025
   teiginys: "Narbutas spėja, kad šis paprotys buvo paplitęs tik Žemaitijoje, nes tik čia buvusi žinoma Ilgių šventė."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1405,7 +1403,7 @@ media_all_json: |-
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-177157
+    - c-173548
 
 <a id="claim-t-190666"></a>
 - t-027
@@ -1429,17 +1427,25 @@ media_all_json: |-
 <a id="claim-t-192791"></a>
 - t-082
   teiginys: "1583 m. jėzuitai, apaštalaudami Žemaitijoje, aptiko didelių akmenų garbinimo pėdsakų."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Humboltas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Humboltas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Humboltas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   temporaliniai_duomenys: "įvykio data: 1583 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Ištaisyta OCR skaidyba ir paliktas aiškus veiksnys, vieta bei rezultatas. Religinis garbinimo kontekstas perteiktas tik tiek, kiek jis yra citatoje."
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
+    - c-175561
     - c-179410
 
 <a id="claim-t-192792"></a>
@@ -1497,7 +1503,7 @@ media_all_json: |-
 <a id="claim-t-196764"></a>
 - t-088
   teiginys: "Kojelavičiaus pasakojime iš Vokietijos sutraukta kariuomenė buvo skirta Prūsijos ir Žemaitijos žemdirbiams išžudyti."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1505,7 +1511,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
-    - c-168580
+    - c-168579
 
 <a id="claim-t-196765"></a>
 - t-089
@@ -1643,6 +1649,324 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184627|maršalas]]: Kernavėje rūmų maršalas įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.
 ## Reikšmingi paminėjimai
+- c-022
+  santrauka: 'Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
+    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
+    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
+    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
+    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
+    Kronika teikia medžiagos kovai su socialistinėms šalims priešiška revanšistine
+    ideologija, kuri dabartinėje epochoje tęsia viduramžių vokiečių feodalų agresijos
+    prieš Rytų Europos tautas tradicijas.
+    Dėl unikalių žinių apie vakarų baltų ir lietuvių politinę, socialinę, ūkio ir kultūros
+    istoriją gausumo Petro iš Dusburgo kronika yra nepakeičiamai svarbi baltistikos,
+    lituanistikos mokslui.
+    Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
+    Torunės, Karaliaučiaus, Berlyno ir kt. nuorašus parengė ir 1861 m. „Scriptores
+    rerum Prussicarum“ serijoje paskelbė M. Tepenas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-025
+  santrauka: 'Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    P. Pakarklis plėtojo
+    mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą
+    buv. Rytprūsių ir Lietuvos gyventojai buvę vienos ir tos pačios kalbos, vienu ir tuo pačiu
+    vardu vadinami savo kaimynų, išpažinę vieną ir tą pačią tikybą (dvasinės kultūros
+    bendrumo požymis), sudarę vieną ir tą patį politinį vienetą5.
+    Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
+    J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
+    lietuvių lingvistai, ypač tarybiniu laikotarpiu6.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-031
+  santrauka: 'Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tai
+    jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
+    pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
+    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
+    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
+    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87). Prūsijoje karų
+    dalyviams dievas netgi atleidžiąs bausmes, už kurias šiaip gresiąs amžinas pasmerkimas
+    (III, 54). Tai jau kryžiuočių kovinės dvasios ugdymas.
+    Vizijomis apie brolių žaizdas ir randus, kuriuos rodanti abejojantiems pati švenčiausioji
+    mergelė, teigiama, jog Vokiečių ordinas esąs pats geriausias, labiausiai nusipelnęs tarp
+    kitų panašių brolijų (III, 12).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-042
+  santrauka: 'Tuo žygiu Mindaugas atgavo Žemaitiją ir Kuršą, nusiaubė Sembą ir vėliau vėl sukėlė karą Prūsijoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą. Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
+    čionybės ir sutartu laiku, prieš pat šv. Motiejaus die­
+    ną, visame krašte išgriovė bažnyčias, o kunigus, ku-
+    nių valdovai nutarė sutelkti visas savo jėgas ir atremti
+    laukinių siautėjimą. Į pagalbą buvo sutraukta galybė
+    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
+    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
+    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
+    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
+    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
+    P rūsai
+    išsiža d a
+    k r i­
+    k ščio n ių
+    tik ė jim o ir
+    a tsim e ta
+    n u o
+    k r y ­
+    žiu o čių
+    riuos beįmanė pagauti, žiau­
+    riai nukankino; jie nepaliko
+    neišniekinę nė vienos krikš­
+    čionių
+    šventenybės,
+    kurią
+    tik valiojo pasiekti jų stai­
+    gus įsiūtis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-087
+
+- c-044
+  santrauka: 'Vaikių ir Pagraudės valsčiai Žemaitijoje buvo nusiaubti žudynėmis ir apiplėšti, todėl daugelį metų beveik neturėjo gyventojų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Užėmė ir visai sugriovė Romovę, lietuvių šven­
+    tąją vietą ir jų Krivės Krivaičio buveinę, Vaikių ir
+    Pagraudės valsčius Žemaitijoje nusiaubė žudynėmis ir
+    apiplėšė, daugel metų čia beveik nebuvo gyventojų.
+    Tada pakliuvo į vargą lietuvių padermės, įsikūrusios
+    m
+
+    tarp Narevo ir Nemuno, prislėgtos sunkios priespaudos
+    ir nuolatinio karo; kamuojamos šešerius metus užtru­
+    kusių grumtynių, jos turėjo duoti kryžiuočiams duoklę,
+    o savo gentainių raginamos sueiti į karinę sandrau­
+    gą, nedrįso nei ginklu pulti priešo, nei praleisti lietu­
+    vių, žygiuojančių į priešų šalį. Štai todėl stebėdama­
+    sis galvoju, kas tuo metu rūpėjo Vyteniui, nes atrodė,
+    jog jis (tarytum nė nejausdamas šitokios žaizdos) vi­
+    sai užmiršo šį valstybės pakraštį ir juo visai nesirūpi­
+    no, savo įstangą kreipdamas kur kitur. Mat bemaž tuo
+    pačiu metu Vytenis lyg niekur nieko, tarytum tėvynė
+    būtų visiškai saugi nuo prie-
+    V y te n is
+    įsiv e ržia
+    į
+    šo, Mazovijos pasieniais įsi-
+    L en k iją ir u žim a Len-
+    veržė, sutelkęs žygiui tūks-
+    čicą
+    tantį aštuonis šimtus raitelių,
+    į Lenčicos kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-045
+  santrauka: 'Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vėliau, ir tais pačiais,
+    ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
+    je Karšuvos žemę, kad gyventojai, nematydami iš­
+    eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
+    sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
+    buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
+    Pūtvės pilį išdavė jos seniūnas Spūdas. Šis žymios kil­
+    mės lietuvis, trokšdamas priimti krikščionių tikėjimą,
+    pats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­
+    myna. Kryžiuočiams puldinėjant gretimus Žemaitijos
+    kaimus, lietuviai su savo nuolatiniu, galima sakyti,
+    naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų
+    tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-089
+
+- c-049
+  santrauka: 'Vytauto pakviesti pasiuntiniai negaišdami atvyko į Žemaitiją ir spalio mėnesį sutvarkė vyskupystės steigimo reikalus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karalius, padrąsintas Vytauto tylėjimo, nu­
+    mojo ranka į visokius nemalonumus, kurių ši santuoka
+    galėjo pridaryti valdovo rūmams. Kai Edigejus siaubė
+    Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su
+    Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir
+    Leopoldas, Austrijos erchercogas. Aptemdė vestuvių
+    džiaugsmą visuotinis žmonių nepritarimas, o Rusioje —
+    baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan­
+    gus, nes niekas neabejojo, kad ir dangus smerkė tai,
+    ką atmetė lyg susitarę žmonės. Mat visuotinę žmonių
+    nuomonę paprastai remia slaptas aukščiausiojo spren­
+    dimas.
+    Numalšinęs siautėjančius Rusioje skitus, Vytautas
+    pasikvietė pasiuntinius, dalyvavusius bažnytiniame su­
+    važiavime, norėdamas neatidėliojant padaryti, ką su­
+    važiavimas buvo nutaręs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-050
+  santrauka: 'Leidėjų pastaboje Bychovco kronika vertinama kaip menkas Žemaitijos ir karų su kryžiuočiais istorijos šaltinis.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Tuo Bychovco
+    kronika ir skiriasi nuo Mykolo Lietuvio traktato „Apie
+    totorių, lietuvių ir maskvėnų papročius" (V., 1966).
+    Jo autorius taip pat nesibiaurėjo savo valstybės isto­
+    rija. bet teikiamais jos pavyzdžiais siekė kovoti su sa­
+    vo gyvenamojo laikotarpio visuomenės ir santvarkos
+    ydomis.
+    Iškeldamas visų pirma valdovus, valstybės veikėjus,
+    teigiamai nušviesdamas jų darbus, Bychovco kronikos
+    autorius reiškė savo valstybės feodalų klasės požiūrį
+    'ir ideologiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-051
+  santrauka: 'Narbutas rašo, kad kai kur Žemaitijoje Perkūnaitėlės maldos buvo kreipiamos į Mergelę Mariją, vadintą Panna Marya Perkunatele arba Perkūnija.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pagaliau reikia manyti, kad Perkūnaitėlės vardas visiškai
+    atitinka antikinių laikų Fulgurą; šiuo vardu romėnai garbino
+    Junoną, žaibų motiną, tardami ją esant saugotoja nuo perkū­
+    nijos.
+    Pilvytį' (Pilwite)
+    Pinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna.
+    Kad šis mitas buvo žinomas, įrodo pateikiama dainelė, ku­
+    rią dar tebemoka vietos valstiečiai:
+    Weju, weju tau, Pilwite!
+    Ir per tauku, ir per mariu;
+    Ni aldeju nietureju,
+    Ni sparnas man niepadariu,
+    Tik tej sztowe priraszite.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-054
+  santrauka: 'Narbutas rašo, kad 1583 m. Žemaitijoje apaštalavę jėzuitai aptiko didelių akmenų garbinimo pėdsakų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Vienos pu­
+    sės paviršius plokščias kaip lenta, apibertas iškilumais arba ka­
+    muolio ir ovalo formos rutuliukais, daugiau ar mažiau iški­
+    liais, netaisyklingai išsidėsčiusiais vienas kito atžvilgiu ir įvai­
+    raus dydžio; jų skaičius viršija penkias dešimtis. Antrosios pu­
+    sės paviršius šiurkštus, nelygus, bet be tokių rutuliukų. Ak­
+    mens viršūnė atrodo tarytum kokia galvutė, veikiau taisyklin­
+    gas obuolys, pasodintas tarp dviejų mažesnių. Šoninės plokš­
+    tumos taisyklingai apibrėžtos, jose nedaug rutuliuko formos
+    iškilumų. Žemai yra trys dideli rutuliukai, tarytum kojelės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-055
+  santrauka: 'Narbutas pasakoja, kad Glapimino sūnus Sutinkąs ir vaikaitis Dormunimundas valdė Žemaitijoje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) - 1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas - Fortelnik) - 1297 metais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-059
+  santrauka: 'Narbutas remiasi Lasickiu, kad Žemaitijoje ežeras Orthus buvo laikomas dievu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nora, Rusijos Kalugos gubernijos upė įteka į Oką. Pietų Ame­
+    rikoje, Naujojoje Grenadoje, Nare įteka į šv. Magdalenos upę
+    Hondoje. Mažoji ir Didžioji Naretvos (Naretwa) - Bosnijoje te­
+    kančios upės, kurios susiliejusios sudaro Dalmatijos upę Naren-
+    tą, arba Naroną, įtekančią į Adrijos jūrą ties Šventuoju Opusu
+    (Opus).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-061
+  santrauka: 'Narbutas perteikia Jucevičiaus pastabą, kad Žemaitijoje prie merdinčio žmogaus garsiai kartota frazė „Gegeile, begaite!“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Ant laidotuvių laužo su miru­
+    siojo kūnu būdavo kraunama viskas, kas velionio gyvenime
+    buvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­
+    žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
+    įvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,
+    taip pat užmušdavo jų mylimiausius tarnus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-062
+  santrauka: 'Narbutas spėja, kad šis paprotys buvo paplitęs tik Žemaitijoje, nes tik čia buvusi žinoma Ilgių šventė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Mat tikėjo, kad ateisianti teismo
+    diena, ir įsivaizdavo, kad ateisiąs dievas, kurs, ant aukšto kalno
+    sėdėdamas, teisiąs gyvuosius bei mirusiuosius. O į tą kalną be tų
+    lūšies ar lokio nagų būsią sunku įkopti. Ir dėl to prie jų dėdavo
+    tuos nagus, su kuriais jie turėsią įkopti į tą kalną ir stoti Dievo
+    teisman. Nors jie buvo pagonys, bet visuomet taip įsivaizduoda­
+    vo ir tikėjo vieną dievą, kad būsianti paskutiniojo teismo diena,
+    ir tikėjo mirusiųjų prisikėlimą ir vieną dievą, ateisiantį gyvųjų ir
+    mirusiųjų teisti) *.
+    Jie manė, kad tuoj pat po laidotuvių ir žmogaus palaikų
+    pagerbimo jo vėlė kaip šešėlis, turintis tokią pat išvaizdą ir
+    aprengtas drabužiais, su kuriais ir buvo palaidotas, praeina
+    pro krivio arba paties Krivių Krivaičio namus, apsireikšdama
+    jam - palikdama kartais kai ką iš daiktų, su kuriais velionis
+    buvo palaidotas, arba ženklą, runą, hieroglifą ar įkirtimą gin­
+    klu į vartus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-064
   santrauka: 'Narbutas teigia turėjęs Žemaitijoje nuo akmens perpieštą užrašą, kuriame atpažino kelias biarmiškas raides.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1673,6 +1997,58 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+- c-065
+  santrauka: '1583 m. jėzuitai, apaštalaudami Žemaitijoje, aptiko didelių akmenų garbinimo pėdsakų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Šie kunigai vienoje greta Vilniaus esančio kaimo
+    mokykloje, mokydami vaikus katekizmo, ant vieno mokinio kaklo
+    pastebėjo kabantį maišelį. Vaikas, paklaustas, kas ten yra, at­
+    sakė: „Mano dievas, kurį man davė motina“. Atrišus maišelį, jie
+    išvydo dvi žalčio galvas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-069
+  santrauka: 'Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai ir hendai, tai yra Raseinių bei Upytės apskrityse.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Gondu
+    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
+    ant stalo neliestą, o tikrąjį karvojų suvalgo.
+    Kaip tik tai ir bus ta pati deivė, kurią garbino jaunos ro­
+    mėnės, vadindamos Manturna.
+    Upinė (Uppinė )
+    Upių, šaltinių, apskritai tekančio vandens deivė. Upė -Rze-
+    ka, Upinė - Rzeczna. Istorija teigia, kad tai dievybei kaip auka
+    buvo atnašaujami balti paršeliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-070
+  santrauka: 'Nepai sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni gų stygių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tie sampilai priklauso toli­
+    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
+    tose. Tačiau kraštui neturint savo istorijos ir žuvus daugeliui
+    rašto šaltinių, į užmarštį nugrimzdo atminimas apie daugelio
+    žymių žmonių kapus. Tokių kapų pasitaiko aukštose vietose
+    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
+    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
+    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
+    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
+    nių kapų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-37880
@@ -2194,20 +2570,17 @@ media_all_json: |-
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
+    Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
+    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
+    feodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,
+    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
+    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
+    kovą prieš agresiją.
+      Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
     sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
-    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
-    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
+    viduramžiais  į Rytus, atskleidžia tos agresijos esmę  ir jos vykdytojų katalikišką
+    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių
     feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
-    Kronika teikia medžiagos kovai su socialistinėms šalims priešiška revanšistine
-    ideologija, kuri dabartinėje epochoje tęsia viduramžių vokiečių feodalų agresijos
-    prieš Rytų Europos tautas tradicijas.
-    Dėl unikalių žinių apie vakarų baltų ir lietuvių politinę, socialinę, ūkio ir kultūros
-    istoriją gausumo Petro iš Dusburgo kronika yra nepakeičiamai svarbi baltistikos,
-    lituanistikos mokslui.
-    Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
-    Torunės, Karaliaučiaus, Berlyno ir kt. nuorašus parengė ir 1861 m. „Scriptores
-    rerum Prussicarum“ serijoje paskelbė M. Tepenas.
   citata_rodoma: "Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui\nir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių\nfeodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,\nniokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,\nNevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės\nkovą prieš agresiją.\n  Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių\nsluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi\nviduramžiais  į Rytus, atskleidžia tos agresijos esmę  ir jos vykdytojų katalikišką\nfanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių\nfeodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -2268,14 +2641,13 @@ media_all_json: |-
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    P. Pakarklis plėtojo
-    mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą
-    buv. Rytprūsių ir Lietuvos gyventojai buvę vienos ir tos pačios kalbos, vienu ir tuo pačiu
-    vardu vadinami savo kaimynų, išpažinę vieną ir tą pačią tikybą (dvasinės kultūros
-    bendrumo požymis), sudarę vieną ir tą patį politinį vienetą5.
-    Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
-    J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
-    lietuvių lingvistai, ypač tarybiniu laikotarpiu6.
+    Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
+    pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
+    kaip prūsų gyvenamą3.
+      Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei
+    ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva
+    bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
+    vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4.
   citata_rodoma: "Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,\npietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina\nkaip prūsų gyvenamą3.\n  Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei\nankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva\nbei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;\nvakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -2410,26 +2782,20 @@ media_all_json: |-
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tai
+    Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
+    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
+    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
+    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
+    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333). Tai
     jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
     pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
-    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
-    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
-    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87). Prūsijoje karų
-    dalyviams dievas netgi atleidžiąs bausmes, už kurias šiaip gresiąs amžinas pasmerkimas
-    (III, 54). Tai jau kryžiuočių kovinės dvasios ugdymas.
-    Vizijomis apie brolių žaizdas ir randus, kuriuos rodanti abejojantiems pati švenčiausioji
-    mergelė, teigiama, jog Vokiečių ordinas esąs pats geriausias, labiausiai nusipelnęs tarp
-    kitų panašių brolijų (III, 12).
   citata_rodoma: "Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,\nvidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos\nglobojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės\nglobojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje\nplėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333). Tai\njau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo\npagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-058
-
 - id: c-112523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2631,6 +2997,34 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-071
+    - t-088
+
+- id: c-168580
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Ka­
     dangi miestą gynė rinktinių karių įgula, apsuptis
     buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
@@ -2644,50 +3038,6 @@ media_all_json: |-
     lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
-  citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-071
-    - t-080
-
-- id: c-168580
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Šitaip kryžiuo­
-    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
-    kerštą. Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
-    čionybės ir sutartu laiku, prieš pat šv. Motiejaus die­
-    ną, visame krašte išgriovė bažnyčias, o kunigus, ku-
-    nių valdovai nutarė sutelkti visas savo jėgas ir atremti
-    laukinių siautėjimą. Į pagalbą buvo sutraukta galybė
-    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
-    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
-    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
-    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
-    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
-    P rūsai
-    išsiža d a
-    k r i­
-    k ščio n ių
-    tik ė jim o ir
-    a tsim e ta
-    n u o
-    k r y ­
-    žiu o čių
-    riuos beįmanė pagauti, žiau­
-    riai nukankino; jie nepaliko
-    neišniekinę nė vienos krikš­
-    čionių
-    šventenybės,
-    kurią
-    tik valiojo pasiekti jų stai­
-    gus įsiūtis.
   citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2696,7 +3046,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-072
-    - t-088
 
 - id: c-168582
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2735,34 +3084,24 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Užėmė ir visai sugriovė Romovę, lietuvių šven­
+    Iš Piešt-
+    vės apygardos išvarė visus gyvulius, išžudė čia dau­
+    gybę žmonių, į vergiją išsivedė tik septyniasdešimt
+    galvų. Užėmė ir visai sugriovė Romovę, lietuvių šven­
     tąją vietą ir jų Krivės Krivaičio buveinę, Vaikių ir
     Pagraudės valsčius Žemaitijoje nusiaubė žudynėmis ir
     apiplėšė, daugel metų čia beveik nebuvo gyventojų.
     Tada pakliuvo į vargą lietuvių padermės, įsikūrusios
     m
 
+    ## Puslapis 169
+
     tarp Narevo ir Nemuno, prislėgtos sunkios priespaudos
     ir nuolatinio karo; kamuojamos šešerius metus užtru­
     kusių grumtynių, jos turėjo duoti kryžiuočiams duoklę,
     o savo gentainių raginamos sueiti į karinę sandrau­
     gą, nedrįso nei ginklu pulti priešo, nei praleisti lietu­
-    vių, žygiuojančių į priešų šalį. Štai todėl stebėdama­
-    sis galvoju, kas tuo metu rūpėjo Vyteniui, nes atrodė,
-    jog jis (tarytum nė nejausdamas šitokios žaizdos) vi­
-    sai užmiršo šį valstybės pakraštį ir juo visai nesirūpi­
-    no, savo įstangą kreipdamas kur kitur. Mat bemaž tuo
-    pačiu metu Vytenis lyg niekur nieko, tarytum tėvynė
-    būtų visiškai saugi nuo prie-
-    V y te n is
-    įsiv e ržia
-    į
-    šo, Mazovijos pasieniais įsi-
-    L en k iją ir u žim a Len-
-    veržė, sutelkęs žygiui tūks-
-    čicą
-    tantį aštuonis šimtus raitelių,
-    į Lenčicos kraštą.
+    vių, žygiuojančių į priešų šalį.
   citata_rodoma: "Iš Piešt-\nvės apygardos išvarė visus gyvulius, išžudė čia dau­\ngybę žmonių, į vergiją išsivedė tik septyniasdešimt\ngalvų. Užėmė ir visai sugriovė Romovę, lietuvių šven­\ntąją vietą ir jų Krivės Krivaičio buveinę, Vaikių ir\nPagraudės valsčius Žemaitijoje nusiaubė žudynėmis ir\napiplėšė, daugel metų čia beveik nebuvo gyventojų.\nTada pakliuvo į vargą lietuvių padermės, įsikūrusios\nm\n\n## Puslapis 169\n\ntarp Narevo ir Nemuno, prislėgtos sunkios priespaudos\nir nuolatinio karo; kamuojamos šešerius metus užtru­\nkusių grumtynių, jos turėjo duoti kryžiuočiams duoklę,\no savo gentainių raginamos sueiti į karinę sandrau­\ngą, nedrįso nei ginklu pulti priešo, nei praleisti lietu­\nvių, žygiuojančių į priešų šalį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -2777,19 +3116,14 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vėliau, ir tais pačiais,
+    Sutelktu būriu užgriuvę iš pasalų nieko nenu-
+    jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
     ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
     je Karšuvos žemę, kad gyventojai, nematydami iš­
     eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
     sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
     buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
-    Pūtvės pilį išdavė jos seniūnas Spūdas. Šis žymios kil­
-    mės lietuvis, trokšdamas priimti krikščionių tikėjimą,
-    pats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­
-    myna. Kryžiuočiams puldinėjant gretimus Žemaitijos
-    kaimus, lietuviai su savo nuolatiniu, galima sakyti,
-    naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų
-    tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
+    Pūtvės pilį išdavė jos seniūnas Spūdas.
   citata_rodoma: "Sutelktu būriu užgriuvę iš pasalų nieko nenu-\njaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,\nir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­\nje Karšuvos žemę, kad gyventojai, nematydami iš­\neities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­\nsios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys\nbuvo priešo ir liepsnų sunaikintos, o truputį anksčiau\nPūtvės pilį išdavė jos seniūnas Spūdas."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2892,22 +3226,36 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Karalius, padrąsintas Vytauto tylėjimo, nu­
-    mojo ranka į visokius nemalonumus, kurių ši santuoka
-    galėjo pridaryti valdovo rūmams. Kai Edigejus siaubė
-    Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su
-    Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir
-    Leopoldas, Austrijos erchercogas. Aptemdė vestuvių
-    džiaugsmą visuotinis žmonių nepritarimas, o Rusioje —
-    baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan­
-    gus, nes niekas neabejojo, kad ir dangus smerkė tai,
-    ką atmetė lyg susitarę žmonės. Mat visuotinę žmonių
-    nuomonę paprastai remia slaptas aukščiausiojo spren­
-    dimas.
-    Numalšinęs siautėjančius Rusioje skitus, Vytautas
-    pasikvietė pasiuntinius, dalyvavusius bažnytiniame su­
-    važiavime, norėdamas neatidėliojant padaryti, ką su­
-    važiavimas buvo nutaręs.
+    Be
+    galo ryžtingas žmogus, jis
+    nieko nedarė iš lėto, nepa­
+    kęsdamas ir kitų delsimo;
+    tiesą
+    sakant,
+    negi
+    galima
+    nesmerkti atidėliojimo, jei­
+    gu rūpinamasi dievo gar­
+    binimo bei žmonių išganymo reikalais. Vytauto pa­
+    kviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­
+    kyrę naujuoju ganytoju Motiejų, lietuvį, teologijos
+    mokslų magistrą, neseniai tapusį Vilniaus kanauninkų
+    kolegijos vyresniuoju, spalio mėnesį deramai sutvarkė
+    pagal šventųjų įstatymų reikalavimus viską, ką ir turėjo
+    i417 metai
+    K o n sta n co s
+    s u v a žia ­
+    v im o  pasiuntiniai g a ­
+    lutinai
+    įsteigia
+    Ž e ­
+    m aičių v y s k u p y s tę
+    305
+
+    ## Puslapis 394
+
+    sutvarkyti kunigaikštystėje pagal bažnytinio suvažia­
+    vimo nutarimą.
   citata_rodoma: "Be\ngalo ryžtingas žmogus, jis\nnieko nedarė iš lėto, nepa­\nkęsdamas ir kitų delsimo;\ntiesą\nsakant,\nnegi\ngalima\nnesmerkti atidėliojimo, jei­\ngu rūpinamasi dievo gar­\nbinimo bei žmonių išganymo reikalais. Vytauto pa­\nkviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­\nkyrę naujuoju ganytoju Motiejų, lietuvį, teologijos\nmokslų magistrą, neseniai tapusį Vilniaus kanauninkų\nkolegijos vyresniuoju, spalio mėnesį deramai sutvarkė\npagal šventųjų įstatymų reikalavimus viską, ką ir turėjo\ni417 metai\nK o n sta n co s\ns u v a žia ­\nv im o  pasiuntiniai g a ­\nlutinai\nįsteigia\nŽ e ­\nm aičių v y s k u p y s tę\n305\n\n## Puslapis 394\n\nsutvarkyti kunigaikštystėje pagal bažnytinio suvažia­\nvimo nutarimą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -2922,17 +3270,13 @@ media_all_json: |-
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Tuo Bychovco
-    kronika ir skiriasi nuo Mykolo Lietuvio traktato „Apie
-    totorių, lietuvių ir maskvėnų papročius" (V., 1966).
-    Jo autorius taip pat nesibiaurėjo savo valstybės isto­
-    rija. bet teikiamais jos pavyzdžiais siekė kovoti su sa­
-    vo gyvenamojo laikotarpio visuomenės ir santvarkos
-    ydomis.
-    Iškeldamas visų pirma valdovus, valstybės veikėjus,
-    teigiamai nušviesdamas jų darbus, Bychovco kronikos
-    autorius reiškė savo valstybės feodalų klasės požiūrį
-    'ir ideologiją.
+    Tačiau iš viso Žemaitijos ir karų su kry­
+    žiuočiais istorijai pažinti Bychovco kronika yra men­
+    kas informatorius. Po 1441 m. Žemaitijos istorija visai
+    nedomina Bychovco kronikos autoriaus. Tai rodo, kad
+    su Žemaitija jis betarpiškai nebuvo susijęs, bet, iš ki­
+    tos pusės, Žemaitija tuo metu nebuvo ir kokių nors
+    svarbių ¡vykių, pvz., karų arena.
   citata_rodoma: "Tačiau iš viso Žemaitijos ir karų su kry­\nžiuočiais istorijai pažinti Bychovco kronika yra men­\nkas informatorius. Po 1441 m. Žemaitijos istorija visai \nnedomina Bychovco kronikos autoriaus. Tai rodo, kad \nsu Žemaitija jis betarpiškai nebuvo susijęs, bet, iš ki­\ntos pusės, Žemaitija tuo metu nebuvo ir kokių nors \nsvarbių ¡vykių, pvz., karų arena."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2947,19 +3291,13 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pagaliau reikia manyti, kad Perkūnaitėlės vardas visiškai
-    atitinka antikinių laikų Fulgurą; šiuo vardu romėnai garbino
-    Junoną, žaibų motiną, tardami ją esant saugotoja nuo perkū­
-    nijos.
-    Pilvytį' (Pilwite)
-    Pinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna.
-    Kad šis mitas buvo žinomas, įrodo pateikiama dainelė, ku­
-    rią dar tebemoka vietos valstiečiai:
-    Weju, weju tau, Pilwite!
-    Ir per tauku, ir per mariu;
-    Ni aldeju nietureju,
-    Ni sparnas man niepadariu,
-    Tik tej sztowe priraszite.
+    Žemdirbiai garbino šią deivę kaip oro per­
+    mainų valdovę; ypač valstietės maldaudavo jos, kad apgintų
+    pas Perkūną laukus nuo krušos, liūčių, griausmų. Žemaitijoje,
+    kai kuriose vietose, iki šiol tebesimeldžia Perkūnaitėlei, tik savo
+    maldas kreipia į švenčiausiąją mergelę Mariją, kurią jie vadi­
+    na Panna Marya Perkunatele arba Perkūnija. Net būta papro­
+    čio vadinti švente Maloningosios Dievo motinos švente.
   citata_rodoma: "Žemdirbiai garbino šią deivę kaip oro per­\nmainų valdovę; ypač valstietės maldaudavo jos, kad apgintų\npas Perkūną laukus nuo krušos, liūčių, griausmų. Žemaitijoje,\nkai kuriose vietose, iki šiol tebesimeldžia Perkūnaitėlei, tik savo\nmaldas kreipia į švenčiausiąją mergelę Mariją, kurią jie vadi­\nna Panna Marya Perkunatele arba Perkūnija. Net būta papro­\nčio vadinti švente Maloningosios Dievo motinos švente."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2988,7 +3326,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-069
-    - t-005
 
 - id: c-171772
   autorius: "Teodoras Narbutas"
@@ -3017,16 +3354,15 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vienos pu­
-    sės paviršius plokščias kaip lenta, apibertas iškilumais arba ka­
-    muolio ir ovalo formos rutuliukais, daugiau ar mažiau iški­
-    liais, netaisyklingai išsidėsčiusiais vienas kito atžvilgiu ir įvai­
-    raus dydžio; jų skaičius viršija penkias dešimtis. Antrosios pu­
-    sės paviršius šiurkštus, nelygus, bet be tokių rutuliukų. Ak­
-    mens viršūnė atrodo tarytum kokia galvutė, veikiau taisyklin­
-    gas obuolys, pasodintas tarp dviejų mažesnių. Šoninės plokš­
-    tumos taisyklingai apibrėžtos, jose nedaug rutuliuko formos
-    iškilumų. Žemai yra trys dideli rutuliukai, tarytum kojelės.
+    Amerikos indėnai išsaugojo at­
+    mintį apie akmenų garbinimą, nes jie, kaip sako vienas keliau­
+    ninkas, savo lopšiu yra artimesni žmonių padermei, tuo labiau -
+    daugiau prisirišę prie žemės ir prie būtybių, esančių jos įsčiose.
+    Net pasikeitus apšvietai ir religijai, indėnai akmenis laikė talis­
+    manais'T 1583 metais jėzuitai, apaštalaudami Žemaitijoje, ap­
+    tiko tam tikrų didelių akmenų garbinimo pėdsakus13 14. Yra pada­
+    vimų ir pasakojimų apie panašius akmenis, garbinamus ir pas
+    mus.
   citata_rodoma: "Amerikos indėnai išsaugojo at­\nmintį apie akmenų garbinimą, nes jie, kaip sako vienas keliau­\nninkas, savo lopšiu yra artimesni žmonių padermei, tuo labiau -\ndaugiau prisirišę prie žemės ir prie būtybių, esančių jos įsčiose.\nNet pasikeitus apšvietai ir religijai, indėnai akmenis laikė talis­\nmanais'T 1583 metais jėzuitai, apaštalaudami Žemaitijoje, ap­\ntiko tam tikrų didelių akmenų garbinimo pėdsakus13 14. Yra pada­\nvimų ir pasakojimų apie panašius akmenis, garbinamus ir pas\nmus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -3041,13 +3377,10 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš jos sūnūs: Manvydas
-    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
-    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
-    mirė tuoj po jo gimimo) - 1277 metais. Antroji žmona buvo
-    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
-    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
-    stut, tai reiškia: Klastūnas - Fortelnik) - 1297 metais.
+    Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
+    tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
+    vaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
   citata_rodoma: "Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­\ntis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o\nvaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­\ntauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -3121,19 +3454,19 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Nora, Rusijos Kalugos gubernijos upė įteka į Oką. Pietų Ame­
-    rikoje, Naujojoje Grenadoje, Nare įteka į šv. Magdalenos upę
-    Hondoje. Mažoji ir Didžioji Naretvos (Naretwa) - Bosnijoje te­
-    kančios upės, kurios susiliejusios sudaro Dalmatijos upę Naren-
-    tą, arba Naroną, įtekančią į Adrijos jūrą ties Šventuoju Opusu
-    (Opus).
+    Šventų ežerų yra taip pat Nemuno kairiajame krante,
+    kur ir miestelis [Šventežeris] turi tokį vardą.
+    3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­
+    komas dievu.
   citata_rodoma: "Šventų ežerų yra taip pat Nemuno kairiajame krante,\nkur ir miestelis [Šventežeris] turi tokį vardą.\n3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­\nkomas dievu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-171779
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3161,12 +3494,10 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ant laidotuvių laužo su miru­
-    siojo kūnu būdavo kraunama viskas, kas velionio gyvenime
-    buvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­
-    žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
-    įvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,
-    taip pat užmušdavo jų mylimiausius tarnus.
+    Jucevičius pataiso Strijkovskį: „ Gegei-
+    le, begaite!“, vietoje „ Ginkiet, Biekiet, Pikole!“, ir priduria, kad
+    šiandien (Žemaitijoje?), kai tik žmogus ima merdėti, visi ten su­
+    sirinkę garsiai kalba tą frazę.
   citata_rodoma: "Jucevičius pataiso Strijkovskį: „ Gegei-\nle, begaite!“, vietoje „ Ginkiet, Biekiet, Pikole!“, ir priduria, kad\nšiandien (Žemaitijoje?), kai tik žmogus ima merdėti, visi ten su­\nsirinkę garsiai kalba tą frazę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -3179,29 +3510,24 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mat tikėjo, kad ateisianti teismo
-    diena, ir įsivaizdavo, kad ateisiąs dievas, kurs, ant aukšto kalno
-    sėdėdamas, teisiąs gyvuosius bei mirusiuosius. O į tą kalną be tų
-    lūšies ar lokio nagų būsią sunku įkopti. Ir dėl to prie jų dėdavo
-    tuos nagus, su kuriais jie turėsią įkopti į tą kalną ir stoti Dievo
-    teisman. Nors jie buvo pagonys, bet visuomet taip įsivaizduoda­
-    vo ir tikėjo vieną dievą, kad būsianti paskutiniojo teismo diena,
-    ir tikėjo mirusiųjų prisikėlimą ir vieną dievą, ateisiantį gyvųjų ir
-    mirusiųjų teisti) *.
-    Jie manė, kad tuoj pat po laidotuvių ir žmogaus palaikų
-    pagerbimo jo vėlė kaip šešėlis, turintis tokią pat išvaizdą ir
-    aprengtas drabužiais, su kuriais ir buvo palaidotas, praeina
-    pro krivio arba paties Krivių Krivaičio namus, apsireikšdama
-    jam - palikdama kartais kai ką iš daiktų, su kuriais velionis
-    buvo palaidotas, arba ženklą, runą, hieroglifą ar įkirtimą gin­
-    klu į vartus.
+    Kam patinka, gali pasiimti, kas palikta. Sis
+    paprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­
+    rėjo būti žinoma ta Ilgių šventė, kaip tai parodėme anksčiau
+    atitinkamame straipsnyje.
+    Apskritai mirusiųjų atminimo pagerbimas po šventės ar­
+    ba iškilmių, atrodo, baigdavosi tuo, kad vaišių liekanas ati­
+    duodavo pavargėliams arba, kaip kitose provincijose, padėda­
+    vo šventoje vietoje, tai yra ant kapų, kur jas surankiodavo pa­
+    vargėliai.
   citata_rodoma: "Kam patinka, gali pasiimti, kas palikta. Sis\npaprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­\nrėjo būti žinoma ta Ilgių šventė, kaip tai parodėme anksčiau\natitinkamame straipsnyje.\nApskritai mirusiųjų atminimo pagerbimas po šventės ar­\nba iškilmių, atrodo, baigdavosi tuo, kad vaišių liekanas ati­\nduodavo pavargėliams arba, kaip kitose provincijose, padėda­\nvo šventoje vietoje, tai yra ant kapų, kur jas surankiodavo pa­\nvargėliai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
+
 - id: c-173549
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3236,18 +3562,23 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šie kunigai vienoje greta Vilniaus esančio kaimo
-    mokykloje, mokydami vaikus katekizmo, ant vieno mokinio kaklo
-    pastebėjo kabantį maišelį. Vaikas, paklaustas, kas ten yra, at­
-    sakė: „Mano dievas, kurį man davė motina“. Atrišus maišelį, jie
-    išvydo dvi žalčio galvas.
+    Net pasikeitus apšvietai ir religijai,
+    indėnai akmenis laikė talismanais1. 1583 metais jėzuitai, apašta­
+    laudami Žemaitijoje, aptiko tam tikrų didelių akmenų garbinimo
+    pėdsakus2.
+    1 Podrož
+    Humboltą
+    i
+    Bomplanda.
   citata_rodoma: "Net pasikeitus apšvietai ir religijai,\nindėnai akmenis laikė talismanais1. 1583 metais jėzuitai, apašta­\nlaudami Žemaitijoje, aptiko tam tikrų didelių akmenų garbinimo\npėdsakus2.\n1 Podrož\nHumboltą\ni\nBomplanda."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-082
+
 - id: c-175562
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3312,39 +3643,32 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Gondu
-    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
-    ant stalo neliestą, o tikrąjį karvojų suvalgo.
-    Kaip tik tai ir bus ta pati deivė, kurią garbino jaunos ro­
-    mėnės, vadindamos Manturna.
-    Upinė (Uppinė )
-    Upių, šaltinių, apskritai tekančio vandens deivė. Upė -Rze-
-    ka, Upinė - Rzeczna. Istorija teigia, kad tai dievybei kaip auka
-    buvo atnašaujami balti paršeliai.
+    Iszskalbk man amzuliali.
+    Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
+    liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai
+    ir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti
+    religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
+    juos dar teks pakalbėti).
   citata_rodoma: "Iszskalbk man amzuliali.\nKitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­\nliose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai\nir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti\nreliginės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie\njuos dar teks pakalbėti)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
-
 - id: c-177158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tie sampilai priklauso toli­
-    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
-    tose. Tačiau kraštui neturint savo istorijos ir žuvus daugeliui
-    rašto šaltinių, į užmarštį nugrimzdo atminimas apie daugelio
-    žymių žmonių kapus. Tokių kapų pasitaiko aukštose vietose
-    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
-    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
-    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
-    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
-    nių kapų.
+    O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
   citata_rodoma: "O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­\nsant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje\nŽemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­\nma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­\ngų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -3447,5 +3771,5 @@ media_all_json: |-
 - Buvo valdoma: [[objektai/asmenys/Dormunimundas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sutinkąs]], [[objektai/grupes/Vokiečių ordinas]]
 - Gimimo vieta: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Puolė Žemaitiją: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]
-- Turėjo priklausinį: [[objektai/vietos/Pagraudė]], [[objektai/vietos/Semba]], [[objektai/vietos/Skalva]], [[objektai/vietos/Vaikiai]]
-- Žemaitija priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: Pagraudė, Semba, Skalva, Vaikiai
+- Žemaitija priklausė [[objektai/grupes/Kryžiuočių ordinas]], Lietuva, [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

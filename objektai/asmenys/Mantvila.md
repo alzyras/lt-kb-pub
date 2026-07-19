@@ -8,15 +8,15 @@ datos:
   - '1200 m.'
 date_start: '1200'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
-amziai:
-  - 'XII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -86,6 +86,27 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+- c-002
+  santrauka: 'Lietuvos metraštis pasakoja, kad Mantvila, sužinojęs apie ištuštėjusią Rusų šalį, pavedė kariuomenę savo sūnui Erdvilai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir jis sušaukė ka­
+    rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­
+    no Drucko miestą ir pasivadino Drucko didžiuoju ku­
+    nigaikščiu s.
+    O tuo laiku Žemaičių didysis kunigaikštis Mantvila
+    sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
+    gaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui
+    Erdvilai, pasiuntė su juo savo tarybos ponus — pirmą
+    Stulpų herbo poną, vardu Grumbįl0, o antrą Meškos
+    herbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau-
+    ž įl2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-176727
@@ -101,9 +122,9 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
     sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
     gaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui
     Erdvilai, pasiuntė su juo savo tarybos ponus — pirmą
-    Stulpų herbo poną, vardu Grumbįl0, o antrą Meškos
+    Stulpų herbo poną, vardu Grumbįl0 , o antrą Meškos
     herbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau-
-    ž įl2.
+    ž įl2 .
   citata_rodoma: "Ir jis sušaukė ka­\nrius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­\nno Drucko miestą ir pasivadino Drucko didžiuoju ku­\nnigaikščiu s.\nO tuo laiku Žemaičių didysis kunigaikštis Mantvila \nsužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­\ngaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui \nErdvilai, pasiuntė su juo savo tarybos ponus — pirmą \nStulpų herbo poną, vardu Grumbįl0 , o antrą Meškos \nherbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau- \nž įl2 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

@@ -67,18 +67,6 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   pagrindžia:
     - c-169354
 
-<a id="claim-t-185994"></a>
-- t-003
-  teiginys: "Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169354
-
 <a id="claim-t-196622"></a>
 - t-005
   teiginys: "Apie sausio vidurį į Vilniaus seimą atvyko maskvėnų pasiuntiniai tartis dėl taikos, o sudarius sutartį paleisti visi belaisviai."
@@ -92,12 +80,10 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   pagrindžia:
     - c-169355
 
-## Citatos
-
-- id: c-169353
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl ir buvo nutar­
     ta užbaigti sunkų bei ilgą karą, kuriam nei karalius,
@@ -128,6 +114,39 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
     tačiau tuo pat metu Vytautas Marienburge surengė sa­
     vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
     Vasilijaus, dideles palydėtuves.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169353
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Priėmus nutarimą, ieškota žmogaus, kuriam be
+    pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
+    turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
+    pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
+    dovauti galop parinko Henriką, mozūrų kunigaikščio
+    Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
+    Jo atvykimas (tiesą sakant,
+    P a šn e n k a m a s m o zū rų
+    daug kas manė, jog dėl gi-
+    k u n ig a ik štis
+    H enri-
+    minystės jis gali likti nepas-
+    k a s
+    tebėtas) anaiptol negalėjo ne­
+    sukelti kryžiuočiams įtarimo,
+    tačiau tuo pat metu Vytautas Marienburge surengė sa­
+    vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
+    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
+    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
+    Vytauto žmonos Onos brolis.
   citata_rodoma: "Priėmus nutarimą, ieškota žmogaus, kuriam be\npavojaus galima būtų patikėti šią slaptą užduotį, mat jis\nturėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti\npasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­\ndovauti galop parinko Henriką, mozūrų kunigaikščio\nZemovito sūnų, neseniai vainikuotą Plocko vyskupu.\nJo atvykimas (tiesą sakant,\nP a šn e n k a m a s m o zū rų\ndaug kas manė, jog dėl gi-\nk u n ig a ik štis\nH enri-\nminystės jis gali likti nepas-\nk a s\ntebėtas) anaiptol negalėjo ne­\nsukelti kryžiuočiams įtarimo,\ntačiau tuo pat metu Vytautas Marienburge surengė sa­\nvo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio\nVasilijaus, dideles palydėtuves. Visi manė, jog su kitais\nkunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,\nVytauto žmonos Onos brolis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -166,7 +185,6 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-169355
   autorius: "Albertas Vijūkas-Kojelavičius"

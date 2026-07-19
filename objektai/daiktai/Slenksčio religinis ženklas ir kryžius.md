@@ -7,13 +7,13 @@ datos:
   - '1780 m.'
 date_start: '1780'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - simbolis
   - daiktas
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -95,22 +95,6 @@ Nenurodyta
   pagrindžia:
     - c-179083
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas nurodė, kad Lietuvos kaimiečiai statydami namą virš durų paprastai įpjaudavo kryžių arba nutapydavo jį raudonais dažais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­
-    se“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
-    kala išorėje, virš pirkios arba svirno durų. Statydami namą,
-    paprastai toje vietoje įpjauna kryžių arba jį nutapo raudonais
-    dažais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172585
@@ -141,15 +125,11 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    J. F. R. kro­
-    nikoje yra duomenų, kad lietuviai, gyvenantys prie Baltijos jū­
-    ros, ypač prūsai savo pilyse turėdavo didžiulius varpus pavojui
-    gretimuose kaimuose skelbti; tuos varpus vadino gumbais
-    (Gumbi); šios geležys buvo globojamos pavojaus dievo, šlovi­
-    namo su ypatinga pagarba. Gumbinės (Gumbin) miestas nuo
-    tokio varpo gavęs pavadinimą.
-    Kronikininkai taip pat mano, kad dievui Varpui būdavo
-    aukojami gaidžiai, kaip budrumo simboliai.
+    Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­
+    se“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
+    kala išorėje, virš pirkios arba svirno durų. Statydami namą,
+    paprastai toje vietoje įpjauna kryžių arba jį nutapo raudonais
+    dažais.
   citata_rodoma: "Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­\nse“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­\nkala išorėje, virš pirkios arba svirno durų. Statydami namą,\npaprastai toje vietoje įpjauna kryžių arba jį nutapo raudonais\ndažais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

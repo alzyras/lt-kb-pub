@@ -61,6 +61,37 @@ Nenurodyta
   pagrindžia:
     - c-169051
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Per antrąją Smolensko apgultį maskvėnai pabūklais sugriovė didelę gynybinės sienos dalį, bet gynėjai per naktį užtaisė sienų plyšius rąstais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Didelę dalį gynybinės sienos priešas su­
+    griovė pabūklais, ir apsuptieji būtų atsidūrę ant pra­
+    žūties slenksčio, jeigu maskvėnai per griuvėsius būtų
+    susimanę iš karto visomis jėgomis veržtis į pilį. Vie­
+    nam ir kitam pareiškus, jog susidariusioje padėtyje
+    reikia pasiduoti, Mikalojus paprašė vienai nakčiai pa­
+    liaubų; priešas, kuriam irgi jau buvo įgrisusios žudy­
+    nės, sutiko, tačiau pareikalavo, kad tą naktį pilyje
+    visai nebūtų vartojami kir-
+    G udriai
+    a p ein a m a
+    viai. Neimdami į rankas kir-
+    paliaubų są ly g a
+    vių, pjūklais kariai prisipjo­
+    vė medžių ir taip žvaliai bei
+    5 67
+
+    išmoningai užtaisė rąstais visus sienų plyšius, kad Še-
+    miačičiai rytą suprato nieku būdu negalėsią užimti pi­
+    lies.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169051
@@ -84,6 +115,8 @@ Nenurodyta
     vių, pjūklais kariai prisipjo­
     vė medžių ir taip žvaliai bei
     5 67
+
+    ## Puslapis 566
 
     išmoningai užtaisė rąstais visus sienų plyšius, kad Še-
     miačičiai rytą suprato nieku būdu negalėsią užimti pi­

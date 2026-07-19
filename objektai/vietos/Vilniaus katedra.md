@@ -16,7 +16,6 @@ datos:
   - '1531 m.'
   - '1536 m.'
   - '2026 m.'
-  - '1545 m.'
 date_start: '1387'
 date_end: '2026'
 amziai:
@@ -237,9 +236,10 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   ryšio_subjekto_parinkimas: "Vilniaus katedra: owner_note_path, place, gap=0"
   ryšio_targeto_parinkimas: "Altorius: mention_match, thing, gap=34"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus katedra\" parinktas kaip owner_note_path. Targetas \"Altorius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "pastatymo data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1531 m.; pastatymo data: 1610 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra fragmentas, bet citata palaiko aiškų faktą."
   pagrindžia:
     - c-24573
 
@@ -350,26 +350,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   pagrindžia:
     - c-37805
 
-<a id="claim-t-110165"></a>
-- t-002
-  teiginys: "Jogaila Vladislovas buvo Vilniaus katedros fundatorius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Vilniaus katedra: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus katedra: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas pastatė naują katedrą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė Vilniaus katedra (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1531 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra fragmentas, bet citata palaiko aiškų faktą."
-  pagrindžia:
-    - c-37805
-
 <a id="claim-t-110166"></a>
 - t-004
   teiginys: "Vilniaus katedrai pamatai buvo padėti kartu su Šv. Martyno ir Šv. Jono bažnyčiomis."
@@ -406,7 +386,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-167260
 
 <a id="claim-t-188858"></a>
-- t-003
+- t-002
   teiginys: "Pasak Narbuto perteikiamo Strijkovskio, Vilniaus katedroje po didžiuoju altoriumi buvo koplyčia, kur laikytos gyvatės."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -515,18 +495,18 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   santrauka: 'Pasak Narbuto perteikiamo Strijkovskio, Vilniaus katedroje po didžiuoju altoriumi buvo koplyčia, kur laikytos gyvatės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Gyvatė (Giwojte)
-    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
-    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
-    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
-    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
-    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
-    riumi.
+    Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
+    kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
+    dar labiau persekiojamas, jeigu negrįši prie jam priklausančių
+    aukų aukojimo“. Šeimininkas šito nepaisė ir, būdamas krikš­
+    čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
+    dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
+    kažkokį triukšmą ir lyg žalčių šnypštimą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -658,7 +638,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-    - t-002
 
 - id: c-102046
   autorius: "Michał Baliński"
@@ -935,13 +914,13 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
-    kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
-    dar labiau persekiojamas, jeigu negrįši prie jam priklausančių
-    aukų aukojimo“. Šeimininkas šito nepaisė ir, būdamas krikš­
-    čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
-    dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
-    kažkokį triukšmą ir lyg žalčių šnypštimą.
+    Gyvatė (Giwojte)
+    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
+    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
+    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
+    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
+    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
+    riumi.
   citata_rodoma: "Gyvatė (Giwojte)\nNuodingas šliužas. Šios rūšies būtybės buvo traktuojamos\nkaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.\nStrijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­\nno šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,\nkurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­\nriumi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -949,7 +928,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-184128
   autorius: "Mikalojus Vorobjovas"

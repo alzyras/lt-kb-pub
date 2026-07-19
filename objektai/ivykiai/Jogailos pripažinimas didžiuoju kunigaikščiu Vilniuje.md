@@ -112,7 +112,7 @@ Nenurodyta
     tautas, jų tėvams dar gyviems esant, buvo labai su­
     sidraugavę.
     O paskui didysis kunigaikštis Algirdas 1377 me­
-    tais35 pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­
+    tais3 5  pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­
     damas j susitarimą bei savo brolišką meilę ir santar-
     mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
     džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį

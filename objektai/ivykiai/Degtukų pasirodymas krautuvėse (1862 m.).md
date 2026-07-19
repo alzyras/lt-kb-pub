@@ -136,12 +136,7 @@ Nenurodyta
   puslapiai: "p. 143 (PDF 141)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 143 (PDF 141)."
   citata_originali: |
-    Pirmiausia keliasi moterys:
-    šeimininkė ir mergaitė; atsikėlusios pučia balaną.
-    Degtukų nuo am­
-    žių nežinojo.
-    Aprašomais 1862 metais degtukai pasirodė krautu­
-    vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai.
+    Aprašomais 1862 metais degtukai pasirodė krautu- vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai.
   citata_rodoma: "Aprašomais 1862 metais degtukai pasirodė krautu- vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai."
   statusas: verified
   atnaujinta: "2026-07-12 07:26"

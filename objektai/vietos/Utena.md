@@ -11,14 +11,14 @@ datos:
   - '2026 m.'
 date_start: '1399'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -148,33 +148,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
 - susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
 - susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės, Utenos ir Zarasų kryptimi.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Patyręs savo bei žmonos
-    skriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­
-    pu tas, kuris per aistrą buvo
-    U ž D a u m a n to  p ik ta -
-    praradęs protą, nusikaltimą
-    d a r y t ę
-    N a rim a n ta s
-    parėmė užsispyrimu: pamy-
-    k e ršiįa  karu
-    nęs dorovę, jis arba nematė
-    pavojų, arba jų nepaisė. To­
-    dėl valdovas buvo priverstas griebtis ginklo ir pradėti
-    karą su broliu. Jis apgulė Uteną, kadangi ten buvo
-    pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk­
-    mės atvirame kovos lauke, nes labiau buvo linkęs prie
-    piktadarybių nei prie karo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-43946
@@ -231,20 +204,22 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    To­
+    Patyręs savo bei žmonos
+    skriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­
+    pu tas, kuris per aistrą buvo
+    U ž D a u m a n to  p ik ta -
+    praradęs protą, nusikaltimą
+    d a r y t ę
+    N a rim a n ta s
+    parėmė užsispyrimu: pamy-
+    k e ršiįa  karu
+    nęs dorovę, jis arba nematė
+    pavojų, arba jų nepaisė. To­
     dėl valdovas buvo priverstas griebtis ginklo ir pradėti
     karą su broliu. Jis apgulė Uteną, kadangi ten buvo
     pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk­
     mės atvirame kovos lauke, nes labiau buvo linkęs prie
-    piktadarybių nei prie karo. Kadangi nė sienos nega­
-    lėjo ilgiau jo apsaugoti, nes matė, jog bus priverstas
-    neišvengiamai pasiduoti arba dėl apsupties, arba dėl
-    bado, kai nebegaus maisto, jis stengėsi kelti saviškiams
-    nuotaiką viltimi, jog skubiai ateisianti artimųjų pa­
-    galba; tuo tarpu pats, nieko gero nesitikėdamas, paža­
-    dėjęs greitai atvykti su kariuomene ir pralaužti ap­
-    supimą, nakčia, išleistas iš pilies, paspruko per supan­
-    čiųjų eiles.
+    piktadarybių nei prie karo.
   citata_rodoma: "Patyręs savo bei žmonos\nskriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­\npu tas, kuris per aistrą buvo\nU ž D a u m a n to  p ik ta -\npraradęs protą, nusikaltimą\nd a r y t ę\nN a rim a n ta s\nparėmė užsispyrimu: pamy-\nk e ršiįa  karu\nnęs dorovę, jis arba nematė\npavojų, arba jų nepaisė. To­\ndėl valdovas buvo priverstas griebtis ginklo ir pradėti\nkarą su broliu. Jis apgulė Uteną, kadangi ten buvo\npasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk­\nmės atvirame kovos lauke, nes labiau buvo linkęs prie\npiktadarybių nei prie karo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

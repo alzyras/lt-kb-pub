@@ -81,16 +81,6 @@ Nenurodyta
   pagrindžia:
     - c-177812
 
-<a id="claim-t-195397"></a>
-- t-003
-  teiginys: "Per Kūčių vakarienę šeimininkas laužo plotkus, juos deda į barščius, o visi valgo iš vieno dubens."
-  atnaujinta: "2026-07-12 02:18"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177815
-
 <a id="claim-t-195398"></a>
 - t-005
   teiginys: "Po Kūčių samdininkams baigdavosi tarnybos metai ir jie tapdavo svečiais."
@@ -122,13 +112,7 @@ Nenurodyta
   puslapiai: "p. 153 (PDF 151)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 153 (PDF 151)."
   citata_originali: |
-    Tuo tarpu lietuvių
-    kalboje tie žodžiai aiškūs: varianka perveria boso šulelį, degutas gau­
-    namas degimu. Ir degutą degti ir košti varianka slavai išmoko iš mū­
-    sų.
-    Kūčių dieną krosnis kuriama du sykiu: iš ryto ir popiet, nes rei­
-    kia pasitiekti įvairių valgymų šventėms ir skyrium šiai dienai — Kū-
-    čioms.
+    Kūčių dieną krosnis kuriama du sykiu: iš ryto ir popiet, nes reikia pasitiekti įvairių valgymų šventėms ir skyrium šiai dienai — Kūčioms.
   citata_rodoma: "Kūčių dieną krosnis kuriama du sykiu: iš ryto ir popiet, nes reikia pasitiekti įvairių valgymų šventėms ir skyrium šiai dienai — Kūčioms."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
@@ -144,11 +128,7 @@ Nenurodyta
   puslapiai: "p. 153 (PDF 151)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 153 (PDF 151)."
   citata_originali: |
-    Kūčių dieną krosnis kuriama du sykiu: iš ryto ir popiet, nes rei­
-    kia pasitiekti įvairių valgymų šventėms ir skyrium šiai dienai — Kū-
-    čioms. Kepama žąsiena, kiaulienos kumpiai, kviečių ir miežių ragai­
-    šiai, verdama košeliena. Be to, dar verdami sausi barščiai su barav}’-
-    kais Kūčioms.
+    Kepama žąsiena, kiaulienos kumpiai, kviečių ir miežių ragaišiai, verdama košeliena. Be to, dar verdami sausi barščiai su baravykais Kūčioms.
   citata_rodoma: "Kepama žąsiena, kiaulienos kumpiai, kviečių ir miežių ragaišiai, verdama košeliena. Be to, dar verdami sausi barščiai su baravykais Kūčioms."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
@@ -185,32 +165,21 @@ Nenurodyta
   puslapiai: "p. 154 (PDF 152)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 154 (PDF 152)."
   citata_originali: |
-    Šeimi­
-    ninkė prašneko: „Prašome prie vakarienės!“ Visi susiėjo už stalo į
-    savo vietas, stati pašnibždomis sukalbėjo „Tėve mūsų“ , persižegno­
-    jo ir susėdo. Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pu­
-    sę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
+    Šeimininkas laužia ir dalija „plotkus“, kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
   citata_rodoma: "Šeimininkas laužia ir dalija „plotkus“, kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-177816
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 155 (PDF 153)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 155 (PDF 153)."
   citata_originali: |
-    Šiais laikais ir to
-    maža beliko. Galima buvo vienų barščių sočiai pavalgyti, bet moterys
-    neleido: išvalgius du dubeniu daugiau nepylė; vietoje barščių padėjo
-    ant stalo dviejose lėkštėse supiaustytas, barščiuose mirkusias silkes,
-    burokų ripkeles ir baravykus. Toliau seka šaltas valgis: aguonų pie­
-    nas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“ .
+    Toliau seka šaltas valgis: aguonų pienas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“.
   citata_rodoma: "Toliau seka šaltas valgis: aguonų pienas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

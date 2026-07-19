@@ -108,25 +108,6 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
     - c-179157
 
 ## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    141
-
-    ## Puslapis 141
-
-    Verpėja (VVerpeja)
-    Nemarioji žmogaus gyvenimo siūlo verpėja.
-    Lietuviai pažinojo tiktai vienintelę Parką: apie ją skamba
-    liaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,
-    bet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­
-    jau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­
-    lą, kuris baigiasi žvaigžde.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -154,16 +135,17 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bet penktoji deivė - Sargė (Sar-
-    gietoje) - tai pastebėjusi, anoms trims primindavo jų priedermes
-    ir sergėdavo žmonių likimus. Ji, gražiai kalbėdama apie svarbius
-    žmonių žygius, ragindavo deives pataisyti sugadintą arba pratęs­
-    i a
+    141
 
-    ti užmestą darbą. Šeštoji - Kirpėja (Iszmintoje) - visuomet bud­
-    riai saugojusi lemtį, sergėjo akimirką, kada turėtų pasibaigti žmo­
-    gaus gyvybės audimas; kaip mat lemties žirklėmis perkirpdavo
-    audeklą ir nutraukdavo žmogaus gyvenimo tėkmę.
+    ## Puslapis 141
+
+    Verpėja (VVerpeja)
+    Nemarioji žmogaus gyvenimo siūlo verpėja.
+    Lietuviai pažinojo tiktai vienintelę Parką: apie ją skamba
+    liaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,
+    bet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­
+    jau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­
+    lą, kuris baigiasi žvaigžde.
   citata_rodoma: "141\n\n## Puslapis 141\n\nVerpėja (VVerpeja)\nNemarioji žmogaus gyvenimo siūlo verpėja.\nLietuviai pažinojo tiktai vienintelę Parką: apie ją skamba\nliaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,\nbet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­\njau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­\nlą, kuris baigiasi žvaigžde."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -178,19 +160,14 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bet ketvirtoji — Gadintoja (Gadinto­
-    ja) — savo pasakomis dažnai sugebėdavo anas atitraukti nuo
-    darbo; jos dirbdavo arba blogai, arba visiškai nutraukdavo dar­
-    bą. Tokiais atvejais žmogui imdavo nesisekti; dažnai toji pikta
-    deivė vogčiomis imdavo gadinti darbą, ir žmogus tapdavo luošiu
-    arba išsikraustydavo iš proto. Bet penktoji deivė — Sargė (Sar-
-    gietoje) — tai pastebėjusi, anoms trims primindavo jų priedermes
-    ir sergėdavo žmonių likimus. Ji, gražiai kalbėdama apie svarbius
-    žmonių žygius, ragindavo deives pataisyti sugadintą arba pra­
-    tęsti užmestą darbą. Šeštoji — Kirpėja (Iszmititoje) — visuomet
-    budriai saugojusi lemtį, sergėjo akimirką, kada turėtų pasibaigti
-    žmogaus gyvybės audimas; kaip mat lemties žirklėmis perkop­
-    davo audeklą ir nutraukdavo žmogaus gyvenimo tėkmę.
+    Kartais vasaros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant
+    žemės, j puikius slėnius, esančius greta upių ir ežerų. Jeigu tose
+    vietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­
+    rytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo
+    akmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba
+    elipsės formą. Gerbėjai jas galėdavo stebėti iš .tam tikro atstumo,
+    bet vargas tam, kuris išdrįsdavo prisiartinti — jos be pasigailė­
+    jimo nužudydavo kiekvieną, kuris įžeisdavo jų garbę.
   citata_rodoma: "Kartais vasaros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant\nžemės, j puikius slėnius, esančius greta upių ir ežerų. Jeigu tose\nvietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­\nrytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo\nakmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba\nelipsės formą. Gerbėjai jas galėdavo stebėti iš .tam tikro atstumo,\nbet vargas tam, kuris išdrįsdavo prisiartinti — jos be pasigailė­\njimo nužudydavo kiekvieną, kuris įžeisdavo jų garbę."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

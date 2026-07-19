@@ -130,10 +130,10 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Bychovco kronikos rankraštį prieš 1830 m. Alek­
-    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
+    Bychovco kronikos rankraštį prieš 1830 m. Alek-
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-
     niaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl
-    dalyvavimo 1831 m. sukilime turėdamas emigruoti į už­
+    dalyvavimo 1831 m. sukilime turėdamas emigruoti į už-
     sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
     kronikos fragmentą — pasakojimą apie Vytauto brolio
     Žygimanto Kęstutaičio nužudymą 1440 m.
@@ -151,17 +151,9 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Alek­
-    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
-    niaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl
-    dalyvavimo 1831 m. sukilime turėdamas emigruoti į už­
-    sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
-    kronikos fragmentą — pasakojimą apie Vytauto brolio
-    Žygimanto Kęstutaičio nužudymą 1440 m. Trumpoje
-    pratarmėlėje apie rankraščio radimą Aleksandro By­
-    chovco bibliotekoje I. Klimaševskis pirmasis šią kroni­
-    ką įvertino,4 *
-    * O šmierci x Zygmunta Kiejsiutowlcza.
+    Trumpoje pratarmėlėje apie rankraščio radimą Aleksandro By-
+    chovco bibliotekoje I. Klimaševskis pirmasis šią kroni-
+    ką įvertino.
   citata_rodoma: "Trumpoje pratarmėlėje apie rankraščio radimą Aleksandro By-\nchovco bibliotekoje I. Klimaševskis pirmasis šią kroni-\nką įvertino."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -176,15 +168,8 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    I RANKRAŠTIS IR JO  SKELBIMAS
-    Bychovco kronika, palyginus su Trumpuoju ir Pla-
-    tesniuoju sąvadais, yra pilniausia Lietuvos istorija, pa­
-    rašyta iki XVI a. vidurio; joje užpildytos Trumpojo
-    sąvado spragos Vytauto valdymo laikų aprašyme, o
-    Lietuvos istorija po 1446 m. sistemingai aprašoma ligi
-    1506 m.
-    Bychovco kronikos rankraštį prieš 1830 m. Alek­
-    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
+    Bychovco kronikos rankraštį prieš 1830 m. Alek-
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-
     niaus gimnazijos mokytojas Ipolitas Klimaševskis.
   citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek-\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-\nniaus gimnazijos mokytojas Ipolitas Klimaševskis."
   statusas: verified

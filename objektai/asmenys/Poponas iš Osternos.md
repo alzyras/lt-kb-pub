@@ -171,23 +171,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą
-
-      Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos.
-    Daug kartų garbingai kariavęs Prūsijoje ir Livonijoje prieš tai, kai priėmė šias pareigas, ir
-    po to, kai jas priėmė, pavargęs nuo metų ir rūpesčių naštos, jis nuolankiai atsisakė savo
-    pareigybės, o ją paveldėjo anksčiau jau šias pareigas ėjęs brolis Anonas.
-
-     39.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-194515
 - c-004
   santrauka: 'Magistras Poponas pavedė Konradui Bremeriui nuplukdyti į Elbingą tris maisto prikrautus laivus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -214,13 +197,12 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    54 (53) Apie vieną stebuklą
-    Tuo metu pasimirė kelyje, grįždamas į savo tėvynę, vienas kryžininkas iš Meiseno,
-    kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus. Jo sūnus, ilgai
-    nesulaukdamas tėvo, suskato jo ieškoti Prūsijoje, bet nesurado, tačiau begrįždamas
-    sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas
-    šlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo
-    bažnyčios sienos.
+    Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
+
+       Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
+    Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
+    Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
+    galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.
   citata_rodoma: "Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų\n\n   Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs\nSventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie\nVišogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su\ngalybe savo karių stovįs prie Svečės pilies ir ją stiprinąs."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -233,15 +215,14 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę
-    ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas,
-    baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop
-    sugrįžo paėmęs daug grobio ir kitokių gėrybių. Kai jam dėl šito buvo prikaišiojama, jis
-    atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis
-    nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
-    manimi gyventi taikiai“. Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
-    pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
-    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų.
+    Kai šitai buvo padaryta, 1244 atvyko
+    brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.
+    Be to, Austrijos kunigaikštis dar atsiuntė šiai žemei padėti 30 raitųjų lankininkų, išlaikomų
+    savo lėšomis. Šiems atvykus, broliai be galo džiaugėsi, o Sventopelkas priešingai — taip
+    sunerimo ir išsigando, kad iš tos baimės pabandė susitaikyti su broliais, o to jam nebuvo
+      282  Manoma, jog Dusburgietis galėjęs šį mūšį prie Kulmo išgalvoti, norėdamas
+    Sventopelko pralaimėjimo vaizdais sušvelninti ankstesnio Ordino pralaimėjimo įspūdį
+    (PKD, p.
   citata_rodoma: "Kai šitai buvo padaryta, 1244 atvyko\nbrolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.\nBe to, Austrijos kunigaikštis dar atsiuntė šiai žemei padėti 30 raitųjų lankininkų, išlaikomų\nsavo lėšomis. Šiems atvykus, broliai be galo džiaugėsi, o Sventopelkas priešingai — taip\nsunerimo ir išsigando, kad iš tos baimės pabandė susitaikyti su broliais, o to jam nebuvo\n  282  Manoma, jog Dusburgietis galėjęs šį mūšį prie Kulmo išgalvoti, norėdamas\nSventopelko pralaimėjimo vaizdais sušvelninti ankstesnio Ordino pralaimėjimo įspūdį\n(PKD, p."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -256,18 +237,16 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kita
-    kariuomenės dalis nužygiavo į priekį; kai prie jų priėjo su saviškiais Karolis, Sicilijos
-    karalius, jie labai nudžiugo ir taip užgriuvo sultoną bei jo žmones, kad privertė juos taikytis
-    šitokiomis sąlygomis: sultonas grąžinsiąs visus į nelaisvę paimtus krikščionis; visuose jo
-    karalystės miestuose pastačius dievo bažnyčių, jis Įeisiąs visoje savo karalystėje skelbti
-    Kristaus tikėjimą; visi norintys priimti krikštą galėsią būti apkrikštyti, o jis pats mokėsiąs
-    krikščionims duoklę. Neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe
-    frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys
-    vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę. Vis dėlto per
-    galybę nuodėmių visa krikščionių kariuomenė buvo išsklaidyta, šitaip ji nieko naudinga
-    ir nenuveikė, nes numirė popiežius, patriarchas, legatas ir Navaros karalius (Mart. p.
-    414; Ptol.
+    Apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą
+
+      Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos.
+    Daug kartų garbingai kariavęs Prūsijoje ir Livonijoje prieš tai, kai priėmė šias pareigas, ir
+    po to, kai jas priėmė, pavargęs nuo metų ir rūpesčių naštos, jis nuolankiai atsisakė savo
+    pareigybės, o ją paveldėjo anksčiau jau šias pareigas ėjęs brolis Anonas.
+
+
+
+     39.
   citata_rodoma: "Apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą\n\n  Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos.\nDaug kartų garbingai kariavęs Prūsijoje ir Livonijoje prieš tai, kai priėmė šias pareigas, ir\npo to, kai jas priėmė, pavargęs nuo metų ir rūpesčių naštos, jis nuolankiai atsisakė savo\npareigybės, o ją paveldėjo anksčiau jau šias pareigas ėjęs brolis Anonas.\n\n\n\n 39."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -280,17 +259,15 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
-    ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
-    kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
-    jį nukovė. Elbingo miestiečių laive, kuris, smarkiai plaukdamas, užšoko ant seklumos ir
-    čia paliko, buvo nukauti du broliai, tačiau brolis Fridrichas, atėjęs į pagalbą, visus kitus
-    išvadavo ir perkėlė į savo laivą, praradęs kovoje du brolius ir 3 vyrus, o priešas neteko
-    20 užmuštaisiais, tačiau likusieji paspruko.
-    52 (51). Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną
-    288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
-    5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
-    pilis — Elbingą ir Baigą.
+    Apie laivų kautynes
+
+       Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
+    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
+    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
+    žmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip
+    kilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo
+    laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
+    sužalojo.
   citata_rodoma: "Apie laivų kautynes\n\n   Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių\nbrolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus\nlaivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe\nžmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip\nkilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo\nlaivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai\nsužalojo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

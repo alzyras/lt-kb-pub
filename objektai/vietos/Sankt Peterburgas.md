@@ -12,14 +12,14 @@ datos:
   - '2026 m.'
 date_start: '1772'
 date_end: '2026'
-amziai:
-  - 'XVIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XVIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -118,25 +118,6 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   pagrindžia:
     - c-175524
 
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: '1839 m. Teodoras Narbutas gavo imperatoriaus dovaną po „Lietuvių mitologijos“ įvertinimo Peterburge.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vadinasi, su­
-    manymas siekia daug ankstesnius laikus nei „Lietuvių mi­
-    tologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­
-    bės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­
-    vo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-
-    išleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­
-    nės T. Narbuto korespondencijos, istorikas daugelį metų
-    ieškojo galimybės išspausdinti šio tomo vertimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-175131
@@ -212,15 +193,14 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vargu ar būtų galima vienareikšmiškai pasakyti, kas
-    paskatino T. Narbutą išversti į rusų kalbą „Lietuvių mi­
-    tologiją“. Beje, buvo išverstas ne tik pirmas tomas —
-    mūsų dienas pasiekė ir antro LTI tomo rusiškasis va­
-    riantas, kuris datuojamas 1835 metų gegužės mėnesiu;
-    vadinasi, jis buvo parengtas dar nepasirodžius lenkiška­
-    jam šio tomo leidimui4. Si aplinkybė leidžia daryti prie­
-    laidą, jog abu tomai į rusų kalbą buvo verčiami tiesiog
-    iš rankraščio, kartu su lenkiškuoju variantu.
+    Vadinasi, su­
+    manymas siekia daug ankstesnius laikus nei „Lietuvių mi­
+    tologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­
+    bės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­
+    vo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-
+    išleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­
+    nės T. Narbuto korespondencijos, istorikas daugelį metų
+    ieškojo galimybės išspausdinti šio tomo vertimą.
   citata_rodoma: "Vadinasi, su­\nmanymas siekia daug ankstesnius laikus nei „Lietuvių mi­\ntologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­\nbės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­\nvo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-\nišleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­\nnės T. Narbuto korespondencijos, istorikas daugelį metų\nieškojo galimybės išspausdinti šio tomo vertimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

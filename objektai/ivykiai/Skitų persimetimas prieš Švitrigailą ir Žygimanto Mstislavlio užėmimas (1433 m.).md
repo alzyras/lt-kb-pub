@@ -7,13 +7,13 @@ datos:
   - '1433 m.'
 date_start: '1433'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -108,7 +108,7 @@ Nenurodyta
 <a id="claim-t-196255"></a>
 - t-004
   teiginys: "Kojelavičius skitų keliamą pavojų aiškino kaip aukščiausiojo nukreiptą grėsmę prieš patį Boleslovą."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -116,7 +116,35 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
-    - c-169002
+    - c-169000
+
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Rudens pabaigoje Žygimantas su nedidele kariuomene užpuolė kai kurias Švitrigailos valdas ir po mėnesio apgulties užėmė Mstislavlį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jų didelės jėgos apsupo Brestą, apgultuosius labiau ka­
+    mavo badas nei priešas, nes gynėjai nebuvo paruošę
+    jokių maisto atsargų. Pilis, pastatyta labai patogioje
+    vietoje, būtų, be abejonės, pasidavusi priešui, jeigu Ma­
+    zovijos kunigaikščiai, gavę įsakymą traukti prieš už­
+    puolikus, nebūtų greitai ir ryžtingai susiruošę į žygį.
+    Išgirdęs apie juos, Kaributaitis nusigando, nutrau­
+    kė apgulą ir išžygiavo iš Polesės. Kur kas didesnį
+    pavojų kėlė skitai, tačiau aukščiausiasis nukreipė šią
+    grėsmę prieš patį Boleslovą.
+    Pakviesta Boleslovo, pažadė­
+    jusio gerą atlyginimą, susitel­
+    kė didžiulė skitų kariauna,
+    ketinusi išvyti Žygimantą ir
+    sugrąžinti į valdžią Lietuvoje
+    Boleslovą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-004
 
 ## Citatos
 
@@ -147,6 +175,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-004
 
 - id: c-169001
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -180,22 +209,28 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Jų didelės jėgos apsupo Brestą, apgultuosius labiau ka­
-    mavo badas nei priešas, nes gynėjai nebuvo paruošę
-    jokių maisto atsargų. Pilis, pastatyta labai patogioje
-    vietoje, būtų, be abejonės, pasidavusi priešui, jeigu Ma­
-    zovijos kunigaikščiai, gavę įsakymą traukti prieš už­
-    puolikus, nebūtų greitai ir ryžtingai susiruošę į žygį.
-    Išgirdęs apie juos, Kaributaitis nusigando, nutrau­
-    kė apgulą ir išžygiavo iš Polesės. Kur kas didesnį
-    pavojų kėlė skitai, tačiau aukščiausiasis nukreipė šią
-    grėsmę prieš patį Boleslovą.
-    Pakviesta Boleslovo, pažadė­
-    jusio gerą atlyginimą, susitel­
-    kė didžiulė skitų kariauna,
-    ketinusi išvyti Žygimantą ir
-    sugrąžinti į valdžią Lietuvoje
-    Boleslovą.
+    Tik rudens
+    pabaigoje paliko Žygimantas
+    Ž yg im a n ta s
+    traukia
+    savo slėptuves ir užpuolė su
+    / M stisla vlį
+    menka savo kariuomene, pa­
+    jėgiančia tik nuostolių priešui
+    pridaryti, kurias ne kurias Boleslovo valdas. Bemokė­
+    damas kaimus, priėjo ir Mstislavlį: apsupęs atkakliai
+    I . V
+    451
+    Skitai, p a k v ie s ti k o ­
+    v o ti p rieš Ž yg im a n tą ,
+    n u k reip ia
+    gin klu s
+    prieš Š vitrigailą
+
+    ## Puslapis 450
+
+    ginamą miestą, po mėnesio jį užėmė, o tada patraukė
+    į žiemos stovyklą.
   citata_rodoma: "Tik rudens\npabaigoje paliko Žygimantas\nŽ yg im a n ta s\ntraukia\nsavo slėptuves ir užpuolė su\n/ M stisla vlį\nmenka savo kariuomene, pa­\njėgiančia tik nuostolių priešui\npridaryti, kurias ne kurias Boleslovo valdas. Bemokė­\ndamas kaimus, priėjo ir Mstislavlį: apsupęs atkakliai\nI . V\n451\nSkitai, p a k v ie s ti k o ­\nv o ti p rieš Ž yg im a n tą ,\nn u k reip ia\ngin klu s\nprieš Š vitrigailą\n\n## Puslapis 450\n\nginamą miestą, po mėnesio jį užėmė, o tada patraukė\nį žiemos stovyklą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -204,4 +239,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004

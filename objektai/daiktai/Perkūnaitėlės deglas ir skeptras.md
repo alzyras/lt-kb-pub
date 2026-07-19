@@ -57,10 +57,12 @@ Nenurodyta
   pagrindžia:
     - c-177200
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Galva papuošta kažkokia spinduliuojančia diadema; ant pečių krinta ilgi plaukai, ties kakta perskirti; veidas pailgas, griežtas, nebejaunas, rankos praskėstos; kairiojoje rankoje lai ko kažką panašaus į skeptrą, dešiniojoje - lyg Jupiterio deglą, fulgur.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-177200
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Manyta, kad tai
     senųjų pilies savininkų herbas. Moteris apsirengusi romėniš­
@@ -70,30 +72,6 @@ Nenurodyta
     griežtas, nebejaunas, rankos praskėstos; kairiojoje rankoje lai­
     ko kažką panašaus į skeptrą, dešiniojoje -  lyg Jupiterio deglą,
     fulgur.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-177200
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šioje
-    lietuvių deivėje susiliejo Plutono ir Fortūnos bruožai, todėl ji
-    galėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­
-    riškos giminės Pilvyte (Pilwite). Atnašaujant svarbiausias au­
-    kas, niekada nebūdavo užmirštama kreiptis į šią deivę. Apie
-    ją samprotauja beveik visi kronikininkai, bet dažniausiai ma­
-    no ją buvus dievą. Mes labiau laikomės krašto padavimų, kaip
-    tai randame ką tik pateiktoje dainoje. Beje, labai gali būti,
-    kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
-    būdindama dievybių lytį, bet ne čia esmė; tai lengvai ištaiso­
-    ma, jeigu tik atsirastų kokių nors žinių apie šį dalyką.
   citata_rodoma: "Manyta, kad tai\nsenųjų pilies savininkų herbas. Moteris apsirengusi romėniš­\nka tunika, susijuosusi diržu, nuo pečių krenta platus apsiaus­\ntas. Galva papuošta kažkokia spinduliuojančia diadema; ant\npečių krinta ilgi plaukai, ties kakta perskirti; veidas pailgas,\ngriežtas, nebejaunas, rankos praskėstos; kairiojoje rankoje lai­\nko kažką panašaus į skeptrą, dešiniojoje -  lyg Jupiterio deglą,\nfulgur."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

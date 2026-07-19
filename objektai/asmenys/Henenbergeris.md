@@ -38,26 +38,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 
 ## Teiginiai
 
-<a id="claim-t-190003"></a>
-- t-001
-  teiginys: "Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išblyškusį senį pastėrusiomis akimis ir balta drobule apmuturiuota galva."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-172886
-
 <a id="claim-t-190004"></a>
 - t-002
   teiginys: "Narbutas rašo, kad Henenbergeris apie 1584 metus tikino pats matęs senų vienaakių žmonių, siejamų su šventos upės poveikiu."
@@ -141,15 +121,22 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 <a id="claim-t-190008"></a>
 - t-006
   teiginys: "Narbutas nurodo, kad Henenbergeris ir Hartknochas vėliavos su nežinomų raidžių užrašu aprašymą perėmė iš Grunau."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vėliavos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
-    - c-177101
+    - c-172891
 
 <a id="claim-t-190864"></a>
 - t-008
@@ -295,7 +282,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-012
 
 - id: c-172887
@@ -392,21 +378,19 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sis paprotys lietuviams
-    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
-    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
-    kad jiems būtų suteikti herbai - taip būdavo Lenkijoje. Bet, ne­
-    paisant to, visuomet, bent jau nuo Gedimino laikų, Lietuvoje
-    šeimos herbai egzistavo*. Vienas kitas aiškiai lietuviškas her­
-    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
-    rios tais herbais naudojosi.
+    Ant tos vėliavos
+    buvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­
+    telės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-
+    6 Hartknoch.
   citata_rodoma: "Ant tos vėliavos\nbuvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­\ntelės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-\n6 Hartknoch."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-173746
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -489,20 +473,19 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    lietuviai naudojosi tomis raidėmis. Gali būti, kad kam nors
-    pasitaikys rasti pinigą arba metalo gabaliuką su užrašu to rai­
-    dyno raidėmis; man net pasakojo, kad Lietuvoje kai kur yra
-    akmenų su iškaltomis nežinomo pavidalo raidėmis, o tos galė­
-    tų pasirodyti esančios biarmiškos. Vieną iš tokių užrašų, per­
-    pieštą Žemaitijoje nuo akmens, turėjau rankose; jame buvo
-    deramai išbrėžtos kelios biarmiškos raidės, tačiau, matyt, ne­
-    mokšiškai kopijuojant, kiti ženklai buvo sugadinti, neįmano­
-    ma buvo padaryti kokią nors išvadą, nebent įrodymą, kad gali
-    pasitaikyti atradimų, liudijančių, jog pas mus Biarmijos raidy­
-    nas buvo plačiau pažįstamas. Tiesa, ši nuomonė gali atrodyti
-    nauja, kadangi Rusijos rašytojai tą raidyną laiko XI amžiaus
-    kūriniu, tačiau mums reikėtų turėti daugiau tyrimų, o tuomet
-    galbūt įtikintume savo naudai.
+    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
+    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
+    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
+    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
+    Davido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi
+    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
+    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
+    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
+    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
+    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
+    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
+    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
+    2.
   citata_rodoma: "Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­\nkupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad\nKaraliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­\nninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko\nDavido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi\nPretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-\nbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­\nmus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo\nKristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­\nba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­\nba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­\nrokai išsamesniais paaiškinimais negu Simonas Grunau17.\n2."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -510,5 +493,4 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
     - t-011

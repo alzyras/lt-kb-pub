@@ -42,7 +42,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
 <a id="claim-t-68689"></a>
 - t-001
   teiginys: "Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Palenkė: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -60,7 +60,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
 <a id="claim-t-187612"></a>
 - t-007
   teiginys: "Lietuvos metraštyje Jogailos karas su Mazovija ir lenkais aiškinamas tuo, kad Mazovijos kunigaikštis, lenkų padedamas, buvo užgrobęs Drohičiną ir Melniką."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -174,6 +174,33 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186625|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186628|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą.
 - susijęs iš Palenkė: Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje.
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O paskui jis prikalbėjo savo
+    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
+    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
+    biausia. prieš teisėtą Lietuvos paveldėtoją a .
+    Tas Kantauto giminaitis suprato, kad negalima sto­
+    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
+    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
+    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
+    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
+    tarnauti
+    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
+    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
+    turtą. Patvirtinęs jų privilegijas priesaikomis19 ir pa­
+    jungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­
+    lai palikti Kantautą bent trejus metus Žemaičių seniū­
+    nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
+    gaikščiui Kazimierui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-24305
@@ -227,23 +254,18 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   puslapiai: "PDF 126"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 126."
   citata_originali: |
-    O paskui jis prikalbėjo savo
-    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
-    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
-    biausia. prieš teisėtą Lietuvos paveldėtoją a .
-    Tas Kantauto giminaitis suprato, kad negalima sto­
-    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
-    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
-    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
-    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
-    tarnauti
-    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
-    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
-    turtą. Patvirtinęs jų privilegijas priesaikomis19 ir pa­
-    jungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­
-    lai palikti Kantautą bent trejus metus Žemaičių seniū­
-    nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
-    gaikščiui Kazimierui.
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
+    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės.
   citata_rodoma: "O paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.\nBūnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis \npabėgo į Mazoviją, nusprendė su tais miestais pereiti \nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo \ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios \nKunigaikštystės."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -283,23 +305,18 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   puslapiai: "PDF 126"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 126."
   citata_originali: |
-    O paskui jis prikalbėjo savo
-    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
-    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
-    biausia. prieš teisėtą Lietuvos paveldėtoją a .
-    Tas Kantauto giminaitis suprato, kad negalima sto­
-    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
-    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
-    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
-    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
-    tarnauti
-    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
-    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
-    turtą. Patvirtinęs jų privilegijas priesaikomis19 ir pa­
-    jungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­
-    lai palikti Kantautą bent trejus metus Žemaičių seniū­
-    nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
-    gaikščiui Kazimierui.
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
+    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės.
   citata_rodoma: "O paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.\nBūnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis \npabėgo į Mazoviją, nusprendė su tais miestais pereiti \nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo \ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios \nKunigaikštystės."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"

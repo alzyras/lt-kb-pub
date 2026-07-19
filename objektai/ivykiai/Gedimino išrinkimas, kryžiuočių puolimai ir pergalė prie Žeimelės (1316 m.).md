@@ -7,14 +7,14 @@ datos:
   - '1316 m.'
 date_start: '1316'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - mūšis
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -176,12 +176,10 @@ Nenurodyta
   pagrindžia:
     - c-168852
 
-## Citatos
-
-- id: c-168849
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Gedimino valdymo pradžia buvo nerami, nes į karą stojo Prūsijos ir Livonijos kryžiuočiai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     To­
     dėl ir manau, kad dingstį šitokiems svetimšalių post­
@@ -222,6 +220,78 @@ Nenurodyta
     grobį, o kitoje pusėje Livonijos kryžiuočiai atėmė iš
     lietuvių tą Žemaitijos pakraštį, kuris dabar vadinamas
     Kuršu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-006
+
+- c-005
+  santrauka: 'Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu Gediminas taip iš­
+    rikiavo savo karius, kad vienais rusų daliniais sustip­
+    rino kariuomenės sparnus, o kitais — ariergardą, lie­
+    tuvius pastatė viduryje, o totorius — priekyje. Kai
+    kryžiuočiai smarkiai užpuolė pirmąsias eiles, totoriai,
+    neįpratę kovoti vienoje vietoje, nesitraukiant nė per
+    žingsnį, išsisklaidė, kaip jų tautos kariai įpratę, puslan­
+    kiu ir tuo būdu išvengė ietininkų antpuolio. Priešo rai­
+    teliai, netikėtai susidūrę su šitokiu kovos būdu, suglu­
+    mo ir padriku būriu įsiveržė į lietuvių kariuomenės
+    vidurį, kur stovėjo Gediminas su Goštautu; čia kry­
+    žiuočiai pateko į dvigubą pavojų, ypač dėl to, kad tuo
+    metu viename ir kitame sparne pasirodę totoriai, be
+    paliovos puldinėdami kryžiuočius iš šonų ir šaudydami
+    iš lankų, išguldė daugybę žirgų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168849
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    To­
+    dėl ir manau, kad dingstį šitokiems svetimšalių post­
+    ringavimams apie Gediminą davęs Pelužis, pirmųjų
+    valdovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­
+    kakliai savinęsis didžiojo kunigaikščio vardą ir kry­
+    žiuočių remiamas labai kenkęs savo tėvynei; norėda­
+    mas sukelti užuojautą dėl savo padėties, jis niekinamai
+    vadinęs Gediminą Vytenio arklininko sūnumi; Vytenį
+    esą jo paties valdinys Gediminas, kitados savo valdo­
+    vų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų
+    metraštininkai, kurie šią savo priešams lietuviams pri­
+    kišamą nuodėmę vargu ar būtų nutylėję ir kurie savo
+    amžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš
+    G edim in as,
+    V y te n io
+    sūnus,
+    p a v e ld i
+    v a l­
+    džią
+    Neišmanantys reikalo es­
+    mės ar dėl to, kad gyveno
+    toli nuo vietų, kur šitai dė­
+    josi, ar dėl to, kad nuo ap-
+    m
+
+    ## Puslapis 193
+
+    arti matė ir, patikimai atpasakoję, paliko ateinančioms
+    kartoms, lyg susitarę tvirtina, jog Gediminas buvo iš­
+    rinktas į savo tėvo Vytenio sostą pritariant ir palai­
+    kant visiems luomams. Jo valdymo pradžia, Prūsijos
+    bei Livonijos kryžiuočiams stojus į karą, buvo ne tik
+    nerami, bet ir liūdna.
   citata_rodoma: "To­\ndėl ir manau, kad dingstį šitokiems svetimšalių post­\nringavimams apie Gediminą davęs Pelužis, pirmųjų\nvaldovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­\nkakliai savinęsis didžiojo kunigaikščio vardą ir kry­\nžiuočių remiamas labai kenkęs savo tėvynei; norėda­\nmas sukelti užuojautą dėl savo padėties, jis niekinamai\nvadinęs Gediminą Vytenio arklininko sūnumi; Vytenį\nesą jo paties valdinys Gediminas, kitados savo valdo­\nvų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų\nmetraštininkai, kurie šią savo priešams lietuviams pri­\nkišamą nuodėmę vargu ar būtų nutylėję ir kurie savo\namžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš\nG edim in as,\nV y te n io\nsūnus,\np a v e ld i\nv a l­\ndžią\nNeišmanantys reikalo es­\nmės ar dėl to, kad gyveno\ntoli nuo vietų, kur šitai dė­\njosi, ar dėl to, kad nuo ap-\nm\n\n## Puslapis 193\n\narti matė ir, patikimai atpasakoję, paliko ateinančioms\nkartoms, lyg susitarę tvirtina, jog Gediminas buvo iš­\nrinktas į savo tėvo Vytenio sostą pritariant ir palai­\nkant visiems luomams. Jo valdymo pradžia, Prūsijos\nbei Livonijos kryžiuočiams stojus į karą, buvo ne tik\nnerami, bet ir liūdna."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -336,21 +406,17 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu Gediminas taip iš­
+    Dėjosi skatinąs žemaičių
+    narsumą, žadėdamas dovanų bei laisvių, tačiau sakėsi
+    būsiąs patenkintas, jeigu jie, nieko neveikdami, lauk­
+    sią, kuo viskas baigsis. Tuo tarpu Gediminas taip iš­
     rikiavo savo karius, kad vienais rusų daliniais sustip­
     rino kariuomenės sparnus, o kitais — ariergardą, lie­
     tuvius pastatė viduryje, o totorius — priekyje. Kai
     kryžiuočiai smarkiai užpuolė pirmąsias eiles, totoriai,
     neįpratę kovoti vienoje vietoje, nesitraukiant nė per
     žingsnį, išsisklaidė, kaip jų tautos kariai įpratę, puslan­
-    kiu ir tuo būdu išvengė ietininkų antpuolio. Priešo rai­
-    teliai, netikėtai susidūrę su šitokiu kovos būdu, suglu­
-    mo ir padriku būriu įsiveržė į lietuvių kariuomenės
-    vidurį, kur stovėjo Gediminas su Goštautu; čia kry­
-    žiuočiai pateko į dvigubą pavojų, ypač dėl to, kad tuo
-    metu viename ir kitame sparne pasirodę totoriai, be
-    paliovos puldinėdami kryžiuočius iš šonų ir šaudydami
-    iš lankų, išguldė daugybę žirgų.
+    kiu ir tuo būdu išvengė ietininkų antpuolio.
   citata_rodoma: "Dėjosi skatinąs žemaičių\nnarsumą, žadėdamas dovanų bei laisvių, tačiau sakėsi\nbūsiąs patenkintas, jeigu jie, nieko neveikdami, lauk­\nsią, kuo viskas baigsis. Tuo tarpu Gediminas taip iš­\nrikiavo savo karius, kad vienais rusų daliniais sustip­\nrino kariuomenės sparnus, o kitais — ariergardą, lie­\ntuvius pastatė viduryje, o totorius — priekyje. Kai\nkryžiuočiai smarkiai užpuolė pirmąsias eiles, totoriai,\nneįpratę kovoti vienoje vietoje, nesitraukiant nė per\nžingsnį, išsisklaidė, kaip jų tautos kariai įpratę, puslan­\nkiu ir tuo būdu išvengė ietininkų antpuolio."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Senovės prūsų monetos
 
 ## Santrauka
@@ -47,7 +48,7 @@ Nenurodyta
 <a id="claim-t-189661"></a>
 - t-001
   teiginys: "Narbutas rašo, kad senovės prūsų monetas mini kronikininkai, o vėliau kai kurios jų būdavo randamos žemėje, ypač senovės kapuose."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,7 +65,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172544
-    - c-172545
 
 <a id="claim-t-189662"></a>
 - t-002
@@ -87,10 +87,12 @@ Nenurodyta
   pagrindžia:
     - c-172545
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad senovės prūsų monetas mini kronikininkai, o vėliau kai kurios jų būdavo randamos žemėje, ypač senovės kapuose.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172544
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovės prūsų monetas mini kronikininkai, jos dingo, kry­
     žiuočių buvo sulydytos ir perkaldintos; vėlesniais laikais kai
@@ -103,31 +105,6 @@ Nenurodyta
     jas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo
     paties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su
     užrašais nepažįstamu raštu, kartais lotyniškomis raidėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172544
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Iškiliojoje pusėje
-    ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A
-    arbatų, prie kurios yra dobilo lapelis. Tas žodis gali turėti ryšį
-    su Hirijos (Hirrya), arba Jurijos (Juhrya), šalimi, kuri buvo prie
-    Jūros upės, jai priklausė ir Jurbarkas. Buvo ir lietuvių valdo­
-    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
-    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
-    Dievo Santvara stabas rastas Prilvice su užrašu runomis
-    Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie­
-    nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotri-
-    tai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo­
-    mis30.
   citata_rodoma: "Senovės prūsų monetas mini kronikininkai, jos dingo, kry­\nžiuočių buvo sulydytos ir perkaldintos; vėlesniais laikais kai\nkurios būdavo randamos žemėje, ypač senovės kapuose. Apie\n25 Panašų dalyką Belskis pasakoja savo kronikoje.\n247\n\n## Puslapis 247\n\njas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo\npaties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su\nužrašais nepažįstamu raštu, kartais lotyniškomis raidėmis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -161,5 +138,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

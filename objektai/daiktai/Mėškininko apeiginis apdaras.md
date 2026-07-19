@@ -58,12 +58,7 @@ Nenurodyta
   puslapiai: "p. 114 (PDF 112)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 114 (PDF 112)."
   citata_originali: |
-    Vokietukas įėjęs ima šokti kazoką, šoka ligi pa­
-    ilsta, ir paskui išeina.
-    Po vokietuko įveda „mešką“ .
-    Aptaisant mešką, reikia dviejų iš­
-    verstų kailinių, kuo seniausių, kuo rudžiausių, skyrium reikia pritai­
-    syti biaurų snukį ir uodegą.
+    Aptaisant mešką, reikia dviejų išverstų kailinių, kuo seniausių, kuo rudžiausių, skyrium reikia pritaisyti biaurų snukį ir uodegą.
   citata_rodoma: "Aptaisant mešką, reikia dviejų išverstų kailinių, kuo seniausių, kuo rudžiausių, skyrium reikia pritaisyti biaurų snukį ir uodegą."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"

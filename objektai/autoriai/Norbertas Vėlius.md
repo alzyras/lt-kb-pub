@@ -13,15 +13,15 @@ aliases:
   - 'objektai/autoriai/Vėlius N'
 variantai:
   - 'Vėlius N'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - redaktorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -115,9 +115,12 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
 - susijęs iš Vytauto Berenio ir Norberto Vėliaus įvadiniai straipsniai Teodoro Narbuto LTI leidinyje: Įvadiniuose straipsniuose Vytautas Berenis ir Norbertas Vėlius išsamiai aptarė „Lietuvių mitologijai“ tekusią mokslinę kritiką.
 - susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-170750
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Wilno, naktadem i drukiem
     A. Marcinowskicgo, 1835.
@@ -136,32 +139,6 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
     Norbertas Vėlius, 1992, 1998
     Įvedamasis straipsnis, paaiškinimai,
     papildymų vertimas, Reda Griškaitė,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-188052
-
-## Citatos
-
-- id: c-170750
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Įsigalėjęs neigia­
-    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
-    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
-    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
-    Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
-    trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
-    tuvos palikimą. Juk Lietuvos istorija - tai ne vien pagoniškas
-    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
-    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
-    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
-    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
-    tūrinio paveldo arealas.
   citata_rodoma: "Wilno, naktadem i drukiem\nA. Marcinowskicgo, 1835.\nR edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS\nDailininkas ALFONSAS ŽVILIUS\nIš lenkų ir lotynų kalbų vertė RIMANTAS JASAS\nSpecialioji redaktorė REDA GRIŠKAITĖ\nISBN 5-417-00765-Х\nISBN 5-417-00766-8\nVertimas, Rimantas Jasas, 1992, 1998\nĮvedamasis straipsnis,\nVytautas Berenis, 1992, 1998\nĮvedamasis straipsnis,\nNorbertas Vėlius, 1992, 1998\nĮvedamasis straipsnis, paaiškinimai,\npapildymų vertimas, Reda Griškaitė,"
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

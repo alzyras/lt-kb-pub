@@ -94,12 +94,10 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   pagrindžia:
     - c-179351
 
-## Citatos
-
-- id: c-172960
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir prefektas, pateikė vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Pačiuose Prūsuose yra panašių
     vietų, kurių suskaičiuojama iki šešeto, o Hartknochas veltui
@@ -116,6 +114,31 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
     Kol buvo įkurtas Vilnius, XIII amžiuje valstybės sostinė ir
     vyriausiojo žynio buveinė buvo Kernavėje, todėl ten turėjo būti
     ir vyriausioji šventykla.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-172960
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Tai ir buvo toji šventykla, vėliau paversta svirnu,
+    tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
+    nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į
+    mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars
+    Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė
+    ponas Laurinavičius -  garbingasis Kauno mokyklos profesorius
+    ir prefektas)*.
+    Kur ir kokios šventyklos buvo tikrojoje Lietuvoje, Žemai­
+    tijoje ir latvių žemėse iki XIII amžiaus -  apie tai istorijos liu­
+    dijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­
+    nė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­
+    suose.
   citata_rodoma: "Tai ir buvo toji šventykla, vėliau paversta svirnu,\ntai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­\nnyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į\nmokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars\nRomana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė\nponas Laurinavičius -  garbingasis Kauno mokyklos profesorius\nir prefektas)*.\nKur ir kokios šventyklos buvo tikrojoje Lietuvoje, Žemai­\ntijoje ir latvių žemėse iki XIII amžiaus -  apie tai istorijos liu­\ndijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­\nnė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­\nsuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

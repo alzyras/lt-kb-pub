@@ -143,14 +143,11 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Į tai ji atsakė:
-    „Visą laiką be galo pamaldžiai garbinau šventą Barborą, dėl to šiąnakt ji man tris kartus
-    pasirodė pasikaišiusi drabužius, nelyginant išsirengusi pasivaikščioti, o aš jai tariau:
-    „Kur eini, šventoji mergele?“ Ji atsakė:  „Ketinu nueiti į Kulmo miestą ir ten išklausyti
-    mišių“. O trečią kartą pasirodžiusi, ji man tarė: „Lik sveika, mano mieloji“; aš pašokau iš
-    savo guolio ir palydėjau ją ligi savo namo durų, kur, jai pranykus, išvydau jus ginkluotus
-    pilyje. Dėl to aiškiai supratau, jog dėl jos nuopelnų ir maldų jūs užėmėte štai šią pilį,
-    272  Sartovicai, Sartowice (D.— Sardewicz, J. — Schartowitz) — į šiaurės rytus nuo dab.
+    Šitai padarę, aptiko viename
+    rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei
+    kankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už
+    tokios šlovingos dovanos suradimą. Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
+    išėjo iš rūsio.
   citata_rodoma: "Šitai padarę, aptiko viename\nrūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei\nkankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už\ntokios šlovingos dovanos suradimą. Pakilę pasiėmė šią šventą relikviją ir džiūgaudami\nišėjo iš rūsio."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

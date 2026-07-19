@@ -436,29 +436,47 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - susijęs iš Maskva: 1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.
 - susijęs iš Pskovas: Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.
 ## Reikšmingi paminėjimai
+- c-020
+  santrauka: 'Lietuvos metraštis vaizduoja, kad naugardiečiai pagerbė Sofiją ir Joną Algimantaitį ir nulydėjo juos į Maskvą pas Vasilijų Dimitrijevičių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didysis kunigaikštis Vytautas atidavė savo dukterį ku­
+    nigaikštytę Sofiją ir išleido ją iš Marienburgo, o su
+    ja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš
+    Gdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­
+    mi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos
+    labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
+    gardo. Naugardiečiai taip pat pareiškė jiems didelę
+    pagarbą ir pagerbdami nulydėjo juos į Maskvą, pas
+    didjjį kunigaikštį Vasilijų Dimitrijevičių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: not_found
 - c-021
   santrauka: 'Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Apie juos senovės Graikijos
-    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
-    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
-    ir paties Herodoto išvardytų.
-    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
-    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
-    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
-    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
-    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
-    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
-    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
-    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
-    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
-    mokėjo gana neblogai gintis.
+    Ne be pagrindo tyrėjai sugalvojo susekti seniausią
+    tautų istoriją iš jų gimtosios kalbos, nes rezultatas dažniausiai
+    apvainikuodavo jų pastangas visiškai naujais, iki šiol visiškai
+    nežinomais ir visiškai tikrais atradimais. Nesigilinsime į tų at­
+    radimų smulkmenas, kaip teko su jais padirbėti; neturime nė
+    tikslo mėgdžioti etimologinius išvedžiojimus, kaip tik gana pa­
+    plitusius, kadangi visam laikui pasirinkome savo pačių atrastą
+    kelią, kuriame neturi būti vietos etimologinėms išmonėms, pri­
+    temptoms daiktų ir žodžių panašybėmis, išskyrus tik tas, ku­
+    rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
+    daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
+    tymo. Mechovita sako: „... linguagium Lithuanicum est quadri­
+    partitum: primum linguagium est Iaczuingomm, ut horum qui
+    circa castrum Drochicin inhabitarunt, et pauci supemint.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -860,20 +878,20 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ne be pagrindo tyrėjai sugalvojo susekti seniausią
-    tautų istoriją iš jų gimtosios kalbos, nes rezultatas dažniausiai
-    apvainikuodavo jų pastangas visiškai naujais, iki šiol visiškai
-    nežinomais ir visiškai tikrais atradimais. Nesigilinsime į tų at­
-    radimų smulkmenas, kaip teko su jais padirbėti; neturime nė
-    tikslo mėgdžioti etimologinius išvedžiojimus, kaip tik gana pa­
-    plitusius, kadangi visam laikui pasirinkome savo pačių atrastą
-    kelią, kuriame neturi būti vietos etimologinėms išmonėms, pri­
-    temptoms daiktų ir žodžių panašybėmis, išskyrus tik tas, ku­
-    rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
-    daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
-    tymo. Mechovita sako: „... linguagium Lithuanicum est quadri­
-    partitum: primum linguagium est Iaczuingomm, ut horum qui
-    circa castrum Drochicin inhabitarunt, et pauci supemint.
+    Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
+    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
+    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
+    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
+    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
+    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
+    mokėjo gana neblogai gintis.
   citata_rodoma: "Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę. Vėliau iš skandinavų legendų arba iš gana\nfragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­\nvusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,\nkad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­\njo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius\ndėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai\nmokėjo gana neblogai gintis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

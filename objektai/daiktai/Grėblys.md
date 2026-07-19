@@ -79,11 +79,7 @@ Nenurodyta
   puslapiai: "p. 35 (PDF 33)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 35 (PDF 33)."
   citata_originali: |
-    ras vienu grėbliu nešdavo visą pūdą šieno. Kad paduoti šieną ant bal­
-    kio, motina atremia į balkį dvi sklidžias karteles, pavyzdžiui, naščius,
-    ir jais užvaro plaką ant galo, grėbliu stumdama. Vaikai ant galo
-    irgi išmokyti priimti plaką, be to mokslo plakas suirs ir nukris vėl ant
-    žemės.
+    ..., grėbliu stumdama.
   citata_rodoma: "..., grėbliu stumdama."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"

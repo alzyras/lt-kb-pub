@@ -57,16 +57,6 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
 
 ## Teiginiai
 
-<a id="claim-t-195509"></a>
-- t-001
-  teiginys: "Linartai buvo du broliai, mėgę išgerti ir stokoję pinigų."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177931
-
 <a id="claim-t-195510"></a>
 - t-002
   teiginys: "Vienas Linartas, atgynęs nuo kivirčo, pritapo prie geriančios draugijos."
@@ -113,23 +103,17 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
   citata_rodoma: "Juk Ažytėnai — menka vietelė, bet kai degtinė čia gyveno, matai, ko čia nebuvo: čia mušėsi, čia taikėsi, o taiką užgerdavo degtine, ir vėl mušėsi."
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-177932
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 102 (PDF 100)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 102 (PDF 100)."
   citata_originali: |
-    Dabar Antanas atsisėdo šalia geriančio Plačiuko, pykdamas:
-    „Mat, snarglys, jis čia atmins pernykščius ar užpernykščius daiktus.“
-    Kaip dabar Plačiukui neužgerti Linarto, kad jis, Linartas, toks geras,
-    atgynė nuo ano durniaus. Ot, ir pritapo Linartas prie geriančios drau­
-    gijos.
+    Dabar Antanas atsisėdo šalia geriančio Plačiuko, pykdamas: „Mat, snarglys, jis čia atmins pernykščius ar užpernykščius daiktus.“ Kaip dabar Plačiukui neužgerti Linarto, kad jis, Linartas, toks geras, atgynė nuo ano durniaus. Ot, ir pritapo Linartas prie geriančios draugijos.
   citata_rodoma: "Dabar Antanas atsisėdo šalia geriančio Plačiuko, pykdamas: „Mat, snarglys, jis čia atmins pernykščius ar užpernykščius daiktus.“ Kaip dabar Plačiukui neužgerti Linarto, kad jis, Linartas, toks geras, atgynė nuo ano durniaus. Ot, ir pritapo Linartas prie geriančios draugijos."
   statusas: verified
   atnaujinta: "2026-07-12 04:52"

@@ -46,20 +46,6 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
   pagrindžia:
     - c-170309
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    “  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus
-    vyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede-
-    vų, Pumų, S vyruotus ir Šešuolius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-170309
@@ -67,15 +53,9 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    1484 m. Petras Jonaitis Mantgirdaitis buvo Lucko seniūnu
-    ir Volynės žemės maršalu (1487 m.), o Trakų vaivada — nuo 1490 m.
-    22 Liga visai galima, nes iš tikrųjų Petras Jonaitis Mantgirdai­
-    tis mirė 1497 m.
-    23 Lietuvos didžiuoju etmonu Petras Jonaitis Mantgirdaitis var­
-    gu ar buvo, nes ši
-    pareigybė buvo įvesta kaip tik jo mirties
-    metais (1497); pirmuoju LDK didžiuoju etmonu buvo paskirtas Kons­
-    tantinas Ostrogiškis (žr. past. 24).
+    “  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus
+    vyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede-
+    vų, Pumų, S vyruotus ir Šešuolius.
   citata_rodoma: "“  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus \nvyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede- \nvų, Pumų, S vyruotus ir Šešuolius."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

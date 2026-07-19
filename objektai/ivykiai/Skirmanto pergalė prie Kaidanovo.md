@@ -119,6 +119,25 @@ Nenurodyta
     - c-170450
 
 ## Reikšmingi paminėjimai
+- c-002
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
+    vo kariaunas, pasitiko juos Kaidanove l0, prie savo sie­
+    nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
+    galybę, ir nukovė patį chaną ", Su didžios pergalės
+    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
+    Černigovo, Starodubo l3, Karačevo M miestus, ir, laimė­
+    jęs pergalę, be nuostolių pargrįžo atgalios.
+    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
+    vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+
 - c-003
   santrauka: 'Lietuvos metraščio pasakojime Skirmantas prie Kaidanovo nukovė totorių chaną, paėmė kelis Rusų žemės miestus ir grįžo be nuostolių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -142,6 +161,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+
 ## Citatos
 
 - id: c-170450
@@ -176,14 +196,14 @@ Nenurodyta
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Skirmantas, surinkęs visas sa­
-    vo kariaunas, pasitiko juos Kaidanove l0, prie savo sie­
+    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
     nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
     galybę, ir nukovė patį chaną ", Su didžios pergalės
     šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
-    Černigovo, Starodubo l3, Karačevo M miestus, ir, laimė­
+    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
     jęs pergalę, be nuostolių pargrįžo atgalios.
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
-    vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
+    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
   citata_rodoma: "Didysis kunigaikštis Skirmantas, surinkęs visas sa­\nvo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­\nnos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją\ngalybę, ir nukovė patį chaną \", Su didžios pergalės\nšlove nužygiavo Rusų žemėn ir paėmė Mozyriaus\nČernigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­\njęs pergalę, be nuostolių pargrįžo atgalios.\nTurėjo didysis kunigaikštis Skirmantas tris sūnus:\nvieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

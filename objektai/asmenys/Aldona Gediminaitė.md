@@ -35,32 +35,19 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Aldona Gediminaitė
 
 ## Santrauka
 
 Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ištekėjusi už Kazimiero ir vėliau vadinta Lenkijos karaliene.
 
-## Teiginiai
+## Ryšiai
 
-<a id="claim-t-05154"></a>
-- t-004
-  teiginys: "Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi."
-  atnaujinta: "2026-05-31 12:01"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_dukte -> Gediminas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aldona Gediminaitė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Claim ir citata tiesiogiai įvardija Aldoną Gedimino dukterimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Aldona Gediminaitė buvo duktė Gediminas (0.97); Gediminas kariavo prieš Kryžiuočių ordinas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-04825
+### Susiję objektai
+- [[objektai/asmenys/Kazimieras Didysis]]
+
+## Teiginiai
 
 <a id="claim-t-05155"></a>
 - t-005
@@ -274,7 +261,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-009
     - t-008
     - t-014
@@ -384,7 +370,3 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   pagrindzia:
     - t-003
     - t-013
-
-## Ryšiai
-- Sutuoktiniai: [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]], [[objektai/asmenys/Kazimieras Didysis]]
-- Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

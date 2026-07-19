@@ -149,36 +149,6 @@ media_all_json: |-
   pagrindžia:
     - c-169719
 
-<a id="claim-t-186361"></a>
-- t-006
-  teiginys: "Lietuvos maršalas Mikalojus Radvila sutelkė kariuomenę ir palydėjo Jerim Berdį į skitų kraštą."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Radvila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Radvila: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila\" parinktas kaip owner_note_path. Targetas \"Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169716
-
-<a id="claim-t-196561"></a>
-- t-014
-  teiginys: "Mikalojus Radvila, vykdydamas įsakymą, sutelkė Lietuvos žemėse kariuomenę ir patraukė su Jerim Berdžiu į skitų kraštą."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169716
-
 <a id="claim-t-196562"></a>
 - t-015
   teiginys: "Mikalojus Radvila užpuolė priešą ir jį sumušė."
@@ -350,14 +320,13 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Todėl ir Jerim Berdį iškilmingai paskelbė
-    teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
-    norėjęs tik pasityčioti, iškilmingai suteikdamas nieko
-    nereiškiantį titulą, pasiryžo visaip jį paremti ir sugrą­
-    žinti į valdžią. Jis įsakė Lietuvos maršalui Mikalojui
-    Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
-    menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
-    mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
+    Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei
+    į vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat
+    karių, abi buvo vienodai narsios. Vis dėlto Radvila ne­
+    galėjo sutikti, kad jo kariai visą laiką tik stebėtų kau­
+    tynes: smogęs priešams į sparną, jis nulėmė sėkmę.
+    Neilgai trukus priešai pasileido bėgti: žuvus karo kė­
+    lėjui, visi kaip vienas paspruko iš kovos lauko.
   citata_rodoma: "Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei\nį vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat\nkarių, abi buvo vienodai narsios. Vis dėlto Radvila ne­\ngalėjo sutikti, kad jo kariai visą laiką tik stebėtų kau­\ntynes: smogęs priešams į sparną, jis nulėmė sėkmę.\nNeilgai trukus priešai pasileido bėgti: žuvus karo kė­\nlėjui, visi kaip vienas paspruko iš kovos lauko."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -366,8 +335,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-006
-    - t-014
 
 - id: c-169718
   autorius: "Michał Baliński"

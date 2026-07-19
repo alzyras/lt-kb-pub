@@ -9,14 +9,14 @@ datos:
   - '1840 m.'
 date_start: '1838'
 date_end: '1840'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -123,20 +123,6 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
 - susijęs iš [[objektai/ivykiai/Ukmergės pilkapio atkasimas Karolio Kozakovskio.md#claim-t-192489|Ukmergės pilkapio atkasimas Karolio Kozakovskio]]: Ukmergės pilkapį, ilgai užlietą greta esančio ežero, 1838 m. atkasė Karolis Kozakovskis.
 - susijęs iš [[objektai/ivykiai/Ukmergės pilkapio atkasimas Karolio Kozakovskio.md#claim-t-192044|Ukmergės pilkapio atkasimas Karolio Kozakovskio]]: 1838 m. Karolis Kozakovskis atkasė Ukmergės pilkapį.
 - susijęs iš [[objektai/asmenys/Juozapas Pomarnackis.md#claim-t-190166|Juozapas Pomarnackis]]: Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių kapinyno kasinėjimus.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Karolis Kozakovskis 1840 m. sausio 27 d. iš Kurėnų pateikė informaciją ir atsiuntė daug iškasenų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš
-    Kurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė
-    Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172955
@@ -164,14 +150,9 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vienas sveikas, kitas sudaužytas,
-    rasti žemės paviršiuje, yra taip nugludinti, lyg su šlifavimo ma­
-    šina, o tas, kuris rastas pilkapyje, dėl akmens dūlėjimo turi
-    šiurkštų paviršių. Tai palikimas seniausių šios žemės gyvento­
-    jų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos
-    mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,
-    šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę
-    rasti Lydos apskrityje.
+    9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš
+    Kurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė
+    Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.
   citata_rodoma: "9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš\nKurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė\nLvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

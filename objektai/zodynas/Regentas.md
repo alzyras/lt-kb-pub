@@ -61,12 +61,10 @@ Vaitiekaus Jučo pareigoms nusakyti.
     - c-175128
 - susijęs iš [[objektai/paprociai/Teisminių reikalų tvarkymas per advokatus ir regentus.md#claim-t-200558|Teisminių reikalų tvarkymas per advokatus ir regentus]]: 1751 m. Lopacinskis nurodė regentui Ščepanovskiui sumokėti advokatui Glindzičiui 15 auksinų.
 - susijęs iš [[objektai/paprociai/Teisminių reikalų tvarkymas per advokatus ir regentus.md#claim-t-200557|Teisminių reikalų tvarkymas per advokatus ir regentus]]: Jei advokatas būtų pareikalavęs daugiau, Lopacinskis žadėjo jam nedelsdamas sumokėti ir papildomą sumą.
-## Citatos
-
-- id: c-175128
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
@@ -81,6 +79,20 @@ Vaitiekaus Jučo pareigoms nusakyti.
     figūrą.
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
     leidimą (PEĮ.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-175128
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dvare, priklausančiame grafienei Choueseul, tą dievuką gavau iš kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko aplankyti savo brolį.
   citata_rodoma: "Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dvare, priklausančiame grafienei Choueseul, tą dievuką gavau iš kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko aplankyti savo brolį."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

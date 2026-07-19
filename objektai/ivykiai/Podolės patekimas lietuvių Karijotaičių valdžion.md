@@ -10,12 +10,12 @@ datos:
   - '1362 m.'
 date_start: '1349'
 date_end: '1362'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -76,6 +76,22 @@ Nenurodyta
   pagrindžia:
     - c-169935
 
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    5 Podolė — istorinis pavadinimas Ukrainos dalies (į šiaurę nuo
+    Karpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių
+    baseinų). D abar— UTSR Ternopolio, Chmelnickio Ir Vinicos sritys.
+    XV a. tarp Lietuvos ir Lenkijos ėjo aštrūs ginčai dėl Podolės
+    vakarinės dalies. Ta proga parašytas ir Lietuvos metraščių pasako­
+    jimas apie Podolės patekimų Lietuvos kunigaikščių valdžion.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169935
@@ -85,8 +101,8 @@ Nenurodyta
   citata_originali: |
     5 Podolė — istorinis pavadinimas Ukrainos dalies (į šiaurę nuo
     Karpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių
-    baseinų). D abar— UTSR Ternopolio, Chmelnickio Ir Vinicos sritys.
-    XV a. tarp Lietuvos ir Lenkijos ėjo aštrūs ginčai dėl Podolės
+    baseinų). D ab ar— UTSR Ternopolio, Chmelnickio Ir Vinicos sritys.
+    XV a. tarp Lietuvos ir Lenkijos ėjo  aštrūs ginčai dėl Podolės
     vakarinės dalies. Ta proga parašytas ir Lietuvos metraščių pasako­
     jimas apie Podolės patekimų Lietuvos kunigaikščių valdžion.
   citata_rodoma: "5 Podolė — istorinis pavadinimas Ukrainos dalies (į šiaurę nuo \nKarpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių \nbaseinų). D ab ar— UTSR Ternopolio, Chmelnickio Ir Vinicos sritys.\nXV a. tarp Lietuvos ir Lenkijos ėjo  aštrūs ginčai dėl Podolės \nvakarinės dalies. Ta proga parašytas ir Lietuvos metraščių pasako­\njimas apie Podolės patekimų Lietuvos kunigaikščių valdžion."

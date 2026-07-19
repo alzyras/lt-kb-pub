@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # muitas thelonea
 
 ## Santrauka
@@ -39,11 +40,12 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
 <a id="claim-t-86424"></a>
 - t-003
   teiginys: "Vilniaus miestiečiams ir pirkliams buvo nurodyta mokėti muito, čopės ir šoso rinkliavas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82403
+    - c-82404
 
 <a id="claim-t-86425"></a>
 - t-001
@@ -149,6 +151,7 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-001
 
 - id: c-82405

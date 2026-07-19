@@ -156,22 +156,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: '1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Jį
-    pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
-    dievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo
-    į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
-    be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių. Sumuštas
-    kunigaikštis su būreliu kitų vyrų taip slaptai sugrįžo pas savo karius, paliktus siausti pilies,
-    kad apsuptieji nė negalėjo suprasti, kuo baigėsi mūšis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-004
   santrauka: 'Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -192,22 +176,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-006
-  santrauka: '1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Galop jo nedorybė užrūstino
-    dievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi
-    pilį, nakties metu slaptai perėjo ledu Vyslą ir daugelyje vietų apiplėšė Kulmo žemę. Jį
-    pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
-    dievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo
-    į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
-    be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -216,16 +184,14 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pagaliau pats dievas,
-    niekad neapleidžiantis tų, kurie jį tiki, pasiuntė broliams iš dangaus pagalbą bei pergalę,
-    ir jie, išžudę visus, išskyrus kelis, kurie išsigelbėjo pabėgdami, surišo pančiais šimtą
-    penkiasdešimt ten paimtų nelaisvėn moterų su vaikais. Šitai padarę, aptiko viename
-    rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei
-    kankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už
-    tokios šlovingos dovanos suradimą. Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
-    išėjo iš rūsio. Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
-    tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
-    palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
+    Vienas jų, būtent
+    brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso
+    širdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi
+    ginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei kankinės Barboros išvakarėse,
+    priėjo prie Sventopelko pilies Sartovicų272 ir, apstatę sienas kopėčiomis, slapta įsigavo
+    į vidų ir ten surado penkiasdešimt vyrų, paliktų jos saugoti; šių būta stiprių ir įgudusių
+    kovoti, tačiau broliai drauge su dvidešimt keturiais ginklanešiais juos drąsiai užpuolė.
+    Užpultieji narsiai priešinosi, gindami pilį.
   citata_rodoma: "Vienas jų, būtent\nbrolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso\nširdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi\nginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei kankinės Barboros išvakarėse,\npriėjo prie Sventopelko pilies Sartovicų272 ir, apstatę sienas kopėčiomis, slapta įsigavo\nį vidų ir ten surado penkiasdešimt vyrų, paliktų jos saugoti; šių būta stiprių ir įgudusių\nkovoti, tačiau broliai drauge su dvidešimt keturiais ginklanešiais juos drąsiai užpuolė.\nUžpultieji narsiai priešinosi, gindami pilį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -240,15 +206,13 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai prūsai pastebėjo tiek maža žmonių, [susibūrusių] prie brolių vėliavos, atgavo
-    jėgas bei drąsą, staiga juos užpuolė, nužudė maršalą, visus brolius ir 400 vyrų, išskyrus
-    10, kuriems pavyko pasprukti. Galop atskubėjo Torunės broliai su dviem šimtais vyrų į
-    maršalo skirtą vietą, jie atvyko tą valandą, kurią buvo numatęs maršalas, tačiau pabėgo,
-    pamatę išžudytus brolius. Prūsai besivydami daugybę išžudė, o kiti pabėgo280. Taigi
-    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų į nelaisvę.
-    Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
-    negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
-    į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
+    Apie tai sužinoję, Kulmo pilies broliai pasekė
+    juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis
+    Ditrichas, buvęs maršalas, pasiūlė užpulti likusiąją jų dalį, tikindamas, kad ji būsianti
+    išžudyta anksčiau, nei kiti suskubs grįžti jai  į pagalbą. Šiam sumanymui pasipriešino
+    brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes
+    jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo
+    ir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti.
   citata_rodoma: "Apie tai sužinoję, Kulmo pilies broliai pasekė\njuos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis\nDitrichas, buvęs maršalas, pasiūlė užpulti likusiąją jų dalį, tikindamas, kad ji būsianti\nišžudyta anksčiau, nei kiti suskubs grįžti jai  į pagalbą. Šiam sumanymui pasipriešino\nbrolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes\njiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo\nir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -263,15 +227,13 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai maršalas ketino vėl susigrumti su kunigaikščio
-    kariuomene, Sventopelkas, iš pirmo pralaimėto mūšio tikrai ir aiškiai suvokdamas, jog
-    dievas yra didžiai ant jo užsirūstinęs, ir neabejodamas, jog dieviškosios globos skydas
-    jo nebedengsiąs, be galo išsigando ir taip ištižo, kad nei jis pats, nei dauguma karių
-    nedrįso bent šiek tiek palaukti nedidelės kariuomenės, o gėdingai pasileido bėgti. Šitai
-    matydamas, maršalas atsargiai pasistūmėjo į priekį ir sudegino priešų palapines274. Mat
-    jis, prisibijodamas kunigaikščio klastos, kuri nelyginant vylinga lapė dažnai prigauna
-    sumanų medžiotoją, nedrįso persekioti bėgančiųjų, bet per visą dieną išlaikė savo
-    kariuomenę sutelktą, užtaisydamas pilies sienoje išlaužas, padarytas puolant.
+    Jį
+    pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
+    dievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo
+    į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
+    be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių. Sumuštas
+    kunigaikštis su būreliu kitų vyrų taip slaptai sugrįžo pas savo karius, paliktus siausti pilies,
+    kad apsuptieji nė negalėjo suprasti, kuo baigėsi mūšis.
   citata_rodoma: "Jį\npasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu\ndievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo\nį kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;\nbe kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių. Sumuštas\nkunigaikštis su būreliu kitų vyrų taip slaptai sugrįžo pas savo karius, paliktus siausti pilies,\nkad apsuptieji nė negalėjo suprasti, kuo baigėsi mūšis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -332,17 +294,13 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Sumuštas
-    kunigaikštis su būreliu kitų vyrų taip slaptai sugrįžo pas savo karius, paliktus siausti pilies,
-    kad apsuptieji nė negalėjo suprasti, kuo baigėsi mūšis. Dėl to jie pasiuntė pas maršalą
-    vieną brolį, kuriam pavedė sužinoti, kuo ten iš tiesų viskas baigėsi; maršalas, viską
-    paaiškinęs, pasiuntė jį atgal, įsakydamas, kad tada, kai jis stosiąs į kovą su Sventopelko
-    kariuomene, jie nusileistų iš pilies ir jam talkintų, be to, pridurdamas, kad pilį valdysią
-    tie, kurie čia iškovosią pergalę. Kai maršalas ketino vėl susigrumti su kunigaikščio
-    kariuomene, Sventopelkas, iš pirmo pralaimėto mūšio tikrai ir aiškiai suvokdamas, jog
-    dievas yra didžiai ant jo užsirūstinęs, ir neabejodamas, jog dieviškosios globos skydas
-    jo nebedengsiąs, be galo išsigando ir taip ištižo, kad nei jis pats, nei dauguma karių
-    nedrįso bent šiek tiek palaukti nedidelės kariuomenės, o gėdingai pasileido bėgti.
+    Galop jo nedorybė užrūstino
+    dievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi
+    pilį, nakties metu slaptai perėjo ledu Vyslą ir daugelyje vietų apiplėšė Kulmo žemę. Jį
+    pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
+    dievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo
+    į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
+    be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių.
   citata_rodoma: "Galop jo nedorybė užrūstino\ndievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi\npilį, nakties metu slaptai perėjo ledu Vyslą ir daugelyje vietų apiplėšė Kulmo žemę. Jį\npasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu\ndievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo\nį kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;\nbe kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

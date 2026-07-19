@@ -54,10 +54,7 @@ Taisyklės formos formulė apie dienos ir valgio atitikmenį.
   puslapiai: "p. 152 (PDF 150)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 152 (PDF 150)."
   citata_originali: |
-    Advento metu pasninkaudavo tris dienas per savaitę: trečiadie­
-    nį, penktadienį, šeštadienį. Išverda kopūstų ar burokų be jokio užda­
-    ro — ir srėbk duona užsikąsdamas. Sakoma: kokia diena, toks ir val­
-    gis.
+    Sakoma: kokia diena, toks ir valgis.
   citata_rodoma: "Sakoma: kokia diena, toks ir valgis."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"

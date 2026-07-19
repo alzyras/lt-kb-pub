@@ -97,9 +97,31 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     - c-172094
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti kaip „mildauninkas“ ir iš jo padaryti deivės Mildos vardą.'
+- c-005
+  santrauka: 'Mildauninkai turėjo vaistų, žadinančių ir slopinančių meilę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    158
+
+    ## Puslapis 158
+
+    žimu, traukiamu poros baltų kaip sniegas balandžių, todėl jos
+    valdžią visur pažino. Mildauninkai turėjo vaistų, žadinančių ir
+    slopinančių meilę. Mūsų kraštuose dar išliko dainelė, susijusi
+    su tuo dievuku:
+    Skrindau Kaunis iž tola,
+    Kur vvassara umžynoja.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-172091
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O
     šią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse
@@ -108,60 +130,6 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     viso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­
     tas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­
     dą Milda.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų deivę, kuriai buvęs skirtas balandžio mėnuo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Milda (Milda)
-    Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­
-    kose apie ją nėra nieko konkretaus, vien šiokie tokie spėlioji­
-    mai, tačiau padavimai, pasakojimai ir kai kurios liaudies dai­
-    nos paaiškina tą mitą. Straipsnyje „Kaunis“ bus nurodyti šalti­
-    niai ir įrodymai; čia suminėsime tai, kas tiesiogiai liečia šią
-    Lietuvos Venerą.
-    Jai buvo skirtas balandžio mėnuo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Narbutas rašė, kad Kauno apylinkėse mildauninkais vadinti meilėje padedantys kerėtojai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
-    deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
-    to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
-    buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip
-    pastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar
-    kerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-
-    kais (Mildawnikas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172091
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Surandama ir moneta,
-    iliustruojanti šį „pasakojimą“. O kad skaitytojas nesumanytų
-    abejoti, ten yra ir lietuviškas užrašas: „Paklus, Nijola“. Nijolės
-    vardas esąs kilęs iš dviejų žodžių: Nija, reiškiančio „slavų Ce-
-    reros, arba lietuvių Krūminės, vardą“ (panašia prasme šį žodį
-    minėjo J. Dlugošas ir M. Strijkovskis), ir ola - „požeminis ur­
-    vas“. Ar tik ši „etimologija“ nerodo, kaip vardas Nijolė buvo
-    sukurtas?
   citata_rodoma: "O\nšią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse\ntam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,\nkauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš\nviso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­\ntas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­\ndą Milda."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -174,15 +142,14 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Buvęs Vilniaus universi­
-    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
-    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
-    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
-    kimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­
-    lininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.
-    Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
-    nas man papasakojo gerbiamas profesorius ponas Laurinavi­
-    čius.
+    Milda (Milda)
+    Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­
+    kose apie ją nėra nieko konkretaus, vien šiokie tokie spėlioji­
+    mai, tačiau padavimai, pasakojimai ir kai kurios liaudies dai­
+    nos paaiškina tą mitą. Straipsnyje „Kaunis“ bus nurodyti šalti­
+    niai ir įrodymai; čia suminėsime tai, kas tiesiogiai liečia šią
+    Lietuvos Venerą.
+    Jai buvo skirtas balandžio mėnuo.
   citata_rodoma: "Milda (Milda)\nMeilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­\nkose apie ją nėra nieko konkretaus, vien šiokie tokie spėlioji­\nmai, tačiau padavimai, pasakojimai ir kai kurios liaudies dai­\nnos paaiškina tą mitą. Straipsnyje „Kaunis“ bus nurodyti šalti­\nniai ir įrodymai; čia suminėsime tai, kas tiesiogiai liečia šią\nLietuvos Venerą.\nJai buvo skirtas balandžio mėnuo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -197,15 +164,13 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
-    nas man papasakojo gerbiamas profesorius ponas Laurinavi­
-    čius. „Reikėtų priminti ir tai, - rašoma jo laiške, - jog amžiną
-    atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­
-    vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­
-    raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš,
-    norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
-    išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
-    kirsti angą ir ją sutvirtinti.
+    O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
+    deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
+    to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
+    buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip
+    pastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar
+    kerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-
+    kais (Mildawnikas).
   citata_rodoma: "O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji\ndeivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­\nto priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais\nbuvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip\npastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar\nkerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-\nkais (Mildawnikas)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

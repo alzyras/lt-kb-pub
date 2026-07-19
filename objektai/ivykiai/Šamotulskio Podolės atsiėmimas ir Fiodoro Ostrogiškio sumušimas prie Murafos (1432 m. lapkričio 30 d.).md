@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)
 
 ## Santrauka
@@ -59,18 +60,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168863
-
-<a id="claim-t-185502"></a>
-- t-002
-  teiginys: "Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168862
 
 <a id="claim-t-185503"></a>
 - t-003
@@ -176,7 +165,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-004
 
 - id: c-168863

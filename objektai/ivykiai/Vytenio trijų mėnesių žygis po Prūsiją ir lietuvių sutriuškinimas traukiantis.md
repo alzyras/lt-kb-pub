@@ -7,13 +7,13 @@ datos:
   - '1294 m.'
 date_start: '1294'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,12 +70,10 @@ Nenurodyta
   pagrindžia:
     - c-169196
 
-## Citatos
-
-- id: c-169196
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vytenis beveik tris mėnesius siaubė Prūsiją, kol kryžiuočiai užklupo grįžtančius lietuvius ir beveik visus išžudė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis
     dėlto kryžiuočiai, padarę savo darbą, jau buvo sku­
@@ -101,6 +99,39 @@ Nenurodyta
     vės apygardos išvarė visus gyvulius, išžudė čia dau­
     gybę žmonių, į vergiją išsivedė tik septyniasdešimt
     galvų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169196
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Gavęs šią ži­
+    nią, Vytenis su didžiulėmis jėgomis, neseniai sutelkto­
+    mis kitam žygiui, kuo greičiausiai ten nuskubėjo. Vis
+    dėlto kryžiuočiai, padarę savo darbą, jau buvo sku­
+    biai pasitraukę, todėl Vytenis ėmė juos vytis grįžtan­
+    čius, tykoti priešo jo žemėje, o vėliau, niekur neuž­
+    tikęs nei pačios kariuomenės, nei stovyklos, bastytis
+    su pulkais po visą kraštą ir niokoti. Beveik tris mė­
+    nesius visą Prūsiją siaubė žudynės ir gaisrai. Tuo tar­
+    pu kryžiuočiai, nedrįsdami sueiti į atvirą kovą su ga­
+    lybe siautėjančių karių, laukė tinkamos progos, galop
+    jie užklupo lietuvius, kai šie, grįždami siaurais keliais,
+    susigrūdo, apsikrovę grobiu, į krūvą, ir beveik visus
+    išžudė, išsigelbėjo nedidelis
+    1294 m e ta i
+    būrelis, kurie su Vyteniu, pa-
+    K ry žiu o č ia i d a u g  k a i-
+    likę kitus karius, išsislapstė
+    tų p u o la  L ie tu vą
+    miškuose.
   citata_rodoma: "Gavęs šią ži­\nnią, Vytenis su didžiulėmis jėgomis, neseniai sutelkto­\nmis kitam žygiui, kuo greičiausiai ten nuskubėjo. Vis\ndėlto kryžiuočiai, padarę savo darbą, jau buvo sku­\nbiai pasitraukę, todėl Vytenis ėmė juos vytis grįžtan­\nčius, tykoti priešo jo žemėje, o vėliau, niekur neuž­\ntikęs nei pačios kariuomenės, nei stovyklos, bastytis\nsu pulkais po visą kraštą ir niokoti. Beveik tris mė­\nnesius visą Prūsiją siaubė žudynės ir gaisrai. Tuo tar­\npu kryžiuočiai, nedrįsdami sueiti į atvirą kovą su ga­\nlybe siautėjančių karių, laukė tinkamos progos, galop\njie užklupo lietuvius, kai šie, grįždami siaurais keliais,\nsusigrūdo, apsikrovę grobiu, į krūvą, ir beveik visus\nišžudė, išsigelbėjo nedidelis\n1294 m e ta i\nbūrelis, kurie su Vyteniu, pa-\nK ry žiu o č ia i d a u g  k a i-\nlikę kitus karius, išsislapstė\ntų p u o la  L ie tu vą\nmiškuose."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

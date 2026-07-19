@@ -81,14 +81,7 @@ Vietinė etninė bendruomenė.
   puslapiai: "p. 151 (PDF 149)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 151 (PDF 149)."
   citata_originali: |
-    Praaušus atsikelia šeiminin­
-    kė ir žadina visus kelti ir valgyti pusryčių.
-    Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną
-    ne dieną pradėdamas, bet visada eidamas valgyti
-    pusryčių.
-    Mums
-    įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyven­
-    ti su mumis ir skiriasi kalba ir būdu.
+    Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu.
   citata_rodoma: "Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu."
   statusas: verified
   atnaujinta: "2026-07-12 04:52"

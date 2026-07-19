@@ -92,6 +92,38 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
   pagrindžia:
     - c-168169
 - susijęs iš [[objektai/ivykiai/Karine klasta paimamas kryžiuočių laivas.md#claim-t-185802|Karine klasta paimamas kryžiuočių laivas]]: Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Nodamas pažadėjo įgulos vadui padėti taip, kad kariai galėtų susikauti su priešu ir jį nugalėti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tarp kitų ten buvo ir Nodamas, jaunas, narsus ir
+    labai stiprus karys; jis pažadėjo vadui padėti, tegu tik
+    kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad
+    jie galės ne tik susikauti, bet ir nugalėti. Tiesiai per
+    laukus ir miškus užbėgęs už akių priešams, pamažu
+    plaukiantiems prieš vandenį vingiuota upe, toje vie­
+    toje, kur pakrantės slėnyje galybė tankių brūzgynų,
+    jis paslėpė ginkluotus karius, o pats, persirengęs len­
+    ke, ėmė, vos išvydęs atplaukiant laivą, verksmingu
+    m
+
+    balsu lenkiškai dejuoti. Jei jie esą krikščionys, lenkų
+    bičiuliai, tepasigailį krikščionės, lenkės. Ji turinti Len­
+    kijoje daug turtų, daug tarnų, visais šventaisiais ji pri­
+    siekianti, kad vėliau jiems neteksią gailėtis, jeigu jai,
+    vargšei, bus suteikę pagalbą. Bet jeigu ji ir nebeturėtų
+    kuo atsiteisti, bendro tikėjimo ir dievo vardu ji mal­
+    daujanti, kad jos, krikščionės, galėdami be didelio var­
+    go išgelbėti, nepaliktų šioje vietoje, nes ji arba badu
+    mirsianti, arba, jeigu vėl į barbarų rankas pakliūsian-
+    ti, nustosianti ir šlovės, ir gyvybės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-61027
@@ -124,7 +156,10 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tarp kitų ten buvo ir Nodamas, jaunas, narsus ir
+    Vis dėlto jis sušaukė įgulą ir visus para­
+    gino sugalvoti kokią gudrybę, kuri leistų padaryti prie­
+    šui žalos, nes šiuo metu nesą galimybės panaudoti jė­
+    gos. Tarp kitų ten buvo ir Nodamas, jaunas, narsus ir
     labai stiprus karys; jis pažadėjo vadui padėti, tegu tik
     kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad
     jie galės ne tik susikauti, bet ir nugalėti. Tiesiai per
@@ -135,16 +170,9 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
     ke, ėmė, vos išvydęs atplaukiant laivą, verksmingu
     m
 
-    balsu lenkiškai dejuoti. Jei jie esą krikščionys, lenkų
-    bičiuliai, tepasigailį krikščionės, lenkės. Ji turinti Len­
-    kijoje daug turtų, daug tarnų, visais šventaisiais ji pri­
-    siekianti, kad vėliau jiems neteksią gailėtis, jeigu jai,
-    vargšei, bus suteikę pagalbą. Bet jeigu ji ir nebeturėtų
-    kuo atsiteisti, bendro tikėjimo ir dievo vardu ji mal­
-    daujanti, kad jos, krikščionės, galėdami be didelio var­
-    go išgelbėti, nepaliktų šioje vietoje, nes ji arba badu
-    mirsianti, arba, jeigu vėl į barbarų rankas pakliūsian-
-    ti, nustosianti ir šlovės, ir gyvybės.
+    ## Puslapis 163
+
+    balsu lenkiškai dejuoti.
   citata_rodoma: "Vis dėlto jis sušaukė įgulą ir visus para­\ngino sugalvoti kokią gudrybę, kuri leistų padaryti prie­\nšui žalos, nes šiuo metu nesą galimybės panaudoti jė­\ngos. Tarp kitų ten buvo ir Nodamas, jaunas, narsus ir\nlabai stiprus karys; jis pažadėjo vadui padėti, tegu tik\nkiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad\njie galės ne tik susikauti, bet ir nugalėti. Tiesiai per\nlaukus ir miškus užbėgęs už akių priešams, pamažu\nplaukiantiems prieš vandenį vingiuota upe, toje vie­\ntoje, kur pakrantės slėnyje galybė tankių brūzgynų,\njis paslėpė ginkluotus karius, o pats, persirengęs len­\nke, ėmė, vos išvydęs atplaukiant laivą, verksmingu\nm\n\n## Puslapis 163\n\nbalsu lenkiškai dejuoti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

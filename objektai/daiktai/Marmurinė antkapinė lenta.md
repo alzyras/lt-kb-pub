@@ -99,17 +99,10 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Čia minimas Alšys
-    vaizduojamas Alšėnų kunigaikščių giminės, išmirusios 1555 m., pra­
-    dininku,
-    tačiau patikimuose šaltiniuose apie jj nėra jokių žinių
-    Pirmas iš dokumentų žinomas Alšėniškių atstovas buvo Jonas, Al­
-    gimanto sūnus Alšėniškis, Vytauto giminaitis ir politinis bendradar­
-    bis, minimas 1390 m. ir vėliau.
-    s Orig.— Giedrus. Vardas gali būti padarytas ir iš Giedraičių
-    miešti, pavadinimo, ir iš kunigaikščių Giedraičių pavardės. Iš do­
-    kumentų Giedraičių giminės atstovai žinomi tik nuo XV a. pra­
-    džios.
+    Mindaugas buvo nužudytas 1263 m. rudcn|. Nužudymo vieta
+    nežinoma. Pagal tradiciją, užfiksuotą XVI a., tai įvyko Agluonoje,
+    j šiaurės rytus nuo Daugpilio. Iki XVII a. pradžios Agluonos vie­
+    nuolyno buvusi marmurinė antkapinė lenta su atitinkamu užrašu.
   citata_rodoma: "Mindaugas buvo nužudytas 1263 m. rudcn|. Nužudymo vieta \nnežinoma. Pagal tradiciją, užfiksuotą XVI a., tai įvyko Agluonoje, \nj šiaurės rytus nuo Daugpilio. Iki XVII a. pradžios Agluonos vie­\nnuolyno buvusi marmurinė antkapinė lenta su atitinkamu užrašu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

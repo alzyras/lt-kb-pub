@@ -62,10 +62,12 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
   pagrindžia:
     - c-174453
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su lietuvišku žodžiu „lihtars“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174452
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Skitai gintarą
     vadino
@@ -76,28 +78,6 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
     sugraikinta.
     Slėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­
     riausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174452
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Kocebus teisingai vadina gintarą saulės akmeniu, se­
-    novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią
-    gaubia sunkiai atskleidžiamos uždangos4. Tačiau senovė­
-    je, jei atmesime tokias pasakas ir spėliones, pavyzdžiui,
-    kad jis susidaro iš lūšies šlapimo, ¡gintaru verkė Mulea-
-    įgrido paukščiai arba hiperborėjų Apolonas, būta apie jį
-    gana tikslių žinių. Bet ¡poetinis pasakojimas apie tuopomis
-    paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­
-    tėja prie tiesos.
   citata_rodoma: "Skitai gintarą\nvadino\nsacrium.\nŠio\nžodžio\ngalūnė\nsugraikinta.\nSlėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­\nriausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

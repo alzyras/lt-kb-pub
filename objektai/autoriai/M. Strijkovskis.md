@@ -514,15 +514,22 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 <a id="claim-t-188452"></a>
 - t-041
   teiginys: "Narbutas nurodo, kad Strijkovskis karo dievą vadino Chaurirari, bet šį vardą laikė galimu kronikos riktu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Strijkovskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Strijkovskis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Strijkovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173516
+    - c-171342
 
 <a id="claim-t-188453"></a>
 - t-042
@@ -621,15 +628,22 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 <a id="claim-t-190635"></a>
 - t-047
   teiginys: "Narbutas rašo, kad Strijkovskis pursčius vadino pigmėjais, siedamas juos su panašiais romėnų mitologijos dievaičiais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173516
+    - c-173518
 
 <a id="claim-t-190637"></a>
 - t-049
@@ -701,15 +715,22 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 <a id="claim-t-190641"></a>
 - t-053
   teiginys: "Narbutas rašo, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Strijkovskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Strijkovskis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Strijkovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171333
+    - c-173524
 
 <a id="claim-t-190642"></a>
 - t-054
@@ -727,7 +748,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 <a id="claim-t-190643"></a>
 - t-055
   teiginys: "Narbutas rašo, kad pagal Strijkovskio suskaičiuotus šešis šventyklos kampus šventąjį ąžuolą supo šešiakampis mūrinis aptvaras."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -737,7 +758,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindžia:
     - c-171338
     - c-171341
-    - c-173523
 
 <a id="claim-t-190644"></a>
 - t-056
@@ -893,248 +913,88 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - susijęs iš Sniatinas: Sniatinas lokalizuojamas į rytus nuo Kolomyjos.
 - susijęs iš [[objektai/autoriai/N. Ulaščikas.md#claim-t-198527|N. Ulaščikas]]: N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą.
 ## Reikšmingi paminėjimai
-- c-020
-  santrauka: 'Narbutas rašo, kad Strijkovskis rugsėjo šventę Žemininko garbei vadino žymiausia metine švente.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+- c-009
+  santrauka: 'Motiejus Strijkovskis 1582 m. Karaliaučiuje išleido „Kronika polska, litewska, żmodzka i wszystkiej Rusi“.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin­
-    gomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie­
-    tuvoje, bet ir Lietuvos Rusioje.
-    334
-
-    ## Puslapis 334
-
-    Didžioji šventė
-    Rugsėjo mėnesį, visai pabaigus laukų darbus, dievo Žemi­
-    ninko garbei buvo švenčiama ši šventė, kurią Strijkovskis va­
-    dina žymiausia. Jos metu būdavo aukojama daugybė naminių
-    gyvulių, patinų ir patelių, todėl reikia spėti, kad aukas gauda­
-    vo visi dievai ir deivės, o tai reiškia, kad aukų ir vaišių turtin­
-    gumu viršydavo visas kitas metines šventes.
+    — В., 1978.
+    Ванагас А. К вопросу о языковых ятвяжских реликтах в Литве. — ABS, 1976, 9, s.
+    71—79.
+    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
+    происхождения балтов.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-022
-  santrauka: 'Narbutas rašo, kad Strijkovskis Ilgių šventę laikė visai neseniai pradėta žemaičių švente.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    13
-    13 Džami -  persiškai -  paveikslėliai.
-    337
-
-    ## Puslapis 337
-
-    Strijkovskis apibūdina šios šventės pradžią -  kad ji pradė­
-    ta švęsti visai neseniai; tai gali būti tikras dalykas, nes Prūsijos
-    ir Livonijos kronikose apie ją neradome jokios užuominos.
-    Mūsų istorikas pasakoja, kad žemaičiai pradėję švęsti Ilges dėl
-    tokios priežasties.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-024
-  santrauka: 'Narbutas nurodo, kad Strijkovskis karo dievą vadino Chaurirari, bet šį vardą laikė galimu kronikos riktu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kovas (Kawas)
-    Karo dievas. Lietuviai kovu (Kawas) vadina mėnesį, kurį
-    ir romėnai buvo paskyrę dievui Marsui. Norint apibūdinti ka­
-    riškos laikysenos ir išvaizdos žmogų, lietuviškai sakoma: Ka-
-    winga Kartu -  kariškas veidas. Žodis Kawa reiškia mūšįs arba
-    karišką kovą. Strijkovskis tą dievą vadina Chaurirari; kai ku­
-    riose tarmėse Chaulas, tiksliau Kaulas, reiškia kaulą, todėl kro­
-    nikoje gali būti klaida -  turėjo būti Chauiyrari arba Chaufya-
-    res.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-027
-  santrauka: 'Pasak Strijkovskio, senovėje kelių dievaičiui aukodavo baltas vištas ir prašydavo laimingos kelionės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­
-    davo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­
-    tum pasirengę į kelią: laikydavo rankoje lazdas, susijuosdavo,
-    apsiaudavo ir apsirengdavo kaip į kelionę. Prašydavo dievai­
-    čio laimingos kelionės ir sugrįžti į namus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-028
-  santrauka: 'Narbutas rašo, kad Strijkovskis paukščių dievaitį vadino Swieczpunscynis, bet šį vardą laikė rašybos ar spaudos riktu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Paukštinis (Swieczpa uksztynis)
-    Dievaitis -  visų rūšių paukščių, naminių ir laukinių, valdo­
-    vas. Nuolat aukų jam neaukota, nes jį patį laikė skraidančiu
-    dievaičiu. Strijkovskis jį vadina Swieczpunscynis; tai tikriausiai
-    yra rašybos ar spaudos riktas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-030
-  santrauka: 'Narbutas rašo, kad Strijkovskis pursčius vadino pigmėjais, siedamas juos su panašiais romėnų mitologijos dievaičiais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kitose vietose
-    vadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas
-    palivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­
-    dinami Purs; Strijkovskis juos vadina taip pat pigmėjais17.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-035
-  santrauka: 'Narbutas rašo, kad Strijkovskis alyvą laikė svarbiausiu iš šventųjų medžių, siejamų su Pušaičiu ir barstukais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas
-    medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
-    dievaitis Pušaitis su savo barstukų kariuomene.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-036
-  santrauka: 'Narbutas rašo, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Skulptorių ir dailininkų stoką atstojo vaiz­
-    243
-
-    ## Puslapis 243
-
-    duotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
-    šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
-    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena.
-  citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-037
-  santrauka: 'Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį, milžino išvaizdos Kukovaičio stabą.'
+  statusas: verified
+- c-013
+  santrauka: 'Motiejaus Strijkovskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ 1846 m. išleista Varšuvoje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    — ABS, 1976, 9, s.
+    71—79.
+    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
+    происхождения балтов.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-031
+  santrauka: 'Narbutas rašo, kad Strijkovskis tikėjo barstukų pasirodymais ir rėmėsi Olafo, Agripos bei kitų autorių liudijimais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
-    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
-    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
-    milžino išvaizdos.
+    180
+
+    ## Puslapis 180
+
+    Tai buvo dvasios, arba genijai, pasirodantys kerėpliškų ir
+    barzdotų neūžaugų pavidalu, vienų metų vaiko išvaizdos, bet
+    turėjo sieksnines barzdas. Vis dėlto jie buvo labai greiti ir vik­
+    rūs. Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
+    pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
+    teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
+    kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
+    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
+    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
+    garbinamas Pušaitis ir barstukai18“.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-038
-  santrauka: 'Narbutas rašo, kad pagal Strijkovskio suskaičiuotus šešis šventyklos kampus šventąjį ąžuolą supo šešiakampis mūrinis aptvaras.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Plačios lygumos, užliejamos dvie­
-    jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
-    neišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­
-    pis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis
-    šventyklos kampus7. Arčiausia ąžuolo buvo užpakalinė siena.
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-039
-  santrauka: 'Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    402
-
-    ## Puslapis 402
-
-    tuviai juos nešiodavosi kaip signetes; mirus tėvui, ta pačia Sig­
-    nete dažnai naudodavosi sūnus ir jo įpėdiniai, jeigu kuriam
-    nors neateidavo į galvą savo signetėje išraižyti ką nors kita.
-    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
-    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
-    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
-    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
-    metais Gediminas davė Krunevičiui10.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-040
-  santrauka: 'Narbutas rašo, kad Strijkovskis apie aukštas lietuvių pareigas pateikė daugiau žinių nei Prūsijos ir Livonijos kronikininkai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jau ir šiaip žinome, ir anksčiau sakėme, kad
-    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
-    8
-    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
-    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
-    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
-    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
-    430
-
-    ## Puslapis 430
-
-    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
-    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
-    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-043
-  santrauka: 'Teodoro Narbuto teigimu, Motiejus Strijkovskis dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo, Insterburgo, Kuršo ir Livonijos.'
+- c-044
+  santrauka: 'Motiejus Strijkovskis skyrėsi nuo slavų ir lietuvių kalbų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    115
-    Strijkovskis savo amžiuje dar girdėjo apie likučius
-    išsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir
-    apgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-
-    1 Stryjkomski.
-    S. 181.
     121
 
     ## Puslapis 119
 
     terburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­
-    tuose, kur juos vadino igovėnais.
+    tuose, kur juos vadino igovėnais. Jie visi kalbėję savo
+    atskira kalba, bet nežinoma kokia. Sarnickis teigia, jog
+    jotvingių kalba buvusi sarmatų, panaši į slavų, o Kro-
+    meris mano, kad ji skyrėsi nuo slavų ir lietuvių kalbų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-045
-  santrauka: 'Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  statusas: verified
+- c-047
+  santrauka: 'Strijkovskis, aiškiai nurodydamas savo šaltinį.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    Kruvina šio Ordino
-    politika numatė padaryti Sūduvą visiškai negyvenamą,
-    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
-    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
-    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
-    Raigardo ir Insterburgo Prūsijoje. Tačiau negalime su­
-    tikti su mokslininku Heningu, kuris daro prielaidą, kad
-    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
-    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
-    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
+    Galima teigti, kad tęsinio nebuvo; bent jo nebuvo tam e
+    BK variante, kuriuo naudojosi ir kurį daugeliu atvejų ištisai citavo
+    M. Strijkovskis, aiškiai nurodydamas savo šaltinį. Po 1506 m. Klec­
+    ko mūšio aprašymo Jis daugiau niekur nebemini Lietuvos m etraš­
+    čio. kaip savo šaltinio.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: not_found
 
 ## Citatos
 
@@ -1349,11 +1209,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    — В., 1978.
-    Ванагас А. К вопросу о языковых ятвяжских реликтах в Литве. — ABS, 1976, 9, s.
-    71—79.
-    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
-    происхождения балтов.
+    Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
   citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -1467,10 +1323,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    — ABS, 1976, 9, s.
-    71—79.
-    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
-    происхождения балтов.
+    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
+    1846.
   citata_rodoma: "Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,\n1846."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -1563,7 +1417,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-053
 
 - id: c-171334
   autorius: "Teodoras Narbutas"
@@ -1632,18 +1485,20 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šis senovinis paprotys bendras lietu­
-    viams ir Lietuvos rusinams, todėl ir pavadinimas iš rusinu
-    kalbos žodžio diedai (Dziady), mat tuomet seniai - elgetos,
-    visų vadinami diedais, prisirinkdavo dosniausiai duodamos
-    išmaldos. Lietuviškai ši šventė vadinama Chauturas; šio žo­
-    džio reikšmė mitologiška; Chau tarytum reiškė mirtį; tad iš­
-    vertus bus maždaug pomirtinės dovanos, mirusiųjų apdova­
-    nojimas, pavaišinimas. Latviai vadina Deewa deenas, Dievo
-    dienos, arba Welli, tai yra deivės Velionos šventė. Senovės
-    laikais per tas iškilmes vykdavo apeigos tos deivės garbei;
-    per jas būdavo atgaivinamos mintys apie pomirtinį gyveni­
-    mą ir sunkią kelione į amžinybę.
+    Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin­
+    gomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie­
+    tuvoje, bet ir Lietuvos Rusioje.
+    334
+
+    ## Puslapis 334
+
+    Didžioji šventė
+    Rugsėjo mėnesį, visai pabaigus laukų darbus, dievo Žemi­
+    ninko garbei buvo švenčiama ši šventė, kurią Strijkovskis va­
+    dina žymiausia. Jos metu būdavo aukojama daugybė naminių
+    gyvulių, patinų ir patelių, todėl reikia spėti, kad aukas gauda­
+    vo visi dievai ir deivės, o tai reiškia, kad aukų ir vaišių turtin­
+    gumu viršydavo visas kitas metines šventes.
   citata_rodoma: "Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin­\ngomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie­\ntuvoje, bet ir Lietuvos Rusioje.\n334\n\n## Puslapis 334\n\nDidžioji šventė\nRugsėjo mėnesį, visai pabaigus laukų darbus, dievo Žemi­\nninko garbei buvo švenčiama ši šventė, kurią Strijkovskis va­\ndina žymiausia. Jos metu būdavo aukojama daugybė naminių\ngyvulių, patinų ir patelių, todėl reikia spėti, kad aukas gauda­\nvo visi dievai ir deivės, o tai reiškia, kad aukų ir vaišių turtin­\ngumu viršydavo visas kitas metines šventes."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1682,17 +1537,17 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Yra ir kitokių padavimų, kuriais pasinau­
-    dojome šiame aprašyme.
-    Mėsėdrinės (Messedrines)
-    Ragučio šventė, bakchanalijos. Si gėrimo dievo šventė bū­
-    davo švenčiama su vaišėmis ir gėrimu vasario mėnesį. Tam tikrą
-    laiko tarpą, apie aštuonetą dienų, žmonės linksmindavosi ir
-    girtuokliaudavo, vykdavo įvairūs žaidimai, minėjimai, aukos
-    Bakcho garbei. Jo stabą arba padailintą medžio rąstą vežioda­
-    vo iš kaimo į kaimą, padėtą ant rogių, pakinkytų keršais jau­
-    čiais, paskui jas grūsdavosi būriai girtų moterų, vadinamų ra-
-    gutienėmis, popų puotininkų ir daugybė įvairiausių kaukių.
+    13
+    13 Džami -  persiškai -  paveikslėliai.
+    337
+
+    ## Puslapis 337
+
+    Strijkovskis apibūdina šios šventės pradžią -  kad ji pradė­
+    ta švęsti visai neseniai; tai gali būti tikras dalykas, nes Prūsijos
+    ir Livonijos kronikose apie ją neradome jokios užuominos.
+    Mūsų istorikas pasakoja, kad žemaičiai pradėję švęsti Ilges dėl
+    tokios priežasties.
   citata_rodoma: "13\n13 Džami -  persiškai -  paveikslėliai.\n337\n\n## Puslapis 337\n\nStrijkovskis apibūdina šios šventės pradžią -  kad ji pradė­\nta švęsti visai neseniai; tai gali būti tikras dalykas, nes Prūsijos\nir Livonijos kronikose apie ją neradome jokios užuominos.\nMūsų istorikas pasakoja, kad žemaičiai pradėję švęsti Ilges dėl\ntokios priežasties."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1731,25 +1586,24 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Olafo bažnyčioje, pats
-    mačiau medinį kotą su kažkokio audeklo gabalu, kuriame bu­
-    vo žalvarinis balandžio dydžio gaidys; tatai laikyta pagonybės
-    laikų vėliava, paimta Latvijoje. Man sakė, kad Karaliaučiuje
-    buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
-    das žirgas, o ant jo - juodas gaidys.
-    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
-    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
-    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
-    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
-    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
-    veidžiai, kai kurie variniai ir sidabriniai daiktai.
+    Kovas (Kawas)
+    Karo dievas. Lietuviai kovu (Kawas) vadina mėnesį, kurį
+    ir romėnai buvo paskyrę dievui Marsui. Norint apibūdinti ka­
+    riškos laikysenos ir išvaizdos žmogų, lietuviškai sakoma: Ka-
+    winga Kartu -  kariškas veidas. Žodis Kawa reiškia mūšįs arba
+    karišką kovą. Strijkovskis tą dievą vadina Chaurirari; kai ku­
+    riose tarmėse Chaulas, tiksliau Kaulas, reiškia kaulą, todėl kro­
+    nikoje gali būti klaida -  turėjo būti Chauiyrari arba Chaufya-
+    res.
   citata_rodoma: "Kovas (Kawas)\nKaro dievas. Lietuviai kovu (Kawas) vadina mėnesį, kurį\nir romėnai buvo paskyrę dievui Marsui. Norint apibūdinti ka­\nriškos laikysenos ir išvaizdos žmogų, lietuviškai sakoma: Ka-\nwinga Kartu -  kariškas veidas. Žodis Kawa reiškia mūšįs arba\nkarišką kovą. Strijkovskis tą dievą vadina Chaurirari; kai ku­\nriose tarmėse Chaulas, tiksliau Kaulas, reiškia kaulą, todėl kro­\nnikoje gali būti klaida -  turėjo būti Chauiyrari arba Chaufya-\nres."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+
 - id: c-171343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1792,18 +1646,11 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O
-    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
-    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
-    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
-    būtų priskirta nelaimingam jo perėjimui per kelią.
-    Prietaringas kaimietis, prieš sėsdamas į vežimą arba išei­
-    damas su kinkiniu į lauką, turi apeiti jį ratu. O pačiame kelyje
-    sutikti tam tikri asmenys arba gyvuliai arba perbėgę per kelią
-    pranašauja, kad kelionė bus sėkminga arba nesėkminga. Be­
-    je, vienuolis, nėščia moteris, lapė, nėščia kalė arba vilkė pra­
-    našauja bloga: priešingai, sutiktas kiškis, vilkas, vaikas, burti­
-    ninkas, čigonas žada laimingą kelionę.
+    Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­
+    davo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­
+    tum pasirengę į kelią: laikydavo rankoje lazdas, susijuosdavo,
+    apsiaudavo ir apsirengdavo kaip į kelionę. Prašydavo dievai­
+    čio laimingos kelionės ir sugrįžti į namus.
   citata_rodoma: "Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­\ndavo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­\ntum pasirengę į kelią: laikydavo rankoje lazdas, susijuosdavo,\napsiaudavo ir apsirengdavo kaip į kelionę. Prašydavo dievai­\nčio laimingos kelionės ir sugrįžti į namus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1818,15 +1665,11 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rūgščiųjų vyšnių sodai seniau būdavo rūpestingai veisia­
-    mi, kadangi jų uogų dėdavo į daugelį patiekalų; ypač jomis
-    skanindavo midų, vadintą vyšniniu, kuris buvo prabangos gė­
-    rimas. Dėl šios priežasties vyšnių sodai buvo labai paplitę.
-    Ganiklis (Goniglis)
-    Kaimenių ir piemenų dievaitis. Kitaip vadinosi Gongelis
-    Hennilus. Strijkovskis jį lygina su Antikos satyrais ir faunais,
-    nes sako: „Jam atnašaudavo arklių, jaučių, ožių ir kitų gyvulių
-    pautus, kai juos išromydavo.
+    Paukštinis (Swieczpa uksztynis)
+    Dievaitis -  visų rūšių paukščių, naminių ir laukinių, valdo­
+    vas. Nuolat aukų jam neaukota, nes jį patį laikė skraidančiu
+    dievaičiu. Strijkovskis jį vadina Swieczpunscynis; tai tikriausiai
+    yra rašybos ar spaudos riktas.
   citata_rodoma: "Paukštinis (Swieczpa uksztynis)\nDievaitis -  visų rūšių paukščių, naminių ir laukinių, valdo­\nvas. Nuolat aukų jam neaukota, nes jį patį laikė skraidančiu\ndievaičiu. Strijkovskis jį vadina Swieczpunscynis; tai tikriausiai\nyra rašybos ar spaudos riktas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1834,9 +1677,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
     - t-045
-    - t-047
 
 - id: c-173517
   autorius: "Teodoras Narbutas"
@@ -1862,22 +1703,19 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie jų gražumą pasakoja:
-    ūgio ne aukštesnio, kaip viena uolektis“.
-    Šių dievaičių atminimas neišnyko iki šiol; jei žinoma ne
-    pati reikalo esmė, tai bent iš pasakojimų aišku, kas jie tokie.
-    Lietuvos totoriai žino tas mitines būtybes, jų egzistavimu šiaip
-    ar taip tiki; vadina jas fereikomis (Fierejki) ir džinais (Dženie);
-    jų religinė raštija tikina, kad tos būtybės esančios blogesnės
-    už šėtonus, be galo kenksmingos, atsiunčiančios žmonėms 70
-    18 Šiame žodyne vietoj B klaidingai parašyta P.
+    Kitose vietose
+    vadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas
+    palivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­
+    dinami Purs; Strijkovskis juos vadina taip pat pigmėjais17.
   citata_rodoma: "Kitose vietose\nvadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas\npalivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­\ndinami Purs; Strijkovskis juos vadina taip pat pigmėjais17."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-047
+
 - id: c-173520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1948,50 +1786,47 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taigi tai turėjo bū­
-    ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai,
-    dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji
-    medžiai. Mažų mažiausiai peršasi savaime tokia išvada.
-    Ąžuolas su amalu iki šiol yra ne tik retenybė, bet ir pri­
-    klauso senovės prietarams. F. Noelis straipsnyje „Gutheil“ sa­
-    10 Sirvydo žodynas.
+    ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas
+    medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
+    dievaitis Pušaitis su savo barstukų kariuomene.
   citata_rodoma: "ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas\nmedis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs\ndievaitis Pušaitis su savo barstukų kariuomene."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-173524
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Skulptorių ir dailininkų stoką atstojo vaiz­
+    243
+
+    ## Puslapis 243
+
+    duotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
+    šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
+    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena.
+  citata_rodoma: "Skulptorių ir dailininkų stoką atstojo vaiz­\n243\n\n## Puslapis 243\n\nduotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno\nšventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-055
+    - t-053
 
-- id: c-173524
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    1820 metais grafas tą statulėlę nusiuntė į Varšu­
-    vos Mokslo bičiulių draugiją. Draugijoje buvo nu tarta, kad figū­
-    rėlė yra indiškos kilmės: tokią išvadą padarė remdamiesi tik pa­
-    našumu. 1831 metais tas senovės paminklas kartu su visu drau­
-    gijos muziejumi buvo išvežtas į Sankt Peterburgą.
-  citata_rodoma: "Skulptorių ir dailininkų stoką atstojo vaiz­\n243\n\n## Puslapis 243\n\nduotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno\nšventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-173525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
-    tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors
-    Plikasis kalnas. Visa, ką šiuo klausimu žinome iš istorijos, ap­
-    siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
-    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
-    šventykla.
+    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
+    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
+    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
+    milžino išvaizdos.
   citata_rodoma: "Lietuviams buvo žinomas dievinamų asmenų stabų staty­\nmas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-\nčio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,\nmilžino išvaizdos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2004,12 +1839,11 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Panašių vietovių yra Lietuvoje, Žemaitijoje ir Livoni­
-    joje - Rykantai (Rykonty), Rykainiai (Rikojnie; gal Rukainiai? -
-    R. J.) ir panašios.
-    Senprūsių kalbojeR/Uv, arbaRyks, reiškė valstybę, Rikaus-
-    na - valdžią, Rikys - valdovą, Rykyans - viešpatavimą, Ryeki -
-    karalystę, Rikint - valdyti.
+    Plačios lygumos, užliejamos dvie­
+    jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
+    neišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­
+    pis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis
+    šventyklos kampus7. Arčiausia ąžuolo buvo užpakalinė siena.
   citata_rodoma: "Plačios lygumos, užliejamos dvie­\njų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,\nneišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­\npis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis\nšventyklos kampus7. Arčiausia ąžuolo buvo užpakalinė siena."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2022,18 +1856,18 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apskritai, įsiskaičius į senuosius lenkų herbų pavadinimus,
-    ne viename jų randame lietuvių kalbai būdingų elementų. Pa­
-    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
-    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
-    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
-    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
-    Nors pirmaujančios lietuvių giminės po Horodlės seimo
-    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
-    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
-    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
-    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
-    dalo ir seno graviravimo signečių pėdsakas.
+    402
+
+    ## Puslapis 402
+
+    tuviai juos nešiodavosi kaip signetes; mirus tėvui, ta pačia Sig­
+    nete dažnai naudodavosi sūnus ir jo įpėdiniai, jeigu kuriam
+    nors neateidavo į galvą savo signetėje išraižyti ką nors kita.
+    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
+    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
+    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
+    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
+    metais Gediminas davė Krunevičiui10.
   citata_rodoma: "402\n\n## Puslapis 402\n\ntuviai juos nešiodavosi kaip signetes; mirus tėvui, ta pačia Sig­\nnete dažnai naudodavosi sūnus ir jo įpėdiniai, jeigu kuriam\nnors neateidavo į galvą savo signetėje išraižyti ką nors kita.\nVis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2048,20 +1882,20 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sis vyriausiųjų žynių sąrašo pasmerkimas yra
-    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
-    argumentų, vien kaip savo paties abejonę. Dabar peržvelkime
-    mūsų amžiaus kritiko argumentus.
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą - tai tiesa; per daug
-    užsidegęs katalikybės šalininkas - ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų - gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
+    Jau ir šiaip žinome, ir anksčiau sakėme, kad
+    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
+    8
+    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
+    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
+    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
+    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
+    430
+
+    ## Puslapis 430
+
+    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
+    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
+    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
   citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2120,16 +1954,18 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taigi reikia pritarti Sarnickio nuomonei, nes tarp šian­
-    dien Briansko ir Drohičino apylinkėse žinomų lenkų, iš­
-    saugojusių kai kurių originalių bruožų, visiškai nebūdin­
-    gų kitiems slavams, nepastebėjome jų kalboje nieko sve­
-    timo, ko neturėtų slavų kalba. Dėl to reikia daryti išva­
-    dą, kad senovės jotvingių kalba arba visiškai išnykusi,
-    arba buvo panaši j slavų kalbas. Tiesa, Mechovita, Zig­
-    manto I laikais gyvenęs istorikas, rašo girdėjęs jotvingių
-    kalbą Polesėje, šalia Drohičino; jos nei jis, nei lietuvis,
-    nei žemaitis negalėję suprasti.
+    115
+    Strijkovskis savo amžiuje dar girdėjo apie likučius
+    išsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir
+    apgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-
+    1 Stryjkomski.
+    S. 181.
+    121
+
+    ## Puslapis 119
+
+    terburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­
+    tuose, kur juos vadino igovėnais.
   citata_rodoma: "115\nStrijkovskis savo amžiuje dar girdėjo apie likučius\nišsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir\napgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-\n1 Stryjkomski.\nS. 181.\n121\n\n## Puslapis 119\n\nterburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­\ntuose, kur juos vadino igovėnais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -2142,18 +1978,16 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau ne tas Skomantas, kurį lenkų istorikai vadina Ko­
-    modų, vadovavęs 1264 metų birželio 23 dienos mūšyje ir,
-    anot jų, žuvęs, turėjo vadovauti prūsų sukilimui, o 1282
-    ar 1283 metais grįžęs iš Lietuvos, kur buvo pabėgęs, ap­
-    sikrikštijo ir pagaliau davė savo vardą vienam ežerui,
-    esančiam netoli Ario miesto. Veikiau reikėtų daryti išva­
-    dą, jog buvę keli šios Skomantų giminės kariūnai1. Me-
-    chovita maišo jotvingių ir lietuvių kilmę. Vis dėlto jis
-    sako, kad dar jo laikais apie Drohiciną buvo kalbama jot­
-    vingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
-    Kromeriui2 buvo žinomi jotvingių likučiai (reliquiae),
-    savo kalba visiškai besiskiriantys nuo slavų ir lietuvių.
+    Kruvina šio Ordino
+    politika numatė padaryti Sūduvą visiškai negyvenamą,
+    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
+    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
+    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
+    Raigardo ir Insterburgo Prūsijoje. Tačiau negalime su­
+    tikti su mokslininku Heningu, kuris daro prielaidą, kad
+    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
+    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
+    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
   citata_rodoma: "Kruvina šio Ordino\npolitika numatė padaryti Sūduvą visiškai negyvenamą,\ntad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į\nkitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­\nvingių, kurių palikuonis Strijkovskis pastebėdavo prie\nRaigardo ir Insterburgo Prūsijoje. Tačiau negalime su­\ntikti su mokslininku Heningu, kuris daro prielaidą, kad\nvisi sūduviai yra buvę jotvingiai, nes kitur esama negin­\nčijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri\nvadinosi sudinais ir buvo visiškai ne jotvingių kilmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

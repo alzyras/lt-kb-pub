@@ -14,15 +14,15 @@ datos:
   - '2026 m.'
 date_start: '1342'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - sostinė
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -137,7 +137,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 <a id="claim-t-111661"></a>
 - t-011
   teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Krėva: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -441,6 +441,54 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 - susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184723|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas.md#claim-t-185510|Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]: Po derybų Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
+## Reikšmingi paminėjimai
+- c-008
+  santrauka: 'Kojelavičiaus pasakojime sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau buvo atvykę į Krėvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai
+    jį vežė iš Vilniaus į Krėvą, jam rodė karališką pagar­
+    bą; čia irgi buvo laikomas nelyginant karalius, tik
+    nuolatos saugomas budrios sargybos, kuri neleido nei
+    su artimaisiais pasimatyti, nei su kuo pasikalbėti. Lais­
+    vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­
+    va valia nutarusi dalytis su vyru likimo užkrautais var­
+    gais, čia jį ir palydėjo su dviem mergaitėmis. Ši
+    aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
+    vę: dažnai juk likimą lemia menkų menkiausios prie­
+    žastys. Vienas sargybinis kar­
+    tą įspėjo Oną, jog Vytautui
+    gresianti mirtis, pridurdamas,
+    kad Jogailos siųsti budeliai
+    jau atvyko į Krėvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-030
+
+- c-010
+  santrauka: 'Krėva — BTSR miestelis (apie 28 km į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    18 Vietoj Algirdo visuose kituose LDK metraščių nuorašuose
+    kalbama tik apie Vytautų ir jo konfliktų su Teodoru Karijotaičių.
+    17 Teodoro Karijotaičio pašalinimas Iš Podolės (jį pašalino Vy­
+    tautas 1393 m.) laikytinas vienu iš valstybės centralizavimo aktų.
+    18 Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo
+    j Vengrijų, gavo grafo titulų ir 1396—1414 m. (iki mirties) valdė
+    Užkarpatėje
+    Mukačiovų
+    ir
+    vykdė Beregovo distrikto viršininko
+    funkcijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-103194
@@ -626,21 +674,19 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   puslapiai: "PDF 272"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 272."
   citata_originali: |
-    Kai
-    jį vežė iš Vilniaus į Krėvą, jam rodė karališką pagar­
-    bą; čia irgi buvo laikomas nelyginant karalius, tik
-    nuolatos saugomas budrios sargybos, kuri neleido nei
-    su artimaisiais pasimatyti, nei su kuo pasikalbėti. Lais­
-    vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­
-    va valia nutarusi dalytis su vyru likimo užkrautais var­
-    gais, čia jį ir palydėjo su dviem mergaitėmis. Ši
+    Ši
     aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
     vę: dažnai juk likimą lemia menkų menkiausios prie­
     žastys. Vienas sargybinis kar­
     tą įspėjo Oną, jog Vytautui
     gresianti mirtis, pridurdamas,
     kad Jogailos siųsti budeliai
-    jau atvyko į Krėvą.
+    jau atvyko į Krėvą. Žmona
+    apie viską pranešė vyrui ir
+    patarė apsirengus merginos drabužiais apgauti sargy­
+    binius ir pasprukti iš priešo rankų ir nuo tikros mir­
+    ties: draugai jau, girdi, parūpinę visko, kas reikalinga
+    bėgliui.
   citata_rodoma: "Ši\naplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­\nvę: dažnai juk likimą lemia menkų menkiausios prie­\nžastys. Vienas sargybinis kar­\ntą įspėjo Oną, jog Vytautui\ngresianti mirtis, pridurdamas,\nkad Jogailos siųsti budeliai\njau atvyko į Krėvą. Žmona\napie viską pranešė vyrui ir\npatarė apsirengus merginos drabužiais apgauti sargy­\nbinius ir pasprukti iš priešo rankų ir nuo tikros mir­\nties: draugai jau, girdi, parūpinę visko, kas reikalinga\nbėgliui."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -672,17 +718,12 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   puslapiai: "PDF 217"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 217."
   citata_originali: |
-    18 Vietoj Algirdo visuose kituose LDK metraščių nuorašuose
-    kalbama tik apie Vytautų ir jo konfliktų su Teodoru Karijotaičių.
-    17 Teodoro Karijotaičio pašalinimas Iš Podolės (jį pašalino Vy­
-    tautas 1393 m.) laikytinas vienu iš valstybės centralizavimo aktų.
-    18 Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo
-    j Vengrijų, gavo grafo titulų ir 1396—1414 m. (iki mirties) valdė
-    Užkarpatėje
-    Mukačiovų
-    ir
-    vykdė Beregovo distrikto viršininko
-    funkcijas.
+    Algirdas (1345— 1377| —  vienas iš žymiausių XIV a. Rylų
+    Europos politinių veikėjų. Krėva — BTSR miestelis (apie 28 km
+    į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro
+    pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis.
+    Kada Algirdas gavo valdyti Krėvų. tiksliai nežinoma, gal apie
+    1342 m.
   citata_rodoma: "Algirdas (1345— 1377| —  vienas iš žymiausių XIV a. Rylų \nEuropos politinių veikėjų. Krėva — BTSR miestelis (apie 28 km \nį pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro \npilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis. \nKada Algirdas gavo valdyti Krėvų. tiksliai nežinoma, gal apie \n1342 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

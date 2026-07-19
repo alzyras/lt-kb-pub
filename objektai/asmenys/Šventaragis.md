@@ -266,21 +266,20 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   santrauka: 'APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    ## Puslapis 55
-
-    12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO
-    ŠONŲ SKIRMANTĄ
-    Ponai gedėjo savo gimtojo valdovo ir išsirinko val­
-    dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai­
-    čių kunigaikščio Utenio sūnų.
-    Šventaragiui neilgai pabuvus Naugarduko bei Rusų
-    miestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­
-    vos ir Žemaičių didysis kunigaikštis 3 .
+    Ir dėl
+    to prie jų dėdavo tuos nagus, su kuriais jie turėsią
+    įkopti į tą kalną ir stoti dievo teisman.
+    Nors jie buvo pagonys, bet visuomet taip įsivaiz­
+    duodavo ir tikėjo vieną dievą, kad būsianti (paskuti­
+    niojo! teismo diena, ir tikėjo mirusiųjų prisikėlimą ir
+    vieną dievą, ateisiantį gyvųjų ir mirusiųjų teisti.
+    Paskui valdė didysis kunigaikštis Skirmantas, paliko
+    du sūnus — Trobių6 ir Giliginą7.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -377,15 +376,16 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir dėl
-    to prie jų dėdavo tuos nagus, su kuriais jie turėsią
-    įkopti į tą kalną ir stoti dievo teisman.
-    Nors jie buvo pagonys, bet visuomet taip įsivaiz­
-    duodavo ir tikėjo vieną dievą, kad būsianti (paskuti­
-    niojo! teismo diena, ir tikėjo mirusiųjų prisikėlimą ir
-    vieną dievą, ateisiantį gyvųjų ir mirusiųjų teisti.
-    Paskui valdė didysis kunigaikštis Skirmantas, paliko
-    du sūnus — Trobių6 ir Giliginą7.
+    ## Puslapis 55
+
+    12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO
+    ŠONŲ SKIRMANTĄ
+    Ponai gedėjo savo gimtojo valdovo ir išsirinko val­
+    dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai­
+    čių kunigaikščio Utenio sūnų.
+    Šventaragiui neilgai pabuvus Naugarduko bei Rusų
+    miestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­
+    vos ir Žemaičių didysis kunigaikštis 3 .
   citata_rodoma: "## Puslapis 55\n\n12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO \nŠONŲ SKIRMANTĄ\nPonai gedėjo savo gimtojo valdovo ir išsirinko val­\ndovu ŠventaragįK entauro herbo, Lietuvos ir Žemai­\nčių kunigaikščio Utenio sūnų.\nŠventaragiui neilgai pabuvus Naugarduko bei Rusų \nmiestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­\nvos ir Žemaičių didysis kunigaikštis 3 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

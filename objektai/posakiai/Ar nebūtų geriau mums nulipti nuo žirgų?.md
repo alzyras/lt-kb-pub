@@ -50,13 +50,10 @@ Jaščioldas mūšio metu siūlo nulipti nuo žirgų ir garbę ginti krauju.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Nejaugi nežinote, kad krikščionio jėga ■— atvirame lauke,
-    o pagonies — pasaloje; tai priklauso nuo būdo, kuriuo
-    kariaujama". Po to jie persikėlė per Žaką, Жаку, ir, pake­
-    liui plėšikaudami, priėjo atvirą lauką, kur įkūrė savo sto­
-    vyklą. Bet ir čia jotvingiai juos puolė. Taigi rusinai ir
-    lenkai su jais kovojo, ir nemažai jotvingių kunigaikščių
-    žuvo.
+    Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums
+      nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,
+      tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­
+      gę pataikyti savo krauju".
   citata_rodoma: "Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums\n  nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,\n  tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­\n  gę pataikyti savo krauju\"."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

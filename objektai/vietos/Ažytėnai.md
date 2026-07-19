@@ -48,16 +48,6 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
 
 ## Teiginiai
 
-<a id="claim-t-195476"></a>
-- t-002
-  teiginys: "Vienas šaltinio užrašymas datuotas Ažytėnuose 1927 m. rugsėjo 25 d."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177898
-
 <a id="claim-t-195477"></a>
 - t-001
   teiginys: "Ažytėnai apibūdinami kaip menka vietelė, kurioje degtinės laikais netrūko muštynių ir girtavimo."
@@ -110,5 +100,3 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

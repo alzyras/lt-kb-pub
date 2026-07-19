@@ -33,6 +33,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Odoakras
 
 ## Santrauka
@@ -81,26 +82,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   pagrindžia:
     - c-173821
 
-<a id="claim-t-190940"></a>
-- t-004
-  teiginys: "Teodoro Narbuto teigimu, Odoakras buvo krikščionis, o jo herulams buvo skelbiamas Kristaus mokslas."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Herulai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Odoakras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Odoakras\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173822
-
 <a id="claim-t-190941"></a>
 - t-005
   teiginys: "Teodoro Narbuto pasakojime Eduko sūnus Odoakras sakė, kad turėdamas Oresto valdžią neleistų sąjungininkų kariuomenei gailėtis žygio į Italiją."
@@ -124,43 +105,28 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
 <a id="claim-t-190943"></a>
 - t-007
   teiginys: "Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Vandalai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vandalai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Draugiški santykiai su vandalų karaliumi tiesiogiai rodo politinį sąjunginį ryšį su vandalais."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Odoakras buvo sąjungininkas su Vandalai (0.74); Odoakras sudarė sutartį su Evarikas (0.62)"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173825
+    - c-173828
 
 <a id="claim-t-190944"></a>
 - t-008
   teiginys: "Teodoro Narbuto pasakojime Odoakras sutelkė gausesnę ir geriau už Teodoriko kariuomenę ginkluotą kariuomenę ir patraukė jo pasitikti."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Teodorikas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Karinės konfrontacijos kontekste Odoakras telkia kariuomenę ir patraukia pasitikti Teodoriko."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-173826
+    - c-173823
 
 <a id="claim-t-190945"></a>
 - t-009
@@ -435,7 +401,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-012
 
 - id: c-173823
@@ -456,6 +421,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+    - t-008
 
 - id: c-173825
   autorius: "Teodoras Narbutas"
@@ -486,7 +452,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-013
 
 - id: c-173826
@@ -516,7 +481,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
     - t-014
 
 - id: c-173827
@@ -566,6 +530,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-007
     - t-010
 
 - id: c-179184
@@ -590,11 +555,3 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
-
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Telanas]]
-- Broliai: [[objektai/asmenys/Onulfas]]
-- Paskyrė Odoakrą: [[objektai/grupes/Herulai]], [[objektai/asmenys/Julijus Nepas]], [[objektai/grupes/Skiriai]], [[objektai/grupes/Turcilingai]]
-- Odoakras buvo valdovas [[objektai/grupes/Herulai]]
-- Odoakras valdė [[objektai/vietos/Italija]]
-- Odoakras apgulė [[objektai/vietos/Pavija]]

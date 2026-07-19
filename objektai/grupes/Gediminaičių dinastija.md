@@ -74,7 +74,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 <a id="claim-t-12360"></a>
 - t-003
   teiginys: "Su Krėvės unija sutiko ne visi Gediminaičiai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminaičiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -86,14 +86,12 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14965
-    - c-14966
     - c-180585
-    - c-180586
 
 <a id="claim-t-12361"></a>
 - t-004
   teiginys: "Vytauto laikais viena rytinių kunigaikštijų dalis buvo valdoma Gediminaičių greta Riurikaičių ir kitų lietuvių kilmės kunigaikščių."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -106,7 +104,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   pagrindžia:
     - c-14966
     - c-180586
-    - c-14965
     - c-180585
 
 <a id="claim-t-12362"></a>
@@ -166,7 +163,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 <a id="claim-t-96102"></a>
 - t-020
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -452,42 +449,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54264|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
 - susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54265|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
 - susijęs iš [[objektai/zodynas/politinė tauta lietuvių nacija.md#claim-t-22247|politinė tauta lietuvių nacija]]: Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
-## Reikšmingi paminėjimai
-- c-024
-  santrauka: 'Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir
-    prasideda sakiniu apie Kristaus gimimą, valdant Romos
-    imperatoriui Augustui, Romos imperatorių ligi Nerono
-    išvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­
-    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
-    dovaujamų imperatoriaus Nerono giminaičio Palemono,
-    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
-    tos ir valstybės pradininkais. Vėliau, išmirus Palemono
-    įpėdiniams ir sekančios Kentauro herbo dinastijos ku­
-    nigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi-
-    minaičių dinastijos valdovui Vyteniui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-025
-  santrauka: 'Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Si moneta yra senesnė už mūsų turimą.
-    Senovinė lietuviška moneta, rasta prie Kauno (buvo aptikta
-    ir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau
-    nukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir
-    kažkokia neaiški raidė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-14965
@@ -509,7 +470,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-14966
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -531,7 +491,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-004
 
 - id: c-14967
@@ -891,7 +850,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-004
 
 - id: c-180587
@@ -1138,19 +1096,17 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   puslapiai: "PDF 7"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 7."
   citata_originali: |
-    Prijungiant naujai parašytąją legendinę Lie­
-    tuvos istoriją prie nurašytos Trumpojo sąvado sudėti­
-    nės dalies — Vytauto laikus aprašančio „Didžiųjų Lie­
-    tuvos kunigaikščių metraščio", buvo visiškai perdirbta
-    ir šito šaltinio pradžia. Būtent, po Gedimino sūnų iš­
-    vardijimo, kuriuo Trumpajame sąvade prasideda „Di­
-    džiųjų Lietuvos kunigaikščių metraštis", Platesniajame
-    sąvade įdėtas padavimas apie Gedimino sūnų Kęstutį,
-    jo žmoną Birutę ir apie jų sūnaus Vytauto gimimą.
-    Kai kuriuose Platesniojo sąvado nuorašuose (Ra-
-    činskio ir Jevrejinovo) tokių papildymų dar daugiau.
-    Po Kęstučio ir Algirdo perversmo (1345 m.) naujai įdė­
-    tas Algirdo sūnų ir jų valdų išskaičiavimas, o Jevreji-
+    Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir
+    prasideda sakiniu apie Kristaus gimimą, valdant Romos
+    imperatoriui Augustui, Romos imperatorių ligi Nerono
+    išvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­
+    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
+    dovaujamų imperatoriaus Nerono giminaičio Palemono,
+    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
+    tos ir valstybės pradininkais. Vėliau, išmirus Palemono
+    įpėdiniams ir sekančios Kentauro herbo dinastijos ku­
+    nigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi-
+    minaičių dinastijos valdovui Vyteniui.
   citata_rodoma: "Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir \nprasideda sakiniu apie Kristaus gimimą, valdant Romos \nimperatoriui Augustui, Romos imperatorių ligi Nerono \nišvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­\nmiesi nuo jo persekiojimo, dalis romėnų „bajorų\", va­\ndovaujamų imperatoriaus Nerono giminaičio Palemono, \npabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­\ntos ir valstybės pradininkais. Vėliau, išmirus Palemono \nįpėdiniams ir sekančios Kentauro herbo dinastijos ku­\nnigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi- \nminaičių dinastijos valdovui Vyteniui."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
@@ -1188,14 +1144,11 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   puslapiai: "PDF 254"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
   citata_originali: |
-    Už riterio galvos yra ženklas „O“, virš
-    kurio - žvėries letena ir ženklas „I“. Tuo tarpu virš jo galvos ir
-    nugaros trys ženklai „DIO“, nutolę vienas nuo kito dideliu atstu­
-    mu. Abiejose pusėse yra perlų apvadas, atitrauktas kiek nuo
-    krašto.
-    Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­
-    tai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­
-    kalta tokiu pat stiliumi kaip gerais Romos cezarių laikais.
+    Si moneta yra senesnė už mūsų turimą.
+    Senovinė lietuviška moneta, rasta prie Kauno (buvo aptikta
+    ir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau
+    nukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir
+    kažkokia neaiški raidė.
   citata_rodoma: "Si moneta yra senesnė už mūsų turimą.\nSenovinė lietuviška moneta, rasta prie Kauno (buvo aptikta\nir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau\nnukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir\nkažkokia neaiški raidė."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"

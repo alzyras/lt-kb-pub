@@ -8,12 +8,12 @@ datos:
   - '1817 m.'
 date_start: '1817'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -110,12 +110,10 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   pagrindžia:
     - c-173715
 
-## Citatos
-
-- id: c-173377
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename buvusio „Tygodnik Wilenski“ numeryje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
     prie didelių akmenų, esančių laukuose. 1822 metais pasitaikė
@@ -124,6 +122,29 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
     niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
     kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
     padavimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-173377
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
+    numeryje**.
+    372
+
+    ## Puslapis 372
+
+    vedančio iš Užupio į Antakalnį.
   citata_rodoma: "Luka-\nnas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių\npelenai ilsisi supiltame kalne).\n2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski\nnumeryje**.\n372\n\n## Puslapis 372\n\nvedančio iš Užupio į Antakalnį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

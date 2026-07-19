@@ -75,14 +75,14 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
 <a id="claim-t-197052"></a>
 - t-004
   teiginys: "Jeronimas priduria: „Negi gali būti kas vainikuotas šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios neteisybės, nei kantrios teisybės."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59682
+    - c-59684
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -101,19 +101,6 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Dusburgietis Grigaliui priskiria mintį, kad kankiniu galima būti ir be kalavijo ar liepsnų, jei sieloje išsaugoma kantrybė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
-    jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas
-    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
-    neteisybės, nei kantrios teisybės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -122,11 +109,16 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Jeronimas priduria: „Negi gali būti kas vainikuotas
-    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
-    neteisybės, nei kantrios teisybės. Šitaip prasidėjo naujas karas, šitaip pradėta vartoti
-    naujas kovos priemones, leidusias mums dvasios ginklais nugalėti tikybos ir bažnyčios
-    priešus.
+    (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,
+    kuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:
+
+                     Pergalės būdas tikriausias — kantrybė, tas kovą laimi,
+                   Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
+
+      o kitoje vietoje:
+
+                    Vien tik kantrybė, dorybių viršūnė, įstengia
+                         Ir beginklį įveikt, ir ginkluotą parblokšt!
   citata_rodoma: "(1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,\nkuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:\n\n                 Pergalės būdas tikriausias — kantrybė, tas kovą laimi,\n               Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!\n\n  o kitoje vietoje:\n\n                Vien tik kantrybė, dorybių viršūnė, įstengia\n                     Ir beginklį įveikt, ir ginkluotą parblokšt!"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -135,7 +127,6 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
 
 - id: c-59683
   autorius: "Petras Dusburgietis"
@@ -169,15 +160,15 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    10 (8).  Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu
-    Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).
-    Kadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis,
-    neturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems
-    atiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos,
-    kuri juos saugotų, būdama tarp jų ir prūsų.
+    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
+    jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas
+    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
+    neteisybės, nei kantrios teisybės.
   citata_rodoma: "Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,\njei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas\nšventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios\nneteisybės, nei kantrios teisybės."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

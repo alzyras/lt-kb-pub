@@ -86,12 +86,10 @@ Nenurodyta
   pagrindžia:
     - c-169004
 
-## Citatos
-
-- id: c-169003
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos paskelbimo karalyste.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Suvažiavime
     d ū k o s u v a ž ia v im e
@@ -109,6 +107,31 @@ Nenurodyta
     žiavime smarkiai pasidarbavo Rytų bei Vakarų bažny­
     čių suartėjimo reikalu pasiųstas ten savo tautos suva­
     žiavimo ir kunigaikščio Vytauto.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169003
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kartu
+    jis būgštavo, kad iš garbėtroškos šis nesukeltų naujos
+    nesantaikos tarp tautų, kurios didžiam krikščioniškojo
+    pasaulio labui glaudžiai suaugo į vieną valstybę. Mat
+    imperatorius Zigmantas ir Vytautas jau kelerius metus
+    slapta derėjosi dėl Lietuvos
+    V y ta u ta s  nori p a sk el-
+    karalystės paskelbimo. Kai
+    hti L ietu vą  k a ra ly ste
+    apie šias derybas pradėjo
+    kalbėti kiti žmonės, viską su­
+    žinojo ir Romos kurija.
   citata_rodoma: "Kartu\njis būgštavo, kad iš garbėtroškos šis nesukeltų naujos\nnesantaikos tarp tautų, kurios didžiam krikščioniškojo\npasaulio labui glaudžiai suaugo į vieną valstybę. Mat\nimperatorius Zigmantas ir Vytautas jau kelerius metus\nslapta derėjosi dėl Lietuvos\nV y ta u ta s  nori p a sk el-\nkaralystės paskelbimo. Kai\nhti L ietu vą  k a ra ly ste\napie šias derybas pradėjo\nkalbėti kiti žmonės, viską su­\nžinojo ir Romos kurija."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

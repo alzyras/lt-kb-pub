@@ -7,8 +7,6 @@ datos:
   - '1271 m.'
 date_start: '1271'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +14,8 @@ tags:
   - pilis
   - upė
   - vieta
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,19 +69,6 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
 - susijęs iš Zirgūna: Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184009|papilys]]: Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58777|papilys]]: Prūsai sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį, dalį žmonių paimdami į nelaisvę, o kitus išžudydami.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Pagansčiai buvo kaimas prie Zirgūnos upės, vėliau vadintas Menthen.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis
-    Menthen). Čia 1271 m. buvo sumušti kryžiuočiai (Ewald A.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-59240
@@ -114,13 +101,8 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Todėl jie visi ir pasitraukė,
-    o pasiliko tik vienas kitas. Kokia nuostabi, kokia dosni dievo malonė, mielaširdingai
-    suteikta broliams bei kitiems krikščionims ne tik šioje pilyje, bet ir visoje Prūsijos žemėje
-    ir leidusi jiems vargti šį beveik nepakeliamą vargą, be galo priešingą žmogaus gyvenimo
-    reikmėms, taip kantriai ir nuolankiai, kad jie ne tik neliūdėjo, bet visada džiūgavo,
-    tikėdamiesi galop pelnysią rojaus linksmybes.
-    146 (141).
+    423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis
+    Menthen). Čia 1271 m. buvo sumušti kryžiuočiai (Ewald A.
   citata_rodoma: "423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis\nMenthen). Čia 1271 m. buvo sumušti kryžiuočiai (Ewald A."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

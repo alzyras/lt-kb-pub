@@ -8,16 +8,16 @@ datos:
   - '1280 m.'
 date_start: '1280'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigas
   - mokslininkas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -121,29 +121,6 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 - susijęs iš Kelnas: Albertas Didysis mirė Kelne.
 - susijęs iš Kelnas: Albertas Didysis mirė Kelne.
 - susijęs iš Kelnas: Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Mirus Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo nijos karalystės valdžios galybė, padažnėjo grobikiškų žygių įvairių agresyvių tautų, besiskverbiančių vis toliau į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši niąją jo pakrantę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    207
-    Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar
-    išnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus
-    Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­
-    nijos karalystės valdžios galybė, padažnėjo grobikiškų
-    žygių įvairių agresyvių tautų, besiskverbiančių vis toliau
-    į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­
-    niąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai
-    liko kairiojoje Dnepro pakrantėje savarankiški, be sle­
-    giančios jų valdžios įtakos; netgi esama nedidelių dings­
-    čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
-    tus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-57669
@@ -196,7 +173,9 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Mirus
+    207
+    Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar
+    išnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus
     Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­
     nijos karalystės valdžios galybė, padažnėjo grobikiškų
     žygių įvairių agresyvių tautų, besiskverbiančių vis toliau
@@ -205,23 +184,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     liko kairiojoje Dnepro pakrantėje savarankiški, be sle­
     giančios jų valdžios įtakos; netgi esama nedidelių dings­
     čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
-    tus. Gal tai davė pradžią romėnų žinioms apie gelonų
-    žygį į getų dukras ir net į Rodopų kalnus arba į šiandie­
-    nius Balkanus, kur buvo pažinti puikūs šios tautos lanki­
-    ninkai (§63). Visa tai įtikina, jog gelonai atskirai ir sa­
-    varankiškai rengė tolimus žygius, o jų naudos suvilioti
-    tęsė juos gana ilgus metus. Mes žinome iš Romos impe­
-    rijos istorijos, kad 21 metais prieš Kristaus gimimą, kai
-    Oktaviano Augusto valdomo ginklo šlovė sušvito Rytuose,
-    partų karalius Fraatas grąžino anksčiau iš Rraso atimtus
-    romėnų erelius, o Augusto posūnis Tiberijus, surengęs
-    laimingą žygį į Armėniją, grąžino jos sostą Tigranui; ki­
-    tas karvedys — Germanuos prokonsulas Lentulas — tais
-    pačiais metais kažkur prie Dunojaus sumušė grobikiškus
-    būrius gelonų, kariavusių nepriklausomai nei nuo alanų,
-    nei nuo .sarmatų, Vėliau romėnai sudarė su gelonais tai­
-    kos sutartį, ir atsirado abipusė sąjunga, įpareigojusi ge-
-    1 Ammian Marcelin.
+    tus.
   citata_rodoma: "207\nVėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar\nišnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus\nAleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­\nnijos karalystės valdžios galybė, padažnėjo grobikiškų\nžygių įvairių agresyvių tautų, besiskverbiančių vis toliau\nį pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­\nniąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai\nliko kairiojoje Dnepro pakrantėje savarankiški, be sle­\ngiančios jų valdžios įtakos; netgi esama nedidelių dings­\nčių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­\ntus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -158,23 +158,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-005
-  santrauka: 'Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jas rink­
-    davo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­
-    davo prie didžiųjų šventyklų ir deivės Praurimės žymiausių au­
-    kurų. Buvo ypatingos aukos, kurias atnašauti privalėjo vaidi­
-    lutės. Apskritai visa, kas religijos dalykuose tiesiogiai susiję su
-    moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­
-    josi su gražiąja lytimi, buvo vaidilučių sritis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-172667
@@ -228,15 +211,13 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Visi šie žynių - vyrų ir moterų - vardai paimti iš Meleti-
-    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
-    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
-    Burtininkė (Burte)
-    Lietuvių barde - Burtyniczka. Sakydavo eiles ir dainuoda­
-    vo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­
-    dinimas yra Lasickio mitologijoje.
-    Anksčiau, straipsnyje „Deivės“, matėme savitą moterų die­
-    vybę, arba hamadriadę, vadintą ragana.
+    Jas rink­
+    davo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­
+    davo prie didžiųjų šventyklų ir deivės Praurimės žymiausių au­
+    kurų. Buvo ypatingos aukos, kurias atnašauti privalėjo vaidi­
+    lutės. Apskritai visa, kas religijos dalykuose tiesiogiai susiję su
+    moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­
+    josi su gražiąja lytimi, buvo vaidilučių sritis.
   citata_rodoma: "Jas rink­\ndavo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­\ndavo prie didžiųjų šventyklų ir deivės Praurimės žymiausių au­\nkurų. Buvo ypatingos aukos, kurias atnašauti privalėjo vaidi­\nlutės. Apskritai visa, kas religijos dalykuose tiesiogiai susiję su\nmoterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­\njosi su gražiąja lytimi, buvo vaidilučių sritis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

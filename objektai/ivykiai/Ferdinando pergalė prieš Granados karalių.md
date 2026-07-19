@@ -8,14 +8,14 @@ datos:
   - '1241 m.'
 date_start: '1000'
 date_end: '1241'
-amziai:
-  - 'X'
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
+amziai:
+  - 'X'
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -73,10 +73,12 @@ Nenurodyta
   pagrindžia:
     - c-63573
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kastilijos karalius Ferdinandas nugalėjo Granados saracėnų karalių, kuris vėliau turėjo jam mokėti duoklę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-63573
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
 
@@ -85,26 +87,6 @@ Nenurodyta
 
     kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
     21,33).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-63573
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Grįždamas po to namo, jis atsisakė jam į žmonas
-    pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
-    papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
-    dievui bei jam įstotų į šį ordiną. Paklausę jo prašymų, jie visi sutiko. Tuo metu, kai šitai
-    dėjosi, vienas riteris su daugybe ginklanešių žiauriai apiplėšė šio landgrafo žemę; kai jis
-    traukė atgal, jį pasitiko tarnas, atskubėjęs iš jo pilies, ir pranešė, jog jo žmona atidavė
-    dievui sielą tą pačią valandą, kai, skausmų paguldyta, pagimdė negyvą berniuką.
   citata_rodoma: "23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių\n\n  Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,\n  596 1241 m. įvykiai.\n\nkuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.\n21,33)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

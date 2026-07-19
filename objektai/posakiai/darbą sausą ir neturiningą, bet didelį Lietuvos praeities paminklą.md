@@ -75,23 +75,8 @@ Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    „Naujojoje mitologijoje“ jis ra­
-    šė: „Tos svarbios religijos priminimas ir pažinimas yra
-    nepaprastai reikalingas istorinėms žinioms turtinti
-    dar daugiau, be tinkamo jos išaiškinimo negali būti pa-
-    4 5 2
-
-    žinta lietuvių žemės praeitis“1. Jau 1835 metais pirmo
-    tomo pratarmėje T. Narbutas deklaravo, jog savo, kaip
-    praeities tyrinėtojo, uždavinį jis įgyvendins tik tuomet,
-    kai sugebės parodyti labai didelį tautos istorijos senoviš­
-    kumą, kuris skaitytojui gali būti pateiktas tik „ano laiko
-    dvasia“. Tai buvo itin sunkus uždavinys, bet istorikas
-    manė, jog rekonstrukcija vis dėlto dar galima, „daugybė
-    to paveikslo detalių yra dingę, tačiau išliko visuma, iš­
-    samesnė už visus šiaurės tautų mitus“2. Šios visumos
-    ieškojimas tapo pagrindiniu T. Narbuto uždaviniu; jis
-    ypač ryškus pirmame LTI tome.
+    jau ne vieną kartą cituotame laiške I. Onacevičiui
+      T. Narbutas savo tyrinėjimus mitologijos srityje apibūdino kaip „darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą“3.
   citata_rodoma: "jau ne vieną kartą cituotame laiške I. Onacevičiui\n  T. Narbutas savo tyrinėjimus mitologijos srityje apibūdino kaip „darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą“3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

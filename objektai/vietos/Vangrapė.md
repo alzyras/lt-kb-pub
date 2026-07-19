@@ -28,19 +28,6 @@ media_all_json: |-
 Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią. Dusburgietis teigia, kad 391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė (literatūroje — Ungurupė arba Unguriškė, dab.
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vangrapė, dar vadinta Ungurupe arba Unguriške, išteka iš Mamrų ežero ir šiaurėje siekia Įsruties apylinkes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė
-    (literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR —
-    Vengorapa), ištekanti iš Mamrų ežero, šiaurėje siekianti Įsruties (dab. Černiachovskas)
-    apylinkes. Aprašytos kautynės įvyko, matyt, kiek į šiaurę nuo Mamrų ežero.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,14 +49,10 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
-    Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
-    kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo
-    šventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum]. Į šią kovą broliai
-    stojo su 150 vyrų, o tada ir užvirė didelis mūšis. Galop broliai viešpaties valia užgrobė
-    katilą ir, verždamiesi toliau, iš pamatų sugriovė visus tris kuorus, iš 1300 vyrų, kurie
-    turėjo juos ginti, retas kuris išvengė mirties, o brolių pusėje krito nukautas tik vienas
-    maršalas392.
+    391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė
+    (literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR —
+    Vengorapa), ištekanti iš Mamrų ežero, šiaurėje siekianti Įsruties (dab. Černiachovskas)
+    apylinkes. Aprašytos kautynės įvyko, matyt, kiek į šiaurę nuo Mamrų ežero.
   citata_rodoma: "391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė\n(literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR —\nVengorapa), ištekanti iš Mamrų ežero, šiaurėje siekianti Įsruties (dab. Černiachovskas)\napylinkes. Aprašytos kautynės įvyko, matyt, kiek į šiaurę nuo Mamrų ežero."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -84,14 +67,9 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Kroicburgo pilies sugriovimą
-    Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus
-    metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna,
-    ilgai ir garbingai ten kovoję ir visiškai pristigę maisto, naktį slapta pasitraukė iš pilies.
-    Sitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius.
-    119 (114). Apie Bartenšteino pilies puolimą
-    Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai
-    įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.
+    Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391
+    juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto
+    buvo susitarę.
   citata_rodoma: "Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391\njuos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto\nbuvo susitarę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

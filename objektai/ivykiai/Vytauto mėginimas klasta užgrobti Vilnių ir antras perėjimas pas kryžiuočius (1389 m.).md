@@ -7,14 +7,14 @@ datos:
   - '1389 m.'
 date_start: '1389'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - konfliktas
   - karas
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -80,12 +80,10 @@ Nenurodyta
   pagrindžia:
     - c-178607
 
-## Citatos
-
-- id: c-169020
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vytautas pirmiausia nutarė klasta užgrobti Vilnių, pasinaudodamas gandais apie Henriko ir Ringailės santuoką.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas
     nutarė valdžią Lietuvoje užgrobti klasta, o jei šitai ne­
@@ -96,6 +94,29 @@ Nenurodyta
     stiprėja, o jeigu jo kokia galia nesulaiko, viską pra­
     noksta ir.pasidaro toks įžūlus, kad laužo kas pakliūva.
     Pirmiausia Vytautas nutarė klasta užgrobti Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169020
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Pirmiausia Vytautas nutarė klasta užgrobti Vilnių. Tuo
+    metu kaip tik pasitaikė tin-
+    V iln ių  b an do u žgrob-
+    karna proga, nes sklido gan-
+    ti k lasta
+    dai, esą tariamasi dėl Henri­
+    ko, Mazovijos kunigaikščio,
+    bei Ringailės, Vytauto sesers, santuokos. Pasinaudojęs
+    šia dingstimi, jis paleido gandą, kad vestuvės būsian­
+    čios Vilniuje.
   citata_rodoma: "Pirmiausia Vytautas nutarė klasta užgrobti Vilnių. Tuo\nmetu kaip tik pasitaikė tin-\nV iln ių  b an do u žgrob-\nkarna proga, nes sklido gan-\nti k lasta\ndai, esą tariamasi dėl Henri­\nko, Mazovijos kunigaikščio,\nbei Ringailės, Vytauto sesers, santuokos. Pasinaudojęs\nšia dingstimi, jis paleido gandą, kad vestuvės būsian­\nčios Vilniuje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

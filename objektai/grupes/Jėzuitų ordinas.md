@@ -16,15 +16,15 @@ datos:
   - '2026 m.'
 date_start: '1540'
 date_end: '2026'
+amziai:
+  - 'XVI'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
   - organizacija
-amziai:
-  - 'XVI'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -573,6 +573,87 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   pagrindžia:
     - c-184101
 
+## Reikšmingi paminėjimai
+- c-022
+  santrauka: 'Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus į dieceziją, kurioje stigo krikščioniško mokymo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
+    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
+    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
+    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
+    jų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­
+    damas įsitikinau1 2.
+    Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
+    matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­
+    čių pilkapi ų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-023
+  santrauka: 'Narbutas nurodo ordino istoriko pasakojimą, kad iš nukirsto didelio ąžuolo drevės išskrido sparnuota nepaprasto dydžio rupūžė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
+    matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­
+    čių pilkapi ų. Lietuvoje pilkapiai randami labai retai, dažnai sly­
+    pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
+    mę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­
+    riuos savo padavimuose apie milžinus arba didelius žmones
+    vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
+    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
+    tose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-024
+  santrauka: '1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius neapkrikštytų valstiečių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tie sampilai priklauso toli­
+    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
+    tose. Tačiau kraštui neturint savo istorijos ir žuvus daugeliui
+    rašto šaltinių, į užmarštį nugrimzdo atminimas apie daugelio
+    žymių žmonių kapus. Tokių kapų pasitaiko aukštose vietose
+    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
+    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
+    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
+    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
+    nių kapų. Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-027
+  santrauka: '1655 m., prasidėjus Rusijos ir Švedijos kariuomenių okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to iškel­
+    dinamas į Varšuvą ir paskiriamas jėzuitų namų viršinin­
+    ku bei kolegijos kunigu. Varšuvoje jis 1677 m. ir
+    mirė.
+    Toks ordino vadovybės elgesys su savo' nariu, tu­
+    rinčiu aukščiausius mokslo laipsnius ir didelę pedago­
+    ginę patirtį, verčia daryti prielaidą, kad šis iš Vijūkų
+    kilęs bajorėlis galėjo būti jai kuo nors nepageidautinas.
+    Šią prielaidą paremia ir faktas, kad „Lietuvos isto­
+    riją" išleido ne Akademija, turėjusi savo spaustuvę ir
+    leidusi knygas, o Gdansko spaustuvininkas Jurgis Fers-
+    teris (Georg Förster, apie 1615—1660).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-156531
@@ -1054,15 +1135,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
-    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
-    jų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­
-    damas įsitikinau1 2.
-    Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
-    matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­
-    čių pilkapi ų.
+    Taip jų mokslas rado mora­
+    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis.
   citata_rodoma: "Taip jų mokslas rado mora­\nlinę atramą. Po ketverto metų Žemaičių vyskupas Melchioras\nGiedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­\nmiečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­\nniško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­\nkai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir\nkunigas Jeronimas Kninskis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1077,15 +1156,12 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
-    matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­
-    čių pilkapi ų. Lietuvoje pilkapiai randami labai retai, dažnai sly­
-    pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
-    mę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­
-    riuos savo padavimuose apie milžinus arba didelius žmones
-    vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
-    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
-    tose.
+    Liaudis jų pamokymus priimdavo
+    nuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­
+    lų ir šventųjų girių iškirtimui. Ordino istorikas net aprašo įvykį,
+    kai, nukirtus didžiu lį ąžuolą, iš jo drevės su sparnais didžiausiu
+    triukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­
+    žė. O tai, autoriaus žodžiais tariant, turėjo būti velnias.
   citata_rodoma: "Liaudis jų pamokymus priimdavo\nnuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­\nlų ir šventųjų girių iškirtimui. Ordino istorikas net aprašo įvykį,\nkai, nukirtus didžiu lį ąžuolą, iš jo drevės su sparnais didžiausiu\ntriukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­\nžė. O tai, autoriaus žodžiais tariant, turėjo būti velnias."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1098,19 +1174,16 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tie sampilai priklauso toli­
-    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
-    tose. Tačiau kraštui neturint savo istorijos ir žuvus daugeliui
-    rašto šaltinių, į užmarštį nugrimzdo atminimas apie daugelio
-    žymių žmonių kapus. Tokių kapų pasitaiko aukštose vietose
-    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
-    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
-    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
-    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
-    nių kapų. Lietuvos didžiojo kunigaikščio Gedimino kapas yra
-    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
-    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
-    avide cupientes tumulos, quam maximos efficere (Herodotas).
+    Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
+    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
+    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
   citata_rodoma: "Nepai­\nsant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje\nŽemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­\nma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­\ngų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1164,18 +1237,15 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to iškel­
-    dinamas į Varšuvą ir paskiriamas jėzuitų namų viršinin­
-    ku bei kolegijos kunigu. Varšuvoje jis 1677 m. ir
-    mirė.
-    Toks ordino vadovybės elgesys su savo' nariu, tu­
-    rinčiu aukščiausius mokslo laipsnius ir didelę pedago­
-    ginę patirtį, verčia daryti prielaidą, kad šis iš Vijūkų
-    kilęs bajorėlis galėjo būti jai kuo nors nepageidautinas.
-    Šią prielaidą paremia ir faktas, kad „Lietuvos isto­
-    riją" išleido ne Akademija, turėjusi savo spaustuvę ir
-    leidusi knygas, o Gdansko spaustuvininkas Jurgis Fers-
-    teris (Georg Förster, apie 1615—1660).
+    1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
+    okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.
+    A. Kojelavičius dalyvavo ordino narių susirinkime
+    Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio­
+    tiniu. Jos reikalais važinėjo į Romą! Po 1657 m. pa­
+    liaubų jis jau vėl Vilniuje. Miestui tebesant Rusijos
+    ir Ukrainos sukilėlių kariuomenės okupuotam, jėzuitai
+    atidarė čia mokyklą, vis dėlto mokslą reikėjo nutrauk­
+    ti dėl prasidėjusio maro ir bado.
   citata_rodoma: "1655 m., prasidėjus Rusijos ir Švedijos kariuomenių\nokupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.\nA. Kojelavičius dalyvavo ordino narių susirinkime\nVaršuvoje, kur išrenkamas Lietuvos provincijos įgalio­\ntiniu. Jos reikalais važinėjo į Romą! Po 1657 m. pa­\nliaubų jis jau vėl Vilniuje. Miestui tebesant Rusijos\nir Ukrainos sukilėlių kariuomenės okupuotam, jėzuitai\natidarė čia mokyklą, vis dėlto mokslą reikėjo nutrauk­\nti dėl prasidėjusio maro ir bado."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

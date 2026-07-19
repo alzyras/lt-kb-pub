@@ -28,27 +28,6 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
 
 ## Teiginiai
 
-<a id="claim-t-191477"></a>
-- t-001
-  teiginys: "Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sunus -> Odoakras: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Telanas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Sakinys tiesiogiai nurodo, kad Telanas buvo Odoakro sūnus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Telanas buvo sūnus Odoakras (0.96)"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-174359
-
 <a id="claim-t-197824"></a>
 - t-002
   teiginys: "Telanas savo rankomis nužudė jo rūmuose puotavusį Odoakrą."
@@ -105,7 +84,6 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 ## Ryšiai

@@ -12,15 +12,15 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+amziai:
+  - 'XV'
+  - 'D'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - karalius
-amziai:
-  - 'XV'
-  - 'D'
 periodo_grupes: []
 media_total_count: '2'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/0/02/Mirozhskaya_2.jpg'
@@ -388,6 +388,46 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - susijęs iš Nalšėnai: Per Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo Gerdenis.
 - susijęs iš Pskovas: 1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.
 - susijęs iš Svyrių pilis (pilis): Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį.
+## Reikšmingi paminėjimai
+- c-011
+  santrauka: 'Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos vardas nežinomas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Čia minimas Gedimino sūnus Na­
+    rimantas gyveno 1277— 1348.II.2.
+    3 Daumanto
+    vardas,
+    veikiausiai, paimtas iš 1M ir kitų rusų
+    metraščių minimo XIII a. antrosios pusės Nalšios žemės kunigaikš­
+    čio, persikėlusio j Pskovu ir tapusio Pskovo kunigaikščiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-013
+  santrauka: 'Kunigaikštis Daumantas suprato, kad ne jo jėgoms atsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi lies, kol jis nebus prasiveržęs per Narimanto kariuo menę.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    laikos didysis kunigaikštis Daumantas pasiuntė šešis
+    vyrus, kad jo brolį Traidenį nužudytų. Ir kai Traidenis
+    nesisaugodamas ėjo iš pirties, tie jo vyrai klastingai
+    nužudė 9.
+    O pats Daumantas, sutelkęs savo pskoviškę ir po-
+    lockiškę kariuomenę, ištraukė į Lietuvą, ketindamas
+    tapti Lietuvos ir Žemaičių kunigaikščiu.
+    Ir minėtasis vienuolis Lauras, lietuviškai vadinęsis
+    Rimantu, o rusiškai Vosyliumi, gedėdamas dėl savo tė­
+    vo, didžiojo kunigaikščio Traidenio, mirties ir atsisa­
+    kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas
+    lietuvių jėgas, patraukė prieš Daumantą, degdamas troš­
+    kimu atkeršyti už savo tėvo kraują.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-04827
@@ -646,13 +686,10 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Čia minimas Gedimino sūnus Na­
-    rimantas gyveno 1277— 1348.II.2.
-    3 Daumanto
-    vardas,
-    veikiausiai, paimtas iš 1M ir kitų rusų
-    metraščių minimo XIII a. antrosios pusės Nalšios žemės kunigaikš­
-    čio, persikėlusio j Pskovu ir tapusio Pskovo kunigaikščiu.
+    Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos
+    vardas nežinomas. 1266 m. persikėlęs j Pskovą ir tapęs Pskovo ku­
+    nigaikščiu, Daumantas vedė Aleksandro Nevskio sūnaus Dimitrijaus
+    dukterį.
   citata_rodoma: "Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos \nvardas nežinomas. 1266 m. persikėlęs j Pskovą ir tapęs Pskovo ku­\nnigaikščiu, Daumantas vedė Aleksandro Nevskio sūnaus Dimitrijaus \ndukterį."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -693,19 +730,14 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    laikos didysis kunigaikštis Daumantas pasiuntė šešis
-    vyrus, kad jo brolį Traidenį nužudytų. Ir kai Traidenis
-    nesisaugodamas ėjo iš pirties, tie jo vyrai klastingai
-    nužudė 9.
-    O pats Daumantas, sutelkęs savo pskoviškę ir po-
-    lockiškę kariuomenę, ištraukė į Lietuvą, ketindamas
-    tapti Lietuvos ir Žemaičių kunigaikščiu.
-    Ir minėtasis vienuolis Lauras, lietuviškai vadinęsis
-    Rimantu, o rusiškai Vosyliumi, gedėdamas dėl savo tė­
-    vo, didžiojo kunigaikščio Traidenio, mirties ir atsisa­
-    kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas
-    lietuvių jėgas, patraukė prieš Daumantą, degdamas troš­
-    kimu atkeršyti už savo tėvo kraują.
+    Kunigaikštis Daumantas suprato, kad ne jo jėgoms
+    atsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi­
+    lies, kol jis nebus prasiveržęs per Narimanto kariuo­
+    menę. O pats, nulipęs iš pilies ir prasimušęs per Nari­
+    manto kariuomenę, leidosi bėgti ir pribėgo Pskovo
+    miestą. Pskovo vyrai, matydami jį esant dorą ir išmin­
+    tingą vyrą, išsirinko jį savo valdovu ir ėmė vadinti
+    Pskovo didžiuoju kunigaikščiu2 2 .
   citata_rodoma: "Kunigaikštis Daumantas suprato, kad ne jo jėgoms \natsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi­\nlies, kol jis nebus prasiveržęs per Narimanto kariuo­\nmenę. O pats, nulipęs iš pilies ir prasimušęs per Nari­\nmanto kariuomenę, leidosi bėgti ir pribėgo Pskovo \nmiestą. Pskovo vyrai, matydami jį esant dorą ir išmin­\ntingą vyrą, išsirinko jį savo valdovu ir ėmė vadinti \nPskovo didžiuoju kunigaikščiu2 2 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

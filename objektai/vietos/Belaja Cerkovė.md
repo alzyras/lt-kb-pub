@@ -73,10 +73,12 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
   pagrindžia:
     - c-175581
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cerkovę Kijevo gubernijoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-175580
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
     ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
@@ -85,29 +87,6 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
     Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
     statytas XII amžiaus pradžioje po to, kai jį sunaikino
     poloviečiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-175580
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Tatiščevas**, gal geriau žinojęs šiuos
-    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
-    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
-    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
-    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
-    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
-    vės upę Ros. Topografiniuose prisiminimuose, apie ku­
-    riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
-    aprašome: nuo Oskolo miestelio, esančio prie to paties
-    1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida.
   citata_rodoma: "Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

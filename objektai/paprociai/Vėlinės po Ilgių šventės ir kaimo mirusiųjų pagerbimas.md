@@ -77,10 +77,12 @@ Nenurodyta
   pagrindžia:
     - c-172835
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Lasickiu, Vėlines aiškina kaip po Ilgių šventės vykusį viso kaimo mirusiųjų pagerbimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172834
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai visiškai primena Antikos žmonių
     Circumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-
@@ -90,35 +92,6 @@ Nenurodyta
     apeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.
     Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai­
     mas visiems savo mirusiesiems pagerbti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172834
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė,
-    jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš
-    mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido­
-    tuvių apeigas ir per žynius ieškotų priemonių laimingam am­
-    žinajam gyvenimui pasiekti. Mirštančiųjų reikalavimai būda­
-    vo šventi, nes priešingu atveju neišvengiamai grėsė dievų kerš­
-    tas, kurio Poklius tuomet nebūtų atsisakęs įvykdyti. Rankraš­
-    tinėje Lietuvos (Bychovco) kronikoje taip apie tai sakoma:
-    y
-    koli kotoroho kniazia Litovskoho abo pana sozženo tilo, tohdy
-    pry nich kladyvali, nohty rysij, abo medvežyi, dla toho iž viru
-    tuiu mili, iž sudny den mil byty, y tak snamenali sobi, ižby boh
-    milpryty y sedity nahory vysokoy, y sudyty žywych y mertvych, na
-    kotoruiuž horu tmdno budėt vzoyty, bez tych nohtey rysich, abo
-    medvežych, y dla toho tyle nohty podle nich kladyvali, na koto-
-    22 Lucas David.
   citata_rodoma: "Tai visiškai primena Antikos žmonių\nCircumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-\nlonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be\nšitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­\nvosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia\napeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.\nTa diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai­\nmas visiems savo mirusiesiems pagerbti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

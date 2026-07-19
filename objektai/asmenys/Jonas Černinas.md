@@ -59,10 +59,12 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
   pagrindžia:
     - c-178732
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169580
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nau­
     jų karių ieškojo visoje Lietuvoje. Čekui Jonui Černi-
@@ -71,27 +73,6 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
     svetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­
     dytinė kariuomenė neatvyko laiku į stovyklą, nes už-
     gaišo pakelėje beplėšikaudama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169580
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Apie šį pralaimėjimą
-    Aleksandras sužinojo prie Bobro upės; norėdamas su­
-    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
-    se. Kodėl vėliau Aleksandras su kariuomene patraukė
-    link Polocko, nei kur parašyta radau, nei pats atspėti
-    galėjau. Mat teigiama, jog visos priešo jėgos, veda­
-    mos Jakovo Zachariničiaus, Andrejaus Možaiskio ir
-    Andrejaus Šemiačičiaus, patraukusios į Severską.
   citata_rodoma: "Nau­\njų karių ieškojo visoje Lietuvoje. Čekui Jonui Černi-\nnui Aleksandras pavedė nusisamdyti Čekijoje bei Vo­\nkietijoje didelius algininkų būrius. Poznanėje netrukus\nsvetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­\ndytinė kariuomenė neatvyko laiku į stovyklą, nes už-\ngaišo pakelėje beplėšikaudama."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

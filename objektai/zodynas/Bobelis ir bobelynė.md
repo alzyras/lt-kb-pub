@@ -71,15 +71,8 @@ Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
   puslapiai: "p. 48-49 (PDF 46-47)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 48-49 (PDF 46-47)."
   citata_originali: |
-    1864 me­
-    tais valdžia neturintiems davinėjo žemės, dirbo bobelius*) ; Petras ir
-    tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.
-    Užėjus 1867
-    *) bobelis — mažai turis žemės valstietis.
-    48
-
-    metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų
-    nusipirko dvylika hektarų žemės.
+    1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius*) ; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.
+    Užėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės.
   citata_rodoma: "1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius*) ; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.\nUžėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"

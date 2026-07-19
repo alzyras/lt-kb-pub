@@ -7,14 +7,14 @@ datos:
   - '1485 m.'
 date_start: '1485'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,46 +33,6 @@ media_all_json: |-
 ## Santrauka
 
 Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupūžės ir dobilo lapo atvaizdu.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupūžės ir dobilo lapo atvaizdu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    IV lentelė, 21-asis piešinys. Rupūžė, apversta kojomis į vir­
-    šų, ties kuria dobilo lapas. Antspaudą pridėjo Grigas Ramoš-
-    kaitis Minautas (Hrehor Romaszkowicz Minowt) 1485 metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173111
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Lygiakraščiame šešiakampyje
-    apskritimas, kuriame pavaizduotas kažkoks trišakis augalas;
-    šakų galuose lyg vynuogių lapai ar panašios Į gvazdikus gėlės.
-    Šešiakampio kampuose yra aiškios runos - venediškos arba
-    turinčios vaizduoti Užvyslio slavus, anot žinovų, reiškiančios
-    B. A. M. K. E. Z. Nežinia, kas prispaudė tą antspaudą; jis bu­
-    vo pridėtas prie testamento ir yra tarp penketo kitų su lenkiš­
-    kais herbais; dokumentas yra iš 1630 metų. Ponas Tadas Vo­
-    lianskis skaito Y 'icpti'b> „Mattez (MATTEZ)“, taiyra „Mal-
-    jasz“, arba Matas**.
-  citata_rodoma: "IV lentelė, 21-asis piešinys. Rupūžė, apversta kojomis į vir­\nšų, ties kuria dobilo lapas. Antspaudą pridėjo Grigas Ramoš-\nkaitis Minautas (Hrehor Romaszkowicz Minowt) 1485 metais."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -95,3 +55,22 @@ Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupū�
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173111
+
+## Citatos
+
+- id: c-173111
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    IV lentelė, 21-asis piešinys. Rupūžė, apversta kojomis į vir­
+    šų, ties kuria dobilo lapas. Antspaudą pridėjo Grigas Ramoš-
+    kaitis Minautas (Hrehor Romaszkowicz Minowt) 1485 metais.
+  citata_rodoma: "IV lentelė, 21-asis piešinys. Rupūžė, apversta kojomis į vir­\nšų, ties kuria dobilo lapas. Antspaudą pridėjo Grigas Ramoš-\nkaitis Minautas (Hrehor Romaszkowicz Minowt) 1485 metais."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

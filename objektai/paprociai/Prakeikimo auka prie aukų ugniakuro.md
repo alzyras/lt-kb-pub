@@ -58,23 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-172813
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas prakeikimo auką siejo su žynio prakeikimu ir ištrėmimu, po kurių prie aukų ugniakuro būdavo pjaunamas galvijas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    16. Prakeikimo auka būdavo atnašaujama tuomet, kai žy­
-    nys ką nors prakeikdavo ir ištremdavo iš šalies. Tuomet prie au­
-    kų ugniakuro pjaudavo galviją, iš jo išimdavo vidurius ir sude­
-    gindavo, nes su jais nebuvo galima kitaip elgtis. Ten prie bet ku­
-    rios aukos sukalbėdavo prakeikimo formulę, o po to viską su­
-    mesdavo į pelkę*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172813
@@ -82,13 +65,12 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Į mote­
-    ris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­
-    žintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug
-    kitokių pamokymų. Iš to matyti, kad įvedus krikščionybę bu­
-    vo pamėgdžiojama katalikų išpažintis, kurios apeigos kažkaip
-    nuo seno susiklostė stabmeldystėje. Vaidilos priimdavo išpa­
-    žintis kaimiečių, kurie slapčiomis dar laikėsi senojo tikėjimo.
+    16. Prakeikimo auka būdavo atnašaujama tuomet, kai žy­
+    nys ką nors prakeikdavo ir ištremdavo iš šalies. Tuomet prie au­
+    kų ugniakuro pjaudavo galviją, iš jo išimdavo vidurius ir sude­
+    gindavo, nes su jais nebuvo galima kitaip elgtis. Ten prie bet ku­
+    rios aukos sukalbėdavo prakeikimo formulę, o po to viską su­
+    mesdavo į pelkę*.
   citata_rodoma: "16. Prakeikimo auka būdavo atnašaujama tuomet, kai žy­\nnys ką nors prakeikdavo ir ištremdavo iš šalies. Tuomet prie au­\nkų ugniakuro pjaudavo galviją, iš jo išimdavo vidurius ir sude­\ngindavo, nes su jais nebuvo galima kitaip elgtis. Ten prie bet ku­\nrios aukos sukalbėdavo prakeikimo formulę, o po to viską su­\nmesdavo į pelkę*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

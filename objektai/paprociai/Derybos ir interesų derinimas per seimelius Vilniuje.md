@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Derybos ir interesų derinimas per seimelius Vilniuje
 
 ## Santrauka
@@ -84,27 +85,6 @@ Nenurodyta
   pagrindžia:
     - c-183953
 
-<a id="claim-t-200620"></a>
-- t-002
-  teiginys: "1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasikalbėti ir pasiderėti dėl brolio interesų."
-  atnaujinta: "2026-07-14 11:41"
-  sprendimo_priezastis: "gap::customs"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Derybos ir interesų derinimas per seimelius Vilniuje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Derybos ir interesų derinimas per seimelius Vilniuje\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
-  temporaliniai_duomenys: "įvykio data: 1752 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas laiško subjektas ir palikta seimelio kaip derybų progos funkcija. Brolio vardas nepridėtas, nes citatoje jo nėra."
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
-  pagrindžia:
-    - c-184005
-
 ## Citatos
 
 - id: c-183953
@@ -126,5 +106,3 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  pagrindzia:
-    - t-002

@@ -43,16 +43,6 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 
 ## Teiginiai
 
-<a id="claim-t-82984"></a>
-- t-005
-  teiginys: "Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-79402
-
 <a id="claim-t-82985"></a>
 - t-006
   teiginys: "Zigmantas mirė 1632 m., iškaraliavęs net 44 m."
@@ -216,12 +206,10 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   citata_rodoma: "2. Zigmantas Vaza ir jo valdymas 298"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-79403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -369,4 +357,4 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - t-016
 
 ## Ryšiai
-- Zigmantas Vaza keliavo į [[objektai/vietos/Švedija]]
+- Zigmantas Vaza keliavo į Švedija

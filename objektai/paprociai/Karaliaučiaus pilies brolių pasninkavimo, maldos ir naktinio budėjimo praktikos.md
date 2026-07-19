@@ -110,12 +110,9 @@ Nenurodyta
     - c-63426
     - c-63424
 
-## Citatos
-
-- id: c-63424
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     233 (226). Apie kito brolio gyvenimą toje pačioje pilyje
     Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
@@ -125,6 +122,28 @@ Nenurodyta
     kas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais ir trikdė jam
     ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
     dievui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+    - t-005
+    - t-007
+
+## Citatos
+
+- id: c-63424
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje
+
+      Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.
+    Jie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis
+    budėjo ir klūpojo bažnyčioje. Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios
+    pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.
   citata_rodoma: "Apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje\n\n  Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.\nJie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis\nbudėjo ir klūpojo bažnyčioje. Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios\npilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

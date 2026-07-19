@@ -8,14 +8,14 @@ datos:
   - '1752 m.'
 date_start: '1749'
 date_end: '1752'
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - institucija
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -117,6 +117,40 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Lopacinskio minimus būsimus seimelius. Citata palaiko tiek datą, tiek objektus."
   pagrindžia:
     - c-184019
+
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  citata_originali: |
+    Iš politinių institucijų bene dažniausiai kanauninko bei bajorų pasauliečių susiraši-
+    nėjimuose būdavo minimi Vilniaus, taip pat sostinėje vykdavę Smolensko ir Starodubo,
+    seimeliai. 1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
+    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
+    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
+    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
+    Karolis Piotrovskis (Karol Piotrowski) [9].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+    - t-002
+    - t-001
+
+- c-002
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  citata_originali: |
+    1752 m. J. D. Lopacinskis minėjo, kad atvyks
+    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
+    per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
+    [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
+    kintas Vilniaus seimelio rezultatais [29].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 

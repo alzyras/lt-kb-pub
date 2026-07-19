@@ -142,15 +142,9 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Turbūt pirmasis buvo pernelyg senas tam, kad būtų tė­
-    vas Odoakro, kuris, tai žinoma iš Kasiodoro raštų, buvo
-    nepalyginti jaunesnis už Valamiro sūnų — ostrogotų ka­
-    1 K. Sirvydo žodynas. P. 339. Senovės rašytojai, tokie kaip Pro-
-    kopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-
-    mut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie­
-    tuvių kalboje, nė vienoje jos tarmėje, raidė „f" nėra žinoma. Lietu­
-    vis, nuo pat gimimo pripratęs prie savo kalbos, nemoka ištarti šio
-    garso. Pavyzdžiui, žodį „falszyay" jis taria „palszymy“*.
+    Senovės rašytojai, tokie kaip Prokopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-
+    mut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie-
+    tuvių kalboje, nė vienoje jos tarmėje, raidė „f“ nėra žinoma.
   citata_rodoma: "Senovės rašytojai, tokie kaip Prokopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-\nmut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie-\ntuvių kalboje, nė vienoje jos tarmėje, raidė „f“ nėra žinoma."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -186,16 +180,13 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Įvairiose šalyse atsirado
+    Ne­
+    trukus Ricimeras atsikratė Majorijano, o kartu neteko
+    vieningos imperijos valdžios. Įvairiose šalyse atsirado
     įvairių imperatorių ir barbarų karaliukų. Imperatoriaus
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
     darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
-    galbos iš Konstantinopolio. Per šią sumaištį greitai kei­
-    tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas
-    neilgai valdė; pagaliau Ricimero mirtis davė progą sam­
-    dytai kariuomenei vadovavusiam Orestui į imperatoriaus
-    sostą pasodinti savo dar jauną sūnų Romulą Momilijų
-    Augustulą.
+    galbos iš Konstantinopolio.
   citata_rodoma: "Ne­\ntrukus Ricimeras atsikratė Majorijano, o kartu neteko\nvieningos imperijos valdžios. Įvairiose šalyse atsirado\nįvairių imperatorių ir barbarų karaliukų. Imperatoriaus\nsosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­\ndarė beveik vien Italija, vadovu Severą ir šaukėsi pa­\ngalbos iš Konstantinopolio."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

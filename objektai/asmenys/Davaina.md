@@ -67,6 +67,7 @@ Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė
   pagrindžia:
 ## Teiginiai
 
+## Teiginiai
+
 - susijęs iš [[objektai/ivykiai/Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis.md#claim-t-185621|Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis]]: Kojelavičius rašo, kad Stanislovas Lesniovolskis su lenkų, lietuvių ir Davainos būriu netikėtai susidūrė su 45 tūkstančiais priešų.
 - susijęs iš [[objektai/daiktai/Habdankas.md#claim-t-186862|Habdankas]]: Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe.
-## Teiginiai

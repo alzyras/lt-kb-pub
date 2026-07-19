@@ -48,23 +48,6 @@ Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė
   pagrindžia:
     - c-174267
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė ir Pavyslę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
-    pakrantės ligi Dauguvos žemupio. Tokios nuomonės yra
-    visi senovės tyrinėtojai, išskyrus Depingą, kuris be jokių
-    pagrįstų įrodymų priskiria jam čia ir Pavyslę1 2. Jame sa­
-    vo valdymą plėtė gotai, todėl kraštas ir buvo vadinamas
-    Gotija su būdvardžiu, reiškiančiu krašto gamtos savybę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174267
@@ -72,17 +55,12 @@ Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Jame sa­
+    Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
+    pakrantės ligi Dauguvos žemupio. Tokios nuomonės yra
+    visi senovės tyrinėtojai, išskyrus Depingą, kuris be jokių
+    pagrįstų įrodymų priskiria jam čia ir Pavyslę1 2. Jame sa­
     vo valdymą plėtė gotai, todėl kraštas ir buvo vadinamas
     Gotija su būdvardžiu, reiškiančiu krašto gamtos savybę.
-    Pirmiausia šis pavadinimas buvo taikomas tiesiog Že­
-    maitijai, o .vėliau, didėjant skandinavų agresijai, pamažu
-    perėjo į kairiąją Nemuno pakrantę Vyslos link, taip pat
-    į kairiąją Vyslos pakrantę ir kitapus Oderio net ligi Vag-
-    rijos3. Bet ilgiausiai jis išsilaikė savo pirmykštėje vietoje,
-    t. y. Žemaitijoje ir Kurše, kur atskiroje Kuršo provincijoje,
-    kurią sudaro dvi apskritys: senoji ir naujoji, vadinama
-    Rachdija, lig šiol išliko šio pavadinimo pėdsakas.
   citata_rodoma: "Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios\npakrantės ligi Dauguvos žemupio. Tokios nuomonės yra\nvisi senovės tyrinėtojai, išskyrus Depingą, kuris be jokių\npagrįstų įrodymų priskiria jam čia ir Pavyslę1 2. Jame sa­\nvo valdymą plėtė gotai, todėl kraštas ir buvo vadinamas\nGotija su būdvardžiu, reiškiančiu krašto gamtos savybę."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

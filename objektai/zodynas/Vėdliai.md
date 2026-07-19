@@ -37,17 +37,6 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
 
 - Terminas čia yra labai konkretus apeiginis vaidmuo, bet ne visai kasdienis žodis.
 
-## Teiginiai
-
-<a id="claim-t-07657"></a>
-- t-002
-  teiginys: "`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09590
-
 ## Citatos
 
 - id: c-09589
@@ -75,5 +64,3 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

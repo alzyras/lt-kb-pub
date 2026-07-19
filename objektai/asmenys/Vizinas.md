@@ -84,29 +84,6 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
     - c-174119
     - c-174120
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vien žvilgsniu nugalėti prieš jį pakeltą ginklą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Jį vadindavo plėšriuoju slibi­
-    nu2, be to, jis turėjęs stiprią burtų galią, nes kiekvieną
-    prieš jį pakeltą ginklą mokėjo vien žvilgsniu nugalėti.
-    Taip pat buvo toks drąsus, kad ¡grobdavo iš vyrų jaunas
-    žmonas ir nuotakas iš tėvų namų. Pirkliavę Danijoje rusai
-    guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
-    jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė
-    jį, pasitelkęs ¡gudrybę. Žinodamas, kad slibinas žvilgsniu
-    užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
-    oda; taip burtininko akims nepasiekiamas ¡ginklas padėjo
-    jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
-    atsargus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174119
@@ -114,7 +91,11 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pirkliavę Danijoje rusai
+    Jį vadindavo plėšriuoju slibi­
+    nu2, be to, jis turėjęs stiprią burtų galią, nes kiekvieną
+    prieš jį pakeltą ginklą mokėjo vien žvilgsniu nugalėti.
+    Taip pat buvo toks drąsus, kad ¡grobdavo iš vyrų jaunas
+    žmonas ir nuotakas iš tėvų namų. Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
     jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė
     jį, pasitelkęs ¡gudrybę. Žinodamas, kad slibinas žvilgsniu

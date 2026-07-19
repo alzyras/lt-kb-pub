@@ -46,15 +46,6 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   semantiniai_rysiai: "Latviai gyveno Dauguva (0.82); Latviai gyveno Latgalija (0.74); Latviai gyveno Vidžemė (0.74)"
   pagrindžia:
     - c-67446
-
-<a id="claim-t-67605"></a>
-- t-002
-  teiginys: "Aizkrauklė šaltinio rodyklėje tapatinama su buvusia Ašerade."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-67445
 - susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66445|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: 1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.
 - susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66446|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių.
 - susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
@@ -89,23 +80,15 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Plementa), p.
-    Kluniečių ordinas
-    Knivitė, u.
-    Kobrinas
-    Kolainiai (Colayne, Kalaine, p., greičiausiai Jurbarko Bišpilio, Višpilio piliakalnyje)
-    Colm/Kolm
-    Colmelawcken, Collmilawken
-    Colmen (deš.
+    Aizkrauklė (buv. Ašeradė)
+      Akmena (Jūros intakas), u.
   citata_rodoma: "Aizkrauklė (buv. Ašeradė)\n  Akmena (Jūros intakas), u."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-67446
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

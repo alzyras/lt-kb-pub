@@ -45,18 +45,6 @@ Po ankstesnio aiškinimo pateikiama kaip atskira praktiška gyvenimo formulė.
 
 Savarankiškas prisitaikymo ir atsargumo posakis.
 
-## Teiginiai
-
-<a id="claim-t-195439"></a>
-- t-001
-  teiginys: "Savarankiškai užrašytas posakis apie tarnavimą Dievui ir velnio neužmiršimą."
-  atnaujinta: "2026-07-12 02:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177860
-
 ## Citatos
 
 - id: c-177860
@@ -74,5 +62,3 @@ Savarankiškas prisitaikymo ir atsargumo posakis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

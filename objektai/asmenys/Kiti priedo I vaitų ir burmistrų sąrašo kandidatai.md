@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
 
 ## Santrauka
@@ -62,25 +63,6 @@ media_all_json: |-
   temporaliniai_duomenys: "įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m.; įvykio data: 1620 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sakinys pataisytas į aiškią faktinę formuluotę be sąrašo triukšmo."
-  pagrindžia:
-    - c-83333
-
-<a id="claim-t-87351"></a>
-- t-003
-  teiginys: "Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Motiejus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Motiejus Božiminskis paskirtas Vilniaus vaitu; kandidatuose yra tik bendras Motiejaus asmens puslapis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka cituojamą sąrašo informaciją."
   pagrindžia:
     - c-83333
 
@@ -333,5 +315,4 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-003
     - t-008

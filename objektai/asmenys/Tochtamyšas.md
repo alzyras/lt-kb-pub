@@ -8,15 +8,15 @@ datos:
   - '1409 m.'
 date_start: '1409'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - valdovas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -92,15 +92,22 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 <a id="claim-t-184842"></a>
 - t-004
   teiginys: "Tochtamyšas Vilniuje buvo Vytauto priimtas, gavo paramos pažadą ir buvo paskelbtas Užvolgio skitų chanu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tochtamyšas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamyšas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
-    - c-168204
+    - c-168203
 
 <a id="claim-t-184843"></a>
 - t-005
@@ -123,69 +130,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     - c-168204
 - susijęs iš [[objektai/posakiai/„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“.md#claim-t-195033|„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“]]: Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prieš Temir-Kutlujų žadėjo pasodinti Tochtamyšą į chanų sostą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179003|Kryžiuočių ordinas]]: Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kerim Berdis,
-    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
-    pasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas
-    savo jėgomis nieko laimėti ir nepajėgdamas susitaikyti
-    su likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­
-    tu su svarbiausiais savo šalininkais. Vytautas, ne vieną
-    kartą ligi tol patyręs šios tautos tvirtą palankumą ir
-    sulaukęs karo metais pagalbos, suprato, jog valstybei
-    būsianti didelė nauda, jeigu palenks į save šios tautos
-    vadą, jį užstodamas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Tochtamyšas Vilniuje buvo Vytauto priimtas, gavo paramos pažadą ir buvo paskelbtas Užvolgio skitų chanu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vytautas, ne vieną
-    kartą ligi tol patyręs šios tautos tvirtą palankumą ir
-    sulaukęs karo metais pagalbos, suprato, jog valstybei
-    būsianti didelė nauda, jeigu palenks į save šios tautos
-    vadą, jį užstodamas. Štai todėl maloniai ir noriai priėmė
-    Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu­
-    les iškilmes, uždėjo jam perlais bei brangakmeniais nu­
-    sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­
-    rastai vadinamu caru) ir pakėlė į valdovus. Tochtamy­
-    šas sugrįžo į tėvynę, svajodamas apie valdžią, tačiau be
-    savo krašto kariuomenės, o lydimas Vytauto pulkų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nie­
-    ko gero nesusilaukė Tochtamyšas, mat tas, kuris,
-    398
-
-    ## Puslapis 397
-
-    kopdamas į statų kalną, pasiekia saugią viršukalnę,
-    lengviau nustumia besiveržiantį aukštyn, nei leidžiasi
-    nustumiamas. Kerim Berdis, sutelkęs stiprią kariuome­
-    nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo
-    dalinius, o patį brolį nužudė. 2uvus Tochtamyšui, tre­
-    čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir
-    kraujo praliejimo, taip pat pabėgo pas Vytautą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-36521
@@ -215,21 +159,16 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Danijos karalius ir Pomeranijos kunigaikštis, atvykę
-    kryžiuočiams į pagalbą ir supratę, kas teisus ir netei­
-    sus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,
-    perėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,
-    kuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu
-    šie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­
-    sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o
-    karalius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į
-    Srodą, vos neprarado gyvybės. Mat juodi debesys ap­
-    traukė dangų, pakilo nepaprasta audra, sugriaudėjo
-    perkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­
-    lydovus, keturis arklius iš šešių ir penktą ginklanešio
-    žirgą.
-    Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek
-    pailsėjo ir patraukė iš vakarų į rytus.
+    Kerim Berdis,
+    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
+    pasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas
+    savo jėgomis nieko laimėti ir nepajėgdamas susitaikyti
+    su likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­
+    tu su svarbiausiais savo šalininkais. Vytautas, ne vieną
+    kartą ligi tol patyręs šios tautos tvirtą palankumą ir
+    sulaukęs karo metais pagalbos, suprato, jog valstybei
+    būsianti didelė nauda, jeigu palenks į save šios tautos
+    vadą, jį užstodamas.
   citata_rodoma: "Kerim Berdis,\ngalingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo\npasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas\nsavo jėgomis nieko laimėti ir nepajėgdamas susitaikyti\nsu likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­\ntu su svarbiausiais savo šalininkais. Vytautas, ne vieną\nkartą ligi tol patyręs šios tautos tvirtą palankumą ir\nsulaukęs karo metais pagalbos, suprato, jog valstybei\nbūsianti didelė nauda, jeigu palenks į save šios tautos\nvadą, jį užstodamas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -242,41 +181,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat juodi debesys ap­
-    traukė dangų, pakilo nepaprasta audra, sugriaudėjo
-    perkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­
-    lydovus, keturis arklius iš šešių ir penktą ginklanešio
-    žirgą.
-    Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek
-    pailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,
-    netekę mirusio chano Saladi-
-    1419 m eta i
-    no, suskilo atskiromis grupė-
-    S k itų ta u to m s V y ta u -
-    mis: vieni vieną, kiti kitą
-    tas p a s k y r ė v a ld o v u s
-    mirusio valdovo sūnų siūlė
-    sosto įpėdiniu. Kerim Berdis,
-    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
-    pasiekti geruoju.
-  citata_rodoma: "Vytautas, ne vieną\nkartą ligi tol patyręs šios tautos tvirtą palankumą ir\nsulaukęs karo metais pagalbos, suprato, jog valstybei\nbūsianti didelė nauda, jeigu palenks į save šios tautos\nvadą, jį užstodamas. Štai todėl maloniai ir noriai priėmė\nTochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu­\nles iškilmes, uždėjo jam perlais bei brangakmeniais nu­\nsagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­\nrastai vadinamu caru) ir pakėlė į valdovus. Tochtamy­\nšas sugrįžo į tėvynę, svajodamas apie valdžią, tačiau be\nsavo krašto kariuomenės, o lydimas Vytauto pulkų."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-168204
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Kerim Berdis,
-    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
-    pasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas
-    savo jėgomis nieko laimėti ir nepajėgdamas susitaikyti
-    su likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­
-    tu su svarbiausiais savo šalininkais. Vytautas, ne vieną
+    Vytautas, ne vieną
     kartą ligi tol patyręs šios tautos tvirtą palankumą ir
     sulaukęs karo metais pagalbos, suprato, jog valstybei
     būsianti didelė nauda, jeigu palenks į save šios tautos
@@ -284,7 +189,36 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu­
     les iškilmes, uždėjo jam perlais bei brangakmeniais nu­
     sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­
-    rastai vadinamu caru) ir pakėlė į valdovus.
+    rastai vadinamu caru) ir pakėlė į valdovus. Tochtamy­
+    šas sugrįžo į tėvynę, svajodamas apie valdžią, tačiau be
+    savo krašto kariuomenės, o lydimas Vytauto pulkų.
+  citata_rodoma: "Vytautas, ne vieną\nkartą ligi tol patyręs šios tautos tvirtą palankumą ir\nsulaukęs karo metais pagalbos, suprato, jog valstybei\nbūsianti didelė nauda, jeigu palenks į save šios tautos\nvadą, jį užstodamas. Štai todėl maloniai ir noriai priėmė\nTochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu­\nles iškilmes, uždėjo jam perlais bei brangakmeniais nu­\nsagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­\nrastai vadinamu caru) ir pakėlė į valdovus. Tochtamy­\nšas sugrįžo į tėvynę, svajodamas apie valdžią, tačiau be\nsavo krašto kariuomenės, o lydimas Vytauto pulkų."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-168204
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Nie­
+    ko gero nesusilaukė Tochtamyšas, mat tas, kuris,
+    398
+
+    ## Puslapis 397
+
+    kopdamas į statų kalną, pasiekia saugią viršukalnę,
+    lengviau nustumia besiveržiantį aukštyn, nei leidžiasi
+    nustumiamas. Kerim Berdis, sutelkęs stiprią kariuome­
+    nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo
+    dalinius, o patį brolį nužudė. 2uvus Tochtamyšui, tre­
+    čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir
+    kraujo praliejimo, taip pat pabėgo pas Vytautą.
   citata_rodoma: "Nie­\nko gero nesusilaukė Tochtamyšas, mat tas, kuris,\n398\n\n## Puslapis 397\n\nkopdamas į statų kalną, pasiekia saugią viršukalnę,\nlengviau nustumia besiveržiantį aukštyn, nei leidžiasi\nnustumiamas. Kerim Berdis, sutelkęs stiprią kariuome­\nnę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo\ndalinius, o patį brolį nužudė. 2uvus Tochtamyšui, tre­\nčias brolis Jerim Berdis, neišgąsdintas brolio likimo ir\nkraujo praliejimo, taip pat pabėgo pas Vytautą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -293,7 +227,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
     - t-005
 
 ## Ryšiai

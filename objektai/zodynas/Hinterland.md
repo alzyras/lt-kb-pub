@@ -20,6 +20,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Hinterland
 
 ## Santrauka
@@ -44,23 +45,6 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
 čia tai tik Narbuto įterptas aiškinamasis terminas, todėl viešame įraše reikės aiškiai parodyti, kad tai yra jo siūlomas atitikmuo.
 
 ## Teiginiai
-
-<a id="claim-t-192219"></a>
-- t-001
-  teiginys: "Narbutas Natangijos pavadinimą aiškina vartodamas terminą `Hinterland`."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Natangija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hinterland: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Natangija: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hinterland\" parinktas kaip owner_note_path. Targetas \"Natangija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-175072
 
 <a id="claim-t-192561"></a>
 - t-003
@@ -101,5 +85,4 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003

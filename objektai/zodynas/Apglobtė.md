@@ -27,48 +27,6 @@ media_all_json: |-
 
 Narbutas apglobte (Abglojte) vadino senovės prūsų nuometą reiškusį jaunosios vainiką, apvyniotą balta skarele.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas apglobte (Abglojte) vadino senovės prūsų nuometą reiškusį jaunosios vainiką, apvyniotą balta skarele.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Visa tai trukdavo iki vėlyvos nakties.
-    Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
-    vos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­
-    kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
-    globtė (Abglojte), kas reiškia nuometą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172164
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Ypač slavai, mėgs­
-    tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­
-    pročiuose nuslysta į kraštutinumą; net pagyvenusios moterys
-    pirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu­
-    rungia bet kokį senovės cinizmo įsivaizdavimą. Priešingai, lie­
-    tuvių genties tautose šito negalima susekti - nei jų kalboje,
-    nei tautinėse dainose nėra nieko panašaus; joms net trūksta
-    tokių žodžių. Kiek stengėmės aptikti tokių dalykų šių dienų
-    lietuviuose, šitaip suslavėjusiuose, niekad ir niekur negalėjo­
-    me to pastebėti.
-  citata_rodoma: "Visa tai trukdavo iki vėlyvos nakties.\nPrieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­\nvos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­\nkišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-\nglobtė (Abglojte), kas reiškia nuometą."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189276"></a>
@@ -91,3 +49,23 @@ Narbutas apglobte (Abglojte) vadino senovės prūsų nuometą reiškusį jaunosi
   pagrindžia:
     - c-172164
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188315|Prūsai]]: Narbutas rašo, kad senovės prūsų tarme jaunosios vainikas, apvyniotas balta skarele, vadinosi apglobtė (Abglojte), tai yra nuometas.
+## Citatos
+
+- id: c-172164
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Visa tai trukdavo iki vėlyvos nakties.
+    Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
+    vos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­
+    kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
+    globtė (Abglojte), kas reiškia nuometą.
+  citata_rodoma: "Visa tai trukdavo iki vėlyvos nakties.\nPrieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­\nvos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­\nkišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-\nglobtė (Abglojte), kas reiškia nuometą."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

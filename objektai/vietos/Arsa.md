@@ -81,19 +81,6 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - susijęs iš [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.).md#claim-t-185520|Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]: Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.
 - susijęs iš Naugardukas: Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą.
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Senuose žemėlapiuose
-    (Sch-K) pažymėtas nedidelis kair. Vangrapės intakas Kampsvykių apylinkėse galėtų būti,
-    manoma, D. Arse (Ewald A. L., Die Eroberung.., 4, p. 189—190). Arsa resp. Arsė tapatinta
-    ir su Vangrape (Tepenas M.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-003
   santrauka: 'Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -136,12 +123,10 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kiek vėlesnėje už Dusburgietį
-    lotyniškoje Sembos kanauninko kronikoje Rangnîthen, Ragnithen (SRP, 1, p. 280, 283).
-    Vokiškoje Prūsijos trumpojoje eiliuotoje kronikoje — Rangniten (SRP, 2, p. 8). Lotyniškoje
-    Vartbergės Livonijos kronikoje (iki 1378 m.) — Ragnithen, Ragniten (SRP, 2, p. 85, 95
-    ir kt.), Vygando Marburglškio Prūsijos kronikoje (iki 1394 m.) — Ragneta, Ragnite,
-    Ragnita (SRP, 2, p. 509, 514, 522, 541 ir kt.).
+    Senuose žemėlapiuose
+    (Sch-K) pažymėtas nedidelis kair. Vangrapės intakas Kampsvykių apylinkėse galėtų būti,
+    manoma, D. Arse (Ewald A. L., Die Eroberung.., 4, p. 189—190). Arsa resp. Arsė tapatinta
+    ir su Vangrape (Tepenas M.).
   citata_rodoma: "Senuose žemėlapiuose\n(Sch-K) pažymėtas nedidelis kair. Vangrapės intakas Kampsvykių apylinkėse galėtų būti,\nmanoma, D. Arse (Ewald A. L., Die Eroberung.., 4, p. 189—190). Arsa resp. Arsė tapatinta\nir su Vangrape (Tepenas M.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

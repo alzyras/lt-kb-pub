@@ -8,13 +8,13 @@ datos:
   - '1273 m.'
 date_start: '1273'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - grupe
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -94,6 +94,50 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
 - susijęs iš Kulikovo laukas: Andrius, Polocko kunigaikštis ir Dmitrijaus Doniškio bendražygis, 1380 m. rugsėjo 8 d. Kulikovo lauke prisidėjo prie pergalės prieš totorius.
 - susijęs iš Naugardas: Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187535|viečė]]: Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo.
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vėliau, apie 1273
+    metus, Grigalius X paskelbė ją šventąja. Treniotos sū­
+    nus Glėbas, tėvo įpėdinis, mirė jaunas, nepalikdamas
+    Įėjo priešus, atsiėmė žemes,
+
+    vaikų; jis polockiečiams da-
+    P o lo c k ie č ia m s g ra ži-
+    vė visišką laisvę. Valstybės
+    narna la is v ė
+    reikalus tvarkyti vėl ėmė
+    senatas, šitaip buvo atsikra­
+    tyta lietuvių kunigaikščių valdžios.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Narbutas pasakoja, kad Treniota, bijodamas polockiečių ir Tautvilos sūnaus keršto, įkalino Polocko bajorus ir per Prokopą reikalavo nužudyti Joną.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas - Fortelnik) - 1297 metais. Trečioji -
+    Jaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni­
+    gaikščio, mirusios Gedimino žmonos brolio, duktė. Iš jos sū­
+    nūs: Liubartas, gimęs 1299 metais, Jaunutis, gimęs 1301 me­
+    tais, ir Kariotas, gimęs 1306 metais.
+    Gediminas, sekdamas savo didžiųjų protėvių pėdomis, nu­
+    kovė neapsakomo didumo taurą ant Tauro kalno Antakalny­
+    3 Iš esmės tą pačią Jogailaičių dinastijos genealogiją randu kuni­
+    go Jono Kanto Boreišos Jėzaus Draugijos lotyniškame pamoksle (ran­
+    kraštyje), sakytame 1689 metais, šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-168806
@@ -105,6 +149,8 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
     metus, Grigalius X paskelbė ją šventąja. Treniotos sū­
     nus Glėbas, tėvo įpėdinis, mirė jaunas, nepalikdamas
     Įėjo priešus, atsiėmė žemes,
+
+    ## Puslapis 91
 
     vaikų; jis polockiečiams da-
     P o lo c k ie č ia m s g ra ži-
@@ -127,18 +173,17 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Išjos sūnūs: Algirdas (Olgerd,
-    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
-    stut, tai reiškia: Klastūnas - Fortelnik) - 1297 metais. Trečioji -
-    Jaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni­
-    gaikščio, mirusios Gedimino žmonos brolio, duktė. Iš jos sū­
-    nūs: Liubartas, gimęs 1299 metais, Jaunutis, gimęs 1301 me­
-    tais, ir Kariotas, gimęs 1306 metais.
-    Gediminas, sekdamas savo didžiųjų protėvių pėdomis, nu­
-    kovė neapsakomo didumo taurą ant Tauro kalno Antakalny­
-    3 Iš esmės tą pačią Jogailaičių dinastijos genealogiją randu kuni­
-    go Jono Kanto Boreišos Jėzaus Draugijos lotyniškame pamoksle (ran­
-    kraštyje), sakytame 1689 metais, šv.
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus.
   citata_rodoma: "Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,\njo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­\ntas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­\nbius, likusius po to turtingo kunigaikščio, kadangi nužudė ir\ndu jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­\nniota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus\nkeršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­\nkokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­\nsiuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­\njį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­\nimtus bajorus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

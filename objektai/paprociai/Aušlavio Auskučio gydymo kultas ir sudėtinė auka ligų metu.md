@@ -79,10 +79,12 @@ Nenurodyta
   pagrindžia:
     - c-172685
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Aušlaviui Auskučiui ligų ar gyvulių maro metu atnašaudavo sudėtinę auką Suobėrį, aukai pirkdami paršą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172684
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     157
 
@@ -92,43 +94,6 @@ Nenurodyta
     (Sobarri); paplitus žmonių ligoms arba gyvulių marui, susidė­
     ję pirkdavo aukai paršą. Šioje tautoje prietarai, susiję su kal­
     bamuoju dievaičiu, gyvuoja iki šiol.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas nurodo, kad Stenderis latvių mitologijoje prisiminė buvęs panašių su Auskučiu sietų neramumų liudytojas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Stenderis savo lat­
-    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
-    sukeltų, neramumų liudytojas.
-    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
-    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
-    mas išliko kaip žalčių laikymas1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172684
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Mildauninkai turėjo vaistų, žadinančių ir
-    slopinančių meilę. Mūsų kraštuose dar išliko dainelė, susijusi
-    su tuo dievuku:
-    Skrindau Kaunis iž tola,
-    Kur vvassara umžynoja.
-    Man pasakė Naszaugole,
-    Jog tinaj mejlis karaujoja:
-    Unt szinvu arklu rejtwažoja
-    Su didu iždu nuoplesiu.
   citata_rodoma: "157\n\n## Puslapis 157\n\nnuo visokių ligų. Jam atnašaudavo sudėtinę auką -  Suobėrį\n(Sobarri); paplitus žmonių ligoms arba gyvulių marui, susidė­\nję pirkdavo aukai paršą. Šioje tautoje prietarai, susiję su kal­\nbamuoju dievaičiu, gyvuoja iki šiol."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -143,14 +108,12 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    FA, sugrįžk, Dievutėliau!
-    Paimk juos ant savus sparnus,
-    Atnešk man juos sveiką tiktai,
-    Nenoriu aš brangių daiktų,
-    Gan man tavo apėmimo)*.
-    Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
-    no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
-    tęsėsi iki pat pilies, dabar virtusios griuvėsiais.
+    Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas1.
   citata_rodoma: "Stenderis savo lat­\nvių mitologijoje prisimena, kad pats buvęs panašių, Auskučio\nsukeltų, neramumų liudytojas.\nGarbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­\nkoja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­\nmas išliko kaip žalčių laikymas1."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

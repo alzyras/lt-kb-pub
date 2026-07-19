@@ -12,14 +12,14 @@ datos:
   - '1489 m.'
 date_start: '1301'
 date_end: '1489'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
   - istorinė-sąvoka
-amziai:
-  - 'XIV'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -222,6 +222,57 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89173|Pomeranai]]: Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89174|Pomeranai]]: Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.
 - susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66511|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: 1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Juos išvydę,
+    lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei
+    kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.
+    Tuo tarpu broliai susirikiavo kovai. Sventopelkas, pamatęs, kad broliai nė nemano bėgti,
+    įsakė tūkstančiui savo rinktinių karių nušokti nuo žirgų pamokęs juos pulti brolius su
+    dideliu triukšmu bei riksmu ir, prisidengus skydais, ietimis galabyti krikščionių arklius,
+    sakydamas: „Kryžiuočiai, apsišarvavę sunkiais šarvais, nestengs pėsti kovoti“. Kai abi
+    kariuomenės išsirikiavo mūšiui, valdovas Henrikas sugrįžo atgal ir, išvydęs priešus,
+    pasakė broliams: „Delsti pavojinga, todėl pulkime juos!“ Jie įnirtingai užpuolė priešus,
+    ir prasidėjo baisios kautynės; Sventopelko kariuomenė prarado mūšio lauke tūkstantį
+    penkis šimtus žuvusių vyrų, o krikščionių nė vienas nebuvo sunkiai sužeistas, išskyrus
+    10 žirgų, kurie krito perverti priešo iečių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-007
+  santrauka: 'Pasak Kojelavičiaus, metę gurguoles bėgliai būtų galėję lengviau pasprukti į tėvynę, nes jų raitija buvo lengvesnė ir eiklesnė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    belaisvių ir paliegėlių, neleido taip greitai trauktis,
+    kad galima būtų per kelias valandas atsiplėšti nuo
+    spaudžiančio priešo. Jeigu, metę gurguoles, leistųsi
+    netrukdomi į tėvynę, galėtų pasprukti nuo visų pavojų
+    ir dėl to, kad jų raitija kur kas lengvesnė ir eiklesnė,
+    ir dėl to, kad lenkams, užgrobusiems stovyklą ir pa-
+    ėmusiems visą grobį, nebūtų buvę saugu miškais vy­
+    tis bėgantį priešą. Jie žinojo atsidūrę didžiulės negar­
+    bės akivaizdoje, juos prislėgė ne tiek skausmas, kad
+    praras grobį, kiek baimė ir gėda prieš savo krašto
+    žmones. Kokia nešlovė palikti priešų rankose ne tik
+    visą grobį, bet ir žygio draugus, nebeįstengiančius dėl
+    negalės sprukti, kai patys gėdingai bėga, kautynėms
+    nė neprasidėjus! Štai todėl nutarė ryžtingai žygiuoti
+    link priešo: užpulti persekiotojus ir nuplauti praėjusių­
+    jų metų nešlovę — jeigu ne pergale, tai bent nepapras­
+    ta drąsa; jie sunešė į vieną daiktą visą grobį, surai­
+    šiojo rūpestingai belaisvius, išstatė stovykloje saugas
+    ir išsirikiavo kaip begalėdami miške kautynėms.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-104822
@@ -255,18 +306,17 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Juos išvydę,
-    lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei
-    kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.
-    Tuo tarpu broliai susirikiavo kovai. Sventopelkas, pamatęs, kad broliai nė nemano bėgti,
-    įsakė tūkstančiui savo rinktinių karių nušokti nuo žirgų pamokęs juos pulti brolius su
-    dideliu triukšmu bei riksmu ir, prisidengus skydais, ietimis galabyti krikščionių arklius,
-    sakydamas: „Kryžiuočiai, apsišarvavę sunkiais šarvais, nestengs pėsti kovoti“. Kai abi
-    kariuomenės išsirikiavo mūšiui, valdovas Henrikas sugrįžo atgal ir, išvydęs priešus,
-    pasakė broliams: „Delsti pavojinga, todėl pulkime juos!“ Jie įnirtingai užpuolė priešus,
-    ir prasidėjo baisios kautynės; Sventopelko kariuomenė prarado mūšio lauke tūkstantį
-    penkis šimtus žuvusių vyrų, o krikščionių nė vienas nebuvo sunkiai sužeistas, išskyrus
-    10 žirgų, kurie krito perverti priešo iečių.
+    Tuo metu, kai šitai dėjosi, Sventopelkas
+    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
+    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
+    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
+    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
+    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
+    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
+    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
+    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
+    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
+    koks bailys pamatęs daugybę nukautųjų.
   citata_rodoma: "Tuo metu, kai šitai dėjosi, Sventopelkas\nsutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui\natsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo\nbrolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,\nšitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė\ndvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė\nšiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę\nteutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė\ngabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30\nvyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant\nkoks bailys pamatęs daugybę nukautųjų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -431,6 +481,19 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
+    Antra vertus, stovykla, pilna grobio,
+    L enkai rengiasi p u lti
+    lie tu v iu s
+    mą dievo malone
+    (didžiai
+    drąsinančia ir stiprinančia),
+    jis įsakė prieš mūšį kiekvie­
+    nam — kaip
+    dera krikščio-
+    155
+
+    ## Puslapis 154
+
     belaisvių ir paliegėlių, neleido taip greitai trauktis,
     kad galima būtų per kelias valandas atsiplėšti nuo
     spaudžiančio priešo. Jeigu, metę gurguoles, leistųsi
@@ -441,15 +504,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     tis bėgantį priešą. Jie žinojo atsidūrę didžiulės negar­
     bės akivaizdoje, juos prislėgė ne tiek skausmas, kad
     praras grobį, kiek baimė ir gėda prieš savo krašto
-    žmones. Kokia nešlovė palikti priešų rankose ne tik
-    visą grobį, bet ir žygio draugus, nebeįstengiančius dėl
-    negalės sprukti, kai patys gėdingai bėga, kautynėms
-    nė neprasidėjus! Štai todėl nutarė ryžtingai žygiuoti
-    link priešo: užpulti persekiotojus ir nuplauti praėjusių­
-    jų metų nešlovę — jeigu ne pergale, tai bent nepapras­
-    ta drąsa; jie sunešė į vieną daiktą visą grobį, surai­
-    šiojo rūpestingai belaisvius, išstatė stovykloje saugas
-    ir išsirikiavo kaip begalėdami miške kautynėms.
+    žmones.
   citata_rodoma: "Antra vertus, stovykla, pilna grobio,\nL enkai rengiasi p u lti\nlie tu v iu s\nmą dievo malone\n(didžiai\ndrąsinančia ir stiprinančia),\njis įsakė prieš mūšį kiekvie­\nnam — kaip\ndera krikščio-\n155\n\n## Puslapis 154\n\nbelaisvių ir paliegėlių, neleido taip greitai trauktis,\nkad galima būtų per kelias valandas atsiplėšti nuo\nspaudžiančio priešo. Jeigu, metę gurguoles, leistųsi\nnetrukdomi į tėvynę, galėtų pasprukti nuo visų pavojų\nir dėl to, kad jų raitija kur kas lengvesnė ir eiklesnė,\nir dėl to, kad lenkams, užgrobusiems stovyklą ir pa-\nėmusiems visą grobį, nebūtų buvę saugu miškais vy­\ntis bėgantį priešą. Jie žinojo atsidūrę didžiulės negar­\nbės akivaizdoje, juos prislėgė ne tiek skausmas, kad\npraras grobį, kiek baimė ir gėda prieš savo krašto\nžmones."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"

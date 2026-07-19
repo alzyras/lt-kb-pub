@@ -378,7 +378,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 <a id="claim-t-188493"></a>
 - t-026
   teiginys: "Narbutas rašo, kad Strijkovskis pursčius, jo siejamus su romėnų mitologijos Purs, vadino pigmėjais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -392,7 +392,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskio kronika\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171381
+    - c-171383
 
 <a id="claim-t-188494"></a>
 - t-027
@@ -416,7 +416,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 <a id="claim-t-188495"></a>
 - t-028
   teiginys: "Narbutas nurodo, kad Strijkovskis Vilniaus Perkūno šventykloje prie Katedros mini atskirą koplyčią, kurioje laikyti gyvi šliužai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -430,7 +430,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskio kronika\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171386
+    - c-171385
 
 <a id="claim-t-188496"></a>
 - t-001
@@ -606,108 +606,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-173712
 
 ## Reikšmingi paminėjimai
-- c-017
-  santrauka: 'Narbutas rašo, kad Strijkovskis pursčius, jo siejamus su romėnų mitologijos Purs, vadino pigmėjais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kitaip juos vadindavo piktukais nuo Piktas', netoli
-    Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
-    vadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas
-    palivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­
-    dinami Purs; Strijkovskis juos vadina taip pat pigmėjais17.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-019
-  santrauka: 'Narbutas nurodo, kad Strijkovskis Vilniaus Perkūno šventykloje prie Katedros mini atskirą koplyčią, kurioje laikyti gyvi šliužai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Gyvatė (Giwojte)
-    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
-    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
-    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
-    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
-    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
-    riumi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-020
-  santrauka: 'Narbutas remiasi Strijkovskiu teigdamas, kad medinis milžino išvaizdos Kukovaičio stabas stovėjo ant kalno prie Deltuvos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
-    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
-    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
-    milžino išvaizdos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-021
-  santrauka: 'Narbutas aiškina, kad Strijkovskis apie lietuvių aukštąsias pareigas rašė plačiau, nes esą turėjo daugiau istorijos šaltinių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jau ir šiaip žinome, ir anksčiau sakėme, kad
-    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
-    8
-    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
-    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
-    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
-    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
-    430
-
-    ## Puslapis 430
-
-    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
-    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
-    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-023
-  santrauka: 'Teodoro Narbuto vertinimu, Kojalavičius lotyniškoje Lietuvos istorijoje Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė jo spragas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Latvių, arba
-    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
-    randa nemažai vertingų tautos istorijos perlų. Jėzuitas
-    Kojai avičius*** parašė lietuvių istoriją lotynų kalba; jis
-    apsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius
-    rėmus, ne visuomet taikliai taisydamas jo spragas.
-    6
-    Nuo to meto nieko iš šio dalyko neišėjo ištisai: mė­
-    ginimai, nedidelės žinutės, studijos, prielaidų fragmentai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-024
-  santrauka: 'Teodoras Narbutas rašo, kad Strijkovskis savo kronikoje rėmėsi istoriniais šaltiniais, kuriais patvirtino aptariamą pasakojimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tam nereikia įrodymų,
-    nes tai liudija minėtų kraštų istorijos. Mūsų kronikinin­
-    kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
-    tiniais, kuriuos jis naudojo1. Paskui Hartknochas**, rem­
-    damasis vertais pasitikėjimo prūsų kronikų rašytojais,
-    ypač Kasparu Dankvertu, puikiai išmanantis prūsų isto­
-    riją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi­
-    siškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur
-    vėliau įsikūrė prūsai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-025
   santrauka: 'Teodoras Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus apie kimbrų epochos potvynį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1155,7 +1053,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-024
-    - t-026
 
 - id: c-171382
   autorius: "Teodoras Narbutas"
@@ -1183,24 +1080,20 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
-    kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
-    ir neša tiems, kurie jiems geresni. Apie jų gražumą pasakoja:
-    ūgio ne aukštesnio, kaip viena uolektis“.
-    Šių dievaičių atminimas neišnyko iki šiol; jei žinoma ne
-    pati reikalo esmė, tai bent iš pasakojimų aišku, kas jie tokie.
-    Lietuvos totoriai žino tas mitines būtybes, jų egzistavimu šiaip
-    ar taip tiki; vadina jas fereikomis (Fierejki) ir džinais (Dženie);
-    jų religinė raštija tikina, kad tos būtybės esančios blogesnės
-    už šėtonus, be galo kenksmingos, atsiunčiančios žmonėms 70
-    18 Šiame žodyne vietoj B klaidingai parašyta P.
+    Kitaip juos vadindavo piktukais nuo Piktas', netoli
+    Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
+    vadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas
+    palivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­
+    dinami Purs; Strijkovskis juos vadina taip pat pigmėjais17.
   citata_rodoma: "Kitaip juos vadindavo piktukais nuo Piktas', netoli\nVilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose\nvadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas\npalivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­\ndinami Purs; Strijkovskis juos vadina taip pat pigmėjais17."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-026
+
 - id: c-171384
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1226,32 +1119,14 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
-    kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
-    dar labiau persekiojamas, jeigu negrįši prie jam priklausančių
-    aukų aukojimo“. Šeimininkas šito nepaisė ir, būdamas krikš­
-    čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
-    dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
-    kažkokį triukšmą ir lyg žalčių šnypštimą.
+    Gyvatė (Giwojte)
+    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
+    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
+    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
+    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
+    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
+    riumi.
   citata_rodoma: "Gyvatė (Giwojte)\nNuodingas šliužas. Šios rūšies būtybės buvo traktuojamos\nkaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.\nStrijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­\nno šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,\nkurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­\nriumi."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-171386
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
-    tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors
-    Plikasis kalnas. Visa, ką šiuo klausimu žinome iš istorijos, ap­
-    siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
-    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
-    šventykla.
-  citata_rodoma: "Lietuviams buvo žinomas dievinamų asmenų stabų staty­\nmas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-\nčio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,\nmilžino išvaizdos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1259,6 +1134,23 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-028
+
+- id: c-171386
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
+    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
+    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
+    milžino išvaizdos.
+  citata_rodoma: "Lietuviams buvo žinomas dievinamų asmenų stabų staty­\nmas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-\nčio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,\nmilžino išvaizdos."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
     - t-001
 
 - id: c-171387
@@ -1266,20 +1158,20 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sis vyriausiųjų žynių sąrašo pasmerkimas yra
-    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
-    argumentų, vien kaip savo paties abejonę. Dabar peržvelkime
-    mūsų amžiaus kritiko argumentus.
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą - tai tiesa; per daug
-    užsidegęs katalikybės šalininkas - ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų - gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
+    Jau ir šiaip žinome, ir anksčiau sakėme, kad
+    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
+    8
+    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
+    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
+    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
+    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
+    430
+
+    ## Puslapis 430
+
+    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
+    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
+    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
   citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1324,23 +1216,15 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    mingiau susiję su vokiečių tauta, turi .pilnesnius ir geres­
-    nius už mus savo istorijų aprašymus; jų kronikininkų
-    skaičius yra ženklus. Mokytos plunksnos dirbo ir dabar
-    darbuojas i prie jų istorijos: Kocebus* parašė senovės
-    Prūsų istoriją, pelniusią didelį pripažinimą; mokslingasis
-    ponas Foi'gtas** baigia išleisti paskutinius pilnos tos
-    pačios istorijos tomus, kurių bus astuoni; šis visiškai už­
-    baigtas veikalas savo verte pranoksta visus lig tol žino­
-    mus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­
-    nikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie
-    šaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­
-    novės tyrėjai netgi padarė išsamiai ir tvarkingai surink­
-    tų, reikalingų ištraukų atsargas, o ponas Foigtas pats
-    nepaprastu savo darbštumu, genialumu ir talentais at­
-    skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
-    vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
-    ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
+    Latvių, arba
+    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
+    randa nemažai vertingų tautos istorijos perlų. Jėzuitas
+    Kojai avičius*** parašė lietuvių istoriją lotynų kalba; jis
+    apsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius
+    rėmus, ne visuomet taikliai taisydamas jo spragas.
+    6
+    Nuo to meto nieko iš šio dalyko neišėjo ištisai: mė­
+    ginimai, nedidelės žinutės, studijos, prielaidų fragmentai.
   citata_rodoma: "Latvių, arba\nLivonijos, autoriai pas naujesnius senovės tyrinėtojus at­\nranda nemažai vertingų tautos istorijos perlų. Jėzuitas\nKojai avičius*** parašė lietuvių istoriją lotynų kalba; jis\napsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius\nrėmus, ne visuomet taikliai taisydamas jo spragas.\n6\nNuo to meto nieko iš šio dalyko neišėjo ištisai: mė­\nginimai, nedidelės žinutės, studijos, prielaidų fragmentai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -1355,17 +1239,15 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kimbrų gentims, pagyvenusioms penkis, o gal kiek
-    daugiau amžių, dėl kažkokių svarbių priežasčių buvo lem­
-    ta pasitraukti iš Baltijos jūros pakrančių6. Ta priežastis
-    buvo šioje Siaurės Europos dalyje įvykusi stichinė ne­
-    laimė, kuri pavertė dykra žemus, pajūryje plytinčius kraš­
-    tus nuo Zundo iki Oderio žiočių ir toliau į šiaurę. Čia
-    buvęs baisus potvynis ar kažkoks jūros išsiliejimas iš
-    1 II knyga (p. 28 ir toliau) (Bohomoleco leidimas)*.
-    2 Alt und neues Preussen oder Preussische Historien, etc.
-    3 Žodis „germanas“ kilęs iš Gera, senovės germanų kalba reiškia
-    karį.
+    Tam nereikia įrodymų,
+    nes tai liudija minėtų kraštų istorijos. Mūsų kronikinin­
+    kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
+    tiniais, kuriuos jis naudojo1. Paskui Hartknochas**, rem­
+    damasis vertais pasitikėjimo prūsų kronikų rašytojais,
+    ypač Kasparu Dankvertu, puikiai išmanantis prūsų isto­
+    riją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi­
+    siškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur
+    vėliau įsikūrė prūsai.
   citata_rodoma: "Tam nereikia įrodymų,\nnes tai liudija minėtų kraštų istorijos. Mūsų kronikinin­\nkas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­\ntiniais, kuriuos jis naudojo1. Paskui Hartknochas**, rem­\ndamasis vertais pasitikėjimo prūsų kronikų rašytojais,\nypač Kasparu Dankvertu, puikiai išmanantis prūsų isto­\nriją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi­\nsiškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur\nvėliau įsikūrė prūsai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

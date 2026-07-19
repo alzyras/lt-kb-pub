@@ -8,13 +8,13 @@ datos:
   - '1972 m.'
 date_start: '1295'
 date_end: '1972'
-amziai:
-  - 'XIII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -64,18 +64,6 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   pagrindžia:
     - c-61640
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'P. K. Tacito „Rinktiniai raštai“ išleisti Vilniuje 1972 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tacitas P. K. Rinktiniai raštai.—V., 1972.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61640
@@ -106,7 +94,7 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Генрих Латвийский. Хроника Ливонии/Изд. С. А. Аннинский.
+    Tacitas P. K. Rinktiniai raštai.—V., 1972.
   citata_rodoma: "Tacitas P. K. Rinktiniai raštai.—V., 1972."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

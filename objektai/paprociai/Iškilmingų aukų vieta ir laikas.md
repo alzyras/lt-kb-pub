@@ -57,10 +57,12 @@ Nenurodyta
   pagrindžia:
     - c-177213
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro nikininkai specialistai to neaprašo, tik priduria, kad senais lai kais, kai svarbiausioji šventykla - prūsų Romovė - dar nebuvo galutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-177213
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­
     nikininkai specialistai to neaprašo, tik priduria, kad senais lai­
@@ -70,28 +72,6 @@ Nenurodyta
     tuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba
     visur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo
     laikas*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-177213
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Arntas (Arndt) 17 pa-
-    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
-    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
-    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas.
   citata_rodoma: "Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­\nnikininkai specialistai to neaprašo, tik priduria, kad senais lai­\nkais, kai svarbiausioji šventykla -  prūsų Romovė -  dar nebuvo\ngalutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų\nvyriausiems dievams nederėjo. Vėliau žyniai, ištaškyti po Lie­\ntuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba\nvisur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo\nlaikas*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

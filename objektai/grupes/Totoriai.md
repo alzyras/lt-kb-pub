@@ -340,7 +340,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171414"></a>
 - t-039
   teiginys: "Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -355,9 +355,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-155952
-    - c-155980
     - c-181464
-    - c-181494
 
 <a id="claim-t-171415"></a>
 - t-042
@@ -380,7 +378,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171416"></a>
 - t-009
   teiginys: "Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -508,7 +506,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171427"></a>
 - t-065
   teiginys: "Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -583,7 +581,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171431"></a>
 - t-010
   teiginys: "Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jadvyga: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -618,7 +616,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171433"></a>
 - t-037
   teiginys: "Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "aukstas"
@@ -634,8 +632,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - c-155980
     - c-181494
-    - c-155952
-    - c-181464
 
 <a id="claim-t-171434"></a>
 - t-068
@@ -696,7 +692,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171438"></a>
 - t-033
   teiginys: "Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -898,22 +894,22 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-187750"></a>
 - t-005
   teiginys: "Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad totoriai buvo įkurdinti Lietuvoje."
+  ryšio_patikimumas: "susije_su -> Mykolas Glinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Mykolas Glinskis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Mykolas Glinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
-    - c-181487
+    - c-181479
 
 <a id="claim-t-187751"></a>
 - t-006
@@ -1955,66 +1951,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-045
-  santrauka: 'Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Skirmantas nepa­
-    noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
-    tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
-    Ir sekančiais metais tas chanas su daugeriopomis
-    sutelktomis jėgomis bei totorių ordomis patraukė į Ru­
-    sų žemę ir padarė daug žalos Rusų žemei.
-    50
-
-    ## Puslapis 48
-
-    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
-    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
-    nos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-046
-  santrauka: 'Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ilgai jie kovėsi, vos ne visą dieną 22. O  pas­
-    kui dievas padėjo totoriams, ir jie sumušė didįjį kuni­
-    gaikštį Vytautą ir visą jo kariuomenę, o pats didysis
-    kunigaikštis su nedideliu būriu pabėgo. O chanas Te-
-    mir-Kutlujus, sumušęs kunigaikštį Vytautą, atžygiavo
-    prie Kijevo ir paėmė iš miesto išpirką — tris tūkstan­
-    čius lietuviškų rublių, ir visą savo kariuomenę paleido
-    po Lietuvos žemę, ir totoriai siautėjo ligi pat Didžio­
-    jo Lucko ir, pridarę daug pikto, atsitraukė į savo
-    žemę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-048
-  santrauka: 'Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir didikai, matydami, kad etmonas labai serga ir kad
-    be jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­
-    vedė tą sykį etmono pareigas kunigaikščiui Mykolui
-    Glinskiui ir teikėsi būti visi jam paklusnūs.
-    Kunigaikštis Mykolas Glinskis ėmė vadovauti ka­
-    riuomenei ir patraukė į Klecką, o pirmyn išsiuntė ke­
-    letą šimtų raitelių. Ir kai prisiartino prie Klecko, priei­
-    dami iš pietų Raudonąjį tvenkinį2 1  ir Lanės upę 2 2 , nuo
-    kalno išvydo stovinčius už upės totorių pulkus, pasi­
-    rengusius mūšiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -2373,7 +2309,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindzia:
     - t-058
     - t-039
-    - t-037
 
 - id: c-155954
   autorius: "Michał Baliński"
@@ -2407,12 +2342,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   puslapiai: "PDF 231"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
-    Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
-    popiežių, kuriam ir išpažino visas savo nuodėmes. Popiežius jam paliepė užsivilkti Teutonų
-    namų ordino vienuolio apsiaustą. Grįždamas po to namo, jis atsisakė jam į žmonas
-    pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
-    papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
-    dievui bei jam įstotų į šį ordiną.
+    Apie Vengrijos ir Lenkijos nusiaubimą
+
+       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
+
+
+
+             23.
   citata_rodoma: "Apie Vengrijos ir Lenkijos nusiaubimą\n\n   Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).\n\n\n\n         23."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -2561,17 +2497,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   puslapiai: "PDF 231"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
-    Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
-    daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
-    kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš
-    altorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,
-    nusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo
-    labiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.
-    Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
-    ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
-    buvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar
-    taip yra iš tikrųjų, todėl nusivedė du jaunus pasileidėlius pas magistrą, tačiau šis, vos
-    išvydęs tuos tarnus, liepė jiems išsinešdinti.
+    27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
+                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
+
+       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
+    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
+    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
+    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
   citata_rodoma: "27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -2644,17 +2576,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   puslapiai: "PDF 18"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
-    Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
-    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
+    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
+    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
     atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
-    suartėti su totoriais — mongolais ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
-    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip ir atitinkami
-    popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
-    ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
-    vienodos, kad šios tautos turėjusios bendrą priešą71.
-    Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
-    Kita vertus, jis rašė istorinį pasakojimą, paremtą didele jo sukaupta rašytine ir žodine
-    Ordino tradicija, siekė šią tradiciją perduoti ateities kartoms (Dedikacija).
+    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
   citata_rodoma: "Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos\nkronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą\n(1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai\natpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms\nsuartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas\nmusulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -2754,14 +2682,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   puslapiai: "PDF 255"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
-    Atsilyginkite savo priešams, ką jie užsipelnė”. O kitoje vietoje, kai žuvo
-    tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras
-    pasakė kitam vyrui (1 Mak 2, 40): „Jeigu visi darysime taip, kaip padarė mūsų broliai, ir
-    nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mus
-    iš šalies”. Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
-    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
-    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
-    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas.
+    125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
+
+      1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių
+    kariuomenė siaubė jo karalystę.
+
+
+
+                    126.
   citata_rodoma: "125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį\n\n  1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių\nkariuomenė siaubė jo karalystę.\n\n\n\n                126."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -2828,7 +2756,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-057
-    - t-039
     - t-037
 
 - id: c-155981
@@ -3011,21 +2938,17 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   puslapiai: "PDF 152"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 152."
   citata_originali: |
-    Kunigaikštis Konstantinas su visais žmonėmis ir di­
-    dikais, ir su Smolensko vaivada, ir su visais smolenskie-
-    čiais, apsiginkVavęs ir pasiruošęs, patraukė link Doro-
-    hobužo22 ir pirmiausia pasiekė Jelnią23. Ir tuo metu
-    sučiupo vieną liežuvį iš Maskvos kariuomenės, vardu
-    Hermaną, buvusį Bagdono Sapiegos24 raštininką, pabė­
-    gusį į Maskvą. Štai ką tas liežuvis papasakojo jiems
-    apie Maskvos kariuomenę:
-    „Maskvos didžiojo kunigaikščio vaivada Jurijus Za­
-    chariničius ilgokai stovėjo prie Dorohobužo su maža
-    žmonių. O užvakar jam į pagalbą atvyko kiti žymūs
-    vaivados — kunigaikštis Danielius Vasiljevičius Sče-
-    nia 25 ir Peremišlio kunigaikštis Ivanas Michailovičius26
-    su daugeliu kitų vaivadų ir žmonių, ir jie visi jau stovi
-    vienoje vietoje prie Dorohobužo.
+    154
+
+    ## Puslapis 150
+
+    Didysis kunigaikštis Aleksandras išstovėjo Braclave
+    nemaža laiko ir atstatė Braclavo miestą; visi žmonės,
+    kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo
+    į Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo
+    Braclavo, lietuviai sumušė kelis šimtus totorių. O pas­
+    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
+    vą 3 9 .
   citata_rodoma: "154\n\n## Puslapis 150\n\nDidysis kunigaikštis Aleksandras išstovėjo Braclave \nnemaža laiko ir atstatė Braclavo miestą; visi žmonės, \nkurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo \nį Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo \nBraclavo, lietuviai sumušė kelis šimtus totorių. O pas­\nkui didysis kunigaikštis Aleksandras sugrįžo į Lietu­\nvą 3 9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -3058,22 +2981,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   puslapiai: "PDF 99-100"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 99-100."
   citata_originali: |
-    Mano giminaitei nebūtų didesnės laimės,
-    kaip ištekėti už jo didenybės. Tačiau man nedera da­
-    ryti gėdos ir pažeminimo jos vyresniajai seseriai, pir­
-    miau už vyro išleidus jaunesniąją. Taigi teveda jo di­
-    denybė vyresniąją." Ir kada didysis kunigaikštis Vy­
-    nu
-
-    tautas pranešė tai karaliui Jogailai, tas jam tarė: „Aš
-    pats žinau, kad vyresnioji gražesnė, bet ji su ūsiukais,
-    o tai reiškia, kad jinai agni merga, o aš jau senas,\ ne­
-    drįsčiau jos geisti."
-    Paskui didysis kunigaikštis Vytautas, pasitaręs su
-    kunigaikščiu Semionu, parsikvietė savo giminaitj, Be-
-    lajos kunigaikštį Ivaną Vladimirovičių, ir pripiršo jam
-    tą vyresniąją seserį Vasilisą 7 Balčiukę, o Sofiją sužie­
-    davo su karaliumi Jogaila.
+    Ilgai jie kovėsi, vos ne visą dieną 22. O  pas­
+    kui dievas padėjo totoriams, ir jie sumušė didįjį kuni­
+    gaikštį Vytautą ir visą jo kariuomenę, o pats didysis
+    kunigaikštis su nedideliu būriu pabėgo. O chanas Te-
+    mir-Kutlujus, sumušęs kunigaikštį Vytautą, atžygiavo
+    prie Kijevo ir paėmė iš miesto išpirką — tris tūkstan­
+    čius lietuviškų rublių, ir visą savo kariuomenę paleido
+    po Lietuvos žemę, ir totoriai siautėjo ligi pat Didžio­
+    jo Lucko ir, pridarę daug pikto, atsitraukė į savo
+    žemę.
   citata_rodoma: "Ilgai jie kovėsi, vos ne visą dieną 22. O  pas­\nkui dievas padėjo totoriams, ir jie sumušė didįjį kuni­\ngaikštį Vytautą ir visą jo kariuomenę, o pats didysis \nkunigaikštis su nedideliu būriu pabėgo. O chanas Te- \nmir-Kutlujus, sumušęs kunigaikštį Vytautą, atžygiavo \nprie Kijevo ir paėmė iš miesto išpirką — tris tūkstan­\nčius lietuviškų rublių, ir visą savo kariuomenę paleido \npo Lietuvos žemę, ir totoriai siautėjo ligi pat Didžio­\njo Lucko ir, pridarę daug pikto, atsitraukė į savo \nžemę."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
@@ -3283,7 +3200,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindzia:
     - t-058
     - t-039
-    - t-037
 
 - id: c-181465
   autorius: "Zenonas Ivinskis"
@@ -3413,18 +3329,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   puslapiai: "PDF 48-49"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48-49."
   citata_originali: |
-    Tasai sūnus, mylėdamas savo tėvą, didįjį kunigaikštį
-    Kukovaitį, savo tėvui atminti padirbo stabą ir pastatė
-    jį prie Šventosios upės ant vieno kalno, netoli Deltuvos.
-    s i
+    Didysis kunigaikštis Skirmantas nepa­
+    noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
+    tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
+    Ir sekančiais metais tas chanas su daugeriopomis
+    sutelktomis jėgomis bei totorių ordomis patraukė į Ru­
+    sų žemę ir padarė daug žalos Rusų žemei.
+    50
 
-    Tautvilą2 ir Erdivydą3; siųsdamas juos su Vykintu4
-    į karą prieš Rusią, nukariauti Smolensko, sakė jis:
-    „Kas ką užsikariaus, tą ir turės. Dantis už dantį." O su
-    jais išsiuntė ir nesuskaičiuojamą daugybę lietuvių.
-    Plačios jų buvo valdos ir dideli turtai 5.
-    Ir Mindaugas nusiuntė prieš juos savo karius, ketin­
-    damas juos nužudyti.
+    ## Puslapis 48
+
+    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
+    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
+    nos.
   citata_rodoma: "Didysis kunigaikštis Skirmantas nepa­\nnoro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­\ntyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.\nIr sekančiais metais tas chanas su daugeriopomis \nsutelktomis jėgomis bei totorių ordomis patraukė į Ru­\nsų žemę ir padarė daug žalos Rusų žemei.\n50\n\n## Puslapis 48\n\nDidysis kunigaikštis Skirmantas, surinkęs visas sa­\nvo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­\nnos."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
@@ -3614,31 +3531,25 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   puslapiai: "PDF 173"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
   citata_originali: |
-    Mūsų tėvas šito padaryti, atimti iš jo
-    Vilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau­
-    siojo, ir kunigaikštį Jogailą pasodino Vilniaus pilyje
-    ir saugojo jį iš visų pusių, kol jis paaugo ir kol prie
-    jo priprato žmonės.
-    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
-    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
-    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
-    ir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs
-    turėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­
-    dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
-    patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
-    sų žemę pasiglemžti. Mūsų tėvas šitą tikrai patyrė
-    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
-    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
-    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
-    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
-    ir iždą, ir žirgyną, viską tą jis paėmė.
+    Ir didikai, matydami, kad etmonas labai serga ir kad
+    be jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­
+    vedė tą sykį etmono pareigas kunigaikščiui Mykolui
+    Glinskiui ir teikėsi būti visi jam paklusnūs.
+    Kunigaikštis Mykolas Glinskis ėmė vadovauti ka­
+    riuomenei ir patraukė į Klecką, o pirmyn išsiuntė ke­
+    letą šimtų raitelių. Ir kai prisiartino prie Klecko, priei­
+    dami iš pietų Raudonąjį tvenkinį2 1  ir Lanės upę 2 2 , nuo
+    kalno išvydo stovinčius už upės totorių pulkus, pasi­
+    rengusius mūšiui.
   citata_rodoma: "Ir didikai, matydami, kad etmonas labai serga ir kad \nbe jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­\nvedė tą sykį etmono pareigas kunigaikščiui Mykolui \nGlinskiui ir teikėsi būti visi jam paklusnūs.\nKunigaikštis Mykolas Glinskis ėmė vadovauti ka­\nriuomenei ir patraukė į Klecką, o pirmyn išsiuntė ke­\nletą šimtų raitelių. Ir kai prisiartino prie Klecko, priei­\ndami iš pietų Raudonąjį tvenkinį2 1  ir Lanės upę 2 2 , nuo \nkalno išvydo stovinčius už upės totorių pulkus, pasi­\nrengusius mūšiui."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-181480
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3825,7 +3736,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-077
 
 - id: c-181488
@@ -4018,7 +3928,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-057
-    - t-039
     - t-037
 
 - id: c-181495
@@ -4288,11 +4197,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - Sąjungininkai: [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
 - Puolė Totoriai: [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Mykolas Glinskis]]
 - Kariavo prieš: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Dmitrijus Doniškis]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Totoriai valdė [[objektai/vietos/Kijevas]]
-- Totoriai keliavo į [[objektai/vietos/Kijevas]]
-- Totoriai puolė [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis)]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Podolė]]
-- Totoriai užėmė [[objektai/vietos/Dniepro žiotys]], [[objektai/vietos/Minskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Zaslavlis]]
-- Totoriai siuntė į [[objektai/vietos/Naugardukas]]
-- Totoriai surengė žygį į [[objektai/vietos/Palestina]], [[objektai/vietos/Sirija]]
+- Totoriai valdė Kijevas
+- Totoriai keliavo į Kijevas
+- Totoriai puolė [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis)]], Kijevas, Lietuva, [[objektai/grupes/Lietuviai]], Podolė
+- Totoriai užėmė Dniepro žiotys, Minskas, Trakai, Vilnius, Zaslavlis
+- Totoriai siuntė į Naugardukas
+- Totoriai surengė žygį į Palestina, Sirija
 - Totoriai dalyvavo mūšyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]], [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
-- Totoriai gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Nemėžis]], [[objektai/vietos/Vilnius]]
+- Totoriai gyveno Lietuva, Nemėžis, Vilnius

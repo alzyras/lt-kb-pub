@@ -8,14 +8,14 @@ datos:
   - '1760 m.'
 date_start: '1711'
 date_end: '1760'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-amziai:
-  - 'XVIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -138,6 +138,26 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200508|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgio Detloffo Flemmingo sutuoktinė Antanina kurį laiką gyveno Lopacinskio rezidencijoje.
 - susijęs iš [[objektai/asmenys/Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.).md#claim-t-200490|Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.)]]: 1760 m. Pranciškus Leonas Tyzenhauzas tribunole buvo nuteistas kalėti 1 metus ir 6 savaites bokšto kalėjime.
 - susijęs iš [[objektai/asmenys/Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.).md#claim-t-200491|Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.)]]: Pranciškus Leonas Tyzenhauzas buvo Vilniaus pavieto vėliavininkas.
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  citata_originali: |
+    Istorija / 2015, t. 97, Nr. 1
+    namus [t. y. giminę] [26]. Taip pat 1755 m. laiške kanauninkas teigė, kad LDK pakancleris
+    Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais [43]. 1759 m. jis
+    pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
+    posto [57].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+    - t-003
+    - t-005
+    - t-006
+    - t-001
+
 ## Citatos
 
 - id: c-183908

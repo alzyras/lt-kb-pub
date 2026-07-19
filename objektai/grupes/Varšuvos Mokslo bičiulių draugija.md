@@ -9,14 +9,14 @@ datos:
   - '1822 m.'
 date_start: '1816'
 date_end: '1822'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - draugija
   - grupe
   - institucija
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -103,23 +103,6 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
 - susijęs iš Lietuvių vestuvių apeigos: A. R. Niemio „Lietuvių vestuvių apeigos“ paskelbta Suomių ugrų draugijos Memuaruose XXXV.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
 - susijęs iš [[objektai/autoriai/Jonas Kantas Boreiša.md#claim-t-190431|Jonas Kantas Boreiša]]: Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš esmės tą pačią Jogailaičių genealogiją.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašė, kad Varšuvos Mokslo bičiulių draugijos nuomonei apie statulėlę nepritarė visi mokslininkai net Varšuvoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Trys
-    žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­
-    kančias upes: Nerį, Nemuną ir Nevėžį. Kad ir kaip ten būtų bu­
-    vę, Varšuvos draugijos nuomonei pritarė ne visi mokslininkai,
-    net pačioje Varšuvoje. Apie tai 1836 metais man rašė vienas iš
-    tenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-170861
@@ -150,13 +133,12 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vadinasi, bu­
-    vo tik Jupiteris, turėjęs antrąją ypatybę*.
-    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
-    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
-    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
-    se buvo žinomi Lietuvoje. Tų piorunkų klausimas per daug
-    reikšmingas, kad galėtume jį šioje vietoje praleisti.
+    Trys
+    žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­
+    kančias upes: Nerį, Nemuną ir Nevėžį. Kad ir kaip ten būtų bu­
+    vę, Varšuvos draugijos nuomonei pritarė ne visi mokslininkai,
+    net pačioje Varšuvoje. Apie tai 1836 metais man rašė vienas iš
+    tenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *.
   citata_rodoma: "Trys\nžuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­\nkančias upes: Nerį, Nemuną ir Nevėžį. Kad ir kaip ten būtų bu­\nvę, Varšuvos draugijos nuomonei pritarė ne visi mokslininkai,\nnet pačioje Varšuvoje. Apie tai 1836 metais man rašė vienas iš\ntenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

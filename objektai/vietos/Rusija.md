@@ -19,9 +19,6 @@ datos:
   - '1918 m.'
 date_start: '1386'
 date_end: '1918'
-amziai:
-  - 'XIV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,6 +26,9 @@ tags:
   - valstybė
   - kraštas
   - miestelis
+amziai:
+  - 'XIV'
+  - 'XX'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AUkraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu'
@@ -1504,38 +1504,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.).md#claim-t-71739|Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]: 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
 - susijęs iš Annales Quedlinburgenses: „Annales Quedlinburgenses“ pirmieji paminėjo Lietuvos vardą, pažymėdami, kad 1009 m. prie Lietuvos ir Rusijos sienos nužudytas šv. Brunonas su 18 palydovų.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63520|Borisas Jelcinas]]: Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus.
-## Reikšmingi paminėjimai
-- c-018
-  santrauka: 'T. Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare, o mūšyje prie Abo miesto buvo kontūzytas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
-    siliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu
-    T. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­
-    nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo
-    prancūzų administracijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-020
-  santrauka: 'Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Taip pat skaityki­
-    te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
-    tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­
-    rijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -
-    P.' 143-167.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-32396
@@ -1933,16 +1901,13 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Adomo Mickevičiaus draugai filomatai ir filaretai su­
-    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
-    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
-    kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
-    kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
-    mitologiją. Vilniuje buvo rengiamas spaudai XVI a. kroniki­
-    ninko Motiejaus Strijkovskio veikalas. Vilniaus universiteto
-    auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
-    Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
-    Vilhelmo Gizo, Johano Miulerio - darbus.
+    T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
+    siliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu
+    T. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­
+    nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo
+    prancūzų administracijoje.
   citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu\nT. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­\nnys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo\nprancūzų administracijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1975,17 +1940,14 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Viso veikalo leidimą, atsi­
-    žvelgiant į 1830 metų sausio 8 dienos įstatymą apie autorių
-    teises, atidaviau leidėjo nuosavybėn. Pastarasis po to, kai bus
-    gautas cenzūros sutikimas pardavinėti, privalo už kiekvieną
-    tomą sumokėti 300 rublių sidabru honoraro. Taip pat iš karto
-    po išspausdinimo dar turi duoti po 60 kiekvieno tomo egzem­
-    pliorių“14.
+    Taip pat skaityki­
+    te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
+    tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­
+    rijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -
+    P.' 143-167.
   citata_rodoma: "Taip pat skaityki­\nte: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­\ntas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­\nrijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -\nP.' 143-167."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

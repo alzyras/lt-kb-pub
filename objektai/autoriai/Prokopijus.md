@@ -118,27 +118,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   pagrindžia:
     - c-179274
 
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas Prokopijų sieja su pasakojimo apie hirius pabaiga ir pažymi, kad vėlesnėse žiniose hirių nebeminima.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Bet, nenorėdami pažeisti mūsų pasakojimų chro­
-    nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
-    lietuvių gentį, iškeliavusią kartu su gotais į Rytus.
-    290
-    Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
-    ir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­
-    nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
-    jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
-    pateiktas žinias apie skirius ir sudargus, apie hirius jau
-    nematome jokių užuominų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-169652
@@ -200,16 +179,16 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Bet, nenorėdami pažeisti mūsų pasakojimų chro­
+    nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
+    lietuvių gentį, iškeliavusią kartu su gotais į Rytus.
+    290
     Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
     ir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­
     nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
     jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
     pateiktas žinias apie skirius ir sudargus, apie hirius jau
-    nematome jokių užuominų. Tačiau III amžiaus pabaigoje
-    minimi herulai; tai gentis, laikoma ta pačia, kuri anks­
-    čiau buvo vadinama hiriais. Taigi privalome patyrinėti
-    šios trečios lietuvių genties, grįžusios su gotais į Rytus,
-    kelius.
+    nematome jokių užuominų.
   citata_rodoma: "Bet, nenorėdami pažeisti mūsų pasakojimų chro­\nnologinės tvarkos, turime atkreipti dėmesį dar ir į trečią\nlietuvių gentį, iškeliavusią kartu su gotais į Rytus.\n290\nIstorijoje esama aiškių įrodymų, kad tarp gotų buvę\nir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­\nnas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­\njimą kaip ir Prokopijus; kai girdime tų pačių istorikų\npateiktas žinias apie skirius ir sudargus, apie hirius jau\nnematome jokių užuominų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

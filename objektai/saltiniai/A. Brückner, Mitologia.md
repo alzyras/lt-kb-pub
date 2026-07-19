@@ -7,12 +7,12 @@ datos:
   - '1910 m.'
 date_start: '1910'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,19 +68,6 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
   pagrindžia:
     - c-170966
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'A. Brücknerio „Mitologia“ nurodoma kaip 1910 m. Varšuvoje leistos „Wielka encyklopedia powszechna ilustrowana“ straipsnis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    35 Brįūckner] A. Mitologia // Wielka encyklopedia powszechna ■
-    ilustrowana. -  Warszawa, 1910. -  T. XLII-XLIV. -  S. 633.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-170966
@@ -111,10 +98,8 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    40 [Кречинский Н. Л.] Литовския языческия божества //
-    Вестник археологии и истории, издаваемый археологичес­
-    ким институтом. 1885 вып.- СПб, 1885,- С. 69-80.
-    41 Ivinskis Z. Medžių kultas lietuvių religijoje // Soter.
+    35 Brįūckner] A. Mitologia // Wielka encyklopedia powszechna ■
+    ilustrowana. -  Warszawa, 1910. -  T. XLII-XLIV. -  S. 633.
   citata_rodoma: "35 Brįūckner] A. Mitologia // Wielka encyklopedia powszechna ■\nilustrowana. -  Warszawa, 1910. -  T. XLII-XLIV. -  S. 633."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

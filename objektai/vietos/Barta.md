@@ -11,6 +11,9 @@ datos:
   - '1908 m.'
 date_start: '1251'
 date_end: '1908'
+amziai:
+  - 'XIII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,9 +21,6 @@ tags:
   - upė
   - valstybė
   - vieta
-amziai:
-  - 'XIII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -275,6 +275,21 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/zodynas/Bortikas.md#claim-t-192215|Bortikas]]: Narbutas Bortiką aiškina kaip vyrą, apsiginklavusį šoviniais, arba šaulį.
 - susijęs iš Girdavai: Girdavas Bartos žemėje turėjo pilį, nuo jo vardo pavadintą Girdavais.
 - susijęs iš Prieglius: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: '1251 m. dokumente Barta minima kaip Didžioji ir Mažoji Barta, kurioje gyveno bartai arba bartėnai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Sūduviai, patys tauriausieji,
+    pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe. Mat jie turėjo šešis
+    tūkstančius raitelių ir galybę kitokių karių. Kiekviena šių genčių turėjo daug stiprių
+    pilių, tačiau per daug įkyrėčiau, apie kiekvieną jų skyrium pasakodamas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-58969
@@ -322,10 +337,10 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Sūduviai, patys tauriausieji,
-    pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe. Mat jie turėjo šešis
-    tūkstančius raitelių ir galybę kitokių karių. Kiekviena šių genčių turėjo daug stiprių
-    pilių, tačiau per daug įkyrėčiau, apie kiekvieną jų skyrium pasakodamas.
+    201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,
+    Plicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor
+
+    Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.
   citata_rodoma: "201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,\nPlicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor\n\nDidžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

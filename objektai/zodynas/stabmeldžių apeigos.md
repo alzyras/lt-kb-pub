@@ -69,6 +69,33 @@ Kojelavičiaus pasakojime Algirdas viešai laikėsi stabmeldžių apeigų, bet J
   pagrindžia:
     - c-168756
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kojelavičiaus pasakojime Goštauto globojami vienuoliai Vilniuje stengėsi įveikti stabmeldžių prietarus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Čia įsikūrę vienuo­
+    liai, Goštauto globojami, uoliai užsiėmė šventąja pjū­
+    timi, ramiai stengdamiesi įveikti stabmeldžių prieta­
+    rus. Mat Goštautas buvo la-
+    Š v e n to
+    P ra n cišk a u s
+    bai įtakingas ir galingas Lie-
+    o id in o b ro lia i n u kan -
+    tuvoje: kai Algirdas kur iš-
+    k in a m i V iln iu je
+    vykdavo, jis valdydavo val­
+    stybę. Kol jis pats gyveno
+    Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
+    tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­
+    kėję, arba Poleksijoje), minia, kažin kieno sukursty­
+    ta, žiauriai su jais susidorojo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-168755
@@ -108,22 +135,19 @@ Kojelavičiaus pasakojime Algirdas viešai laikėsi stabmeldžių apeigų, bet J
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Čia įsikūrę vienuo­
+    Kryžiaus baž­
+    nytėlė. Čia įsikūrę vienuo­
     liai, Goštauto globojami, uoliai užsiėmė šventąja pjū­
     timi, ramiai stengdamiesi įveikti stabmeldžių prieta­
     rus. Mat Goštautas buvo la-
     Š v e n to
     P ra n cišk a u s
     bai įtakingas ir galingas Lie-
-    o id in o b ro lia i n u kan -
+    o id in o  b ro lia i n u kan -
     tuvoje: kai Algirdas kur iš-
     k in a m i V iln iu je
     vykdavo, jis valdydavo val­
-    stybę. Kol jis pats gyveno
-    Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
-    tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­
-    kėję, arba Poleksijoje), minia, kažin kieno sukursty­
-    ta, žiauriai su jais susidorojo.
+    stybę.
   citata_rodoma: "Kryžiaus baž­\nnytėlė. Čia įsikūrę vienuo­\nliai, Goštauto globojami, uoliai užsiėmė šventąja pjū­\ntimi, ramiai stengdamiesi įveikti stabmeldžių prieta­\nrus. Mat Goštautas buvo la-\nŠ v e n to\nP ra n cišk a u s\nbai įtakingas ir galingas Lie-\no id in o  b ro lia i n u kan -\ntuvoje: kai Algirdas kur iš-\nk in a m i V iln iu je\nvykdavo, jis valdydavo val­\nstybę."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"

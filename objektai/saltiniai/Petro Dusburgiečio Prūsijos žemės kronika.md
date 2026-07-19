@@ -73,21 +73,6 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   pagrindžia:
     - c-179295
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, kad Merūniškio apskrityje buvo aštuoniolika didelių žemvaldžių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat čia buvo
-    nemažai turtingų didelių žemės valdų savininkų; vien Me-
-    rūniškio apskrityje jų būta aštuoniolika (Dusb. P. III. C.
-    192).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174575
@@ -95,16 +80,10 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Čia taip pat būta senovinio
-    suskirstymo į mažas apskritis, iš kurių minima Kimenau,
-    Kimenava, su to paties pavadinimo pilimi; čia gyvenęs šio
-    krašto ponas, vardu Jedetas. Antra apskritis vadinosi ¡pir­
-    šau, ir buvo šiandienio Olecko apylinkėse, o kitos apskri­
-    tys buvo vadinamos Merūniškiu, Pakitna, Krestnena, Sė­
-    liais ir kt. Jos visos priklausė savarankiškiems savinin­
-    kams, priklausiusiems bajorų giminei. Taip pat čia buvo
+    Taip pat čia buvo
     nemažai turtingų didelių žemės valdų savininkų; vien Me-
-    rūniškio apskrityje jų būta aštuoniolika (Dusb.
+    rūniškio apskrityje jų būta aštuoniolika (Dusb. P. III. C.
+    192).
   citata_rodoma: "Taip pat čia buvo\nnemažai turtingų didelių žemės valdų savininkų; vien Me-\nrūniškio apskrityje jų būta aštuoniolika (Dusb. P. III. C.\n192)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

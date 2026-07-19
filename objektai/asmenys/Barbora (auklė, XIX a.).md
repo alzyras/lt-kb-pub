@@ -78,23 +78,7 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
   puslapiai: "p. 85 (PDF 83)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 85 (PDF 83)."
   citata_originali: |
-    Tais metais
-    buvo
-    keliamos mūsų namuose vestuvės, kurias bandysiu
-    aprašyti.
-    Mums
-    mažiems esant, tėvai paėmė pusmergėlę,
-    ką tik iš piemenių išėjusią,
-    kuri buvo mažiems nešiotoja. Algos jai nemokėjo, ji, vadinasi, paimta
-    už augintinę.
-    Šeimininkai privalėjo sukrauti jai kraitį, atsitikus iš­
-    leisti už vyro, duoti karvę ir dar šį tą.
-    Barbora (taip vadinosi mūsų
-    auklė), augindama mus per kiek metų,
-    pati paaugo padoria kaimo
-    mergele, išmoko verpti, austi ir kitų darbų,
-    savo kuklumu nesiskyrė
-    nuo tėvainių mergaičių — ūkininkų dukterų.
+    Tais metais buvo keliamos mūsų namuose vestuvės, kurias bandysiu aprašyti. Mums mažiems esant, tėvai paėmė pusmergėlę, ką tik iš piemenių išėjusią, kuri buvo mažiems nešiotoja. Algos jai nemokėjo, ji, vadinasi, paimta už augintinę. Šeimininkai privalėjo sukrauti jai kraitį, atsitikus išleisti už vyro, duoti karvę ir dar šį tą. Barbora (taip vadinosi mūsų auklė), augindama mus per kiek metų, pati paaugo padoria kaimo mergele, išmoko verpti, austi ir kitų darbų, savo kuklumu nesiskyrė nuo tėvainių mergaičių — ūkininkų dukterų.
   citata_rodoma: "Tais metais buvo keliamos mūsų namuose vestuvės, kurias bandysiu aprašyti. Mums mažiems esant, tėvai paėmė pusmergėlę, ką tik iš piemenių išėjusią, kuri buvo mažiems nešiotoja. Algos jai nemokėjo, ji, vadinasi, paimta už augintinę. Šeimininkai privalėjo sukrauti jai kraitį, atsitikus išleisti už vyro, duoti karvę ir dar šį tą. Barbora (taip vadinosi mūsų auklė), augindama mus per kiek metų, pati paaugo padoria kaimo mergele, išmoko verpti, austi ir kitų darbų, savo kuklumu nesiskyrė nuo tėvainių mergaičių — ūkininkų dukterų."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"

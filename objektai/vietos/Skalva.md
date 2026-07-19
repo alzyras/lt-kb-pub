@@ -57,19 +57,11 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 <a id="claim-t-58374"></a>
 - t-001
   teiginys: "Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skalva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Skalva išvardyta tarp Prūsijos žemės dalių, todėl priklausymo ryšys su Prūsija tiesiogiai palaikomas."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Skalva priklausė Prūsija (0.82)"
   pagrindžia:
-    - c-59009
+    - c-59008
 
 <a id="claim-t-58375"></a>
 - t-003
@@ -227,24 +219,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-007
-  santrauka: 'Pirmasis staigus smūgis buvo planuotas prieš Skalvių miestą ir pilį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto vis­
-    kas baigėsi visai kitaip, nei buvo norėta. Pirmąjį stai­
-    gų smūgį ketino nukreipti į Skalvių miestą ir pilį. Ir
-    tikrai per pirmąjį antpuolį lengvai pavyko išžudyti
-    tuos, kurie, nieko nežinodami, pakliuvo puolantiesiems
-    po ranka, žuvo ten ir Liudvikas Oksė, kilmingiausias
-    ordino žmogus, vis dėlto nepavyko greitai užbaigti ko­
-    vos, nes smarkiai į priekį veržęsi kariai buvo atstumti
-    nuo vartų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -309,21 +283,22 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    P. Pakarklis plėtojo
-    mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą
-    buv. Rytprūsių ir Lietuvos gyventojai buvę vienos ir tos pačios kalbos, vienu ir tuo pačiu
-    vardu vadinami savo kaimynų, išpažinę vieną ir tą pačią tikybą (dvasinės kultūros
-    bendrumo požymis), sudarę vieną ir tą patį politinį vienetą5.
-    Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
-    J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
-    lietuvių lingvistai, ypač tarybiniu laikotarpiu6.
+    Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
+    pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
+    kaip prūsų gyvenamą3.
+      Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei
+    ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva
+    bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
+    vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4.
   citata_rodoma: "Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,\npietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina\nkaip prūsų gyvenamą3.\n  Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei\nankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva\nbei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;\nvakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-59009
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -341,12 +316,10 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-59010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -372,18 +345,15 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pirmąjį stai­
+    Vis dėlto vis­
+    kas baigėsi visai kitaip, nei buvo norėta. Pirmąjį stai­
     gų smūgį ketino nukreipti į Skalvių miestą ir pilį. Ir
     tikrai per pirmąjį antpuolį lengvai pavyko išžudyti
     tuos, kurie, nieko nežinodami, pakliuvo puolantiesiems
     po ranka, žuvo ten ir Liudvikas Oksė, kilmingiausias
     ordino žmogus, vis dėlto nepavyko greitai užbaigti ko­
     vos, nes smarkiai į priekį veržęsi kariai buvo atstumti
-    nuo vartų. Tačiau lietuviai vėl ėmė pulti taip audrin­
-    gai, kaip ką tik puolė, stengdamiesi pamažėle pasiekti
-    sienas; jie jau buvo bemaž užimą įtvirtinimus, nes, iš­
-    vydę pavojų, išsigando gynėjai, nebežinodami, ką da­
-    ryti (paprastai šitaip esti, kai užgriūva staigi bėda).
+    nuo vartų.
   citata_rodoma: "Vis dėlto vis­\nkas baigėsi visai kitaip, nei buvo norėta. Pirmąjį stai­\ngų smūgį ketino nukreipti į Skalvių miestą ir pilį. Ir\ntikrai per pirmąjį antpuolį lengvai pavyko išžudyti\ntuos, kurie, nieko nežinodami, pakliuvo puolantiesiems\npo ranka, žuvo ten ir Liudvikas Oksė, kilmingiausias\nordino žmogus, vis dėlto nepavyko greitai užbaigti ko­\nvos, nes smarkiai į priekį veržęsi kariai buvo atstumti\nnuo vartų."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

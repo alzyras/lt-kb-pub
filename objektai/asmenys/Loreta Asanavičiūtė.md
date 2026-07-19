@@ -29,32 +29,12 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Loreta Asanavičiūtė
 
 ## Santrauka
 
 1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.
-
-## Teiginiai
-
-<a id="claim-t-19113"></a>
-- t-001
-  teiginys: "Loreta Asanavičiūtė žuvo 1991 m. sausio 13-ąją per sovietų kariuomenės televizijos bokšto šturmą, patekusi po tanko vikšrais ir mirusi ligoninėje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sausio 13-osios gynybinės barikados: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Loreta Asanavičiūtė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Sausio 13-osios gynybinės barikados: mention_match, thing, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Loreta Asanavičiūtė\" parinktas kaip owner_note_path. Targetas \"Sausio 13-osios gynybinės barikados\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1967 m.; įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintos perteklinės aplinkybės, paliktas aiškus faktas apie asmenį."
-  pagrindžia:
-    - c-21862
 
 ## Citatos
 
@@ -77,5 +57,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

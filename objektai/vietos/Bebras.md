@@ -27,49 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Bebras kronikos rodyklėje siejamas su vardais Biber, Bobare, Bibber ir Bobir, o dabartinis jo vardas yra Biebrza.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Bebirvytis (2-sis)
-      Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-59319
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Kulmas, vyskupystė
-    Culmen, Culmense (prie Neries)
-    Kulmena (Kulmenas, Kulmė), u.
-    Kulmenai
-    Kulmenzė (Culmense, Colmense, Colmenzehe, Kulmssee, dab. Chelmža)
-    Kulmežeris
-    Kulmkulkei, Kulminai
-    Kulva (Kolva, Colwe, Coluwa, Кулвы)
-    Culwen, Kulwen
-    Kumelionys
-    Kumėnai (Kumehnen)
-    Kuncenas
-    Kurija (Romos popiežiaus)
-    Kuršas
-  citata_rodoma: "Bebirvytis (2-sis)\n  Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-58687"></a>
@@ -93,3 +50,20 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
 - susijęs iš [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.).md#claim-t-185741|Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]: 1281 metais išlikę jotvingiai, pamatę lietuvių kariuomenę, atsimetė nuo lenkų ir prisidėjo prie lietuvių.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66768|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.
 - susijęs iš [[objektai/posakiai/Vargas mums, nes mūsų laukia nesėkmė.md#claim-t-59166|Vargas mums, nes mūsų laukia nesėkmė]]: Lietuvių kariuomenei grįžtant, burtus metęs lietuvis sušuko: „Vargas mums, nes mūsų laukia nesėkmė.“
+## Citatos
+
+- id: c-59319
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Bebirvytis (2-sis)
+      Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u.
+  citata_rodoma: "Bebirvytis (2-sis)\n  Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

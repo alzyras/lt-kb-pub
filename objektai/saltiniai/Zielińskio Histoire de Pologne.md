@@ -7,12 +7,12 @@ datos:
   - '1830 m.'
 date_start: '1830'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,47 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Narbutas Zielińskio „Histoire de Pologne“ I tomo 166 puslapį cituoja prie teiginio apie Europos tautas iki XV amžiaus.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Zielińskio „Histoire de Pologne“ I tomo 166 puslapį cituoja prie teiginio apie Europos tautas iki XV amžiaus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1
-    1 Histoire de Pologne par Zielinski. Paris, 1830. T. 1. P. 166.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174814
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Anksčiau jau rašėme tai, kodėl ši lietuvių žemė buvo
-    vadinama
-    Rusia;
-    šis
-    pavadinimas
-    buvo
-    žinomas
-    tik vietinėms ir kaimyninėms tautoms, ypač skandinavams.
-    Jie taip pat ¡savo kalba vadino šias žemes bendriniais
-    pavadinimais Ausiurland, Austarreich, Austurmeg, o tai
-    reiškia Rytų žemę, Rytų valstybę, Rytų kelią. Tam tikrą
-    šios žemės dalį skandinavai vadino Reithgothland.
-  citata_rodoma: "Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1\n1 Histoire de Pologne par Zielinski. Paris, 1830. T. 1. P. 166."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -94,3 +53,21 @@ Narbutas Zielińskio „Histoire de Pologne“ I tomo 166 puslapį cituoja prie 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174814
+
+## Citatos
+
+- id: c-174814
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1
+    1 Histoire de Pologne par Zielinski. Paris, 1830. T. 1. P. 166.
+  citata_rodoma: "Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1\n1 Histoire de Pologne par Zielinski. Paris, 1830. T. 1. P. 166."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

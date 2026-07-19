@@ -76,10 +76,12 @@ Nenurodyta
   pagrindžia:
     - c-169241
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169240
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Į nelaisvę pakliuvo
     maskvėnų karo vadas Čeliadninas ir dešimt kitų žy­
@@ -91,58 +93,6 @@ Nenurodyta
     laišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­
     nią apie pralaimėjimą, paliko prie Smolensko savo ka­
     riuomenę ir persigandęs pabėgo į Maskvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Po pergalės karalius ir karalienė Vilniuje per iškilmingas mišias padėkojo Dievui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ost­
-    rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo
-    aukščiausiajam, pastatydamas didelį Nedalomosios tre-
-    jybės vienuolyną ir jį paskirdamas vienuoliams, kurie,
-    6 3 4
-    I
-
-    ## Puslapis 633
-
-    laikydamiesi rusų apeigų, paklūsta Romos popiežiui.
-    Karalius bei karalienė, iškilmingai Vilniuje per mišias
-    padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­
-    mos popiežiui kaip dovaną keturiolika į nelaisvę pa­
-    imtų maskvėnų — pačių žymiausiųjų didikų. Tačiau
-    imperatorius Maksimilijonas netoli Halės jėga juos at­
-    ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal
-    į Maskvą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169240
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    stebėjęs, jog priešas pasimetęs, įsakė stoti į kovą vi­
-    siems savo raiteliams, kol maskvėnai dar neatsigavę,
-    ir. pats, nelyginant norėdamas būti pavyzdžiu, nušuo­
-    liavo į priekį. Paskui jį puolė visi kiti pulkai, o pir­
-    miausia lenkų didikų Jono Zborovskio, Lauryno Miš-
-    kovskio husarai, kurie, pralaužę pirmąją priešo lini­
-    ją, pradėjo iš arti kautis su maskvėnais kardais. Tuo
-    metu Ostrogiškis įsakė lietuvių vėliavoms trauktis at­
-    gal, dedantis, kad ketina pasišalinti iš kovos lauko,
-    būdamas tikras, kad priešo raiteliai paliks kovojančią
-    rikiuotę. Kaip ir tikėjosi, apgaulė pavyko. Maskvėnai,
-    pamanę, jog lietuviai sprunka iš kovos lauko, pasilei­
-    do jų vytis.
   citata_rodoma: "Į nelaisvę pakliuvo\nmaskvėnų karo vadas Čeliadninas ir dešimt kitų žy­\nmių didikų, daug dūmos narių ir du tūkstančiai bajo­\nrų. Surengęs stovykloje kareiviškas pamaldas ir pa­\ndėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis\nsuskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­\nniasdešimt žymiausių bajorų, išsiuntė juos karaliui su\nlaišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­\nnią apie pralaimėjimą, paliko prie Smolensko savo ka­\nriuomenę ir persigandęs pabėgo į Maskvą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -161,6 +111,8 @@ Nenurodyta
     jybės vienuolyną ir jį paskirdamas vienuoliams, kurie,
     6 3 4
     I
+
+    ## Puslapis 633
 
     laikydamiesi rusų apeigų, paklūsta Romos popiežiui.
     Karalius bei karalienė, iškilmingai Vilniuje per mišias

@@ -9,14 +9,14 @@ datos:
   - '1836 m.'
 date_start: '1291'
 date_end: '1836'
-amziai:
-  - 'XIII'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kraštas
+amziai:
+  - 'XIII'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -142,22 +142,6 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 - susijęs iš [[objektai/grupes/Gruzinai.md#claim-t-62591|Gruzinai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171424|Totoriai]]: Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.
 - susijęs iš Jeruzalė: Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašo, kad Sirijos patriarchą Maskvoje lydėjęs arkidiakonas Povilas pasakojo apie Rusijos carui pavaldžių tautų dangaus kūnų garbinimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    24
-    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
-    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
-    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
-    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-87095
@@ -190,17 +174,11 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iki
-    šiol to neįvyko, tačiau, pasak pranašavimo, kada nors ateis ta
-    diena, ir pasaulis nugrims tamsoje.
-    Vėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino
-    Svaistiką, arba Santvarą, kaip graikai - Apoloną.
-    Mėnuo (Menuo*)
-    Šis vardas visose lietuvių kalbos tarmėse yra vyriškos gi­
-    minės, todėl su juo buvo siejamas dievas, nors ir antrasis po
-    Saulės. Nakties karalius, laiko tarpsnių valdovas (laikas bu­
-    vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir
-    keičiantis pavidalą.
+    24
+    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
+    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
+    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
+    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
   citata_rodoma: "24\nBiblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-\nkidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,\npapasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip\ndievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

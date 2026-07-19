@@ -94,27 +94,6 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
 - susijęs iš [[objektai/asmenys/Sturlaugas Darbštusis.md#claim-t-191472|Sturlaugas Darbštusis]]: Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nužudė Ingvarą, o Ingigerdą išleido už Flamoro.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbuto pasakojime Goterio sūnus ir įpėdiniai baigiantis II a. nutraukė ilgai trukusius karus su rusais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Supylė virš jo kapo didžiulį pil­
-    kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
-    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
-    traukė baigiantis II krikščioniškosios eros amžiui4.
-    232
-    Skandinavų didvyris, vadinamas Sturlaugu Darbš-
-    čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
-    o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
-    kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
-    Rusios uostas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174156
@@ -143,18 +122,16 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Supylė virš jo kapo didžiulį pil­
+    kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
+    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
+    traukė baigiantis II krikščioniškosios eros amžiui4.
+    232
     Skandinavų didvyris, vadinamas Sturlaugu Darbš-
     čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
     o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
     kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
-    Rusios uostas. Būta įvairių spėjimų, kur buvęs šis mies­
-    tas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis
-    Sliselburgas. Bet, atsižvelgiant į tai, ką jau ne sykį anks­
-    čiau kalbėjome apie Aldesko upę ir apie tą miestą (§ 155),
-    nėra pagrindo abejoti, jog tai buvusi tvirtovė prie pagrin­
-    dinių Nemuno žiočių ir beveik toje pačioje vietoje, kur
-    vėliau lietuviai turėjo Klaipėdą, o kryžiuočiai įkūrė Me-
-    metburgą.
+    Rusios uostas.
   citata_rodoma: "Supylė virš jo kapo didžiulį pil­\nkapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­\nnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­\ntraukė baigiantis II krikščioniškosios eros amžiui4.\n232\nSkandinavų didvyris, vadinamas Sturlaugu Darbš-\nčiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,\no vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam\nkraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo\nRusios uostas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

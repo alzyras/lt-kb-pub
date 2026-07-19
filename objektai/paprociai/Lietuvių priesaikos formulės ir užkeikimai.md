@@ -84,10 +84,12 @@ Nenurodyta
   pagrindžia:
     - c-172727
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas priesaiką priskyrė aukoms, nes ją laikė geranoriška paties žmogaus sąžinės auka.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172726
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Toliau net matysi­
     me, kad jie turėjo nuodėmių išpažinimo dieną.
@@ -100,31 +102,6 @@ Nenurodyta
     kreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­
     baisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis
     būdavo toks pat baisus kaip ir anų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172726
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Tą užmo­
-    kestį paimdavo prisiekusioji pusė, dalį pinigų atidavusi teismui1*.
-    Tokios priesaikos turėjo būti žinomos jau labai senais lai­
-    kais, o po unijos jas pažino ir lenkai, nes labai sena patarlė sa­
-    ko: „ Tas, kuris vežime turi pasikinkęs šešis arklius, kuris dėžutėje
-    turi tūkstantį dukatų, o priešininką - už dviejų mylių, tas gali
-    drąsiai dėti kepurę ant stalo“'9. Tai išrašyta iš XVI amžiaus vie­
-    tinių dokumentų18 19 20.
-    Pasak Lietuvos statuto, įrodymai daugiausia remdavosi
-    priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir
-    18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios
-    klebonu (Wizerunki Naukowe.
   citata_rodoma: "Toliau net matysi­\nme, kad jie turėjo nuodėmių išpažinimo dieną.\nPriesaikos\nPrie aukų priklauso ir priesaika, kadangi tai geranoriška\nsavo paties sąžinės auka. Antikos žmonės duodavo dvejopas\npriesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam\ngalingam ir kerštingam dievui: Me Hercule, MeJove, tegu Her­\nkų lis, Jupiteris bus man maloningas; kitokią su užkeikimu,\nkreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­\nbaisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis\nbūdavo toks pat baisus kaip ir anų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

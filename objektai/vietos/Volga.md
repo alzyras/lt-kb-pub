@@ -9,13 +9,13 @@ datos:
   - '1127 m.'
 date_start: '1101'
 date_end: '1127'
-amziai:
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - upė
   - vieta
+amziai:
+  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -180,27 +180,6 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - susijęs iš Žemutinis Padnieprys: Prieš mūšį parengiamieji žygiai buvo organizuoti nuo Žemutinio Padnieprio Dono link ir į Krymą.
 - susijęs iš [[objektai/grupes/Kolchai.md#claim-t-192953|Kolchai]]: Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijos gilumos atsikėlė į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų.
 - susijęs iš Kaukazas: Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Volgą Narbutas mini pasakodamas padavimą, kad persų karalius Saporas žiemojo prie jos vidurupio, o Julijono žygūnai keliavo per alanų kraštą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šie buvo Padneprės
-    emporiumų graikų kolonistai, susigiminiavę su skitais ir
-    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
-    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
-    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
-    prie Volgos vidurupio, imperatorius Julijonas, taip pat
-    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
-    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
-    po to keliavo toliau per alanų kraštą. Tai pasakoja Amia-
-    nas Marcelinas1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-168617
@@ -227,18 +206,16 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Naru­
-    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
-    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
-    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
-    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
-    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
-    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
-    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
-    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
-    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
-    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
-    novės Kijevą. Nestoras irgi nusirašė visa tai.
+    Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą. Tai pasakoja Amia-
+    nas Marcelinas1.
   citata_rodoma: "Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą. Tai pasakoja Amia-\nnas Marcelinas1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

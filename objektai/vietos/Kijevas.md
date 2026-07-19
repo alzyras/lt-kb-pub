@@ -71,7 +71,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-180001"></a>
 - t-012
   teiginys: "Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -140,7 +140,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-180005"></a>
 - t-044
   teiginys: "Gedimino ar Algirdo laikais Kijevas buvo Lietuvos politinėje įtakoje."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -208,7 +208,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-180012"></a>
 - t-058
   teiginys: "1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Kijevas: 0.89"
   ryšio_patikimumo_lygis: "aukstas"
@@ -222,8 +222,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindžia:
     - c-163633
     - c-181808
-    - c-163646
-    - c-181826
 
 <a id="claim-t-180013"></a>
 - t-040
@@ -306,7 +304,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-180019"></a>
 - t-062
   teiginys: "Vytautas rėmė Kijevo miestą, siekdamas atgaivinti prekybą rusiškuose kraštuose."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -426,26 +424,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindžia:
     - c-163669
     - c-181787
-
-<a id="claim-t-180031"></a>
-- t-029
-  teiginys: "Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1325 m.; įvykio data: 1325-1326; įvykio data: 1326 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citatos informacija."
-  pagrindžia:
-    - c-163683
-    - c-181819
 
 <a id="claim-t-180033"></a>
 - t-001
@@ -570,7 +548,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-180047"></a>
 - t-013
   teiginys: "Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -765,7 +743,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-187582"></a>
 - t-003
   teiginys: "Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -971,19 +949,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-176421
     - c-181817
 
-<a id="claim-t-193766"></a>
-- t-087
-  teiginys: "Kijeviečiams ginantis, „Gediminas stovyklavo prie Kijevo mėnesį“."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-163683
-    - c-181819
-
 <a id="claim-t-196694"></a>
 - t-088
   teiginys: "Visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai."
@@ -1093,7 +1058,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-199256"></a>
 - t-005
   teiginys: "Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata."
   susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota"
@@ -1106,7 +1071,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-181784
+    - c-32127
 
 <a id="claim-t-199259"></a>
 - t-011
@@ -1136,15 +1101,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-199270"></a>
 - t-027
   teiginys: "Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pradinis teiginys per ilgas ir beveik pažodžiui atkartoja citatą; glaustesnė forma geriau tinka KB."
   susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bakota"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
-    - c-181784
-    - c-181820
+    - c-32127
 
 <a id="claim-t-199278"></a>
 - t-006
@@ -1211,13 +1175,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-199303"></a>
 - t-022
   teiginys: "Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir pagrįstas citata apie Kijevo kunigaikštystę."
   susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-181784
+    - c-32127
 
 <a id="claim-t-199304"></a>
 - t-031
@@ -1263,7 +1227,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-199308"></a>
 - t-014
   teiginys: "Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1816,7 +1780,10 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-032
+    - t-027
+    - t-022
 
 - id: c-163633
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2028,7 +1995,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-012
-    - t-058
     - t-062
 
 - id: c-163648
@@ -2346,9 +2312,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
     - t-030
-    - t-087
 
 - id: c-163687
   autorius: "Michał Baliński"
@@ -2414,6 +2378,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   puslapiai: "PDF 202"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
+    Nors rusai dar nebuvo
+    2 03
+
+    ## Puslapis 202
+
     Verčiau pasiduodant išsaugoti šiokią tokią valstybę,
     kad ir nugalėtojo valdomą, nei viską atkakliu prie­
     šinimusi prarasti. Todėl pa­
@@ -2425,12 +2394,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     kaip
     Kijevo ir Rusios didįjį kuni­
     gaikštį, prisiekdami su visomis žemėmis paklusti jo
-    valdžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­
-    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
-    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
-    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
-    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
-    išplėtė lietuvių valdų ribas ligi Putivlio.
+    valdžiai.
   citata_rodoma: "Nors rusai dar nebuvo\n2 03\n\n## Puslapis 202\n\nVerčiau pasiduodant išsaugoti šiokią tokią valstybę,\nkad ir nugalėtojo valdomą, nei viską atkakliu prie­\nšinimusi prarasti. Todėl pa­\nsitarę nusprendė patys ati­\nduoti pilį ir miestą. Visi luo­\nmai, išėję iš miesto, sveikino\nnugalėtoją\nGediminą\nkaip\nKijevo ir Rusios didįjį kuni­\ngaikštį, prisiekdami su visomis žemėmis paklusti jo\nvaldžiai."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2502,19 +2466,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   puslapiai: "PDF 77"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 77."
   citata_originali: |
-    Buvo vienas žmogus36, didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila37; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    dą34 ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3B,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 40.
-    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
-    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
-    sers, kam ją ištekino už vergo.
+    APIE ALGIRDO ŠONŲ JOGAILA IR JO  PINKLES PRIEŠ SAVO
+    DĖDĘ KĘSTUTI
+    Didysis kunigaikštis Algirdas turėjo dvylika sūnų
+    O štai jo sūnūs, sugyventi su ta žmona, kurią jis buvo
+    paėmęs pas Vitebsko kunigaikštį2  su kuria ir Vitebs­
+    ką buvo gavęs; Įsu ja] turėjo šešis sūnus 3 . Pirmas bu­
+    vo Vladimiras4 , kuris dalies gavo Kijevą. Antras —
+    kunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­
+    mę.
   citata_rodoma: "APIE ALGIRDO ŠONŲ JOGAILA IR JO  PINKLES PRIEŠ SAVO \nDĖDĘ KĘSTUTI\nDidysis kunigaikštis Algirdas turėjo dvylika sūnų \nO štai jo sūnūs, sugyventi su ta žmona, kurią jis buvo \npaėmęs pas Vitebsko kunigaikštį2  su kuria ir Vitebs­\nką buvo gavęs; Įsu ja] turėjo šešis sūnus 3 . Pirmas bu­\nvo Vladimiras4 , kuris dalies gavo Kijevą. Antras —  \nkunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­\nmę."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2530,20 +2490,16 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   puslapiai: "PDF 96-97"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 96-97."
   citata_originali: |
-    O kunigaikštis Jurgis Svetoslavovičius tuo metu
-    viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą
-
-    Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria-
-    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
-    Lengvenį su didele kariuomene ir su Smolensko pajė­
-    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
-    su dideliu grobiu sugrįžo pas Vytautą (1396)13.
-    Tą pačią žiemą, pavasariop H, į Smolenską, pas savo
-    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
-    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
-    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
-    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
-    auksiniais indais ir bachmatais ls.
+    Pas jį iš
+    Kijevo atvyko kunigaikštis Vladimiras. Tais pačiais
+    metais rudenį didysis kunigaikštis Vytautas iškėlė jį
+    iš Kijevo 1 3  ir davė jam Kopylį M , o Kijeve pasodino
+    Skirgailą Algirdaitį; pats didysis kunigaikštis Vytautas
+    išžygiavo į Podolės žemę l5 , o kunigaikščiui Skirgailai
+    liepė iš Kijevo žygiuoti į Čerkasus ir į Zvenigorodą l6 .
+    Didysis kunigaikštis Skirgaila, dievui padėjus ir didžia­
+    jam kunigaikščiui Vytautui įsakius, paėmė Čerkasus
+    ir Zvenigorodą ir sugrįžo atgal į Kijevą l7.
   citata_rodoma: "Pas jį iš \nKijevo atvyko kunigaikštis Vladimiras. Tais pačiais \nmetais rudenį didysis kunigaikštis Vytautas iškėlė jį \niš Kijevo 1 3  ir davė jam Kopylį M , o Kijeve pasodino \nSkirgailą Algirdaitį; pats didysis kunigaikštis Vytautas \nišžygiavo į Podolės žemę l5 , o kunigaikščiui Skirgailai \nliepė iš Kijevo žygiuoti į Čerkasus ir į Zvenigorodą l6 .  \nDidysis kunigaikštis Skirgaila, dievui padėjus ir didžia­\njam kunigaikščiui Vytautui įsakius, paėmė Čerkasus \nir Zvenigorodą ir sugrįžo atgal į Kijevą l7."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2633,19 +2589,17 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   puslapiai: "PDF 102"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
-    Prajus** vėlgi kalba apie tą patį, žiūrė­
-    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
-    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
-    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
-    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
-    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
-    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
-    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
-    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
-    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
-    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
-    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
-    novės Kijevą.
+    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
+    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
+    vadinimo panašumu su chionitais. Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą.
   citata_rodoma: "Galima tik daryti gana tikėtiną prielaidą, kuri remia­\nsi Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­\nvadinimo panašumu su chionitais. Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -2662,15 +2616,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   puslapiai: "PDF 102"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
-    Nestoras irgi nusirašė visa tai. Esmė ta,
-    kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų,
-    daugiausia netvarkingai surašytų ir sukompiliuotų iš
-    įvairių šaltinių, kuriuos naudojo šis geografas, daugybė­
-    je jam ne sykį atsitikdavo, kad, paėmęs du vienos tau­
-    tos pavadinimus iš įvairių epochų ir autorių, pateikė juos
-    atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
-    nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
-    1 Lib. XXXI.
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
   citata_rodoma: "Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama\nChue, Chunnigard-, ji priklausė minėtai tautai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -2893,11 +2846,8 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-023
-    - t-005
     - t-011
-    - t-027
     - t-009
-    - t-022
 
 - id: c-181786
   autorius: "Anoniminis metraštininkas"
@@ -2905,20 +2855,16 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   puslapiai: "PDF 96-97"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 96-97."
   citata_originali: |
-    O kunigaikštis Jurgis Svetoslavovičius tuo metu
-    viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą
-
-    Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria-
-    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
-    Lengvenį su didele kariuomene ir su Smolensko pajė­
-    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
-    su dideliu grobiu sugrįžo pas Vytautą (1396)13.
-    Tą pačią žiemą, pavasariop H, į Smolenską, pas savo
-    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
-    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
-    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
-    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
-    auksiniais indais ir bachmatais ls.
+    Pas jį iš
+    Kijevo atvyko kunigaikštis Vladimiras. Tais pačiais
+    metais rudenį didysis kunigaikštis Vytautas iškėlė jį
+    iš Kijevo 1 3  ir davė jam Kopylį M , o Kijeve pasodino
+    Skirgailą Algirdaitį; pats didysis kunigaikštis Vytautas
+    išžygiavo į Podolės žemę l5 , o kunigaikščiui Skirgailai
+    liepė iš Kijevo žygiuoti į Čerkasus ir į Zvenigorodą l6 .
+    Didysis kunigaikštis Skirgaila, dievui padėjus ir didžia­
+    jam kunigaikščiui Vytautui įsakius, paėmė Čerkasus
+    ir Zvenigorodą ir sugrįžo atgal į Kijevą l7.
   citata_rodoma: "Pas jį iš \nKijevo atvyko kunigaikštis Vladimiras. Tais pačiais \nmetais rudenį didysis kunigaikštis Vytautas iškėlė jį \niš Kijevo 1 3  ir davė jam Kopylį M , o Kijeve pasodino \nSkirgailą Algirdaitį; pats didysis kunigaikštis Vytautas \nišžygiavo į Podolės žemę l5 , o kunigaikščiui Skirgailai \nliepė iš Kijevo žygiuoti į Čerkasus ir į Zvenigorodą l6 .  \nDidysis kunigaikštis Skirgaila, dievui padėjus ir didžia­\njam kunigaikščiui Vytautui įsakius, paėmė Čerkasus \nir Zvenigorodą ir sugrįžo atgal į Kijevą l7."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -3025,15 +2971,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   puslapiai: "PDF 102"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
-    Nestoras irgi nusirašė visa tai. Esmė ta,
-    kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų,
-    daugiausia netvarkingai surašytų ir sukompiliuotų iš
-    įvairių šaltinių, kuriuos naudojo šis geografas, daugybė­
-    je jam ne sykį atsitikdavo, kad, paėmęs du vienos tau­
-    tos pavadinimus iš įvairių epochų ir autorių, pateikė juos
-    atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
-    nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
-    1 Lib. XXXI.
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
   citata_rodoma: "Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama\nChue, Chunnigard-, ji priklausė minėtai tautai."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -3177,19 +3122,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   puslapiai: "PDF 77"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 77."
   citata_originali: |
-    Buvo vienas žmogus36, didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila37; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    dą34 ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3B,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 40.
-    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
-    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
-    sers, kam ją ištekino už vergo.
+    APIE ALGIRDO ŠONŲ JOGAILA IR JO  PINKLES PRIEŠ SAVO
+    DĖDĘ KĘSTUTI
+    Didysis kunigaikštis Algirdas turėjo dvylika sūnų
+    O štai jo sūnūs, sugyventi su ta žmona, kurią jis buvo
+    paėmęs pas Vitebsko kunigaikštį2  su kuria ir Vitebs­
+    ką buvo gavęs; Įsu ja] turėjo šešis sūnus 3 . Pirmas bu­
+    vo Vladimiras4 , kuris dalies gavo Kijevą. Antras —
+    kunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­
+    mę.
   citata_rodoma: "APIE ALGIRDO ŠONŲ JOGAILA IR JO  PINKLES PRIEŠ SAVO \nDĖDĘ KĘSTUTI\nDidysis kunigaikštis Algirdas turėjo dvylika sūnų \nO štai jo sūnūs, sugyventi su ta žmona, kurią jis buvo \npaėmęs pas Vitebsko kunigaikštį2  su kuria ir Vitebs­\nką buvo gavęs; Įsu ja] turėjo šešis sūnus 3 . Pirmas bu­\nvo Vladimiras4 , kuris dalies gavo Kijevą. Antras —  \nkunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­\nmę."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -3236,26 +3177,16 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   puslapiai: "PDF 97"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 97."
   citata_originali: |
-    Tą pačią žiemą, pavasariop H, į Smolenską, pas savo
-    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
-    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
-    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
-    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
-    auksiniais indais ir bachmatais ls. O didysis kunigaikštis
-    Vytautas taip pat pagerbė savo žentą, didįjį kunigaikš­
-    tį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų
-    drabužių, brangių aksomų, vertingiausių brangakmenių,
-    žirgų su aukso balnais ir daug kitų nuostabių daiktų ir,
-    išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
-    j Lietuvą l6.
-    Šeši tūkstančiai devyni šimtai šeštaisiais17 metais
-    įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto
-    ir chano Temir-Kutlujaus
-    Didysis kunigaikštis Vy­
-    tautas sutelkė nesuskaičiuojamą daugybę kariuomenės,
-    jo pusėje buvo chanas Tochtamyšas su savo kariuome­
-    ne, ir lietuviai, ir lenkai, ir vokiečiai, žemaičiai, totoriai,
-    moldavai ir penkiasdešimt rusų kunigaikščių.
+    O
+    kunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas
+    Foma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir
+    po puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi-
+    loslavičius, ten susirgo ir, parvykęs į Kijevą, septintą
+    dieną mirė ,8. Šventikai su žvakėmis, giedodami laido­
+    tuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo
+    miesto į šventąjį dievo motinos katakombų vienuolyną,
+    ir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­
+    lia šventojo Pečeros Teodozijaus1 9  grabo.
   citata_rodoma: "O \nkunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas \nFoma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir \npo puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi- \nloslavičius, ten susirgo ir, parvykęs į Kijevą, septintą \ndieną mirė ,8. Šventikai su žvakėmis, giedodami laido­\ntuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo \nmiesto į šventąjį dievo motinos katakombų vienuolyną, \nir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­\nlia šventojo Pečeros Teodozijaus1 9  grabo."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -3653,9 +3584,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
     - t-030
-    - t-087
 
 - id: c-181820
   autorius: "Zenonas Ivinskis"
@@ -3677,7 +3606,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-037
-    - t-027
     - t-031
 
 - id: c-181821
@@ -3827,7 +3755,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-012
-    - t-058
     - t-062
 
 - id: c-181827
@@ -3836,19 +3763,17 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   puslapiai: "PDF 102"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
-    Prajus** vėlgi kalba apie tą patį, žiūrė­
-    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
-    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
-    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
-    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
-    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
-    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
-    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
-    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
-    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
-    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
-    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
-    novės Kijevą.
+    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
+    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
+    vadinimo panašumu su chionitais. Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą.
   citata_rodoma: "Galima tik daryti gana tikėtiną prielaidą, kuri remia­\nsi Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­\nvadinimo panašumu su chionitais. Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -4039,4 +3964,4 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - Užėmė Kijevą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo žygio kryptis: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Buvo užkariauta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Kijevas priklausė [[objektai/grupes/Aukso orda]], [[objektai/vietos/Rusija]]
+- Kijevas priklausė [[objektai/grupes/Aukso orda]], Rusija

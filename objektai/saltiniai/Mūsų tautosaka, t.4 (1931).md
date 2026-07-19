@@ -61,16 +61,6 @@ tags:
   pagrindžia:
     - c-177582
 
-<a id="claim-t-195217"></a>
-- t-002
-  teiginys: "Tome paskelbtas A. Sabaliausko straipsnis „A. a. prof. A. R. Niemi“."
-  atnaujinta: "2026-07-11 22:44"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177581
-
 ## Citatos
 
 - id: c-177581
@@ -100,12 +90,10 @@ tags:
   citata_rodoma: "A. Sabaliauskas\nA. a. prof. A. R. Niemi"
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-177582
   autoriai: "A. Sabaliauskas; M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931)"

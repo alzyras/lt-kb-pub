@@ -499,6 +499,103 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+- c-006
+  santrauka: 'Narbutui priskiriama ypač didelė, net aistra vadinama, dėmesio koncentracija į lietuvių mitologijos tyrinėjimus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Taigi būtų svarbu, jei­
+    gu mes, skaitydami „Lietuvių mitologiją“, sugebėtume pama­
+    tyti ne tik tai, kas pasakyta, bet ir tai, kaip tai pasakyta, kaip
+    kuriamas vaizdas, kaip niveliuojasi atskiros detalės, faktai, kaip
+    į pirmą vietą iškyla visuma, panorama, vaizdas.
+    Jau ne vieną kartą cituotame laiške I. Onacevičiui T. Nar­
+    butas savo tyrinėjimus mitologijos srityje apibūdino kaip „dar­
+    54 Ten pat. - L. VI.
+    55 Žr. šio leidinio p. 80.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-007
+  santrauka: 'Teodoras Narbutas spaudai parengė „Kronika Niemiecka J. F. R.“ iš autentiško rankraščio.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    In­
+    formaciją T. Narbutas paėmė iš T. Volianskio laiš­
+    ko (p. 11).
+    - Sakinys, kuriuo T. Narbutas papildė paragrafą,
+    rengdamas antrąjį LTI leidimą (PEĮ. - L. 416). Tai
+    informacija iš minėto T. Volianskio laiško (ten pat).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-008
+  santrauka: 'Teodoras Narbutas buvo skaitęs Augusto Liudviko fon Slėcerio tyrinėjimus ir žinojo jo nuomonę apie lietuvių kilmę bei Palemoną.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    gėsi įsiklausyti ir j oponentų — Dionizo Poškos ir Si­
+    mono Daukanto — svarstymus.
+    Suprantama, jog kiekvienas, paėmęs j rankas naują
+    LTI tomą, perskaitęs jo pratarmę, degė smalsumu, ku­
+    riai iš minėtų stovyklų pritars naujasis Lietuvos istori­
+    kas. Garsiajam A. L. Slėceriui T. Narbutas atsakė, jog
+    visa senoji lietuvių tautos istorija byloja „apie pirmykš­
+    tę kilmę iš tautos, pasiekusios gana aukštą civilizacijos
+    lygį, kažkada gyvenusios apsišvietusio pasaulio kraštuo­
+    se“, jog „tautos branduolys neprarado nei savo tautinių
+    bruožų, nei savitumo, nei didelių dorybių, kas visuomet
+    statė lietuvius greta Europos tautų, kai tik apvaizda duo­
+    davo jiems tikrų valdovų“. T. Narbutas rašė: „Skaudu
+    girdėti ir neseniai skelbtas istorikų nuomones, jog lietu­
+    viai iki krikščionybės priėmimo buvo laukinė, barbariška
+    ir plėšikiška tauta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-009
+  santrauka: 'Teodoras Narbutas laišką bičiuliui ir mokytojui Ignui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Iš
+    čia ir tam tikra jo rezignacija, nenoras atsakyti į kalti­
+    nimus, sunkiai nuslepiama nuoskauda. Vidinius T. Nar­
+    buto išgyvenimus geriausiai atskleisti padėtų jo dieno­
+    raštis ar memuarai, — deja, išliko tik sunkiai įrodomas
+    spėjimas, jog jie tikrai egzistavo. Ir vis dėlto kiek atides­
+    nis žvilgsnis į tai, ką turime mūsų dienomis, leidžia at­
+    sisakyti mums primestų stereotipų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-013
+  santrauka: 'Narbutas nuo 1838 m. pradėjo rūpintis Bychovco kronikos išspaus dinimu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Bychovco kronika, kurios, anot S. Daukanto,
+    visi seniai jau laukė, „kaip ištroškęs vandens lašelio" ,J,
+    išėjo atskiru leidiniu.10 Rankraščio tekstas jame buvo
+    perteiktas be jokių taisymų, su rašybos, skyrybos klai­
+    domis ir paraščių pastabomis. Išnašose T. Narbutas pa­
+    aiškino kai kurias teksto vietas, tačiau tie paaiškinimai
+    turi tik istoriografinės reikšmės, nes yra arba pasenę,
+    arba klaidingi. Priede T. Narbutas paskelbė Bychovco
+    kronikos rankraščio 25-jo puslapio devynių eilučių
+    faksimilę, kuri, pasak jo, puikiai pavykusi ", ir pridėjo
+    pasakojimą apie 2ygimanto Augusto ir Barboros Radvi­
+    laitės vedybas, paimtą iš kito šaltinio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-171367
@@ -583,15 +680,11 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taigi būtų svarbu, jei­
-    gu mes, skaitydami „Lietuvių mitologiją“, sugebėtume pama­
-    tyti ne tik tai, kas pasakyta, bet ir tai, kaip tai pasakyta, kaip
-    kuriamas vaizdas, kaip niveliuojasi atskiros detalės, faktai, kaip
-    į pirmą vietą iškyla visuma, panorama, vaizdas.
-    Jau ne vieną kartą cituotame laiške I. Onacevičiui T. Nar­
-    butas savo tyrinėjimus mitologijos srityje apibūdino kaip „dar­
-    54 Ten pat. - L. VI.
-    55 Žr. šio leidinio p. 80.
+    Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių mito­
+    logijos tyrinėjimų srityje buvo atkaklesnės ir tragiškesnės, ne­
+    gu galima būtų manyti detaliau jų nepažinus. Nedvejojant ga­
+    lima konstatuoti, kad mitologijai istorikas skyrė ypač daug dė­
+    mesio, kurį galbūt net būtų galima pavadinti aistra.
   citata_rodoma: "Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių mito­\nlogijos tyrinėjimų srityje buvo atkaklesnės ir tragiškesnės, ne­\ngu galima būtų manyti detaliau jų nepažinus. Nedvejojant ga­\nlima konstatuoti, kad mitologijai istorikas skyrė ypač daug dė­\nmesio, kurį galbūt net būtų galima pavadinti aistra."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -606,12 +699,10 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    In­
-    formaciją T. Narbutas paėmė iš T. Volianskio laiš­
-    ko (p. 11).
-    - Sakinys, kuriuo T. Narbutas papildė paragrafą,
-    rengdamas antrąjį LTI leidimą (PEĮ. - L. 416). Tai
-    informacija iš minėto T. Volianskio laiško (ten pat).
+    P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-
+    tentycznego, objašnil, tlómaczenie polskie doląc-
+    zyt i do druku podal Teodor Narbutt // MAB RS. -
+    E 22. -  B. 54).
   citata_rodoma: "P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-\ntentycznego, objašnil, tlómaczenie polskie doląc-\nzyt i do druku podal Teodor Narbutt // MAB RS. -\nE 22. -  B. 54)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -626,22 +717,19 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    gėsi įsiklausyti ir j oponentų — Dionizo Poškos ir Si­
-    mono Daukanto — svarstymus.
-    Suprantama, jog kiekvienas, paėmęs j rankas naują
-    LTI tomą, perskaitęs jo pratarmę, degė smalsumu, ku­
-    riai iš minėtų stovyklų pritars naujasis Lietuvos istori­
-    kas. Garsiajam A. L. Slėceriui T. Narbutas atsakė, jog
-    visa senoji lietuvių tautos istorija byloja „apie pirmykš­
-    tę kilmę iš tautos, pasiekusios gana aukštą civilizacijos
-    lygį, kažkada gyvenusios apsišvietusio pasaulio kraštuo­
-    se“, jog „tautos branduolys neprarado nei savo tautinių
-    bruožų, nei savitumo, nei didelių dorybių, kas visuomet
-    statė lietuvius greta Europos tautų, kai tik apvaizda duo­
-    davo jiems tikrų valdovų“. T. Narbutas rašė: „Skaudu
-    girdėti ir neseniai skelbtas istorikų nuomones, jog lietu­
-    viai iki krikščionybės priėmimo buvo laukinė, barbariška
-    ir plėšikiška tauta.
+    Lietuvių kilmės teorijos, kurių atsiradimą reikėtų sie­
+    ti dar su Renesanso laikotarpiu, buvo puikiai žinomos
+    LTI autoriui: tiek Jono Dlugošo užrašyta romėniškoji,
+    tiek Erazmo Stelos propaguota gotiškoji, tiek jau vėliau
+    atsiradusi heruiiškoji lietuvių tautos genezės teorija —
+    dviejų pirmųjų junginys. T. Narbutas buvo skaitęs ir
+    XVIII amžiaus pabaigos vokiečių publicisto ir istoriko
+    Augusto Liudviko fon Slėcerio tyrinėjimus, žinojo ir jo
+    nuomonę, jog lietuviai iki pat jų valstybės sukūrimo bu­
+    vo didelė, galinga, bet barbariška tauta, o Palemonas —
+    išgalvota asmenybė. Šio teiginio šalininkai buvo ir Ksa­
+    veras Bogušas, ir Jokimas Lelevelis, bet istorikas sten­
+    1 Saurai?
   citata_rodoma: "Lietuvių kilmės teorijos, kurių atsiradimą reikėtų sie­\nti dar su Renesanso laikotarpiu, buvo puikiai žinomos\nLTI autoriui: tiek Jono Dlugošo užrašyta romėniškoji,\ntiek Erazmo Stelos propaguota gotiškoji, tiek jau vėliau\natsiradusi heruiiškoji lietuvių tautos genezės teorija —\ndviejų pirmųjų junginys. T. Narbutas buvo skaitęs ir\nXVIII amžiaus pabaigos vokiečių publicisto ir istoriko\nAugusto Liudviko fon Slėcerio tyrinėjimus, žinojo ir jo\nnuomonę, jog lietuviai iki pat jų valstybės sukūrimo bu­\nvo didelė, galinga, bet barbariška tauta, o Palemonas —\nišgalvota asmenybė. Šio teiginio šalininkai buvo ir Ksa­\nveras Bogušas, ir Jokimas Lelevelis, bet istorikas sten­\n1 Saurai?"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -656,14 +744,10 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš
-    čia ir tam tikra jo rezignacija, nenoras atsakyti į kalti­
-    nimus, sunkiai nuslepiama nuoskauda. Vidinius T. Nar­
-    buto išgyvenimus geriausiai atskleisti padėtų jo dieno­
-    raštis ar memuarai, — deja, išliko tik sunkiai įrodomas
-    spėjimas, jog jie tikrai egzistavo. Ir vis dėlto kiek atides­
-    nis žvilgsnis į tai, ką turime mūsų dienomis, leidžia at­
-    sisakyti mums primestų stereotipų.
+    Sumanymas. „Aš nerašau lietuvių tautos istorijos
+    < ...> “ — tokia iš pirmo žvilgsnio šokiruojančia dekla­
+    racija T. Narbutas pradėjo laišką bičiuliui ir mokytojui
+    Ignui Onacevičiui.
   citata_rodoma: "Sumanymas. „Aš nerašau lietuvių tautos istorijos\n< ...> “ — tokia iš pirmo žvilgsnio šokiruojančia dekla­\nracija T. Narbutas pradėjo laišką bičiuliui ir mokytojui\nIgnui Onacevičiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -739,18 +823,13 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Bychovco kronika, kurios, anot S. Daukanto,
-    visi seniai jau laukė, „kaip ištroškęs vandens lašelio" ,J,
-    išėjo atskiru leidiniu.10 Rankraščio tekstas jame buvo
-    perteiktas be jokių taisymų, su rašybos, skyrybos klai­
-    domis ir paraščių pastabomis. Išnašose T. Narbutas pa­
-    aiškino kai kurias teksto vietas, tačiau tie paaiškinimai
-    turi tik istoriografinės reikšmės, nes yra arba pasenę,
-    arba klaidingi. Priede T. Narbutas paskelbė Bychovco
-    kronikos rankraščio 25-jo puslapio devynių eilučių
-    faksimilę, kuri, pasak jo, puikiai pavykusi ", ir pridėjo
-    pasakojimą apie 2ygimanto Augusto ir Barboros Radvi­
-    laitės vedybas, paimtą iš kito šaltinio.
+    Baigdamas „Lietuvos istoriją", T. Narbutas nuo
+    1838 m. pradėjo rūpintis Bychovco kronikos išspaus­
+    dinimu. 1844.11.23 jis išsiuntė rankraštį į Vilnių savo
+    artimiausiam bičiuliui gydytojui A. Renjerui, prašyda­
+    mas perduoti jį giminaičiui V. Narbutui * , kuris vėliau
+    tvarkė spausdinimo reikalus ir skaitė korektūras. *
+    * J .
   citata_rodoma: "Baigdamas „Lietuvos istoriją\", T. Narbutas nuo \n1838 m. pradėjo rūpintis Bychovco kronikos išspaus­\ndinimu. 1844.11.23 jis išsiuntė rankraštį į Vilnių savo \nartimiausiam bičiuliui gydytojui A. Renjerui, prašyda­\nmas perduoti jį giminaičiui V. Narbutui * , kuris vėliau \ntvarkė spausdinimo reikalus ir skaitė korektūras. *\n* J ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

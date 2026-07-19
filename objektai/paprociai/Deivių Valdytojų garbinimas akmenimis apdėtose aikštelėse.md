@@ -57,10 +57,12 @@ Nenurodyta
   pagrindžia:
     - c-172796
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto pasakojime Deivės Valdytojos vasaros naktimis nužengdavo į slėnius prie upių ir ežerų, kur garbintojai joms įrengdavo akmenimis apdėtas aikšteles.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172796
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kartais va­
     saros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant že­
@@ -73,31 +75,6 @@ Nenurodyta
     mo nužudydavo kiekvieną, kuris įžeisdavo jų garbę. Ir šiandien
     Žemaitijoje paprasta liaudis dainuoja dainas, turinčias kažkokį
     ryšį su tuo deivių verpėjų arba audėjų garbinimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172796
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šios dievybės atvaizdą pasiseka pamatyti kai kuriose Lie­
-    tuvos vietovėse, kur išlikę senieji papročiai, ypač Merkinės vals­
-    čiuje. Ant apvalaus 10 colių skersmens duonos kepalo, apvy­
-    nioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai
-    panaši į ulonų kepurę - sulig alkūne aukščio, apsiūta balta
-    drobe, apačioje perjuosta siaurai susukta spalvota skarele; pati
-    figūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­
-    kardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia
-    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
-    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
-    tas tas antrasis pavadinimas.
-    Tačiau lietuviams tie du dalykai visiškai skirtingi.
   citata_rodoma: "Kartais va­\nsaros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant že­\nmės, į puikius slėnius, esančius greta upių ir ežerų. Jeigu tose\nvietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­\nrytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo\nakmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba\nelipsės formą. Gerbėjai jas galėdavo stebėti iš tam tikro atstumo,\nbet vargas tam, kuris išdrįsdavo prisiartinti -  jos be pasigailėji­\nmo nužudydavo kiekvieną, kuris įžeisdavo jų garbę. Ir šiandien\nŽemaitijoje paprasta liaudis dainuoja dainas, turinčias kažkokį\nryšį su tuo deivių verpėjų arba audėjų garbinimu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

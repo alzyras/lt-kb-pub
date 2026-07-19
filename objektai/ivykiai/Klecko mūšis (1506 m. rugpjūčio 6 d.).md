@@ -13,14 +13,14 @@ aliases:
   - 'objektai/ivykiai/Klecko mūšis'
 variantai:
   - 'Klecko mūšis (mūšis, XVI a.)'
+amziai:
+  - 'XV'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
-amziai:
-  - 'XV'
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -111,6 +111,78 @@ Nenurodyta
     - c-177393
 
 ## Reikšmingi paminėjimai
+- c-004
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O tada
+    kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir,
+    perėjęs per upę, smogė visiems totorių pulkams ir per­
+    skėlė juos į dvi dalis. Tada atsigavo ir tie mūsų deši­
+    niojo sparno žmonės ir taip pat smogė jiems, ir iš abie­
+    jų pusių taip sumaišė totorių pulkus, kad totoriai ne­
+    tik kautis nebegalėjo, bet ir akių bei rankų nebedrįso
+    prieš Lietuvos kariuomenę pakelti.
+    Kunigaikštis Mykolas su visa kariuomene vijosi
+    juos iki Cepros upės2', imdamas nelaisvėn ir žudyda­
+    mas. Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir
+    pelkėje prigėrė; taip daug totorių ir jų arklių buvo
+    upėje ir pelkėje, jog lietuviai galėjo joti raiti ir pėsti
+    pereiti, lipdami per totorių ir jų arklių lavonus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-008
+
+- c-005
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Realiausia, kad šis „Kijevo metraštis" — tai nuorašas
+    pietų rusų metraščių sąvado, žinomo Ipatijaus metraš­
+    čio vardu; jis kaip tik prasideda seniausiu Kijevo
+    Rusios metraščiu. O nenuginčijamai nustatyta, kad Pla­
+    tesniojo sąvado autorius pagal Ipatijaus metraštį sukū­
+    rė legendinės dalies rusų žemių prijungimo prie Lietu­
+    vos valstybės istoriją ir kai kuriuos Kentauro herbo
+    dinastijos valdymo įvykius. O Bychovco kronikoje iš
+    to paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­
+    vilko fragmentai.
+    Turime taip pat išlikusį ir neginčijamai paties Al­
+    berto Goštauto literatūrinės kūrybos pavyzdį — Žygi­
+    manto II Kazimieraičio pagyrimą, parašytą 1529 m.
+    Lietuvos Didžiosios Kunigaikštystės teisės kodekso —
+    I-jo Lietuvos Statuto priėmimo proga 57.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    tėvas kunigaikštis Kęstutis (tada jis buvo galingas),
+    jei būtų norėjęs, būtų atėmęs Vilnių ir kunigaikščiui
+    Jogailai, jei būtų panoręs, būtų davęs kunigaikštystę,
+    nes kunigaikštis Jogaila po savo tėvo [mirties) tebebu­
+    vo visai jaunas. Mūsų tėvas šito padaryti, atimti iš jo
+    Vilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau­
+    siojo, ir kunigaikštį Jogailą pasodino Vilniaus pilyje
+    ir saugojo jį iš visų pusių, kol jis paaugo ir kol prie
+    jo priprato žmonės.
+    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
+    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
+    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
+    ir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs
+    turėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­
+    dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
+    patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
+    sų žemę pasiglemžti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-007
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -230,7 +302,7 @@ Nenurodyta
     tik kautis nebegalėjo, bet ir akių bei rankų nebedrįso
     prieš Lietuvos kariuomenę pakelti.
     Kunigaikštis Mykolas su visa kariuomene vijosi
-    juos iki Cepros upės2', imdamas nelaisvėn ir žudyda­
+    juos iki Cepros upės2 ', imdamas nelaisvėn ir žudyda­
     mas. Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir
     pelkėje prigėrė; taip daug totorių ir jų arklių buvo
     upėje ir pelkėje, jog lietuviai galėjo joti raiti ir pėsti
@@ -247,21 +319,18 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Realiausia, kad šis „Kijevo metraštis" — tai nuorašas
-    pietų rusų metraščių sąvado, žinomo Ipatijaus metraš­
-    čio vardu; jis kaip tik prasideda seniausiu Kijevo
-    Rusios metraščiu. O nenuginčijamai nustatyta, kad Pla­
-    tesniojo sąvado autorius pagal Ipatijaus metraštį sukū­
-    rė legendinės dalies rusų žemių prijungimo prie Lietu­
-    vos valstybės istoriją ir kai kuriuos Kentauro herbo
-    dinastijos valdymo įvykius. O Bychovco kronikoje iš
-    to paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­
-    vilko fragmentai.
-    Turime taip pat išlikusį ir neginčijamai paties Al­
-    berto Goštauto literatūrinės kūrybos pavyzdį — Žygi­
-    manto II Kazimieraičio pagyrimą, parašytą 1529 m.
-    Lietuvos Didžiosios Kunigaikštystės teisės kodekso —
-    I-jo Lietuvos Statuto priėmimo proga 57.
+    Tai­
+    gi, kuriant legendinių Lietuvos kunigaikščių vardus, lo­
+    kalizuojant legendinės Lietuvos istorijos įvykius, buvo
+    nusižiūrima ne apskritai į Lietuvos vietoves, o dauge­
+    liu atvejų į tas vietoves, kurios buvo Alberto Goštau­
+    to nuosavybė. Verta pridurti, kad vienas iš Alberto
+    Goštauto dvarų prieš 1522 m. buvo LiachovičiaiM . Jie
+    yra vos už keliolikos km nuo Klecko, o kaip tik Klec-
+    ko mūšio (1506 m.) aprašymas su daugybe minimų ja­
+    me vietovardžių buvo vienas iš N. N. Ulaščiko argu­
+    mentų, kuriuo jis rėmė savo spėjimą apie Bychovco
+    kronikos kilmę iš Naugarduko ar Slucko krašto.
   citata_rodoma: "Tai­\ngi, kuriant legendinių Lietuvos kunigaikščių vardus, lo­\nkalizuojant legendinės Lietuvos istorijos įvykius, buvo \nnusižiūrima ne apskritai į Lietuvos vietoves, o dauge­\nliu atvejų į tas vietoves, kurios buvo Alberto Goštau­\nto nuosavybė. Verta pridurti, kad vienas iš Alberto \nGoštauto dvarų prieš 1522 m. buvo LiachovičiaiM . Jie \nyra vos už keliolikos km nuo Klecko, o kaip tik Klec- \nko mūšio (1506 m.) aprašymas su daugybe minimų ja­\nme vietovardžių buvo vienas iš N. N. Ulaščiko argu­\nmentų, kuriuo jis rėmė savo spėjimą apie Bychovco \nkronikos kilmę iš Naugarduko ar Slucko krašto."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -276,26 +345,23 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    tėvas kunigaikštis Kęstutis (tada jis buvo galingas),
-    jei būtų norėjęs, būtų atėmęs Vilnių ir kunigaikščiui
-    Jogailai, jei būtų panoręs, būtų davęs kunigaikštystę,
-    nes kunigaikštis Jogaila po savo tėvo [mirties) tebebu­
-    vo visai jaunas. Mūsų tėvas šito padaryti, atimti iš jo
-    Vilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau­
-    siojo, ir kunigaikštį Jogailą pasodino Vilniaus pilyje
-    ir saugojo jį iš visų pusių, kol jis paaugo ir kol prie
-    jo priprato žmonės.
-    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
-    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
-    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
-    ir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs
-    turėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­
-    dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
-    patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
-    sų žemę pasiglemžti.
+    Tą pačią dieną, antradienį didikai su savo ka­
+    riuomene nakvojo kaime prie Lipos l9 , nepriėję Male-
+    vo 2 0 , o rytojaus dieną, trečiadienį, rugpjūčio mėnesio
+    šeštąją, mūsų viešpaties Jėzaus Kristaus persimainymo
+    dieną, anksti atsikėlę ir, kaip pridera prieš mūšį. su­
+    tvarkę būrius, nuėjo tiesiai į Klecką. Etmonas ponas
+    Stanislovas Petravičius Kiška tuo melu sunkiai susirgo
+    ir visai nebegalėjo išsilaikyti balne, bet dėl didelio svar­
+    bumo įsakė vežioti jį su vežimu.
+    Ir didikai, matydami, kad etmonas labai serga ir kad
+    be jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­
+    vedė tą sykį etmono pareigas kunigaikščiui Mykolui
+    Glinskiui ir teikėsi būti visi jam paklusnūs.
   citata_rodoma: "Tą pačią dieną, antradienį didikai su savo ka­\nriuomene nakvojo kaime prie Lipos l9 , nepriėję Male- \nvo 2 0 , o rytojaus dieną, trečiadienį, rugpjūčio mėnesio \nšeštąją, mūsų viešpaties Jėzaus Kristaus persimainymo \ndieną, anksti atsikėlę ir, kaip pridera prieš mūšį. su­\ntvarkę būrius, nuėjo tiesiai į Klecką. Etmonas ponas \nStanislovas Petravičius Kiška tuo melu sunkiai susirgo \nir visai nebegalėjo išsilaikyti balne, bet dėl didelio svar­\nbumo įsakė vežioti jį su vežimu.\nIr didikai, matydami, kad etmonas labai serga ir kad \nbe jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­\nvedė tą sykį etmono pareigas kunigaikščiui Mykolui \nGlinskiui ir teikėsi būti visi jam paklusnūs."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

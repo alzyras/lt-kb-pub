@@ -9,15 +9,15 @@ datos:
   - '1275 m.'
 date_start: '1275'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -108,6 +108,25 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - susijęs iš [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines.md#claim-t-97133|Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]: Pačios karūnavimo apeigos skaitėsi sakramentu.
 - susijęs iš Gedimino laiškas popiežiui Jonui XXII (1323 m.): Foigto Prūsijos istorijos priede nagrinėta Gedimino laiškų popiežiui Jonui XXII, dominikonams, minoritams ir pajūrio miestams klastotė.
 - susijęs iš Kulmas: Narbutas nurodė, kad sena siena prie Drevantos skyrė Kulmo kraštą nuo senovės Prūsijos.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto paskirtas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir suspindo žvaigždės kaip naktį, ir
+    švietė tris valandas:.
+    Štai kas nutiko po šito dangaus ženklo didžiajam
+    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
+    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
+    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
+    prie Tykiosios Sosnos 3 užpuolė Vytauto valdinius se-
+    verskiečius, atėmė iš jų du bebrus ir tris statines me-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-44496
@@ -169,14 +188,11 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir suspindo žvaigždės kaip naktį, ir
-    švietė tris valandas:.
-    Štai kas nutiko po šito dangaus ženklo didžiajam
-    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
-    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
-    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
-    prie Tykiosios Sosnos 3 užpuolė Vytauto valdinius se-
-    verskiečius, atėmė iš jų du bebrus ir tris statines me-
+    Bet kunigaikštis Jurijus susisiekė su smo-
+    lenskiečiais, tie priėmė jį ir atidarė jam miesto vartus.
+    O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto
+    paskirtas. Jie jį patį užmušė, o kunigaikštienę ir jo vai­
+    kus paleido.
   citata_rodoma: "Bet kunigaikštis Jurijus susisiekė su smo- \nlenskiečiais, tie priėmė jį ir atidarė jam miesto vartus. \nO čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto \npaskirtas. Jie jį patį užmušė, o kunigaikštienę ir jo vai­\nkus paleido."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

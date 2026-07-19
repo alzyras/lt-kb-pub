@@ -8,12 +8,12 @@ datos:
   - '1546 m.'
 date_start: '1545'
 date_end: '1546'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -91,10 +91,12 @@ Nenurodyta
   pagrindžia:
     - c-168899
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-168898
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai
     ją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi
@@ -112,48 +114,6 @@ Nenurodyta
     6 7  4
 
     ## Puslapis 673
-
-    smintis su moterimis, pradėjo lankyti Barborą Radvi­
-    laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
-    vados Stanislovo Goštauto našlę. Nors Radvilų rūmai
-    buvo visai netoli karaliaus
-    A u g u sta s sla p ta i ve-
-    pilies, Augustas, trokšdamas
-    d a
-    B arborą
-    R a d vi-
-    kada panorėjęs kuo trumpes-
-    la itę
-    niu keliu ten patekti, palie­
-    pė nukloti iš pilies į Barboros
-    sodus takelį ir tiltuką per Vilnios upę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-168898
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai
-    ją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi
-    ir karaliaus Aleksandro pa­
-    laikai, Augustas neilgai ge­
-    dėjo. Jaunatviškai lengvabū­
-    diškas, be to, iš mažumės
-    taip išauklėtas, kad mėgo
-    puotauti, šokti ir visaip link-
-    1545 m e ta i
-    M iršta A u strijo s k u ­
-    n ig a ik š ty tė
-    E lžb ieta ,
-    A u g u sto žm on a
-    6 7 4
 
     smintis su moterimis, pradėjo lankyti Barborą Radvi­
     laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­

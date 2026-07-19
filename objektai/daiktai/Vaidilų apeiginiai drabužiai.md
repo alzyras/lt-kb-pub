@@ -67,31 +67,23 @@ Nenurodyta
 <a id="claim-t-189665"></a>
 - t-002
   teiginys: "Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Vaidilos: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vaidilų apeiginiai drabužiai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Vaidilos: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo, kad drabužis yra vaidilų."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Vaidilų apeiginiai drabužiai priklausė Vaidilos (0.82)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172547
-
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Drabužio apačioje vienur kitur būdavo prisiuvinėta pė­
-    dos ilgumo gyvulio plaukų kuokštų. Tarnaudami dievams, vai­
-    dilos užsidėdavo ant galvos žalumynų vainikus, nupintus iš
-    šventųjų medžių lapų ir kvapniųjų žolių.
-    Visi vaidilos buvo dvasios ir kūno gydytojai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+    - c-172548
 
 ## Citatos
 
@@ -114,27 +106,22 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-172548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Puotininkas (Potinikas)
-    Dievo Ragučio žynys; apie juos, kaip apie išskirtinius to
-    dievo puotų ir girtavimų tarnus, kalbėjome jam skirtame
-    straipsnyje.
-    Lygašonys ir tulisonys
-    (Lingussones ir Tilussones)
-    Tai buvo laidotuvių žyniai, kurių pareiga atlikti laidotuvių
-    apeigas ir išpranašauti, kas įvyko mirusiojo sielai po jo mir­
-    ties. Pirmieji praminti nuo senovės prūsų žodžio Linguot, tai
-    reiškia skraidyti ore išskleistais sparnais; antrieji - nuo tokios
-    pat kilmės žodžio Tilussut, reiškiančio murmėti.
+    Drabužio apačioje vienur kitur būdavo prisiuvinėta pė­
+    dos ilgumo gyvulio plaukų kuokštų. Tarnaudami dievams, vai­
+    dilos užsidėdavo ant galvos žalumynų vainikus, nupintus iš
+    šventųjų medžių lapų ir kvapniųjų žolių.
+    Visi vaidilos buvo dvasios ir kūno gydytojai.
   citata_rodoma: "Drabužio apačioje vienur kitur būdavo prisiuvinėta pė­\ndos ilgumo gyvulio plaukų kuokštų. Tarnaudami dievams, vai­\ndilos užsidėdavo ant galvos žalumynų vainikus, nupintus iš\nšventųjų medžių lapų ir kvapniųjų žolių.\nVisi vaidilos buvo dvasios ir kūno gydytojai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

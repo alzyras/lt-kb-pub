@@ -9,16 +9,16 @@ datos:
   - '1302 m.'
 date_start: '1301'
 date_end: '1302'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - pilis
   - pareigūnas
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -105,14 +105,14 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
 <a id="claim-t-197071"></a>
 - t-006
   teiginys: "Draika prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio žengti, nors jį ir smarkiai ragino pentinais."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60740
+    - c-60741
 
 <a id="claim-t-197072"></a>
 - t-007
@@ -132,12 +132,10 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
 - susijęs iš [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.).md#claim-t-31407|Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]: Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį.
 - susijęs iš Aukaimis: Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę.
 - susijęs iš Ragainė: Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna.
-## Citatos
-
-- id: c-60740
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop jis prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio
     žengti, nors jį ir smarkiai ragino pentinais. Mat arklys matė pavojų, kurio raitelis nakties
@@ -149,6 +147,30 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
     neapsakomai aukštą skardį, nuo kurio galėjo nukristi į giliausią prarają, jeigu arklys būtų
     bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino
     vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-006
+
+## Citatos
+
+- id: c-60740
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
+
+      Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
+    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
+    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
+    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
+    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
+    rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
+    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
+    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
   citata_rodoma: "Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais\n\n  Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio\npilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir\npanoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai\npasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai\nprašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių\nrankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir\nštai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,\nkad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -158,7 +180,6 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   pagrindzia:
     - t-002
     - t-001
-    - t-006
 
 - id: c-60741
   autorius: "Petras Dusburgietis"
@@ -180,6 +201,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-006
     - t-007
 
 - id: c-168055

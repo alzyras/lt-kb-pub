@@ -8,14 +8,14 @@ datos:
   - '1409 m.'
 date_start: '1409'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - sukilimas
   - karas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -126,6 +126,32 @@ Nenurodyta
   pagrindžia:
     - c-67088
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie­
+    tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų 54 55.
+    Vytautas ėmė skųstis tokiu kaimyno griežtumu^55.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Žemaičiai, kuriems buvo atneštos žinios, kad «javams
+    nunokus» prasidėsiąs karas^58 , sukilo dar gegužės mėn. (1409). Jie
+    sudegino ordino vietininkui reikalingą Skirsnemunę^59 , be to, puolė
+    Žemaičiuose kitas dvi naujas pilis ir Klaipėdą^60.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-04922
@@ -133,9 +159,9 @@ Nenurodyta
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie­
-    tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų 54 55.
-    Vytautas ėmė skųstis tokiu kaimyno griežtumu^55.
+    1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie-
+    tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų.
+    Vytautas ėmė skųstis tokiu kaimyno griežtumu.
   citata_rodoma: "1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie-\ntuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų.\nVytautas ėmė skųstis tokiu kaimyno griežtumu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
@@ -150,10 +176,7 @@ Nenurodyta
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Žemaičiai, kuriems buvo atneštos žinios, kad «javams
-    nunokus» prasidėsiąs karas^58 , sukilo dar gegužės mėn. (1409). Jie
-    sudegino ordino vietininkui reikalingą Skirsnemunę^59 , be to, puolė
-    Žemaičiuose kitas dvi naujas pilis ir Klaipėdą^60.
+    Žemaičiai, kuriems buvo atneštos žinios, kad «javams nunokus» prasidėsiąs karas, sukilo dar gegužės mėn. (1409). Jie sudegino ordino vietininkui reikalingą Skirsnemunę, be to, puolė Žemaičiuose kitas dvi naujas pilis ir Klaipėdą.
   citata_rodoma: "Žemaičiai, kuriems buvo atneštos žinios, kad «javams nunokus» prasidėsiąs karas, sukilo dar gegužės mėn. (1409). Jie sudegino ordino vietininkui reikalingą Skirsnemunę, be to, puolė Žemaičiuose kitas dvi naujas pilis ir Klaipėdą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"

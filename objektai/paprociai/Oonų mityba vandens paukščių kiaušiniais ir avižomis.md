@@ -70,22 +70,6 @@ Nenurodyta
   pagrindžia:
     - c-175795
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas cituoja pasakojimą, kad oonai, vadinami kiaušinėdžiais, mito vandens paukščių kiaušiniais ir avižomis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Gal jis kalba apie Gdans­
-    ko Zulavas. Jis rašo: „Ten gyvena oonai (kiaušinėdžiai),
-    kurie minta vandens paukščių kiaušiniais ir avižomis“.
-    Tai tiesa, nes ir dabar Suomijos ir Lapijos jūros pakran­
-    čių gyventojai taip apsirūpina maistu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-175795
@@ -93,16 +77,11 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    „Yra dar hipopodų
-    su arklių kojomis ir satmalių su neapsakomai didelėmis
-    ausimis, kuriomis gali apsigobti visą savo kūną, ir jiems
-    nebereikia jokių drabužių; beje, tai gali būti pasakos, ¡bet
-    taip rašo autoriai, verti pasitikėjimo“5. Tai — pasakojimai
-    keliautojų, kurių vaizduotė, kaip pasitaikydavo ir mūsų
-    amžiais, tinkamai nepažintus dalykus nepaprastai padidin­
-    davo. Gal koks romėnų jūrų keliautojas iš laivo išvydo
-    pakrante vaikštinėjančius žmones aptemptomis šiaurinio
-    1 Pomponius Mela.
+    Gal jis kalba apie Gdans­
+    ko Zulavas. Jis rašo: „Ten gyvena oonai (kiaušinėdžiai),
+    kurie minta vandens paukščių kiaušiniais ir avižomis“.
+    Tai tiesa, nes ir dabar Suomijos ir Lapijos jūros pakran­
+    čių gyventojai taip apsirūpina maistu.
   citata_rodoma: "Gal jis kalba apie Gdans­\nko Zulavas. Jis rašo: „Ten gyvena oonai (kiaušinėdžiai),\nkurie minta vandens paukščių kiaušiniais ir avižomis“.\nTai tiesa, nes ir dabar Suomijos ir Lapijos jūros pakran­\nčių gyventojai taip apsirūpina maistu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

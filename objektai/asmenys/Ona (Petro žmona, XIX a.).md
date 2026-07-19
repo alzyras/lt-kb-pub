@@ -104,12 +104,7 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
   puslapiai: "p. 48 (PDF 46)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 48 (PDF 46)."
   citata_originali: |
-    Jaučiai nuėjo į tvartą,
-    aš į
-    svirną.
-    Girdėta, jausta ir svajota susipynė vienumon ir virto sapnu.
-    Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdy-
-    je, prieš užgavėnes, vedė Oną.
+    Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdyje, prieš užgavėnes, vedė Oną.
   citata_rodoma: "Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdyje, prieš užgavėnes, vedė Oną."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"

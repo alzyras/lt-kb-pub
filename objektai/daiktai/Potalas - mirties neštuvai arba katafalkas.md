@@ -63,22 +63,6 @@ Nenurodyta
   pagrindžia:
     - c-172623
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Potalą aiškina kaip mirties patalą, mirusiųjų neštuvus arba katafalką ir spėja, kad šis dievas globojo mirusiųjų deginimo laužus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lasickis jį žino kaip Algį (Algis).
-    Lietuvių kalboje Potalas reiškia mirties patalą, neštuvus,
-    ant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik­
-    riausiai šio dievo globojami buvo laužai, ant kurių degindavo
-    numirėlius, o jų vėles dievas pernešdavo į amžiną buveinę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172623
@@ -86,15 +70,11 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kabirai (Kabiiy)
-    Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
-    džių trejybė.
-    Seniausiems ir drauge labiausiai paplitusiems mitams pri­
-    klauso mitas apie Kabirus. Egiptiečiai ir graikai, romėnai, in­
-    dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
-    giau ar mažiau paslaptingą dievų Kabirų ritualą.
-    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
-    kiančio galią.
+    Lasickis jį žino kaip Algį (Algis).
+    Lietuvių kalboje Potalas reiškia mirties patalą, neštuvus,
+    ant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik­
+    riausiai šio dievo globojami buvo laužai, ant kurių degindavo
+    numirėlius, o jų vėles dievas pernešdavo į amžiną buveinę.
   citata_rodoma: "Lasickis jį žino kaip Algį (Algis).\nLietuvių kalboje Potalas reiškia mirties patalą, neštuvus,\nant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik­\nriausiai šio dievo globojami buvo laužai, ant kurių degindavo\nnumirėlius, o jų vėles dievas pernešdavo į amžiną buveinę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

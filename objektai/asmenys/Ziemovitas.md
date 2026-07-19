@@ -143,15 +143,22 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 <a id="claim-t-191004"></a>
 - t-010
   teiginys: "Narbutas pasakoja, kad atvykus rezervui į Vasilkos ir Ziemovito kariuomenę kilo žiaurus mūšis, kuriame abu vadai narsiai kovėsi."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ietis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ziemovitas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Ietis: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ziemovitas\" parinktas kaip owner_note_path. Targetas \"Ietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173885
+    - c-173886
 
 <a id="claim-t-197847"></a>
 - t-011
@@ -178,24 +185,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 - susijęs iš [[objektai/asmenys/Boleslovas Gėdingasis.md#claim-t-191199|Boleslovas Gėdingasis]]: Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.
 - susijęs iš [[objektai/asmenys/Vasilka.md#claim-t-190996|Vasilka]]: Narbutas nurodė: Mūšyje su jotvingiais Vasilka liko su Ziemovitu, o Lozorius su poloviečiais laukė rezerve, kuris vėliau atvyko į jų kariuomenę.
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Ziemovitas valdė Mazoviją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    G*
-    131
-
-    ## Puslapis 129
-
-    hania apie Danieliaus žygi prieš jotvingius. Ziemovitas
-    valdė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­
-    bėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime
-    jotvingius".
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-005
   santrauka: 'Lenkams patekus į sunkią padėtį, Ziemovitas kreipėsi į rusų kunigaikščius, prašydamas atsiųsti šaulių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -206,22 +195,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     kunigaikščius, prašydamas, kad jam atsiųstų šaulių. Bet
     šie, pykdami dėl ankstesnio įvykio, negreitai įvykdė tą
     reikalavimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Narbutas pasakoja, kad atvykus rezervui į Vasilkos ir Ziemovito kariuomenę kilo žiaurus mūšis, kuriame abu vadai narsiai kovėsi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pastaruosius jotvingiai smarkiai puo­
-    lė ir atėmė vado vėliavą. Kai šis rezervas atvyko į Vasil-
-    kos ir Ziemovito kariuomenę, įvyko žiaurus mūšis: iš abie­
-    jų pusių krito daug karių, bet Vasilka ir Ziemovitas narsiai
-    kovėsi, kaip Ir Andrius, rūmų urėdas, nors ir ligotas, bet
-    narsus žmogus. Jis pasileido zovada tarp priešo gretų,
-    paleido iš rankų ietį ir vos nebuvo nukautas.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -311,11 +284,15 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vakarop atvyko pasiuntiniai, vadovaujami tokio Ne-
-    biasto, kuris visos jotvingių tautos vardu prašė Danie­
-    liaus, kad šis taikiai išeitų iŠ jų žemės ir atsisakytų bend­
-    radarbiauti su lenkais. Danielius nesutiko. Naktį jotvin­
-    giai užpuolė tik lenkus, o rusinu —■ ne.
+    G*
+    131
+
+    ## Puslapis 129
+
+    hania apie Danieliaus žygi prieš jotvingius. Ziemovitas
+    valdė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­
+    bėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime
+    jotvingius".
   citata_rodoma: "G*\n131\n\n## Puslapis 129\n\nhania apie Danieliaus žygi prieš jotvingius. Ziemovitas\nvaldė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­\nbėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime\njotvingius\"."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -347,7 +324,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
-    - t-010
     - t-011
 
 - id: c-173886
@@ -355,21 +331,21 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    mišką, bet vis dėlto neteko daug karių, o Fiodoras Dmitri-
-    jevičius, narsiai puolęs, buvo sužeistas ir mirė prie Narevo
-    upės. Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums
-    nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,
-    tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­
-    gę pataikyti savo krauju". Taip ir įvyko: Danielius įsakė
-    savo riteriams paskubėti. Tai matydami, jotvingiai išsi­
-    gando, nes įsitikino rusų ir lenkų galia.
+    Pastaruosius jotvingiai smarkiai puo­
+    lė ir atėmė vado vėliavą. Kai šis rezervas atvyko į Vasil-
+    kos ir Ziemovito kariuomenę, įvyko žiaurus mūšis: iš abie­
+    jų pusių krito daug karių, bet Vasilka ir Ziemovitas narsiai
+    kovėsi, kaip Ir Andrius, rūmų urėdas, nors ir ligotas, bet
+    narsus žmogus. Jis pasileido zovada tarp priešo gretų,
+    paleido iš rankų ietį ir vos nebuvo nukautas.
   citata_rodoma: "Pastaruosius jotvingiai smarkiai puo­\nlė ir atėmė vado vėliavą. Kai šis rezervas atvyko į Vasil-\nkos ir Ziemovito kariuomenę, įvyko žiaurus mūšis: iš abie­\njų pusių krito daug karių, bet Vasilka ir Ziemovitas narsiai\nkovėsi, kaip Ir Andrius, rūmų urėdas, nors ir ligotas, bet\nnarsus žmogus. Jis pasileido zovada tarp priešo gretų,\npaleido iš rankų ietį ir vos nebuvo nukautas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Ziemovitas valdė [[objektai/vietos/Mazovija]]

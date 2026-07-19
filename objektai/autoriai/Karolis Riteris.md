@@ -72,7 +72,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
 <a id="claim-t-191888"></a>
 - t-003
   teiginys: "Narbuto teigimu, Karolis Riteris veikale apie Europos senovę įrodė sauromatų giminystę arba jų mokslingumą iš indų kolonistų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -88,7 +88,6 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174770
-    - c-177278
 
 <a id="claim-t-194882"></a>
 - t-004
@@ -118,7 +117,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
 <a id="claim-t-197619"></a>
 - t-006
   teiginys: "Šios tautos giminystę arba veikiau iš indų kolonistų atsiradusį mokslingumą ponas Riteris įrodė mūsų ne kartą cituotame ir kuo didžiausios pagarbos vertame vei kale, nagrinėdamas žiliausią Europos senovę."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -126,27 +125,8 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174770
-    - c-177278
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pievos prie Dono žiočių į Azovo jūrą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Čia plyti vešlios žolės
-    turtingos Padonės pievos, supančios Dono žiotis į Azovo
-    jūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­
-    1
-    Ištrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker­
-    geschichten.
-    II.
-    Abschn.
-    I).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Narbuto perteikimu, Karolis Riteris indų vardą siejo su senovės kolchais, saulės garbintojais, atėjusiais iš Indijos prie Meotų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -172,18 +152,6 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-- c-004
-  santrauka: 'Prie pačių keisčiausių išvadų, nepaisant slaviško skambėjimo panašumo, labai artimo esmei, derėtų pri 1 Tai įrodo Riteris (Vorhalle ettr.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Prie pačių keisčiausių išvadų, nepaisant slaviško
-    skambėjimo panašumo, labai artimo esmei, derėtų pri­
-    1 Tai įrodo Riteris (Vorhalle ettr. Absch. IIT Kap, S. 147—-160).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -192,17 +160,15 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ne tik Ponto pakrantė į pietus nuo Kaukazo kalnų,
-    kur Vidurinės Azijos gentis vedė albanų Koros, armėnų
-    ir kolchų Fasis, ko gero, buvo laikoma gamtiniais vieš­
-    keliais, bet greta jų Kolhų kraštas senovėje traukė he-
-    lenų dėmesį, o kartu ir Ponto pakrantės ar stepių lygu­
-    mos, plytinčios į šiaurę nuo Kaukazo, tas Azijos ir Eu­
-    ropos genčių santykių kertinis akmuo. Būtent šias že­
-    mes, buvusias Skitų krašto slenksčiu, senovės autoriai
-    daug kartų apdainavo* ir aprašė. Čia plyti vešlios žolės
+    Čia plyti vešlios žolės
     turtingos Padonės pievos, supančios Dono žiotis į Azovo
     jūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­
+    1
+    Ištrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker­
+    geschichten.
+    II.
+    Abschn.
+    I).
   citata_rodoma: "Čia plyti vešlios žolės\nturtingos Padonės pievos, supančios Dono žiotis į Azovo\njūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­\n1\nIštrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker­\ngeschichten.\nII.\nAbschn.\nI)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -275,16 +241,9 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Todėl ši, jei taip galima sakyti, pravardė turėjo
-    kilti iš jų judraus, besikeičiančio ir nepastovaus gyveni­
-    mo būdo, kaip ir šio smulkaus šliužo, kurį senovės pa­
-    saulio gentys vadino driežu: ir lietuvių kalboje yra žodis
-    Siauras. Tad sauromatų vardą reikėtų versti į klaidžio­
-    jantys, klajokliai matai.
-    Šios tautos giminystę arba veikiau iš indų kolonistų
-    atsiradusį mokslingumą ponas Riteris įrodė mūsų ne
-    kartą cituotame ir kuo didžiausios pagarbos vertame vei­
-    kale, nagrinėdamas žiliausią Europos senovę.
+    Prie pačių keisčiausių išvadų, nepaisant slaviško
+    skambėjimo panašumo, labai artimo esmei, derėtų pri­
+    1 Tai įrodo Riteris (Vorhalle ettr. Absch. IIT Kap, S. 147—-160).
   citata_rodoma: "Prie pačių keisčiausių išvadų, nepaisant slaviško\nskambėjimo panašumo, labai artimo esmei, derėtų pri­\n1 Tai įrodo Riteris (Vorhalle ettr. Absch. IIT Kap, S. 147—-160)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -292,6 +251,4 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-004
-    - t-006

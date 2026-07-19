@@ -8,15 +8,15 @@ datos:
   - '1836 m.'
 date_start: '1835'
 date_end: '1836'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - asmuo
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,24 +90,6 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   pagrindžia:
     - c-172917
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tada aprengia drabužiais, pritinkančiais luomui ir ly­
-    čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
-    rankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­
-    riai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti
-    drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
-    pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
-    rūs“. Mes gi apie tai nieko negalime pasakyti*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172917
@@ -144,18 +126,13 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šitai įrodo daugybė kapų,
-    arba laidojimo laukų, išsibarsčiusių po visą Lietuvą, kurie pa­
-    davimuose laikomi pagoniškais. Kartais jie būna apdėti ak­
-    menimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių
-    asmenų kūnus laidodavo ne tik su visais drabužiais, būdingais
-    kiekvienam luomui, bet ir su visu tuo, kuo velionis vertėsi gy­
-    vas būdamas: karys su ginklu, medžiotojas su lanku, amati­
-    ninkas su savo amato įrankiais. Visuomet pagoniškose kapa­
-    vietėse randamas koks nors geležinis daiktas, padėtas prie deši­
-    niojo peties, prie motenį - varinės adatos, akmeniniai verpstukų
-    smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
-    kio lygintuvo liekanas, iškastas Obeliuose).
+    Tada aprengia drabužiais, pritinkančiais luomui ir ly­
+    čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
+    rankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­
+    riai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti
+    drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
+    pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
+    rūs“. Mes gi apie tai nieko negalime pasakyti*.
   citata_rodoma: "Tada aprengia drabužiais, pritinkančiais luomui ir ly­\nčiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša\nrankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­\nriai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti\ndrabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot\npono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­\nrūs“. Mes gi apie tai nieko negalime pasakyti*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

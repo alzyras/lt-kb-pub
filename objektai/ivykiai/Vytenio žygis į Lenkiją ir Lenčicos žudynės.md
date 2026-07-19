@@ -78,10 +78,12 @@ Nenurodyta
   pagrindžia:
     - c-60088
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų persekiojo iš Lenkijos besitraukiančius lietuvius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-60087
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Po to, kai jie ėmė
     trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
@@ -92,28 +94,10 @@ Nenurodyta
     juos  ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
     paspruko, kad galėtų kitiems apie tai papasakoti.
 
+
+
+
         251 (244).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-60087
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
-    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
-    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
-    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
-    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
-    255 (248). Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
-    1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
-    savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas.
   citata_rodoma: "Po to, kai jie ėmė\ntrauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių\nžūties, leidosi jų persekioti su tūkstančiu  ir aštuoniais šimtais vyrų. Šitai sužinojęs,\nMazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui\ntarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai\nsau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį paliaubų susitarimą, užpuolė\njuos  ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris\npaspruko, kad galėtų kitiems apie tai papasakoti.\n\n\n\n\n    251 (244)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

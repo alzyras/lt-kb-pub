@@ -87,9 +87,7 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
   puslapiai: "p. 107 (PDF 105)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 107 (PDF 105)."
   citata_originali: |
-    — Ir tą pasakysiu. Tarnavau Lenčiuose pas Gatunkį pusberniu­
-    ku.
-    Jo buvo stališkas varstotas, turėjo ir tekinamąjį prietaisą.
+    Tarnavau Lenčiuose pas Gatunkį pusberniuku. Jo buvo stališkas varstotas, turėjo ir tekinamąjį prietaisą.
   citata_rodoma: "Tarnavau Lenčiuose pas Gatunkį pusberniuku. Jo buvo stališkas varstotas, turėjo ir tekinamąjį prietaisą."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"

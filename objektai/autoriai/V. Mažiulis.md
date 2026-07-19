@@ -170,19 +170,9 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Petro Dusburgiečio kronika
-    Epocha, šaltiniai, tendencija, reikšmė
-    Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir
-    pasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio
-    šaltinius sudaro analai, kronikos,  memuarai bei dienoraščiai, šventųjų gyvenimai ir kt.
-    Tarybinis mokslas kreipia didelį dėmesį į teisingą istorinių šaltinių teksto suvokimą
-    atskleidžiant jo socialinę, klasinę esmę, traktuojant šaltinį kaip to meto visuomenės
-    gyvenimo objektyvų atspindį, tiriant jį kaip paminklą mūsų šalies tautų išsivaduojamajai
-    kovai atskleisti1.
-    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
-    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
-    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
-    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+    Didelę  dalį  prūsiškųjų   ir  kitų  baltiškųjų  vietovardžių  bei  asmenvardžių
+
+    rekonstrukcijų pateikė akad.
   citata_rodoma: "Didelę  dalį  prūsiškųjų   ir  kitų  baltiškųjų  vietovardžių  bei  asmenvardžių\n\nrekonstrukcijų pateikė akad."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

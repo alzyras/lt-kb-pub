@@ -60,10 +60,12 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   pagrindžia:
     - c-179292
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žiočių į Azovo jūrą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174807
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia plyti vešlios žolės
     turtingos Padonės pievos, supančios Dono žiotis į Azovo
@@ -74,30 +76,6 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
     II.
     Abschn.
     I).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174807
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Ne tik Ponto pakrantė į pietus nuo Kaukazo kalnų,
-    kur Vidurinės Azijos gentis vedė albanų Koros, armėnų
-    ir kolchų Fasis, ko gero, buvo laikoma gamtiniais vieš­
-    keliais, bet greta jų Kolhų kraštas senovėje traukė he-
-    lenų dėmesį, o kartu ir Ponto pakrantės ar stepių lygu­
-    mos, plytinčios į šiaurę nuo Kaukazo, tas Azijos ir Eu­
-    ropos genčių santykių kertinis akmuo. Būtent šias že­
-    mes, buvusias Skitų krašto slenksčiu, senovės autoriai
-    daug kartų apdainavo* ir aprašė. Čia plyti vešlios žolės
-    turtingos Padonės pievos, supančios Dono žiotis į Azovo
-    jūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­
   citata_rodoma: "Čia plyti vešlios žolės\nturtingos Padonės pievos, supančios Dono žiotis į Azovo\njūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­\n1\nIštrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker­\ngeschichten.\nII.\nAbschn.\nI)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

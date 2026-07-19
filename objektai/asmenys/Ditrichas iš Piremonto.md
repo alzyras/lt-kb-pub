@@ -70,13 +70,15 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai
-    buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei
-    ietimis, nei kalavijais, nei kokiais kitais ginklais. Galop, nusitvėrę dviese, trise ar daugiau
-    po mietą, rėmė juos kopiantiems į krūtinę ar nugarą, stūmė žemyn ir vertė juos nuo
-    sienų. Kai sutemo, broliai liovėsi puolę. Kitą dieną, kai jie ketino vėl stoti į kovą, pilėnai,
-    davę įkaitų, pasižadėjo paklusti broliams. Verčiami lietuvių karaliaus, vis dėlto vėliau jie
-    nesilaikė duoto žodžio.
+    Kai po to broliai pasuko atgal, suplūdo, išvydę
+    minėtuosius laužų dūmus, visi kaimynystėje gyvenę stabmeldžiai ir įniko juos puldinėti;
+    abiejose šalyse daug karių buvo sunkiai sužeista, žuvo brolis Ditrichas iš Piremonto ir
+    krito daug netikėlių.
+
+
+
+
+                335 (328).
   citata_rodoma: "Kai po to broliai pasuko atgal, suplūdo, išvydę\nminėtuosius laužų dūmus, visi kaimynystėje gyvenę stabmeldžiai ir įniko juos puldinėti;\nabiejose šalyse daug karių buvo sunkiai sužeista, žuvo brolis Ditrichas iš Piremonto ir\nkrito daug netikėlių.\n\n\n\n\n            335 (328)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

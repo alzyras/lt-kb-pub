@@ -10,6 +10,10 @@ datos:
   - '1289 m.'
 date_start: '1286'
 date_end: '1289'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,10 +21,6 @@ tags:
   - karalius
   - kunigaikštis
   - šeima
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -115,30 +115,6 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   pagrindžia:
     - c-168178
 
-<a id="claim-t-197141"></a>
-- t-006
-  teiginys: "Pelužis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-85907
-
-<a id="claim-t-197142"></a>
-- t-007
-  teiginys: "Pelužis buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-85906
-
 <a id="claim-t-197791"></a>
 - t-008
   teiginys: "Dusiburgas2 primena vardą įžymaus žmogaus, kilusio iš kunigaikščio Pelužio giminės; anot vietinių tyrinėjimų, Lydos apskrityje būta ir kilmingos Pelužių, arba Pelusų, Pelasų, giminės; ten taip pat Pelesos upė ir to paties pavadinimo ežeras, į kurį ji įteka."
@@ -164,12 +140,9 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63913|Martynas iš Golino]]: Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-184655|Albertas iš Meiseno]]: Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.
 - susijęs iš [[objektai/asmenys/Stavimėlas.md#claim-t-60439|Stavimėlas]]: Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas.
-## Citatos
-
-- id: c-85906
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tą pačią naktį jis buvo viešpaties
     išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.
@@ -179,22 +152,17 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     mūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo kitų ir, susijaudinęs bei
     ašarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau,
     sukalbėjęs daug maldų, tavo kūną“.
-  citata_rodoma: "Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],\nvieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos\nkaraliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras\npaskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],\nvardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge\nsu juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
-    - t-001
-    - t-007
+  statusas: verified
+- t-001
+    - t-006
 
-- id: c-85907
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+- c-002
+  santrauka: 'Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kurį
     metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
@@ -202,20 +170,16 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     231 (225). Dar apie tą patį
     Tas pats brolis Albertas vienu metu sunegalavo, o per tą ligą visai nuslinko jam galvos
     plaukai ir iškrito blakstienos.
-  citata_rodoma: "III, 235), sukilimą prūsai galėjo rengti 1289 m.\n\nTuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],\nvieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos\nkaraliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras\npaskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],\nvardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge\nsu juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-006
+  statusas: verified
+- t-005
 
-- id: c-168178
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+- c-003
+  santrauka: 'Pelužis apie sumanymą pranešė Karaliaučiaus komtūrui Albertui fon Meisenui, kuris jį parėmė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žygis nereikalavo didelės ka­
     riuomenės, būtų užtekę negausaus, bet ryžtingo būrio,
@@ -229,6 +193,71 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     da lietuviai pajustų, jog priešas perėjo sieną, kai žy­
     gis bus baigtas: didžiausią rūpestį kėlė ne tiek lietuvių
     kariuomenė, kiek jų budrumas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-85906
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
+    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
+    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
+    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
+    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
+    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
+  citata_rodoma: "Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],\nvieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos\nkaraliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras\npaskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],\nvardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge\nsu juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+    - t-003
+    - t-001
+
+- id: c-85907
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    III, 235), sukilimą prūsai galėjo rengti 1289 m.
+
+    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
+    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
+    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
+    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
+    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
+    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
+  citata_rodoma: "III, 235), sukilimą prūsai galėjo rengti 1289 m.\n\nTuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],\nvieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos\nkaraliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras\npaskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],\nvardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge\nsu juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-168178
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tegu su kariais netikėtai pasirodąs, iš pa­
+    čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-
+    sią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­
+    nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui,
+    kuris parėmė sumanymą. Žygis nereikalavo didelės ka­
+    riuomenės, būtų užtekę negausaus, bet ryžtingo būrio,
+    lengvai ginkluotų, bet drąsių, ne per daug besidomin­
+    čių vado planais karių.
   citata_rodoma: "Tegu su kariais netikėtai pasirodąs, iš pa­\nčių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-\nsią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­\nnešė Albertui ton Meisenuį, Karaliaučiaus komtūrui,\nkuris parėmė sumanymą. Žygis nereikalavo didelės ka­\nriuomenės, būtų užtekę negausaus, bet ryžtingo būrio,\nlengvai ginkluotų, bet drąsių, ne per daug besidomin­\nčių vado planais karių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

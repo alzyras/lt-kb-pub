@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1401'
 date_end: '2026'
-amziai:
-  - 'XV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
   - grupe
+amziai:
+  - 'XV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -153,13 +153,20 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 <a id="claim-t-187881"></a>
 - t-020
   teiginys: "Įvadinio straipsnio autorius teigia, kad neigiamas požiūris į sulenkėjusią Lietuvos bajoriją atitolino nuo jos kūrybos ir istorijos tyrimų supratimo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos bajorija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos bajorija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171175
+    - c-170855
 
 <a id="claim-t-187882"></a>
 - t-021
@@ -399,73 +406,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - susijęs iš [[objektai/zodynas/nobilitetas.md#claim-t-36817|nobilitetas]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus.
 - susijęs iš [[objektai/zodynas/politinė tauta lietuvių nacija.md#claim-t-22247|politinė tauta lietuvių nacija]]: Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
 - susijęs iš [[objektai/zodynas/statutas.md#claim-t-100291|statutas]]: Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti Lietuvos statuto ir atskirų teisių.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Įvadinio straipsnio autorius teigia, kad neigiamas požiūris į sulenkėjusią Lietuvos bajoriją atitolino nuo jos kūrybos ir istorijos tyrimų supratimo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Prie tokių žmonių galima priskirti
-    Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
-    tautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­
-    minklu ir lietuvių tautos kultūriniu palikimu. Įsigalėjęs neigia­
-    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
-    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
-    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Juk Lietuvos istorija -  tai ne vien pagoniškas
-    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
-    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
-    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
-    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
-    tūrinio paveldo arealas. XVI-XVIII a. lietuvis -  tai bajoras,
-    stropiai ginantis savo politines laisves ir besididžiuojantis Lie­
-    tuvos statuto suteiktomis teisėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-014
-  santrauka: 'Narbutas perteikia autoriaus pagyrimą Lietuvos bajorams, kurie, vėl paklusę Apaštališkajam sostui, esą nusipelnė didžio vardo Bažnyčioje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Autorius pateikia iš­
-    kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
-    gyne. Baigdamas už uolų tikėjimą pagiria Lietuvos bajorus,
-    kurie, vėl paklusę Apaštališkajam sostui, nusipelno didžio var­
-    do visoje bažnyčioje. Pranašauja, kad Lenkijos ir Lietuvos tau­
-    tos niekad nenukryps panašiai kaip čekai, kadangi didis val­
-    dovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis
-    šito laidas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-016
-  santrauka: 'Įvadinio straipsnio autorius teigia, kad lenkiškai parašytas Narbuto veikalas išryškino lietuvių ir koroniažų etnokultūrinius skirtumus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
-    kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
-    tojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet
-    mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
-    reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
-    kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-46363
@@ -492,37 +432,35 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    XVI-XVIII a. lietuvis - tai bajoras,
-    stropiai ginantis savo politines laisves ir besididžiuojantis Lie­
-    tuvos statuto suteiktomis teisėmis.
-    XIX amžius teisėtai vadinamas istorizmo šimtmečiu. Ro­
-    mantizmas pagimdė naują individo sąmonės formų struktūrą,
-    kuri skiriasi nuo švietėjiškos asmenybės proto diktato. Euro­
-    pos romantikai atgaivino ciklinio laiko sampratą, įtariai įžvelg­
-    dami linijinio „progresyvaus“ laiko išklotinėje neatitikimą tarp
-    proto deklaruoj amų visuotinių visuomeninių principų ir j ų vir­
-    timo priešingybėmis gyvenime.
+    Prie tokių žmonių galima priskirti
+    Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
+    tautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­
+    minklu ir lietuvių tautos kultūriniu palikimu. Įsigalėjęs neigia­
+    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
+    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
+    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
   citata_rodoma: "Prie tokių žmonių galima priskirti\nTeodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių\ntautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­\nminklu ir lietuvių tautos kultūriniu palikimu. Įsigalėjęs neigia­\nmas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir\nsocialinių tautos vertybių išdavikę atitolindavo mus nuo lite­\nratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
+
 - id: c-170856
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    literatūros istorijos tyrėjų Pranas Augustaitis pažymėjo: „Vie­
-    nok pasilieka neužginčijamas faktas, kad lietuvybės elementai
-    XIX šimtmečio pradžioje padarė labai žymios įtakos į lenkų
-    literatūrą, per tai visai buvo rimtas pamatas išskirti juos iš kitų
-    lenkų literatūroj veiksnių ir gvildenti juos atskirai, kaipo at­
-    skirą literatūros kryptį“1. Tyrėjas įžvelgė skirtumą tarp vadi­
-    namųjų lenkiškų literatūrų.
-    Lenkiškai rašančių Lietuvos romantikų kūryboje pagoniš­
-    ka krašto istorija užėmė svarbią vietą.
+    Juk Lietuvos istorija -  tai ne vien pagoniškas
+    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
+    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
+    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
+    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
+    tūrinio paveldo arealas. XVI-XVIII a. lietuvis -  tai bajoras,
+    stropiai ginantis savo politines laisves ir besididžiuojantis Lie­
+    tuvos statuto suteiktomis teisėmis.
   citata_rodoma: "Juk Lietuvos istorija -  tai ne vien pagoniškas\ntikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­\njorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė\nLietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,\nlenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­\ntūrinio paveldo arealas. XVI-XVIII a. lietuvis -  tai bajoras,\nstropiai ginantis savo politines laisves ir besididžiuojantis Lie­\ntuvos statuto suteiktomis teisėmis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -781,21 +719,14 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai dėl jų vadinimo manichėjiečiais, tai
-    senų katalikų rašytojų papratimu šitaip praminti turėjo būti
-    rusų sektantai, nes vidurinių amžių autoriai paprastai mani­
-    chėjiečiais vadindavo albigiečius, petrobrusijonus, Tancheli-
-    no sekėjus popelikonus, katarus ir kitus XII, XIII ir Xl V am­
-    žių sektantus.
-    Mat katalikai taip neapkentė manichėjiečių ir agapijonų
-    sektos, kad žodžiai „eretikas“ ir „manichėjietis“ reiškė tą patį.
-    Todėl neabejojame, kad toji sekta pas mus buvo, nors šiaip
-    apie ją, atrodo, nėra jokios užuominos. Ne daugiau šviesos
-    mums gali paskolinti rusų bažnyčios istorija. Tuo tarpu yra tik­
-    ras dalykas, jog Rusijoje, taip pat besiribojančiuose su ja kraš­
-    tuose nuo seno atsirasdavo sektų, dažnai tokių neaiškių, su­
-    painiotų ir slaptų, kad vietiniai rašytojai patys nesugeba nu­
-    statyti, kaip jos atsirado, nors nemaža jų gyvuoja iki šiol.
+    Autorius pateikia iš­
+    kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
+    gyne. Baigdamas už uolų tikėjimą pagiria Lietuvos bajorus,
+    kurie, vėl paklusę Apaštališkajam sostui, nusipelno didžio var­
+    do visoje bažnyčioje. Pranašauja, kad Lenkijos ir Lietuvos tau­
+    tos niekad nenukryps panašiai kaip čekai, kadangi didis val­
+    dovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis
+    šito laidas.
   citata_rodoma: "Autorius pateikia iš­\nkalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­\ngyne. Baigdamas už uolų tikėjimą pagiria Lietuvos bajorus,\nkurie, vėl paklusę Apaštališkajam sostui, nusipelno didžio var­\ndo visoje bažnyčioje. Pranašauja, kad Lenkijos ir Lietuvos tau­\ntos niekad nenukryps panašiai kaip čekai, kadangi didis val­\ndovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis\nšito laidas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -803,7 +734,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
     - t-022
 
 - id: c-171176
@@ -832,14 +762,12 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Aš, kaip atrodo, pasirinkau vidurio kelią: pateikdamas faktus
-    apie tautą, išvadas ir visa tai, ko nėra šaltiniuose, palieku pa­
-    daryti pačiam skaitytojui. Hiūmas buvo mano pavyzdys, tik
-    nežinau, ar tai pavyko“12.
-    T. Narbuto istorijos darbų kritika stiprėjo. Lietuvos istori­
-    kas Mykolas Balinskis rašė: „Kas tiek pasakų palaikė tiesa ir
-    j gretino jas su tikrais įvykiais, kas nesvyruodamas kaitaliojo da-
-    11 List T. Narbutta do A. Reniera 1843 r.
+    T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
+    kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
+    tojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet
+    mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
+    reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
+    kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
   citata_rodoma: "T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­\nkino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­\ntojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet\nmus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių\nreikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,\nkad mes jų turime daugiau ir kur kas geresnių negu lenkai“11."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

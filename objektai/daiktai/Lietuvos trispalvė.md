@@ -31,6 +31,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Lietuvos trispalvė
 
 ## Santrauka
@@ -173,21 +174,17 @@ Nenurodyta
   pagrindžia:
     - c-16406
 
-<a id="claim-t-193579"></a>
-- t-015
-  teiginys: "Stiprėjo Lietuvos žaliųjų judėjimas."
-  atnaujinta: "2026-07-06 13:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-73140
-
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/simbolis]]
+
+### Laikotarpiai
+- XX amžius
 
 ## Citatos
 
@@ -279,4 +276,3 @@ Nenurodyta
   pagrindzia:
     - t-013
     - t-012
-    - t-015

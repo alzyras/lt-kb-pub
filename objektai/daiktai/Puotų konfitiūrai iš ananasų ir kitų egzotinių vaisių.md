@@ -7,12 +7,12 @@ datos:
   - '1754 m.'
 date_start: '1754'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,6 +70,21 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183942
+
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  citata_originali: |
+    Apie didelius pasilinksminimus Augusto III vardo dienos garbei kanauninkas pa-
+    sakojo Anykščių ir Punios seniūnui Mykolui Ksaverui Sapiegai. Jis teigė, kad pirma jie
+    riesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?),
+    kakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio
+    laiške], kurių privežta labai daug.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 

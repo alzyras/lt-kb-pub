@@ -54,16 +54,6 @@ Ažytė šiame šaltinyje yra upelis.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177894
-
-<a id="claim-t-195475"></a>
-- t-003
-  teiginys: "Pasakotojo dabartyje Ažytė buvo sausa."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177895
 - susijęs iš Duburys: Duburys prieš susiliedamas su Ažyte neturėjo vagos, bėgo lygia lanka ir į Ažytės vagą krito mažu kriokliuku.
 ## Citatos
 
@@ -104,12 +94,10 @@ Ažytė šiame šaltinyje yra upelis.
   citata_rodoma: "Šiandien Ažytė sausa."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-177896
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

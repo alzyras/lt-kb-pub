@@ -135,14 +135,11 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Gedimino kariuomenė
-    nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos. Kijevas ir tuo metu
-    buvo stambus tarptautinės prekybos centras, per kurį Rytų prekės keliavo ir Kryžiuočių
-    ordinui bei į Vakarų Europą. Lietuvos valstybė, kariaujanti su Kryžiuočių ordinu ir
-    atskirta nuo Baltijos jūros, dabar išėjo prie pietinių tarptautinės prekybos kelių. Kijevo
-    patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
-    įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
-    Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
+    Taigi 1325— 1326 m. Centrinėje bei Rytų
+    Europoje buvo dvi jėgų grupuotės: vienoje pusėje popiežiaus kurija, Vengrija, Lenkija,
+    Lietuva, o kitoje — Vokietijos valdovas Liudvikas Bavaras, Brandenburgas, Kryžiuočių
+    ordinas ir prie jo prisijungusi Galičo—Volynės kunigaikštystė60.
+      Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m.
   citata_rodoma: "Taigi 1325— 1326 m. Centrinėje bei Rytų\nEuropoje buvo dvi jėgų grupuotės: vienoje pusėje popiežiaus kurija, Vengrija, Lenkija,\nLietuva, o kitoje — Vokietijos valdovas Liudvikas Bavaras, Brandenburgas, Kryžiuočių\nordinas ir prie jo prisijungusi Galičo—Volynės kunigaikštystė60.\n  Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

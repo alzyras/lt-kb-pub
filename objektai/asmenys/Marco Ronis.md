@@ -26,45 +26,6 @@ media_all_json: |-
 
 Narbutas mini kritiką, kuriam Marco Ronio ir Bolloysos vardai kėlė įtarimų, nes jie esą skambėjo visai neprūsiškai.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas mini kritiką, kuriam Marco Ronio ir Bolloysos vardai kėlė įtarimų, nes jie esą skambėjo visai neprūsiškai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,
-    todėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-
-    nis, Bolloysos? Šie vardai skamba visai neprūsiškai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173064
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Tiesa, ši nuomonė gali atrodyti
-    nauja, kadangi Rusijos rašytojai tą raidyną laiko XI amžiaus
-    kūriniu, tačiau mums reikėtų turėti daugiau tyrimų, o tuomet
-    galbūt įtikintume savo naudai. Tuo tarpu apsiribosime pasa­
-    kydami štai ką.
-    Biarmiai, arba permiai, kalba slavų rusų arba rusų kalba,
-    bet turi savitą tos kalbos tarme; yra papročių ir fizionomijos
-    skirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės
-    šiaurės slavų šeimos šaką.
-  citata_rodoma: "Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,\ntodėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-\nnis, Bolloysos? Šie vardai skamba visai neprūsiškai."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-190181"></a>
@@ -86,3 +47,22 @@ Narbutas mini kritiką, kuriam Marco Ronio ir Bolloysos vardai kėlė įtarimų,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173064
+
+## Citatos
+
+- id: c-173064
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,
+    todėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-
+    nis, Bolloysos? Šie vardai skamba visai neprūsiškai.
+  citata_rodoma: "Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,\ntodėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-\nnis, Bolloysos? Šie vardai skamba visai neprūsiškai."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

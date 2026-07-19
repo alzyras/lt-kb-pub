@@ -7,12 +7,12 @@ datos:
   - '1811 m.'
 date_start: '1811'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,50 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Friedricho Adelungo „Rapport entre la langue sanscrite et la langue russe“ išleistas Sankt Peterburge 1811 m.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Friedricho Adelungo „Rapport entre la langue sanscrite et la langue russe“ išleistas Sankt Peterburge 1811 m.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sanskrite yra panašus ir panašią reikšmę
-    turintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje
-    1
-    Rapport entre la lanąue sanscrite et la lanąue russe par Frid.
-    Adelung.
-    S.
-    Petersb.,
-    1811.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174716
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    sudaro daugelio žodžių šaknį1, Tiriant lietuvių kalbą, pa­
-    vyko rasti tą patį žodį Russ vienoje dainelėje, kuri buvo
-    užrašyta Raseinių apskrityje 1805 metais: dainininkas
-    stengiasi piešti gyvenimo gimtojoje sodyboje laimę ir
-    naudą, peikdamas tuos, kurie ją palieka2. Tai tarsi natū­
-    ralus taip puikiai lenkiškai skambančios Trembeckio pa­
-    sakėčios „Balandėliai“ pakartojimas*. Ieškojau to, kuris
-    man paaiškintų prasmę žodžio Russ, turėjusio iš pirmo
-    žvilgsnio reikšti kaimą.
-  citata_rodoma: "Sanskrite yra panašus ir panašią reikšmę\nturintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje\n1\nRapport entre la lanąue sanscrite et la lanąue russe par Frid.\nAdelung.\nS.\nPetersb.,\n1811."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -100,3 +56,27 @@ Friedricho Adelungo „Rapport entre la langue sanscrite et la langue russe“ i
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174716
+
+## Citatos
+
+- id: c-174716
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Sanskrite yra panašus ir panašią reikšmę
+    turintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje
+    1
+    Rapport entre la lanąue sanscrite et la lanąue russe par Frid.
+    Adelung.
+    S.
+    Petersb.,
+    1811.
+  citata_rodoma: "Sanskrite yra panašus ir panašią reikšmę\nturintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje\n1\nRapport entre la lanąue sanscrite et la lanąue russe par Frid.\nAdelung.\nS.\nPetersb.,\n1811."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

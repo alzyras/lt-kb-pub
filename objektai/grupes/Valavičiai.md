@@ -21,35 +21,13 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Valavičiai
 
 ## Santrauka
 
 giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai, Oginskiai ir kt.
 
-## Teiginiai
-
-<a id="claim-t-20056"></a>
-- t-001
-  teiginys: "XVI a. Valavičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valavičiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Rusėnai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valavičiai\" parinktas kaip owner_note_path. Targetas \"Rusėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22791
-- susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-87424|Eustachijus Valavičius]]: Eustachijus Valavičius buvo Vilniaus kaštelionas.
-- susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
-- susijęs iš [[objektai/zodynas/manu proprio M.P.md#claim-t-86562|manu proprio M.P]]: Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.
-- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-182985|urėdas]]: Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.
-- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-70375|urėdas]]: Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.
-- susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
 ## Citatos
 
 - id: c-22791
@@ -66,8 +44,15 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   citata_rodoma: "Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+## Teiginiai
+
+- susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-87424|Eustachijus Valavičius]]: Eustachijus Valavičius buvo Vilniaus kaštelionas.
+- susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
+- susijęs iš [[objektai/zodynas/manu proprio M.P.md#claim-t-86562|manu proprio M.P]]: Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.
+- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-182985|urėdas]]: Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.
+- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-70375|urėdas]]: Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.
+- susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.

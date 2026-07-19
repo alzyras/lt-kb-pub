@@ -7,13 +7,13 @@ datos:
   - '1664 m.'
 date_start: '1664'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - regionas
   - vieta
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,48 +32,6 @@ media_all_json: |-
 ## Santrauka
 
 Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją pušį Romutą arba Ruombotą, kurią 1664 m. suskaldė žaibas.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją pušį Romutą arba Ruombotą, kurią 1664 m. suskaldė žaibas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­
-    tąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-
-    go valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo
-    horizontaliai, o paskui suaugdavo užsiriesdamos į viršų. Šį medį
-    1664 metais suskaldė žaibas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171894
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Toliau klausinėjant, pavyko išgirsti pasakojimą
-    apie šventąją blindę. Viena moteris, besivadinanti Blinde (Blin­
-    da), turėjo ypatingą dovaną: galėjo paleisti į pasaulį aibe pali­
-    kuonių neapsakomai lengvai, be to, ji gimdydavo ne tik įgimtu
-    būdu, bet galėdavo pagimdyti vaikų iš rankų, kojų, galvos ir iš
-    kitų kūno dalių. Žemė, vaisingiausioj i iš motinų, ėmė pavydė­
-    ti jai tokio vaisingumo, todėl vieną kartą, kai Blindé ėjo per
-    gramzdžią pievą, jos kojos įklimpo, ir žemė taip suspaudė pė­
-    das, kad nebegalėjo ji pajudėti iš vietos ir pavirto medžiu -
-    blinde.
-  citata_rodoma: "PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­\ntąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-\ngo valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo\nhorizontaliai, o paskui suaugdavo užsiriesdamos į viršų. Šį medį\n1664 metais suskaldė žaibas."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -99,3 +57,24 @@ Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją p
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171894
+
+## Citatos
+
+- id: c-171894
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­
+    tąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-
+    go valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo
+    horizontaliai, o paskui suaugdavo užsiriesdamos į viršų. Šį medį
+    1664 metais suskaldė žaibas.
+  citata_rodoma: "PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­\ntąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-\ngo valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo\nhorizontaliai, o paskui suaugdavo užsiriesdamos į viršų. Šį medį\n1664 metais suskaldė žaibas."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

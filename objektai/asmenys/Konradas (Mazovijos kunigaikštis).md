@@ -190,20 +190,14 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo į širdį, jog jis
+    Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams
+
+      Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip
+    didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią
+    šlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo
+    kunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis
     sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad
-    broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės. Sušaukęs savo
-    vyskupus ir kilminguosius, jis atskleidė jiems savo sumanymą, prašydamas šiuo reikalu
-    patarti. Šie vienu balsu pritarė jo sumanymui, pridurdami, kad ir patys esą sužinoję
-    iš patikimų šaltinių, jog minėtieji broliai turi ryžtingų karių vardą, užsigrūdinusių iš
-    mažumės kovose, be to, kad į juos labai maloniai bei palankiai žiūri ir popiežius, ir
-    imperatorius, ir Vokietijos kunigaikščiai, kad todėl nėra jokių abejonių, jog popiežius
-    maloningai jiems Įeisiąs persikelti čia šios žemės ginti. Todėl kunigaikštis pasiuntė pas
-    minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
-    jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais
-    klausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio
-    įkalbamas, patartas popiežiaus, imperatoriaus Fridricho II ir Vokietijos kunigaikščių,
-    kurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą.
+    broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės.
   citata_rodoma: "Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams\n\n  Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip\ndidžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią\nšlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo\nkunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis\nsumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad\nbroliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -272,16 +266,13 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Mat jie
-    buvo tokie užkietėję nedorėliai, kad jokie išganingi įkalbinėjimai nestengė jų atitraukti
-    nuo netikėjimo klaidos. Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
-    būdami netikėliai ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
-    160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo ir
-    Lenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis.
-    161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
-    misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
-    tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
-    ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno).
+    Apie tai, kaip prūsai niokojo Kulmo žemę
+
+      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
+    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
+    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
+    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
+    Jėzų Kristų161.
   citata_rodoma: "Apie tai, kaip prūsai niokojo Kulmo žemę\n\n  Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai\nkrikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos\nvyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai\nsėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą\nJėzų Kristų161."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

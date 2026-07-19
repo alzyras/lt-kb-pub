@@ -51,18 +51,6 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   pagrindžia:
     - c-168725
 
-<a id="claim-t-185365"></a>
-- t-003
-  teiginys: "Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168725
-
 <a id="claim-t-196363"></a>
 - t-005
   teiginys: "Po Mengli Girėjaus įsiveržimo į Rusią iš žiemos stovyklų buvo skubiai iškviesti algininkai, o Lanckoronskiui pavesta atremti grėsmę valstybei."
@@ -76,12 +64,10 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   pagrindžia:
     - c-168726
 
-## Citatos
-
-- id: c-168725
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Su šiais pagalbinin­
     kais Mykolas privertė jam paklusti kunigaikščius Druč­
@@ -106,6 +92,33 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
     vaikais ir visomis brangenybėmis, pats, kurį metą už­
     trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
     savuosius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168725
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
+    puolė Minską, bet visos jo pastangos nuėjo perniek,
+    nes bajorai grūmėsi labai ryžtingai, gindami žmonas
+    bei vaikus, su kuriais buvo pasitraukę į miestą. Ga­
+    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
+    kis tūkstančius algininkų bei didikų kariaunas ir ka­
+    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
+    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
+    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
+    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
+    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
+    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
+    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
+    jo per mažai karių.
   citata_rodoma: "Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­\npuolė Minską, bet visos jo pastangos nuėjo perniek,\nnes bajorai grūmėsi labai ryžtingai, gindami žmonas\nbei vaikus, su kuriais buvo pasitraukę į miestą. Ga­\nvęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­\nkis tūkstančius algininkų bei didikų kariaunas ir ka­\nrališkąsias vėliavas, o netrukus ir pats skubiai patrau­\nkė paskui išsiųstąją kariuomenę sutelkęs pašauktinių\nbajorų jėgas ir valstybės viduje įsikūrusių skitų bū­\nrius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -114,7 +127,6 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-168726
   autorius: "Albertas Vijūkas-Kojelavičius"

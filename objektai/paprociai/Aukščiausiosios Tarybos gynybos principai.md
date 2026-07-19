@@ -8,14 +8,14 @@ datos:
   - '1991 m.'
 date_start: '1940'
 date_end: '1991'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karinė-praktika
   - politinė-praktika
   - paprotys
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -104,6 +104,30 @@ Nenurodyta
   pagrindžia:
     - c-12360
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Aukščiausiosios Tarybos gynybos principai siekė fiksuoti sovietų karinės agresijos faktą ir užtikrinti politinį Lietuvos atstovavimą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Atkurtos Lietuvos valstybės vadovybė so-
+    vietų agresijos akistatoje siekė sutelktomis
+    visuomenės ir gynėjų pajėgomis fiksuoti
+    karinės agresijos prieš Lietuvos Respubliką
+
+    ## Puslapis 257
+
+    faktą. Pasirūpinti, kad sovietinė agresija
+    būtų pastebėta tarptautinės bendruomenės,
+    kiek įmanoma platesniu mastu. Sovietams
+    užėmus valstybinius objektus, užtikrinti
+    politinį šalies atstovavimą bei organizuoti
+    įvairiapusišką pasipriešinimą okupantams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-12359
@@ -143,9 +167,6 @@ Nenurodyta
     vietų agresijos akistatoje siekė sutelktomis
     visuomenės ir gynėjų pajėgomis fiksuoti
     karinės agresijos prieš Lietuvos Respubliką
-
-    ## Puslapis 257
-
     faktą. Pasirūpinti, kad sovietinė agresija
     būtų pastebėta tarptautinės bendruomenės,
     kiek įmanoma platesniu mastu. Sovietams

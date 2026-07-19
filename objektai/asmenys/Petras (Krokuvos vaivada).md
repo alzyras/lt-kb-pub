@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Petras (Krokuvos vaivada)
 
 ## Santrauka
@@ -36,21 +37,6 @@ media_all_json: |-
 Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui. Kojelavičiaus pasakojime Petras kelias dienas žygiavo per priešų šalį, niokodamas kelią, bet neleido būriams palaidai plėšikauti.
 
 ## Teiginiai
-
-<a id="claim-t-186155"></a>
-- t-001
-  teiginys: "Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1266 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko Petro paskyrimą vadu, bet pradinis teiginys yra smarkiai sugadintas OCR triukšmo."
-  pagrindžia:
-    - c-178775
 
 <a id="claim-t-196578"></a>
 - t-002
@@ -135,5 +121,4 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

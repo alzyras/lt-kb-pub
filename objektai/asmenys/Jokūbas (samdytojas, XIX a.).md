@@ -123,12 +123,7 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   puslapiai: "p. 157 (PDF 155)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 157 (PDF 155)."
   citata_originali: |
-    Imk, Grigorai,
-    nuo dėdės Jokūbo du auksinu ant rankos — ir bus baigta.
-    Jokūbas pasirūpino iš namų pasiimti du auksinu, jeigu atsitiktų
-    nusamdyti šeimynykštis. Dabar juos išėmė ir padavė Grigorui, saky­
-    damas :
-    — Tegul bus gi, kaip jūs sakote.
+    Jokūbas pasirūpino iš namų pasiimti du auksinu, jeigu atsitiktų nusamdyti šeimynykštis. Dabar juos išėmė ir padavė Grigorui.
   citata_rodoma: "Jokūbas pasirūpino iš namų pasiimti du auksinu, jeigu atsitiktų nusamdyti šeimynykštis. Dabar juos išėmė ir padavė Grigorui."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
@@ -144,12 +139,7 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   puslapiai: "p. 156 (PDF 154)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 156 (PDF 154)."
   citata_originali: |
-    Lileika mato Grigorą ir supranta jo troškulį — tad priei­
-    na prie jo ir sako:
-    — Aš tave papiršiu Jokūbui, gerai?
-    — Papiršk!
-    Lileika priėjo prie Jokūbo ir sako:
-    — Tamsta savo Petro neapdraudei, tai imk Grigorą.
+    Lileika priėjo prie Jokūbo ir sako: „Tamsta savo Petro neapdraudei, tai imk Grigorą.“
   citata_rodoma: "Lileika priėjo prie Jokūbo ir sako: „Tamsta savo Petro neapdraudei, tai imk Grigorą.“"
   statusas: verified
   atnaujinta: "2026-07-12 06:38"

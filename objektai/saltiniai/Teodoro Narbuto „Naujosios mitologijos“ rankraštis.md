@@ -7,13 +7,13 @@ datos:
   - '1836 m.'
 date_start: '1836'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rankraštis
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,9 +54,12 @@ Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Narbutas nurodo, kad Kovo figūrą Burokų dvare netoli Kražių ardamas žemę iškasė pusbernis Bonaventūras Milevskis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-173409
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
     cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­
@@ -69,26 +72,6 @@ Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė a
     Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
     (pagal Tadą Volianskį)
     i).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-
-## Citatos
-
-- id: c-173409
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Kad ir kaip ten būtų, mes
-    laikomės bendros ir visų istorikų, kurie galbūt šiuo atveju bu­
-    vo susipažinę su kitu šaltiniu, priimtos nuomonės.
-    Kažkokio žemaičių stabo nuolaužos piešinys yra J. F. R.
-    kronikoje su prierašu: Schomaiten Götze (Žemaičių stabas)
-    (žiūrėk II lentelės 5-ąjį piešinį). Kadangi jam ant krūtinės kaž­
-    kas panašaus į saulę, tai galėjo būti Svaistikas.
   citata_rodoma: "Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­\ncevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­\nras Milevskis, ardamas žemę, iškasė tą figūrą*.\n256\n\n## Puslapis 256\n\nSkandinaviški brakteatai ir pakabučiai.\nTeodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje\n(pagal Tadą Volianskį)\ni)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

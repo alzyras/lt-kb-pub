@@ -213,7 +213,7 @@ media_all_json: |-
 <a id="claim-t-180597"></a>
 - t-069
   teiginys: "1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Trakai: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -390,7 +390,7 @@ media_all_json: |-
 <a id="claim-t-180613"></a>
 - t-068
   teiginys: "1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Melnikas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -470,7 +470,7 @@ media_all_json: |-
 <a id="claim-t-180617"></a>
 - t-072
   teiginys: "Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "mire -> Trakai: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -511,7 +511,7 @@ media_all_json: |-
 <a id="claim-t-180619"></a>
 - t-087
   teiginys: "Prūsijos istorikai nurodė, kad kariai tarp Trakų ir Vilniaus buvo sustoję ant dviejų priešpriešinių kalnų."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -566,19 +566,12 @@ media_all_json: |-
 <a id="claim-t-180623"></a>
 - t-032
   teiginys: "Jogaila atleido Vytautui ir jo šalininkams, paėmė ištikimybės priesaiką ir grąžino Vytautui Trakus bei Gardiną."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 19:01"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-164228
-    - c-182852
+    - c-164256
+    - c-182857
 
 <a id="claim-t-180624"></a>
 - t-001
@@ -620,7 +613,7 @@ media_all_json: |-
 <a id="claim-t-180629"></a>
 - t-075
   teiginys: "1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -634,10 +627,8 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, pilnas ir paremtas citata."
   pagrindžia:
-    - c-164197
     - c-164200
     - c-182818
-    - c-182841
 
 <a id="claim-t-180630"></a>
 - t-106
@@ -678,7 +669,7 @@ media_all_json: |-
 <a id="claim-t-180632"></a>
 - t-097
   teiginys: "Ežerų apsupta Trakų pilis buvo minima kaip vienintelė didžiojo kunigaikščio buveinė ir sostinė."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakų pilis (pilis): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -696,7 +687,7 @@ media_all_json: |-
 <a id="claim-t-180633"></a>
 - t-098
   teiginys: "Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "mire -> Trakai: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -809,7 +800,7 @@ media_all_json: |-
 <a id="claim-t-180647"></a>
 - t-060
   teiginys: "Islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -826,7 +817,7 @@ media_all_json: |-
 <a id="claim-t-180648"></a>
 - t-056
   teiginys: "1377 m. birželio pabaigoje pakeliui į Vilnių buvo sudegintas Trakų miestas, bet pilys dėl Kęstučio gynybos neužimtos."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pilys: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -849,7 +840,7 @@ media_all_json: |-
 <a id="claim-t-180651"></a>
 - t-071
   teiginys: "Trakų pilis, apsupta ežerų, buvo didžiojo kunigaikščio buveinė ir sostinė."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -887,7 +878,7 @@ media_all_json: |-
 <a id="claim-t-180653"></a>
 - t-070
   teiginys: "Apie 1432 m. rugpjūčio 28 d. Žygimantas užėmė Vilnių ir Trakus."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -902,8 +893,6 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
   pagrindžia:
     - c-164197
-    - c-164215
-    - c-182833
     - c-182841
 
 <a id="claim-t-180656"></a>
@@ -989,7 +978,7 @@ media_all_json: |-
 <a id="claim-t-180663"></a>
 - t-062
   teiginys: "Trakų pilis laikoma sena, galbūt dar prieš Gediminą buvusia gynybine ir medžiotojų gyvenviete."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1046,7 +1035,7 @@ media_all_json: |-
 <a id="claim-t-180669"></a>
 - t-096
   teiginys: "Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1065,7 +1054,7 @@ media_all_json: |-
 <a id="claim-t-180670"></a>
 - t-103
   teiginys: "1505 m. Vilniaus miesto sienoje buvo nurodyta palikti vartus prie kelio į Trakus."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Išganytojo (Spaso) bažnyčia Vilniuje: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1087,7 +1076,7 @@ media_all_json: |-
 <a id="claim-t-180673"></a>
 - t-067
   teiginys: "Vytautas būdamas Trakuose nerimavo dėl išdavystės ir norėjo ten pasilikti dar dvylika savaičių."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Trakai: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1127,7 +1116,7 @@ media_all_json: |-
 <a id="claim-t-185159"></a>
 - t-130
   teiginys: "Trakai buvo puolami tam, kad kariai turėtų užsiėmimą laukdami pagalbos."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1135,7 +1124,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168521
-    - c-168524
 
 <a id="claim-t-185160"></a>
 - t-131
@@ -2671,7 +2659,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-075
     - t-070
     - t-096
 
@@ -3028,7 +3015,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-056
-    - t-070
     - t-085
 
 - id: c-164219
@@ -3126,25 +3112,15 @@ media_all_json: |-
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Baigdami šį darbą norėtume dar išspręsti vieną klausimą,
-    būtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­
-    mu^2 ), geriau diarchija^3 ), t. y. dviejų asmenų valdymo sistema,
-    kuri buvo susidariusi Algirdo ir Kęstučio valdymo laikais, ka­
-    da Jogaila nuėjo į Lenkiją jos karalium, o Lietuvą pasiliko val­
-    dyti Vytautas? Tuo pačiu bus aptarta ir tų santykių forma,
-    kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
-    to laikais.
-    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku-
     nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis.
   citata_rodoma: "Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku-\nnigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-032
-
 - id: c-164230
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3507,6 +3483,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-032
     - t-109
 
 - id: c-164257
@@ -3636,28 +3613,15 @@ media_all_json: |-
   puslapiai: "PDF 268"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
   citata_originali: |
-    Jogaila
-    atkakliai
-    U žkariauja T rakus
-    puolė Trakus, ir trakiškiai
-    ilgai neatsilaikė: nesitikėda­
-    mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
-    duodami miestą, pilis bei turtą. Kęstutis, savo ruožtu
-    apie viską sužinojęs, paliko rusų pulkus, turėjusius
-    toliau pulti Seversko Nau-
-    K ęstu tis traukia p rieš
-    gardą ir ginti apylinkes nuo
-    Jogailą, su p a T raku s
-    Kaributo antpuolių, o pats
-    skubiai sugrįžo į Žemaitiją;
-    čia greitosiomis surinkęs kariuomenę, persikėlė per
-    Nerį ir susijungė su Vytautu, jau sutelkusiu gardinie­
-    čių pulkus. Kadangi neseniai per pasiuntinius buvo pra­
+    Kadangi neseniai per pasiuntinius buvo pra­
     šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
     savo žento, ir toji pagalba diena iš dienos turėjo at­
     vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
     gailą traukti su nedidele kariuomene ir be pagalbinin­
-    kų stoti į lemiamą mūšį.
+    kų stoti į lemiamą mūšį. Kad kariai turėtų kokį užsi­
+    ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti
+    Trakus. Po kelių dienų apgulos, sutikęs smarkų pasi­
+    priešinimą, griebėsi kito sumanymo.
   citata_rodoma: "Kadangi neseniai per pasiuntinius buvo pra­\nšęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei\nsavo žento, ir toji pagalba diena iš dienos turėjo at­\nvykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­\ngailą traukti su nedidele kariuomene ir be pagalbinin­\nkų stoti į lemiamą mūšį. Kad kariai turėtų kokį užsi­\nėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti\nTrakus. Po kelių dienų apgulos, sutikęs smarkų pasi­\npriešinimą, griebėsi kito sumanymo."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -3699,28 +3663,15 @@ media_all_json: |-
   puslapiai: "PDF 428"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 428."
   citata_originali: |
-    Ne
-    tik kiekvienas didikas puoselėjo viltį tapti Vytauto
-    Įpėdiniu ir gauti sau ar sa-
-    1430 m e ta i
-    viskiams Lietuvos sostą, to­
-    kius pačius sumanymus bran­
-    dino ir paprasti žmonės, ar slaptai vienas vieną, o ki­
-    tas kitą valdžioje matyti svajodami, ar vyrijose apie
-    tai šnekučiuodami. Daug kas troško Aleksandro, Ki­
-    jevo kunigaikščio Vladimiro
-    K a n d id a ta i
-    į L ietu-
-    sūnaus ir Slucko kunigaikščių
-    v o s v a ld o v u s
-    pradininko, kiti norėjo Žygi­
-    manto Kaributaičio, kadaise
-    išrinkto Čekijos karaliumi ir pagarsėjusio sėkmingais
-    karo žygiais prieš imperatorių: mat ir vienas, ir ki­
-    tas— Jogailos
-    brolėnai. Galvojo ir apie Boleslovą
-    Švitrigailą, karaliaus brolį, ypač Rusios didikai, nes
-    žinojo, jog jis uoliai išpažįsta jų tikėjimą.
+    Kaip brolį palaikė jį ir Jogaila. Vos šitai pajutę, žy­
+    miausieji Lietuvos didikai paliko karalių bei valstybės
+    reikalus ir skubiai pasitraukė į Trakus. Lenkų didikus
+    dar prieš Vytauto mirtį karalius buvo išsiuntęs į Len­
+    kiją, sakydamas, kad jie jam nebereikalingi, nes Vy­
+    tautas, laukdamas mirties, liovėsi rūpinęsis karaliaus
+    vainiku, o iš tikrųjų norėdamas jais atsikratyti, kad
+    šie netrukdytų paskelbti Boleslovą Lietuvos didžiuoju
+    kunigaikščiu.
   citata_rodoma: "Kaip brolį palaikė jį ir Jogaila. Vos šitai pajutę, žy­\nmiausieji Lietuvos didikai paliko karalių bei valstybės\nreikalus ir skubiai pasitraukė į Trakus. Lenkų didikus\ndar prieš Vytauto mirtį karalius buvo išsiuntęs į Len­\nkiją, sakydamas, kad jie jam nebereikalingi, nes Vy­\ntautas, laukdamas mirties, liovėsi rūpinęsis karaliaus\nvainiku, o iš tikrųjų norėdamas jais atsikratyti, kad\nšie netrukdytų paskelbti Boleslovą Lietuvos didžiuoju\nkunigaikščiu."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -3736,36 +3687,20 @@ media_all_json: |-
   puslapiai: "PDF 581"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 581."
   citata_originali: |
-    Len­
-    kijoje kiekvienas žmogus pats rūpinasi savo šeimos
-    turtu: niekas neverčiamas traukti į karo žygį iš tėvy­
-    nės, vieni valstybėje verčiasi žemdirbyste, amatais bei
-    prekyba, kiti garbina dievą, sprendžia teismuose by­
-    las, rūpinasi pilių apsauga ir tarnauja didikams, žodžiu,
-    kiekvienas gyvena taip, kaip
-    L ie tu v o s d id ik a i m ė-
-    nori".
-    g in a
-    s u s ita ik y ti
-    su
-    Šich Achmetui visa ko
-    k a ra liu m i
-    prižadėjus, Lietuvos didikai,
-    kuriuos Breste karalius buvo
-    pašalinęs iš senato, Radomo seime, nė nepradėjus svar­
-    styti kitų reikalų, stengėsi lenkų remiami pašalinti vi­
-    sus esamus nesutarimus tarp karaliaus ir senato. Ka­
-    ralius viešai lenkams pasižadėjo, kad iš pagarbos jiems
-    padarys taip, kaip jie reikalauja, tačiau sakėsi neno­
-    rįs Lenkijoje nieko spręsti, o visą reikalą ketinąs per­
-    duoti lietuvių seimui. Tada lietuvių senato pirminin­
-    kas, Vilniaus vyskupas Vaitiekus Taboras, pakilęs iš
-    vietos, ir kreipėsi į karalių paprasta, bet nelyginant
-    kažkokio dangaus įkvėpimo kupina kalba: „Kažko­
-    kiems pasipūtėliams klastingai sukursčius prieš mus,
-    nieko pikta nepadariusius, tavo širdį, ligi šiol kentėme
-    tavo rūstį taip, kaip ir dera valdiniams, klausantiems
-    savo valdovo.
+    Dėl karaliaus ligos seimas buvo pa­
+    leistas, kadangi vargu ar ką galima buvo benuveikti.
+    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
+    metas, valdovo valia turėjęs būti Trakuose vaišingai
+    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
+    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
+    dar stipriau saugojo, ypač
+    K ry m o  sk ita i n io k o -
+    dėl to, kad Krymo chanas
+    ja  L ie tu v ą
+    Mengli Girėjus per pasiunti­
+    nius žadėjo karaliui taiką ir
+    pagalbą, jeigu šis neleis Šich Achmetui pasprukti.
   citata_rodoma: "Dėl karaliaus ligos seimas buvo pa­\nleistas, kadangi vargu ar ką galima buvo benuveikti.\nSusirgęs karalius nuvežamas į Krokuvą, o Šich Ach-\nmetas, valdovo valia turėjęs būti Trakuose vaišingai\npriimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.\nPatariamas Nogajų ordos skitų, bandė iš ten pabėgti,\ntačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur\ndar stipriau saugojo, ypač\nK ry m o  sk ita i n io k o -\ndėl to, kad Krymo chanas\nja  L ie tu v ą\nMengli Girėjus per pasiunti­\nnius žadėjo karaliui taiką ir\npagalbą, jeigu šis neleis Šich Achmetui pasprukti."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -3773,7 +3708,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-130
     - t-134
 
 - id: c-170604
@@ -3814,14 +3748,16 @@ media_all_json: |-
   puslapiai: "PDF 177"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 177."
   citata_originali: |
-    Geras darbas valdovo paslaptį saugoti; dar geres­
-    nis — apie didžiojo valdovo darbus kalbėti.
-    Noriu jums papasakoti apie didįjį kunigaikštį Vy­
-    tautą, Lietuvos ir Rusų ir daugelio kitų šalių valdovą.
-    Nes yra parašyta: „Broliai, dievo bijokite, o valdovą
-    šlovinkite." Taip ir aš noriu jums pasekti apie tą šlo­
-    vingąjį valdovą. Bet didžiojo valdovo darbai nei žodžiu
-    neapsakomi, nei plunksna neaprašomi.
+    180
+
+    ## Puslapis 174
+
+    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
+    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
+    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
+    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
+    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
+    čiu Kęstučiu.
   citata_rodoma: "180\n\n## Puslapis 174\n\nMūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­\ngaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­\nnigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas \ngauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie \nTrakų, aš pats irgi buvau ten su savo tėvu kunigaikš­\nčiu Kęstučiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -3928,19 +3864,14 @@ media_all_json: |-
   puslapiai: "PDF 91"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 91."
   citata_originali: |
-    Didysis kunigaikštis Vytautas atidavė savo dukterį ku­
-    nigaikštytę Sofiją ir išleido ją iš Marienburgo, o su
-    ja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš
-    Gdansko miesto išplaukė laivais23, per jūrą pasiekda­
-    mi Pernu21 ir Pskovo miestą. Pskoviečiai sutiko juos
-    labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
-    gardo. Naugardiečiai taip pat pareiškė jiems didelę
-    pagarbą ir pagerbdami nulydėjo juos į Maskvą, pas
-    didjjį kunigaikštį Vasilijų Dimitrijevičių. Garbingai jų
-    pasitikti didysis kunigaikštis Vasilijus išsiuntė savo
-    brolius: kunigaikštį Vladimirą Andrejevičių2S, kuni­
-    gaikštį Andrejų Dimitrijevičių26 ir daugelį kitų kuni­
-    gaikščių bei bajorų.
+    Jį pasodino Smolenske di­
+    džiuoju kunigaikščiu1 6 , kadangi kunigaikščio Jurgio
+    žmona buvo Skirgailos vyresniosios sesers duktė.
+    Ir, nuėjęs nuo Smolensko miesto, didysis kunigaikš­
+    tis Skirgaila parvyko į savo Lietuvos žemę ir ėmė ku-
+    nigaikščiauti Trakuose, o į Vilnių karalius Jogaila at­
+    siuntė savo seniūną iš Lenkijos.
+    31.
   citata_rodoma: "Jį pasodino Smolenske di­\ndžiuoju kunigaikščiu1 6 , kadangi kunigaikščio Jurgio \nžmona buvo Skirgailos vyresniosios sesers duktė.\nIr, nuėjęs nuo Smolensko miesto, didysis kunigaikš­\ntis Skirgaila parvyko į savo Lietuvos žemę ir ėmė ku- \nnigaikščiauti Trakuose, o į Vilnių karalius Jogaila at­\nsiuntė savo seniūną iš Lenkijos.\n31."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
@@ -4535,7 +4466,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-056
-    - t-070
     - t-085
 
 - id: c-182834
@@ -4721,7 +4651,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-075
     - t-070
     - t-096
 
@@ -4960,14 +4889,16 @@ media_all_json: |-
   puslapiai: "PDF 177"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 177."
   citata_originali: |
-    Geras darbas valdovo paslaptį saugoti; dar geres­
-    nis — apie didžiojo valdovo darbus kalbėti.
-    Noriu jums papasakoti apie didįjį kunigaikštį Vy­
-    tautą, Lietuvos ir Rusų ir daugelio kitų šalių valdovą.
-    Nes yra parašyta: „Broliai, dievo bijokite, o valdovą
-    šlovinkite." Taip ir aš noriu jums pasekti apie tą šlo­
-    vingąjį valdovą. Bet didžiojo valdovo darbai nei žodžiu
-    neapsakomi, nei plunksna neaprašomi.
+    180
+
+    ## Puslapis 174
+
+    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
+    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
+    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
+    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
+    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
+    čiu Kęstučiu.
   citata_rodoma: "180\n\n## Puslapis 174\n\nMūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­\ngaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­\nnigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas \ngauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie \nTrakų, aš pats irgi buvau ten su savo tėvu kunigaikš­\nčiu Kęstučiu."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
@@ -4998,25 +4929,15 @@ media_all_json: |-
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Baigdami šį darbą norėtume dar išspręsti vieną klausimą,
-    būtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­
-    mu^2 ), geriau diarchija^3 ), t. y. dviejų asmenų valdymo sistema,
-    kuri buvo susidariusi Algirdo ir Kęstučio valdymo laikais, ka­
-    da Jogaila nuėjo į Lenkiją jos karalium, o Lietuvą pasiliko val­
-    dyti Vytautas? Tuo pačiu bus aptarta ir tų santykių forma,
-    kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
-    to laikais.
-    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku-
     nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis.
   citata_rodoma: "Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku-\nnigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-032
-
 - id: c-182854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5128,6 +5049,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-032
     - t-109
 
 - id: c-182858
@@ -5496,4 +5418,4 @@ media_all_json: |-
 - Užėmė Trakai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]]
 - Buvo žygio kryptis: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Karaimai]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Šach Achmedas]], [[objektai/grupes/Trakų žydai]], [[objektai/grupes/Žydai]]
-- Trakai priklausė [[objektai/vietos/Lietuva]]
+- Trakai priklausė Lietuva

@@ -125,12 +125,7 @@ Nenurodyta
   puslapiai: "p. 80 (PDF 78)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 80 (PDF 78)."
   citata_originali: |
-    Žymiausias rekrutų gaudymas siautė 1855 metais.
-    Tais metais
-    prancūzai, anglai ir turkai apgulė Sevastopolį.
-    Rusų kariuomenei pa­
-    pildyti rekrutai buvo gaudomi ištisus metus: nežiūrint nei į amžių nei
-    sveikatos trūkumų.
+    Žymiausias rekrutų gaudymas siautė 1855 metais. Tais metais prancūzai, anglai ir turkai apgulė Sevastopolį. Rusų kariuomenei papildyti rekrutai buvo gaudomi ištisus metus: nežiūrint nei į amžių nei sveikatos trūkumų.
   citata_rodoma: "Žymiausias rekrutų gaudymas siautė 1855 metais. Tais metais prancūzai, anglai ir turkai apgulė Sevastopolį. Rusų kariuomenei papildyti rekrutai buvo gaudomi ištisus metus: nežiūrint nei į amžių nei sveikatos trūkumų."
   statusas: verified
   atnaujinta: "2026-07-12 07:26"
@@ -147,15 +142,7 @@ Nenurodyta
   puslapiai: "p. 80 (PDF 78)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 80 (PDF 78)."
   citata_originali: |
-    Po Sevastopolio karo trejis
-    metus visai neėmė rekrutų.
-    Paskiau, kad ir ėmė, bet ne po daug, o
-    atėjus 1863 metų sukilimui, dvejis metus pagrečiui vėl neėmė. Vėliau
-    visi valstiečiai „krestjanai“ , poniškiai ir karališkiai tapo surašyti į vieną
-    valsčių, valdomą „taikos tarpininko“ , ir jau rekrutų
-    rinkimas
-    buvo
-    žmoniškesnis.
+    Po Sevastopolio karo trejis metus visai neėmė rekrutų. Paskiau, kad ir ėmė, bet ne po daug, o atėjus 1863 metų sukilimui, dvejis metus pagrečiui vėl neėmė. Vėliau visi valstiečiai „krestjanai“, poniškiai ir karališkiai tapo surašyti į vieną valsčių, valdomą „taikos tarpininko“, ir jau rekrutų rinkimas buvo žmoniškesnis.
   citata_rodoma: "Po Sevastopolio karo trejis metus visai neėmė rekrutų. Paskiau, kad ir ėmė, bet ne po daug, o atėjus 1863 metų sukilimui, dvejis metus pagrečiui vėl neėmė. Vėliau visi valstiečiai „krestjanai“, poniškiai ir karališkiai tapo surašyti į vieną valsčių, valdomą „taikos tarpininko“, ir jau rekrutų rinkimas buvo žmoniškesnis."
   statusas: verified
   atnaujinta: "2026-07-12 07:26"

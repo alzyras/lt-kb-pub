@@ -3,8 +3,10 @@ import assert from "node:assert"
 import {
   collectCorpusEvidenceIntegrityIssues,
   collectEvidenceIntegrityIssues,
+  evidenceCitationQuoteForClaim,
   evidenceSupportsClaim,
 } from "./evidenceIntegrity"
+import { parseEvidenceSections } from "./citationFilter"
 
 const validMarkdown = `# Objektas
 
@@ -51,6 +53,19 @@ describe("evidence integrity", () => {
       "  citata_originali: |\n    Vytautas vedė kariuomenę prie mūšio. Jogaila vadovavo kitai daliai.\n  citata_rodoma: |\n    kitai daliai.",
     )
     assert.deepEqual(collectEvidenceIntegrityIssues(withExcerpt), [])
+  })
+
+  test("does not display an unrelated returned excerpt from stale original provenance", () => {
+    const withUnrelatedExcerpt = validMarkdown.replace(
+      "  citata_originali: |\n    Vytautas vedė kariuomenę prie mūšio.",
+      "  citata_originali: |\n    Vytautas vedė kariuomenę prie mūšio.\n  citata_rodoma: |\n    Vilnius buvo didelis miestas.",
+    )
+    const citation = parseEvidenceSections(withUnrelatedExcerpt).get("Citatos")?.[0]
+    assert.ok(citation)
+    assert.equal(
+      evidenceCitationQuoteForClaim(citation, "Vytautas vedė kariuomenę.", "Objektas"),
+      "",
+    )
   })
 
   test("accepts an article citation represented only by its bibliographic index", () => {

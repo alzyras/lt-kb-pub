@@ -7,14 +7,14 @@ datos:
   - '1412 m.'
 date_start: '1412'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - karas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -145,12 +145,9 @@ Nenurodyta
 - t-002
     - t-005
 
-## Citatos
-
-- id: c-176491
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-003
+  santrauka: 'Karalius Jogaila ir didysis kunigaikštis Vytautas, su savo kariuomenėmis perėję per miškus, priėjo tuos Dubrovnos laukus.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Tad su-
     sitarkiva mudu abudu ir prisiekiva, kad jei aš sulauk­
@@ -171,6 +168,27 @@ Nenurodyta
     Ir lenkų, ir lietuvių ponai, tai girdėdami, surašė tokį
     pat susitarimą ir prisiekė savo valdovams, kad, mirus
     m
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-176491
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Karalius Jogaila ir didysis kunigaikštis Vytautas, su
+    savo kariuomenėmis perėję per miškus, priėjo tuos
+    Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
+    didžiuoju etmonu buvo ponas Sokolas Čekas \  o kiemo
+    etmonu 5  — ponas Spytka Spytkovičius 6 . O Vytauto ka­
+    riuomenėje didžiuoju etmonu buvo kunigaikštis Jonas
+    2adivydas7 , Jogailos ir Vytauto brolis8 , o kiemo et­
+    monu — ponas Jonas Goštautas9 .
   citata_rodoma: "Karalius Jogaila ir didysis kunigaikštis Vytautas, su \nsavo kariuomenėmis perėję per miškus, priėjo tuos \nDubrovnos laukus. Tuo metu Jogailos kariuomenėje \ndidžiuoju etmonu buvo ponas Sokolas Čekas \\  o kiemo \netmonu 5  — ponas Spytka Spytkovičius 6 . O Vytauto ka­\nriuomenėje didžiuoju etmonu buvo kunigaikštis Jonas \n2adivydas7 , Jogailos ir Vytauto brolis8 , o kiemo et­\nmonu — ponas Jonas Goštautas9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

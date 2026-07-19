@@ -23,6 +23,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Gedimino dinastinė vedybų politika
 
 ## Santrauka
@@ -91,6 +92,12 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14486
+
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/socialinė-praktika]]
+- [[temos/šeima]]
 
 ## Citatos
 

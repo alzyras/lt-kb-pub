@@ -13,6 +13,9 @@ datos:
   - '2004 m.'
 date_start: '1235'
 date_end: '2004'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,9 +23,6 @@ tags:
   - vieta
   - jūra
   - gyvenvietė
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -165,7 +165,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 <a id="claim-t-195064"></a>
 - t-008
   teiginys: "Narbutas lietuvių rugiapjūtės dainų posakį „Garu Kotu“ siejo su padavimu apie Plinijaus minimą saulės, arba Apolono, garbinimą prie Baltijos jūros."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -174,7 +174,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   susije_objektai: "mentioned_place: Baltija; mentioned_person: [[objektai/asmenys/Ponas Riteris|Ponas Riteris]]"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-177461
+    - c-177446
 
 <a id="claim-t-195065"></a>
 - t-002
@@ -357,14 +357,15 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 <a id="claim-t-197858"></a>
 - t-027
   teiginys: "Tad kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal būt nesilankė prie Baltijos, neturėjo tikro supratimo apie Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su vokė."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-177448
+    - c-177452
+    - c-179365
 - susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191120|Augustas Liudvikas fon Slėceris]]: Narbutas gina Slėcerį nuo kaltinimo melavimu, aiškindamas, kad jis galėjo remtis gerais senovės šaltiniais apie Baltiją.
 - susijęs iš [[objektai/asmenys/Dalinas.md#claim-t-191497|Dalinas]]: Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos jūros nusekimą nuo Kristaus gimimo.
 - susijęs iš [[objektai/asmenys/Kelsijus.md#claim-t-191431|Kelsijus]]: Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos jūra nuo Kristaus gimimo nuseko 13 sieksnių ir po 4000 metų išnyks.
@@ -396,6 +397,44 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
 - susijęs iš Nemunas: Teodoro Narbuto aprašyme po kurio laiko kryžiuočiai pastūmė Prūsijos sieną iki Nemuno žemupio.
 ## Reikšmingi paminėjimai
+- c-009
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
+    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
+    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
+    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
+    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
+    1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
+    buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
+    ypač mitologiją liečiančius dalykus**.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-011
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tad
+    kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal­
+    būt nesilankė prie Baltijos, neturėjo tikro supratimo apie
+    Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės
+    šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su­
+    vokė.
+    Tačiau jūros ploto didėjimas kartu reiškė jos vandens
+    lygio mažėjimą. Visų pirma todėl, kad plačiau išsilieję
+    vandenys savaime seklėja. Antra vertus, anot visų ste­
+    bėjimų, Siaurės pusrutulio europinės dalies jūrų lygis
+    kasmet pamažu žemėja, o dėl to nuolat anka ežerai, senka
+    upės, išdžiūsta pelikės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-027
+
 - c-014
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -447,6 +486,26 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+- c-024
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pastebėję po nakties avį
+    nuplikusia dėmėmis nugara, be vilnos, tarytum būtų ji iškirpta
+    arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja
+    žmonių arba gyvulių marą; dėl šios priežasties dažnai visame
+    kaime kyla didelis verksmas ir susijaudinimas; išplisdamas ap­
+    linkui, jis tampa didelio nerimo priežastimi. Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-24063
@@ -633,21 +692,25 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
-    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
-    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
-    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
-    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
-    1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
-    buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
-    ypač mitologiją liečiančius dalykus**.
+    100
+
+    ## Puslapis 100
+
+    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
+    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
+    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
+    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
+    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
+    ponas Riteris savo Siaurės senovės tyrimuose15.
   citata_rodoma: "100\n\n## Puslapis 100\n\n(Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­\nsakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­\nru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­\ntą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­\nbinamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba\nponas Riteris savo Siaurės senovės tyrimuose15."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-177447
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -679,18 +742,14 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tad
-    kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal­
-    būt nesilankė prie Baltijos, neturėjo tikro supratimo apie
-    Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės
-    šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su­
-    vokė.
     Tačiau jūros ploto didėjimas kartu reiškė jos vandens
     lygio mažėjimą. Visų pirma todėl, kad plačiau išsilieję
     vandenys savaime seklėja. Antra vertus, anot visų ste­
     bėjimų, Siaurės pusrutulio europinės dalies jūrų lygis
     kasmet pamažu žemėja, o dėl to nuolat anka ežerai, senka
-    upės, išdžiūsta pelikės.
+    upės, išdžiūsta pelikės. Tad neklydo ir tie, kurie, savo
+    nuomonę grįsdami stebėjimais, daro išvadą, kad Baltijos
+    jūra senka.
   citata_rodoma: "Tačiau jūros ploto didėjimas kartu reiškė jos vandens\nlygio mažėjimą. Visų pirma todėl, kad plačiau išsilieję\nvandenys savaime seklėja. Antra vertus, anot visų ste­\nbėjimų, Siaurės pusrutulio europinės dalies jūrų lygis\nkasmet pamažu žemėja, o dėl to nuolat anka ežerai, senka\nupės, išdžiūsta pelikės. Tad neklydo ir tie, kurie, savo\nnuomonę grįsdami stebėjimais, daro išvadą, kad Baltijos\njūra senka."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -699,7 +758,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-017
-    - t-027
 
 - id: c-177449
   autorius: "Michał Baliński"
@@ -788,6 +846,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-012
+    - t-027
 
 - id: c-177453
   autorius: "Teodoras Narbutas"
@@ -986,26 +1045,26 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pastebėję po nakties avį
-    nuplikusia dėmėmis nugara, be vilnos, tarytum būtų ji iškirpta
-    arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja
-    žmonių arba gyvulių marą; dėl šios priežasties dažnai visame
-    kaime kyla didelis verksmas ir susijaudinimas; išplisdamas ap­
-    linkui, jis tampa didelio nerimo priežastimi. Stenderis savo lat­
-    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
-    sukeltų, neramumų liudytojas.
-    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
-    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
-    mas išliko kaip žalčių laikymas1.
+    Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
+    sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
+    aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
+    30
+    Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331
+    metus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­
+    le 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­
+    veik 18 metų.
+    156
+
+    ## Puslapis 156
+
+    užneštos pakrantės.
   citata_rodoma: "Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­\nsėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl\naukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-\n30\nPatyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331\nmetus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­\nle 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­\nveik 18 metų.\n156\n\n## Puslapis 156\n\nužneštos pakrantės."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
-
 - id: c-179365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1026,6 +1085,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-025
+    - t-027
 
 - id: c-179366
   autorius: "Teodoras Narbutas"

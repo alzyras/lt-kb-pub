@@ -7,12 +7,12 @@ datos:
   - '1961 m.'
 date_start: '1961'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,39 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad ochmański J.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Ochmańskio straipsnis „Uwagi o litewskim państwie wczesnofeudalnym“ paskelbtas 1961 m. leidinio „Roczniki historyczne“ 27 tome, p. 143–160.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ochmański J. Uwagi o litewskim państwie wczesnofeudalnym.—Roczniki historyczne,
-    1961, 27, s. 143—160.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61833
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    [Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West-
-    Preussen nebst dem Netzdistrict 1 : 150000. 25 Sectionen (Schroetter-Karte, 1796—
-    1802).—Historisch-geographischer Atlas des Preussenlandes / Herausgegeben von H.
-    Mortensen, G. Mortensen, R. Wenskus, H. Jäger.
-  citata_rodoma: "Ochmański J. Uwagi o litewskim państwie wczesnofeudalnym.—Roczniki historyczne,\n1961, 27, s. 143—160."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-61201"></a>
@@ -78,3 +45,21 @@ Dusburgietis teigia, kad ochmański J.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį faktą."
   pagrindžia:
     - c-61833
+
+## Citatos
+
+- id: c-61833
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Ochmański J. Uwagi o litewskim państwie wczesnofeudalnym.—Roczniki historyczne,
+    1961, 27, s. 143—160.
+  citata_rodoma: "Ochmański J. Uwagi o litewskim państwie wczesnofeudalnym.—Roczniki historyczne,\n1961, 27, s. 143—160."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

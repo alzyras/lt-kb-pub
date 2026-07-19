@@ -150,7 +150,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 <a id="claim-t-79229"></a>
 - t-002
   teiginys: "Vladislovo Vazos valdymo laikai datuojami 1632–1648 m."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Maskva: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -161,7 +161,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad lenkų kariuomenė užėmė Maskvą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-76284
+    - c-76289
 
 <a id="claim-t-79230"></a>
 - t-003
@@ -279,12 +279,10 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   citata_rodoma: "9. Vladislovo asmuo ir elekcija 315"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-76287
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -347,6 +345,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
+    - t-002
 
 - id: c-76290
   redaktorius: "A. Šapoka"

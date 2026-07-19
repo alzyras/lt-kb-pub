@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # K. Jablonskis
 
 ## Santrauka
@@ -35,17 +36,6 @@ media_all_json: |-
 Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros istorikas Konstantinas Jablonskis. K. Jablonskis išrinko gausius lietuviškus žodžius (299) iš senosios Lietuvos valstybės raštinių kalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai» (1941). Jablonskis ištisai sudarė 1 t.
 
 ## Teiginiai
-
-<a id="claim-t-179502"></a>
-- t-002
-  teiginys: "K. Jablonskis Baltarusijos TSR Mokslų Akademijos pavedimu suredagavo ir išleido 1529 m. Pirmąjį Lietuvos Statutą."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1529 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-30629
 
 <a id="claim-t-179503"></a>
 - t-001
@@ -88,7 +78,6 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
 
 - id: c-163197

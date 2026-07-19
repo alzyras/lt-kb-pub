@@ -61,7 +61,7 @@ media_all_json: |-
 <a id="claim-t-200632"></a>
 - t-001
   teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): 0.83"
@@ -76,7 +76,6 @@ media_all_json: |-
   pagrindžia:
     - c-184025
     - c-184029
-    - c-184026
 
 <a id="claim-t-200667"></a>
 - t-004
@@ -191,12 +190,10 @@ media_all_json: |-
   citata_rodoma: "Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo"
   statusas: verified
   atnaujinta: "2026-07-14 09:55"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-184027
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

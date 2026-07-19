@@ -7,16 +7,16 @@ datos:
   - '1529 m.'
 date_start: '1529'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
   - pareigūnas
   - autorius
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,27 +36,10 @@ media_all_json: |-
 
 A. Goštauto memoriale aprašoma jo veikla M. Glinskio maišto 1508 m. laikotarpiu ir XVI a. pirmojo ketvirčio politiniai įvykiai.
 
-## Teiginiai
-
-<a id="claim-t-194147"></a>
-- t-001
-  teiginys: "A. Goštauto memoriale aprašoma jo veikla M. Glinskio maišto 1508 m. laikotarpiu ir XVI a. pirmojo ketvirčio politiniai įvykiai."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176760
-
-## Citatos
-
-- id: c-176760
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'A. Goštauto memoriale aprašoma jo veikla M. Glinskio maišto 1508 m. laikotarpiu ir XVI a. pirmojo ketvirčio politiniai įvykiai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Lietuvoje poleminės-publicistinės raštijos pavyzdys
     ir drauge istorinis šaltinis buvo parašytas kaip atsaky­
@@ -72,11 +55,30 @@ A. Goštauto memoriale aprašoma jo veikla M. Glinskio maišto 1508 m. laikotarp
     Sutampa Bychovco kronikos ir A. Goštauto memo­
     rialo tonas ir tendencija, nušviečiant Goštautų giminės
     istorinį vaidmenį ir reikšmę Lietuvos valstybėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-176760
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O Bychovco kronikoje iš
+    to paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­
+    vilko fragmentai.
+    Turime taip pat išlikusį ir neginčijamai paties Al­
+    berto Goštauto literatūrinės kūrybos pavyzdį — Žygi­
+    manto II Kazimieraičio pagyrimą, parašytą 1529 m.
+    Lietuvos Didžiosios Kunigaikštystės teisės kodekso —
+    I-jo Lietuvos Statuto priėmimo proga 5 7 .
   citata_rodoma: "O Bychovco kronikoje iš \nto paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­\nvilko fragmentai.\nTurime taip pat išlikusį ir neginčijamai paties Al­\nberto Goštauto literatūrinės kūrybos pavyzdį — Žygi­\nmanto II Kazimieraičio pagyrimą, parašytą 1529 m. \nLietuvos Didžiosios Kunigaikštystės teisės kodekso —  \nI-jo Lietuvos Statuto priėmimo proga 5 7 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

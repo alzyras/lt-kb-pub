@@ -53,22 +53,6 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
   pagrindžia:
     - c-179127
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad joje pasakojama apie Aušrinės ištekėjimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Rėza. Dainės)*.
-    Visa ši dainelė yra mitologinė: joje papasakotas ištekan­
-    čios už vyro Aušrinės nuotykis, tik nežinia už ko ji tekėjo,
-    arba kaip vadinosi lietuvių Titanas, nes čia apie Mėnulį ne­
-    užsimenama.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173182
@@ -76,16 +60,11 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Senovės graikai, kaip žinome iš jų astrono­
-    mijos istorijos, iki Periklio laikų manė tą patį, tik, geriau paži­
-    ne dangaus kūnų judėjimą, sukimąsi, suprato, kaip juda pla­
-    neta Venera.
-    Būtina įdėti dar vieną dainą iš pono Rėzos dainų rinkinio
-    Naujosios Prūsijos, arba Prūsų Lietuvos, tarme:
-    O wakar wakaratij
-    Prapule manu owate.
-    Ajl Kas gelbės jeszkoti,
-    Manu ^vienturte owatę?
+    Rėza. Dainės)*.
+    Visa ši dainelė yra mitologinė: joje papasakotas ištekan­
+    čios už vyro Aušrinės nuotykis, tik nežinia už ko ji tekėjo,
+    arba kaip vadinosi lietuvių Titanas, nes čia apie Mėnulį ne­
+    užsimenama.
   citata_rodoma: "Rėza. Dainės)*.\nVisa ši dainelė yra mitologinė: joje papasakotas ištekan­\nčios už vyro Aušrinės nuotykis, tik nežinia už ko ji tekėjo,\narba kaip vadinosi lietuvių Titanas, nes čia apie Mėnulį ne­\nužsimenama."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

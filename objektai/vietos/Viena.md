@@ -2572,19 +2572,15 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pati bulė kalba apskritai apie rusinus,
-    tarytum tas pavadinimas nereikštų graikų ir rusų bažnyčios, o
-    kažkokį atskirą, nuo jos atskilusį tikėjimą, globojamą Lenki­
-    jos. Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė­
-    ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos
-    katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo
-    kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį
-    krikštijimą ir buvimą Lietuvoje kažkokios rusiškos sektos, ku­
-    ri laikytina grynai stabmeldiška.
-    Antra vertus, reikia atkreipti dėmesį, kad katalikų bažny­
-    čioje yra ne vienos religinės apeigos, kurioms įprasta suteikti
-    naują vardą: krikštijimas vandeniu, patepimas šventais alie­
-    jais, sutvirtinimas, įstojimas į vienuolius.
+    Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,
+    apie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė
+    nelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­
+    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
+    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
+    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
+    įtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­
+    joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
+    apie tai net neužsiminęs.
   citata_rodoma: "Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,\napie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė\nnelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­\njoje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte\napie tai net neužsiminęs."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

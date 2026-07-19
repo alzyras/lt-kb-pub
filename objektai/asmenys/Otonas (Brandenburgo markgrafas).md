@@ -8,6 +8,10 @@ datos:
   - '1268 m.'
 date_start: '1254'
 date_end: '1268'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,10 +19,6 @@ tags:
   - karalius
   - karvedys
   - kunigaikštis
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,12 +72,10 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   pagrindžia:
     - c-60820
 
-## Citatos
-
-- id: c-60820
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai pamatę, kiti, apimti baimės, atsitraukė.
     127 (122). Apie Brandenburgo pilies pastatymą
@@ -85,6 +83,33 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
     bei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų
     vadinama tuo pat vardu, kaip vadinama ir jo markgrafystė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-60820
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Apie daugybės maldininkų atvykimą
+
+      Kai Vokietijos žemėse pasklido gandai apie minėtųjų pilių sunaikinimą, subruzdo
+    karaliai bei kunigaikščiai ir, nenorėdami, kad visiškai sunyktų Prūsijoje dievo bažnyčia,
+    kurią diegiant taip gausiai buvo liejamas krikščionių kraujas, o manydami, kad dėl jų
+    malonaus atvykimo ji deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių
+    ir gausybės karių, gelbėti šios žemės  ir tramdyti prūsų sukilimo: 1265 viešpaties
+    metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo
+    markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos
+    karalius398. Kadangi dar nebuvo išmušusi valanda, kurią dievas malonėjo pasigailėti
+    savo tautos, kadangi ketino juos bausti naujomis bausmėmis, minėtieji kunigaikščiai dėl
+    minkštos žiemos negalėjo pasiekti šitaip trokštamo tikslo, todėl, palikę Prūsijos žemės
+    krikščionis dideliame pavojuje, sugrįžo į savo kraštą.
   citata_rodoma: "Apie daugybės maldininkų atvykimą\n\n  Kai Vokietijos žemėse pasklido gandai apie minėtųjų pilių sunaikinimą, subruzdo\nkaraliai bei kunigaikščiai ir, nenorėdami, kad visiškai sunyktų Prūsijoje dievo bažnyčia,\nkurią diegiant taip gausiai buvo liejamas krikščionių kraujas, o manydami, kad dėl jų\nmalonaus atvykimo ji deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių\nir gausybės karių, gelbėti šios žemės  ir tramdyti prūsų sukilimo: 1265 viešpaties\nmetais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo\nmarkgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos\nkaralius398. Kadangi dar nebuvo išmušusi valanda, kurią dievas malonėjo pasigailėti\nsavo tautos, kadangi ketino juos bausti naujomis bausmėmis, minėtieji kunigaikščiai dėl\nminkštos žiemos negalėjo pasiekti šitaip trokštamo tikslo, todėl, palikę Prūsijos žemės\nkrikščionis dideliame pavojuje, sugrįžo į savo kraštą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

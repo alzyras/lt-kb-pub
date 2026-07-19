@@ -86,12 +86,8 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-## Citatos
-
-- id: c-175084
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Tarsi pats likimas pa­
     noro, kad šis jaunuolis sujungtų anų įžymių Romos im­
@@ -103,6 +99,24 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
     peratoriumi, nei Italijos karaliumi. Tuo tarpu anksčiau
     Oresto nuverstas impera(orius Julijus Nepas, neturėjęs
     prieglaudos Dalmatijoje, tuojau po Odoakro pergalės at­
+    siuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,
+    t. y. imperatoriaus vietininku.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-175084
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Oresto nuverstas impera(orius Julijus Nepas, neturėjęs
+    prieglaudos Dalmatijoje, tuojau po Odoakro pergalės at-
     siuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,
     t. y. imperatoriaus vietininku.
   citata_rodoma: "Oresto nuverstas impera(orius Julijus Nepas, neturėjęs\nprieglaudos Dalmatijoje, tuojau po Odoakro pergalės at-\nsiuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,\nt. y. imperatoriaus vietininku."

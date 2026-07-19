@@ -22,6 +22,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)
 
 ## Santrauka
@@ -62,18 +63,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   pagrindžia:
     - c-23584
 
-<a id="claim-t-193616"></a>
-- t-003
-  teiginys: "Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tarybinę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido suprasti, kad einama unifikuotos."
-  atnaujinta: "2026-07-06 13:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-23584
-
 ## Citatos
 
 - id: c-23584
@@ -101,4 +90,3 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   pagrindzia:
     - t-001
     - t-002
-    - t-003

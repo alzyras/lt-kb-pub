@@ -152,33 +152,44 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   santrauka: 'Narbutas kašubų protėvius siejo su Asubi arba Cassubi tauta, kuri, jo teigimu, įsikūrė Pamaryje prie Vyslos žemupio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Tai buvo miškinė gyvulių augintojų gentis.
-    Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
-    tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
-    kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
-    kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
-    gų bruožų.
+    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
+    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
+    vadinimo panašumu su chionitais. Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-005
   santrauka: 'Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak sonijoje ir lužitėnų krašte.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Sako, kad lietuviai kaimiečiai
-    šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­
-    se. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių
-    senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje
-    tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­
-    sonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­
-    dą, kad tai buvo deivės Velionos aukurai.
+    Tam nėra reikalo ieš­
+    koti įrodymų, pakanka žvilgtelėti į suprantamai nupieštus hie­
+    roglifus, tarp kurių yra susegta apyrankė - žaltys, laikantis nas­
+    ruose uodegą. Pagaliau, aiškindami apskritimo su kryžiumi,
+    arba mitologinio rakto, reikšmę, pažymėsime, kad senovės ty­
+    rėjai randa jį įvairių mitologinių asmenų rankose ir įvairiuose
+    paminkluose, o pagal tai aiškinama jo prasmė. Orfėjo him­
+    nuose pasaulio raktą rankoje laiko Kupidonas, o paskui - He-
+    katė ir Protirėja; Hadas, arba Plutonas, turi raktą nuo pože­
+    mio pasaulio; Protėjas - jūros raktą; Jenijas laiko liūdesio ir
+    džiaugsmo raktą, tad jo reikšmė aiški, nes raktas kiekvieno
+    dievo rankoje nusako jo valdžią, o pats raktas įgauna reikšmę
+    nuo vietos, kurioje pavaizduotas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -245,17 +256,12 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
-    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
-    vadinimo panašumu su chionitais. Šie buvo Padneprės
-    emporiumų graikų kolonistai, susigiminiavę su skitais ir
-    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
-    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
-    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
-    prie Volgos vidurupio, imperatorius Julijonas, taip pat
-    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
-    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
-    po to keliavo toliau per alanų kraštą.
+    Tai buvo miškinė gyvulių augintojų gentis.
+    Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
+    tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
+    kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
+    kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
+    gų bruožų.
   citata_rodoma: "Tai buvo miškinė gyvulių augintojų gentis.\nČia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­\ntinių kašubų protėviai. Neabejotina, kad ji susiliejo su\nkažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­\nkūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­\ngų bruožų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -270,19 +276,13 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tam nėra reikalo ieš­
-    koti įrodymų, pakanka žvilgtelėti į suprantamai nupieštus hie­
-    roglifus, tarp kurių yra susegta apyrankė - žaltys, laikantis nas­
-    ruose uodegą. Pagaliau, aiškindami apskritimo su kryžiumi,
-    arba mitologinio rakto, reikšmę, pažymėsime, kad senovės ty­
-    rėjai randa jį įvairių mitologinių asmenų rankose ir įvairiuose
-    paminkluose, o pagal tai aiškinama jo prasmė. Orfėjo him­
-    nuose pasaulio raktą rankoje laiko Kupidonas, o paskui - He-
-    katė ir Protirėja; Hadas, arba Plutonas, turi raktą nuo pože­
-    mio pasaulio; Protėjas - jūros raktą; Jenijas laiko liūdesio ir
-    džiaugsmo raktą, tad jo reikšmė aiški, nes raktas kiekvieno
-    dievo rankoje nusako jo valdžią, o pats raktas įgauna reikšmę
-    nuo vietos, kurioje pavaizduotas.
+    Sako, kad lietuviai kaimiečiai
+    šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­
+    se. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių
+    senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje
+    tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­
+    sonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­
+    dą, kad tai buvo deivės Velionos aukurai.
   citata_rodoma: "Sako, kad lietuviai kaimiečiai\nšitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­\nse. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių\nsenovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje\ntikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­\nsonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­\ndą, kad tai buvo deivės Velionos aukurai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

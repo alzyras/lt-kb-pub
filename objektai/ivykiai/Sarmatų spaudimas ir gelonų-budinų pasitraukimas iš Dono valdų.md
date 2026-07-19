@@ -130,12 +130,9 @@ Nenurodyta
   pagrindžia:
     - c-174911
 
-## Citatos
-
-- id: c-174911
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Būtent šios sarmatų-
     alanų .revoliucijos lėmė didelius šios epochos pokyčius
@@ -149,6 +146,31 @@ Nenurodyta
     tai. Raginami sarmatų puolimų, kėlusių visiško išnaikini­
     mo pavojų, kuriam pasipriešinti nepajėgė, jie paliko der­
     lingus Ukrainos kraštus ir iškeliavo vakarų link.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+    - t-001
+    - t-004
+    - t-005
+
+## Citatos
+
+- id: c-174911
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Maždaug apie 80 metus prieš Kristaus ¡gimimą ¡sarma­
+    tai kartu su kitomis Pavolgio tautomis taip pradėjo plūsti
+    j dešiniosios Dono pakrantės Skitiją, jog tuos kraštus
+    pradėta vadinti europine Sarmatija; tai ir turėjo būti svar­
+    biausia priežastis, kuri privertė gelonus ir ¡budinus palikti
+    savo prie Dono buvusias valdas1. Būtent šios sarmatų-
+    alanų .revoliucijos lėmė didelius šios epochos pokyčius
+    Europos rytuose.
   citata_rodoma: "Maždaug apie 80 metus prieš Kristaus ¡gimimą ¡sarma­\ntai kartu su kitomis Pavolgio tautomis taip pradėjo plūsti\nj dešiniosios Dono pakrantės Skitiją, jog tuos kraštus\npradėta vadinti europine Sarmatija; tai ir turėjo būti svar­\nbiausia priežastis, kuri privertė gelonus ir ¡budinus palikti\nsavo prie Dono buvusias valdas1. Būtent šios sarmatų-\nalanų .revoliucijos lėmė didelius šios epochos pokyčius\nEuropos rytuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

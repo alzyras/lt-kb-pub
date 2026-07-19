@@ -65,10 +65,12 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   pagrindžia:
     - c-65290
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-65290
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip buvo atkeršyta už šį sukilimą
 
@@ -79,27 +81,6 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
       399 Brandenburgo pilis pastatyta Pokarviuose (žr. paaiškinimus D. III, 91, 3; be to,
     Hennenberger C, Erclerung.., p. 33) prie Aismarių, deš. Frišingo (dab. Prochladnaja)
     žiočių pusėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-65290
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Šitai išgirdęs, komtūras susirūpino ir patraukė su saviškiais link Karaliaučiaus,
-    o parplaukęs laivais į Brandenburgą, čia išvadavo nuo prūsų brolius ir kitus iš savo
-    šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
-    išsivedė su savimi.
-    131 (126). Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą
-    Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto
-    ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje
-    pat vietoje pastatydino kitą pilį tuo pat vardu404.
   citata_rodoma: "Apie tai, kaip buvo atkeršyta už šį sukilimą\n\n   Šitai sužinoję, magistras ir broliai, subūrę didelę kariuomenę, šventųjų apaštalų Petro\nir Povilo dieną (birželio 29) įsiveržė į Pomeranijos žemę netoli Nojenburgo pilies, o vėliau,\nrudenį,— netoli Dirsovijos miesto bei pilies402 ir nusiaubė abiejų pilių apylinkes ugnimi,\n\n  399 Brandenburgo pilis pastatyta Pokarviuose (žr. paaiškinimus D. III, 91, 3; be to,\nHennenberger C, Erclerung.., p. 33) prie Aismarių, deš. Frišingo (dab. Prochladnaja)\nžiočių pusėje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

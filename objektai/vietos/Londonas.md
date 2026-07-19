@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1390'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,6 +35,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Londonas
 
 ## Santrauka
@@ -97,25 +98,6 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   pagrindžia:
     - c-24268
 
-<a id="claim-t-188769"></a>
-- t-004
-  teiginys: "Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Alus: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Londonas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Alus: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Londonas\" parinktas kaip owner_note_path. Targetas \"Alus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171658
-
 <a id="claim-t-193646"></a>
 - t-006
   teiginys: "Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine."
@@ -159,21 +141,6 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 - susijęs iš Hartknocho „Alt- und Neues Preussen“: Narbutas rašo, kad Hartknochas abejojo, ar prūsai mokėjo gaminti alų iki kryžiuočių atsikraustymo.
 - susijęs iš Volfgango Lazijaus istorija: Narbutas rašo, kad Volfgangas Lazijus į savo istoriją įdėjo iš „Meklenburgo istorijos“ paimtą Dievo maldos užrašą.
 - susijęs iš [[objektai/zodynas/Bendrinė sąvoka.md#claim-t-21984|Bendrinė sąvoka]]: Tony Žemaitis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
-    vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
-    be jokių prieskonių. Londono A l yra tiesiog ištobulintas šitas
-    alus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-24267
@@ -246,23 +213,17 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šį gėrimą mini padavimai, o
-    senos žyniuonės kai kuriose vietose dar moka jį paruošti; ligo­
-    niams tai esąs labai stiprinantis dalykas. Degintą degtinę su
-    medumi žmonės lenkiškai vadina krupniku (Knipniczek); tas
-    slaviškas pavadinimas tikriausiai kilęs iš to lietuviško gėrimo.
-    Aukos
-    Visų tautų aukos buvo kažkokios vienodos - rėmėsi pir­
-    mykščio pasaulio papročiu, kurio Nojus laikėsi po Tvano.
+    Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
+    vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
+    be jokių prieskonių. Londono A l yra tiesiog ištobulintas šitas
+    alus.
   citata_rodoma: "Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­\nvėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:\nbe jokių prieskonių. Londono A l yra tiesiog ištobulintas šitas\nalus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-176316
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -280,6 +241,3 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-
-## Ryšiai
-- Gimimo vieta: [[objektai/asmenys/Antanas Kazimeras Žemaitis]]

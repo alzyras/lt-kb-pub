@@ -94,12 +94,9 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
   pagrindžia:
     - c-175092
 
-## Citatos
-
-- id: c-175092
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Jei jo prielaida teisinga,
     o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,
@@ -114,6 +111,27 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
     tos genties šakų lengvai galėjo atsirasti viena, kuri, kaip
     ir Polocko, galėjo būti palankesnė rusams ir prisidėti
     prie Olego.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+    - t-003
+
+## Citatos
+
+- id: c-175092
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    tokiu atveju labiau dera jų pavadinimą kildinti iš bend-
+    ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš
+    kažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris
+    teisingai klausia, ką tai reiškia sarmatiškai. Etimologinio
+    kildinimo nepripažįstu, tačiau krivičių pavadinimo kili-
+    mas iš Krivio, regis, atrodo visai natūralus.
   citata_rodoma: "tokiu atveju labiau dera jų pavadinimą kildinti iš bend-\nro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš\nkažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris\nteisingai klausia, ką tai reiškia sarmatiškai. Etimologinio\nkildinimo nepripažįstu, tačiau krivičių pavadinimo kili-\nmas iš Krivio, regis, atrodo visai natūralus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

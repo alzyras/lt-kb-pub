@@ -8,11 +8,6 @@ datos:
   - '1544 m.'
 date_start: '1488'
 date_end: '1544'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +15,11 @@ tags:
   - karalius
   - rašytojas
   - asmuo
+amziai:
+  - 'XV'
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -228,29 +228,6 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   pagrindžia:
     - c-173967
 
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Narbutas Jordano požiūrį pasitelkė svarstydamas, kad venedams priklausė ne viena jo veikalui reikšminga gentis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kaip slavai atsirado ‘šiose lygumose arba kaip
-    ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
-    Pasakysime tiktai tiek, kad venedams priklausė ne viena
-    gentis, labai dominanti mūsų veikalą, o panagrinėję pa­
-    ties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,
-    dar labiau sustiprinsime šią nuomonę. Galėjo būti, kad
-    venedų slavams ikikrikščioniškosios eros amžiais ar kiek
-    vėliau priklausė kuri nors Baltijos jūros pakrantė tarp
-    Vyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš
-    rytų slenkančių genčių; jų pėdsakas išliko Vindavos upės
-    pavadinime; be to, Vinidų, Vinidarių pavardę dera lai­
-    kyti lietuviškos kilmės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173961
@@ -356,18 +333,18 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Lietuvių tauta 'arba visiškai negimininga slavams, ar­
-    ba turi labai tolimus ryšius, nes šias tautas sieja tik po­
-    litiniai saitai. Safaržykas teigia, jog priešistoriniais lai­
-    kais buvusi viena tauta, kuri, laikui bėgant, susidvejino5.
-    Kiti, pavyzdžiui, Solovjovas6, aiškina atvirkščiai ir teigia,
-    jog priešistoriniais laikais buvusios dvi Skirtingos tau­
-    tos, kurios istoriniais laikais susiliejo. Bet šie istorikai
-    patys prisipažįsta, jog nežino priešistorinių epochų, todėl
-    1 Išsamius įrodymus to, kad venedai iš tikrųjų buvo slavai ir
-    tą vardą jiems suteikė kitos tautos, o ne jie patys taip save vadino,
-    be to, Adelungas ir net Dobrovskis venedus klaidingai priskyrė prie
-    vokiečių, pateikė Safaržykas (Starožytnošci slawianskie.
+    Kaip slavai atsirado ‘šiose lygumose arba kaip
+    ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
+    Pasakysime tiktai tiek, kad venedams priklausė ne viena
+    gentis, labai dominanti mūsų veikalą, o panagrinėję pa­
+    ties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,
+    dar labiau sustiprinsime šią nuomonę. Galėjo būti, kad
+    venedų slavams ikikrikščioniškosios eros amžiais ar kiek
+    vėliau priklausė kuri nors Baltijos jūros pakrantė tarp
+    Vyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš
+    rytų slenkančių genčių; jų pėdsakas išliko Vindavos upės
+    pavadinime; be to, Vinidų, Vinidarių pavardę dera lai­
+    kyti lietuviškos kilmės.
   citata_rodoma: "Kaip slavai atsirado ‘šiose lygumose arba kaip\nir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.\nPasakysime tiktai tiek, kad venedams priklausė ne viena\ngentis, labai dominanti mūsų veikalą, o panagrinėję pa­\nties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,\ndar labiau sustiprinsime šią nuomonę. Galėjo būti, kad\nvenedų slavams ikikrikščioniškosios eros amžiais ar kiek\nvėliau priklausė kuri nors Baltijos jūros pakrantė tarp\nVyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš\nrytų slenkančių genčių; jų pėdsakas išliko Vindavos upės\npavadinime; be to, Vinidų, Vinidarių pavardę dera lai­\nkyti lietuviškos kilmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

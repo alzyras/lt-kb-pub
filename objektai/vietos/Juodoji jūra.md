@@ -88,15 +88,6 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   pagrindžia:
     - c-10492
 
-<a id="claim-t-08502"></a>
-- t-007
-  teiginys: "Juodoji jūra siejama su Lietuvos prekybos ir valstybės ribų plėtra."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-11080
-
 <a id="claim-t-193185"></a>
 - t-008
   teiginys: "Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris."
@@ -228,12 +219,10 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   citata_rodoma: "vėl pagrįžo lietuvių, kaip pirm 300 metų buvo\nbuvęs; todėl prekyba per Žemaičių jūrą pasididino: kaipogi leido tenai linus, javus, kanapes, kailius,\nmėsą, sviestą, medų, vašką, gintarus, apynius, pelenus ir laivams medžiagą į Anglų ir Olanderių žemę,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-
 - id: c-175929
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

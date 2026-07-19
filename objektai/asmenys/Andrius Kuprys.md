@@ -42,6 +42,27 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
   pagrindžia:
     - c-176718
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto brolis, kuriam priklausė Jogailos su vokiečiais puolamas Polockas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir didysis kunigaikštis Kęstutis vėl ėmė verk­
+    damas skųstis savo sūnui, didžiajam kunigaikščiui Vy­
+    tautui, dėl kunigaikščio Jogailos: ,,Jis anksčiau mane
+    didžiausiai įskaudino, išleisdamas už vergo mano gimi­
+    naitę, o savo seserį, o dabar — aš žinau — su vokie­
+    čiais bičiuliaujasi, sudarė prieš mus sandėrį. Mes štai
+    jau trečią kartą kariaujame su vokiečiais, o jis su
+    jais puola Polocką, kuris priklauso mano sūnui, o tavo
+    broliui Andriui Kupriui. Tai jau antras jo priešiškumo
+    mums ženklas *8.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-176718
@@ -58,7 +79,7 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
     jau trečią kartą kariaujame su vokiečiais, o jis su
     jais puola Polocką, kuris priklauso mano sūnui, o tavo
     broliui Andriui Kupriui. Tai jau antras jo priešiškumo
-    mums ženklas *8.
+    mums ženklas * 8 .
   citata_rodoma: "Ir didysis kunigaikštis Kęstutis vėl ėmė verk­\ndamas skųstis savo sūnui, didžiajam kunigaikščiui Vy­\ntautui, dėl kunigaikščio Jogailos: ,,Jis anksčiau mane \ndidžiausiai įskaudino, išleisdamas už vergo mano gimi­\nnaitę, o savo seserį, o dabar — aš žinau — su vokie­\nčiais bičiuliaujasi, sudarė prieš mus sandėrį. Mes štai \njau trečią kartą kariaujame su vokiečiais, o jis su \njais puola Polocką, kuris priklauso mano sūnui, o tavo \nbroliui Andriui Kupriui. Tai jau antras jo priešiškumo \nmums ženklas * 8 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

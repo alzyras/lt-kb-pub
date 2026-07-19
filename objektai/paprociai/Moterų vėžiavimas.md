@@ -80,14 +80,7 @@ Nenurodyta
   puslapiai: "p. 17 (PDF 15)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 17 (PDF 15)."
   citata_originali: |
-    Dabar matomos kregždės tai tos, ku­
-    rios ant aukštų gyvena; anų sukančių savo lizdą prie gegnių jau ne­
-    bėra.
-    Išnyko iš upių vėžiai — ir tiems kas
-    nepatiko.
-    Vėžiavimas
-    būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šil­
-    tą vandenį ir parnešdavo terbą vėžių.
+    Vėžiavimas būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šiltą vandenį ir parnešdavo terbą vėžių.
   citata_rodoma: "Vėžiavimas būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šiltą vandenį ir parnešdavo terbą vėžių."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

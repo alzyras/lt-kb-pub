@@ -509,23 +509,18 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O paskui jis prikalbėjo savo
-    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
-    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
-    biausia. prieš teisėtą Lietuvos paveldėtoją a .
-    Tas Kantauto giminaitis suprato, kad negalima sto­
-    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
-    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
-    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
-    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
-    tarnauti
-    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
-    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
-    turtą. Patvirtinęs jų privilegijas priesaikomis19 ir pa­
-    jungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­
-    lai palikti Kantautą bent trejus metus Žemaičių seniū­
-    nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
-    gaikščiui Kazimierui.
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
+    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės.
   citata_rodoma: "O paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.\nBūnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis \npabėgo į Mazoviją, nusprendė su tais miestais pereiti \nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo \ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios \nKunigaikštystės."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

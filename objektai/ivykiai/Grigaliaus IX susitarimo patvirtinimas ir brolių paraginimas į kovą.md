@@ -7,14 +7,14 @@ datos:
   - '1230 m.'
 date_start: '1230'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - politinis-sprendimas
   - religinis-įvykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -75,9 +75,12 @@ Nenurodyta
   pagrindžia:
     - c-63600
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-63599
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
     Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
@@ -89,44 +92,6 @@ Nenurodyta
     ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš
     mus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti
     mūsų tautos ir šventovės nelaimes14.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-62797
-- c-003
-  santrauka: 'Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite
-    ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš
-    mus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti
-    mūsų tautos ir šventovės nelaimes14. Stiprindamas jų kilnias širdis, jis guodė juos šiais
-    viešpaties žodžiais, kuriais šis bylojo  į Izraelio tautą (Ist 20.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-63599
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    58—59): „Prisirenkite
-    ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš
-    mus sunaikinti mūsų ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti
-    mūsų tautos ir šventovės nelaimes14. Stiprindamas jų kilnias širdis, jis guodė juos šiais
-    viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš
-    savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
-    negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
-    (Ist 20. 3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
-    širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų
-    tarpe, jis kovos už jus prieš visus priešus, kad jus išgelbėtų iš pavojaus“.
   citata_rodoma: "Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie\nLenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,\nužjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino\nviešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai\nsudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už\nkančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims\npriklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite\nir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš\nmus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti\nmūsų tautos ir šventovės nelaimes14."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -164,15 +129,11 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1): „Jei išeisi į karą prieš
-    savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
-    negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
-    (Ist 20. 3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
-    širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų
-    tarpe, jis kovos už jus prieš visus priešus, kad jus išgelbėtų iš pavojaus“. Juk čia ne
-    jūsų, bet dievo kova. Šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas
-    kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius
-    (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo.
+    Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite
+    ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš
+    mus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti
+    mūsų tautos ir šventovės nelaimes14. Stiprindamas jų kilnias širdis, jis guodė juos šiais
+    viešpaties žodžiais, kuriais šis bylojo  į Izraelio tautą (Ist 20.
   citata_rodoma: "Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite\nir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš\nmus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti\nmūsų tautos ir šventovės nelaimes14. Stiprindamas jų kilnias širdis, jis guodė juos šiais\nviešpaties žodžiais, kuriais šis bylojo  į Izraelio tautą (Ist 20."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

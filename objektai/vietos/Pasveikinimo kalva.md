@@ -64,7 +64,7 @@ Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
     priešininkui savo karingą nusistatymą."
     Ir, atleidęs pasiuntinį, sušaukė visą savo lietuvių
     bei rusų kariuomenę, ir iš Vitebsko ištraukė stačiai
-    į Maskvą3. Patį Velykų rytą4, po prisikėlimo pamal­
+    į Maskvą3 . Patį Velykų rytą4 , po prisikėlimo pamal­
     dų, didysis Maskvos kunigaikštis su bajorais ir su ku­
     nigaikščiais išeina iš cerkvės, o didysis kunigaikštis Al­
     girdas su visomis savo pajėgomis, išskleidęs savo vė­

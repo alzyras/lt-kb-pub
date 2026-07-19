@@ -77,7 +77,7 @@ Nenurodyta
     O paskui mirė didysis Lietuvos ir Žemaičių kuni­
     gaikštis Kukovaitis, buvęs labai teisingas ir malonin­
     gas savo valdiniams. Ir savo įpėdiniu Lietuvos ir Že­
-    maičių kunigaikštystėje paliko savo sūnų Utenį2:l.
+    maičių kunigaikštystėje paliko savo sūnų Utenį2 :l.
     Tasai sūnus, mylėdamas savo tėvą, didįjį kunigaikštį
     Kukovaitį, savo tėvui atminti padirbo stabą ir pastatė
     jį prie Šventosios upės ant vieno kalno, netoli Deltuvos.

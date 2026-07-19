@@ -139,46 +139,6 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     - c-177069
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas nurodo, kad Rėza „Dainose“ gynė Lietuvos kronikininkus nuo XVIII a. kritikų priekaištų dėl išgalvotų vardų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iškiliojoje pusėje panaši žymė kaip III
-    lentelės 9-ajame piešinyje, tik prie jos kitokie ženklai ir dau­
-    giau taškų. 9-ojo piešinio aprašymą skaityk straipsnyje „Sta­
-    8 Dabar visi Lietuvos senovės tyrėjai įsitikina, kad mūsų kroniki­
-    ninkai rašė teisybę, kaip tai teisingai pažymi ponas Rėza “Dainose”
-    ir mato klaidingumą XVIII amžiaus kritikų darytų jiems priekaištų,
-    esą patys sugalvoję daugelio dievų ir garsių žmonių vardus.
-    9 Karamzin.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Narbutas nurodo, kad Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų viršuje sukreivintų lazdų paprotį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jau ir šiaip žinome, ir anksčiau sakėme, kad
-    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
-    8
-    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
-    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
-    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
-    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
-    430
-
-    ## Puslapis 430
-
-    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
-    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
-    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-006
   santrauka: 'Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10 10 Rėza.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -220,15 +180,14 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    aukštyn; priplaukę Dubysos žiotis, sužinojo apie orakulą,
-    esantį prie tos upės ištakų; džiaugdamiesi, kad rado kelią į
-    šią šventyklą, jie dainavo: Sze radom, čia radom; tai buvo prie­
-    žastis, dėl kurios vietovė buvo pavadinta Szeradzia, dabar
-    Seredžiaus (Seradnik) miestelis, trumpai lenkiškai - Šrednik.
-    Paplaukę visą mylią aukštyn Dubysa, su savo kareivija jie il­
-    sėjosi ant kranto ir, įsitaisę čia stovyklą, tarė: Czekiszkim zno-
-    ka, čia kiškim vėliavas. Taip atsirado Čekiškės (Czekiszki) pa­
-    vadinimas; dabar taip vadinamas miestelis.
+    Iškiliojoje pusėje panaši žymė kaip III
+    lentelės 9-ajame piešinyje, tik prie jos kitokie ženklai ir dau­
+    giau taškų. 9-ojo piešinio aprašymą skaityk straipsnyje „Sta­
+    8 Dabar visi Lietuvos senovės tyrėjai įsitikina, kad mūsų kroniki­
+    ninkai rašė teisybę, kaip tai teisingai pažymi ponas Rėza “Dainose”
+    ir mato klaidingumą XVIII amžiaus kritikų darytų jiems priekaištų,
+    esą patys sugalvoję daugelio dievų ir garsių žmonių vardus.
+    9 Karamzin.
   citata_rodoma: "Iškiliojoje pusėje panaši žymė kaip III\nlentelės 9-ajame piešinyje, tik prie jos kitokie ženklai ir dau­\ngiau taškų. 9-ojo piešinio aprašymą skaityk straipsnyje „Sta­\n8 Dabar visi Lietuvos senovės tyrėjai įsitikina, kad mūsų kroniki­\nninkai rašė teisybę, kaip tai teisingai pažymi ponas Rėza “Dainose”\nir mato klaidingumą XVIII amžiaus kritikų darytų jiems priekaištų,\nesą patys sugalvoję daugelio dievų ir garsių žmonių vardus.\n9 Karamzin."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -264,20 +223,20 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sis vyriausiųjų žynių sąrašo pasmerkimas yra
-    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
-    argumentų, vien kaip savo paties abejonę. Dabar peržvelkime
-    mūsų amžiaus kritiko argumentus.
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą - tai tiesa; per daug
-    užsidegęs katalikybės šalininkas - ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų - gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
+    Jau ir šiaip žinome, ir anksčiau sakėme, kad
+    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
+    8
+    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
+    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
+    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
+    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
+    430
+
+    ## Puslapis 430
+
+    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
+    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
+    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
   citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

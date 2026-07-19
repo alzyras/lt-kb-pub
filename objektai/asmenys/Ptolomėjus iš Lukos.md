@@ -58,11 +58,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Nustatyta, kad Dusburgiečio kronikos pagrindą sudarė metraščių žinios ir žinios apie
-    magistrus. I-oji kronikos dalis ištisai paremta rašytiniais šaltiniais. Tą patį, atrodo, galima
-    pasakyti apie tris ketvirtadalius II-os dalies ir beveik apie pusę III-os, pagrindinės dalies
-    pradžios (iki karo su Sventopelku pabaigos). Tik vienas ketvirtadalis kitų tos dalies skyrelių
-    (iki antrojo prūsų sukilimo pabaigos, t. y. iki 137 skyrelio) gali turėti tokį pagrindą.
+    Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus
+    bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.
+    pradžios įvykiais129.
   citata_rodoma: "Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus\nbibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.\npradžios įvykiais129."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

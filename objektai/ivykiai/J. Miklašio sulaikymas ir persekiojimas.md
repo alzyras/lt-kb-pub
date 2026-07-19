@@ -58,6 +58,37 @@ Nenurodyta
   pagrindžia:
     - c-184225
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'J. Miklašis, grįždamas į Maskoliją, buvo sulaikytas pasienyje po skundo, kad esąs neištikimas lenkiškiems politiniams idealams.'
+  šaltinis: Lenkai Lietuvoje Dr. J. Basanavičius
+  citata_originali: |
+    B et jau uż-
+    rubeżēje, susitikdam as su tulos patriotiškos spalvos
+    lenkais, jis buvo użsitraukęs ant savęs nuotartį, buk
+    * J. Miklašis
+
+    jis lenkiškiemsiems politiškiems idealams neištiki­
+    m as esąs ir iš prieżasties melagingo skundo jau ant
+    rubeżiaus, Maskolijon grįżtant, sulaikytas tapo.
+    Reikalas, żinoma, išsiaiškino, bet nuo to lengviaus
+    nepasidarē.
+    Kada jis użsimanē pritraukt prie sa­
+    vo użmanymo kelis turtingesnius ukininkus, ant jo
+    padaryta svarbią denunciaciją, buk jis „prieš val­
+    dżią maištan traukia ukininkus.”
+    Pateko po poli­
+    cijos prieżiura — tu lam laikui praējus vēl reikalas
+    išsiaiškino, bet persekiojimai iš lenkų pusēs bei
+    smulkios intrigos nesiliovē ir jis priverstas buvo
+    persikelt vidun Maskolijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
 ## Citatos
 
 - id: c-184225
@@ -66,7 +97,11 @@ Nenurodyta
   puslapiai: "PDF 38-39"
   indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 38-39."
   citata_originali: |
-    B et jau uż-
+    Vienas jaunas lietuvis*, išsimo­
+    kinęs tulą šaką techniškos chemijos speciališkuose
+    institutuos Vokietijos, Prancuzijos ir Anglijos,
+    Lietuvon sugrįżo, geisdam as u żsiimt labai naudin­
+    gu tu lam kraštui fabrikišku veiklumu. B et jau uż-
     rubeżēje, susitikdam as su tulos patriotiškos spalvos
     lenkais, jis buvo użsitraukęs ant savęs nuotartį, buk
     * J. Miklašis

@@ -110,10 +110,12 @@ Nenurodyta
   pagrindžia:
     - c-177028
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Aprašytas prūsų pilkapis turėjo akmenų aptvarą, žvaigždės pavidalo statinį ir pietų pusėje įrengtą vietą urnai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172742
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Aplink visą pilkapį ratu eina didokų
     akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
@@ -124,30 +126,6 @@ Nenurodyta
     menimis ir gerai apsaugota, kad urnos viduje niekas nesuges­
     tų. Angą į šį rūsį uždaro milžiniškas akmeninis skydas (žiūrėk
     VIII lentelės« raidę).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172742
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    kį iš plonų dalių, todėl neatpažįstamai surūdijusį; prie kojų,
-    žemiau blauzdų, stovėjo molinis indas - lėkštas dubenėlis ke­
-    turių colių skersmens, dviejų su puse colio gylio, beveik colio
-    storio, padarytas iš juodo deginto molio, viduje lygaus pavir­
-    šiaus, lyg padengto pokostu. Tai buvo ašarinė, pastatyta į kapą
-    su ašaromis, kurių laidojant priverkė raudotojos. Kaip man
-    pasakojo, panašių dubenėlių kartais rasdavo keliolikos pėdų
-    gylyje šalia žmonių kaulų. Kaukolės likučiai buvo pažaliavę
-    nuo metalo oksidacijos: matyt, mirusysis buvo su galvos ap­
-    dangalu, papuoštu vario arba sidabro gabaliukais; jų likučių
-    nepastebėjome.
   citata_rodoma: "Aplink visą pilkapį ratu eina didokų\nakmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­\ntinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­\nnų eilės, nukreiptos nuo viršūnės tiesiai į apačią. Vieta, kurio­\nje stovėdavo urna, beveik visuomet yra pietų pusėje, priešais\nugniaviete, skirtą deginti; vieta dailiai apdėta kyšančiais ak­\nmenimis ir gerai apsaugota, kad urnos viduje niekas nesuges­\ntų. Angą į šį rūsį uždaro milžiniškas akmeninis skydas (žiūrėk\nVIII lentelės« raidę)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

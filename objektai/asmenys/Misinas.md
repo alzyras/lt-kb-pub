@@ -95,18 +95,10 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vis dėlto
-    dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,
-    taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir
-    patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei
-    išlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o
-    ją pačią, pakišę ugnį, ligi pamatu sudegino.
-    266 (259). Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
-    1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe
-    brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias
-    pėdas; jomis nusekė su būreliu ginklanešių brolis Valteris, pravarde Goldinas, ir visus
-    išžudė, išskyrus vieną, kuris bėgdamas nusigavo iki brolio Henriko iš Vederės ir sunkiai
-    jį sužeidė, vis dėlto sulaukdamas deramo atkirčio, nes brolis Henrikas jį mirtinai sužeidė.
+    Tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė
+    Karaliaučiaus brolių arklius. Kiti, skersai ir išilgai daužydamiesi po žemę, žudė vokiečius,
+    jų moteris bei vaikus ėmė į nelaisvę, bet didelę pagarbą rodė bažnyčioms, bažnytiniams
+    sakramentams ir bažnyčių tarnams.
   citata_rodoma: "Tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė\nKaraliaučiaus brolių arklius. Kiti, skersai ir išilgai daužydamiesi po žemę, žudė vokiečius,\njų moteris bei vaikus ėmė į nelaisvę, bet didelę pagarbą rodė bažnyčioms, bažnytiniams\nsakramentams ir bažnyčių tarnams."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

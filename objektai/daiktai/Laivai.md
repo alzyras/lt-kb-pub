@@ -15,10 +15,6 @@ datos:
   - '1383 m.'
 date_start: '1160'
 date_end: '1383'
-variantai:
-  - 'Sieliai'
-aliases:
-  - 'objektai/daiktai/Sieliai'
 amziai:
   - 'XII'
   - 'XIV'
@@ -503,18 +499,23 @@ Nenurodyta
   santrauka: 'Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Šie, susirinkę labai daug savo valčių, stojo
-    į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
-    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
-    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    Sis sutriuškinimas buvęs toks ¡baisus,
     jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
     veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
     riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
+    Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
+    rios, turėjusi prie Rasytės susisiekimą su jūra. Pasakoji­
+    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
+    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
+    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
+    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
+    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
+    Onevu, perėjimą į priešo pusę.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -732,18 +733,13 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sis sutriuškinimas buvęs toks ¡baisus,
+    Šie, susirinkę labai daug savo valčių, stojo
+    į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
+    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
+    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
     jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
     veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
     riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
-    Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
-    rios, turėjusi prie Rasytės susisiekimą su jūra. Pasakoji­
-    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
-    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
-    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
-    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
-    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
-    Onevu, perėjimą į priešo pusę.
   citata_rodoma: "Šie, susirinkę labai daug savo valčių, stojo\nį mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su\nnedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas\nrusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,\njog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­\nveik iš naujo grumtis su sudužusiomis valtimis ir plūdu­\nriuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

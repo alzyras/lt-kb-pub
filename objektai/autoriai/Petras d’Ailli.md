@@ -8,16 +8,16 @@ datos:
   - '1425 m.'
 date_start: '1350'
 date_end: '1425'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dvasininkas
   - autorius
+amziai:
+  - 'XIV'
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -84,23 +84,6 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
   pagrindžia:
     - c-179136
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspausdintu kardinolo Petro d’Ailli veikalu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
-    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
-    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
-    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
-    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
-    1425 metų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173223
@@ -108,17 +91,12 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šie
-    mitai jokiu būdu netaikomi Ledos dvyniams Kastorui ir Poliuk-
-    sui, kaip tai mėginta įrodyti.
-    Šios nuomonės klaidingumas atsirado dėl to, kad šitaip ma­
-    nė kronikininkas Belskis, kuriam tikriausiai pirmiau už Lato­
-    ną atėjo į galvą Ledos vardas, panašesnis į Ladą, žinomą Lėlio
-    ir Polėlio motinos vardu.
-    Tyrėjams stokojant kritiškumo, ta klaida išplito panašiai
-    kaip mūsų mitologų spėjimas; kai kurie iš mūsų deivės Lados
-    daro graikų Venerą arba egiptiečių Izidę, o iš jos dvynių Lėlių
-    vadina Kupidonu, o Polėlių - Himenėju.
+    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
+    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
+    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
+    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
+    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
+    1425 metų.
   citata_rodoma: "16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-\nmchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum\ncl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­\nnarum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro\nd’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki\n1425 metų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -10,13 +10,13 @@ datos:
   - '1928 m.'
 date_start: '1801'
 date_end: '1928'
-amziai:
-  - 'XIX'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Tarasenka P. Lietuvos archeologijos medžiaga
 
 ## Santrauka
@@ -69,18 +70,6 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   pagrindžia:
     - c-61642
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61642
@@ -110,8 +99,7 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    С. А. Аннинский. — М.—Л., 1938.
-    Грушевский М. Хронольопя подïй Галицько-волинськоï лïтописи.
+    Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928.
   citata_rodoma: "Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

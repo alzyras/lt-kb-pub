@@ -86,26 +86,6 @@ Nenurodyta
   pagrindžia:
     - c-173908
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Nerono pasiųstas kilmingas romėnas po metų grįžo į Romą, o reginio reikmenys, Narbuto pasakojimu, spindėjo pargabentu gintaru.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Daugiau smulkmenų apie
-    šią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į
-    Romą. Pasaulio sostinę didžiai nustebino neregėta pra­
-    banga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto­
-    jų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio
-    metu naudoti reikmenys spindėjo gintaru. Tarp daugelio
-    retų egzempliorių matytas vienas gintaro gabalas, svėręs
-    13 romėniškų svarų, arba apie pusę dešimties mūsų sva­
-    rų2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173908
@@ -138,23 +118,18 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Solinas pabrėžia šią detalę, sakydamas, kad tas gin-
-    laras buvęs tenykščio karaliaus dovanotas ir svėręs 13
-    1 Plin.
-    Lib.
-    IV.
-    C.
-    12.
-    2 Vidit enim eques Romanus missus ad id compar atidų m a Ju­
-    liana curante gladiatorium mumis Neronis principis, qui haec com-
-    mercis (prekybos kelio pozicijos) ei littora peragravit, tanta copia
-    investa, ut retta arcendis feris podium protegentia succinis nodaren-
-    lur, arma vero et Ubitina totusque unius àtei apparatus esset e
-    succino.
+    Daugiau smulkmenų apie
+    šią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į
+    Romą. Pasaulio sostinę didžiai nustebino neregėta pra­
+    banga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto­
+    jų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio
+    metu naudoti reikmenys spindėjo gintaru. Tarp daugelio
+    retų egzempliorių matytas vienas gintaro gabalas, svėręs
+    13 romėniškų svarų, arba apie pusę dešimties mūsų sva­
+    rų2.
   citata_rodoma: "Daugiau smulkmenų apie\nšią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į\nRomą. Pasaulio sostinę didžiai nustebino neregėta pra­\nbanga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto­\njų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio\nmetu naudoti reikmenys spindėjo gintaru. Tarp daugelio\nretų egzempliorių matytas vienas gintaro gabalas, svėręs\n13 romėniškų svarų, arba apie pusę dešimties mūsų sva­\nrų2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

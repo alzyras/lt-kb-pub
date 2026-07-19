@@ -160,6 +160,44 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - susijęs iš Vilnius: Liepos 19-20 d. Vilnių ir jo apylinkes gynė apie 4 tūkst. kovotojų su 13 artilerijos pabūklų.
 - susijęs iš [[objektai/zodynas/autonominis vienetas.md#claim-t-02958|autonominis vienetas]]: Klaipėdos kraštas prie Lietuvos valstybės buvo priskirtas suteikiant jam autonominį režimą.
 - susijęs iš [[objektai/zodynas/komtūras.md#claim-t-182848|komtūras]]: Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vėliau,
+    sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
+    nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
+    įgulą ir išgabeno vertingiausius daiktus; priešas, už­
+    ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­
+    drįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės
+    komtūras, ieškodamas progos karui ar pataikaudamas,
+    kaip priduria senieji rašytojai, kažkokiam iš Vienos
+    kilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­
+    tą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­
+    munu prieš srovę į Lietuvą, ir jau buvo bepraplaukią
+    Kolainių pilį, Surmino iš naujo atstatytą. Surminas,
+    degdamas visuotine neapykanta ir kęsdamas skausmą
+    dėl neseniai patirtų nuostolių, baisiai širdo, kad prie­
+    šas kuo ramiausiai jo akyse plaukioja, tačiau atvirai
+    nieko negalėjo padaryti, nes
+    K a rin iu v y liu m i pa-
+    šie, atokiau nuo kranto plau-
+    im a m a s
+    k ry žiu o č ių
+    kdami,
+    buvo
+    nepasiekiami
+    la iv a s
+    nei ietimis, nei strėlėmis, o
+    jis pats neturėjo nė vieno di­
+    desnio laivo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-168732
@@ -191,7 +229,13 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vėliau,
+    J 63
+
+    ## Puslapis 162
+
+    kariuomene skuba lietuviai, norėdami pralaužti apsup­
+    tį, jie ėmė šaukti, kad štai čia pat priešas, metė supę
+    pilį ir galvotrūkčiais leidosi bėgti prie laivų. Vėliau,
     sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
     nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
     įgulą ir išgabeno vertingiausius daiktus; priešas, už­
@@ -202,22 +246,7 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
     kilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­
     tą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­
     munu prieš srovę į Lietuvą, ir jau buvo bepraplaukią
-    Kolainių pilį, Surmino iš naujo atstatytą. Surminas,
-    degdamas visuotine neapykanta ir kęsdamas skausmą
-    dėl neseniai patirtų nuostolių, baisiai širdo, kad prie­
-    šas kuo ramiausiai jo akyse plaukioja, tačiau atvirai
-    nieko negalėjo padaryti, nes
-    K a rin iu v y liu m i pa-
-    šie, atokiau nuo kranto plau-
-    im a m a s
-    k ry žiu o č ių
-    kdami,
-    buvo
-    nepasiekiami
-    la iv a s
-    nei ietimis, nei strėlėmis, o
-    jis pats neturėjo nė vieno di­
-    desnio laivo.
+    Kolainių pilį, Surmino iš naujo atstatytą.
   citata_rodoma: "J 63\n\n## Puslapis 162\n\nkariuomene skuba lietuviai, norėdami pralaužti apsup­\ntį, jie ėmė šaukti, kad štai čia pat priešas, metė supę\npilį ir galvotrūkčiais leidosi bėgti prie laivų. Vėliau,\nsužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-\nnas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies\nįgulą ir išgabeno vertingiausius daiktus; priešas, už­\nėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­\ndrįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės\nkomtūras, ieškodamas progos karui ar pataikaudamas,\nkaip priduria senieji rašytojai, kažkokiam iš Vienos\nkilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­\ntą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­\nmunu prieš srovę į Lietuvą, ir jau buvo bepraplaukią\nKolainių pilį, Surmino iš naujo atstatytą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

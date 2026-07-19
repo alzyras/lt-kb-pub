@@ -8,13 +8,13 @@ datos:
   - '1237 m.'
 date_start: '1236'
 date_end: '1237'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - mūšis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -150,32 +150,6 @@ Nenurodyta
   pagrindžia:
     - c-63627
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: '263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.
-      264  Žr. paaiškinimus D. II, 12, 182.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
-    su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus
-    dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas
-    po kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-63627
@@ -212,22 +186,8 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Daug laiko sugaiščiau ir vargu ar sugebėčiau dėl savo menkų gabumų deramai
-    papasakoti, kaip veržliai ir šauniai, kaip sumaniai bei ryžtingai minėtasis magistras ir
-    broliai nelyginant antrieji Makabėjai stojo į kovą, daugindami ir plėsdami krikščionių
-    gyvenamas žemes, puldami priešus ir griaudami jų tvirtoves; jų kovas bei pergales
-    šventoji bažnyčia minės iki pasaulio pabaigos. Kai gailestingojo dievo padedami, jie
-    pastatė Kristaus garbei ir šlovei visas minėtąsias pilis, kai visos kaimyninės gentys
-    nulenkė prieš tikėjimą ir brolius savo kietuosius sprandus, suprantama, prieš tai atkakliai
-    pasipriešinusios ir praliejusios nemaža krikščionių kraujo, kai Kristaus tikėjimas pradėjo
-    tose žemėse vešliai tarpti, žmonių giminės priešas, senasis šliužas ir nuodingasis slibinas,
-    nebegalėdamas daugiau pakęsti šitokio tikėjimo suklestėjimo bei tikinčiųjų padaugėjimo,
-    matydamas, kad Prūsijos žemėje įsigali šventoji bažnyčia, didėja pagarba dievui, netikėliai
-    trempiami, o krikščionys aukštinami, kad atsinaujina ženklai ir pasikartoja stebuklai,
-    pradėjo nelyginant mirtinai sužeistas giliai įstrigusia ietimi ieškoti visokiausių priemonių
-    ir griebtis įvairiausių gudrybių, trokšdamas paslapčiomis suleisti savo nuodingą geluonį,
-    sutrypti viešpaties vynuogyną ir viešpaties lauke prisėti raugių. Galop štai šiuo būdu jis
-    sukėlė žiauriausią tikėjimo ir tikinčiųjų persekiojimą.
+    263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.
+      264  Žr. paaiškinimus D. II, 12, 182.
   citata_rodoma: "263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.\n  264  Žr. paaiškinimus D. II, 12, 182."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -240,11 +200,10 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Autorius buvo aprašomų įvykių liudytojas (Hartmanas įstojo į Ordiną apie
-    1234 m.). „Pranešimas... kaip rodo jo pradžia, parašytas didžiojo magistro Hartmano
-    (1273—1282 m.) valdymo laikotarpiu — magistro kanceliarijoje ir jo įsakymu, juo
-    siekiama įtvirtinti Ordino tradiciją tarp pačių Ordino brolių, o galbūt ir tarp atvykstančių
-    talkininkų.
+    Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
+    su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus
+    dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas
+    po kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje.
   citata_rodoma: "Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė\nsu Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus\ndvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas\npo kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

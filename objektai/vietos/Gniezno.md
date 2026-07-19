@@ -36,22 +36,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 
 ## Teiginiai
 
-<a id="claim-t-94046"></a>
-- t-001
-  teiginys: "Daukanto aprašytame sausumos kelyje į Romą Cydova minima greta Gniezno."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gniezno: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gniezno\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-89256
-
 <a id="claim-t-94047"></a>
 - t-002
   teiginys: "1415 m. į Konstanciją siųstoje Lietuvos ir Lenkijos vyskupų delegacijoje dalyvavo Gniezno arkivyskupas Mikalojus."
@@ -180,11 +164,9 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   citata_rodoma: "vežė didžiomis upėmis, beje: Isla, Nemunu,\nDaugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą\nper tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų\n(Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Ryšiai
-- Turėjo priklausinį: [[objektai/vietos/Vilniaus vyskupija]]
+- Turėjo priklausinį: Vilniaus vyskupija

@@ -60,16 +60,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-195375"></a>
-- t-003
-  teiginys: "Prieš priesaiką dar būdavo atsisveikinama su degtine."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177792
-
 <a id="claim-t-195376"></a>
 - t-002
   teiginys: "Pasakotoja teigia, kad blaivystė daug padėjo bendruomenei ir jos vyras nustojo gerti."
@@ -91,15 +81,7 @@ Nenurodyta
   puslapiai: "p. 99 (PDF 97)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 99 (PDF 97)."
   citata_originali: |
-    Tiek tik teprašome
-    Dievą, kad to turto mums neatimtų.
-    — Didžiausios kalbos eina iš pavydo, — ėmė sakyti dabar Puti-
-    nienė, — kai užvydi mergelei, tai ir avižėlė patvory prašneka, atsi­
-    randa ir šiaudinės pagalvės ir viskas, o kai paskui išeina už vyro, ir
-    atsiranda gera, tai ir viskas nutilsta.
-    Blaivystė daug sugelbėjo svie­
-    tui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas
-    žmogus.
+    Blaivystė daug sugelbėjo svie­tui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas žmogus.
   citata_rodoma: "Blaivystė daug sugelbėjo svie­tui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas žmogus."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
@@ -115,21 +97,10 @@ Nenurodyta
   puslapiai: "p. 99 (PDF 97)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 99 (PDF 97)."
   citata_originali: |
-    Blaivystė daug sugelbėjo svie­
-    tui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas
-    žmogus.
-    Užsižadėdamas net juokų pridirbo.
-    Kai ryto eisme pri­
-    siekti, o šiandien sumanė padaryti degtinei
-    užgavėnes:
-    parsinešė
-    kelias bonkas degtinės, žinoma, kad užtektų, parsikvietė du kaimynu,
-    ir geria tą degtinę, vis ją keikdami.
+    Kai ryto eisme pri­siekti, o šiandien sumanė padaryti degtinei užgavėnes: parsinešė kelias bonkas degtinės...
   citata_rodoma: "Kai ryto eisme pri­siekti, o šiandien sumanė padaryti degtinei užgavėnes: parsinešė kelias bonkas degtinės..."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003

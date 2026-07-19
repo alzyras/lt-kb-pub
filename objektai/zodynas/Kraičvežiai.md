@@ -65,12 +65,12 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
 <a id="claim-t-195627"></a>
 - t-001
   teiginys: "Kraičvežiai šiame šaltinyje yra du su pastote atvykstantys kraičio vežėjai."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-07-19 19:43"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-178029
+    - c-178028
 - susijęs iš [[objektai/zodynas/Plunksnų pirkliai.md#claim-t-195628|Plunksnų pirkliai]]: Kraičvežiai šiame šaltinyje juokais vadinasi plunksnų pirkliais.
 ## Citatos
 
@@ -95,6 +95,7 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-001
 
 - id: c-178029
   autorius: "M. Katkus"
@@ -115,5 +116,3 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

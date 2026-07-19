@@ -9,6 +9,8 @@ datos:
   - '1316 m.'
 date_start: '1314'
 date_end: '1316'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,8 +18,6 @@ tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -185,6 +185,47 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   pagrindžia:
     - c-178865
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1316 m. Ragainės broliai Medininkų valsčiuje sudegino du kaimus, išžudė vyrus, o moteris ir vaikus paėmė į nelaisvę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    sugužėję netikėliai pro jį ne kartą praėjo, bet jo nepamatė nelyginant dievo apakinti.
+    Galop nusikamavę jie liovėsi ieškoję, po to šis krikščionis su visais savo ginklais atėjo į
+    Ragainę, įėjęs į bažnyčią, parpuolė ant kelių ir padėkojo dievui bei švenčiausiajai mergelei
+    už jam suteiktą šitokią malonę.
+    334 (327). Apie Junigedos papilio sudeginimą
+    Tais pačiais metais, švento Mato, apaštalo, dieną (rugsėjo 21) tas pats maršalas su
+    didele kariuomene atžygiavo į lauką, vardu Kaišai577, ir tūkstantis penki Šimtai rai telių,
+    palikę arklius, pėsčiomis po brolių vėliava per ėjo mišką, vardu Vintas578; apyaušryje,
+    kai ryžosi slaptai priartėti prie Junigedos pilies ir ją paimti, įspėti pilėnai užkūrė ugnį ir
+    dūmais pranešė kaimyniniams stabmeldžiams, kad čia pat brolių kariuomenė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: '1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių ir paėmė ar nukovė 200 žmonių.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
+    bet taip pat nieko nepešė, nes jos vedliai pasiklydo. Galop visa kariuomenė susirinko į
+    vieną daiktą ir patraukė namo.
+    333 (326). Apie vieną įvykį 1317 metais
+    Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno
+    šuoliais leidosi į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai
+    jis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei
+    savo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų
+    ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
+    pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo
+    atvykęs, patraukė į Ragainę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-58985
@@ -215,16 +256,14 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    sugužėję netikėliai pro jį ne kartą praėjo, bet jo nepamatė nelyginant dievo apakinti.
-    Galop nusikamavę jie liovėsi ieškoję, po to šis krikščionis su visais savo ginklais atėjo į
-    Ragainę, įėjęs į bažnyčią, parpuolė ant kelių ir padėkojo dievui bei švenčiausiajai mergelei
-    už jam suteiktą šitokią malonę.
-    334 (327). Apie Junigedos papilio sudeginimą
-    Tais pačiais metais, švento Mato, apaštalo, dieną (rugsėjo 21) tas pats maršalas su
-    didele kariuomene atžygiavo į lauką, vardu Kaišai577, ir tūkstantis penki Šimtai rai telių,
-    palikę arklius, pėsčiomis po brolių vėliava per ėjo mišką, vardu Vintas578; apyaušryje,
-    kai ryžosi slaptai priartėti prie Junigedos pilies ir ją paimti, įspėti pilėnai užkūrė ugnį ir
-    dūmais pranešė kaimyniniams stabmeldžiams, kad čia pat brolių kariuomenė.
+    Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
+
+      Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
+    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
+    vietoje pasalą, įsiveržė  [į  jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
+    moteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
+    200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie
+    pasileido bėgti ir šitaip išsigelbėjo.
   citata_rodoma: "Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais\n\n  Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su\naštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje\nvietoje pasalą, įsiveržė  [į  jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o\nmoteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami\n200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie\npasileido bėgti ir šitaip išsigelbėjo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -286,17 +325,13 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
-    bet taip pat nieko nepešė, nes jos vedliai pasiklydo. Galop visa kariuomenė susirinko į
-    vieną daiktą ir patraukė namo.
-    333 (326). Apie vieną įvykį 1317 metais
-    Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno
-    šuoliais leidosi į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai
-    jis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei
-    savo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų
-    ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
-    pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo
-    atvykęs, patraukė į Ragainę.
+    Apie Medininkų valsčiaus apiplėšimą 1316 metais
+
+      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
+    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
+    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
+    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
+    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais.
   citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

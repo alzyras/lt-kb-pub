@@ -133,55 +133,51 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - c-179166
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas nurodo Stenderio pastabą, kad latviai turėjo deivę Dyžą arba Dyszą, kuri savybėmis atitikusi Pergrubę.'
+- c-001
+  santrauka: 'Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
-    gėlių ir vaismedžių sodas.
-    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
-    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
-    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
+    Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
+    dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
+    eina Bubbulis -  paims, pagriebs“. Jį taip pat vadino Tiimpus,
+    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
+    buvo paprastas girtuoklių globėjo epitetas. Kadangi to dievo
+    L
+    99
+
+    ## Puslapis 99
+
+    stabas ar kažkoks keistas jo atvaizdas per jo šventę, švenčiamą
+    vasario mènes j, buvo vežiojamas rogėmis iš kaimo j kaimą, o
+    lietuvių kalba rogės vadinamos Ragutas, todėl tinkamiausia
+    būtų išvada, kad ir tas dievas Ragutis plačiausiai buvo vadina­
+    mas vardu, kilusiu iš to žodžio.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Narbutas prie Pušaičio, požemio dievaičio ir barstukų vyriausiojo, aprašymo nurodo Stenderio „Lettische Grammatik“.'
+  statusas: verified
+- c-007
+  santrauka: 'Frydrichas Stenderis buvo paskutiniais savo smukimo metais, šito aiškiai nemini, kadangi šis seniausias religijos sluoksnis jau labai seniai virto Titanų giminės garbinimu, su kuriuo priviso įvairių dievų, kuriuos aprašyti buvo ankstesnių skyrių ir dar bus kitų šio 23 Stender.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Pušaitis (Puschajtis)
-    Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
-    vadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16
-    16 Stender, Lettische Grammatik.
-    179
+    Šito liekanas pastebime lietuvių mitologijoje. Tiesa,
+    kronikininkai, aprašinėjantys lietuvių genties tautų religiją, ko­
+    kia ji buvo paskutiniais savo smukimo metais, šito aiškiai ne­
+    mini, kadangi šis seniausias religijos sluoksnis jau labai seniai
+    virto Titanų giminės garbinimu, su kuriuo priviso įvairių die­
+    vų, kuriuos aprašyti buvo ankstesnių skyrių ir dar bus kitų šio
+    23 Stender. Lettische Grammatik,
+    184
 
-    ## Puslapis 179
+    ## Puslapis 184
 
-    po alyvų krūmais.
+    „Lietuvių tautos istorijos“ pirmojo tomo skyrių uždavinys.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Narbutas rašo, kad Stenderis barstukų vardą kildino iš latviškų žodžių „Berhns“ ir „Stuhke“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jiems nusilenkdavo pats Pušaitis, prašydamas
-    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
-    jus nuo nelaimingų žmonių engimo.
-    Barstukai (Barstuki)
-    Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
-    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
-    ke -  lėlė.
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172876
@@ -210,16 +206,11 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Švento Jono, Kalėdų, Švenčiau­
-    siosios mergelės į dangų ėmimo šventės, vadinamos Žolinės
-    atlaidais, proga neša pašventinti žoles, daržoves, vaisius ir juos
-    laiko, kad saugotų namus nuo piktų dvasių; jų dūmais nuveja­
-    mos šalin kai kurios ligos, atnešamos blogų vėjų, krušos ir žai­
-    bų debesys, tokių žolių ryšelis įnirusiems įdedamas į pagalvę
-    ir atliekami įvairūs kerėjimai, kurie yra senųjų Pergrubės gar­
-    binimo apeigų liekanos.
-    Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
-    pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
   citata_rodoma: "Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -234,13 +225,15 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
-    pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
-    teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
-    kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
-    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
-    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
-    garbinamas Pušaitis ir barstukai18“.
+    Pušaitis (Puschajtis)
+    Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
+    vadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16
+    16 Stender, Lettische Grammatik.
+    179
+
+    ## Puslapis 179
+
+    po alyvų krūmais.
   citata_rodoma: "Pušaitis (Puschajtis)\nPožemio dievaitis, engiamų vargšų gynėjas, nykštukų,\nvadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16\n16 Stender, Lettische Grammatik.\n179\n\n## Puslapis 179\n\npo alyvų krūmais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -253,14 +246,13 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Rytojaus dieną ūkininkai žiūri, kurio valgio dau­
-    giau suvalgyta: jeigu duonos, vadinasi, dievaičiai pagausins
-    jiems javų; jeigu mėsos, - seksis su gyvulių prieaugliu ir 1.1.; o
-    to valgio, kuris jiems buvo gardžiausias, per kitas šventes de­
-    da daugiau, negu buvo per ankstesnes, prašydami, kad pagau­
-    sintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
-    kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
-    ir neša tiems, kurie jiems geresni.
+    Jiems nusilenkdavo pats Pušaitis, prašydamas
+    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
+    jus nuo nelaimingų žmonių engimo.
+    Barstukai (Barstuki)
+    Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
+    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
+    ke -  lėlė.
   citata_rodoma: "Jiems nusilenkdavo pats Pušaitis, prašydamas\nkaimiečių vardu, idant markopoliai sulaikytų savo garbinto­\njus nuo nelaimingų žmonių engimo.\nBarstukai (Barstuki)\nPožemio dievaičiai, nykštukai. Tą vardą Stenderis išveda\niš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-\nke -  lėlė."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -49,38 +49,18 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   pagrindžia:
     - c-174053
 
-<a id="claim-t-191172"></a>
-- t-002
-  teiginys: "Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnus, keliavusius per Dneprą ir alanų kraštą pas Saporą."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-174820
-
 <a id="claim-t-191938"></a>
 - t-003
   teiginys: "Narbutas agazirus tapatina su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Amianas Marcelinas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Amianas Marcelinas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
-    - c-174820
+    - c-174053
 
 <a id="claim-t-197708"></a>
 - t-004
@@ -107,26 +87,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     - c-174820
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai apsigyveno Vyslos ir Nemuno tarpupyje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Į
-    vakarus, pasak Jordano, keliavę tie alanai, kurie anks­
-    čiau gyveno Panonijoje, o iš ten kartu su vandalais jie
-    turėjo bėgti nuo gotų, kuriuos vijo hunai; taip drauge su
-    jais už Pirėnų atsidūrė ir dalis gotų.
-    48
-    Pagaliau dar vienas alanų būrys persikėlė į šiaurės
-    vakarus, j Vandaliją; kai kurie, kaip teigia Arnianas
-    Marcelinas2, apsigyveno Vyslos ir Nemuno tarpupyje. Tą
-    patį tvirtina ir Ptolemėjas, aprašinėjęs tą europinę Sar­
-    matijos dalį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnus, keliavusius per Dneprą ir alanų kraštą pas Saporą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -172,22 +132,17 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Mechovita sako: „Hunų iš­
-    vyti iš Panonijos alanai užpuolė Romos respubliką, pas­
-    kui Galiją, o iš ten, kaip teigia istorikai, grįžo į lenkišką
-    Vandaluos kraštą, kur gyveno net iki Stilikono laikų; be
-    to, iš kai kurių stebėjimų daromos išvados, kad jie at­
-    sinešę labai daug sidabro su užrašais ir imperatoriaus
-    Adriano atvaizdu“3. Tai neginčijamai įrodo, jog alanai
-    beveik šimtą metų gyvenę tarp Mazovijos ir tikrosios Lie­
-    tuvos, kurios gamtines sienas sudarė Pelesos, Katros ir
-    Jezioro upės, besidriekiančios nuo Katros vidurupio iki
-    Pervalko, netoli Nemuno, žemiau Gardino esančio mies­
-    telio. Taip alanų klajonių vietos galėjo driektis nuo Pra-
-    vožos kairiąja Pelesos pakrante per Sokulką už Gardino
-    iki Mazovijos, siekdamos Lietuvos, arba senovės Stava-
-    nijos, sienas, o į pietus užimti dalį slavų teritorijos, vė­
-    1 Editio Boxhorn, 1632.
+    Į
+    vakarus, pasak Jordano, keliavę tie alanai, kurie anks­
+    čiau gyveno Panonijoje, o iš ten kartu su vandalais jie
+    turėjo bėgti nuo gotų, kuriuos vijo hunai; taip drauge su
+    jais už Pirėnų atsidūrė ir dalis gotų.
+    48
+    Pagaliau dar vienas alanų būrys persikėlė į šiaurės
+    vakarus, j Vandaliją; kai kurie, kaip teigia Arnianas
+    Marcelinas2, apsigyveno Vyslos ir Nemuno tarpupyje. Tą
+    patį tvirtina ir Ptolemėjas, aprašinėjęs tą europinę Sar­
+    matijos dalį.
   citata_rodoma: "Į\nvakarus, pasak Jordano, keliavę tie alanai, kurie anks­\nčiau gyveno Panonijoje, o iš ten kartu su vandalais jie\nturėjo bėgti nuo gotų, kuriuos vijo hunai; taip drauge su\njais už Pirėnų atsidūrė ir dalis gotų.\n48\nPagaliau dar vienas alanų būrys persikėlė į šiaurės\nvakarus, j Vandaliją; kai kurie, kaip teigia Arnianas\nMarcelinas2, apsigyveno Vyslos ir Nemuno tarpupyje. Tą\npatį tvirtina ir Ptolemėjas, aprašinėjęs tą europinę Sar­\nmatijos dalį."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -196,6 +151,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-003
 
 - id: c-174054
   autorius: "Teodoras Narbutas"
@@ -251,6 +207,4 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-003
     - t-005

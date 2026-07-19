@@ -66,15 +66,10 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai viena gražiausių prūsų provincijų,
-    esanti palankioje vietoje, tinkamoje gyvulininkystei, jai
-    priklausė ir pradingęs Vitlandijos kraštas, įtvirtinti Bai­
-    gos, Purverės, šiandien Heilsbergo, Glotau ir kiti miestai.
-    Rytuose ji ribojosi su Natangija ir Barta, pietuose — su
-    Galinda ir Hokerlandija, vakaruose — su Hokerlandija
-    ir Pagude, šiaurėje buvo Baltijos jūra. Šioje provincijoje
-    gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš
-    labiausiai civilizuotų ir mažiausiai karingi.
+    Pavadinimą galbūt davė gentys,
+    kurios buvo vadinamos varinais; lietuvių kalba tai reiš­
+    kia piemenį, t. y. nuo žodžio Warikt, varyti, ginti gyvu­
+    lius, ganyti*.
   citata_rodoma: "Pavadinimą galbūt davė gentys,\nkurios buvo vadinamos varinais; lietuvių kalba tai reiš­\nkia piemenį, t. y. nuo žodžio Warikt, varyti, ginti gyvu­\nlius, ganyti*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

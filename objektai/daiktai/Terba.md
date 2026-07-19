@@ -66,12 +66,13 @@ Nenurodyta
 <a id="claim-t-195300"></a>
 - t-003
   teiginys: "Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177667
+    - c-177673
 
 <a id="claim-t-195301"></a>
 - t-001
@@ -87,26 +88,6 @@ Nenurodyta
 - t-005
   teiginys: "ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
   atnaujinta: "2026-07-12 01:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177670
-
-<a id="claim-t-195303"></a>
-- t-002
-  teiginys: "Šienapjūtėje terbos vartojamos maistui vežti į pievas."
-  atnaujinta: "2026-07-12 01:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177673
-
-<a id="claim-t-195304"></a>
-- t-004
-  teiginys: "Elgetavimo pasakojimuose terba ir terbelė yra nešulys maistui rinkti; vienu atveju išskiriama šikšninė terba su pasaitu."
-  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -147,8 +128,7 @@ Nenurodyta
   puslapiai: "p. 134 (PDF 132)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 134 (PDF 132)."
   citata_originali: |
-    Oho, bakanai tokie, kad boba vos suvaldo.
-    Atriekia griežinį, yra ko į terbą dėti. Kelis kiemus pereini — jau ter-
+    Kelis kiemus pereini — jau ter­
     ba pilna.
   citata_rodoma: "Kelis kiemus pereini — jau ter­\nba pilna."
   statusas: verified
@@ -163,11 +143,7 @@ Nenurodyta
   puslapiai: "p. 52 (PDF 50)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 52 (PDF 50)."
   citata_originali: |
-    šinis — tai paldieniai, ir mažutė medinė dėžutė su druskos žiupsneliu.
-    Piemuo nusilupo kiaušinį ir visą sykiu sukimšo į nasrus.
-    Piemuo, su­
-    valgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į
-    mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“ .
+    Piemuo, suvalgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“.
   citata_rodoma: "Piemuo, suvalgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
@@ -231,7 +207,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-004
 
 - id: c-177671
   autorius: "M. Katkus"
@@ -290,7 +265,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-177674
   autorius: "M. Katkus"

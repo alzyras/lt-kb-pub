@@ -206,26 +206,14 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vė­
-    liau persikėlęs su kariuomene per Dneprą, į atvirą lau­
-    ką antpuoliais išviliojo kitą priešų kariuomenės vadą
-    Jurijų Dolgorukį (kuris su savo pulkais laikėsi prie
-    Basios upės veikiau iš baimės nei iš saugumo), kai šis
-    išdrįso išsirikiuoti kovai, ir sunaikino jo visą kavaleri­
-    ją.
-    Darau trumpas išvadas.
-    o) S palio 8 d.
-    Už visa tai, ką sugrįžęs į Tė­
-    vynę, radai Lietuvoje išsau­
-    gota ir atstatyta, tikrai už viską turime visi pirmiausia
-    dėkoti Tavo Tėvui, jam bus dėkingos ir busimosios
-    kartos, kurios teisėtai jį amžiais vadins Tėvynės Tėvu.
     Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty­
     bei, taip pat Tavo senelio Jono Sapiegos, pelniusio
     trisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius
     plačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo
     tarpu, kai Tu ėmeisi rūpintis valstybe, kuri buvo sus-
     2 9 8
+
+    ## Puslapis 297
 
     tiprinta ir padidinta dėl puikių Tavo protėvių sumany­
     mų ir žygių, norėjau Sapiegų šeimos šlovę trumpai,

@@ -63,29 +63,6 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
   pagrindžia:
     - c-174064
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašo, kad Augusto valdymo metais geografijos tyrinėjimas pažengė, o Augustas pats rašė geografijos traktatus, rinko žinias ir pasitelkė matematikus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kai kartaginietis
-    pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
-    rodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats
-    prarado savo laivą ir pražudė savo seklį, tačiau buvo už
-    lai saviškių dosniai apdovanotas1.
-    175
-    Ilgo imperatoriaus Augusto valdymo metais geografi­
-    jos tyrinėjimas padarė geroką pažangą: šis Romos val­
-    dovas pats rašė traktatus apie geografiją, iš visur rinko
-    žinias, pasitelkė matematikus2. Taigi nėra abejonių, kad
-    valstybės valdžia turėjo tam tikrų tikslių žinių apie jūras
-    ir kraštus, esančius į šiaurę nuo Elbės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174064
@@ -121,19 +98,18 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taigi nėra abejonių, kad
+    Kai kartaginietis
+    pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
+    rodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats
+    prarado savo laivą ir pražudė savo seklį, tačiau buvo už
+    lai saviškių dosniai apdovanotas1.
+    175
+    Ilgo imperatoriaus Augusto valdymo metais geografi­
+    jos tyrinėjimas padarė geroką pažangą: šis Romos val­
+    dovas pats rašė traktatus apie geografiją, iš visur rinko
+    žinias, pasitelkė matematikus2. Taigi nėra abejonių, kad
     valstybės valdžia turėjo tam tikrų tikslių žinių apie jūras
-    ir kraštus, esančius į šiaurę nuo Elbės. Tuo tarpu moksli­
-    ninkams šios žinios veikiausiai buvo neprieinamos. Ant­
-    rajame krikščioniškosios eros amžiuje Dionyzas iš Cha-
-    rakso dar nemokėjo deramai pažymėti Aldesko ir Panti-
-    kapo upių tėkmės. Jis sakė, kad jų versmės nežinomos, gal
-    ištekančios iš Ritėjų kalnų, be to, jis teigė, kad antra
-    šiauresnė už pirmą, o jų vandenys susisiekia su Baltijos
-    jūra. į šiaurę Europa yra susiaurėjusi. Šie pasakiški, t. y.
-    Rifėjų, kalnai skyrė į rytus tekančius Volgos, Dono, Dnep-
-    ro vandens baseinus nuo Dauguvos, Nemuno, Vyslos ir
-    kitų upių, bėgančių į vakarus3.
+    ir kraštus, esančius į šiaurę nuo Elbės.
   citata_rodoma: "Kai kartaginietis\npamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­\nrodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats\nprarado savo laivą ir pražudė savo seklį, tačiau buvo už\nlai saviškių dosniai apdovanotas1.\n175\nIlgo imperatoriaus Augusto valdymo metais geografi­\njos tyrinėjimas padarė geroką pažangą: šis Romos val­\ndovas pats rašė traktatus apie geografiją, iš visur rinko\nžinias, pasitelkė matematikus2. Taigi nėra abejonių, kad\nvalstybės valdžia turėjo tam tikrų tikslių žinių apie jūras\nir kraštus, esančius į šiaurę nuo Elbės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

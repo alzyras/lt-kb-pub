@@ -39,51 +39,6 @@ Frazė užfiksuota T. Narbuto pirmojo tomo leidimo įvadinėje, recepcinėje arb
 
 Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartojama kaip neutrali istorinė išvada.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Posakis „Sukūrimas tautinės mitologijos“ cituojamas kaip bendro patriotinio reikalo grandis, kai mitologija laikyta tautinės kultūros dalimi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    (Taip, pavyzdžiui, Stanislovo
-    Stašico žodžiais buvo nusakomi Varšuvos mokslo bičiulių drau­
-    gijos tikslai1 2.) O kaip viena iš svarbiausių sudedamųjų tauti­
-    nės kultūros dalių buvo suprantama mitologija. „Sukūrimas
-    tautinės mitologijos“ beveik visose šalyse „buvo viena iš ben­
-    dro patriotinio reikalo grandžių“3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171029
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šios masoniškos draugijos, susispietusios apie sa­
-    tyrinį laikraštį „Wiadomošci Brukowe“ (1816-1822), nariai bu­
-    vo pasirinkę pseudonimus iš senovės lietuvių mitologijos (pvz.,
-    Perkūnas, Poklus, Wajžgantos) ir privalėjo rinkti medžiagą apie
-    mitinius personažus, kurių vardais buvo pasivadinę, kad tuo
-    prisidėtų prie sudarymo lietuvių mitologijos, kuri su laiku ga­
-    lėtų būti draugijos išleista4. Mitinio personažo Palemono var­
-    du buvo pasivadinusi Raseinių masonų lošė5. Susidomėjimas
-    lietuvių mitologija plito tarp Vilniaus universiteto studentų ir
-    profesorių, nors jo rektorius Jonas Sniadeckis ir piktinosi jau­
-    nųjų lenkų romantikų susižavėjimu senaisiais tikėjimais, sak­
-    1 Maciūnas L Lituanistinis sąjūdis XIX a. pradžioje.
-  citata_rodoma: "(Taip, pavyzdžiui, Stanislovo\nStašico žodžiais buvo nusakomi Varšuvos mokslo bičiulių drau­\ngijos tikslai1 2.) O kaip viena iš svarbiausių sudedamųjų tauti­\nnės kultūros dalių buvo suprantama mitologija. „Sukūrimas\ntautinės mitologijos“ beveik visose šalyse „buvo viena iš ben­\ndro patriotinio reikalo grandžių“3."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189599"></a>
@@ -105,3 +60,25 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171029
+
+## Citatos
+
+- id: c-171029
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    (Taip, pavyzdžiui, Stanislovo
+    Stašico žodžiais buvo nusakomi Varšuvos mokslo bičiulių drau­
+    gijos tikslai1 2.) O kaip viena iš svarbiausių sudedamųjų tauti­
+    nės kultūros dalių buvo suprantama mitologija. „Sukūrimas
+    tautinės mitologijos“ beveik visose šalyse „buvo viena iš ben­
+    dro patriotinio reikalo grandžių“3.
+  citata_rodoma: "(Taip, pavyzdžiui, Stanislovo\nStašico žodžiais buvo nusakomi Varšuvos mokslo bičiulių drau­\ngijos tikslai1 2.) O kaip viena iš svarbiausių sudedamųjų tauti­\nnės kultūros dalių buvo suprantama mitologija. „Sukūrimas\ntautinės mitologijos“ beveik visose šalyse „buvo viena iš ben­\ndro patriotinio reikalo grandžių“3."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

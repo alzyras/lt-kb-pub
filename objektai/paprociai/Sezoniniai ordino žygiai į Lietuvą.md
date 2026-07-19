@@ -9,13 +9,13 @@ datos:
   - '1382 m.'
 date_start: '1345'
 date_end: '1382'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
   - karinė-praktika
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -95,12 +95,9 @@ Nenurodyta
   pagrindžia:
     - c-05430
 
-## Citatos
-
-- id: c-05428
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Smulkūs teriojimai iš ordino žemių nuolat buvo kartojami.
     Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.
@@ -108,6 +105,37 @@ Nenurodyta
     terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedi­
     deli kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir
     rečiau lietuvių apgyventose vietose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tad parankiau buvo siųsti mažesnius dalinius, kuriuos ir priešui
+    buvo sunkiau persekioti.
+    Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
+    mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
+    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-05428
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.
+    Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
+    terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedideli
+    kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir rečiau
+    lietuvių apgyventose vietose.
   citata_rodoma: "Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.\nIšsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais\nterminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedideli\nkariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir rečiau\nlietuvių apgyventose vietose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
@@ -122,11 +150,9 @@ Nenurodyta
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Tad parankiau buvo siųsti mažesnius dalinius, kuriuos ir priešui
-    buvo sunkiau persekioti.
-    Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
-    mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
-    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
+    Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos mėnesiais prieš atlydį.
+    O vasaros žygis buvo ruošiamas apie rugpiūčio vidurį, skubant jį užbaigti prieš
+    rudens darganas ir liūtis.
   citata_rodoma: "Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos mėnesiais prieš atlydį.\nO vasaros žygis buvo ruošiamas apie rugpiūčio vidurį, skubant jį užbaigti prieš\nrudens darganas ir liūtis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"

@@ -167,19 +167,15 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras,
-    ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo
-    pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami
-    pakliuvo į jų pasalas, ir visi, apimti baimės, iš karto pasitraukė, tačiau kelyje patyrė tiek
-    pavojų, kad retas kuris namo sugrįžo sveikas ir gyvas.
-    338 (331). Apie maršalo, 29 brolių ir daugybės sembų žūtį
-    1320 viešpaties metų liepos 27 dieną, tai yra trečią dieną po švento Jokūbo, apaštalo,
-    dienos, brolis Henrikas, maršalas, atžygiavo su 40 brolių bei Sembos ir Klaipėdos
-    raiteliais į Medininkų valsčių; kai priekiniai būriai perėjo, kaip reikalauja karo papročiai,
-    per šią žemę ir ją nusiaubė, degindami ir piešdami, šio valsčiaus stabmeldžiai, iš anksto
-    pasirengę kovai, narsiai užpuolė tuos, kurie buvo po vėliava; abiem šalims netekus
-    daugybės [karių] užmuštaisiais, galop jie nukovė brolį Henriką, maršalą, 29 brolius bei
-    daugybę paprastų žmonių.
+    Apie vieną įvykį 1317 metais
+
+      Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno
+    šuoliais leidosi  į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai
+    jis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei
+    savo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų
+    ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
+    pavedė save dievo bei švenčiausiosios mergelės globai  ir tuo pat keliu, kuriuo buvo
+    atvykęs, patraukė  į Ragainę.
   citata_rodoma: "Apie vieną įvykį 1317 metais\n\n  Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno\nšuoliais leidosi  į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai\njis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei\nsavo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų\nir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,\npavedė save dievo bei švenčiausiosios mergelės globai  ir tuo pat keliu, kuriuo buvo\natvykęs, patraukė  į Ragainę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -192,19 +188,11 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
-    na
-    Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,
-    ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,
-    ne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti
-    Prūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai
-    dėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,
-    kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo
-    keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį
-    ir ją iš pamatų sugriovė.
-    259 (252). Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
-    Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei
-    ginklanešiais jis daug kartų šlovingai kariavo su lietuviais.
+    Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
+    priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis
+    Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;
+    užvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems
+    pavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.
   citata_rodoma: "Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai\npriėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis\nKonradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;\nužvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems\npavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -81,26 +81,6 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   pagrindžia:
     - c-179287
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Pasak Narbuto, Hartknochas pateikė žinių apie prie Baltijos jūros gyvavusius padavimus dėl tenykščių genčių, ypač prūsų, ištakų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pažvelgę tyrinėtojo žvilgsniu į
-    lietuvių senovės paminklus, visur aptinkame pėdsakų ir
-    padavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­
-    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
-    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
-    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
-    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
-    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
-    atvykusius į prūsų kraštus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174593
@@ -129,17 +109,15 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
+    Pažvelgę tyrinėtojo žvilgsniu į
+    lietuvių senovės paminklus, visur aptinkame pėdsakų ir
+    padavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­
+    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
+    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
+    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
     tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
     mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
-    atvykusius į prūsų kraštus. Po jo keli kronikininkai teigė
-    tą patį, visada remdamiesi vietiniais stebėjimais, kurie
-    visada jiems patvirtindavo giminingumą su heleniškomis
-    kartomis. Kiti, paremdami savo prielaidas kalbos pana­
-    šumu, su didžiausiu pasitikėjimu įsikibo padavimų, kal­
-    bančių apie tokią kilmę. Kilęs iš Prūsijos Vilichijus, ko­
-    mentavęs Tacitą, labiausiai tikina, jog lietuviai yra kilę
-    iš graikų, nes galėjo su jais susikalbėti jų kalba4.
+    atvykusius į prūsų kraštus.
   citata_rodoma: "Pažvelgę tyrinėtojo žvilgsniu į\nlietuvių senovės paminklus, visur aptinkame pėdsakų ir\npadavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­\nteikia žinių, jog prie Baltijos jūros amžių amžiais buvo\nžinomi padavimai apie tenykščių genčių, ypač prūsų, iš­\ntakas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­\ntu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­\nmu, rašo apie makedonus, po Aleksandro Didžiojo mirties\natvykusius į prūsų kraštus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

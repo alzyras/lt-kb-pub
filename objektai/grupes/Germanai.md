@@ -185,22 +185,21 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   santrauka: 'Narbutas aiškina, kad prekybos kelias per germanų žemes galėjo veikti dėl svetingumo papročių arba tam tikrų susitarimų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Tokį pat nuotolį nuo Vys­
-    los žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad
-    prekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­
-    bikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės
-    religijos pašventintais svetingumo papročiais ar tam tik­
-    rais šiuo pagrindu sudarytais susitarimais.
-    *  ¥  *
-    III skyrius
-    S E N O V Ė S  Ž I N I Ų  T Ę S I N Y S
-    171
-    Sausumos atradimai.
+    Sausumos atradimai. Iš imperatoriaus Augusto valdy­
+    mo Romos valstybėje epochos išliko geografijos—istorijos
+    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
+    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
+    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
+    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
+    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
+    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
+    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
+    te, vėliau pavadintame Prūsija, stebėjimus.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -229,16 +228,17 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sausumos atradimai. Iš imperatoriaus Augusto valdy­
-    mo Romos valstybėje epochos išliko geografijos—istorijos
-    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
-    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
-    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
-    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
-    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
-    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
-    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
-    te, vėliau pavadintame Prūsija, stebėjimus.
+    Tokį pat nuotolį nuo Vys­
+    los žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad
+    prekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­
+    bikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės
+    religijos pašventintais svetingumo papročiais ar tam tik­
+    rais šiuo pagrindu sudarytais susitarimais.
+    *  ¥  *
+    III skyrius
+    S E N O V Ė S  Ž I N I Ų  T Ę S I N Y S
+    171
+    Sausumos atradimai.
   citata_rodoma: "Tokį pat nuotolį nuo Vys­\nlos žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad\nprekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­\nbikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės\nreligijos pašventintais svetingumo papročiais ar tam tik­\nrais šiuo pagrindu sudarytais susitarimais.\n*  ¥  *\nIII skyrius\nS E N O V Ė S  Ž I N I Ų  T Ę S I N Y S\n171\nSausumos atradimai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -10,13 +10,13 @@ datos:
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -96,20 +96,6 @@ Nenurodyta
   pagrindžia:
     - c-177013
 
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Mat jiems patikėdavo saugoti brangiuosius metalus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­
-    vusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat
-    jiems patikėdavo saugoti brangiuosius metalus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-14298
@@ -156,15 +142,9 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taigi čia aiškus
-    tiktai dviejų žodžių sutapimas dviejose viena kitai svetimose
-    kalbose. Lietuviai, artimesni prūsams,krzywy\adincLKreiwas -
-    iš slavų kalbos, o kiti, kaip antai mano užkampiečiai, turi tam
-    tikslui liaudišką žodį „nukrypęs“ (Nukripis) . Taigi neneigda­
-    mi, kad vaitų lazdas vadino krivūlėmis (Krywuli) ir kad galbūt
-    panašiomis lazdomis naudojosi ir žemesnieji kriviai, nekildin­
-    sime jų pavadinimo iš slaviško žodžio, pasiskolinto tik vienoje
-    provincijoje.
+    Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­
+    vusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat
+    jiems patikėdavo saugoti brangiuosius metalus.
   citata_rodoma: "Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­\nvusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat\njiems patikėdavo saugoti brangiuosius metalus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

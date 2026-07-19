@@ -49,11 +49,11 @@ Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \ o 
     Karalius Jogaila ir didysis kunigaikštis Vytautas, su
     savo kariuomenėmis perėję per miškus, priėjo tuos
     Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
-    didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo
-    etmonu 5 — ponas Spytka Spytkovičius 6. O Vytauto ka­
+    didžiuoju etmonu buvo ponas Sokolas Čekas \  o kiemo
+    etmonu 5  — ponas Spytka Spytkovičius 6 . O Vytauto ka­
     riuomenėje didžiuoju etmonu buvo kunigaikštis Jonas
-    2adivydas7, Jogailos ir Vytauto brolis8, o kiemo et­
-    monu — ponas Jonas Goštautas9.
+    2adivydas7 , Jogailos ir Vytauto brolis8 , o kiemo et­
+    monu — ponas Jonas Goštautas9 .
   citata_rodoma: "Karalius Jogaila ir didysis kunigaikštis Vytautas, su \nsavo kariuomenėmis perėję per miškus, priėjo tuos \nDubrovnos laukus. Tuo metu Jogailos kariuomenėje \ndidžiuoju etmonu buvo ponas Sokolas Čekas \\  o kiemo \netmonu 5  — ponas Spytka Spytkovičius 6 . O Vytauto ka­\nriuomenėje didžiuoju etmonu buvo kunigaikštis Jonas \n2adivydas7 , Jogailos ir Vytauto brolis8 , o kiemo et­\nmonu — ponas Jonas Goštautas9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:59"

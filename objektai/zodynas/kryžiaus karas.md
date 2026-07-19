@@ -9,14 +9,14 @@ datos:
   - '1261 m.'
 date_start: '1253'
 date_end: '1261'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karinis-terminas
   - religinis-terminas
   - sąvoka
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -137,12 +137,9 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   pagrindžia:
     - c-167726
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66880|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.
-## Citatos
-
-- id: c-05568
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tiesa, neį­
     žengiamos lietuvių miškų zonos prie stepių pripratusiems totorių
@@ -150,6 +147,35 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     Dar apie 1253 m. totorių invazijos pavojus baimino vokiečių ordiną
     Prūsuose. 1254 m. pradžioje buvo skelbiamas ordinui apginti prieš
     totorius kryžiaus karas^143.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Čekijos karalių^145 ir Brandenburgo markgrafą ragino į kryžiaus žygį
+    prieš totorius. Paskutiniajam popiežius rašė, jog totoriai esą nute­
+    rioję didesnę Lietuvos dalį^146.
+    Kaip tik pradžioje tų lemtingų 1260 metų, kada rudenį — po
+    Durbės kautynių — visas Pabaltijys sukils prieš vokiečių ordiną,
+    popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus
+    karo žygiui prieš totorius^147.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-05568
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1254 m. pradžioje buvo skelbiamas ordinui apginti prieš totorius kryžiaus karas.
   citata_rodoma: "1254 m. pradžioje buvo skelbiamas ordinui apginti prieš totorius kryžiaus karas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
@@ -164,13 +190,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Čekijos karalių^145 ir Brandenburgo markgrafą ragino į kryžiaus žygį
-    prieš totorius. Paskutiniajam popiežius rašė, jog totoriai esą nute­
-    rioję didesnę Lietuvos dalį^146.
-    Kaip tik pradžioje tų lemtingų 1260 metų, kada rudenį — po
-    Durbės kautynių — visas Pabaltijys sukils prieš vokiečių ordiną,
-    popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus
-    karo žygiui prieš totorius^147.
+    popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus karo žygiui prieš totorius.
   citata_rodoma: "popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus karo žygiui prieš totorius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"

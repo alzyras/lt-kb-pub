@@ -61,10 +61,12 @@ Nenurodyta
   pagrindžia:
     - c-172511
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis pirmuosius sutiktus lietuvius siejo su žalčių garbinimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172511
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tokiu pačiu būdu buvo pastatyti ir
     stulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno
@@ -78,30 +80,6 @@ Nenurodyta
     31
     Lietuvoje būta dviejų Jeronimų Prahiškių -  apie tai užsimena
     ir Cackis (O prawach.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172511
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Jeronimas pasijuokė iš jų nai­
-    vumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė,
-    mėnuo ir žvaigždės yra Dievo kūriniai, kuriais aukščiausiasis
-    Dievas papuošė dangų ir įsakė jiems amžinai šviesti žmonėms.
-    Paskui aptiko šventąjį mišką; kuris jo medis buvo didesnis, tas
-    buvo laikomas labiau garbintinas. Čia Jeronimas ilgai mokė
-    žmones, aiškino jiems šventąsias tikėjimo paslaptis, o mišką
-    liepė iškirsti. Žmonėms atėjus su kirviais, neatsirado nė vie­
-    no, kuris būtų išdrįsęs prisiliesti geležimi prie šventojo me­
-    džio. Todėl Jeronimas, pagriebęs kirvį, pirmas nukirto vieną iš
-    aukščiausių medžių.
   citata_rodoma: "Tokiu pačiu būdu buvo pastatyti ir\nstulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno\nkrantus*.\n„Keistas dalykas, kaip smarkiai tarp miestų gyventojų ir\nvisoje Lietuvoje buvo paplitęs prietaringas netikrų dievų gar­\nbinimas, kol ji priėmė Kristaus tikėjimą ir jo garbinimą. Mat\nJeronimas Prahiškis, kurį Lenkijos karalius Vladislovas Jogaila\nbuvo nusiuntęs į Lietuvą plėsti krikščionių tikėjimo, rašo” , jog\npirmieji lietuviai, pas kuriuos jis atvykęs, garbinę žalčius: 31\n31\nLietuvoje būta dviejų Jeronimų Prahiškių -  apie tai užsimena\nir Cackis (O prawach."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

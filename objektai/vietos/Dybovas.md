@@ -7,13 +7,13 @@ datos:
   - '1258 m.'
 date_start: '1258'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - šventvietė
   - vieta
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,47 +32,6 @@ media_all_json: |-
 ## Santrauka
 
 Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su didžiuliu ąžuolu buvo gerai įtvirtinta dėl artimos sienos.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su didžiuliu ąžuolu buvo gerai įtvirtinta dėl artimos sienos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai buvo 1258 metais“ .
-    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
-    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
-    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
-    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
-    toje vietoje įkūrė Senąją Torunę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171882
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
-    prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­
-    nasi, skersmuo buvo beveik devynios uolektys!); paliudyti tai
-    ir išduoti matų pažymėjimą gali gerbiamoji Vėluvos miesto
-    taryba; aš pats turiu šito įrodym iĮ su tos tarybos antspaudu.
-    Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
-    jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
-    išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
-  citata_rodoma: "Tai buvo 1258 metais“ .\nDybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­\nlas arba šventykla, savo viduryje turėjusi neapsakomo didumo\nąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai\npaėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,\ntoje vietoje įkūrė Senąją Torunę."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -100,3 +59,24 @@ Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su 
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189971|Kristoforas Hartknochas]]: Pasak Narbuto cituojamo Hartknocho, kryžiuočiai užėmė šventąją vietą Dybove ir ten įkūrė Senąją Torunę.
 - susijęs iš [[objektai/daiktai/Dybovo šventyklos aptvaras.md#claim-t-189720|Dybovo šventyklos aptvaras]]: Narbutas Dybovo šventyklą prie Torunės aprašė kaip senovės prūsų šventą ąžuolą su dideliu ąžuolu viduryje ir stipriu aptvaru.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188302|Prūsai]]: Narbutas rašo, kad Dybove prie Torunės buvo senovės prūsų šventasis ąžuolas arba šventykla, kurią paėmę kryžiuočiai ten įkūrė Senąją Torunę.
+## Citatos
+
+- id: c-171882
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Tai buvo 1258 metais“ .
+    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
+    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
+    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
+    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
+    toje vietoje įkūrė Senąją Torunę.
+  citata_rodoma: "Tai buvo 1258 metais“ .\nDybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­\nlas arba šventykla, savo viduryje turėjusi neapsakomo didumo\nąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai\npaėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,\ntoje vietoje įkūrė Senąją Torunę."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

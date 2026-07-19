@@ -62,18 +62,22 @@ Nenurodyta
   pagrindžia:
     - c-169880
 
-<a id="claim-t-196790"></a>
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir, šėtonui pakursčius,
+    Levas prisiminė, kad Vaišvilko tėvas ir pats Vaišvilkas
+    yra žiauriai kenkę Rusų žemėms ir jam pačiam. Ir štai
+    čia pat, švento Mykolo vienuolyne, jį nužudė*. Ir
+    taip pasibaigė Romos kunigaikščio Palemono giminė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - t-002
-  teiginys: "Lietuvos metraštis vaizduoja, kad Levas, šėtono pakurstytas ir prisiminęs Vaišvilko žalą Rusų žemėms, nužudė Vaišvilką švento Mykolo vienuolyne."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-169880
 
 ## Citatos
 
@@ -82,11 +86,10 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir, šėtonui pakursčius,
-    Levas prisiminė, kad Vaišvilko tėvas ir pats Vaišvilkas
-    yra žiauriai kenkę Rusų žemėms ir jam pačiam. Ir štai
-    čia pat, švento Mykolo vienuolyne, jį nužudė*. Ir
-    taip pasibaigė Romos kunigaikščio Palemono giminė.
+    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
+    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
+    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
+    savo valdovo sūnų didžiai džiaugdamasi.
   citata_rodoma: "Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į \nNaugarduką, ten pasiėmė su savimi naugardukiečius ir \nparvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko \nsavo valdovo sūnų didžiai džiaugdamasi."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -95,4 +98,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

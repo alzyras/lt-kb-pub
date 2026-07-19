@@ -96,13 +96,13 @@ Nenurodyta
   citata_originali: |
     Jau metai laiko nūnai, kai kunigaikštis [Jogailai
     Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
-    visą mano tėviškę mano akivaizdoje6. Man tai buvo
+    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
     labai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­
     čiui Jogailai ir mačiau aiškiai, kad aš čia ničnieko ne­
     galėjau padaryti ir negalėjau nieku būdu tų privilegijų
     nusimesti. Ir aš prašiau kunigaikštį Jogailą raštų bei
     privilegijų dėl tų žemių, kurias jis man buvo davęs,
-    dėl rusų žemės7, kuri buvo priklausiusi Liubartui",
+    dėl rusų žemės7 , kuri buvo priklausiusi Liubartui" ,
     kad aš ją galėčiau pasilaikyti.
   citata_rodoma: "Jau metai laiko nūnai, kai kunigaikštis [Jogailai \nLiublino pilyje užrašė kunigaikščiui Skirgailai raštais \nvisą mano tėviškę mano akivaizdoje6 . Man tai buvo \nlabai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­\nčiui Jogailai ir mačiau aiškiai, kad aš čia ničnieko ne­\ngalėjau padaryti ir negalėjau nieku būdu tų privilegijų \nnusimesti. Ir aš prašiau kunigaikštį Jogailą raštų bei \nprivilegijų dėl tų žemių, kurias jis man buvo davęs, \ndėl rusų žemės7 , kuri buvo priklausiusi Liubartui\" , \nkad aš ją galėčiau pasilaikyti."
   statusas: verified

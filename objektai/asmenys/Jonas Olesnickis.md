@@ -9,16 +9,16 @@ datos:
   - '1390 m.'
 date_start: '1390'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -194,6 +194,37 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   pagrindžia:
     - c-168101
 
+## Reikšmingi paminėjimai
+- c-007
+  santrauka: 'Jonas Olesnickis nutarė pulti priešą, kol šis dar nebuvo tinkamai sutvirtinęs stovyklos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Olesniakis, sudeginęs papilyje
+    namus, priėmė visą prastuomenę į Žemutinės pilies ap­
+    tvarą, pačią pilį sustiprino visokiausiais įtvirtinimais.
+    Vytautas, puoselėdamas gražiausias viltis, vedėsi di­
+    džiules
+    jėgas, aprūpintas visokiausiais apgulai reika­
+    lingais įtaisais, kurios žygiavo sausuma ir plaukė prieš
+    srovę Nemunu bei Nerimi; negaišdami laiko smulkiems
+    išpuoliams, jie traukė prie pat žygio tikslo, prie Vilniaus,
+    kurį ir apsupo. Vokiečių pul-
+    V iln ių apsupa, O les-
+    kai, puikuodamiesi savo gin-
+    n ick is
+    sė k m in g a i
+    jį
+    klais ir didžiuodamiesi žy­
+    ginei
+    giais, įkūrė stovyklą sudegin­
+    to miesto griuvėsiuose prie­
+    šais šv.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-78904
@@ -345,26 +376,12 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Olesniakis, sudeginęs papilyje
-    namus, priėmė visą prastuomenę į Žemutinės pilies ap­
-    tvarą, pačią pilį sustiprino visokiausiais įtvirtinimais.
-    Vytautas, puoselėdamas gražiausias viltis, vedėsi di­
-    džiules
-    jėgas, aprūpintas visokiausiais apgulai reika­
-    lingais įtaisais, kurios žygiavo sausuma ir plaukė prieš
-    srovę Nemunu bei Nerimi; negaišdami laiko smulkiems
-    išpuoliams, jie traukė prie pat žygio tikslo, prie Vilniaus,
-    kurį ir apsupo. Vokiečių pul-
-    V iln ių apsupa, O les-
-    kai, puikuodamiesi savo gin-
-    n ick is
-    sė k m in g a i
-    jį
-    klais ir didžiuodamiesi žy­
-    ginei
-    giais, įkūrė stovyklą sudegin­
-    to miesto griuvėsiuose prie­
-    šais šv.
+    Mergelės Marijos bažnyčią, plačioje aikštėje.
+    Olesnickis, gerai žinodamas, kad pirmieji karo žingsniai
+    lemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų
+    savųjų narsumo, palikdamas vokiečių akiplėšišką karin­
+    gumą nesutramdytą. Todėl, neilgai laukęs, nutarė pulti
+    priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
   citata_rodoma: "Mergelės Marijos bažnyčią, plačioje aikštėje.\nOlesnickis, gerai žinodamas, kad pirmieji karo žingsniai\nlemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų\nsavųjų narsumo, palikdamas vokiečių akiplėšišką karin­\ngumą nesutramdytą. Todėl, neilgai laukęs, nutarė pulti\npriešą, kol dar tas kaip reikiant nesutvirtino stovyklos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

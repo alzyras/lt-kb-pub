@@ -133,25 +133,6 @@ Nenurodyta
     - c-173889
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas vertino, kad Darijui nepavykęs žygis prieš skitus paveikė Skitijos vidaus sąlygas ir artino ją prie žlugimo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Dėl įvairių trūkumų
-    reikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo
-    atėjusi. Galop išdidžiam monarchui buvo laimė persikelti
-    su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
-    pastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­
-    taip persai būtų jį neišvengiamai visiškai sutriuškinę1.
-    40
-    Darijui nepavyko įveikti skitų, bet šis žygis turėjo
-    didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­
-    tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 - c-005
   santrauka: 'Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -176,7 +157,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-173889
@@ -234,25 +214,16 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ponas Eichvaldas, buvusio Vilniaus universiteto, o vėliau —
-    Vilniaus
-    medicinos-chirurgijos
-    akademijos
-    profesorius, „Dorpater
-    Jahrbuch“ paskelbė savo straipsnį apie Darijaus žygį prieš skitus
-    pavadinimu „Darijus, Histapo sūnus, Pinsko apylinkėse“, Jis, remda­
-    masis Herodoto ir Ktesijaus, o ypač pirmojo, kuris paliko budinu ša­
-    lies aprašymą, duomenimis, daro išvadą, jog lai turėjusi būti dabar­
-    tinė Polesė. Tą išvadą jis grindžia šiandienine topografine šios že­
-    mės padėtimi, Herodoto minimais upių pavadinimais bei kitomis
-    smulkmenomis, leidžiančiomis taip manyti
-    ir
-    įžvelgti
-    panašumą.
-    Eichvaldo hipotezės esmė būtų tokia: Darijus žygiavo kairiuoju Dnesl-
-    ro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių
-    Voluinės, Minsko ir Lietuvos gubernijų, o atgal grįžo dešiniąja Dnest-
-    ro pakrante.
+    Dėl įvairių trūkumų
+    reikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo
+    atėjusi. Galop išdidžiam monarchui buvo laimė persikelti
+    su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
+    pastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­
+    taip persai būtų jį neišvengiamai visiškai sutriuškinę1.
+    40
+    Darijui nepavyko įveikti skitų, bet šis žygis turėjo
+    didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­
+    tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo.
   citata_rodoma: "Dėl įvairių trūkumų\nreikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo\natėjusi. Galop išdidžiam monarchui buvo laimė persikelti\nsu likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats\npastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­\ntaip persai būtų jį neišvengiamai visiškai sutriuškinę1.\n40\nDarijui nepavyko įveikti skitų, bet šis žygis turėjo\ndidelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­\ntent nuo to laiko ji aiškiai ėmė artėti prie žlugimo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

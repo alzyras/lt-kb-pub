@@ -183,35 +183,41 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   santrauka: 'Narbutas rašo, kad D. Poškai buvo žinomi S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ ir spėta, jog Poška galėjo juos persirašyti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Manoma, kad tuo metu jau buvo parašyti
-    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
-    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
-    persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
-    rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
-    metų ir nebuvo.
+    Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
+    tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­
+    džiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
+    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
+    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
+    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
+    timi.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Teodoro Narbuto vertinimu, Dionizo Poškos 1829 m. straipsnis apie Lietuvos ir Žemaičių istorijos rašymą buvo literatūrinis testamentas.'
+  statusas: verified
+- c-005
+  santrauka: 'Dionizas Poška, tyrinėdamas herulus ir hirius, vardijo Žemaitijos vietovardžius kaip ženklus, kad ten kadaise gyveno ta lietuvių gentis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Bene geriausiai ją
-    apibūdina 1829 metais „Dziennik Warszawski“ išspaus­
-    dintas Dionizo Poškos straipsnis „Keletas įžanginių žo­
-    džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is­
-    toriją“2. Jis parašytas metai prieš mirtį, todėl jį drįstume
-    laikyti tam tikru literatūriniu testamentu. Straipsnio pa­
-    vadinimas tarsi byloja, jog autoriui visų pirma rūpėjo
-    duoti nurodymus ar patarimus visiems, kurie imsis ra­
-    šyti lietuvių tautos istoriją.
+    Dobrom).
+    2 Dionizas Paškevičius, tyrinėdamas herulus ir hirius, vardija Že­
+    maitijoje esančius vietovardžius, kurie rodo, jog ten kadaise gyveno
+    toji lietuvių gentis. Be čia paminėtų, jis nurodo ir tokius: Girkantiš-
+    kė, Girkontiszki, Girdiškė, Girdyszki, Girdučiai, Girducie, Girdutlau-
+    266
+
+    ## Puslapis 277
+
+    do, turėjo būti senovės miestas Jurbarkas, nors jo įkūri­
+    mą Strijkovskis sieja su Borkaus laikais.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -285,16 +291,12 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
-    tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­
-    džiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­
-    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
-    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
-    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
-    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
-    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
-    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
-    timi.
+    Manoma, kad tuo metu jau buvo parašyti
+    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
+    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
+    persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
+    rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
+    metų ir nebuvo.
   citata_rodoma: "Manoma, kad tuo metu jau buvo parašyti\nS. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai\nbuvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo\npersirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­\nrytum pastangų parašyti lietuvių tautos istoriją iki pat 1829\nmetų ir nebuvo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -60,12 +60,10 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
   pagrindžia:
     - c-177301
 
-## Citatos
-
-- id: c-174997
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Teodoras Narbutas, remdamasis Vergilijumi, gelonų kumelės pieno vartojimą siejo su rūgusiu pienu, maišytu su arklių krauju.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Tą sveiką gyvulinės kilmės
     produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
@@ -76,6 +74,22 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
     gilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
     gasis gelonas bėga į Rodopų kalnus arba getų dykumas
     ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-174997
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Vergilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
+      gasis gelonas bėga į Rodopų kalnus arba getų dykumas
+      ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
   citata_rodoma: "Vergilijus apie tokį kumelės pieno vartojimą rašė: „Karin­\n  gasis gelonas bėga į Rodopų kalnus arba getų dykumas\n  ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

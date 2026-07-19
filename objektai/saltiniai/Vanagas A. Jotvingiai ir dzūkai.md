@@ -7,12 +7,12 @@ datos:
   - '1979 m.'
 date_start: '1979'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,38 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad vanagas A.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'A. Vanago straipsnis „Jotvingiai ir dzūkai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1979 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61974
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    191—197.
-    Мажюлис В. О связях литовско-латышского с другими древнебалтийскими
-    диалектами. — Проблемы этногенеза и этнической истории балтов: Тезисы докладов,
-    В., 1981, с.
-  citata_rodoma: "Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -84,3 +52,20 @@ Dusburgietis teigia, kad vanagas A.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidinį ir metus."
   pagrindžia:
     - c-61974
+
+## Citatos
+
+- id: c-61974
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36.
+  citata_rodoma: "Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

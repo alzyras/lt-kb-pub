@@ -231,89 +231,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - susijęs iš [[objektai/zodynas/Dangaus kūnų sudievinimas.md#claim-t-189147|Dangaus kūnų sudievinimas]]: Narbutas lietuvių mitologijoje saulę ir mėnulį laikė svarbiausiais dangaus kūnais, kurių vaikais aiškino kitus dangaus kūnus.
 - susijęs iš [[objektai/zodynas/Daugiadievystė.md#claim-t-189221|Daugiadievystė]]: Narbutas rašė, kad graikai, iš egiptiečių perėmę dalį dangaus kūnų ir Titanų giminės garbinimo, išvystė malonesnę daugiadievystę.
 - susijęs iš [[objektai/zodynas/Miškas su kovarniais.md#claim-t-189313|Miškas su kovarniais]]: Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes kovarniai lizdus krauna aukštuose medžiuose tankiose ar nuošaliose vietose.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado kitokių polinkių žmones.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tokia pat dvasia gyveno dau­
-    gybė senųjų Azijos tautų.
-    Prieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai
-    pradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai
-    rado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti
-    visose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­
-    zacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­
-    zuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais
-    80
-
-    ## Puslapis 80
-
-    pakilo siekti šviesos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Narbutas aiškino, kad egiptiečiai prie iš chaldėjų perimto dangaus kūnų garbinimo pridėjo nemirtingais laikytų asmenų dievinimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Egiptiečiai, giliai nugrimz­
-    dę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie
-    dangaus kūnų garbinimo, tuoj pat perimto iš chaldėjų, pridė­
-    jo asmenų, laikytų nemirtingais, dievinimą. Pagaliau dėl dau-
-    Antilucretius. - L. 9. - V. 897.
-    83
-
-    ## Puslapis 83
-
-    gybės savo žynių smulkmeniškiausių svarstymų jie ėmė laikyti
-    dievybėmis menkiausius daiktus -  net taip, kad tie išminčiai
-    įsakė vargšams žmonėms keliaklupsčiauti prieš žvėris, paukš­
-    čius, šliužus, augalus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Narbutas rašė, kad egiptiečiai turėjo Kamefius, o Georgi juos siejo su japonų Kami ir slavų Tryzna.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
-    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
-    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
-    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
-    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
-    slavų Tryzną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-007
-  santrauka: 'Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
-    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
-    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
-    randame nuolat minimus miškus: kartais kalbama apie mišką
-    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
-    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
-    kiausiame miške ar nuošaliausiose vietose.
-    Šventyklos
-    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
-    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
-    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
-    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
-    kalnai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-10063
@@ -339,19 +256,19 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Visa tai,
-    sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
-    tą valdyti pasaulį, - tautą, kuriai buvo lemta tapti pavyzdžiu
-    tolimiausiems ainiams ir kuri tarytum šešėlis dingo nuo pa­
-    saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
-    jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
-    žyniai.
-    Pamąstykime dabar apie pražūtingas senovės tautų tiky­
-    bos klaidas, pradėdami nuo daugiadievystės išpažinimo.
-    Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­
-    mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
-    kad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­
-    vai išrado tai, ką mes vadiname proto religija.
+    Tokia pat dvasia gyveno dau­
+    gybė senųjų Azijos tautų.
+    Prieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai
+    pradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai
+    rado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti
+    visose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­
+    zacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­
+    zuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais
+    80
+
+    ## Puslapis 80
+
+    pakilo siekti šviesos.
   citata_rodoma: "Tokia pat dvasia gyveno dau­\ngybė senųjų Azijos tautų.\nPrieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai\npradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai\nrado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti\nvisose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­\nzacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­\nzuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais\n80\n\n## Puslapis 80\n\npakilo siekti šviesos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -366,17 +283,19 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuviai turėjo eiti į daugiadievystę tuo pačiu keliu, nes
-    dėl vienodų padarinių galima spėti buvus vienodą priežastį.
-    Mat jie ne tik kad buvo su helenais tos pačios kilmės - kaip
-    tatai paaiškės pažinus jų senovės istoriją, - bet ir turėjo vieną
-    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
-    čią beveik visas menkiausias smulkmenas.
-    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
-    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
-    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
-    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
-    plaikos kilo mitologija, kurią imamės išdėstyti.
+    Egiptiečiai, giliai nugrimz­
+    dę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie
+    dangaus kūnų garbinimo, tuoj pat perimto iš chaldėjų, pridė­
+    jo asmenų, laikytų nemirtingais, dievinimą. Pagaliau dėl dau-
+    Antilucretius. - L. 9. - V. 897.
+    83
+
+    ## Puslapis 83
+
+    gybės savo žynių smulkmeniškiausių svarstymų jie ėmė laikyti
+    dievybėmis menkiausius daiktus -  net taip, kad tie išminčiai
+    įsakė vargšams žmonėms keliaklupsčiauti prieš žvėris, paukš­
+    čius, šliužus, augalus.
   citata_rodoma: "Egiptiečiai, giliai nugrimz­\ndę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie\ndangaus kūnų garbinimo, tuoj pat perimto iš chaldėjų, pridė­\njo asmenų, laikytų nemirtingais, dievinimą. Pagaliau dėl dau-\nAntilucretius. - L. 9. - V. 897.\n83\n\n## Puslapis 83\n\ngybės savo žynių smulkmeniškiausių svarstymų jie ėmė laikyti\ndievybėmis menkiausius daiktus -  net taip, kad tie išminčiai\nįsakė vargšams žmonėms keliaklupsčiauti prieš žvėris, paukš­\nčius, šliužus, augalus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -407,16 +326,12 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Toms statulėlėms
-    stigo keleto rankų, matyt, buvo nulaužtos. Domintis vėliau,
-    po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;
-    vos rasta atsimenančių šį nutikimą; žydai nenorėjo prisipažin­
-    ti tai pirkę. Nežinia, kas buvo užrašyta, bet vis dėlto vienas
-    žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant
-    paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai
-    tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
-    ar figūros arba trys žmogaus egzistavimo tarpsniai - gyveni­
-    mas, mirtis ir amžinybė.
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
+    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną.
   citata_rodoma: "Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek\nsusiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.\nIndų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo\nKamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­\nsiškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką\nslavų Tryzną."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -453,19 +368,19 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
-    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
-    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
-    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
-    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
-    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
-    nanti prabangumu tas beveik dar laukines Europos šalis. Ar
-    ne paprasčiau būtų to rūmo pastatymą priskirti užkariauto­
-    jams iš Italijos negu slavams, kurie savo šalyje niekur nieko
-    panašaus neturėjo ir, atplūdę iš Vyslos dešiniojo kranto miš­
-    kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
-    leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
-    apgyventas sodybas.
+    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
+    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
+    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
+    randame nuolat minimus miškus: kartais kalbama apie mišką
+    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
+    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
+    kiausiame miške ar nuošaliausiose vietose.
+    Šventyklos
+    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
+    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
+    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
+    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
+    kalnai.
   citata_rodoma: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose.\nŠventyklos\nHerodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai\npirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­\nriuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar\nilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo\nkalnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

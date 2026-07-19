@@ -95,16 +95,11 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Nedailus, vos galima suprasti, jog tai raitelis su sa­
-    kalu. Raidės užrašytos ratu: lotyniškas užrašas, venedų runomis,
-    pagal mano aiškinimą: l MM3 1 : S'k8>bP<^f> .’I*
-    HrlT
-    ĄĄŪ
-    Ų/nmolavit Saifiborius dux ¡\rucho olitori). To dievaičio
-    vardo užrašė raidė „o“ yra įterpta į vidurį, o ne į pabaigą, va­
-    dinasi, yra Koruch vietoj Krucho, o vietoje raidės „ch“, kuri ne­
-    buvo žinoma venedų runų abėcėlėje, buvo naudojama dviguba
-    „gg“ (11), kurios, sujungtos j vieną raidę ^ , skaitoma kaip ,,CH“.
+    Trečiasis [radinys] to paties asmens man duotas yra su tokiu ap­
+    rašymu: „Pakabutis toks, kaip ir Berlyno muziejuje, tačiau rai­
+    telis iš dešinės pusės, tuo tarpu pirmojo buvo iš kairės. Raidės
+    tos
+    pačios“.
   citata_rodoma: "Trečiasis [radinys] to paties asmens man duotas yra su tokiu ap­\nrašymu: „Pakabutis toks, kaip ir Berlyno muziejuje, tačiau rai­\ntelis iš dešinės pusės, tuo tarpu pirmojo buvo iš kairės. Raidės\ntos\npačios“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

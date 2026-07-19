@@ -7,13 +7,13 @@ datos:
   - '1365 m.'
 date_start: '1365'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - šventvietė
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,23 +69,6 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
   pagrindžia:
     - c-171830
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas rusinų kolonistų, atgabentų kuriant miestą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kal­
-    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
-    šventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,
-    turėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš
-    Lietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-
-    kusi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-171829
@@ -93,14 +76,12 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
-    takos. Kaune - prie Neries ir Nemuno santakos. Kitose vieto­
-    se ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo
-    šventi miškeliai, daugiau ar mažiau garsūs.
-    O
-    dėl augusių juose medžių rūšies, tai jie buvo taip pat iš
-    daugiau ar mažiau garbinamų tarpo: pirmenybę turėjo ąžuo-
-    ’ Lib.
+    Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,
+    turėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš
+    Lietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-
+    kusi.
   citata_rodoma: "Kal­\nnas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -\nšventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,\nturėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš\nLietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-\nkusi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

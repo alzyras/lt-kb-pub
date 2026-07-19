@@ -128,15 +128,9 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai. Dusburgietis
-    paprastai stengiasi kalbėti tik apie tuos, kurie, apleidę savuosius, tapo Ordino valdiniais
-    (III, 145, 228, 241, 280, 290, 301). Per šiuos žmones prūsiška ir lietuviška tradicija,
-    senųjų vietos gyventojų žinios galėjo pakliūti į Petro iš Dusburgo kroniką.
-    Tyrinėjimai rodo, jog nuo XIII a. vidurio įvykių kronikoje remtasi žiniomis, kurių
-    šaltinis — žodinė tradicija. Galvojant, kad kronikininkas — kaip įvykių stebėtojas —
-    pasirodė Prūsijoje XIII—XIV a. sandūroje, daroma prielaida, kad jam XIII a. antrajai
-    pusei aprašyti reikėjo sukaupti beveik niekur neužfiksuotų žinių, kurių dar daugiau
-    matome kronikos dalyje, aprašančioje pirmuosius XIV a. dešimtmečius.
+    Štai pirmosiose  kovose prieš Ordiną
+    žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
+    XIV a. viduryje134. Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai.
   citata_rodoma: "Štai pirmosiose  kovose prieš Ordiną\nžuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar\nXIV a. viduryje134. Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

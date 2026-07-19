@@ -14,12 +14,12 @@ datos:
   - '1283 m.'
 date_start: '1249'
 date_end: '1283'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -110,19 +110,6 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   pagrindžia:
     - c-61504
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,
-    p. 108; Jasas R., Didysis.., p. 61).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61502
@@ -147,12 +134,8 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Mat paprastai prisimenama,
-    kas dėjosi, bet kada — atmintyje neišlieka. Dėl to čia rasi daug ką paminėta ir aprašyta
-    užbėgant laikui už akių. Kai varmiai, notangai ir bartai atsimetė 1260 viešpaties metais
-    nuo tikėjimo ir tikinčiųjų, su ginklu rankose jie skersai ir išilgai išnaršė savo žemes,
-    žudydami krikščionis, kiek tik jų kur besurasdami, o moteris bei vaikus varydamiesi į
-    nelaisvę.
+    411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,
+    p. 108; Jasas R., Didysis.., p. 61).
   citata_rodoma: "411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,\np. 108; Jasas R., Didysis.., p. 61)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

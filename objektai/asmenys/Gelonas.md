@@ -74,10 +74,12 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   pagrindžia:
     - c-179167
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį, išnaikinusį žmogėdras bei įgijusį vadų vado vardą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172948
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pagaliau atsirado lietuvių didvyris,
     Elonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­
@@ -87,30 +89,6 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
     lietuvių dievų sūnus, jo motina buvo žynė. Taigi po tų pergalių
     ir daugelio kitų didvyriškų žygių jis įgijo lietuvių tautos vadų
     vado vardą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172948
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­
-    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
-    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
-    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
-    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
-    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
-    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
-    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
-    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
-    imtus bajorus.
   citata_rodoma: "Pagaliau atsirado lietuvių didvyris,\nElonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­\nvaduoti šiaurę nuo tos nelaimės, pradėjo kariauti su žmogėd­\nromis; iš pradžių juos dažniausiai tik sutramdydavo, pagaliau\nvisiškai išnaikino. Istorija mena, kad jis buvo vieno iš senovės\nlietuvių dievų sūnus, jo motina buvo žynė. Taigi po tų pergalių\nir daugelio kitų didvyriškų žygių jis įgijo lietuvių tautos vadų\nvado vardą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

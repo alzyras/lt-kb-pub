@@ -151,19 +151,9 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bendros pastabos. Pastaruoju metu nuodugnesnis tau­
-    tų ištaiką tyrinėjimas įgijo deramą, konkretesnį negu anks­
-    tesniais amžiais pobūdį: griežta kritika įvertino ankstes­
-    nių tyrinėtojų darbus, pradėta ieškoti tiesos lyginant įvai­
-    rių tautų istorijas, lyginant kalbas ir jų dialektų atspal­
-    vius, pradėta rinkti padavimus, sakmes, tautines dainas,
-    kruopščiai tirti įvairias senienas, ypač religijos šaltinius.
-    Taip, remiantis rašytiniais šaltiniais, laimingomis ir taik­
-    liomis prielaidomis, atsiranda vilčių įžvelgti istorinius
-    faktus praėjusių, net labai tolimų amžių ūkanose; nors
-    mūsų pirmtakai nesitikėjo, mes dažnai pajėgiame paro­
-    dyti labai įdomių ir galinčių dominti pasaulio istorijos
-    visumą faktų.
+    Rašyta gauruose
+    1835 m. gegužės 8 dieną.
+    Teodoras Narbutas
   citata_rodoma: "Rašyta gauruose\n1835 m. gegužės 8 dieną.\nTeodoras Narbutas"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

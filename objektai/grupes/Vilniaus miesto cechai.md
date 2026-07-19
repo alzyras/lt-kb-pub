@@ -7,13 +7,13 @@ datos:
   - '1584 m.'
 date_start: '1584'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - organizacija
   - grupe
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,12 +67,9 @@ Vilniaus miesto amatų cechų visuma.
 - susijęs iš Vladislovo privilegija Vilniaus katedros bažnyčiai ir Vilniaus vyskupui dėl vyskupijos jurisdikcijos: Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios.
 - susijęs iš [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės.md#claim-t-87191|Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]: 1584 m. Gardine Steponas Batoras paskelbė Vilniaus vyskupijos jurisdikcijos pavaldinius laisvus nuo miesto pasaulietinės jurisdikcijos ir cechų.
 - susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54805|Cechas]]: Vilniaus vyskupijos jurisdikcijai priklausantys asmenys sprendime paskelbti laisvi nuo Vilniaus miesto cechų.
-## Citatos
-
-- id: c-55864
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mes su
     savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­
@@ -88,6 +85,35 @@ Vilniaus miesto amatų cechų visuma.
     sų antspaudas rašto apačioje yra įspaustas. Duota Gardine
     artimiausią penktadienį prieš Sekmines, tūkstantis penki
     šimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū­
+    sų karaliavimo devintaisiais.
+    Karalius Steponas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-55864
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mes su
+    savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie-
+    jų pusių ginčus, pamatę atneštas abiejų pusių privilegijas,
+    mūsų pirmtako šv. atminties karaliaus Vladislovo duotas ir
+    leistas Vilniaus katedros bažnyčiai ir tuometiniam vysku-
+    pui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje
+    paliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki-
+    tus, priklausančius Vilniaus vyskupijos jurisdikcijai, nuo bet
+    kokios pasaulietinės mūsų Vilniaus miesto jurisdikcijos ir
+    Vilniaus miesto cechų skelbiame esančius laisvus pagal mū-
+    sų dekretą amžiniems laikams. Šio dalyko patvirtinimui mū-
+    sų antspaudas rašto apačioje yra įspaustas. Duota Gardine
+    artimiausią penktadienį prieš Sekmines, tūkstantis penki
+    šimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū-
     sų karaliavimo devintaisiais.
     Karalius Steponas
   citata_rodoma: "Mes su \nsavo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie-\njų pusių ginčus, pamatę atneštas abiejų pusių privilegijas, \nmūsų pirmtako šv. atminties karaliaus Vladislovo duotas ir \nleistas Vilniaus katedros bažnyčiai ir tuometiniam vysku-\npui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje \npaliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki-\ntus, priklausančius Vilniaus vyskupijos jurisdikcijai, nuo bet \nkokios pasaulietinės mūsų Vilniaus miesto jurisdikcijos ir \nVilniaus miesto cechų skelbiame esančius laisvus pagal mū-\nsų dekretą amžiniems laikams. Šio dalyko patvirtinimui mū-\nsų antspaudas rašto apačioje yra įspaustas. Duota Gardine \nartimiausią penktadienį prieš Sekmines, tūkstantis penki \nšimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū-\nsų karaliavimo devintaisiais.\nKaralius Steponas"

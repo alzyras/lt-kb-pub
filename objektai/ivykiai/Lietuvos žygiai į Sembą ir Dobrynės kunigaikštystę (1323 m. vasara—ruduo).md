@@ -8,14 +8,14 @@ datos:
   - '1323 m.'
 date_start: '1322'
 date_end: '1323'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
   - karas
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -87,9 +87,12 @@ Nenurodyta
   pagrindžia:
     - c-85336
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-85335
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tuo pat metu
     „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias
@@ -99,30 +102,6 @@ Nenurodyta
       Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš
     Vokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,
     Ariogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-89381
-
-## Citatos
-
-- id: c-85335
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų iš
-    Vokietijos, Čekijos ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,
-    Ariogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje. 1323
-    m., atvykus riteriams iš Čekijos ir nuo Reino, vėl žygiuota prieš Lietuvą, bet dėl didelių
-    šalčių iš pusiaukelės buvo grįžta. Tais pačiais metais kryžiuočiai vėl bandė niokoti
-    panemunes apie Paštuvą (III, 340, 342, 347).
-    Kryžiuočių ordinas visaip stengėsi sužlugdyti minėtąją 1323 m. spalio 2 d. sutartį: jau
-    spalio 24 d. Livonijos ordinas raginamas ją nutraukti, po to imtasi žygių, kad nutrauktų
-    sutartį Rygos miestas ir t. t. Ordinas tęsė agresiją 1324 m., kovo mėn. puldamas Gardino
-    apylinkes, gegužės mėn.— Gedimino pilį Žemaitijoje, metų pabaigoje, rodos, vėl Gardiną.
   citata_rodoma: "Tuo pat metu\n„Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias\npilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį\npatraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo\npusėje56.\n  Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš\nVokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,\nAriogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

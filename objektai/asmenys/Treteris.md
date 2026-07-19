@@ -8,15 +8,15 @@ datos:
   - '1355 m.'
 date_start: '1351'
 date_end: '1355'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vyskupas
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,89 +36,6 @@ media_all_json: |-
 
 Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir teigė, kad Vinrichas Kniprodė 1351–1355 m. įsakė jį nukirsti. Narbutas vertino, kad Treteris Jono I, Varmijos vyskupo, gyvenimo aprašyme tiksliausiai nurodė, kur ieškoti Romovės šventyklos.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir teigė, kad Vinrichas Kniprodė 1351–1355 m. įsakė jį nukirsti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Turime kažkokį aprašymą šio medžio, kurį Bo­
-    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
-    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
-    kai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
-    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
-    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
-    Jono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355
-    metų; tada tasai Jonas I buvo Varmijos vyskupas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas vertino, kad Treteris Jono I, Varmijos vyskupo, gyvenimo aprašyme tiksliausiai nurodė, kur ieškoti Romovės šventyklos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    O dėl prūsų turėtų šventyklų, tai suminėsime smulkesnes
-    žinias apie jas, paimtas iš kronikininkų pranešimų ir nušvies­
-    tas vėlesnių tyrimų. Žymiausia šventykla buvo Romovėje, ku­
-    rios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos
-    vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
-    reiktų jos ieškoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172961
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Žinoma, kas tas krūmas, nenumetantis žiemą lapų, dau­
-    ginasi iš sėklų, esančių gražiose baltose uogose, kurios nunoks­
-    ta žiemą ir paukščių yra godžiai lesamos; šios sėklos niekad
-    nesudygsta žemėje, o sudygsta ant kito medžio šakos, kur jas
-    užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
-    atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
-    mis augdami ant medžių, užauga sieto dydžio. Nežinau, ar, be
-    beržo ir ąžuolo, amalas auga kituose medžiuose; ąžuolo ama­
-    las pas mus dabar yra net didelė retenybė. Vis dėlto galimas
-    daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
-    reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
-    apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
-    mą amalo žaluma nuspalvintų jo vainiką.
-  citata_rodoma: "Turime kažkokį aprašymą šio medžio, kurį Bo­\nleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­\ngalėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­\nkai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­\nvėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­\ndėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo\nJono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355\nmetų; tada tasai Jonas I buvo Varmijos vyskupas."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
-
-- id: c-172962
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Priekinėje sienoje buvo plati anga arba šios sienos nemažos
-    dalies turėjo stigti. Priešais patį ąžuolą buvo trys arkos, kurių
-    nišose stovėjo trys vyriausieji dievai - viduryje Perkūnas, deši­
-    nėje Poklius, kairėje pusėje Atrimpas; kiti dievai, kaip antai
-    Viršaitis, Sneibratas, Kurkas ir Žemininkas, turėjo savo sta­
-    bus vidinių sienų kampinėse nišose. Už ąžuolo buvo nedideli
-    rūsiai arba slėptuvės šventiesiems šliužams.
-  citata_rodoma: "O dėl prūsų turėtų šventyklų, tai suminėsime smulkesnes\nžinias apie jas, paimtas iš kronikininkų pranešimų ir nušvies­\ntas vėlesnių tyrimų. Žymiausia šventykla buvo Romovėje, ku­\nrios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos\nvyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur\nreiktų jos ieškoti."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 ## Teiginiai
 
 <a id="claim-t-190078"></a>
@@ -156,3 +73,46 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172961
+
+## Citatos
+
+- id: c-172961
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Turime kažkokį aprašymą šio medžio, kurį Bo­
+    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
+    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
+    kai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
+    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
+    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
+    Jono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355
+    metų; tada tasai Jonas I buvo Varmijos vyskupas.
+  citata_rodoma: "Turime kažkokį aprašymą šio medžio, kurį Bo­\nleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­\ngalėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­\nkai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­\nvėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­\ndėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo\nJono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355\nmetų; tada tasai Jonas I buvo Varmijos vyskupas."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
+
+- id: c-172962
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    O dėl prūsų turėtų šventyklų, tai suminėsime smulkesnes
+    žinias apie jas, paimtas iš kronikininkų pranešimų ir nušvies­
+    tas vėlesnių tyrimų. Žymiausia šventykla buvo Romovėje, ku­
+    rios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos
+    vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
+    reiktų jos ieškoti.
+  citata_rodoma: "O dėl prūsų turėtų šventyklų, tai suminėsime smulkesnes\nžinias apie jas, paimtas iš kronikininkų pranešimų ir nušvies­\ntas vėlesnių tyrimų. Žymiausia šventykla buvo Romovėje, ku­\nrios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos\nvyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur\nreiktų jos ieškoti."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

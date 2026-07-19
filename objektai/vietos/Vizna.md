@@ -52,26 +52,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  santrauka: '1294 metais magistras Meinhardas užėmė Mazovijos kunigaikščio Boleslovo pilį Viznoje ir ją iš pamatų sugriovė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
-                                       na
-
-       Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,
-    ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,
-    ne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti
-    Prūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai
-    dėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,
-    kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo
-    keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį
-    ir ją iš pamatų sugriovė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -80,16 +60,11 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Kimelio pilies sunaikinimą 1296 metais
-    Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir
-    200 vyrų, ketindamas užpulti vieną pilį, tačiau vedlys išklydo iš kelio ir kariuomenė ją
-    praėjo; kai begrįždami atitiko tikrąjį kelią ir įėjo į pilį, nieko joje nerado, nes žmonės,
-    kurie joje gyveno, pamatę brolių kariuomenę, išsislapstė miškuose, nei galėdami, nei
-    norėdami priešintis jų antpuoliams. Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto
-    dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,
-    taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir
-    patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei
-    išlaidų, nei triūso, tačiau nesėkmingai.
+    dėl Viznos  pilies sugriovimo, pasitaikino lietuvius  ir ją atstatė. Apie  tai sužinojęs,
+    magistras be galo sunerimo (jis mat būgštavo, kad gali rastis naujų pavojų jam pačiam
+    bei jo žmonėms, tikėjimui bei tikintiesiems) ir įsakė visiems nuo didžiausio iki mažiausio
+    savo valdiniams rengtis karui, nes šitaip tikėjosi galėsiąs vienaip ar kitaip sutrukdyti
+    statybai.
   citata_rodoma: "dėl Viznos  pilies sugriovimo, pasitaikino lietuvius  ir ją atstatė. Apie  tai sužinojęs,\nmagistras be galo sunerimo (jis mat būgštavo, kad gali rastis naujų pavojų jam pačiam\nbei jo žmonėms, tikėjimui bei tikintiesiems) ir įsakė visiems nuo didžiausio iki mažiausio\nsavo valdiniams rengtis karui, nes šitaip tikėjosi galėsiąs vienaip ar kitaip sutrukdyti\nstatybai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -104,16 +79,17 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
-    tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
-    — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
-    sykių jis stojo prieš juos į kovą. Trumpai kalbant, jis taip ryžtingai kariavo, kad per
-    šešerius metus, kada vadovavo šiai piliai, privertė visus lietuvius, gyvenusius Nemuno
-    pakrantėje, nuo Neries upės iki Lamatos žemės546, laikytis taikos su krikščionimis, bet
-    Lethovinorum rex), o toliau konstatuojama: Štai kraštai, kuriuose mes nustatėme taiką:
-    iš mūsų pusės — Aukštaičių ir Žemaičių kraštas, Pskovas ir visi rusų [kraštai], kurie
-    yra mūsų valdžioje (PUB, 2, 1, Nr. 418, p. 301; GL, Nr. 8, p. 69; popiežiaus bulės
-    tekste — LUB, 2, Nr. 693, p. 151).
+    Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
+                                       na
+
+       Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,
+    ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,
+    ne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti
+    Prūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai
+    dėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,
+    kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo
+    keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį
+    ir ją iš pamatų sugriovė.
   citata_rodoma: "Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­\n                                   na\n\n   Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,\nieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,\nne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti\nPrūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai\ndėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,\nkuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo\nkeliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį\nir ją iš pamatų sugriovė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

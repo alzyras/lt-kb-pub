@@ -83,8 +83,8 @@ Nenurodyta
     liūdesio ir sielvarto, vis dar bijojo vijimosi. Kai kara­
     lius išvydo savo brolio kariuomenę ateinant jam į pa­
     galbą, labai apsidžiaugė, pralinksmėjo ir nudžiugo jo
-    širdis37. Ir paskui žengė keliu be baimės, priėjo Ka-
-    menecą3*. o paskui Lvovą, ir vėl išsiskirstė kas sau.
+    širdis3 7 . Ir paskui žengė keliu be baimės, priėjo Ka-
+    menecą3 * . o paskui Lvovą, ir vėl išsiskirstė kas sau.
   citata_rodoma: "Moldavijos vaivada leidosi atgalios, o karalius Olb­\nrachtas tuo metu sirgo, jo kariuomenė, apimta gilaus \nliūdesio ir sielvarto, vis dar bijojo vijimosi. Kai kara­\nlius išvydo savo brolio kariuomenę ateinant jam į pa­\ngalbą, labai apsidžiaugė, pralinksmėjo ir nudžiugo jo \nširdis3 7 . Ir paskui žengė keliu be baimės, priėjo Ka- \nmenecą3 * . o paskui Lvovą, ir vėl išsiskirstė kas sau."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"

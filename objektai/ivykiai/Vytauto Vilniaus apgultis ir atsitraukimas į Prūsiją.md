@@ -64,22 +64,15 @@ Nenurodyta
 <a id="claim-t-185665"></a>
 - t-002
   teiginys: "Žygiuodamas iš Trakų prie Vilniaus Vytautas, pasak Kojelavičiaus, vengė pulti miesto įtvirtinimus, nes laikė juos sunkiai pralaužiamais."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Vilniaus pilis: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus pilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bandymas užimti Vilniaus pilis tiesiogiai rodo puolimo veiksmą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
-    - c-169026
+    - c-169025
 
 <a id="claim-t-196276"></a>
 - t-003
@@ -93,6 +86,30 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169025
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Žygiuodamas iš Trakų prie Vilniaus Vytautas, pasak Kojelavičiaus, vengė pulti miesto įtvirtinimus, nes laikė juos sunkiai pralaužiamais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai žygiavo iš Trakų, matė pirmuosius miesto
+    įtvirtinimus, tačiau jų pulti nenorėjo,— gal dėl kokių
+    kitų sumetimų, o gal dėl to, jog buvo įsitikinęs, kad
+    juos pralaužti ypatingai sun-
+    Po to V iln ių su pa
+    ku ir nelabai reikalinga. Ka­
+    dangi mieste buvo gana daug
+    karių, viena jų dalis galėjo gana lengvai atremti
+    įtvirtinimus puolantį priešą, o kita patogiomis vietomis
+    prasiveržti ir užgriūti supančiųjų sparnus; užkariavus
+    miestą, irgi būtų nelengva užimti pilis, dėl kurių pra­
+    sidėjo visas šitas karas. Aukštutinę pilį, stovinčią ant
+    aukšto ir stataus kalno, gynė lenkų įgula.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -134,6 +151,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
     - t-003
 
 - id: c-169026
@@ -141,24 +159,19 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai žygiavo iš Trakų, matė pirmuosius miesto
-    įtvirtinimus, tačiau jų pulti nenorėjo,— gal dėl kokių
-    kitų sumetimų, o gal dėl to, jog buvo įsitikinęs, kad
-    juos pralaužti ypatingai sun-
-    Po to V iln ių su pa
-    ku ir nelabai reikalinga. Ka­
-    dangi mieste buvo gana daug
-    karių, viena jų dalis galėjo gana lengvai atremti
-    įtvirtinimus puolantį priešą, o kita patogiomis vietomis
-    prasiveržti ir užgriūti supančiųjų sparnus; užkariavus
-    miestą, irgi būtų nelengva užimti pilis, dėl kurių pra­
-    sidėjo visas šitas karas. Aukštutinę pilį, stovinčią ant
-    aukšto ir stataus kalno, gynė lenkų įgula.
+    Aukštutinę pilį, stovinčią ant
+    aukšto ir stataus kalno, gynė lenkų įgula. Žemutinę,
+    3 0 6
+
+    ## Puslapis 305
+
+    kurią kalno papėdėje supo Vilnios upė, saugojo lietu­
+    vių kariai. Keletą kartų pabandęs užimti šias pilis, bu­
+    vo priverstas nutraukti apsiaustį ir išvesti kariuomenę
+    atgal į Prūsiją nepajėgęs įveikti gynėjų narsumo.
   citata_rodoma: "Aukštutinę pilį, stovinčią ant\naukšto ir stataus kalno, gynė lenkų įgula. Žemutinę,\n3 0 6\n\n## Puslapis 305\n\nkurią kalno papėdėje supo Vilnios upė, saugojo lietu­\nvių kariai. Keletą kartų pabandęs užimti šias pilis, bu­\nvo priverstas nutraukti apsiaustį ir išvesti kariuomenę\natgal į Prūsiją nepajėgęs įveikti gynėjų narsumo."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

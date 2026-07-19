@@ -27,51 +27,6 @@ media_all_json: |-
 
 Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas ant ligonio kaklo kabinamais amuletais.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas ant ligonio kaklo kabinamais amuletais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Štai jų vertimas: „Einu aplink more, ¡no­
-    re užkemšu, more užsikimšk, kraujau, sukepk!“
-    Saitininkai (Sejtones)
-    Pranašautojai gydytojai, kurie mokėdavo gydyti visas ligas,
-    užkabindami ant ligonio kaklo tam tikrus amuletus' .
-    Kaunu Ra ugi s (žiūrėtojas į alaus ryką)
-    Žiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į
-    druską.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172217
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    O tos, kurios norėjo tar­
-    nauti dievams pasibaigus skirtam laikui, pasitraukdavo į nuo­
-    šalias vietas, kur tapdavo ypatingomis pranašautojomis34. Dėl
-    vaidilučių drabužių taip pat neturime tikrų duomenų; kadan­
-    gi jos buvo Romos vestalių kopija, tai atrodo, kad tikriausiai ir
-    drabužiai buvo į jų panašūs.
-    33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
-    dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
-    žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
-    mi, katinu ir gyvate ir nuskandinti Nemune.
-  citata_rodoma: "Štai jų vertimas: „Einu aplink more, ¡no­\nre užkemšu, more užsikimšk, kraujau, sukepk!“\nSaitininkai (Sejtones)\nPranašautojai gydytojai, kurie mokėdavo gydyti visas ligas,\nužkabindami ant ligonio kaklo tam tikrus amuletus' .\nKaunu Ra ugi s (žiūrėtojas į alaus ryką)\nŽiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į\ndruską."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189330"></a>
@@ -93,3 +48,27 @@ Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172217
+
+## Citatos
+
+- id: c-172217
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Štai jų vertimas: „Einu aplink more, ¡no­
+    re užkemšu, more užsikimšk, kraujau, sukepk!“
+    Saitininkai (Sejtones)
+    Pranašautojai gydytojai, kurie mokėdavo gydyti visas ligas,
+    užkabindami ant ligonio kaklo tam tikrus amuletus' .
+    Kaunu Ra ugi s (žiūrėtojas į alaus ryką)
+    Žiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į
+    druską.
+  citata_rodoma: "Štai jų vertimas: „Einu aplink more, ¡no­\nre užkemšu, more užsikimšk, kraujau, sukepk!“\nSaitininkai (Sejtones)\nPranašautojai gydytojai, kurie mokėdavo gydyti visas ligas,\nužkabindami ant ligonio kaklo tam tikrus amuletus' .\nKaunu Ra ugi s (žiūrėtojas į alaus ryką)\nŽiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į\ndruską."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

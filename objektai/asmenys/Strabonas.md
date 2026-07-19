@@ -102,23 +102,6 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
     - c-179352
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnams dar buvo visiškai nežinomas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš
-    to Bazilija, arba šiandienė Semba, buvo vaizduojama čia
-    pat, virš Galijos. Tai, ką čia pateikėme, įrodė ir parašė
-    Diodoro amžininkas Strabonas: „Visas žemynas, esąs už
-    Elbės upės, aukštyn net iki didelės jūros yra dar visiškai
-    nežinomas, nes romėnai niekad nenuplaukė toliau Elbės
-    ir niekas dar neapvažiavo sausuma tų tolimų plotų“1. Ki­
-    tur jis visiškai pasitiki Pitėjo aprašymais2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Narbutas mini spėjimą, kad Strabonas, kaip šališkas Pitėjo aiškintojas, daug ką jam priskyrė svetimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -166,17 +149,14 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Apie senovės ¡gintaringo krašto pavadinimus ir padėtį
-    esama daug nuomonių todėl, kad jis iš tiesų pradingo, o
-    gal dėl to, Ikad senovės autoriai ne itin gerai žinojo pa­
-    vadinimus. Aukščiau aiškinome, jog Pitėjo Abalas ¡geriau­
-    siai atitinka Sembą. Tas pats keliautojas dar vadino ją
-    Basilia, Timėjas ją vadino Raunonia arba Basilia. Kseno-
-    fontas Lampsakietis žino žemę, arba neišmatuojamo dy­
-    džio salą, esančią trijų dienų kelio atstumu nuo Skitijos,
-    ir vadina ją Baltija3, t. y. tą pačią, kurią anksčiau minėti
-    autoriai vadino Basilia. Mitridatas Eupatoras* ją dar va­
-    dina Osericta.
+    Iš
+    to Bazilija, arba šiandienė Semba, buvo vaizduojama čia
+    pat, virš Galijos. Tai, ką čia pateikėme, įrodė ir parašė
+    Diodoro amžininkas Strabonas: „Visas žemynas, esąs už
+    Elbės upės, aukštyn net iki didelės jūros yra dar visiškai
+    nežinomas, nes romėnai niekad nenuplaukė toliau Elbės
+    ir niekas dar neapvažiavo sausuma tų tolimų plotų“1. Ki­
+    tur jis visiškai pasitiki Pitėjo aprašymais2.
   citata_rodoma: "Iš\nto Bazilija, arba šiandienė Semba, buvo vaizduojama čia\npat, virš Galijos. Tai, ką čia pateikėme, įrodė ir parašė\nDiodoro amžininkas Strabonas: „Visas žemynas, esąs už\nElbės upės, aukštyn net iki didelės jūros yra dar visiškai\nnežinomas, nes romėnai niekad nenuplaukė toliau Elbės\nir niekas dar neapvažiavo sausuma tų tolimų plotų“1. Ki­\ntur jis visiškai pasitiki Pitėjo aprašymais2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

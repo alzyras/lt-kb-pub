@@ -83,6 +83,30 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
     - c-170269
 
 ## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Stojo Skirgaila su savo ka­
+    riuomenės pulkais ir, persikėlęs per Nerį, apsistojo
+    Šeškinės33 lauke, o didysis kunigaikštis Vytautas su
+    vokiečių pajėgomis, su gurguole ir su patrankomis nu­
+    sileido nuo kalno, [puolė] Skirgailą. Pradėjo vokiečiai
+    iš patrankų šaudyti į Skirgailos kariuomenę ir daug
+    ką Skirgailos kariuomenėje užmušė; Skirgailos kariuo­
+    menė neatsilaikė prieš vokiečių patrankas ir leidosi
+    bėgti, Vytauto kariuomenė vijosi iš paskos ir mušė. ir
+    nukovė jų didelę daugybę, o kiti patys nuskendo Ne­
+    ries upėje34.
+    O didysis kunigaikštis Skirgaila pats vienas perplau­
+    kė upę ir pasislėpė Kreivojoje pilyje. Jr didysis kuni­
+    gaikštis Vytautas pasivijo jį Kreivojoje pilyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-010
+
 - c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -133,20 +157,17 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Stojo Skirgaila su savo ka­
-    riuomenės pulkais ir, persikėlęs per Nerį, apsistojo
-    Šeškinės33 lauke, o didysis kunigaikštis Vytautas su
-    vokiečių pajėgomis, su gurguole ir su patrankomis nu­
-    sileido nuo kalno, [puolė] Skirgailą. Pradėjo vokiečiai
-    iš patrankų šaudyti į Skirgailos kariuomenę ir daug
-    ką Skirgailos kariuomenėje užmušė; Skirgailos kariuo­
-    menė neatsilaikė prieš vokiečių patrankas ir leidosi
-    bėgti, Vytauto kariuomenė vijosi iš paskos ir mušė. ir
-    nukovė jų didelę daugybę, o kiti patys nuskendo Ne­
-    ries upėje34.
-    O didysis kunigaikštis Skirgaila pats vienas perplau­
-    kė upę ir pasislėpė Kreivojoje pilyje. Jr didysis kuni­
-    gaikštis Vytautas pasivijo jį Kreivojoje pilyje.
+    Ir dievas padėjo didžiajam kunigaikš­
+    čiui Vytautui u, ir jis Lietuvos kariuomenę sumušė vi­
+    siškai. o kiti išbėgiojo ir daugybė jų buvo nukauta.
+    Daugelį kitų kunigaikščių ir bajorų paėmė gyvus: ku­
+    nigaikštį Simoną, Jaunučio sūnų I S , Smolensko kuni­
+    gaikštį Glėbą, Svetoslavo sūnų l6 , kunigaikštį Glėbą,
+    Konstantino sūnų l7 , kunigaikštį Joną Tetą1 * , Levą Plak-
+    sičių '9 , ir paėmė daugelį kitų kunigaikščių.
+    Kunigaikštis Vytautas su visomis pajėgomis vėl iš­
+    žygiavo ir apgulė Vilniaus miestą, ir pradėjo šturmuoti
+    Kreivąją pilį bei šaudyti iš patrankų.
   citata_rodoma: "Ir dievas padėjo didžiajam kunigaikš­\nčiui Vytautui u, ir jis Lietuvos kariuomenę sumušė vi­\nsiškai. o kiti išbėgiojo ir daugybė jų buvo nukauta. \nDaugelį kitų kunigaikščių ir bajorų paėmė gyvus: ku­\nnigaikštį Simoną, Jaunučio sūnų I S , Smolensko kuni­\ngaikštį Glėbą, Svetoslavo sūnų l6 , kunigaikštį Glėbą, \nKonstantino sūnų l7 , kunigaikštį Joną Tetą1 * , Levą Plak- \nsičių '9 , ir paėmė daugelį kitų kunigaikščių.\nKunigaikštis Vytautas su visomis pajėgomis vėl iš­\nžygiavo ir apgulė Vilniaus miestą, ir pradėjo šturmuoti \nKreivąją pilį bei šaudyti iš patrankų."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

@@ -105,10 +105,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   puslapiai: "p. 126 (PDF 124)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 126 (PDF 124)."
   citata_originali: |
-    Vieni sakome, kad broliai — keliai, kiti sako­
-    me — ne. Kaip čia dabar yra?
-    — Ir broliai keliai ir nebroliai keliai, — atsiliepė Vaičys: — vi­
-    sas svietas giminės tarp savęs ir tiek.
+    — Ir broliai keliai ir nebroliai keliai, — atsiliepė Vaičys: — visas svietas giminės tarp savęs ir tiek.
   citata_rodoma: "— Ir broliai keliai ir nebroliai keliai, — atsiliepė Vaičys: — visas svietas giminės tarp savęs ir tiek."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"

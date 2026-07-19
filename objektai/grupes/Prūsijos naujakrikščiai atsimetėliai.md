@@ -115,22 +115,6 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
     - c-85146
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dalis pulti pilį iš priekio ir iš kitos pusės.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Taigi
-    sutelkė visą galybę savo kariuomenės ir Prūsijos naujakrikščių, elgdamasis klastingai kaip
-    ir anksčiau, nes buvo be galo suktas; Padalijo kariuomenę į dvi dalis, viena turėjo pulti
-    pilį iš priekio, kita — iš kitos pusės. Su pirmąja šios kariuomenės dalimi priėjo priekinį
-    ir silpnesnįjį pilies šoną ir taip smarkiai jį užpuolė, kad broliai vargais negalais testengė
-    apsiginti. Antroji kariuomenės dalis, nesutikdama gynėjų pasipriešinimo, pro užpakalinę
-    sieną įsiveržė  į vidų ir užėmė pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-003
   santrauka: 'Magistras Henrikas rengėsi sunaikinti Sventopelką ir Prūsijos naujakrikščius atsimetėlius, kaltintus žala tikėjimui ir tikintiesiems.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -184,16 +168,13 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
-    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko į Pamedės žemę pasiėmę
-    visa, kas reikalinga pilims statyti. Pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir
-    šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo,
-    kas reikalinga pilims ginti, ir palikę joje daug karių. Šiek tiek vėliau, bėgant dienoms ir
-    mėnesiams, apie pilį pradėjo kurti miestą305, į kurį suplaukė gyventi daugybė tikinčiųjų,
-    pasiryžusių už krikščionių tikėjimą kasdien aukoti be baimės savo gyvybę ir savo turtą.
-    64 (63). Apie Kristburgo brolių pamaldų gyvenimą
-    303  61 ir 62 skyreliuose atpasakoti įvykiai galėtų būti priskiriami 1247 m.
-    304 Dab.
+    Taigi
+    sutelkė visą galybę savo kariuomenės ir Prūsijos naujakrikščių, elgdamasis klastingai kaip
+    ir anksčiau, nes buvo be galo suktas; Padalijo kariuomenę į dvi dalis, viena turėjo pulti
+    pilį iš priekio, kita — iš kitos pusės. Su pirmąja šios kariuomenės dalimi priėjo priekinį
+    ir silpnesnįjį pilies šoną ir taip smarkiai jį užpuolė, kad broliai vargais negalais testengė
+    apsiginti. Antroji kariuomenės dalis, nesutikdama gynėjų pasipriešinimo, pro užpakalinę
+    sieną įsiveržė  į vidų ir užėmė pilį.
   citata_rodoma: "Taigi\nsutelkė visą galybę savo kariuomenės ir Prūsijos naujakrikščių, elgdamasis klastingai kaip\nir anksčiau, nes buvo be galo suktas; Padalijo kariuomenę į dvi dalis, viena turėjo pulti\npilį iš priekio, kita — iš kitos pusės. Su pirmąja šios kariuomenės dalimi priėjo priekinį\nir silpnesnįjį pilies šoną ir taip smarkiai jį užpuolė, kad broliai vargais negalais testengė\napsiginti. Antroji kariuomenės dalis, nesutikdama gynėjų pasipriešinimo, pro užpakalinę\nsieną įsiveržė  į vidų ir užėmė pilį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

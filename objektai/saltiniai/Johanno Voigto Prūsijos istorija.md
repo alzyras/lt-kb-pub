@@ -8,12 +8,12 @@ datos:
   - '1253 m.'
 date_start: '1242'
 date_end: '1253'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,23 +58,63 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
 <a id="claim-t-191923"></a>
 - t-004
   teiginys: "1242–1253 m. klajojusi grupė tarp Mazovijos, Prūsijos ir Lietuvos lengvino su vokiečiais kariavusių lietuvių ryšius su Pamariu ir Prūsija."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Johanno Voigto Prūsijos istorija: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Johanno Voigto Prūsijos istorija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   temporaliniai_duomenys: "įvykio data: 1242-1253; įvykio data: 1253 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Neaiškus įvardis „jie“ išskleistas kaip klajojusi grupė, kiek leidžia citata. Nepridėtas grupės pavadinimas, nes pateiktame fragmente jo nėra."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-174578
+    - c-174805
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, paremtą Karaliaučiuje sukauptais kryžiuočių dokumentais ir kronikomis.'
+- c-002
+  santrauka: 'Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Taip
+    133
+
+    ## Puslapis 131
+
+    pat iš nelaisvės išvadavo daug krikščionių ir, iškilmingai
+    padėkojęs Dievui už pagalbą šiame kare, šlovingai grįžo
+    į savo žemelę, sekdamas pėdomis savo tėvo, didžiojo Ro­
+    mano, kurio pagonys bijojo kaip liūto, o poloviečiai jo
+    vardu gąsdindavo savo vaikus.
+    131
+    Dėl šios priežasties vėl įniršę kryžiuočiai, įsivaizduo­
+    dami Polesę nuo seno esant ¡senovės Prūsijos provinciją
+    ir manydami visuomet buvę jos valdovai, taip pat kad
+    sudarytą sutartį su Kujavijos kunigaikščiu jis pats su­
+    laužęs, nors patys jos nėmaž nevykdė, nes, pažadėję grą­
+    žinti kunigaikščiui pusę Liubavo žemės, pažado neištesė­
+    jo, labai įnirtingai įsiveržė į Polesę, persikėlė per Narevo
+    upę, visur sėdami mirtį ir niokodami. Jotvingiai mikliai
+    išsislapstė savo miškuose arba traukėsi Vyslos link pas
+    kunigaikštį Kazimierą ir būriais krikštijosi1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-174578
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Mokytos plunksnos dirbo ir dabar
     darbuojas i prie jų istorijos: Kocebus* parašė senovės
@@ -94,14 +134,19 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
     Be to, Rusijos valstybės vakarinėse vokiečių gubernijose
     steigiasi draugijos, pluša mokslininkai, žadėdami naujų
     šiaurinių kraštų istorijos vaisių.
-  citata_rodoma: ''
+  citata_rodoma: "Mokytos plunksnos dirbo ir dabar\ndarbuojas i prie jų istorijos: Kocebus* parašė senovės\nPrūsų istoriją, pelniusią didelį pripažinimą; mokslingasis\nponas Foi'gtas** baigia išleisti paskutinius pilnos tos\npačios istorijos tomus, kurių bus astuoni; šis visiškai už­\nbaigtas veikalas savo verte pranoksta visus lig tol žino­\nmus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­\nnikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie\nšaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­\nnovės tyrėjai netgi padarė išsamiai ir tvarkingai surink­\ntų, reikalingų ištraukų atsargas, o ponas Foigtas pats\nnepaprastu savo darbštumu, genialumu ir talentais at­\nskleidė jų turtingumą ir parodė retą jų panaudojimo pa­\nvyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų\nir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.\nBe to, Rusijos valstybės vakarinėse vokiečių gubernijose\nsteigiasi draugijos, pluša mokslininkai, žadėdami naujų\nšiaurinių kraštų istorijos vaisių."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: '1242–1253 m. klajojusi grupė tarp Mazovijos, Prūsijos ir Lietuvos lengvino su vokiečiais kariavusių lietuvių ryšius su Pamariu ir Prūsija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  pagrindzia:
+    - t-001
+
+- id: c-174805
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     126
 
@@ -113,66 +158,11 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
     net ligi Drevantos pelkių, lengvino kariaujančių su vo­
     kiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko
     su tam tikromis pertraukomis 1242—1253 metais1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174578
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Be to, Rusijos valstybės vakarinėse vokiečių gubernijose
-    steigiasi draugijos, pluša mokslininkai, žadėdami naujų
-    šiaurinių kraštų istorijos vaisių. Taip pat dar daug rei­
-    kia nuveikti tiriant lietuvių tautos istoriją, ypač epochas,
-    esančias arčiau lopšio, visų pirma dėl stygiaus atskleistų
-    paminklų, kurie galėtų padėti tyrėjui. Todėl vieni tiesiog
-    priimdavo kronikininkų geriau išdėstytas išvadas apie
-    tautos ištakas, kiti, priblokšti tų išvadų netailklumo, siūlė
-    vargais negalais suregztas savąsias, o dar kiti su tikrai
-    pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
-    mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
-    tuvos istoriją toliau XIII amžiaus1. Juk senesnės kroni­
-    kininkų žinios apie lietuvių gentis nepagrįstai laikytos
-    išmone: jie sėmėsi žinių iš dabar pražuvusių kronikų, ku­
-    rių padavimai ir senovės šaltinių liekanos buvo ne tokie
-    seni. O tai, kad jose būta ne vien pasakų, kas dieną įti­
-    kina vis nauji atradimai; pats puikus lietuvių kalbos ži­
-    novas ir savo surinktų giesmių leidėjas ponas Rėza***,
-    kurio šviesa tiek daug pasinaudojome ankstesniame to-
-    1 Hlebovičiaus „Vytauto gyvenimas“.
-  citata_rodoma: "Mokytos plunksnos dirbo ir dabar\ndarbuojas i prie jų istorijos: Kocebus* parašė senovės\nPrūsų istoriją, pelniusią didelį pripažinimą; mokslingasis\nponas Foi'gtas** baigia išleisti paskutinius pilnos tos\npačios istorijos tomus, kurių bus astuoni; šis visiškai už­\nbaigtas veikalas savo verte pranoksta visus lig tol žino­\nmus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­\nnikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie\nšaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­\nnovės tyrėjai netgi padarė išsamiai ir tvarkingai surink­\ntų, reikalingų ištraukų atsargas, o ponas Foigtas pats\nnepaprastu savo darbštumu, genialumu ir talentais at­\nskleidė jų turtingumą ir parodė retą jų panaudojimo pa­\nvyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų\nir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.\nBe to, Rusijos valstybės vakarinėse vokiečių gubernijose\nsteigiasi draugijos, pluša mokslininkai, žadėdami naujų\nšiaurinių kraštų istorijos vaisių."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-004
-
-- id: c-174805
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    1247 metais jotvin­
-    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
-    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
-    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
-    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
-    čino (dabar Kobrino apskritis). Prie pat šio miesto sienų
-    įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
-    pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
-    gaikštukų.
   citata_rodoma: "126\n\n## Puslapis 124\n\nčius; jie kovodavo ir su vėliavomis Pamario kunigaikščio\nSventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.\nTai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos\nnet ligi Drevantos pelkių, lengvino kariaujančių su vo­\nkiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko\nsu tam tikromis pertraukomis 1242—1253 metais1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

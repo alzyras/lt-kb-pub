@@ -72,17 +72,9 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Reikia manyti, jog
-    ji sukėlė labai neigiamas emocijas tiek LTI autoriui, tiek
-    jos leidėjui. Tiesą sakant, rašinys galėjo būti nukreiptas
-    ne tiek prieš
-    T. Narbutą,
-    kiek
-    prieš A. Marcinovskį.
-    T. Narbuto korespondencijoje ne kartą teko rasti užuomi­
-    nų, jog Juozapas Zavadskis buvo nepatenkintas ir įžeistas
-    dėl to, kad autorius savo „Istoriją“ atidavė ne jam, bet
-    A. Marcinovskiui.
+    Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
+    Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
+    įprastas reiškinys.
   citata_rodoma: "Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i\nRoztrząsania Naukowe“ puslapiuose anonimiškumas buvo\nįprastas reiškinys."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

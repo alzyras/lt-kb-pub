@@ -11,16 +11,16 @@ datos:
   - '1567 m.'
 date_start: '1567'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - karalius
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -85,14 +85,21 @@ media_all_json: |-
 <a id="claim-t-184905"></a>
 - t-006
   teiginys: "Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius."
-  atnaujinta: "2026-07-19 17:29"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Saulė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Saulė: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas\" parinktas kaip owner_note_path. Targetas \"Saulė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168267
+    - c-168266
 
 <a id="claim-t-184906"></a>
 - t-007
@@ -116,21 +123,21 @@ media_all_json: |-
 <a id="claim-t-184907"></a>
 - t-008
   teiginys: "Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Žygimantas išsiuntinėjo universalus Lietuvai."
+  ryšio_patikimumas: "susije_su -> Borisovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Borisovas: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas\" parinktas kaip owner_note_path. Targetas \"Borisovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168266
+    - c-168268
 
 <a id="claim-t-184908"></a>
 - t-009
@@ -384,6 +391,95 @@ media_all_json: |-
 - susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
 - susijęs iš [[objektai/grupes/Smolenskiečiai.md#claim-t-187745|Smolenskiečiai]]: Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui.
 - susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-87886|Vladislovas Varnietis]]: Mirus Jogailai, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
+    puolė Minską, bet visos jo pastangos nuėjo perniek,
+    nes bajorai grūmėsi labai ryžtingai, gindami žmonas
+    bei vaikus, su kuriais buvo pasitraukę į miestą. Ga­
+    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
+    kis tūkstančius algininkų bei didikų kariaunas ir ka­
+    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
+    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
+    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
+    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
+    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
+    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
+    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
+    jo per mažai karių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Žygimantas, praradęs viltį sudaryti taiką, išsiuntė skitams sutartą atlygį, kad šie sulaikytų priešą jo žemėje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Per pasiuntinius paskatino im­
+    peratorių Maksimilijoną, visa ko jam prižadėjęs, kad
+    tas, vos išgirdęs, jog Maskvos bei Livonijos kariuome­
+    nės įžengė į Lietuvą, su vokiečių ir kryžiuočių kariais
+    užpultų Lenkiją, o jam, Vasilijui, už tai, kad nutraukė
+    draugystę
+    su
+    Žygimantu,
+    M a sk v o s
+    k u n ig a ik š-
+    kuo greičiausiai deramai at-
+    čio
+    s u k ty b ė s
+    p rie š
+    lygintų — suteiktų visos Ru-
+    Z y g im a n tą
+    sios bei Maskvos karaliaus
+    titulą ir
+    atsiųstų
+    vainiką.
+    Glinskiui davė daugybę pinigų, kad šis pasamdytų
+    Vokietijoje ir sukviestų į Maskvą prityrusių karių,
+    negailėdamas gerų algų. Šitai padaryti jam padėjo vo­
+    kiečių riteris Šleinicas, kuris Vokietijoje sutelktą di­
+    delį algininkų būrį per Livoniją atvedė Vasilijui. Ne­
+    trūko nė pačioje Lenkijoje Glinskio papirktų žmonių,
+    kurie Silezijos ir Moravijos pasieniuose pasamdytus
+    karius vedė Maskvos valdovui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kiek galėdamas šitokiems siūlymams priešinosi Solo-
+    gubas; visaip įrodinėdamas ir įtikinėdamas, jis mal­
+    daute maldavo vardan visų šventųjų, kad, skubotai
+    pasiduodami, neterštų šlovės, kurią įsigijo, garbingai
+    dvylika metų gindami pilį. Mat neilgai trukus į pa­
+    galbą atskubėsiąs karalius, kuris šiuo metu jau prie
+    Minsko: šitai ne gandai, bet tikros žinios. Vis dėlto
+    protingos kalbos neįtikino tų, kurie dėl išglebimo ry­
+    žosi žengti šį beprotišką žingsnį, reikalaudami veikiau
+    išduoti pilį, o ne pasiduoti. Nenorėdami, kad kuriam
+    vienam tektų visa atsakomybė už šį neapykantos vertą
+    sumanymą, jie visi lyg susitarę ėmė šaukti, kad reikia
+    kuo greičiausiai atiduoti pilį, antraip įgulos viršinin­
+    kas žūsiąs nuo jų rankos. Palaužtas jų maištingų nuo­
+    taikų, Sologubas balandžio 20 d. atidavė Glinskiui Smo­
+    lenską; ši žemė, Vytautui nukariavus jos kunigaikščius,
+    ištisą šimtmetį išbuvo Lietuvos didžiųjų kunigaikščių
+    valdžioje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-167749
@@ -428,21 +524,74 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
-    puolė Minską, bet visos jo pastangos nuėjo perniek,
-    nes bajorai grūmėsi labai ryžtingai, gindami žmonas
-    bei vaikus, su kuriais buvo pasitraukę į miestą. Ga­
-    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
-    kis tūkstančius algininkų bei didikų kariaunas ir ka­
-    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
-    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
-    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
-    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
-    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
-    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
-    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
-    jo per mažai karių.
+    Vėliau nušuoliavo prie upės ir iš užpakalio
+    užpuolė pakrantėje išstatytas saugas, atverdami savo
+    vyrams kelią. Karalius su kitais kariais laukė, kuo vis­
+    kas baigsis; pastebėjęs savo vėliavas kitame krante,
+    jis drąsiai pavarė žirgą į upę ir, vienur briste brisda­
+    mas, kitur plaukte plaukdamas, pirmas nusigavo į kitą
+    krantą, pervesdamas be jokių nuostolių visus raitelius.
+    Kol pėstininkai persikėlė plaustais, saulė pakrypo į va­
+    karus.
   citata_rodoma: "Vėliau nušuoliavo prie upės ir iš užpakalio\nužpuolė pakrantėje išstatytas saugas, atverdami savo\nvyrams kelią. Karalius su kitais kariais laukė, kuo vis­\nkas baigsis; pastebėjęs savo vėliavas kitame krante,\njis drąsiai pavarė žirgą į upę ir, vienur briste brisda­\nmas, kitur plaukte plaukdamas, pirmas nusigavo į kitą\nkrantą, pervesdamas be jokių nuostolių visus raitelius.\nKol pėstininkai persikėlė plaustais, saulė pakrypo į va­\nkarus."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-168267
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tačiau Vasilijus, negalėda­
+    mas užmiršti imperatoriaus bei kryžiuočių pažadų ir
+    tikėdamasis užgrobti visą Lietuvą, apie taiką nenorėjo
+    nė galvoti. Žygimantas, netekęs vilties pasiekti taikos,
+    kuo greičiausiai išsiuntė skitams pagal sutartį paža­
+    dėtą atlyginimą, manydamas, kad šie privers priešą
+    likti savo žemėje. Gavę pinigų, skitai užpuolė su di­
+    dele
+    kariuomene
+    Maskvos
+    S k ita i u žp u o la  M ask-
+    kunigaikštystę ir smarkiai ją
+    v o s  k u n ig a ik šty stę
+    nuniokojo.
+  citata_rodoma: "Tačiau Vasilijus, negalėda­\nmas užmiršti imperatoriaus bei kryžiuočių pažadų ir\ntikėdamasis užgrobti visą Lietuvą, apie taiką nenorėjo\nnė galvoti. Žygimantas, netekęs vilties pasiekti taikos,\nkuo greičiausiai išsiuntė skitams pagal sutartį paža­\ndėtą atlyginimą, manydamas, kad šie privers priešą\nlikti savo žemėje. Gavę pinigų, skitai užpuolė su di­\ndele\nkariuomene\nMaskvos\nS k ita i u žp u o la  M ask-\nkunigaikštystę ir smarkiai ją\nv o s  k u n ig a ik šty stę\nnuniokojo."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-168268
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­
+    dešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­
+    dešimt tūkstančių, įsakydamas, užėmus Oršą bei Druc-
+    ką, traukti tiesiai į Lietuvos sostinę Vilnių. Žygiuojan­
+    čią į priekį kariuomenę sustabdė žinia, jog karalius
+    Žygimantas prie Borisovo su trisdešimt tūkstančių rink­
+    tinių karių įkūrė stovyklą.
+    Tuo tarpu Glinskis suvo-
+    T ia g išk a s
+    M y k o lo
+    kė, jog visos jo viltys bergž-
+    G lin sk io  g a la s
+    džios ir tuščios, nes Vasili­
+    jus, žodžiu pažadėjęs jam ati­
+    duoti Smolenską ir šitaip atsilyginti už paramą, nė
+    nesirengė to daryti.
+  citata_rodoma: "Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­\ndešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­\ndešimt tūkstančių, įsakydamas, užėmus Oršą bei Druc-\nką, traukti tiesiai į Lietuvos sostinę Vilnių. Žygiuojan­\nčią į priekį kariuomenę sustabdė žinia, jog karalius\nŽygimantas prie Borisovo su trisdešimt tūkstančių rink­\ntinių karių įkūrė stovyklą.\nTuo tarpu Glinskis suvo-\nT ia g išk a s\nM y k o lo\nkė, jog visos jo viltys bergž-\nG lin sk io  g a la s\ndžios ir tuščios, nes Vasili­\njus, žodžiu pažadėjęs jam ati­\nduoti Smolenską ir šitaip atsilyginti už paramą, nė\nnesirengė to daryti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -451,79 +600,6 @@ media_all_json: |-
   pagrindzia:
     - t-008
 
-- id: c-168267
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Per pasiuntinius paskatino im­
-    peratorių Maksimilijoną, visa ko jam prižadėjęs, kad
-    tas, vos išgirdęs, jog Maskvos bei Livonijos kariuome­
-    nės įžengė į Lietuvą, su vokiečių ir kryžiuočių kariais
-    užpultų Lenkiją, o jam, Vasilijui, už tai, kad nutraukė
-    draugystę
-    su
-    Žygimantu,
-    M a sk v o s
-    k u n ig a ik š-
-    kuo greičiausiai deramai at-
-    čio
-    s u k ty b ė s
-    p rie š
-    lygintų — suteiktų visos Ru-
-    Z y g im a n tą
-    sios bei Maskvos karaliaus
-    titulą ir
-    atsiųstų
-    vainiką.
-    Glinskiui davė daugybę pinigų, kad šis pasamdytų
-    Vokietijoje ir sukviestų į Maskvą prityrusių karių,
-    negailėdamas gerų algų. Šitai padaryti jam padėjo vo­
-    kiečių riteris Šleinicas, kuris Vokietijoje sutelktą di­
-    delį algininkų būrį per Livoniją atvedė Vasilijui. Ne­
-    trūko nė pačioje Lenkijoje Glinskio papirktų žmonių,
-    kurie Silezijos ir Moravijos pasieniuose pasamdytus
-    karius vedė Maskvos valdovui.
-  citata_rodoma: "Tačiau Vasilijus, negalėda­\nmas užmiršti imperatoriaus bei kryžiuočių pažadų ir\ntikėdamasis užgrobti visą Lietuvą, apie taiką nenorėjo\nnė galvoti. Žygimantas, netekęs vilties pasiekti taikos,\nkuo greičiausiai išsiuntė skitams pagal sutartį paža­\ndėtą atlyginimą, manydamas, kad šie privers priešą\nlikti savo žemėje. Gavę pinigų, skitai užpuolė su di­\ndele\nkariuomene\nMaskvos\nS k ita i u žp u o la  M ask-\nkunigaikštystę ir smarkiai ją\nv o s  k u n ig a ik šty stę\nnuniokojo."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-    - t-007
-
-- id: c-168268
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Kiek galėdamas šitokiems siūlymams priešinosi Solo-
-    gubas; visaip įrodinėdamas ir įtikinėdamas, jis mal­
-    daute maldavo vardan visų šventųjų, kad, skubotai
-    pasiduodami, neterštų šlovės, kurią įsigijo, garbingai
-    dvylika metų gindami pilį. Mat neilgai trukus į pa­
-    galbą atskubėsiąs karalius, kuris šiuo metu jau prie
-    Minsko: šitai ne gandai, bet tikros žinios. Vis dėlto
-    protingos kalbos neįtikino tų, kurie dėl išglebimo ry­
-    žosi žengti šį beprotišką žingsnį, reikalaudami veikiau
-    išduoti pilį, o ne pasiduoti. Nenorėdami, kad kuriam
-    vienam tektų visa atsakomybė už šį neapykantos vertą
-    sumanymą, jie visi lyg susitarę ėmė šaukti, kad reikia
-    kuo greičiausiai atiduoti pilį, antraip įgulos viršinin­
-    kas žūsiąs nuo jų rankos. Palaužtas jų maištingų nuo­
-    taikų, Sologubas balandžio 20 d. atidavė Glinskiui Smo­
-    lenską; ši žemė, Vytautui nukariavus jos kunigaikščius,
-    ištisą šimtmetį išbuvo Lietuvos didžiųjų kunigaikščių
-    valdžioje.
-  citata_rodoma: "Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­\ndešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­\ndešimt tūkstančių, įsakydamas, užėmus Oršą bei Druc-\nką, traukti tiesiai į Lietuvos sostinę Vilnių. Žygiuojan­\nčią į priekį kariuomenę sustabdė žinia, jog karalius\nŽygimantas prie Borisovo su trisdešimt tūkstančių rink­\ntinių karių įkūrė stovyklą.\nTuo tarpu Glinskis suvo-\nT ia g išk a s\nM y k o lo\nkė, jog visos jo viltys bergž-\nG lin sk io  g a la s\ndžios ir tuščios, nes Vasili­\njus, žodžiu pažadėjęs jam ati­\nduoti Smolenską ir šitaip atsilyginti už paramą, nė\nnesirengė to daryti."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-168269
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

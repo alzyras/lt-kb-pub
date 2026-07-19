@@ -11,16 +11,16 @@ datos:
   - '1530 m.'
 date_start: '1514'
 date_end: '1530'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -147,6 +147,30 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
 - susijęs iš Orša: Po Smolensko paėmimo 1514 m. Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.
 - susijęs iš Voluinė: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
 - susijęs iš Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje: Kunigaikštis Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    stebėjęs, jog priešas pasimetęs, įsakė stoti į kovą vi­
+    siems savo raiteliams, kol maskvėnai dar neatsigavę,
+    ir. pats, nelyginant norėdamas būti pavyzdžiu, nušuo­
+    liavo į priekį. Paskui jį puolė visi kiti pulkai, o pir­
+    miausia lenkų didikų Jono Zborovskio, Lauryno Miš-
+    kovskio husarai, kurie, pralaužę pirmąją priešo lini­
+    ją, pradėjo iš arti kautis su maskvėnais kardais. Tuo
+    metu Ostrogiškis įsakė lietuvių vėliavoms trauktis at­
+    gal, dedantis, kad ketina pasišalinti iš kovos lauko,
+    būdamas tikras, kad priešo raiteliai paliks kovojančią
+    rikiuotę. Kaip ir tikėjosi, apgaulė pavyko. Maskvėnai,
+    pamanę, jog lietuviai sprunka iš kovos lauko, pasilei­
+    do jų vytis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-165127
@@ -276,19 +300,16 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    stebėjęs, jog priešas pasimetęs, įsakė stoti į kovą vi­
-    siems savo raiteliams, kol maskvėnai dar neatsigavę,
-    ir. pats, nelyginant norėdamas būti pavyzdžiu, nušuo­
-    liavo į priekį. Paskui jį puolė visi kiti pulkai, o pir­
-    miausia lenkų didikų Jono Zborovskio, Lauryno Miš-
-    kovskio husarai, kurie, pralaužę pirmąją priešo lini­
-    ją, pradėjo iš arti kautis su maskvėnais kardais. Tuo
-    metu Ostrogiškis įsakė lietuvių vėliavoms trauktis at­
-    gal, dedantis, kad ketina pasišalinti iš kovos lauko,
-    būdamas tikras, kad priešo raiteliai paliks kovojančią
-    rikiuotę. Kaip ir tikėjosi, apgaulė pavyko. Maskvėnai,
-    pamanę, jog lietuviai sprunka iš kovos lauko, pasilei­
-    do jų vytis.
+    Į nelaisvę pakliuvo
+    maskvėnų karo vadas Čeliadninas ir dešimt kitų žy­
+    mių didikų, daug dūmos narių ir du tūkstančiai bajo­
+    rų. Surengęs stovykloje kareiviškas pamaldas ir pa­
+    dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis
+    suskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­
+    niasdešimt žymiausių bajorų, išsiuntė juos karaliui su
+    laišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­
+    nią apie pralaimėjimą, paliko prie Smolensko savo ka­
+    riuomenę ir persigandęs pabėgo į Maskvą.
   citata_rodoma: "Į nelaisvę pakliuvo\nmaskvėnų karo vadas Čeliadninas ir dešimt kitų žy­\nmių didikų, daug dūmos narių ir du tūkstančiai bajo­\nrų. Surengęs stovykloje kareiviškas pamaldas ir pa­\ndėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis\nsuskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­\nniasdešimt žymiausių bajorų, išsiuntė juos karaliui su\nlaišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­\nnią apie pralaimėjimą, paliko prie Smolensko savo ka­\nriuomenę ir persigandęs pabėgo į Maskvą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

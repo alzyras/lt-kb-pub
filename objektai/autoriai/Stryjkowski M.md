@@ -33,17 +33,6 @@ media_all_json: |-
 Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582. Dusburgietis teigia, kad stryjkowski M.
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Stryjkowskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ pirmasis tomas išleistas Varšuvoje 1846 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
-    1846.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'M. Stryjkowskis 1582 m. Karaliaučiuje paskelbė „Kronika polska, litewska, żmódzka i wszystkiej Rusi“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,10 +52,8 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    — ABS, 1976, 9, s.
-    71—79.
-    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
-    происхождения балтов.
+    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
+    1846.
   citata_rodoma: "Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,\n1846."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -82,11 +69,7 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    — В., 1978.
-    Ванагас А. К вопросу о языковых ятвяжских реликтах в Литве. — ABS, 1976, 9, s.
-    71—79.
-    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
-    происхождения балтов.
+    Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
   citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

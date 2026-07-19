@@ -13,13 +13,13 @@ datos:
   - '1930 m.'
 date_start: '1262'
 date_end: '1930'
-amziai:
-  - 'XIII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -112,21 +112,6 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   pagrindžia:
     - c-61561
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų
-
-      540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.
-    156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61557
@@ -134,12 +119,10 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    255 (248). Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
-    1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
-    savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas. Tada jis padalijo
-    savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
-    kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
-    paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
+    Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų
+
+      540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.
+    156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).
   citata_rodoma: "Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų\n\n  540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.\n156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -11,14 +11,14 @@ datos:
   - '1313 m.'
 date_start: '1301'
 date_end: '1313'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - sąvoka
   - karinis-terminas
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -195,6 +195,94 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184872|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Trisdešimtą apgulos dieną Vytauto kariai pro sugriautus įtvirtinimus įsiveržė į žemutinę pilį.
 - susijęs iš [[objektai/daiktai/Pilies vartai.md#claim-t-59700|Pilies vartai (pilis, XIV a.)]]: Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.
 - susijęs iš [[objektai/zodynas/stabų garbinimas stabmeldystė.md#claim-t-58925|stabų garbinimas stabmeldystė]]: 1301 m. Aukaimio pilėnas Draika panoro išsižadėti stabų garbinimo ir per sūnų Piną paprašė Ragainės komtūro Folrado pagalbos.
+## Reikšmingi paminėjimai
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Po to tie 200 vyrų, kurie ėjo priekyje, sugrįžo, smarkiai
+    šūkaudami ir triukšmaudami, patraukė į mūšio lauką ir įvarė priešams tokį siaubą, kad
+    karalius bei visi jo žmonės, juos išvydę, bematant išmėtė ginklus ir pasileido bėgti. Tada
+    įniršę broliai nubaudė nusidėjėlius ir nužudė 17 Lietuvos karalystės galingesniųjų bei
+    daugybę paprastų žmonių.
+    292 (285). Apie Gardino papilio sunaikinimą
+    1306 viešpaties metais brolis Konradas, magistras, iš patikimų šaltinių sužinojęs, kad
+    didelė kariuomenė iš Lietuvos bei Gardino pilies patraukė link Lenkijos, išsiuntė šios
+    pilies užkariauti brolį Albrechtą iš Hageno bei kuriuos ne kuriuos kitus brolius su 400
+    Notangos vyrų. Kai jie priėjo pilį, kilo tokia vėtra, kad vienas kito negalėjo nei išgirsti, nei
+    pamatyti; audrai šėlstant, jie įsiveržė į šios pilies papilį, kuris tuo metu buvo ir didelis, ir
+    gausiai gyvenamas nelyginant koks miestas, ir, visus žmones išžudę ar paėmę į nelaisvę
+    bei sudeginę papilį, patraukė namo su tokiu grobiu, kokį įstengė išsigabenti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+    - t-007
+
+- c-004
+  santrauka: 'Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    jeigu sugautas kaimietis nebūtų pranešęs, jog ne­
+    toliese tyko Vytenis su karių būriais, kryžiuočiai,
+    persikėlę per Nemuną, patys būtų pakliuvę į pasalas,
+    kurias spendė Gardinui. Bisenės užpuolimas buvo nar­
+    siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
+    rių dalies netekęs priešas buvo priverstas pasitraukti
+    nieko nepešęs. Kadangi stip-
+    1313 m e ta i
+    riausios lietuvių pilys buvo
+    prie Nemuno bei kitų upių,
+    Verneris, Ragainės komtūras, patarė kryžiuočiams jas
+    vieną po kitos pulti laivais, įtikinėdamas, kad į van­
+    dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
+    prastai menkiau sutvirtinti ir lengviau prieinami. To­
+    dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
+    ma panašus į tvirtovę — su
+    P a sista tę la iv ų , k iy -
+    dantytais bortais, už kurių
+    žiu o č ia i p u o la lietu -
+    krantą bei pylimą puolančius
+    v iu s
+    karius galima geriau apsau­
+    goti nuo iečių bei strėlių ir
+    geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
+    priešą, stovintį krante.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Vytauto kariams įsiveržus į žemutinę Vitebsko pilį, kovojant dėl miesto sienos žuvo vienas kitas pilėnas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Drucko kunigaikščiai, pirmųjų Rusios valdo­
+    vų palikuonys, kurie šių neramumų pradžioje mažai
+    klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus
+    antpuolio sutriuškinti, supra-
+    S u tra m d o rusų didi-
+    to, jog kur kas geriau mal­
+    kus
+    dauti Vytautą — kad ir ne­
+    patikimo — atlaidumo, nei iš
+    naujo ginkluotis ir griebtis kalavijo, todėl nesunkiai,
+    pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
+    niams, susilaukė, ko prašė. Taip pat ir Jurijus Svia-
+    toslavovičius, Smolensko valdovas, nors ir elgėsi kaip
+    neabejotinas priešas, kol Vytautas dar nebuvo atvykęs,
+    tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­
+    draugiškus jausmus ir prijungė, puoselėdamas tam tik­
+    rus sumanymus, savo karines jėgas prie Vytauto. Smo-
+    lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
+    buvo nuvesta į Vitebską.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-59515
@@ -225,19 +313,15 @@ media_all_json: |-
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Po to tie 200 vyrų, kurie ėjo priekyje, sugrįžo, smarkiai
-    šūkaudami ir triukšmaudami, patraukė į mūšio lauką ir įvarė priešams tokį siaubą, kad
-    karalius bei visi jo žmonės, juos išvydę, bematant išmėtė ginklus ir pasileido bėgti. Tada
-    įniršę broliai nubaudė nusidėjėlius ir nužudė 17 Lietuvos karalystės galingesniųjų bei
-    daugybę paprastų žmonių.
-    292 (285). Apie Gardino papilio sunaikinimą
-    1306 viešpaties metais brolis Konradas, magistras, iš patikimų šaltinių sužinojęs, kad
-    didelė kariuomenė iš Lietuvos bei Gardino pilies patraukė link Lenkijos, išsiuntė šios
-    pilies užkariauti brolį Albrechtą iš Hageno bei kuriuos ne kuriuos kitus brolius su 400
-    Notangos vyrų. Kai jie priėjo pilį, kilo tokia vėtra, kad vienas kito negalėjo nei išgirsti, nei
-    pamatyti; audrai šėlstant, jie įsiveržė į šios pilies papilį, kuris tuo metu buvo ir didelis, ir
-    gausiai gyvenamas nelyginant koks miestas, ir, visus žmones išžudę ar paėmę į nelaisvę
-    bei sudeginę papilį, patraukė namo su tokiu grobiu, kokį įstengė išsigabenti.
+    Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
+
+       Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
+    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
+    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
+    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki
+    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
+    priėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
+    ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
   citata_rodoma: "Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais\n\n   Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,\npatraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis\npilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten\nįsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki\npamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir\npriėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę\nar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -294,6 +378,12 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
+    Iš tos išdavystės išėjo visai kas kita, nei vy­
+    lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,
+    WQ
+
+    ## Puslapis 189
+
     jeigu sugautas kaimietis nebūtų pranešęs, jog ne­
     toliese tyko Vytenis su karių būriais, kryžiuočiai,
     persikėlę per Nemuną, patys būtų pakliuvę į pasalas,
@@ -307,18 +397,7 @@ media_all_json: |-
     Verneris, Ragainės komtūras, patarė kryžiuočiams jas
     vieną po kitos pulti laivais, įtikinėdamas, kad į van­
     dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
-    prastai menkiau sutvirtinti ir lengviau prieinami. To­
-    dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
-    ma panašus į tvirtovę — su
-    P a sista tę la iv ų , k iy -
-    dantytais bortais, už kurių
-    žiu o č ia i p u o la lietu -
-    krantą bei pylimą puolančius
-    v iu s
-    karius galima geriau apsau­
-    goti nuo iečių bei strėlių ir
-    geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
-    priešą, stovintį krante.
+    prastai menkiau sutvirtinti ir lengviau prieinami.
   citata_rodoma: "Iš tos išdavystės išėjo visai kas kita, nei vy­\nlėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,\nWQ\n\n## Puslapis 189\n\njeigu sugautas kaimietis nebūtų pranešęs, jog ne­\ntoliese tyko Vytenis su karių būriais, kryžiuočiai,\npersikėlę per Nemuną, patys būtų pakliuvę į pasalas,\nkurias spendė Gardinui. Bisenės užpuolimas buvo nar­\nsiai pilėnų atremtas; smarkiai sumuštas ir didelės ka­\nrių dalies netekęs priešas buvo priverstas pasitraukti\nnieko nepešęs. Kadangi stip-\n1313 m e ta i\nriausios lietuvių pilys buvo\nprie Nemuno bei kitų upių,\nVerneris, Ragainės komtūras, patarė kryžiuočiams jas\nvieną po kitos pulti laivais, įtikinėdamas, kad į van­\ndens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­\nprastai menkiau sutvirtinti ir lengviau prieinami."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
@@ -333,25 +412,17 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Drucko kunigaikščiai, pirmųjų Rusios valdo­
-    vų palikuonys, kurie šių neramumų pradžioje mažai
-    klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus
-    antpuolio sutriuškinti, supra-
-    S u tra m d o rusų didi-
-    to, jog kur kas geriau mal­
-    kus
-    dauti Vytautą — kad ir ne­
-    patikimo — atlaidumo, nei iš
-    naujo ginkluotis ir griebtis kalavijo, todėl nesunkiai,
-    pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
-    niams, susilaukė, ko prašė. Taip pat ir Jurijus Svia-
-    toslavovičius, Smolensko valdovas, nors ir elgėsi kaip
-    neabejotinas priešas, kol Vytautas dar nebuvo atvykęs,
-    tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­
-    draugiškus jausmus ir prijungė, puoselėdamas tam tik­
-    rus sumanymus, savo karines jėgas prie Vytauto. Smo-
-    lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
-    buvo nuvesta į Vitebską.
+    Apgula užtruko ištisą mėnesį,
+    tačiau ne dėl to, kad nebuvo
+    A p su p a  V ite b s k ą
+    daroma, kas tokiais atvejais
+    reikalinga, o todėl, kad gynė­
+    jai, ypač Livonijos kariai, klausydami ne tiek Švitri­
+    gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
+    nosi iš paskutiniųjų. Galop trisdešimtą dieną Vytauto
+    kariai įsiveržė pro visiškai sugriautus įtvirtinimus į
+    žemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas
+    kitas pilėnas.
   citata_rodoma: "Apgula užtruko ištisą mėnesį,\ntačiau ne dėl to, kad nebuvo\nA p su p a  V ite b s k ą\ndaroma, kas tokiais atvejais\nreikalinga, o todėl, kad gynė­\njai, ypač Livonijos kariai, klausydami ne tiek Švitri­\ngailos skatinimų, kiek įsakymų bei grasinimų, prieši­\nnosi iš paskutiniųjų. Galop trisdešimtą dieną Vytauto\nkariai įsiveržė pro visiškai sugriautus įtvirtinimus į\nžemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas\nkitas pilėnas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

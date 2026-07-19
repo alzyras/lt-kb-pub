@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)
 
 ## Santrauka
@@ -70,21 +71,6 @@ Nenurodyta
   pagrindžia:
     - c-169014
 
-<a id="claim-t-185654"></a>
-- t-002
-  teiginys: "1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1461 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys OCR triukšmingas; citata palaiko glaustą faktą."
-  pagrindžia:
-    - c-169014
-
 <a id="claim-t-196264"></a>
 - t-003
   teiginys: "Karalius Kazimieras, rengdamasis traukti į Prūsiją, sušaukė Vilniuje lietuvių seimą dėl Lietuvos ir Podolės didikų įtampos."
@@ -121,7 +107,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-169015
   autorius: "Albertas Vijūkas-Kojelavičius"

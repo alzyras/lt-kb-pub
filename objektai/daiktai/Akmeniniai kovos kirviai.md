@@ -147,16 +147,11 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Saurų dvaro muziejaus kataloge T. Nar­
-    butas rašė: „Ašarinės: viena pagaminta iš stiklo, su ašaromis;
-    antra stiklinis rutulėlis, bet viduje tuščias, su kapiliaro dydžio
-    skylute; trečia panaši j ypatingos formos buteliuką; ketvirtosios,
-    keramikinės, [belikusi] tik nuolauža, ypač meistriškai padaryta ir
-    medžiaga labai reta. Visos jos iš įvairių palaidojimų“ ([Narbutt TĄ
-    Spisanie Muzeum w Szawrach. L. 3. Nr. 32). Ašarines, greta die­
-    vo Kovo statulėlės, T. Narbutas laikė pačiais vertingiausiais savo
-    kolekcijos
-    egzemplioriais.
+    „Akmeniniai kirviai randami laukuose ir prie senų sody­
+    bų,
+    bet
+    ne
+    kapavietėse“
   citata_rodoma: "„Akmeniniai kirviai randami laukuose ir prie senų sody­\nbų,\nbet\nne\nkapavietėse“"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

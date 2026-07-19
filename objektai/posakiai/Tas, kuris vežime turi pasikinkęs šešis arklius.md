@@ -61,18 +61,12 @@ Patarlė ironiškai sieja drąsą dėti kepurę ant stalo su pabėgimo, pinigų 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Todėl metai būdavo mėnulio ir, palyginti su saulės me­
-    tais, turėdavo daugiau kaip 12 mėnesių. Praėjusius metus žy­
-    mėdavo mazgeliais, įpjovomis arba ženklais šventyklose,
-    įspaustais į mūrą, kaip matėme anksčiau.
-    Kaip pažymi ponas Rėza, dar jie turėjo laiko dalijimą į
-    devynis periodus, perimtą iš skandinavų, bet smulkesnių duo­
-    menų apie tai neturime.
-    Štai lietuviški mėnesių pavadinimai iš kalendoriaus, esan­
-    čio senose maldų knygose, išspausdintose pamaldų reikalui.
-    Kadangi mitologiniai metai prasidėdavo nuo balandžio, tai juos
-    išvardysime šia tvarka:
-    1.
+    Tokios priesaikos turėjo būti žinomos jau labai senais lai­
+    kais, o po unijos jas pažino ir lenkai, nes labai sena patarlė sa­
+    ko: „ Tas, kuris vežime turi pasikinkęs šešis arklius, kuris dėžutėje
+    turi tūkstantį dukatų, o priešininką -  už dviejų mylių, tas gali
+    drésiai dėti kepurę ant stalo“'9. Tai išrašyta iš XVI amžiaus vie­
+    tinių dokumentų18 19 20.
   citata_rodoma: "Tokios priesaikos turėjo būti žinomos jau labai senais lai­\nkais, o po unijos jas pažino ir lenkai, nes labai sena patarlė sa­\nko: „ Tas, kuris vežime turi pasikinkęs šešis arklius, kuris dėžutėje\nturi tūkstantį dukatų, o priešininką -  už dviejų mylių, tas gali\ndrésiai dėti kepurę ant stalo“'9. Tai išrašyta iš XVI amžiaus vie­\ntinių dokumentų18 19 20."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

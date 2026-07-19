@@ -47,18 +47,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195341"></a>
-- t-001
-  teiginys: "Vestuvių vakarienės indas ir gervės vaidinimo taikinys ant stalo."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177743
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -100,5 +88,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

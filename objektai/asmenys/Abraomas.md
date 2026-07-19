@@ -23,6 +23,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Abraomas
 
 ## Santrauka
@@ -85,27 +86,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - susijęs iš [[objektai/autoriai/Izidoras.md#claim-t-190429|Izidoras]]: Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygumose matė ąžuolą, žmonių laikytą šventu.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116740|Katalikų Bažnyčia]]: Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus.
 - susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192026|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas nurodo, kad Vilniaus vyskupas Bžostovskis 1710 m. dar matė aukojimo puotų paprotį ir griežtai jį uždraudė.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas perteikia Izidoro pasakojimą, kad Mamrės lygumose matytas šventu laikytas ąžuolas, po kuriuo Abraomas statęs palapines.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tie trys medžiai suaugę į vieną medį, kuris
-    buvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­
-    venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly­
-    gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas
-    statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė
-    šventu.
-    Nepalyginti labiau medžius aukštino ir garbino stabmel­
-    džiai; jie pripažindavo šventais ne tik pavienius medžius, bet
-    net ištisus miškelius, kurių nederėjo liesti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-188508
-
 ## Citatos
 
 - id: c-60858
@@ -163,16 +143,15 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tas paniekinimas taip
-    įžeidė hamadriadę, kad ji atėmė iš jo sugebėjimą valdyti tam
-    tikras kūno dalis. Tačiau, kaip sako mūsų filosofas, ne tiek,
-    kad neturėtų pakankamai jėgos nukirsti ąžuolą ir taip padary­
-    ti galą piktajai meilužei.
-    Tas pats autorius išsaugojo mums kitą pasakojimą. Hamad-
-    riadė Chrisopelėja, būdama netoli mirties, nes upė paplovė
-    medžio, nuo kurio priklausė jos būtis, šaknis, kreipėsi į tenai
-    medžiojusį Arką, prašydama nukreipti šalin vandenį ir apkas­
-    ti žemėmis jau beveik griūvantį medį.
+    Tie trys medžiai suaugę į vieną medį, kuris
+    buvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­
+    venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly­
+    gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas
+    statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė
+    šventu.
+    Nepalyginti labiau medžius aukštino ir garbino stabmel­
+    džiai; jie pripažindavo šventais ne tik pavienius medžius, bet
+    net ištisus miškelius, kurių nederėjo liesti.
   citata_rodoma: "Tie trys medžiai suaugę į vieną medį, kuris\nbuvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­\nvenęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly­\ngumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas\nstatęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė\nšventu.\nNepalyginti labiau medžius aukštino ir garbino stabmel­\ndžiai; jie pripažindavo šventais ne tik pavienius medžius, bet\nnet ištisus miškelius, kurių nederėjo liesti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

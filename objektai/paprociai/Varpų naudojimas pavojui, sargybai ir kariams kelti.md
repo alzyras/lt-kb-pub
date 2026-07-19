@@ -7,13 +7,13 @@ datos:
   - '1780 m.'
 date_start: '1780'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karinė-praktika
   - paprotys
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -83,23 +83,6 @@ Nenurodyta
   pagrindžia:
     - c-177036
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Gumbinės (Gumbin) miestas nuo
-    tokio varpo gavęs pavadinimą.
-    Kronikininkai taip pat mano, kad dievui Varpui būdavo
-    aukojami gaidžiai, kaip budrumo simboliai.
-    Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
-    skirtų tam tikroms religinėms apeigoms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172696
@@ -107,15 +90,12 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tik pastebime iš žmonių pasakojimų, kad kalbama apie tam
-    tikrus akmenis, gulinčius prie kelio. Toks akmuo vadinosi Ak­
-    muo užukiejkimo Kieto Dewo (Kelio dievo užkeikimo akmuo);
-    tiksliausiai išvertus - akmuo, paskirtas kelių dievui. Niekas
-    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
-    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
-    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
-    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
-    sigauti.
+    Gumbinės (Gumbin) miestas nuo
+    tokio varpo gavęs pavadinimą.
+    Kronikininkai taip pat mano, kad dievui Varpui būdavo
+    aukojami gaidžiai, kaip budrumo simboliai.
+    Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
+    skirtų tam tikroms religinėms apeigoms.
   citata_rodoma: "Gumbinės (Gumbin) miestas nuo\ntokio varpo gavęs pavadinimą.\nKronikininkai taip pat mano, kad dievui Varpui būdavo\naukojami gaidžiai, kaip budrumo simboliai.\nSenovės egiptiečiai, persai, graikai, romėnai turėjo varpų,\nskirtų tam tikroms religinėms apeigoms."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

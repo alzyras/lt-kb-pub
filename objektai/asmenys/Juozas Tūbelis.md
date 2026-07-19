@@ -8,16 +8,16 @@ datos:
   - '1938 m.'
 date_start: '1929'
 date_end: '1938'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ministras
   - asmuo
   - pareigūnas
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'modernioji Lietuva'
 media_total_count: '1'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-896479114%2Fthumbnail-original%2Fget.jpg&type=IMAGE'
 media_primary_canonical_url: 'https://www.europeana.eu/item/2021802/LIMIS_896479114'
@@ -93,22 +93,6 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-154761
-
-<a id="claim-t-170080"></a>
-- t-006
-  teiginys: "Juozui Tūbeliui radus rinką Didžiojoje Britanijoje, Lietuvos prekyba su šia šalimi užėmė pirmą vietą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozas Tūbelis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Tūbelis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-154766
 
 <a id="claim-t-170081"></a>
 - t-001
@@ -208,6 +192,28 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 - susijęs iš [[objektai/grupes/Lietuvių tautininkų sąjunga.md#claim-t-44993|Lietuvių tautininkų sąjunga]]: Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai.
 - susijęs iš [[objektai/grupes/Valstybės saugumo departamentas.md#claim-t-183191|Valstybės saugumo departamentas]]: Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.
 - susijęs iš [[objektai/grupes/Valstybės saugumo departamentas.md#claim-t-20059|Valstybės saugumo departamentas]]: Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
+    jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
+    A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę. Svar-
+    biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą
+    platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios LDK pra-
+    eityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
+    A. Smetonos ir J. Tūbelio tandemas
+    Ūkinių ir kooperatinių organizacijų kūrėjas ir vadovas
+    J. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis
+    ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
+    1938 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-154758
@@ -291,17 +297,14 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
-    jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
-    A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę. Svar-
-    biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą
-    platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios LDK pra-
-    eityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
     A. Smetonos ir J. Tūbelio tandemas
     Ūkinių ir kooperatinių organizacijų kūrėjas ir vadovas
     J. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis
     ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
-    1938 m.
+    1938 m. J. Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai
+    priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti
+    krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-
+    keliamas skolas.
   citata_rodoma: "A. Smetonos ir J. Tūbelio tandemas\nŪkinių ir kooperatinių organizacijų kūrėjas ir vadovas \nJ. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis \nramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–\n1938 m. J. Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai \npriešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti \nkrizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-\nkeliamas skolas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
@@ -390,11 +393,9 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   citata_rodoma: "Įvykiai Užnemunėje – stiprus smūgis ir ministrui pirmininkui J. Tū-\nbeliui, ir A. Smetonai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-
 ## Ryšiai
 - Paskyrė Juozas Tūbelį: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

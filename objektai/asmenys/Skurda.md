@@ -71,16 +71,9 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dėl to Prūsijoje daug naujakrikščių,
-    kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui
-    bei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai
-    buvę nekilmingi, pelnė laisvę už ištikimą tarnybą tikėjimui ir broliams518.
-    221 (216). Baigiamas karas Prūsijoje. Prasideda karas su lietuviais
-    1283 viešpaties metais, kai nuo karų su prūsų gentimis pradžios prabėgo jau 53 metai
-    ir visos šios žemės giminės [nationes] jau buvo nukariautos ir išvaikytos, žodžiu, kai čia
-    nebeliko nė vieno, kuris nebūtų nuolankiai paklusęs šventajai Romos bažnyčiai, Teutonų
-    ordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta,
-    kuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje.
+    Tačiau Skurdą516,
+    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
+    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
   citata_rodoma: "Tačiau Skurdą516,\nkitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į\nLietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

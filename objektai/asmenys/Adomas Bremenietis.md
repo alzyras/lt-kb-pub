@@ -261,14 +261,13 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    dintas kriviu3, kurį gerbė kaip popiežių, nes kaip mūsų Šven­
-    tasis tėvas valdo visuotinę bažnyčią, taip šis vadovavo stab­
-    meldžiams. Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
-    viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
-    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
-    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
-    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
-    davo karalių, ponų ir prastuomenės didžios pagarbos.
+    Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
+    šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
+    apiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­
+    mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
+    tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
+    krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
+    šaltinių.
   citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

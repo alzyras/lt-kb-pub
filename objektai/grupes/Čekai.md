@@ -11,14 +11,14 @@ datos:
   - '1421 m.'
 date_start: '1413'
 date_end: '1421'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - karalius
   - tauta
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -275,6 +275,41 @@ media_all_json: |-
 - susijęs iš Vilniaus pilys: Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.
 - susijęs iš Vilniaus pilys: Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
 - susijęs iš Vilniaus pilys: Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu.
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jogaila
+    1419 m e ta i
+    ir Vytautas, įsitikinę, jog len­
+    kų reikalavimai teisėti, neat­
+    metė šitokios galimybės ginčui išspręsti. Kai paaiškėjo,
+    kad imperatoriaus sprendimai nesiremia teisingumu,
+    kad jo skelbiamos ištarmės pažeidžia net moralės nor­
+    mas, jie atsisakė jo tarpinin-
+    1420 m e ta i
+    kavimo ir pasiryžo ginklu įro-
+    kilusių tikybinių nesutarimų čekai atsisakė klausyti
+    Romos bažnyčios, pradėjo atvirai maištauti prieš savo
+    karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
+    myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
+    prieš imperatoriaus galybę. Žinodami, kad pastarojo
+    Č ek a i siūlo karaliaus
+    v a in ik ą
+    Jog a ila i
+    ir
+    V y ta u tu i
+    šiaurėje bei rytuose ir paska­
+    tino kaimynus čekus, atsikra­
+    čius teisėto valdovo valdžios,
+    pasisiūlyti į valdinius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-36970
@@ -386,30 +421,12 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Jogaila
-    1419 m e ta i
-    ir Vytautas, įsitikinę, jog len­
-    kų reikalavimai teisėti, neat­
-    metė šitokios galimybės ginčui išspręsti. Kai paaiškėjo,
-    kad imperatoriaus sprendimai nesiremia teisingumu,
-    kad jo skelbiamos ištarmės pažeidžia net moralės nor­
-    mas, jie atsisakė jo tarpinin-
-    1420 m e ta i
-    kavimo ir pasiryžo ginklu įro-
-    kilusių tikybinių nesutarimų čekai atsisakė klausyti
-    Romos bažnyčios, pradėjo atvirai maištauti prieš savo
-    karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
-    myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
-    prieš imperatoriaus galybę. Žinodami, kad pastarojo
-    Č ek a i siūlo karaliaus
-    v a in ik ą
-    Jog a ila i
-    ir
-    V y ta u tu i
-    šiaurėje bei rytuose ir paska­
-    tino kaimynus čekus, atsikra­
-    čius teisėto valdovo valdžios,
-    pasisiūlyti į valdinius.
+    Panašų atsakymą gavo jie ir iš
+    Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
+    manydami, jog troškimas gauti karaliaus vainiką įveiks
+    kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
+    gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
+    dis.
   citata_rodoma: "Panašų atsakymą gavo jie ir iš\nVytauto. Tačiau čekai neišsižadėjo savo sumanymo,\nmanydami, jog troškimas gauti karaliaus vainiką įveiks\nkiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­\ngūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­\ndis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

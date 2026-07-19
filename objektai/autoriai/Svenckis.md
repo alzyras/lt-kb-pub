@@ -48,10 +48,12 @@ Narbutas nekritišku laikė Svenckio teiginį, kad Prūsų ąžuolas dėl storum
   pagrindžia:
     - c-173289
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas nekritišku laikė Svenckio teiginį, kad Prūsų ąžuolas dėl storumo buvęs tarsi tvirtovė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-173289
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kryžiuočiai
     paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
@@ -60,27 +62,6 @@ Narbutas nekritišku laikė Svenckio teiginį, kad Prūsų ąžuolas dėl storum
     džiai, dėl savo storumo buvęs kaip tvirtovė. Šitoks padavimas
     išliko dėl tos priežasties, kad aplink ąžuolą buvo stiprus ap­
     tvaras: tai ir sudarė senovės lietuvių šventyklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173289
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
-    jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
-    išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
-    Kronikininkai teigia, kad, pasak vietos padavimų, toje vie­
-    toje senovėje buvusi ir prūsų šventykla. Apskritai reikia ma­
-    nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
-    kadangi šio medžio šventumas lietuvių mitologijoje susiliejo
-    su dievų buveinės vaizdiniu.
   citata_rodoma: "Kryžiuočiai\npaėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,\ntoje vietoje įkūrė Senąją Torunę. Ponas Svenckis12 13 nekritiškai\nteigia, kad šis ąžuolas, kaip ir visi kiti panašūs to krašto me­\ndžiai, dėl savo storumo buvęs kaip tvirtovė. Šitoks padavimas\nišliko dėl tos priežasties, kad aplink ąžuolą buvo stiprus ap­\ntvaras: tai ir sudarė senovės lietuvių šventyklą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

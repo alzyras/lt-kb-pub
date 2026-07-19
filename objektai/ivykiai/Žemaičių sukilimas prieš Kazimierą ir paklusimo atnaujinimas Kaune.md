@@ -63,12 +63,10 @@ Nenurodyta
   pagrindžia:
     - c-169904
 
-## Citatos
-
-- id: c-169904
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didysis kunigaikštis Kazimieras, sutelkęs visas savo
     Lietuvos pajėgas, tą patį rudenį atėjo prie Smolensko,
@@ -92,6 +90,26 @@ Nenurodyta
     didžiojo kunigaikščio Kazimiero globėją Joną Goštau­
     tą, nes Jonas Goštautas buvo kunigaikščio Jurgio vai­
     kų krikštatėvis ir todėl jiedu bičiuliškai sugyveno.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169904
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
+    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
+    turtą. Patvirtinęs jų privilegijas priesaikomis1 9  ir pa­
+    jungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­
+    lai palikti Kantautą bent trejus metus Žemaičių seniū­
+    nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
+    gaikščiui Kazimierui.
   citata_rodoma: "Ir didysis kunigaikštis Kazimieras juos priėmė, pri­\nsiekė elgsiąsis su jais maloningai ir patiksiąs jiems jų\nturtą. Patvirtinęs jų privilegijas priesaikomis1 9  ir pa­\njungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­\nlai palikti Kantautą bent trejus metus Žemaičių seniū­\nnu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­\ngaikščiui Kazimierui."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

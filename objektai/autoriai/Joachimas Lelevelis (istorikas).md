@@ -8,16 +8,16 @@ datos:
   - '1825 m.'
 date_start: '1825'
 date_end: ''
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - mokslininkas
   - autorius
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -118,23 +118,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   pagrindžia:
     - c-179115
 
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: '18 Lelevelio senovės geografijos tyrimai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ši deivė savo reikšme visiškai tapati romėnų žinomam die­
-    vaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo
-    paprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­
-    kirtimo vietoje.
-    18 Lelevelio senovės geografijos tyrimai*.
-    19 Kunigo Sirvydo žodynas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-64343
@@ -216,14 +199,12 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bet ketvirtoji - Gadintoja (Ga­
-    dintoja) - savo pasakomis dažnai sugebėdavo anas atitraukti
-    nuo darbo; jos dirbdavo arba blogai, arba visiškai nutraukdavo
-    darbą. Tokiais atvejais žmogui imdavo nesisekti; dažnai toji pik­
-    ta deivė vogčiomis imdavo gadinti darbą, ir žmogus tapdavo luo­
-    šiu arba išsikraustydavo iš proto. Bet penktoji deivė - Sargė (Sar-
-    gietoje) - tai pastebėjusi, anoms trims primindavo jų priedermes
-    ir sergėdavo žmonių likimus.
+    Ši deivė savo reikšme visiškai tapati romėnų žinomam die­
+    vaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo
+    paprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­
+    kirtimo vietoje.
+    18 Lelevelio senovės geografijos tyrimai*.
+    19 Kunigo Sirvydo žodynas.
   citata_rodoma: "Ši deivė savo reikšme visiškai tapati romėnų žinomam die­\nvaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo\npaprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­\nkirtimo vietoje.\n18 Lelevelio senovės geografijos tyrimai*.\n19 Kunigo Sirvydo žodynas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

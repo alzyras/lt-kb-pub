@@ -7,13 +7,13 @@ datos:
   - '1262 m.'
 date_start: '1262'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -88,37 +88,6 @@ Nenurodyta
   pagrindžia:
     - c-168968
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Netekę vadų, Mazovijos žmonės bandė priešintis, bet buvo sumušti, o po to nusiaubta visa Mazovija ir didelė Kujavijos dalis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Netekę vadų,
-    ■ Mazovijos žmonės, sutelkę žemdirbius ir aukštuomenę
-    1262 m eta i
-    buvo jų baigtis, neturiu ži­
-    nios, Tuo tarpu Mindaugas,
-    L ie tu v ia i siau bia
-    M a zo v i ją
-    ginklo draugystė, nukreipta
-    prieš lenkus. Po to tais pa­
-    čiais metais Švarnas, Kije-
-    108
-
-    ## Puslapis 107
-
-    į vieną vietą, pamėgino atremti priešus; ne vieno vy­
-    ro vedami ir rikiuojami, bet sumišai veikdami, kaip
-    paprastai esti, ištikus netikėtai nelaimei, nugalėti ir
-    sumušti turėjo nusileisti jėgai. Po to žiauriai nusiau­
-    bus visą Mazoviją ir didelę Kujavijos dalį, grobis ir
-    kariuomenė be nuostolių buvo parsiųsdinti namo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-168967
@@ -150,22 +119,26 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to žiauriai nusiau­
+    Netekę vadų,
+    ■ Mazovijos žmonės, sutelkę žemdirbius ir aukštuomenę
+    1262 m eta i
+    buvo jų baigtis, neturiu ži­
+    nios, Tuo tarpu Mindaugas,
+    L ie tu v ia i siau bia
+    M a zo v i ją
+    ginklo draugystė, nukreipta
+    prieš lenkus. Po to tais pa­
+    čiais metais Švarnas, Kije-
+    108
+
+    ## Puslapis 107
+
+    į vieną vietą, pamėgino atremti priešus; ne vieno vy­
+    ro vedami ir rikiuojami, bet sumišai veikdami, kaip
+    paprastai esti, ištikus netikėtai nelaimei, nugalėti ir
+    sumušti turėjo nusileisti jėgai. Po to žiauriai nusiau­
     bus visą Mazoviją ir didelę Kujavijos dalį, grobis ir
-    kariuomenė be nuostolių buvo parsiųsdinti namo. Ki­
-    tais metais Mindaugas žiemą nusiaubė Livoniją: vasa­
-    rio 2 dieną užėmė bei su-
-    1263 m e ta i
-    griovė Pernu, prie Daugav-
-    gryvos susikovė su priešu.
-    Po to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­
-    ją: kadangi čia negalėjo priešo įvilioti į mūšį, o po
-    ankstesnių nuniokojimų šalyje nebuvo nieko dora li­
-    kę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos
-    Lovičiaus apygardos, todėl iš ten buvo išgabentas di­
-    džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­
-    ju. Po teisybei, ne tik mozūrams, bet ir lenkams įky­
-    rėjo šitiek daugel kartų užgriūnanti nelaimė.
+    kariuomenė be nuostolių buvo parsiųsdinti namo.
   citata_rodoma: "Netekę vadų,\n■ Mazovijos žmonės, sutelkę žemdirbius ir aukštuomenę\n1262 m eta i\nbuvo jų baigtis, neturiu ži­\nnios, Tuo tarpu Mindaugas,\nL ie tu v ia i siau bia\nM a zo v i ją\nginklo draugystė, nukreipta\nprieš lenkus. Po to tais pa­\nčiais metais Švarnas, Kije-\n108\n\n## Puslapis 107\n\nį vieną vietą, pamėgino atremti priešus; ne vieno vy­\nro vedami ir rikiuojami, bet sumišai veikdami, kaip\npaprastai esti, ištikus netikėtai nelaimei, nugalėti ir\nsumušti turėjo nusileisti jėgai. Po to žiauriai nusiau­\nbus visą Mazoviją ir didelę Kujavijos dalį, grobis ir\nkariuomenė be nuostolių buvo parsiųsdinti namo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

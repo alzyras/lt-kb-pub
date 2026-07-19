@@ -9,10 +9,6 @@ datos:
   - '1422 m.'
 date_start: '1402'
 date_end: '1422'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +16,10 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -236,24 +236,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-173887
 - susijęs iš Breslavas: 1420 m. Breslavo suvažiavime Zigmantas Liuksemburgietis patvirtino 1411 m. Torno sutartį.
 - susijęs iš Kujavija: Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.
-## Reikšmingi paminėjimai
-- c-010
-  santrauka: 'Narbutas nurodo, kad 1402–1403 m. Čekijoje ir 1404 m. Moravijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai su kumanais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
-    gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­
-    ma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­
-    ravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio
-    kariai kartu su kumanais linksminosi2.
-    139
-    Pastabos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-36622
@@ -459,13 +441,13 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tenykščiai kaimiečiai yra originalūs slavai, at­
-    sikėlę iš Rusios kitapus Bugo, o tai įrodo jų kalba, įpročiai
-    ir papročiai. Bet vietinius gyventojus jie pralenkia dvasine
-    kultūra, amatais ir gražesniu kūno sudėjimu. Šiuo at­
-    žvilgiu jie netgi gerokai pranoksta lietuvius polesiečius.
-    Istoriniai tyrinėjimai byloja, jog Vladislovas Lokietka, ap-
-    1 Leidinyje „Tygodnik Wilenski“ (1817.
+    Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
+    gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­
+    ma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­
+    ravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio
+    kariai kartu su kumanais linksminosi2.
+    139
+    Pastabos.
   citata_rodoma: "Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje\ngyveno Vengrijoje arba gretimuose kraštuose. Juk žino­\nma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­\nravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio\nkariai kartu su kumanais linksminosi2.\n139\nPastabos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

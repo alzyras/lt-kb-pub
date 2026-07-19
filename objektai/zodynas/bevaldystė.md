@@ -73,18 +73,11 @@ Vartojama pejoratyviai apibūdinti Lietuvos ir Lenkijos santvarkos suirimui.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš visų spausdintų
-    verčiausias yra vienas Strijkovskis**, po to — prūsų ir
-    Livonijos kronikininkai. Nepaneigiama tiesa tai, kad šis
-    istorikas būtų buvęs laimingesnis, jei būtų panorėjęs ap­
-    siriboti tik senienų ir rankraščių, kurių daugelį turėjo po
-    ranka, rinkėjo šlove; bet, nelaimei, jis įsigeidė istorijos,
-    suskirstytos į knygas ir skyrius, kurių priekyje įdėtų sa­
-    vo rėmėjų vardus. Užsikrovęs šią ne pagal savo jėgas
-    naštą, mūsų garbingasis pirmtakas skubėjo be menkiau­
-    sios kritikos, be atsargumo su datomis, palyginimo, da­
-    lyko nagrinėjimo, ir skubėjo pagrįstai: jau nedaug metų
-    jam buvo skirta gyventi.
+    Lietuva, susijungusi
+    su Lenkija, savanoriškai atsisakė savo nepriklausomybės,
+    pateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos
+    išorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,
+    padarė ją niokojančių karų grobiu.
   citata_rodoma: "Lietuva, susijungusi\nsu Lenkija, savanoriškai atsisakė savo nepriklausomybės,\npateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos\nišorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,\npadarė ją niokojančių karų grobiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

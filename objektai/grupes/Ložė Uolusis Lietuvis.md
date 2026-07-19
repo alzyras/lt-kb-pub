@@ -8,13 +8,13 @@ datos:
   - '1819 m.'
 date_start: '1816'
 date_end: '1819'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - organizacija
   - grupe
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -83,12 +83,9 @@ Vilniuje veikusi masonų ložė.
   pagrindžia:
     - c-55855
 - susijęs iš [[objektai/grupes/Masonų ložė „Uolusis lietuvis“.md#claim-t-183171|Masonų ložė „Uolusis lietuvis“]]: Po 1812 m. Lietuvoje išpopuliarėjus masonų judėjimui, „Uolusis lietuvis“ buvo garsiausioji masonų ložė.
-## Citatos
-
-- id: c-55855
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu
     Vilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu­
@@ -98,6 +95,25 @@ Vilniuje veikusi masonų ložė.
 
     ## Puslapis 8
 
+    1819 m. pats įstojo į šią ložę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-55855
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tuo metu
+    Vilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu-
+    vis sąraše buvo 114 narių, tarp kurių nemažai Vilniaus universi-
+    teto profesorių. M. Balinskis daugelį iš jų asmeniškai pažinojo,
     1819 m. pats įstojo į šią ložę.
   citata_rodoma: "Tuo metu \nVilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu-\nvis sąraše buvo 114 narių, tarp kurių nemažai Vilniaus universi-\nteto profesorių. M. Balinskis daugelį iš jų asmeniškai pažinojo,\n1819 m. pats įstojo į šią ložę."
   statusas: verified

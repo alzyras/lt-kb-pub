@@ -50,18 +50,6 @@ Plunksnų pirkliai šiame šaltinyje yra juokinis vestuvių dalyvių prisistatym
 
 Terminas vartojamas kraičvežių kalboje ir vaidmeniniame vestuvių juoke.
 
-## Teiginiai
-
-<a id="claim-t-195628"></a>
-- t-001
-  teiginys: "Kraičvežiai šiame šaltinyje juokais vadinasi plunksnų pirkliais."
-  atnaujinta: "2026-07-12 08:46"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178030
-
 ## Citatos
 
 - id: c-178030
@@ -83,5 +71,3 @@ Terminas vartojamas kraičvežių kalboje ir vaidmeniniame vestuvių juoke.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

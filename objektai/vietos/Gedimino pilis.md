@@ -231,14 +231,11 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo tarpu broliai jau buvo priėję tokią vietą, kur nesitikėjo jokių pavojų,
-    todėl pasidėjo į šalį ginklus, į priekį pasiuntė vieną brolį su 200 vyrų, o patys su būreliu
-    karių nusekė iš tolo paskui juos. Tuo metu netikėtai juos užgriuvo karalius su savaisiais,
-    ir pirmame susidūrime vienas rusas pervėrė ietimi brolį Bolandą Jaunesnįjį, mūsų jau
-    minėto fogto brolėną, šitai išvydęs, fogtas neapsakomai įniršo, nubloškė užpakalin skydą
-    ir, pasičiupęs kalaviją, abiem rankomis nurentė galvą brolėno žudikui. Siame mūšyje
-    krito nukauti keturi broliai, būtent: du iš Bolando, brolis Bernardas iš Hohenšteino, brolis
-    Jonas Vienuolis ir 6 jų vyrai.
+    Tačiau brolių vėliava su savo
+    sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis
+    grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius. Kai brolių
+    kariuomenė patraukė atgal, ji surengė pasalas ir nukovė daugiau nei 20 lietuvių, kurie
+    juos persekiojo.
   citata_rodoma: "Tačiau brolių vėliava su savo\nsąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis\ngrafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius. Kai brolių\nkariuomenė patraukė atgal, ji surengė pasalas ir nukovė daugiau nei 20 lietuvių, kurie\njuos persekiojo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

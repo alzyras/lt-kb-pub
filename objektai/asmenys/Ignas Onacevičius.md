@@ -119,20 +119,6 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
 - susijęs iš Karaliaučius: Ignas Onacevičius nuvyko į Karaliaučių rinkti istorinių dokumentų iš slaptojo Kryžiuočių ordino archyvo.
 - susijęs iš Karaliaučius: Ignas Onacevičius vyko į Karaliaučių rinkti istorinių dokumentų iš slaptojo Kryžiuočių ordino archyvo.
 - susijęs iš Vilnius: Ignas Onacevičius nuo 1818 m. Vilniaus universitete dėstė istoriją, o nuo 1821 m. statistiką ir diplomatiką.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Teodoras Narbutas laišką istorikui Ignotui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos <...>“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -
-    tokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas
-    pradėjo laišką istorikui Ignotui Onacevičiui3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-83493
@@ -208,13 +194,9 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, su­
-    manymų, pastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris
-    sudarys penkis arba šešis tomus, negali būti vadinamas istori­
-    ja (historia), o tik veikalais (dzieje), t. y. turi turėti kuklesnį
-    pavadinimą4. Vadinasi, iš cituoto teksto galima spręsti, kad
-    3 Šaurai? (Be datos). T. Narbutas I. Onacevičiui // Lietuvos moks­
-    lų akademijos bibliotekos rankraščių skyrius (toliau - MAB RS).
+    Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -
+    tokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas
+    pradėjo laišką istorikui Ignotui Onacevičiui3.
   citata_rodoma: "Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -\ntokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas\npradėjo laišką istorikui Ignotui Onacevičiui3."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -61,18 +61,11 @@ media_all_json: |-
 <a id="claim-t-88050"></a>
 - t-002
   teiginys: "Balińskis Waddyngo pasakojimą laikė painiu ir nepatikimu dėl neaiškių šaltinių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 19:43"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Waddyngas Luca Vaddingo: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Waddyngas Luca Vaddingo\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-84029
+    - c-84028
 
 ## Citatos
 
@@ -105,6 +98,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
 
 - id: c-84029
   autorius: "Michał Baliński"
@@ -135,5 +129,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

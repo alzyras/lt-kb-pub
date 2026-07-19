@@ -143,18 +143,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-176613
     - c-180028
 
-<a id="claim-t-196598"></a>
-- t-014
-  teiginys: "Iš prigimties neramų garbė trošką Tautvilą stipriai kurstė rusai."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168201
-
 <a id="claim-t-196599"></a>
 - t-015
   teiginys: "Tautvilas, pareiškęs, kad svarbiam reikalui aptarti reikia laiko, paprašė viską atidėti dėl karo su kryžiuočiais."
@@ -299,6 +287,32 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
 - susijęs iš Prūsija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.
 - susijęs iš Prūsija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš prigimties neramų garbė­
+    trošką Tautvilą stipriai kurstė rusai. Argi jis galės
+    i i i
+
+    leisti, kad Lietuva, neseniai priėmusi krikščionybę, bū­
+    tų slegiama pragaištingo jungo, uždėto stabmeldžių val­
+    dovo? Kodėl jis nepaisąs rusų siekimų? Kodėl nekrei­
+    piąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių
+    valdovo, kuris visas valdžios teises pagrįstai sau prisi-
+    skirįąs? Vaišvilkas mat, pasipiktinęs savo tėvo Min­
+    daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
+    rusus, kur kitados gyveno kaip įkaitas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-019
+    - t-008
+    - t-024
+
 ## Citatos
 
 - id: c-36512
@@ -419,18 +433,20 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   puslapiai: "PDF 109-110"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 109-110."
   citata_originali: |
-    Iš prigimties neramų garbė­
-    trošką Tautvilą stipriai kurstė rusai. Argi jis galės
-    i i i
-
-    leisti, kad Lietuva, neseniai priėmusi krikščionybę, bū­
-    tų slegiama pragaištingo jungo, uždėto stabmeldžių val­
-    dovo? Kodėl jis nepaisąs rusų siekimų? Kodėl nekrei­
-    piąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių
-    valdovo, kuris visas valdžios teises pagrįstai sau prisi-
-    skirįąs? Vaišvilkas mat, pasipiktinęs savo tėvo Min­
-    daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
-    rusus, kur kitados gyveno kaip įkaitas.
+    Ko galėjo tikėtis iš tų, kuriuos jis savo pavyzdžiu bu­
+    vo išmokęs neištikimybės? Todėl, norėdamas sutvir­
+    tinti padėtį prieš bet kokius galimus varžovus, jis iš­
+    kvietė iš Polocko savo pusbrolį Tautvilą. Šiam atvykus
+    ir abiem pasveikinus vienam kitą, kad pašalintas bend­
+    ras priešas, Tautvilas pradėjo
+    T a u tv ila s
+    re zg a
+    są-
+    dėl akių tartis su Treniota
+    m o k slą  p rie š T ren io tą
+    apie valstybės reikalus, o
+    slapta su savaisiais regzti
+    prieš jį naują sąmokslą.
   citata_rodoma: "Ko galėjo tikėtis iš tų, kuriuos jis savo pavyzdžiu bu­\nvo išmokęs neištikimybės? Todėl, norėdamas sutvir­\ntinti padėtį prieš bet kokius galimus varžovus, jis iš­\nkvietė iš Polocko savo pusbrolį Tautvilą. Šiam atvykus\nir abiem pasveikinus vienam kitą, kad pašalintas bend­\nras priešas, Tautvilas pradėjo\nT a u tv ila s\nre zg a\nsą-\ndėl akių tartis su Treniota\nm o k slą  p rie š T ren io tą\napie valstybės reikalus, o\nslapta su savaisiais regzti\nprieš jį naują sąmokslą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -439,7 +455,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
-    - t-014
 
 - id: c-176613
   autorius: "Anoniminis metraštininkas"
@@ -803,5 +818,5 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Sąjungininkai: [[objektai/grupes/Rygos vokiečiai]]
-- Tautvilas mirė [[objektai/vietos/Vilnius]]
-- Tautvilas gyveno [[objektai/vietos/Polockas]]
+- Tautvilas mirė Vilnius
+- Tautvilas gyveno Polockas

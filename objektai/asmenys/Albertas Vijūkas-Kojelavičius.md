@@ -8,15 +8,15 @@ datos:
   - '1677 m.'
 date_start: '1609'
 date_end: '1677'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - asmuo
-amziai:
-  - 'XVII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,32 +37,6 @@ media_all_json: |-
 1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos. Kojelavičius dalyvavo ordino narių susirinkime Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio tiniu. Biografijos aptarime daroma prielaida, kad jėzuitų ordino vadovybei Albertas Vijūkas-Kojelavičius galėjo būti nepageidautinas.
 
 ## Teiginiai
-
-<a id="claim-t-193494"></a>
-- t-002
-  teiginys: "1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-176185
-
-<a id="claim-t-193495"></a>
-- t-003
-  teiginys: "Kojelavičius dalyvavo ordino narių susirinkime Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio tiniu."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-176185
-    - c-178662
 
 <a id="claim-t-196403"></a>
 - t-004
@@ -102,12 +76,10 @@ media_all_json: |-
   pagrindžia:
     - c-178663
 
-## Citatos
-
-- id: c-176185
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gyvendamas Vilniuje, lankėsi
     Kaune ir rūpinosi jėzuitų kolegijos įsteigimu šiame,
@@ -118,16 +90,33 @@ media_all_json: |-
     dėstyti teologijos. Šiame Varmijos mieste kardinolas
     Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
     trukus pasidariusią svarbia jėzuitų atrama.
-  citata_rodoma: "„Lietuvos istorijos\" atsiradimas glaudžiai susijęs su\nVilniaus aukštąja mokykla, vadinta dvigubu akademi­\njos ir universiteto vardu, kurios profesoriumi A. Koje­\nlavičius buvo ir kurios studentams skyrė savo veikalą.\nŠiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno."
-  statusas: verified
-  atnaujinta: "2026-07-13 01:00"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+  statusas: verified
 
+## Citatos
+
+- id: c-176185
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    „Lietuvos istorijos" atsiradimas glaudžiai susijęs su
+    Vilniaus aukštąja mokykla, vadinta dvigubu akademi­
+    jos ir universiteto vardu, kurios profesoriumi A. Koje­
+    lavičius buvo ir kurios studentams skyrė savo veikalą.
+    Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
+    tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
+    no.
+  citata_rodoma: "„Lietuvos istorijos\" atsiradimas glaudžiai susijęs su\nVilniaus aukštąja mokykla, vadinta dvigubu akademi­\njos ir universiteto vardu, kurios profesoriumi A. Koje­\nlavičius buvo ir kurios studentams skyrė savo veikalą.\nŠiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:00"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-176186
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -166,7 +155,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-005
 
 - id: c-178663

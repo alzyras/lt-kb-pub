@@ -81,13 +81,13 @@ Nenurodyta
   puslapiai: "p. 137 (PDF 135)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 137 (PDF 135)."
   citata_originali: |
-    Vaikščiodavo dar ir kitokių. Kitas, įėjęs į grįčią, pasako pagarbi­
+    Vaikščiodavo dar ir kitokių. Kitas, įėjęs į grįčią, pasako pagarbi-
     nimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki
     nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčio-
-    je užsilaiko. Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­
-    niaus Aušros bromos Dievo Motinos. Einu į Žemaičių Kalvariją, už­
-    eisiu į Kretingą pas Šventą Antaną, patroną pamestų daiktų, paduo­
-    siu pinigus surinktus ant mišių dėl atradimo pamestų ir pavogtų tur­
+    je užsilaiko. Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil-
+    niaus Aušros bromos Dievo Motinos. Einu į Žemaičių Kalvariją, už-
+    eisiu į Kretingą pas Šventą Antaną, patroną pamestų daiktų, paduo-
+    siu pinigus surinktus ant mišių dėl atradimo pamestų ir pavogtų tur-
     tų, idant šis patronas šventas suklupdytų visus vagius ir pasalūnus.
     Skaitytinės mišios — dvi grivini, giedotinės — du auksisnu.
   citata_rodoma: "Vaikščiodavo dar ir kitokių. Kitas, įėjęs į grįčią, pasako pagarbi-\nnimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki\nnusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčio-\nje užsilaiko. Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil-\nniaus Aušros bromos Dievo Motinos. Einu į Žemaičių Kalvariją, už-\neisiu į Kretingą pas Šventą Antaną, patroną pamestų daiktų, paduo-\nsiu pinigus surinktus ant mišių dėl atradimo pamestų ir pavogtų tur-\ntų, idant šis patronas šventas suklupdytų visus vagius ir pasalūnus.\nSkaitytinės mišios — dvi grivini, giedotinės — du auksisnu."

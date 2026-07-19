@@ -130,30 +130,9 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 - susijęs iš Po: Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono.
 - susijęs iš Tibetas: Teodoro Narbuto dėstyme pelazgai laikomi žmonių karta, atklydusia nuo Tibeto prie Viduržemio jūros pakrančių.
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Teodoro Narbuto aiškinimu, įvairios pelazgų kartos perėjo į helenų tautą, o iš pelazgų kalbos susiformavo graikų kalba.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Būtent dėl šių priežasčių įvairios
-    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
-    bos susiformavo graikų kalba.
-    17
-    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
-    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
-    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
-    Dono.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172415
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į Peloponesą, atsinešė dalį Kabirų ir įvedė jų paslaptingą garbinimo ritualą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Tai iš tikrųjų ir yra
     graikų mitologijos Trejybė.
@@ -163,6 +142,25 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
     Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
     siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
     slavų Tryzną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-172415
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    E Noelis mano, kad Kabi­
+    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
+    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
+    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
+    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
+    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
   citata_rodoma: "E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-\nmotrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir\nįvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­\nsiausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -177,14 +175,14 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
-    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
-    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
-    jonėnai ir trojėnai kilę iš pelazgų. Šios tautos plėtėsi nuo
-    1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
-    kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
-    arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
-    davė pradžią dorėnams ir achajams.
+    Būtent dėl šių priežasčių įvairios
+    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
+    bos susiformavo graikų kalba.
+    17
+    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
+    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
+    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
+    Dono.
   citata_rodoma: "Būtent dėl šių priežasčių įvairios\npelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­\nbos susiformavo graikų kalba.\n17\nPelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­\nčiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,\npradedant nuo Po ir Arno upių žiočių net iki Dnepro ir\nDono."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

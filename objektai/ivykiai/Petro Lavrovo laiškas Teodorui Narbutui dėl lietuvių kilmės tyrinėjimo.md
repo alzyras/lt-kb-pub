@@ -95,22 +95,6 @@ Nenurodyta
     - c-174917
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tokį teiginį pailiustruoti galėtų keletas
-    laiškų, atsitiktinai išlikusių T. Narbuto mokslinėje kores­
-    pondencijoje. Įdomu, jog jie datuojami 1847—1848 me­
-    tais, t. y. prabėgus dešimčiai metų po antro LTI tomo
-    ¡pasirodymo. Korespondentas — Lydos bajorų mokyklos
-    vyresnysis mokytojas, Vilniaus gubernijos statistikos ko­
-    miteto narys Petras Lavrovas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Griškaitės aiškinimu, Lavrovo laiškai rodė, kad lietuvių kilmės klausimas penktajame dešimtmetyje tebebuvo diskusijų objektas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -138,16 +122,13 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Is­
-    torijos temomis su Tamsta galima diskutuoti tik turint
-    po ranka kitų autoritetingų rašytojų [veikalus], bet ma­
-    nau, jog neatsiras tokio lengvabūdiško žmogaus, kuris
-    neparodytų pagarbos Tamstos didžiam veikalui. Jūs nuo­
-    širdžiai troškote atskleisti tiesą ir surinkti apie Lietuvą
-    į vieną vietą viską, ką tik gali vienas žmogus. Kuo la­
-    biau skaitau, tuo labiau tuo įsitikinu. Antras tomas be­
-    veik visas yra skirtas lietuvių kilmei, lengva pasakyti —
-    576 puslapiai.
+    Tokį teiginį pailiustruoti galėtų keletas
+    laiškų, atsitiktinai išlikusių T. Narbuto mokslinėje kores­
+    pondencijoje. Įdomu, jog jie datuojami 1847—1848 me­
+    tais, t. y. prabėgus dešimčiai metų po antro LTI tomo
+    ¡pasirodymo. Korespondentas — Lydos bajorų mokyklos
+    vyresnysis mokytojas, Vilniaus gubernijos statistikos ko­
+    miteto narys Petras Lavrovas.
   citata_rodoma: "Tokį teiginį pailiustruoti galėtų keletas\nlaiškų, atsitiktinai išlikusių T. Narbuto mokslinėje kores­\npondencijoje. Įdomu, jog jie datuojami 1847—1848 me­\ntais, t. y. prabėgus dešimčiai metų po antro LTI tomo\n¡pasirodymo. Korespondentas — Lydos bajorų mokyklos\nvyresnysis mokytojas, Vilniaus gubernijos statistikos ko­\nmiteto narys Petras Lavrovas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -162,19 +143,14 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Jūs nuo­
-    širdžiai troškote atskleisti tiesą ir surinkti apie Lietuvą
-    į vieną vietą viską, ką tik gali vienas žmogus. Kuo la­
-    biau skaitau, tuo labiau tuo įsitikinu. Antras tomas be­
-    veik visas yra skirtas lietuvių kilmei, lengva pasakyti —
-    576 puslapiai. Tamsta kildini juos iš gelonų (pelazgų-
-    helenų tautos) ir iš budinu (indų-skitų tautos); vėliau
-    išaugusi gelonų-budinų karta susiskirstė į tris pagrin­
-    dines dalis: Prūsiją, tikrąją Lietuvą ir Latviją. Kaip ma­
-    tyti, tai teigdamas, vadovavotės ir Herodoto autoritetu,
-    ir kai kurių vokiečių rašytojų tyrinėjimais, be to, neuž-1
-    miršote ir Šlėcerio, kuris pripažįsta, jog lietuviai yra ypa­
-    tinga gentis.
+    Jo laiškai sako, jog lietu­
+    vių kilmės klausimas dar ir penktajame dešimtmetyje jau­
+    dino protus, o T. Narbuto „Istorija“ buvo pagrindinis
+    autoritetas ir diskusijų objektas. Štai šio laiško ištrauka:
+    „Mane labai domina vienas straipsnis: tyrinėjimas apie
+    lietuvių tautos kilmę, vardą ir kalbą, kurio rankraštį ti­
+    kiuosi greitu laiku atsiųsti Tamstai, kad galėtum perskai­
+    tyti ir kritiškai įvertinti.
   citata_rodoma: "Jo laiškai sako, jog lietu­\nvių kilmės klausimas dar ir penktajame dešimtmetyje jau­\ndino protus, o T. Narbuto „Istorija“ buvo pagrindinis\nautoritetas ir diskusijų objektas. Štai šio laiško ištrauka:\n„Mane labai domina vienas straipsnis: tyrinėjimas apie\nlietuvių tautos kilmę, vardą ir kalbą, kurio rankraštį ti­\nkiuosi greitu laiku atsiųsti Tamstai, kad galėtum perskai­\ntyti ir kritiškai įvertinti."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

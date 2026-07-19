@@ -7,13 +7,13 @@ datos:
   - '1274 m.'
 date_start: '1274'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -114,12 +114,10 @@ Nenurodyta
   pagrindžia:
     - c-169044
 
-## Citatos
-
-- id: c-169043
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1274 m. kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, kad lietuviai ir žemaičiai nesikištų į prūsų karą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo metu kryžiuočių riterių magistras
     buvo Henrikas: jis pirmiausia atnaujino santarvę su
@@ -146,6 +144,43 @@ Nenurodyta
     pasirūpinę saugumu, vytis paskutiniųjų priešo būrių
     ir apskritai elgėsi, nelyginant bet koks pavojus būtų
     praėjęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169043
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Atrodė, jog kryžiuočiams šį
+    5*
+    131
+
+    ## Puslapis 130
+
+    1274 m eta i
+    Ž em a ičia i gina p r ū ­
+    sus ir m u ša  k r y ž iu o ­
+    čius
+    karą pavyks užbaigti tada, kai sutrauks iš karto visas
+    jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­
+    tima pagalba. Tuo metu kryžiuočių riterių magistras
+    buvo Henrikas: jis pirmiausia atnaujino santarvę su
+    Germantu, reikalaudamas, kad šis prisiektų, jog lietu­
+    viai bei žemaičiai nesikiš j prūsų karą. Dėl tos pačios
+    priežasties valdovas neleido viešai teikti prūsams ko­
+    kios pagalbos prieš kryžiuo­
+    čius, tačiau nieko negalėjo
+    padaryti, kad slapta į Prūsi­
+    ją nežygiuotų Žemaitijoje su­
+    telkta kariuomenė, remiama
+    atskirų asmenų, tiesa, pavie­
+    niais būriais, be kovos ženklų.
   citata_rodoma: "Atrodė, jog kryžiuočiams šį\n5*\n131\n\n## Puslapis 130\n\n1274 m eta i\nŽ em a ičia i gina p r ū ­\nsus ir m u ša  k r y ž iu o ­\nčius\nkarą pavyks užbaigti tada, kai sutrauks iš karto visas\njėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­\ntima pagalba. Tuo metu kryžiuočių riterių magistras\nbuvo Henrikas: jis pirmiausia atnaujino santarvę su\nGermantu, reikalaudamas, kad šis prisiektų, jog lietu­\nviai bei žemaičiai nesikiš j prūsų karą. Dėl tos pačios\npriežasties valdovas neleido viešai teikti prūsams ko­\nkios pagalbos prieš kryžiuo­\nčius, tačiau nieko negalėjo\npadaryti, kad slapta į Prūsi­\nją nežygiuotų Žemaitijoje su­\ntelkta kariuomenė, remiama\natskirų asmenų, tiesa, pavie­\nniais būriais, be kovos ženklų."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

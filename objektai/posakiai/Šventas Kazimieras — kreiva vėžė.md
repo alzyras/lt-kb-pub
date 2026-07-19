@@ -46,18 +46,6 @@ Aiškinama, kad duobėti vieškeliai verčia važiuoti šalikeliu ir daryti nauj
 
 Liaudiškas posakis, siejamas su žiemos pabaigos kelių būkle.
 
-## Teiginiai
-
-<a id="claim-t-195448"></a>
-- t-001
-  teiginys: "Posakis aiškinamas kaip kilęs iš žiemos galo kelių būklės."
-  atnaujinta: "2026-07-12 02:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177869
-
 ## Citatos
 
 - id: c-177869
@@ -84,5 +72,3 @@ Liaudiškas posakis, siejamas su žiemos pabaigos kelių būkle.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

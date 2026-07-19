@@ -8,13 +8,13 @@ datos:
   - '1856 m.'
 date_start: '1852'
 date_end: '1856'
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kultūrinis-įvykis
   - ivykis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -83,12 +83,9 @@ Nenurodyta
   pagrindžia:
     - c-174900
 
-## Citatos
-
-- id: c-174899
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam
     nors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­
@@ -109,6 +106,31 @@ Nenurodyta
     išsaugoti nuo pražūties, arba tokių smulkmenų, kurių
     visų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir
     spausdinu šiame rinkinyje“1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-174899
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam
+    nors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­
+    kaupta per penkiolika metų, išleisti atskira knygele. Tai
+    buvo tam tikras kompromisas, išeitis, juolab kad rasti
+    leidėją, kuris išleistų istorinius veikalus, darėsi vis sun­
+    kiau. Be to, tuo metu T. Narbutas jau turėjo karčią pa­
+    tirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­
+    vimo programą. Taigi 1856 metais Teofilio Gliuksbergo
+    spaustuvėje atsirado galimybė išleisti dalį to, kas turėjo
+    papildyti antrąjį LTI leidimą. Taip gimė „Mažesnieji is­
+    toriniai raštai“.
   citata_rodoma: "Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam\nnors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­\nkaupta per penkiolika metų, išleisti atskira knygele. Tai\nbuvo tam tikras kompromisas, išeitis, juolab kad rasti\nleidėją, kuris išleistų istorinius veikalus, darėsi vis sun­\nkiau. Be to, tuo metu T. Narbutas jau turėjo karčią pa­\ntirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­\nvimo programą. Taigi 1856 metais Teofilio Gliuksbergo\nspaustuvėje atsirado galimybė išleisti dalį to, kas turėjo\npapildyti antrąjį LTI leidimą. Taip gimė „Mažesnieji is­\ntoriniai raštai“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

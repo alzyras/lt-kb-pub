@@ -10,15 +10,15 @@ datos:
   - '1415 m.'
 date_start: '1300'
 date_end: '1415'
+amziai:
+  - 'XIII'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - religinis-terminas
   - sąvoka
-amziai:
-  - 'XIII'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -140,6 +140,63 @@ Nenurodyta.
     - c-91771
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93207|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Po Gregorijaus Cemblako mirties Vytautas susitaikė su Maskvos metropolitu Focijumi, o Kijevo metropolija nebuvo atnaujinta.
 - susijęs iš [[objektai/grupes/Lietuvos stačiatikiai.md#claim-t-31302|Lietuvos stačiatikiai]]: Po Romano mirties 1361 m. Lietuvos stačiatikių metropolija nebuvo atnaujinta ir vėl pajungta Maskvos metropolitui.
+## Reikšmingi paminėjimai
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pagaliau jam pasi­
+    sekė atstatyti Vytenio ir Gedimino laikų padėtį. 1354 m. Konstan­
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
+    sančių žemių metropolitą — arkivyskupą Romaną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Konstan­
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
+    sančių žemių metropolitą — arkivyskupą Romaną.
+    Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,
+    Lietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo
+    pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
+    gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
+    Filotėją įtikinti Lietuvos ortodoksų labui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Algirdas 1370 smarkiai
+    pasisakė prieš Aleksį, atsakydamas į priekaištus savo laiške Kons­
+    tantinopolio Filotejui^16. Patriarchas Lietuvos stačiatikių metro­
+    politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
+    gyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas
+    sostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Maskvos Dimitras Kiprijono nepripažino ir dėjo pastangų Lietuvai
+    metropolitu įšventinti vieną savo numatytą vienuolį. Nuo 1389 m.
+    Lietuvos metropolija vėl paliovė egzistavusi iki pat 1415, kai Gri­
+    gorijaus Camblako asmenyje Vytautas trumpam laikui išsirūpino
+    jos atnaujinimą, tepatverusį vos penkerius metus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-05575
@@ -187,9 +244,8 @@ Nenurodyta.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Pagaliau jam pasi­
-    sekė atstatyti Vytenio ir Gedimino laikų padėtį. 1354 m. Konstan­
-    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
+    1354 m. Konstan-
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau-
     sančių žemių metropolitą — arkivyskupą Romaną.
   citata_rodoma: "1354 m. Konstan-\ntinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau-\nsančių žemių metropolitą — arkivyskupą Romaną."
   statusas: verified
@@ -203,12 +259,8 @@ Nenurodyta.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Konstan­
-    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
-    sančių žemių metropolitą — arkivyskupą Romaną.
-    Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,
-    Lietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo
-    pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
+    Lietuvos stačiatikių metropolija nebebuvo
+    atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-
     gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
     Filotėją įtikinti Lietuvos ortodoksų labui.
   citata_rodoma: "Lietuvos stačiatikių metropolija nebebuvo\natnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."
@@ -223,9 +275,7 @@ Nenurodyta.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Algirdas 1370 smarkiai
-    pasisakė prieš Aleksį, atsakydamas į priekaištus savo laiške Kons­
-    tantinopolio Filotejui^16. Patriarchas Lietuvos stačiatikių metro­
+    Patriarchas Lietuvos stačiatikių metro-
     politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
     gyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas
     sostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė.
@@ -241,9 +291,7 @@ Nenurodyta.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Maskvos Dimitras Kiprijono nepripažino ir dėjo pastangų Lietuvai
-    metropolitu įšventinti vieną savo numatytą vienuolį. Nuo 1389 m.
-    Lietuvos metropolija vėl paliovė egzistavusi iki pat 1415, kai Gri­
+    Nuo 1389 m. Lietuvos metropolija vėl paliovė egzistavusi iki pat 1415, kai Gri-
     gorijaus Camblako asmenyje Vytautas trumpam laikui išsirūpino
     jos atnaujinimą, tepatverusį vos penkerius metus.
   citata_rodoma: "Nuo 1389 m. Lietuvos metropolija vėl paliovė egzistavusi iki pat 1415, kai Gri-\ngorijaus Camblako asmenyje Vytautas trumpam laikui išsirūpino\njos atnaujinimą, tepatverusį vos penkerius metus."

@@ -21,14 +21,14 @@ datos:
   - '2026 m.'
 date_start: '1272'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -446,6 +446,97 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - susijęs iš [[objektai/asmenys/Henrikas von Plauen.md#claim-t-30262|Henrikas von Plauen]]: Schwetzo komtūras Henrikas von Plauenas Marienburge surinko apie 5000 vyrų įgulą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179695|Švitrigaila]]: 1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą.
 - susijęs iš Bajerburgas: 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Naująjį Bajerburgą bei dar vieną jam pavestą pilį.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Marienburgo pilis Nogato deš.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo
+    Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.
+    211 (206). Apie Skomanto, sūduvių vado, atsivertimą
+    Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,
+    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
+    žemę503 su visa šeimyna ir bičiuliais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-011
+  santrauka: '1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventosios Marijos pilimi.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šiame kare krito nukauti
+    brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės
+    pakliuvo į nelaisvę.
+    210 (205). Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
+    Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo
+    gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių. Jį, paimtą į nelaisvę,
+    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
+    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
+    puotauti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-013
+  santrauka: 'Ordino dokumentų nuorašas į Marienburgą galėjo patekti defektuotas ir nepilnas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dusburgietis, pvz., tiksliai nurodo, kada buvo
+    išrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d.
+    (III, 354). Tiksliai nurodoma ir visų vėlesnių magistrų mirties bei valdymo pradžios,
+    elekcijos datos120. Vadinasi, kronikininkas Dusburgietis formavo magistrų registrą121.
+    Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais ir kaip —
+    neaišku. M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis
+    1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio
+    18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs
+    žinoti 1282 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-014
+  santrauka: 'Vytautas Marienburge surengė dukters Sofijos palydėtuves prieš jos santuoką su Maskvos kunigaikščiu Vasilijumi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl ir buvo nutar­
+    ta užbaigti sunkų bei ilgą karą, kuriam nei karalius,
+    užsiėmęs Lenkijos reikalais, asmeniškai negalėjo atsidė­
+    ti ir kurio nedrįso patikėti Skirgailai, karo sėkme nepa­
+    sižyminčiam kunigaikščiui, ir tokiu būdu išvaduoti Lie­
+    tuvą nuo baisiausių nelaimių; tai reikėjo padaryti dar
+    ir dėl to, kad, viena, lietuviai, be galo kovų nualinti,
+    nedengė karo išlaidų, o antra, lenkai irgi nenoromis
+    skyrė tam pinigų, nelyginant šitai būtų visai svetimas
+    3 2 6
+
+    reikalas. Priėmus nutarimą, ieškota žmogaus, kuriam be
+    pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
+    turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
+    pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
+    dovauti galop parinko Henriką, mozūrų kunigaikščio
+    Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
+    Jo atvykimas (tiesą sakant,
+    P a šn e n k a m a s m o zū rų
+    daug kas manė, jog dėl gi-
+    k u n ig a ik štis
+    H enri-
+    minystės jis gali likti nepas-
+    k a s
+    tebėtas) anaiptol negalėjo ne­
+    sukelti kryžiuočiams įtarimo,
+    tačiau tuo pat metu Vytautas Marienburge surengė sa­
+    vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
+    Vasilijaus, dideles palydėtuves.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-32211
@@ -494,12 +585,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo
-    Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.
-    211 (206). Apie Skomanto, sūduvių vado, atsivertimą
-    Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,
-    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
-    žemę503 su visa šeimyna ir bičiuliais.
+    500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
+    1272 m. ar 1274 m.
   citata_rodoma: "500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti\n1272 m. ar 1274 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -680,15 +767,16 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šiame kare krito nukauti
-    brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės
-    pakliuvo į nelaisvę.
-    210 (205). Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
-    Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo
-    gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių. Jį, paimtą į nelaisvę,
-    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
-    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
-    puotauti.
+    208 (203). Apie Marienburgo pilies pastatymą
+
+      1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
+    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
+    šlovei bei garbei ji čia ir buvo perkelta500.
+
+
+
+
+        209 (204).
   citata_rodoma: "208 (203). Apie Marienburgo pilies pastatymą\n\n  1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,\nkur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios\nšlovei bei garbei ji čia ir buvo perkelta500.\n\n\n\n\n    209 (204)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -722,15 +810,11 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dusburgietis, pvz., tiksliai nurodo, kada buvo
-    išrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d.
-    (III, 354). Tiksliai nurodoma ir visų vėlesnių magistrų mirties bei valdymo pradžios,
-    elekcijos datos120. Vadinasi, kronikininkas Dusburgietis formavo magistrų registrą121.
-    Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais ir kaip —
-    neaišku. M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis
-    1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio
-    18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs
-    žinoti 1282 m.
+    iš to daroma išvada, kad jau
+    Akone buvęs tam tikras kalendorius arba nekrologas, turėjęs priminti mirusiųjų metines.
+    Jo nuorašas su kitais Ordino dokumentais  į Marienburgą galėjo pakliūti defektuotas,
+    nepilnas, tuo iš dalies paaiškinamos ir Dusburgiečio klaidos. Kitokios kilmės jo pateikiami
+    duomenys apie vėlesnius magistrus.
   citata_rodoma: "iš to daroma išvada, kad jau\nAkone buvęs tam tikras kalendorius arba nekrologas, turėjęs priminti mirusiųjų metines.\nJo nuorašas su kitais Ordino dokumentais  į Marienburgą galėjo pakliūti defektuotas,\nnepilnas, tuo iš dalies paaiškinamos ir Dusburgiečio klaidos. Kitokios kilmės jo pateikiami\nduomenys apie vėlesnius magistrus."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -745,18 +829,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Todėl ir buvo nutar­
-    ta užbaigti sunkų bei ilgą karą, kuriam nei karalius,
-    užsiėmęs Lenkijos reikalais, asmeniškai negalėjo atsidė­
-    ti ir kurio nedrįso patikėti Skirgailai, karo sėkme nepa­
-    sižyminčiam kunigaikščiui, ir tokiu būdu išvaduoti Lie­
-    tuvą nuo baisiausių nelaimių; tai reikėjo padaryti dar
-    ir dėl to, kad, viena, lietuviai, be galo kovų nualinti,
-    nedengė karo išlaidų, o antra, lenkai irgi nenoromis
-    skyrė tam pinigų, nelyginant šitai būtų visai svetimas
-    3 2 6
-
-    reikalas. Priėmus nutarimą, ieškota žmogaus, kuriam be
+    Priėmus nutarimą, ieškota žmogaus, kuriam be
     pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
     turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
     pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
@@ -773,7 +846,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     sukelti kryžiuočiams įtarimo,
     tačiau tuo pat metu Vytautas Marienburge surengė sa­
     vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
-    Vasilijaus, dideles palydėtuves.
+    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
+    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
+    Vytauto žmonos Onos brolis.
   citata_rodoma: "Priėmus nutarimą, ieškota žmogaus, kuriam be\npavojaus galima būtų patikėti šią slaptą užduotį, mat jis\nturėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti\npasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­\ndovauti galop parinko Henriką, mozūrų kunigaikščio\nZemovito sūnų, neseniai vainikuotą Plocko vyskupu.\nJo atvykimas (tiesą sakant,\nP a šn e n k a m a s m o zū rų\ndaug kas manė, jog dėl gi-\nk u n ig a ik štis\nH enri-\nminystės jis gali likti nepas-\nk a s\ntebėtas) anaiptol negalėjo ne­\nsukelti kryžiuočiams įtarimo,\ntačiau tuo pat metu Vytautas Marienburge surengė sa­\nvo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio\nVasilijaus, dideles palydėtuves. Visi manė, jog su kitais\nkunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,\nVytauto žmonos Onos brolis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

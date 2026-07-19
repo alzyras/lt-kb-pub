@@ -31,61 +31,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Pragarą aiškina kaip lietuvišką peklos pavadinimą, siejamą su kankinimu ugnimi ir lietuvių kančių vaizdiniais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vienas liaudies padavimas sa­
-    ko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,
-    kurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.
-    Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su­
-    siję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­
-    meldystės filosofijai, galime daryti išvadą, kad lietuviai turė­
-    jo kančių įvaizdį.
-    Sielos persikėlimą, arba metempsichozę, lietuviai suprato
-    taip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­
-    nametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­
-    tutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­
-    rį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­
-    bulumą, būtiną amžinajam gyvenimui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171852
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Toliau autorius pa­
-    sakoja, kad šie Rytų bažnyčios atskalūnai, nuo seno gyvenan­
-    tys tarp stabmeldžių lietuvių, ne tik naudojasi didesne laisve
-    negu savo šalyje, bet daugelio lietuvių didikų šeimose netgi
-    turi savo tikėjimo šalininkų; per tai susidarė padėtis, kad Lie­
-    tuvoje mažai liko Rytų atskalos bažnyčių, neapkrėstų jų pa­
-    klydimais. Priešingai, lietuvių bajorai, urmu linkstantys į šią
-    krikščionybę, sukūrė tarytum naują sektą, kurią autorius va­
-    dina lietuviškuoju manicheizmu, Manicheismus Lilhuanicus.
-    Jo atsiradimą aprašo taip: „Rusinai pirmieji, kaip sako, dar XI
-    amžiaus pirmojoje pusėje, ėmė platinti krikščionybę stabmel­
-    diškoje Lietuvoje, bet vėliau šie krikščionys, patys užsikrėtę
-    manicheizmo paklydimais, labiau juos pritaikė prie stabmel­
-    dystės, tai sunku pasakyti, ar lietuvių stabmeldystė sumišo su
-    krikščionybe, ar krikščionybė susiliejo su stabmeldyste.
-  citata_rodoma: "Vienas liaudies padavimas sa­\nko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,\nkurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.\nPekla lietuviškai turi originalų pavadinimą Pragaras; tai su­\nsiję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­\nmeldystės filosofijai, galime daryti išvadą, kad lietuviai turė­\njo kančių įvaizdį.\nSielos persikėlimą, arba metempsichozę, lietuviai suprato\ntaip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­\nnametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­\ntutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­\nrį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­\nbulumą, būtiną amžinajam gyvenimui."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-188963"></a>
@@ -131,3 +76,31 @@ Nenurodyta
 - susijęs iš Subačiaus priemiestis: Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus gaisras siejamas su Subačiaus priemiesčiu ir Gregoravičiaus dvareliu.
 - susijęs iš Užupis: Narbuto cituojamame kūrinio pavadinime 1748 m. birželio 11 d. Vilniaus gaisras priskirtas Rubino kaltei ir alaus daryklai Užupyje.
 - susijęs iš [[objektai/zodynas/Priesaika.md#claim-t-189174|Priesaika]]: Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo paties sąžinės auką.
+## Citatos
+
+- id: c-171852
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Vienas liaudies padavimas sa­
+    ko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,
+    kurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.
+    Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su­
+    siję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­
+    meldystės filosofijai, galime daryti išvadą, kad lietuviai turė­
+    jo kančių įvaizdį.
+    Sielos persikėlimą, arba metempsichozę, lietuviai suprato
+    taip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­
+    nametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­
+    tutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­
+    rį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­
+    bulumą, būtiną amžinajam gyvenimui.
+  citata_rodoma: "Vienas liaudies padavimas sa­\nko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,\nkurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.\nPekla lietuviškai turi originalų pavadinimą Pragaras; tai su­\nsiję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­\nmeldystės filosofijai, galime daryti išvadą, kad lietuviai turė­\njo kančių įvaizdį.\nSielos persikėlimą, arba metempsichozę, lietuviai suprato\ntaip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­\nnametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­\ntutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­\nrį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­\nbulumą, būtiną amžinajam gyvenimui."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

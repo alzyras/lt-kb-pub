@@ -11,14 +11,14 @@ datos:
   - '1515 m.'
 date_start: '1468'
 date_end: '1515'
+amziai:
+  - 'XV'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - politinė-grupė
-amziai:
-  - 'XV'
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -119,12 +119,10 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
   pagrindžia:
     - c-170428
 
-## Citatos
-
-- id: c-170426
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     “ Konflikto priežastis buvo ne tik A. Drošdšos ir Iljiničiaus
     byla, bet ir politiniai nesutarimai — J. Zaberezinskio ir kitų LDK
@@ -134,6 +132,44 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
     rėmėjas, J. Zaberezinskio ir jo šalininkų politinis priešininkas.
     4T Iš Jono Zaberezinskio buvo atimta n e tik Trakų vaivados,
     bet laikinai ir krašto maršalo vieta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Prūsijos leoda-
+    lai-pasauliečlal ir
+    miestų gyventojai pradėjo sukilimą prieš Kry­
+    žiuočių ordino valdžią
+    145411.4 ir per keturias savaites užėmė
+    56 pilis ir miestus. Kryžiuočių valdžioje liko tik sostinė Marien­
+    burgas, Choinlcų ir Stumo pilys. Lenkija deklaravo Prūsijos inkor­
+    poravimą į Lenkijos karalyste ir paskelbė karą ordinui 1454.111.6.
+    o karalius Kazimieras pirmą kartą atvyko j Prūsijos teiitoriją (To-
+    runęl tik V.23.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+
+## Citatos
+
+- id: c-170426
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais,
+    pradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m.
+    Krymo totoriai tenkinosi pietinių LDK sričių — Podolės ir Voly­
+    nės — niokojimu, o  nuo 1502 m. persim etė | šiaurę nuo Pripetės
+    pelkių. ) dar nepažeistas ir palyginti tankiau gyvenam as Naugar­
+    duko ir Vilniaus vaivadijas, pasiekdami pat| valstybės centrą.
   citata_rodoma: "BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais, \npradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m. \nKrymo totoriai tenkinosi pietinių LDK sričių — Podolės ir Voly­\nnės — niokojimu, o  nuo 1502 m. persim etė | šiaurę nuo Pripetės \npelkių. ) dar nepažeistas ir palyginti tankiau gyvenam as Naugar­\nduko ir Vilniaus vaivadijas, pasiekdami pat| valstybės centrą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -174,16 +210,10 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Prūsijos leoda-
-    lai-pasauliečlal ir
-    miestų gyventojai pradėjo sukilimą prieš Kry­
-    žiuočių ordino valdžią
-    145411.4 ir per keturias savaites užėmė
-    56 pilis ir miestus. Kryžiuočių valdžioje liko tik sostinė Marien­
-    burgas, Choinlcų ir Stumo pilys. Lenkija deklaravo Prūsijos inkor­
-    poravimą į Lenkijos karalyste ir paskelbė karą ordinui 1454.111.6.
-    o karalius Kazimieras pirmą kartą atvyko j Prūsijos teiitoriją (To-
-    runęl tik V.23.
+    44, past. 9.
+    33 Ač-Girėjaus valdym o metais Krymo totorių sostinė buvo ne
+    Perekopas. o Solchatas (Senasis Krymas) prie Kafos (dabartinės
+    Feodosijos).
   citata_rodoma: "44, past. 9.\n33 Ač-Girėjaus valdym o metais Krymo totorių sostinė buvo ne \nPerekopas. o Solchatas (Senasis Krymas) prie Kafos (dabartinės \nFeodosijos)."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

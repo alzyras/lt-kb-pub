@@ -11,14 +11,14 @@ datos:
   - '1430 m.'
 date_start: '1429'
 date_end: '1430'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karūnacija
   - konfliktas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,22 +90,6 @@ Nenurodyta
     - c-04918
     - c-67067
 
-<a id="claim-t-66986"></a>
-- t-003
-  teiginys: "Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto)."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto karūnacijos byla (1429–1430 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto karūnacijos byla (1429–1430 m.)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-67066
-
 <a id="claim-t-66987"></a>
 - t-001
   teiginys: "Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai."
@@ -154,6 +138,38 @@ Nenurodyta
   pagrindžia:
     - c-178605
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176851|Zbignievas Olesnickis]]: Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų.
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu Krokuvos vyskupas Zbig­
+    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
+    kokia įtartina imperatoriaus
+    S en ato įsp ė ta s
+    draugystė, ir, atskleidęs, ko­
+    kie pavojingi jo siūlymai,
+    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
+    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
+    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
+    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
+    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
+    nas iš Tarnovo, Krokuvos vaivada. Visi sutartinai pri­
+    tarė vyskupui ir vaivadai. Vytautas, pasipiktinęs ne tiek
+    dėl pralaimėjimo, kiek dėl
+    P a sip ik tin ęs pasišali-
+    drąsių kalbų, išėjo iš senato
+    na
+    posėdžio, o pasišalindamas at­
+    virai pagrasino, sakydamas,
+    14*
+    4 1 9
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-04918
@@ -240,12 +256,10 @@ Nenurodyta
   citata_rodoma: "Vytautas, nežiūrint net gilios jo senatvės, dar smar­\nkiai savo paskutiniais gyvenimo metais apgriovė unijos pa­\ngrindus, iš naujo iškeldamas Lietuvos nepriklausomybės vėlia­\nvą; toji nepriklausomybė turėjo pasireikšti iš viršaus — apsi­\nkarūnavimu Lietuvos ir Rusijos žemių karaliaus karūna, impe­\nratoriaus Zigmanto atsiųsta. Tą planą suardė Lenkija, neįleis­\ndama į Lietuvą karūnos. Šis faktas, t. y. sutikimas karūnuoti\nVytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano\nKutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš\nnaujo suardyta^1 ), suduotas jai didelis smūgis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-67067
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -269,27 +283,18 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu Krokuvos vyskupas Zbig­
-    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
-    kokia įtartina imperatoriaus
-    S en ato įsp ė ta s
-    draugystė, ir, atskleidęs, ko­
-    kie pavojingi jo siūlymai,
-    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
-    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
-    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
-    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
-    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
-    nas iš Tarnovo, Krokuvos vaivada. Visi sutartinai pri­
-    tarė vyskupui ir vaivadai. Vytautas, pasipiktinęs ne tiek
-    dėl pralaimėjimo, kiek dėl
-    P a sip ik tin ęs pasišali-
-    drąsių kalbų, išėjo iš senato
-    na
-    posėdžio, o pasišalindamas at­
-    virai pagrasino, sakydamas,
-    14*
-    4 1 9
+    Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
+    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
+    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
+    iš Volynės į Vengriją.
   citata_rodoma: "Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

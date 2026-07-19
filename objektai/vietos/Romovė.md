@@ -262,19 +262,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - susijęs iš Romovės šventykla: Narbutas rašo, kad Romovės šventyklą supo apeigų aikštė, kurioje buvo sukrautos malkų stirtos šventajai ugniai palaikyti.
 - susijęs iš [[objektai/autoriai/Maksimas Tirėjietis.md#claim-t-190439|Maksimas Tirėjietis]]: Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo.
 ## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Narbuto pateikimu, vyskupo Kristijono kronikoje turėjo būti žinių apie sieros šaltinį netoli prūsų Romovės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
-    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
-    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
-    S. 261).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-007
   santrauka: 'Narbutas Romovę vaizdavo kaip dievų šventovę didelės šventos girios viduryje Prūsijos provincijos vakaruose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -302,14 +289,10 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tai paimta iš paminklų, rastų Prūsijoje, kur kaip dievai buvo
-    garbinami du broliai - Vaidevutis ir Prutenis, garbinti per sta­
-    bus tų minėtų dievų, kurie turėjo ir atskiras savo valdymo sritis.
-    Jam aukodavo sorų paplotėlius, iškeptus ant ugnies, sukur­
-    tos prie liepų medžių21.
-    Kabirai (Kabiiy)
-    Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
-    džių trejybė.
+    Patelas (Patelo)
+    Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
+    tegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą
+    jis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.
   citata_rodoma: "Patelas (Patelo)\nSkraidančių oro dvasių dievas, savitas aukščiausiosios ka­\ntegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą\njis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -322,14 +305,12 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    4 Šiame straipsnyje kalbėsime apie dalykus, kurie nauji, Lietu­
-    vos istorijoje pasirodo pirmąkart. Juos reikia detaliau išdėstyti. Idant
-    išvengtume pasikartojimų, kreipiame skaitytoją į šio veikalo antrąjį
-    tomą, kuriame ketiname nušviesti tautos pradžią, taigi ten bus tin­
-    kamesnė vieta tiems įrodymams. Patys seniausi indai turėjo paprotį,
-    2 2 6
-
-    Beveik kiekviena jų šventoji upė vadinosi Ross.
+    Lietuvoje, Hartknocho nuomo­
+    ne, tokia ugnis turėjo degti prie Nevėžio upės.
+    3. Dievo Perkūno šventykloje, senovės Romovėje, švento­
+    jo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­
+    ras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku­
+    ri degė prižiūrima paties vyriausiojo žynio.
   citata_rodoma: "Lietuvoje, Hartknocho nuomo­\nne, tokia ugnis turėjo degti prie Nevėžio upės.\n3. Dievo Perkūno šventykloje, senovės Romovėje, švento­\njo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­\nras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku­\nri degė prižiūrima paties vyriausiojo žynio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -344,19 +325,15 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    ko: „Įvairios šiaurės tautos manė, jog žmogus, turintis su savi­
-    mi ąžuolo amalą, ne tik negalėjo būti sužeistas, bet buvo tik­
-    ras, kad sužeis kiekvieną, į kurį paleis strėlę“. Jeigu atrodytų
-    nepriimtina, kad šiaurėje augo visada žaliuojančių ąžuolų rū­
-    šis, tai būtų galima manyti, kad tie šventieji ąžuolai, augę Ro-
-    movėje ir prie Upsalos, turėjo tankiai priaugusias amalo ša­
-    kas. Žinoma, kas tas krūmas, nenumetantis žiemą lapų, dau­
-    ginasi iš sėklų, esančių gražiose baltose uogose, kurios nunoks­
-    ta žiemą ir paukščių yra godžiai lesamos; šios sėklos niekad
-    nesudygsta žemėje, o sudygsta ant kito medžio šakos, kur jas
-    užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
-    atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
-    mis augdami ant medžių, užauga sieto dydžio.
+    235
+
+    ## Puslapis 235
+
+    clžiu. Romovės šventyklos mitologinis pavadinimas siejamas
+    su ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė
+    susilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­
+    mas . Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
+    bių prieglauda.
   citata_rodoma: "235\n\n## Puslapis 235\n\nclžiu. Romovės šventyklos mitologinis pavadinimas siejamas\nsu ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė\nsusilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­\nmas . Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­\nbių prieglauda."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -371,15 +348,14 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Arntas (Arndt) 17 pa-
-    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
-    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
-    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas.
+    Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­
+    nikininkai specialistai to neaprašo, tik priduria, kad senais lai­
+    kais, kai svarbiausioji šventykla -  prūsų Romovė -  dar nebuvo
+    galutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų
+    vyriausiems dievams nederėjo. Vėliau žyniai, ištaškyti po Lie­
+    tuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba
+    visur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo
+    laikas*.
   citata_rodoma: "Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­\nnikininkai specialistai to neaprašo, tik priduria, kad senais lai­\nkais, kai svarbiausioji šventykla -  prūsų Romovė -  dar nebuvo\ngalutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų\nvyriausiems dievams nederėjo. Vėliau žyniai, ištaškyti po Lie­\ntuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba\nvisur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo\nlaikas*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -417,14 +393,10 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Gintaras lenkiškai vadinamas bursztyrv,
-    jo pavadinimas pasiskolintas iš vokiečių kalbos bdrnstein,
-    galbūt iš žodžio boernen, kuris reiškia „degti“, t. y. degus
-    akmuo. Visuose lietuvių kalbos dialektuose vadinamas
-    Gentoras; šio pavadinimo šaltinis, kaip spėja daugelis fi­
-    lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
-    ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
-    žodis Hentar pasiskolintas iš lietuvių.
+    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
+    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
+    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
+    S. 261).
   citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

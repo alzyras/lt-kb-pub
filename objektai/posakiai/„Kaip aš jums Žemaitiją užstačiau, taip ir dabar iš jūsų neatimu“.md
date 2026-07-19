@@ -54,7 +54,7 @@ O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntini
     O paskui vokiečiai atsiuntė pas didjjį kunigaikštį
     Vytautą savo pasiuntinius, primindami jam, kad jis tu­
     rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo
-    užstatyta Žemaitija7. Didysis kunigaikštis Vytautas
+    užstatyta Žemaitija7 . Didysis kunigaikštis Vytautas
     atsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­
     bar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją,
     o pinigų jums atiduoti neturiu."

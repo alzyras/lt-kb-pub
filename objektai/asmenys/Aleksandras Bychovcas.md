@@ -122,15 +122,11 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Aš ją paėmiau savojo veikalo pa­
-    grindu kaip vienintelį Lietuvos istorijos liudininką at­
-    remti priekaištams, daromiems Strijkovskiui"7.
-    Baigdamas „Lietuvos istoriją", T. Narbutas nuo
-    1838 m. pradėjo rūpintis Bychovco kronikos išspaus­
-    dinimu. 1844.11.23 jis išsiuntė rankraštį į Vilnių savo
-    artimiausiam bičiuliui gydytojui A. Renjerui, prašyda­
-    mas perduoti jį giminaičiui V. Narbutui *, kuris vėliau
-    tvarkė spausdinimo reikalus ir skaitė korektūras.
+    T. Narbuto prašomas, rankraščio savininkas Alek-
+    sandras Bychovcas perdavė jį istoriko pažįstamam tei-
+    sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per-
+    siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
+    paviete, Nočios parapijoje.
   citata_rodoma: "T. Narbuto prašomas, rankraščio savininkas Alek-\nsandras Bychovcas perdavė jį istoriko pažįstamam tei-\nsėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per-\nsiuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos\npaviete, Nočios parapijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -145,22 +141,9 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    „Metraščio" (siaurąja prasme) sąvoka Bychovco kroni­
-    kai taikoma tik sąlyginai, kadangi pastarąją sudaro dau­
-    giausia literatūriniai bei istoiiniai pasakojimai apie
-    reikšmingiausius autoriaus požiūriu praeities įvykius,
-    o ne griežtai pamečiui dėstomos ir tiksliai datuojamos
-    trumpos žinios, būdingos metraščiams.
-    Labai panašaus teksto kroniką savo rankose yra tu­
-    rėjęs XVI a, antrosios pusės Lietuvos istorikas, mozū­
-    ras Motiejus Strijkovskis, kuris rado tą Bychovco kro-
-
-    nikos („rusiško metraščio") variantą tame pačiame
-    Gardino-Volkovysko krašte, kunigaikščių Zaslavskių
-    Didžiosios Berestovicos dvare. Ištisus to varianto frag­
-    mentus M. Strijkovskis beveik pažodžiui perteikė savo
-    Kronikoje (M. Stryikoįvski, Kronika polska, litevvska,
-    žmodzka y wszystkiey Rusi, 1582).
+    „Bychovco kronika" jis buvo pramintas XIX a.
+    pagal rankraščio savininką, Gardino gubernijos Volko-
+    vysko apskrities teisėją Aleksandrą Bychovcą.
   citata_rodoma: "„Bychovco kronika\" jis buvo pramintas XIX a.\npagal rankraščio savininką, Gardino gubernijos Volko-\nvysko apskrities teisėją Aleksandrą Bychovcą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -175,15 +158,8 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    I RANKRAŠTIS IR JO  SKELBIMAS
-    Bychovco kronika, palyginus su Trumpuoju ir Pla-
-    tesniuoju sąvadais, yra pilniausia Lietuvos istorija, pa­
-    rašyta iki XVI a. vidurio; joje užpildytos Trumpojo
-    sąvado spragos Vytauto valdymo laikų aprašyme, o
-    Lietuvos istorija po 1446 m. sistemingai aprašoma ligi
-    1506 m.
-    Bychovco kronikos rankraštį prieš 1830 m. Alek­
-    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
+    Bychovco kronikos rankraštį prieš 1830 m. Alek-
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-
     niaus gimnazijos mokytojas Ipolitas Klimaševskis.
   citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek-\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-\nniaus gimnazijos mokytojas Ipolitas Klimaševskis."
   statusas: verified

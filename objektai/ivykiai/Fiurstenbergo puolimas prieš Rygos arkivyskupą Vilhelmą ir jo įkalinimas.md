@@ -60,33 +60,6 @@ Nenurodyta
   pagrindžia:
     - c-168928
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Fiurstenbergas po Kuoknesės kapituliacijos įkalino Rygos arkivyskupą Vilhelmą ir jėga užėmė kitas jo pilis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Daugybė bajorų stojo už teisybę bei arki­
-    vyskupą, tačiau šis, nesitikėdamas pergalės kovos lau­
-    ke, patraukė su rinktinių vyrų kariauna į Kuoknesę.
-    Ilgai gynėsi apsuptieji tvirtovėje, pastatytoje ant išti­
-    sinės uolos, atremdami vieną po kito visus antpuolius,
-    69 7
-
-    ## Puslapis 696
-
-    vis dėlto galop badas privertė pasiduoti tuos, kurių
-    nepalaužė ginklas. Kapituliacijos sąlygos nebuvo sun­
-    kios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei
-    Vilhelmo kilmingumo paisė: kai šį atvilko magistro ša­
-    lininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė­
-    jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda­
-    ryti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-168928
@@ -100,6 +73,8 @@ Nenurodyta
     Ilgai gynėsi apsuptieji tvirtovėje, pastatytoje ant išti­
     sinės uolos, atremdami vieną po kito visus antpuolius,
     69 7
+
+    ## Puslapis 696
 
     vis dėlto galop badas privertė pasiduoti tuos, kurių
     nepalaužė ginklas. Kapituliacijos sąlygos nebuvo sun­

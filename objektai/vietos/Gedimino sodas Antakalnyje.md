@@ -27,44 +27,6 @@ media_all_json: |-
 
 Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Bet kai kas painioja šią patrauklią dievybę su deive Lie­
-    tuva.
-    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
-    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
-    jusi Mildos šventykla arba koplyčia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171887
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Kitaip vadi­
-    nosi Kri uninie -Pradžių Warpu arba Brandžiu - Warpu. Sunku
-    paraidžiui išversti šiuos mitologijos terminus, bet apytikriai
-    reikštų: ašakoti javai, Krūminės varpos. Pats pavadinimas, iš­
-    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
-    kovskis, o deivei.
-  citata_rodoma: "Bet kai kas painioja šią patrauklią dievybę su deive Lie­\ntuva.\nEsama padavimo, kad Vilniaus Antakalnyje, Gedimino so­\nde, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­\njusi Mildos šventykla arba koplyčia."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-188998"></a>
@@ -86,3 +48,24 @@ Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171887
+
+## Citatos
+
+- id: c-171887
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Bet kai kas painioja šią patrauklią dievybę su deive Lie­
+    tuva.
+    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
+    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
+    jusi Mildos šventykla arba koplyčia.
+  citata_rodoma: "Bet kai kas painioja šią patrauklią dievybę su deive Lie­\ntuva.\nEsama padavimo, kad Vilniaus Antakalnyje, Gedimino so­\nde, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­\njusi Mildos šventykla arba koplyčia."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

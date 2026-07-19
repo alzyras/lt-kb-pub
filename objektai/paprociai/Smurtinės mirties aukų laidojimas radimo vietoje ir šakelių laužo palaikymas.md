@@ -22,6 +22,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas
 
 ## Santrauka
@@ -68,22 +69,15 @@ Nenurodyta
 <a id="claim-t-189898"></a>
 - t-002
   teiginys: "Narbutas pateikia vietos padavimą, kad prie Išlaužo esantis šakelių laužas dengęs plėšikų nužudyto svetimšalio palaikus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Laužas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Laužas: mention_match, thing, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas\" parinktas kaip owner_note_path. Targetas \"Laužas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172781
+    - c-179094
 
 <a id="claim-t-194633"></a>
 - t-003
@@ -121,24 +115,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172781
-
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Lietuviai turėjo paprotį skenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje, kur atrado.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Romėnai
-    tą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį
-    skenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,
-    kur atrado. Šiuo atveju, kadangi tokių atsitikimų dažniausiai
-    pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
-    džių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;
-    sako, kad tai būdavo daroma niekam nematant.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -184,7 +160,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-005
 
 - id: c-177031
@@ -192,14 +167,13 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Neturime smulkesnių rašytinių žinių apie kokios nors tau­
-    tos šias apeigas, kadangi jos priklausė slaptųjų kategorijai; tuo
-    įsitikiname skaitydami Antikos rašytojus. Žinoma tik tiek, kad
-    būdavo aukos dievams kabirams, naktinės puotos, žirgų lenk­
-    tynės, iečių laužymai, daug prabangos. Lietuvoje gyveno garsi
-    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
-    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
-    apeigų paprotį, kiekviena tauta kitonišką.
+    Romėnai
+    tą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį
+    skenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,
+    kur atrado. Šiuo atveju, kadangi tokių atsitikimų dažniausiai
+    pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
+    džių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;
+    sako, kad tai būdavo daroma niekam nematant.
   citata_rodoma: "Romėnai\ntą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį\nskenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,\nkur atrado. Šiuo atveju, kadangi tokių atsitikimų dažniausiai\npasitaikydavo miške, kapą pridengia laužu iš kokių nors me­\ndžių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;\nsako, kad tai būdavo daroma niekam nematant."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -229,5 +203,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
     - t-004

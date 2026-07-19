@@ -100,19 +100,19 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
     žemė iš karto atsidurs tavo rankose."
     Karalius Olbrachtas pasitraukė nuo Sučiavos mies­
     to ir žygiuoja gilyn, iš visos širdies trokšdamas susi­
-    kauti su juo 3I. O Moldavijos vaivada, matydamas, kad
+    kauti su juo 3 I. O Moldavijos vaivada, matydamas, kad
     negalės jam atsispirti, pasiuntė pas jį savo pasiuntinius
     ir sudarė su juo taiką, teikėsi su savo žeme duoti jam
     vasalo ištikimybės priesaiką, kaip buvo prisiekęs jo
     tėvui, karaliui Kazimierui, ir surašė raštus, prisiekė
-    griežtai to prisilaikysiąs32.
+    griežtai to prisilaikysiąs3 2 .
     Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo
     iš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu,
     kuriuo buvo atžygiavęs, o norėdamas greičiau ir tie­
     siau išeiti iš [moldavų] žemės, traukė stačiai per Buko­
     viną ir kalnus, per uolėtus, sunkiai pereinamus miškus,
     nes per tas akmeningas vietas ėjo tiesus, bet labai blo­
-    gas kelias Lenkijos sienos linkui33.
+    gas kelias Lenkijos sienos linkui3 3 .
   citata_rodoma: "Mūsų valdo­\nvas vaivada Steponas su savo kariuomene yra lauke: \njei nori — eik ir nugalėk jj, ir tuomet jo miestai ir visa \nžemė iš karto atsidurs tavo rankose.\"\nKaralius Olbrachtas pasitraukė nuo Sučiavos mies­\nto ir žygiuoja gilyn, iš visos širdies trokšdamas susi­\nkauti su juo 3 I. O Moldavijos vaivada, matydamas, kad \nnegalės jam atsispirti, pasiuntė pas jį savo pasiuntinius \nir sudarė su juo taiką, teikėsi su savo žeme duoti jam \nvasalo ištikimybės priesaiką, kaip buvo prisiekęs jo \ntėvui, karaliui Kazimierui, ir surašė raštus, prisiekė \ngriežtai to prisilaikysiąs3 2 .\nIr, sudaręs tokią sutartį, karalius Olbrachtas išėjo \niš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu, \nkuriuo buvo atžygiavęs, o norėdamas greičiau ir tie­\nsiau išeiti iš [moldavų] žemės, traukė stačiai per Buko­\nviną ir kalnus, per uolėtus, sunkiai pereinamus miškus, \nnes per tas akmeningas vietas ėjo tiesus, bet labai blo­\ngas kelias Lenkijos sienos linkui3 3 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -138,7 +138,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
     užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­
     ko su visais savo žmonėmis, ir su turkais, ir su veng­
     rais, ir su valachais, ir tuose miškuose bei bukynuose
-    užpuolė karalių Olbrachtą bei jo kariuomenę**, dau­
+    užpuolė karalių Olbrachtą bei jo kariuomenę* * , dau­
     gelį iš jo kariuomenės nukovė, o kitus paėmė gyvus;
     atėmė daug gurguolių su dideliu turtu ir kelias garsias
     patrankas, o pačiam karaliui Olbrachtui ir daugeliui

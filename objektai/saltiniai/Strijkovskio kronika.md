@@ -48,10 +48,12 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta
   pagrindžia:
     - c-174697
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta apie išsklaidytų jotvingių likučius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174697
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     115
     Strijkovskis savo amžiuje dar girdėjo apie likučius
@@ -65,29 +67,6 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta
 
     terburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­
     tuose, kur juos vadino igovėnais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174697
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Taigi reikia pritarti Sarnickio nuomonei, nes tarp šian­
-    dien Briansko ir Drohičino apylinkėse žinomų lenkų, iš­
-    saugojusių kai kurių originalių bruožų, visiškai nebūdin­
-    gų kitiems slavams, nepastebėjome jų kalboje nieko sve­
-    timo, ko neturėtų slavų kalba. Dėl to reikia daryti išva­
-    dą, kad senovės jotvingių kalba arba visiškai išnykusi,
-    arba buvo panaši j slavų kalbas. Tiesa, Mechovita, Zig­
-    manto I laikais gyvenęs istorikas, rašo girdėjęs jotvingių
-    kalbą Polesėje, šalia Drohičino; jos nei jis, nei lietuvis,
-    nei žemaitis negalėję suprasti.
   citata_rodoma: "115\nStrijkovskis savo amžiuje dar girdėjo apie likučius\nišsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir\napgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-\n1 Stryjkomski.\nS. 181.\n121\n\n## Puslapis 119\n\nterburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­\ntuose, kur juos vadino igovėnais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

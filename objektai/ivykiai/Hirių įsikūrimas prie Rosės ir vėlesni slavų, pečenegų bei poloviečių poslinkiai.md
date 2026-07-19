@@ -10,14 +10,14 @@ datos:
   - '1128 m.'
 date_start: '1031'
 date_end: '1128'
-amziai:
-  - 'XI'
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - socialinis-įvykis
+amziai:
+  - 'XI'
+  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -141,9 +141,37 @@ Nenurodyta
     - c-179238
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoro Narbuto pasakojime III a. pabaigoje ar IV a. pradžioje slavų tiveriečiai persikėlė nuo Dnestro žemupio prie Dnepro ir pasiekė Rosės žiotis.'
+- c-002
+  santrauka: 'Teodoro Narbuto pasakojime Jaroslavas po 1031 m. žygio į Lenkiją belaisvius kėlė arčiau Kijevo, bet Rosės krašte kolonijų nesteigė dėl pečenegų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Kai didysis kunigaikštis Jaroslavas užkariavo Červenės
+    slavus, o ypač po savo žygio į Lenkiją, — jo metu jis
+    apiplėšė daug miestų ir lankiai gyvenamų valsčių, o
+    287
+
+    ## Puslapis 298
+
+    žmones 1031 metais išsivedė vergijon, — iš šių belais­
+    vių arčiau Kijevo esančioje Ukrainoje steigė kolonijas,
+    statė tvirtoves1. Tačiau jis negalėjo įkurti jokių kolonijų
+    krašte, esančiame prie Rosės, nes ten gyveno pečenegai
+    su orda, vadinama Charoboe. Tas pats Jaroslavas 1041
+    metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų
+    lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur
+    negalima matyti ukrainiečių tautybės žmonių susimai­
+    šymo su lietuviais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-173894
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šią
     liesą patvirtina ir vėlesnė šio krašto istorija. III amžiaus
@@ -156,58 +184,6 @@ Nenurodyta
     Ukrainos dalyje apsigyveno tiveriečių ainiai polianai, ku­
     rie vertėsi žemdirbyste, buvo vaišingi ir troško draugiš­
     kų santykių su kitais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Teodoro Narbuto aiškinimu, hiriai nuo III a. pabaigos beveik iki XII a. vidurio gyveno prie Rosės ir suteikė jai mitinį vardą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    294
-    Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad
-    birių gyventa pakrantėse ukrainiečių Rosės, kurią pa­
-    gal savo religinius papročius pašventino suteikdami jai
-    šį mitinį vardą. Čia jie gyveno nuo III amžiaus pabaigos
-    beveik iki XII amžiaus vidurio, kai, graikų imperatoriui
-    Jonui Komninui 1121 metais nugalėjus pečenegus, išsi­
-    kėlė į kairįjį Dnepro krantą pas poloviečius; taigi ten
-    jie gyveno aštuonis šimtmečius, ir būtent tai nulėmė lie­
-    tuvių genčių suteiktų vietovardžių ir upių pavadinimų
-    pastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak
-    mūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­
-    vių krašto, esančio Nemuno žemupio dešiniojoje pakran­
-    tėje, kur jie gyveno prie Jūros upės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173894
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    III amžiaus
-    pabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen­
-    tys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest­
-    ro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukš-
-    lyn net iki Rosės žiočių kaip tik tada, kai jau dauguma
-    birių perėjo prie Dunojaus, galbūt norėdami sustiprinti
-    pastipusią skiriu ir sudargų karinę galią. Vėliau toje
-    Ukrainos dalyje apsigyveno tiveriečių ainiai polianai, ku­
-    rie vertėsi žemdirbyste, buvo vaišingi ir troško draugiš­
-    kų santykių su kitais. Jų gyvenamosios vietos plytėjo
-    šiuose kraštuose ir Padneprėje net ligi Kijevo. Jie buvo
-    ramūs, nuo nieko nepriklausė, išskyrus chazarus, kuriems
-    už savo ramybę mokėjo nedidelę duoklę, net iki IX am­
-    žiaus antrosios pusės, kai
-    besiplečiantys pietų slavų
-    kraštuose rusų variagai užkariavo ir pavergė juos.
   citata_rodoma: "Šią\nliesą patvirtina ir vėlesnė šio krašto istorija. III amžiaus\npabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen­\ntys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest­\nro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukš-\nlyn net iki Rosės žiočių kaip tik tada, kai jau dauguma\nbirių perėjo prie Dunojaus, galbūt norėdami sustiprinti\npastipusią skiriu ir sudargų karinę galią. Vėliau toje\nUkrainos dalyje apsigyveno tiveriečių ainiai polianai, ku­\nrie vertėsi žemdirbyste, buvo vaišingi ir troško draugiš­\nkų santykių su kitais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -245,6 +221,7 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    294
     Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad
     birių gyventa pakrantėse ukrainiečių Rosės, kurią pa­
     gal savo religinius papročius pašventino suteikdami jai
@@ -257,10 +234,7 @@ Nenurodyta
     pastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak
     mūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­
     vių krašto, esančio Nemuno žemupio dešiniojoje pakran­
-    tėje, kur jie gyveno prie Jūros upės. Sis kraštas savo
-    derlingumu ir kitomis gyventi palankiomis aplinkybėmis
-    primena Parosės Ukrainą; tas, kuris lankėsi šiose abie­
-    jose šalyse, galėjo įžvelgti jų panašumą.
+    tėje, kur jie gyveno prie Jūros upės.
   citata_rodoma: "294\nIšsiaiškinus visus šiuos dalykus, nereikia abejoti, kad\nbirių gyventa pakrantėse ukrainiečių Rosės, kurią pa­\ngal savo religinius papročius pašventino suteikdami jai\nšį mitinį vardą. Čia jie gyveno nuo III amžiaus pabaigos\nbeveik iki XII amžiaus vidurio, kai, graikų imperatoriui\nJonui Komninui 1121 metais nugalėjus pečenegus, išsi­\nkėlė į kairįjį Dnepro krantą pas poloviečius; taigi ten\njie gyveno aštuonis šimtmečius, ir būtent tai nulėmė lie­\ntuvių genčių suteiktų vietovardžių ir upių pavadinimų\npastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak\nmūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­\nvių krašto, esančio Nemuno žemupio dešiniojoje pakran­\ntėje, kur jie gyveno prie Jūros upės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -136,9 +136,12 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   pagrindžia:
     - c-175050
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-175050
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     D C fere M. passum, a Carnunto Pannoniae
     abest littus Germaniae, ex quo invehitur (succinum) per cognitum
@@ -147,30 +150,6 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
     tik
     minėtą
     [miestą].)
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-192575
-
-## Citatos
-
-- id: c-175050
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
-    gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
-    yra nepaprastai šaltas aštuntasis ratas, — išsiuntė keliau­
-    tojus tai patikrinti. Šie perėjo plačius Tartarijos kraštus,
-    vėliau didelę slavų Roksolanijos valstybę ir per venedų
-    bei alanų žemes pateko į Livoniją. Iš to krašto, dar gana
-    toli nukeliavę vandens keliu, atsidūrė plačioje ir tuščioje
-    žemėje, kuri neturėjo jokio nuolatinio pavadinimo, nes ją
-    vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
-    ir dar kitaip.
   citata_rodoma: "D C fere M. passum, a Carnunto Pannoniae\nabest littus Germaniae, ex quo invehitur (succinum) per cognitum\nnuper. (Maždaug 600 romėniškų mylių nuo Karnunto Panonijoje yra\nnutolusi Germanuos pakrantė, iš kur gabenamas (gintaras) per ką\ntik\nminėtą\n[miestą].)"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -9,13 +9,13 @@ datos:
   - '1553 m.'
 date_start: '1536'
 date_end: '1553'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kaimas
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Alšėnai
 
 ## Santrauka
@@ -135,28 +136,6 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - susijęs iš [[objektai/zodynas/kapitula.md#claim-t-70167|kapitula]]: Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį.
 - susijęs iš [[objektai/zodynas/oratorija.md#claim-t-86602|oratorija]]: Vilniaus vyskupas Povilas Alšėniškis savo sode pastatydino nedidelę oratoriją, arba koplyčią, pranciškonų kankinių palaidojimo vietoje.
 - susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Voložine išgirdęs apie Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis
-    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
-    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
-    lenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje
-    pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­
-    sisvečiuoti pas Voložino kunigaikščius, ir Voložine at­
-    ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį,
-    ir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį
-    Simonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša
-    Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
-    Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-82037
@@ -181,25 +160,17 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O paskui didysis kunigaikštis Kazimieras atvyko
-    į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
-    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
-    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
-    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
-    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
-    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
-    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
-    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
-    Kunigaikštystės. Ir su visais tais miestais prisijungė
-    prie Mazovijos ir ėmė tarnauti Mykoliukui
-    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
-    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
-    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
-    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
-    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
-    vo mažametis.
+    Didysis
+    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
+    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
+    lenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje
+    pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­
+    sisvečiuoti pas Voložino kunigaikščius, ir Voložine at­
+    ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį,
+    ir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį
+    Simonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša
+    Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
+    Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
   citata_rodoma: "Didysis \nkunigaikštis Žygimantas rašė ir jam, kad skirtu laiku \natvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­\nlenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje \npas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­\nsisvečiuoti pas Voložino kunigaikščius, ir Voložine at­\nėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį, \nir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį \nSimonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša \nVilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir \nMikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -208,6 +179,3 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]

@@ -250,10 +250,12 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 - susijęs iš [[objektai/zodynas/Lietuvių mitologija.md#claim-t-189157|Lietuvių mitologija]]: Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romėnų dievų bei skandinavų religijos samplaikos rezultatą.
 - susijęs iš [[objektai/zodynas/Mubad-Mubaden Destruri-Destur.md#claim-t-189314|Mubad-Mubaden Destruri-Destur]]: Narbutas Krewe-Krewejto titulą lygino su persų vyriausiojo kunigo pavadinimais Mubad-Mubaden ir Destruri-Destur, reiškusiais žynių žynį.
 - susijęs iš Herodoto istorija: Pasak Narbuto perteikto Herodoto, persų karalius Darijus, dvariškių pataikavimo suklaidintas, neapdairiu įkarščiu padėjo skitams įgyvendinti jų ketinimus.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas mini, kad senovės persai turėjo karingą dievaitį Kaousą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172312
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą kalaviją lietuviai paskyrė savajam karo dievui;
     kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
@@ -263,80 +265,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     Senovės persai turėjo karingą dievaitį, vadintą Kaousu. 1
     11
     Szybinski.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas šio dievo mitą sieja su senovės persų Oromazu ir Arimanu ir spėja iš jų kilmę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šio dievo mitas taip pat sutampa su senovės persų Oro-
-    mazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai
-    vadino jį Niger Deus ir painiojo su Plutono mitais. Senovės
-    saksai jį vadino Aire.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Teodoras Narbutas vaizduoja, kad Indatiras niekino graikus ir persus kaip svetimus žmones, o persai savo ruožtu niekino skitus kaip barbarus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    37
-    Darijaus puolimai prieš skitus. Apie 520 metus prieš
-    Kristaus gimimą skitus valdė išpuikęs, žiaurus ir nela­
-    bai išmintingas monarchas Indatiras. Jis niekino grai­
-    kus ir persus, nes jie buvo svetimi žmonės, o šie savo
-    ruožtu niekino skitus kaip barbarus. Tačiau skitų galybė
-    ir reikšmė politinėje arenoje dar buvo nemažos, nes per­
-    sų karalius Darijus siekė sąjungos su Indatiru ir norėjo
-    vesti jo dukrą. Bet persų pasiuntiniai buvo išsiųsti atgal
-    su panieka; į prašymą karalaitės rankos atsakyta nei­
-    giamai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-008
-  santrauka: '552 m. Naršo vadovaujamoje Justiniano kariuomenėje prie Pado žemupio greta longobardų ir persų buvo herulų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taigi 535 metais, kai samdyta
-    svetimšalių kariuomenė Afrikoje sukėlė maištą, ją sudarė
-    beriliai, vandalai ir maurai. Taip pat ir Romai antrąkart
-    pakliuvus į Totilos rankas, kai Justinianas surinko ka­
-    riuomenę, greta longobardų ir persų buvo herulų. Si ka­
-    riuomenė buvo sutelkta Pado žemupyje 552 metais Nar­
-    šui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo
-    Totila.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172312
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Iš padavimų apie graikų dievus žinome, kad garsus prana­
-    šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
-    karo, apie 1380 metus prieš Kristaus gimimą, pirmasis Graiki­
-    joje įvedė Bakcho garbinimą. Todėl tais laikais, kai lietuvių
-    tauta brandino savo stabmeldystę, to dievo garbinimas kitur
-    buvo labai senas ir visuotinai paplitęs. Lietuviai įvedė tą gar­
-    binimą savo šalyje, tačiau natūralu, kad, neturėdami vynuo­
-    gių, savo Bakchui turėjo priskirti kitas ypatybes ir atributus,
-    nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
-    ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
-    mingumo skraiste.
   citata_rodoma: "Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju.\nSenovės persai turėjo karingą dievaitį, vadintą Kaousu. 1\n11\nSzybinski."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -351,11 +279,10 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti
-    dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV
-    lentelėje. Skaitykite straipsnį apie herbus.
-    Šneibratas (Sznejbrato)
-    Paukščių ūkio ir medžioklės dievas.
+    Šio dievo mitas taip pat sutampa su senovės persų Oro-
+    mazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai
+    vadino jį Niger Deus ir painiojo su Plutono mitais. Senovės
+    saksai jį vadino Aire.
   citata_rodoma: "Šio dievo mitas taip pat sutampa su senovės persų Oro-\nmazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai\nvadino jį Niger Deus ir painiojo su Plutono mitais. Senovės\nsaksai jį vadino Aire."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -433,18 +360,17 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
-    skitai nė neketino žemintis, pats Darijus patraukė prieš
-    Indatirą. Persų būriai įžengė į Europą ir, graikų sąjun­
-    gininkų remiami, brovėsi Dunojaus link. Kažkur prie
-    šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
-    pastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai­
-    kams. Skitai savo ruožtu sudarė išmintingą gynybos pla­
-    ną: jie pirmiausia kreipėsi į savo kaimynus ir sąjunginin­
-    kus, kviesdami kovoti su bendru priešu, o patys, nusiau­
-    bę Padnestrės apylinkes, paliko šias vietas puolantiems
-    persams ir taip darė be paliovos traukdamiesi nuo jų
-    kariuomenės.
+    37
+    Darijaus puolimai prieš skitus. Apie 520 metus prieš
+    Kristaus gimimą skitus valdė išpuikęs, žiaurus ir nela­
+    bai išmintingas monarchas Indatiras. Jis niekino grai­
+    kus ir persus, nes jie buvo svetimi žmonės, o šie savo
+    ruožtu niekino skitus kaip barbarus. Tačiau skitų galybė
+    ir reikšmė politinėje arenoje dar buvo nemažos, nes per­
+    sų karalius Darijus siekė sąjungos su Indatiru ir norėjo
+    vesti jo dukrą. Bet persų pasiuntiniai buvo išsiųsti atgal
+    su panieka; į prašymą karalaitės rankos atsakyta nei­
+    giamai.
   citata_rodoma: "37\nDarijaus puolimai prieš skitus. Apie 520 metus prieš\nKristaus gimimą skitus valdė išpuikęs, žiaurus ir nela­\nbai išmintingas monarchas Indatiras. Jis niekino grai­\nkus ir persus, nes jie buvo svetimi žmonės, o šie savo\nruožtu niekino skitus kaip barbarus. Tačiau skitų galybė\nir reikšmė politinėje arenoje dar buvo nemažos, nes per­\nsų karalius Darijus siekė sąjungos su Indatiru ir norėjo\nvesti jo dukrą. Bet persų pasiuntiniai buvo išsiųsti atgal\nsu panieka; į prašymą karalaitės rankos atsakyta nei­\ngiamai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -480,14 +406,14 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taip pat ir Romai antrąkart
+    Taigi 535 metais, kai samdyta
+    svetimšalių kariuomenė Afrikoje sukėlė maištą, ją sudarė
+    beriliai, vandalai ir maurai. Taip pat ir Romai antrąkart
     pakliuvus į Totilos rankas, kai Justinianas surinko ka­
     riuomenę, greta longobardų ir persų buvo herulų. Si ka­
     riuomenė buvo sutelkta Pado žemupyje 552 metais Nar­
     šui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo
-    Totila. Nedaug herulų, gal išlikusių kažkur Rytų valsty­
-    bės provincijose po to, kai prieš keturiasdešimt metų bu­
-    vo išblaškyti, liko šiose vietose gyventi1.
+    Totila.
   citata_rodoma: "Taigi 535 metais, kai samdyta\nsvetimšalių kariuomenė Afrikoje sukėlė maištą, ją sudarė\nberiliai, vandalai ir maurai. Taip pat ir Romai antrąkart\npakliuvus į Totilos rankas, kai Justinianas surinko ka­\nriuomenę, greta longobardų ir persų buvo herulų. Si ka­\nriuomenė buvo sutelkta Pado žemupyje 552 metais Nar­\nšui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo\nTotila."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

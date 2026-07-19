@@ -51,23 +51,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195332"></a>
-- t-001
-  teiginys: "Gėrimo talpa prie bažnyčios vaišių ir gertuvių."
-  atnaujinta: "2026-07-12 01:47"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177725
-- susijęs iš [[objektai/posakiai/Kas negali, o aš galiu. Mendeliene, duok!.md#claim-t-195429|Kas negali, o aš galiu. Mendeliene, duok!]]: Vienas ūkininkas šaukia naujos bonkos formule „Kas negali, o aš galiu. Mendeliene, duok!“.
-- susijęs iš [[objektai/asmenys/Lileika (samdos tarpininkas).md#claim-t-195542|Lileika (samdos tarpininkas)]]: Derybų pabaigoje Lileika ragino Grigorą laikytis pažado ir negadinti savo žodžio.
-- susijęs iš [[objektai/paprociai/Blaivystės brostva ir prisiekimo praktika per tris sekmadienius.md#claim-t-195375|Blaivystės brostva ir prisiekimo praktika per tris sekmadienius]]: Prieš priesaiką dar būdavo atsisveikinama su degtine.
-- susijęs iš [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys.md#claim-t-195383|Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]: Atlyginti kraičvežiai išveždavo skrynią ir ryšulį į jaunikio namus, kur jų laukdavo sukviesti svečiai.
-- susijęs iš [[objektai/posakiai/kas girts ne bagots, tas ir dvės — nieko neturės.md#claim-t-195428|kas girts ne bagots, tas ir dvės — nieko neturės]]: Posakis pateisina gėrimą net tada, kai žmogus nieko neturi.
-- susijęs iš [[objektai/zodynas/Kraičvežiai.md#claim-t-195626|Kraičvežiai]]: Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas.
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -88,22 +71,17 @@ Nenurodyta
   citata_rodoma: "Šventadienį važiuoja į bažnyčią, šeimininkė parūpina dvi bonki\ndegtinės, vieną virintos ir pasaldintos, antrą karčios."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-177726
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 115 (PDF 113)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 115 (PDF 113)."
   citata_originali: |
-    „Vis gera, jei tik nežmoniška.“
-    Įėjo į grįčią ir atsiklaupė vidury as­
-    los, prie kėdės, išsitraukė iš užančio bonką ir atsigėrė. Paskui bonką
-    pastatė šalia savęs žemėj ir ėmė melstis, iškėlęs rankas.
+    Įėjo į grįčią ir atsiklaupė vidury aslos, prie kėdės, išsitraukė iš užančio bonką ir atsigėrė.
   citata_rodoma: "Įėjo į grįčią ir atsiklaupė vidury aslos, prie kėdės, išsitraukė iš užančio bonką ir atsigėrė."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
@@ -148,6 +126,15 @@ Nenurodyta
   citata_rodoma: "parsinešė kelias bonkas degtinės, žinoma, kad užtektų, parsikvietė du kaimynu, ir geria tą degtinę, vis ją keikdami."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Teiginiai
+
+- susijęs iš [[objektai/posakiai/Kas negali, o aš galiu. Mendeliene, duok!.md#claim-t-195429|Kas negali, o aš galiu. Mendeliene, duok!]]: Vienas ūkininkas šaukia naujos bonkos formule „Kas negali, o aš galiu. Mendeliene, duok!“.
+- susijęs iš [[objektai/asmenys/Lileika (samdos tarpininkas).md#claim-t-195542|Lileika (samdos tarpininkas)]]: Derybų pabaigoje Lileika ragino Grigorą laikytis pažado ir negadinti savo žodžio.
+- susijęs iš [[objektai/paprociai/Blaivystės brostva ir prisiekimo praktika per tris sekmadienius.md#claim-t-195375|Blaivystės brostva ir prisiekimo praktika per tris sekmadienius]]: Prieš priesaiką dar būdavo atsisveikinama su degtine.
+- susijęs iš [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys.md#claim-t-195383|Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]: Atlyginti kraičvežiai išveždavo skrynią ir ryšulį į jaunikio namus, kur jų laukdavo sukviesti svečiai.
+- susijęs iš [[objektai/posakiai/kas girts ne bagots, tas ir dvės — nieko neturės.md#claim-t-195428|kas girts ne bagots, tas ir dvės — nieko neturės]]: Posakis pateisina gėrimą net tada, kai žmogus nieko neturi.
+- susijęs iš [[objektai/zodynas/Kraičvežiai.md#claim-t-195626|Kraičvežiai]]: Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas.

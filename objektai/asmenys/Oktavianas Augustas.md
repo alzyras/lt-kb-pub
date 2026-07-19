@@ -62,26 +62,6 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   pagrindžia:
     - c-174182
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbuto pasakojime Dionyzas iš Charakso imperatoriaus Oktaviano Augusto laikais geografiškai aprašė pasaulį ir minėjo Pantikapo bei Aldeskos upes.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Be šių įrodymų, turime ir seno­
-    vės autorių paliktų, ir naujų laikų tyrimais patvirtintų
-    paminklų. Dionyzas iš Charakso, imperatoriaus Oktaviano
-    Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
-    upes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,
-    jungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be
-    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
-    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
-    nės sutampa.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174182
@@ -111,17 +91,15 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai, be
+    Be šių įrodymų, turime ir seno­
+    vės autorių paliktų, ir naujų laikų tyrimais patvirtintų
+    paminklų. Dionyzas iš Charakso, imperatoriaus Oktaviano
+    Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
+    upes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,
+    jungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
     tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
-    nės sutampa. Sis geografas pastarosios aukštupyje kuo
-    aiškiausiai apgyvendina gelonų tautą2. Naruševičius taip
-    pat patvirtina tai daugelyje savo darbų3. Pats Ptolemėjas,
-    kuris šį sykį mini toje žemėje gyvenančią igelonų tautą,
-    1 Zelva — lietuviškas pavadinimas — taip pat kartojasi ne
-    vienoje vietoje. Mes nesigilinsime į upių pavadinimų etimologinį ty­
-    rimą, nes tai mus nuvestų toli nuo pageidaujamo trumpumo; tai pa­
-    liekame lietuvių kalbos ir jos ištakų tyrinėtojams.
+    nės sutampa.
   citata_rodoma: "Be šių įrodymų, turime ir seno­\nvės autorių paliktų, ir naujų laikų tyrimais patvirtintų\npaminklų. Dionyzas iš Charakso, imperatoriaus Oktaviano\nAugusto laikais aprašinėjęs pasaulį geografiškai, mini dvi\nupes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,\njungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be\nabejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­\ntojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­\nnės sutampa."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

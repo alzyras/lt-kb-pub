@@ -169,25 +169,10 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   pagrindžia:
     - c-178802
 
-<a id="claim-t-196618"></a>
-- t-013
-  teiginys: "Kojelavičiaus pasakojime Vaišvilkas nusileido žygūnų maldavimams, kai šie ragino pasigailėti dėl nesantarvės žūstančios tėvynės."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-176183
-
-## Citatos
-
-- id: c-169313
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vaišvilkas, pasipiktinęs tėvo Mindaugo atsimetimu nuo krikščionybės, pabėgo pas rusus, kur anksčiau gyveno kaip įkaitas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vaišvilkas mat, pasipiktinęs savo tėvo Min­
     daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
@@ -202,20 +187,16 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     su daugeliu tokio pat gyvenimo bendrininkų dievo­
     baimingai ir pastoviai gyventi, kartkartėmis, tiesa,
     kurstomas didikų.
-  citata_rodoma: "Kodėl jis nepaisąs rusų siekimų? Kodėl nekrei­\npiąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių\nvaldovo, kuris visas valdžios teises pagrįstai sau prisi-\nskirįąs? Vaišvilkas mat, pasipiktinęs savo tėvo Min­\ndaugo atsimetimu nuo krikščionių tikybos, pabėgo pas\nrusus, kur kitados gyveno kaip įkaitas."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-005
+  statusas: verified
+- t-004
 
-- id: c-169315
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+- c-002
+  santrauka: 'Vaišvilkas ant purpurinio apsiausto vilkėdavo juodą drapaną kaip vienuolio įžadų ženklą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vos ne vos tvir­
     čiau įsitaisė soste, jis negaišdamas ėmė keršyti už
@@ -245,17 +226,16 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     b ei
     N a u g a rd u k o d id žiu o ­
     ju k u n ig a ik ščiu
-  citata_rodoma: "Vis dėlto niekada negalima buvo jo priversti užmiršti\nviso ankstyvesnio gyvenimo: paprastai ant purpurinio\napsiausto jis vilkėdavo juodą drapaną, kaip vienuolio\nįžadų ženklą. Kadangi jo filosofinės pažiūros nė tru­\npučio nepatobulėjo nuo tos drapanos, kadangi iš kri­\nkščioniškųjų priedermių nieko iš viso į galvą nebuvo\nįsidėjęs, jis ėmė valdyti, tuo pigiu apsiaustu dangsty­\ndamas kraugerišką ir kerštingą širdį. Vos ne vos tvir­\nčiau įsitaisė soste, jis negaišdamas ėmė keršyti už\ntėvo nužudymą."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- id: c-169316
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  statusas: verified
+- t-006
+
+- c-003
+  santrauka: 'A. Kojelavičiaus teksto vertime paliktas tradicinis vardas Vaišvilkas, nors naujausioje literatūroje plito forma Vaišelga.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Rengiant A. Kojelavičiaus veikalą spaudai, atsisa-
     kyta sąvokos Subsilvanija (ji verčiama Poleksija), paliekama auto­
@@ -263,20 +243,16 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     jamos atitinkamos lotyniškos sąvokos (Polesio ar
     Podlachia).
     4 Kalbama apie Deltuvą.
-  citata_rodoma: "Naujausioje literatūroje plinta Vaišelga. A. Kojelavičiaus te­\nksto vertime paliekamas tradicinis Vaišvilkas. Greta šio vardo A. Ko­\njelavičius, nežinia kuo remdamasis, kaip sinonimą pavartojo ir Vais­\ntininkas."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-008
+  statusas: verified
+- t-007
 
-- id: c-176183
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+- c-004
+  santrauka: 'Vaišvilkas, žygūnų pakviestas perimti tėvo valdžios, atvyko iš Pinsko į Naugarduką ir Kernavėje buvo paskelbtas Lietuvos didžiuoju kunigaikščiu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­
     kui nuodugniai papasakoti apie diduomenės bei tau­
@@ -300,6 +276,98 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     Kernavę, kol dar nebuvo išsiskirstę didikai; jį priėmė
     su didele pagarba bei džiaugsmu ir su įprastinėmis
     apeigomis paskelbė Lietuvos didžiuoju kunigaikščiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-012
+
+## Citatos
+
+- id: c-169313
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kodėl jis nepaisąs rusų siekimų? Kodėl nekrei­
+    piąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių
+    valdovo, kuris visas valdžios teises pagrįstai sau prisi-
+    skirįąs? Vaišvilkas mat, pasipiktinęs savo tėvo Min­
+    daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
+    rusus, kur kitados gyveno kaip įkaitas.
+  citata_rodoma: "Kodėl jis nepaisąs rusų siekimų? Kodėl nekrei­\npiąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių\nvaldovo, kuris visas valdžios teises pagrįstai sau prisi-\nskirįąs? Vaišvilkas mat, pasipiktinęs savo tėvo Min­\ndaugo atsimetimu nuo krikščionių tikybos, pabėgo pas\nrusus, kur kitados gyveno kaip įkaitas."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-005
+
+- id: c-169315
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vis dėlto niekada negalima buvo jo priversti užmiršti
+    viso ankstyvesnio gyvenimo: paprastai ant purpurinio
+    apsiausto jis vilkėdavo juodą drapaną, kaip vienuolio
+    įžadų ženklą. Kadangi jo filosofinės pažiūros nė tru­
+    pučio nepatobulėjo nuo tos drapanos, kadangi iš kri­
+    kščioniškųjų priedermių nieko iš viso į galvą nebuvo
+    įsidėjęs, jis ėmė valdyti, tuo pigiu apsiaustu dangsty­
+    damas kraugerišką ir kerštingą širdį. Vos ne vos tvir­
+    čiau įsitaisė soste, jis negaišdamas ėmė keršyti už
+    tėvo nužudymą.
+  citata_rodoma: "Vis dėlto niekada negalima buvo jo priversti užmiršti\nviso ankstyvesnio gyvenimo: paprastai ant purpurinio\napsiausto jis vilkėdavo juodą drapaną, kaip vienuolio\nįžadų ženklą. Kadangi jo filosofinės pažiūros nė tru­\npučio nepatobulėjo nuo tos drapanos, kadangi iš kri­\nkščioniškųjų priedermių nieko iš viso į galvą nebuvo\nįsidėjęs, jis ėmė valdyti, tuo pigiu apsiaustu dangsty­\ndamas kraugerišką ir kerštingą širdį. Vos ne vos tvir­\nčiau įsitaisė soste, jis negaišdamas ėmė keršyti už\ntėvo nužudymą."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-169316
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Naujausioje literatūroje plinta Vaišelga. A. Kojelavičiaus te­
+    ksto vertime paliekamas tradicinis Vaišvilkas. Greta šio vardo A. Ko­
+    jelavičius, nežinia kuo remdamasis, kaip sinonimą pavartojo ir Vais­
+    tininkas.
+  citata_rodoma: "Naujausioje literatūroje plinta Vaišelga. A. Kojelavičiaus te­\nksto vertime paliekamas tradicinis Vaišvilkas. Greta šio vardo A. Ko­\njelavičius, nežinia kuo remdamasis, kaip sinonimą pavartojo ir Vais­\ntininkas."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+    - t-008
+
+- id: c-176183
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Šitokia kal­
+    ba sukrėtė žemaičių ir jotvingių sielas ir noromis ne­
+    noromis paskatino juos galvoti apie Vaišvilką; ka-
+    dangi jie pritarė lietuviams, savaime sužlugo rusų su­
+    manymai, ypač dėl to, kad juos iš naujo ryžtingai
+    pasiūlyti apskritai būtų buvę nesaugu, nesukeliant įta­
+    rimo, jog jie trokšta maištauti. Taigi visuotiniame
+    susirinkime kunigaikščiu buvo išrinktas Vaišvilkas.
+    U  5
+
+    ## Puslapis 114
+
+    Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­
+    kui nuodugniai papasakoti apie diduomenės bei tau­
+    tos prielankumą ir pakviesti jį perimti tėvo paliktos
+    valdžios.
   citata_rodoma: "Šitokia kal­\nba sukrėtė žemaičių ir jotvingių sielas ir noromis ne­\nnoromis paskatino juos galvoti apie Vaišvilką; ka-\ndangi jie pritarė lietuviams, savaime sužlugo rusų su­\nmanymai, ypač dėl to, kad juos iš naujo ryžtingai\npasiūlyti apskritai būtų buvę nesaugu, nesukeliant įta­\nrimo, jog jie trokšta maištauti. Taigi visuotiniame\nsusirinkime kunigaikščiu buvo išrinktas Vaišvilkas.\nU  5\n\n## Puslapis 114\n\nIšleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­\nkui nuodugniai papasakoti apie diduomenės bei tau­\ntos prielankumą ir pakviesti jį perimti tėvo paliktos\nvaldžios."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -310,7 +378,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - t-003
     - t-006
     - t-007
-    - t-013
 
 - id: c-176626
   autorius: "Anoniminis metraštininkas"

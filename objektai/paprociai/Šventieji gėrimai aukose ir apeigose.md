@@ -58,19 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-177037
 
-<a id="claim-t-194639"></a>
-- t-002
-  teiginys: "Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re ligines apeigas."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177037
-
 <a id="claim-t-194640"></a>
 - t-003
   teiginys: "Šį gėrimą mini padavimai, o senos žyniuonės kai kuriose vietose dar moka jį paruošti; ligo niams tai esąs labai stiprinantis dalykas."
@@ -177,7 +164,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
     - t-005
 
 - id: c-177038

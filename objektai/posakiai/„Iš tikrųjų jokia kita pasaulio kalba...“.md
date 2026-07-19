@@ -27,33 +27,12 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # „Iš tikrųjų jokia kita pasaulio kalba...“
 
 ## Santrauka
 
 III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių pagyrimų kaip lietuvių kalba.
-
-## Teiginiai
-
-<a id="claim-t-20842"></a>
-- t-001
-  teiginys: "Lietuvių kalba apibūdinama kaip sulaukusi daugiau aukščiausių pagyrimų nei bet kuri kita pasaulio kalba."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Rusija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ištraukoje nurodyta, kad Lietuva tuo laikotarpiu priklausė Rusijos imperijai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuva priklausė Rusija (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1812 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas boilerplate ir suformuluotas sklandus faktinis sakinys."
-  pagrindžia:
-    - c-23568
 
 ## Citatos
 
@@ -86,5 +65,3 @@ III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

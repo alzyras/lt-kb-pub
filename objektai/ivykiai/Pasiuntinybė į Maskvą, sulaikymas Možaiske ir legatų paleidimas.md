@@ -7,13 +7,13 @@ datos:
   - '1528 m.'
 date_start: '1528'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatinis-įvykis
   - ivykis
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -111,12 +111,10 @@ Nenurodyta
   pagrindžia:
     - c-168891
 
-## Citatos
-
-- id: c-168890
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Reikėjo prikalbėti didikus, senatą ir ba­
     jorus, kad kuo greičiausiai paskelbtų Žygimantą Augus­
@@ -145,6 +143,29 @@ Nenurodyta
     d id žiu o ju
     k u n ig a ik ščiu
     6 5 7
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+
+## Citatos
+
+- id: c-168890
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Be to, sutarė teismų reikalus sutvarkyti iki
+    garsios Rusioje palaimintosios mergelės globėjos šven­
+    tės, sutikdamas, kad teismo posėdžiuose dalyvautų
+    Mackevičius. Karaliaus legatai jau keliavo namo, kai
+    Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai­
+    kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas
+    palydovas maskvėnas gavęs įsakymą grįžti į Maskvą.
+    Pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­
+    liaus pasiuntinius Možaiske.
   citata_rodoma: "Be to, sutarė teismų reikalus sutvarkyti iki\ngarsios Rusioje palaimintosios mergelės globėjos šven­\ntės, sutikdamas, kad teismo posėdžiuose dalyvautų\nMackevičius. Karaliaus legatai jau keliavo namo, kai\nMaskvą pasiekė žinia, jog valachų pasiuntiniai sulai­\nkyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas\npalydovas maskvėnas gavęs įsakymą grįžti į Maskvą.\nPritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­\nliaus pasiuntinius Možaiske."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"

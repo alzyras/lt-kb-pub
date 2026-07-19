@@ -53,10 +53,12 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
   pagrindžia:
     - c-179126
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė ponas Laurinavičius -.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-177240
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai ir buvo toji šventykla, vėliau paversta svirnu,
     tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
@@ -70,34 +72,6 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
     dijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­
     nė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­
     suose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-177240
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Pačiuose Prūsuose yra panašių
-    vietų, kurių suskaičiuojama iki šešeto, o Hartknochas veltui
-    kamuojasi su jomis nežinodamas, kurią laikyti tikrąja Romo-
-    ve; mat tie pavadinimai galėjo atsirasti dėl įvairių krašto nuti­
-    kimų, kurie galėjo paskatinti vyriausiuosius žynius apleisti vieną
-    vietą ir perkelti savo buveinę į kitą ir kartu įkurti naują šven­
-    tyklą. Kadangi lietuvių genties tautos turėjo krivių įvairiose
-    vietose, todėl buvo gausu ir aukų atnašavimo vietų, kurios ne­
-    buvo šventyklos to žodžio prasme. Taip pat ir žemesnės kate­
-    gorijos žyniai įsirengdavo laikinus arba pastovius aukurus miš­
-    kuose, po šventaisiais medžiais, upių, ežerų pakrantėse, vidu­
-    ry miestų turgaviečių ir ten prireikus atnašaudavo aukas.
-    Kol buvo įkurtas Vilnius, XIII amžiuje valstybės sostinė ir
-    vyriausiojo žynio buveinė buvo Kernavėje, todėl ten turėjo būti
-    ir vyriausioji šventykla.
   citata_rodoma: "Tai ir buvo toji šventykla, vėliau paversta svirnu,\ntai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­\nnyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į\nmokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars\nRomana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė\nponas Laurinavičius -  garbingasis Kauno mokyklos profesorius\nir prefektas)*.\nKur ir kokios šventyklos buvo tikrojoje Lietuvoje, Žemai­\ntijoje ir latvių žemėse iki XIII amžiaus -  apie tai istorijos liu­\ndijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­\nnė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­\nsuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

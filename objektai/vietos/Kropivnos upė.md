@@ -48,12 +48,10 @@ Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje 
   pagrindžia:
     - c-168628
 
-## Citatos
-
-- id: c-168628
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taip smarkiai
     jis buvo apakęs nuo pasipūtėliškų ir išdidžių vilčių,
@@ -69,6 +67,28 @@ Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje 
     riai smogė į Konstantino kariuomenės sparną: narsiai
     gindamiesi, lietuviai atlaikė pirmąjį smūgį ir, sutelkę
     jėgas, atstūmė priešą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168628
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Konstantinas, pasukęs su savo kariais į
+    kairę, užvedė priešo raitelius, lipte lipančius jiems ant
+    kulnų, tiesiai ant karo pabūklų ir pėstininkų, įsakyda­
+    mas savo raitelių vėliavoms sugrįžti ir užpulti priešą.
+    Maskvėnai, nelaukę šitokio manevro, dėl kurio žuvo
+    daugybė jų karių, šaukdami ir rėkdami pasileido išsi­
+    gandę bėgti. Kova pavirto tikromis skerdynėmis, ne­
+    maža maskvėnų prigėrė Kropivnos pelkėse ir pačioje
+    upėje.
   citata_rodoma: "Konstantinas, pasukęs su savo kariais į\nkairę, užvedė priešo raitelius, lipte lipančius jiems ant\nkulnų, tiesiai ant karo pabūklų ir pėstininkų, įsakyda­\nmas savo raitelių vėliavoms sugrįžti ir užpulti priešą.\nMaskvėnai, nelaukę šitokio manevro, dėl kurio žuvo\ndaugybė jų karių, šaukdami ir rėkdami pasileido išsi­\ngandę bėgti. Kova pavirto tikromis skerdynėmis, ne­\nmaža maskvėnų prigėrė Kropivnos pelkėse ir pačioje\nupėje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

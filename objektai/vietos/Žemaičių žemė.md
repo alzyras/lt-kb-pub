@@ -83,6 +83,25 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: not_found
+- c-002
+  santrauka: 'Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O kuni­
+    gaikštis Skirgaila duotų priesaiką tavo vardu."
+    Ir didysis kunigaikštis Vytautas su didžiuoju kuni­
+    gaikščiu Skirgaila vyksta pas savo tėvą, didįjį kuni­
+    gaikštį Kęstutį, prie kariuomenės, ir didysis kunigaikš­
+    tis Skirgaila duoda priesaiką didžiojo kunigaikščio [Jo­
+    gailos] ir savo vardu. Didysis kunigaikštis Vytautas su
+    savo tėvu, didžiuoju kunigaikščiu Kęstučiu, abu iš­
+    vyksta į Jogailos kariuomenę, pasitikėdami tomis prie­
+    saikomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -102,6 +121,24 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: not_found
+- c-004
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Geras darbas valdovo paslaptį saugoti; dar geres­
+    nis — apie didžiojo valdovo darbus kalbėti.
+    Noriu jums papasakoti apie didįjį kunigaikštį Vy­
+    tautą, Lietuvos ir Rusų ir daugelio kitų šalių valdovą.
+    Nes yra parašyta: „Broliai, dievo bijokite, o valdovą
+    šlovinkite." Taip ir aš noriu jums pasekti apie tą šlo­
+    vingąjį valdovą. Bet didžiojo valdovo darbai nei žodžiu
+    neapsakomi, nei plunksna neaprašomi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-005
+
 - c-005
   santrauka: 'Lietuvos metraštyje Kęstutis, Algirdo brolis, vaizduojamas kaip Trakų ir Žemaičių žemės valdovas, turėjęs šešis sūnus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -120,6 +157,7 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+
 ## Citatos
 
 - id: c-170407
@@ -127,16 +165,8 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O kuni­
-    gaikštis Skirgaila duotų priesaiką tavo vardu."
-    Ir didysis kunigaikštis Vytautas su didžiuoju kuni­
-    gaikščiu Skirgaila vyksta pas savo tėvą, didįjį kuni­
-    gaikštį Kęstutį, prie kariuomenės, ir didysis kunigaikš­
-    tis Skirgaila duoda priesaiką didžiojo kunigaikščio [Jo­
-    gailos] ir savo vardu. Didysis kunigaikštis Vytautas su
-    savo tėvu, didžiuoju kunigaikščiu Kęstučiu, abu iš­
-    vyksta į Jogailos kariuomenę, pasitikėdami tomis prie­
-    saikomis.
+    Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­
+    čių žemę ir visą kariuomenę, traukia prie Neries.
   citata_rodoma: "Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­\nčių žemę ir visą kariuomenę, traukia prie Neries."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -151,14 +181,12 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Geras darbas valdovo paslaptį saugoti; dar geres­
-    nis — apie didžiojo valdovo darbus kalbėti.
-    Noriu jums papasakoti apie didįjį kunigaikštį Vy­
-    tautą, Lietuvos ir Rusų ir daugelio kitų šalių valdovą.
-    Nes yra parašyta: „Broliai, dievo bijokite, o valdovą
-    šlovinkite." Taip ir aš noriu jums pasekti apie tą šlo­
-    vingąjį valdovą. Bet didžiojo valdovo darbai nei žodžiu
-    neapsakomi, nei plunksna neaprašomi.
+    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
+    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
+    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
+    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
+    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
+    čiu Kęstučiu.
   citata_rodoma: "Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­\ngaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­\nnigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas\ngauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie\nTrakų, aš pats irgi buvau ten su savo tėvu kunigaikš­\nčiu Kęstučiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

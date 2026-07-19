@@ -67,12 +67,10 @@ Nenurodyta
   pagrindžia:
     - c-174973
 
-## Citatos
-
-- id: c-174973
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Apskri­
     tai panašūs radiniai priklauso prie retenybių.
@@ -91,6 +89,26 @@ Nenurodyta
     sų kraštiečių kartos pagarba. Šiandien kaimiečiai nors
     nelaiko jų savo tautos protėvių kapais, tačiau iš pagar­
     bos po jais besiilsinčios genties žmonių palaikams nieka­
+    da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
+    o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
+    laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-174973
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Vis dėlto pilkapius visuomet gaubė dabartinės mū-
+    sų kraštiečių kartos pagarba. Šiandien kaimiečiai nors
+    nelaiko jų savo tautos protėvių kapais, tačiau iš pagar-
+    bos po jais besiilsinčios genties žmonių palaikams nieka-
     da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
     o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
     laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.

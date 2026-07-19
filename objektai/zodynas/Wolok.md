@@ -62,14 +62,9 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tuo keliu prekes
-    gabeno ir masiliečiai, Nėra nė mažiausių abejonių, jog ger­
-    manų tautų valtys išplaukdavo toliau Zundo ir nugaben­
-    davo savo prekių į Okeano pakrančių miestus (§ 157).
-    'tacitas, užsiminęs apie sveonus, pateikia žinių, kad jie
-    turėjo daug didelių laivų1. Siaurės sagose daug žinių apie
-    jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
-    žygiais.
+    Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų
+    slavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­
+    mažai.
   citata_rodoma: "Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų\nslavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­\nmažai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

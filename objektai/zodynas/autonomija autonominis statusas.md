@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # autonomija autonominis statusas
 
 ## Santrauka
@@ -35,22 +36,6 @@ media_all_json: |-
 Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą, nusivylusį tuo, jog nei Rusija, nei Vokietija nežada Lietuvai net autonomijos. Lietuva Paryžiuje turėjo aiškintis ir dėl vidaus politikos klausimų, atrėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo plačią kultūrinę autonomiją žydams, tautinėms mažumoms, aiškinosi dėl numatomos žemės reformos. Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.
 
 ## Teiginiai
-
-<a id="claim-t-70093"></a>
-- t-002
-  teiginys: "Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žydai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "autonomija autonominis statusas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žydai: mention_match, group, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"autonomija autonominis statusas\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-69194
 
 <a id="claim-t-70094"></a>
 - t-001
@@ -141,12 +126,10 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   citata_rodoma: "rėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-69195
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

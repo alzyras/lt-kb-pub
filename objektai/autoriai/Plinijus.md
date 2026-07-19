@@ -245,21 +245,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     - c-174785
 
 ## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Teodoras Narbutas cituoja Plinijų, kad sarmatai, venedai, skirtai ir tūriai gyveno iki Vyslos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pagaliau, papildydamas aprašymą, cituoju tą
-    patį autorių: Welti, Hossii ir Karbony, — tai toliau į
-    šiaurę prie Baltijos jūros gyvenusios gentys. Plinijus
-    netrukus rašė: „Sako, kad sarmatai, venedai, skirtai ir tū­
-    riai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar
-    sugebės kas nors nubraižyti šių tautų žemėlapį?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-008
   santrauka: 'Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -326,14 +311,16 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
-    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
-    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
-    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
-    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
-    1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
-    buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
-    ypač mitologiją liečiančius dalykus**.
+    100
+
+    ## Puslapis 100
+
+    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
+    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
+    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
+    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
+    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
+    ponas Riteris savo Siaurės senovės tyrimuose15.
   citata_rodoma: "100\n\n## Puslapis 100\n\n(Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­\nsakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­\nru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­\ntą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­\nbinamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba\nponas Riteris savo Siaurės senovės tyrimuose15."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -435,18 +422,12 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Toliausiai į pietryčius gyveno
-    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
-    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
-    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
-    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
-    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
-    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
-    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
-    meta sarmatų genčių sūkuryje. Tarp šių dviejų tautų bas­
-    tėsi klajoklių amaksolių, arba sarmatų, ordos, neturėju­
-    sios kitokių būstų, o tik klajokliškas palapines, ištiestas
-    ant vežimų.
+    Pagaliau, papildydamas aprašymą, cituoju tą
+    patį autorių: Welti, Hossii ir Karbony, — tai toliau į
+    šiaurę prie Baltijos jūros gyvenusios gentys. Plinijus
+    netrukus rašė: „Sako, kad sarmatai, venedai, skirtai ir tū­
+    riai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar
+    sugebės kas nors nubraižyti šių tautų žemėlapį?
   citata_rodoma: "Pagaliau, papildydamas aprašymą, cituoju tą\npatį autorių: Welti, Hossii ir Karbony, — tai toliau į\nšiaurę prie Baltijos jūros gyvenusios gentys. Plinijus\nnetrukus rašė: „Sako, kad sarmatai, venedai, skirtai ir tū­\nriai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar\nsugebės kas nors nubraižyti šių tautų žemėlapį?"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

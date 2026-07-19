@@ -79,10 +79,12 @@ Nenurodyta
   pagrindžia:
     - c-63707
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Nelaisvėje buvusį Liudviką iš Libencelės Skomantas nusivedė į Sūduvos galingųjų puotą, kur Liudvikas kalaviju nukovė jį užgauliojusį varžovą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-63706
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Jį, paimtą  į nelaisvę,
     atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
@@ -93,44 +95,6 @@ Nenurodyta
     Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu  drįsti, atsikeršyk už tau
     daromas nuoskaudas, o aš tau padėsiu“. Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
     kalaviju nukovė savo varžovą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Vėliau vienas Skomanto šeimynykštis išvadavo Liudviką iš Libencelės iš nelaisvės ir sugrąžino jį pas brolius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
-    kalaviju nukovė savo varžovą. Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo
-    Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.
-
-                 211 (206).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-63706
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis
-    Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,
-    turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,
-    Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
-    minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
-    ordino broliams Prūsijoje. Samboras, matydamas, kad iš savo dalies negalėsiąs gyventi
-    taip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną
-    visa kuo aprūpintų. Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas
-    ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
-    veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
-    palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
   citata_rodoma: "Jį, paimtą  į nelaisvę,\natidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,\ntodėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę\npuotauti. Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,\nbe paliovos  jį užgauliodamas bei plūsdamas. Todėl jis tarė Skomantui: „Negi tam čia\nmane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė\nSkomantas: „Apgailestauju, kad esi koneveikiamas, jeigu  drįsti, atsikeršyk už tau\ndaromas nuoskaudas, o aš tau padėsiu“. Šitai išgirdęs, brolis Liudvikas įsidrąsinęs\nkalaviju nukovė savo varžovą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -145,14 +109,14 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
-    minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
-    ordino broliams Prūsijoje. Samboras, matydamas, kad iš savo dalies negalėsiąs gyventi
-    taip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną
-    visa kuo aprūpintų. Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas
-    ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
-    veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
-    palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
+    Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
+    kalaviju nukovė savo varžovą. Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo
+    Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.
+
+
+
+
+                 211 (206).
   citata_rodoma: "Šitai išgirdęs, brolis Liudvikas įsidrąsinęs\nkalaviju nukovė savo varžovą. Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo\nSkomanto šeimynykštis [famulus] ir sugrąžino pas brolius.\n\n\n\n\n             211 (206)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

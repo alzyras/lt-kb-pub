@@ -80,12 +80,10 @@ Nenurodyta
   pagrindžia:
     - c-168924
 
-## Citatos
-
-- id: c-168922
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Keli tūkstančiai raitelių apie vidudienį perėjo Dneprą ir netikėtai užpuolė besitvirtinančių maskvėnų stovyklą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pavasariui išaušus, Mikalojus Firlėjus
     su lenkų kariuomene atžy-
@@ -113,19 +111,14 @@ Nenurodyta
     kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
     damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
     jo per mažai karių.
-  citata_rodoma: "Kadangi prie­\nšas nežinojo, kas dedasi, keli tūkstančiai raitelių, apie\nvidudienį laimingai persikė-\nK a ia liu s\nŽ y g im a n ta s\nlę per upę, užgriuvo stovyk-\nm a sk v ė n u s su m u ša\nlą, kai maskvėnai stiprinosi,\nir pradėjo kruvinas kauty­\nnes, kol priešai, netikėto antpuolio pritrenkti, nespėjo\natsigauti. Vėliau nušuoliavo prie upės ir iš užpakalio\nužpuolė pakrantėje išstatytas saugas, atverdami savo\nvyrams kelią. Karalius su kitais kariais laukė, kuo vis­\nkas baigsis; pastebėjęs savo vėliavas kitame krante,\njis drąsiai pavarė žirgą į upę ir, vienur briste brisda­\nmas, kitur plaukte plaukdamas, pirmas nusigavo į kitą\nkrantą, pervesdamas be jokių nuostolių visus raitelius."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-168924
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Paaiškėjus, kad maskvėnai pabėgo, kareiviai apiplėšė jų stovyklą, o karalius, didikų patartas, atsisakė juos persekioti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vydamasis priešą, karalius įrengė
     prie upės atvirame lauke stovyklą, įsakydamas, susi­
@@ -147,6 +140,63 @@ Nenurodyta
     jis drąsiai pavarė žirgą į upę ir, vienur briste brisda­
     mas, kitur plaukte plaukdamas, pirmas nusigavo į kitą
     krantą, pervesdamas be jokių nuostolių visus raitelius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168922
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kadangi prie­
+    šas nežinojo, kas dedasi, keli tūkstančiai raitelių, apie
+    vidudienį laimingai persikė-
+    K a ia liu s
+    Ž y g im a n ta s
+    lę per upę, užgriuvo stovyk-
+    m a sk v ė n u s su m u ša
+    lą, kai maskvėnai stiprinosi,
+    ir pradėjo kruvinas kauty­
+    nes, kol priešai, netikėto antpuolio pritrenkti, nespėjo
+    atsigauti. Vėliau nušuoliavo prie upės ir iš užpakalio
+    užpuolė pakrantėje išstatytas saugas, atverdami savo
+    vyrams kelią. Karalius su kitais kariais laukė, kuo vis­
+    kas baigsis; pastebėjęs savo vėliavas kitame krante,
+    jis drąsiai pavarė žirgą į upę ir, vienur briste brisda­
+    mas, kitur plaukte plaukdamas, pirmas nusigavo į kitą
+    krantą, pervesdamas be jokių nuostolių visus raitelius.
+  citata_rodoma: "Kadangi prie­\nšas nežinojo, kas dedasi, keli tūkstančiai raitelių, apie\nvidudienį laimingai persikė-\nK a ia liu s\nŽ y g im a n ta s\nlę per upę, užgriuvo stovyk-\nm a sk v ė n u s su m u ša\nlą, kai maskvėnai stiprinosi,\nir pradėjo kruvinas kauty­\nnes, kol priešai, netikėto antpuolio pritrenkti, nespėjo\natsigauti. Vėliau nušuoliavo prie upės ir iš užpakalio\nužpuolė pakrantėje išstatytas saugas, atverdami savo\nvyrams kelią. Karalius su kitais kariais laukė, kuo vis­\nkas baigsis; pastebėjęs savo vėliavas kitame krante,\njis drąsiai pavarė žirgą į upę ir, vienur briste brisda­\nmas, kitur plaukte plaukdamas, pirmas nusigavo į kitą\nkrantą, pervesdamas be jokių nuostolių visus raitelius."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-168924
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Po šio įvykio Glinskis, nelyginant sumažėjęs ne
+    tik savo šalininkų, bet ir savo paties akyse, pasitraukė
+    į Starodubą su išsaugotais pulkais, kuriais labiausiai
+    pasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas
+    pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,
+    didikų patartas, nesiryžo persekioti maskvėnų. Mat,
+    nors pakrikas priešo atsitraukimas žadėjo nesunkią per­
+    galę, bet, turėdami galvoje, kad keliai visai nepažįsta­
+    mi ir neprieinami, o tarp miškų ir pelkių gali pasitai­
+    kyti visokių pasalų, nutarė, jog susilauks daugiau pa­
+    vojų, nei turės vilčių sėkmingai baigti žygį, jeigu
+    kariai, nuvargę po tokio ilgo kelio, imsią persekioti
+    priešą.
   citata_rodoma: "Po šio įvykio Glinskis, nelyginant sumažėjęs ne\ntik savo šalininkų, bet ir savo paties akyse, pasitraukė\nį Starodubą su išsaugotais pulkais, kuriais labiausiai\npasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas\npabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,\ndidikų patartas, nesiryžo persekioti maskvėnų. Mat,\nnors pakrikas priešo atsitraukimas žadėjo nesunkią per­\ngalę, bet, turėdami galvoje, kad keliai visai nepažįsta­\nmi ir neprieinami, o tarp miškų ir pelkių gali pasitai­\nkyti visokių pasalų, nutarė, jog susilauks daugiau pa­\nvojų, nei turės vilčių sėkmingai baigti žygį, jeigu\nkariai, nuvargę po tokio ilgo kelio, imsią persekioti\npriešą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

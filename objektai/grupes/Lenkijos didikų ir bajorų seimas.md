@@ -60,9 +60,9 @@ Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą
   citata_originali: |
     1 Lenkijos didikų ir bajorų seimas, kuriame buvo nutarta kvies­
     ti Lietuvos didįjį kunigaikšti Jogailą į Lenkijos sostą, buvo ne
-    Petrakave, o Krokuvoje 1385 m. birželio ar liepos mėn. Prieš jį
+    Petrakave, o  Krokuvoje 1385 m. birželio ar liepos mėn. Prieš jį
     1385 m. vasario 18 d. | Krokuvą Jogailos ir Jadvygos vedybų rei­
-    kalu buvo atvykusi Jogailos atstovi) delegacija, vadovaujama Jo­
+    kalu buvo atvykusi Jogailos atstovi) delegacija, vadovaujam a Jo­
     gailos brolio Skirgailos. 1385 m. kovo mėn. pradžioje Lietuvos
     delegacija buvo nuvykusi | Vengriją, kur gavo oficialų Jadvygos
     motinos Elžbietos sutikimą.

@@ -50,12 +50,10 @@ Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susir
   pagrindžia:
     - c-170562
 
-## Citatos
-
-- id: c-170562
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Tą pačią žiemą, pavasariop H, į Smolenską, pas savo
     tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
@@ -77,6 +75,29 @@ Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susir
     jo pusėje buvo chanas Tochtamyšas su savo kariuome­
     ne, ir lietuviai, ir lenkai, ir vokiečiai, žemaičiai, totoriai,
     moldavai ir penkiasdešimt rusų kunigaikščių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-170562
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O
+    kunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas
+    Foma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir
+    po puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi-
+    loslavičius, ten susirgo ir, parvykęs į Kijevą, septintą
+    dieną mirė ,8. Šventikai su žvakėmis, giedodami laido­
+    tuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo
+    miesto į šventąjį dievo motinos katakombų vienuolyną,
+    ir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­
+    lia šventojo Pečeros Teodozijaus1 9  grabo.
   citata_rodoma: "O \nkunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas \nFoma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir \npo puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi- \nloslavičius, ten susirgo ir, parvykęs į Kijevą, septintą \ndieną mirė ,8. Šventikai su žvakėmis, giedodami laido­\ntuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo \nmiesto į šventąjį dievo motinos katakombų vienuolyną, \nir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­\nlia šventojo Pečeros Teodozijaus1 9  grabo."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

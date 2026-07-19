@@ -64,23 +64,6 @@ Nenurodyta
   pagrindžia:
     - c-172629
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas mini būrimą iš sietelio, sukamo ant avių kirpimo žirklių, ypač vagies paieškų burtininkavimo kontekste.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Buvo buriama
-    stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.
-    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
-    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
-    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
-    mo nekaltai nubaudė vieną žmogų“42.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172629
@@ -88,13 +71,12 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    - 134*.
-    3 Kai kurios mūsų šeimininkės dar iki šiol moka virti tą gėrimą
-    virtuvėje puoduose arba nedideliuose katiluose. Jis labai panašus į
-    anglišką alų.
-    i Alų, kuris buvo skirtas atnašavimui, pirkdavo už pinigus, kuriuos
-    gaudavo už javus, tikriausiai bendrai viso kaimo pasėtus atskiroje dir­
-    voje, tai yra šventame lauke (Luc.
+    Buvo buriama
+    stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.
+    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
+    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
+    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
+    mo nekaltai nubaudė vieną žmogų“42.
   citata_rodoma: "Buvo buriama\nstebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.\nBuvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.\nStenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­\nsimenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­\nmo nekaltai nubaudė vieną žmogų“42."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

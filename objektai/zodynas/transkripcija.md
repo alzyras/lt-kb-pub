@@ -86,7 +86,7 @@ Nenurodyta
     ki przettumaczona", nors iš tikrųjų rankraštis buvo ne
     vertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­
     čio, kirilica rašyto teksto transkripcija lotyniškai len­
-    kiškais rašmenimis. Rankraščio pradžioje (1. 1—8) teks­
+    kiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­
     to paraštėse būta tos pačios rašysenos trumpų pastabų
     apie turinį lenkų kalba, bet ar jų jau būta toje kopi­
     joje, iš kurios transkribuotas rastasis lankraštis, ar jos

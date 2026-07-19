@@ -95,10 +95,12 @@ Nenurodyta
 - susijęs iš Paryžiaus akademijos „Užrašai“: Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę.
 - susijęs iš Londonas: Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma.
 - susijęs iš [[objektai/zodynas/Varianka.md#claim-t-195455|Varianka]]: Varianka šiame šaltinyje yra skysčiui perleisti vartojamo lovelio ar piltuvėlio pavadinimas.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas aiškina, kad alus senovės lietuviams buvo svarbiausias svaiginamasis gėrimas ir įėjo į slapiasias aukas arba vaišes.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172525
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą
     patį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr
@@ -112,31 +114,6 @@ Nenurodyta
     ir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­
     sias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę
     kilme.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172525
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Bodajbym žyl dostatnie i przez moję czyny,
-    Zaslužyl bydž mieszkancem szczęšliwej krainy,
-    Gdzie Biaty napoj piją, ziotemi rogami,
-    Czerpiąc go z kadzi šwiętej, pospoiu z bogami.
-    Niešmiertelne dziewice špiewają w gaiku,
-    Sczęšcie, blogose, uciechy dziedziezą bez liku.
-    Tam rycerze polegli na wojnach straszliwych
-    I cienie wiecznie žyją przyjaciolprawdziwych.
-    (Kad aš gyvenčiau turtingas ir kad savo darbais
-    nusipelnyčiau gyventi laimingoje šalyje,
-    kur geria baltą gėrimą iš aukso ragų kartu su dievais,
-    semdami jį iš švento kubilo.
   citata_rodoma: "Tą\npatį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr\ntaip pat grobiantis iš jo Fontenelis (Fontenete), kurio vertimą\nturime gimtąja kalba.\nIV\nskyrius\nAPIE AUKAS\nŠventieji gėrimai\nAlus (Alus) senovės lietuviams visuomet buvo pirmutinis\nir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­\nsias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę\nkilme."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

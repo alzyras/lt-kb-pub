@@ -109,14 +109,12 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
-    vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
-    kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino. Per daugelį
-    žiemos meto karo žygių, o ypač per tą, apie kurį jau kalbėta, akylas žmogus galėtų
-    pastebėti keistų ir nuostabių dalykų: štai ir mūsų minėta kariuomenė požiemyje, kai
-    ledą iš viršaus tirpdo saulės spinduliai, o iš apačios graužia srovė, vidurnaktyje su ginklu
-    rankose perėjo ledu Nemuną; kai jie saugiai nusigavo į kitą krantą, ledas taip suskilo
-    ir sutruko, kad išaušus jo nebeliko nė pėdsakų.
+    “ Jiems
+    atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais. Jis pasakė: „Nesunku
+    atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti
+    dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,
+    bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus
+    apgins.
   citata_rodoma: "“ Jiems\natsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais. Jis pasakė: „Nesunku\natiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti\ndideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,\nbet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus\napgins."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -131,16 +129,10 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tada jis padalijo
-    savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
-    kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
-    paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
-    256 (249). Apie nuostabų atsitikimą šiame kare
-    Turime pažymėti, kad, pradėjus kokį karą, paprastai kariuomenė traukia į žygį ne
-    vienu keliu, bet keliais skirtingais, nes žygio metu norima palaikyti tvarką ir išvengti
-    kamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
-    vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
-    kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino.
+    Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
+    dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
+    pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal
+    ir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių.
   citata_rodoma: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo\ndieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,\npasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal\nir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -45,18 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195356"></a>
-- t-001
-  teiginys: "Indas ar įrenginys su kruopomis, iš kurio semia mažiukai."
-  atnaujinta: "2026-07-12 01:47"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177766
-- susijęs iš [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka.md#claim-t-195406|Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]: Per gavėnią garstyčninkas, pupos ir žirniai buvo valgomi savitais būdais, o mažiukai slapta nešiodavosi kruopas iš sietuvės.
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -75,8 +63,10 @@ Nenurodyta
   citata_rodoma: "Jos geros valgyti ir nevirintos. Mažiukai, pripuolę \nprie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpda­\nmi nuo didžiųjų."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+## Teiginiai
+
+- susijęs iš [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka.md#claim-t-195406|Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]: Per gavėnią garstyčninkas, pupos ir žirniai buvo valgomi savitais būdais, o mažiukai slapta nešiodavosi kruopas iš sietuvės.

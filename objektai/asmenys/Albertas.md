@@ -11,10 +11,6 @@ datos:
   - '1252 m.'
 date_start: '1200'
 date_end: '1252'
-variantai:
-  - 'Albertas'
-aliases:
-  - 'Albertas'
 periodo_grupes:
   - 'viduramžiai'
 amziai:
@@ -199,22 +195,23 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   santrauka: 'Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Si
-    vyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­
-    sos pakrantėje ir Gardino link, kur dominikonai jau nuo
-    seno turėjo savo misijas, o Rytų apeigų krikščioniškasis
-    tikėjimas buvo gana paplitęs. To įrodymų matome popie­
-    žiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­
-    kupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi
-    šalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­
-    cija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,
-    Varmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos
-    (Lenkijos) vyskupijose.
+    Kryžiuočiai savo ruožtu ne­
+    siliovė naikinę prūsų Bartos ir Galindos provincijų, iš ku­
+    rių būriai pagonių bėglių, tarp kurių buvo ir jotvingių,
+    traukėsi prie Narevo ir į Polesę, jau priklausančią Kuja-
+    vijos kunigaikščiui; čia sėkmingai plėtėsi krikščionybė.
+    Bet veržlūs kryžiuočiai, nepaisydami jokių valdžių ir tei­
+    sių, iškapodavo jotvingius ir ¡galindus, nuviję juos į Po-'
+    lesę. Kai didysis kryžiuočių magistras dėl skundų Romai
+    neatsižvelgė į atsiųstą popiežiaus perspėjimą, nurodyda­
+    mas savo apeliaciją j anksčiau, t. y. 1253 metais, išleistą
+    popiežiaus Inocento bulę, apaštališkasis legatas abatas
+    Opicas atskyrė jį nuo bažnyčios2.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -299,18 +296,17 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kryžiuočiai savo ruožtu ne­
-    siliovė naikinę prūsų Bartos ir Galindos provincijų, iš ku­
-    rių būriai pagonių bėglių, tarp kurių buvo ir jotvingių,
-    traukėsi prie Narevo ir į Polesę, jau priklausančią Kuja-
-    vijos kunigaikščiui; čia sėkmingai plėtėsi krikščionybė.
-    Bet veržlūs kryžiuočiai, nepaisydami jokių valdžių ir tei­
-    sių, iškapodavo jotvingius ir ¡galindus, nuviję juos į Po-'
-    lesę. Kai didysis kryžiuočių magistras dėl skundų Romai
-    neatsižvelgė į atsiųstą popiežiaus perspėjimą, nurodyda­
-    mas savo apeliaciją j anksčiau, t. y. 1253 metais, išleistą
-    popiežiaus Inocento bulę, apaštališkasis legatas abatas
-    Opicas atskyrė jį nuo bažnyčios2.
+    Si
+    vyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­
+    sos pakrantėje ir Gardino link, kur dominikonai jau nuo
+    seno turėjo savo misijas, o Rytų apeigų krikščioniškasis
+    tikėjimas buvo gana paplitęs. To įrodymų matome popie­
+    žiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­
+    kupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi
+    šalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­
+    cija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,
+    Varmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos
+    (Lenkijos) vyskupijose.
   citata_rodoma: "Si\nvyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­\nsos pakrantėje ir Gardino link, kur dominikonai jau nuo\nseno turėjo savo misijas, o Rytų apeigų krikščioniškasis\ntikėjimas buvo gana paplitęs. To įrodymų matome popie­\nžiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­\nkupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi\nšalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­\ncija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,\nVarmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos\n(Lenkijos) vyskupijose."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

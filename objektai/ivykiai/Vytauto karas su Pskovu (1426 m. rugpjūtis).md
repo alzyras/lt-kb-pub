@@ -10,13 +10,13 @@ datos:
   - '1431 m.'
 date_start: '1406'
 date_end: '1431'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -93,12 +93,9 @@ Nenurodyta
   pagrindžia:
     - c-178910
 
-## Citatos
-
-- id: c-169953
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     10 Visiškas
     Lenkijos
@@ -112,6 +109,22 @@ Nenurodyta
     M Iš tikrųjų gal ne barzdos, o vadinamieji bunčiukal — iš ark­
     lių uodegų padaryti pagražinimai, kuriais totoriai puošdavo savo
     žirgus (K. Szajnocha, Szkice historyczne, Lw6w.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169953
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    450 rublių už belaisvius (1427.111.30), Per abu šluos karus Didysis
+    Naugardas laikėsi neulralitelo. BK pasakojime čia, veikiausiai, turi­
+    m a galvoje 1426 ra. rugpiūčio mėn. Vytauto karas su Pskovu.
   citata_rodoma: "450 rublių už belaisvius (1427.111.30), Per abu šluos karus Didysis \nNaugardas laikėsi neulralitelo. BK pasakojime čia, veikiausiai, turi­\nm a galvoje 1426 ra. rugpiūčio mėn. Vytauto karas su Pskovu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

@@ -147,37 +147,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 - susijęs iš Chełmža: Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.
 - susijęs iš Chełmža: Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango, kol Chełmžos miestiečiai išėjo pjauti javų.
 ## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
-                                būtent: Eimsutis ir dar viena
-
-      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
-    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
-    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
-    Kai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei
-    antrą kartą papūtė savo ragą, duodamas sutartą ženklą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-194537
-- c-002
-  santrauka: 'Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsisakęs pareigų ir ten miręs.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pailsęs nuo rūpesčių ir palaužtas negalės,
-    ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
-    pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.
-
-             280 (273).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-003
   santrauka: 'Prūsų kariuomenė atžygiavo ir apsiautė Kulmenzės miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -231,18 +200,14 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuos, kurie, patikėję šiais žodžiais,
-    išeidavo, jis su saviškiais užpuldavo ir paimdavo į nelaisvę arba nužudydavo.
-    168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
-    apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
-    Kai antrosios atskalūnybės  metais stiprėjo krikščionių persekiojimas, kurie ne kurie
-    Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
-    paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
-    su broliais.
-    169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
-    Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
-    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė
-    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė į nelaisvę.
+    Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
+                                būtent: Eimsutis ir dar viena
+
+      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
+    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
+    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
+    Kai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei
+    antrą kartą papūtė savo ragą, duodamas sutartą ženklą.
   citata_rodoma: "Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,\n                            būtent: Eimsutis ir dar viena\n\n  Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas\nsiaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas\nkarys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.\nKai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei\nantrą kartą papūtė savo ragą, duodamas sutartą ženklą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -257,12 +222,14 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Būdamas
-    pasauliečiu, jis garsėjo kaip baisus žiauruolis, didelis grobikas ir piktadarys. Kartą
-    vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė:
-    „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi
-    didelį grobį“. Henrikas nudžiugo ir, užsėdęs savo žirgą, nusekė iš paskos visokiausiais
-    keliais ir šunkeliais.
+    Pailsęs nuo rūpesčių ir palaužtas negalės,
+    ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
+    pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.
+
+
+
+
+             280 (273).
   citata_rodoma: "Pailsęs nuo rūpesčių ir palaužtas negalės,\nilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia\npasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.\n\n\n\n\n         280 (273)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -275,14 +242,11 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
-    neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,
-    du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos
-    nuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo
-    pagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo
-    juodu saugoti. Trys kiti prūsai nusivijo pabėgusį brolio arklį. Šiedu sargai ištrauktu
-    kalaviju norėjo nukirsti galvą surištam Martynui, bet jis juos įkalbėjo prieš tai leisti jam
-    nusivilkti drabužius, nes, girdi, jie susikruvins.
+    Apie Kulmenzės miesto apgulą
+
+      Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433. Susirūpinęs dėl šio
+    įvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes
+    išeiti [iš miesto] ir tiksliai sužinoti, kiek priešo kariuomenėje karių ir kokio ji stiprumo.
   citata_rodoma: "Apie Kulmenzės miesto apgulą\n\n  Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433. Susirūpinęs dėl šio\nįvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes\nišeiti [iš miesto] ir tiksliai sužinoti, kiek priešo kariuomenėje karių ir kokio ji stiprumo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -298,13 +262,15 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
-    nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
-    turėjome keliauti ten, kur amžinos linksmybės“. Nors jis ir nesirgo jokia kita liga, o tik
-    ta, kurią esu paminėjęs, vis dėlto, pasiprašęs kunigo ir priėmęs bažnyčios sakramentus,
-    tą pačią dieną laimingai atidavė viešpačiui sielą.
-    279 (272). Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
-    Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus.
+    Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
+
+       Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
+    metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
+
+
+
+
+      273 (266).
   citata_rodoma: "Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą\n\n   Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus\nmetus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.\n\n\n\n\n  273 (266)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -320,12 +286,13 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    157 (152). Dar apie Martyną iš Golino ir jo nuostabią kovą
-    Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
-    leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
-    sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
-    kiek čia jo bendrų ir kur jie. Sitai padarę, smarkiai juos užpuolė, Martynas bei jo draugai
-    narsiai gynėsi, todėl daug ir vienos, ir kitos šalies karių buvo sunkiai sužeista.
+    Apie daugybės Kulmenzės miestiečių žūtį
+
+      Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri
+    vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,
+    miestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo
+    lauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,
+    manydami, kad svetima kariuomenė bus pasitraukusi.
   citata_rodoma: "Apie daugybės Kulmenzės miestiečių žūtį\n\n  Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri\nvadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,\nmiestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo\nlauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,\nmanydami, kad svetima kariuomenė bus pasitraukusi."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

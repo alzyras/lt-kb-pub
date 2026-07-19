@@ -7,6 +7,10 @@ datos:
   - '1272 m.'
 date_start: '1272'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,10 +18,6 @@ tags:
   - asmuo
   - karas
   - kunigas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,12 +67,10 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
   pagrindžia:
     - c-61039
 
-## Citatos
-
-- id: c-61039
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kunigas ir nuodėmklausys Petras subarė brolį dėl grandininių šarvų, bet šis atsisakė juos nusivilkti, kol gyvas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
     Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos
@@ -88,6 +86,26 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
     Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris dienas ir naktis, kiekvieną
     dieną valydamas Notangą gaisrais bei plėšimais Jis  taip nusiaubė šią [žemę], kad kitais
     metais ji vėl pasidavė tikėjimui bei broliams.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-61039
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Kai brolis
+    Petras, kunigas ir jo nuodėmklausys, jį subarė, sakydamas, kad karo metu dėl kitų šarvų
+    svorio jis privaląs nusiimti grandininius, tas atrėžė, kad niekas jo negalįs priversti, kol
+    gyvas, juos nusivilkti. Tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį
+    taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą
+    jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.
   citata_rodoma: "Kai brolis\nPetras, kunigas ir jo nuodėmklausys, jį subarė, sakydamas, kad karo metu dėl kitų šarvų\nsvorio jis privaląs nusiimti grandininius, tas atrėžė, kad niekas jo negalįs priversti, kol\ngyvas, juos nusivilkti. Tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį\ntaip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą\njį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

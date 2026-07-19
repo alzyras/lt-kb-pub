@@ -55,6 +55,23 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
   pagrindžia:
     - c-184430
 
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Tai buvo iš jų pusės daroma man didelė neteisybė, kad
+    jie prieš mano valią spyrė, kad aš priimčiau rusų ti­
+    kėjimą.
+    Jau metai laiko nūnai, kai kunigaikštis [Jogailai
+    Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
+    visą mano tėviškę mano akivaizdoje6. Man tai buvo
+    labai skaudu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-182302
@@ -68,7 +85,7 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
     kėjimą.
     Jau metai laiko nūnai, kai kunigaikštis [Jogailai
     Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
-    visą mano tėviškę mano akivaizdoje6. Man tai buvo
+    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
     labai skaudu.
   citata_rodoma: "Tai buvo iš jų pusės daroma man didelė neteisybė, kad \njie prieš mano valią spyrė, kad aš priimčiau rusų ti­\nkėjimą.\nJau metai laiko nūnai, kai kunigaikštis [Jogailai \nLiublino pilyje užrašė kunigaikščiui Skirgailai raštais \nvisą mano tėviškę mano akivaizdoje6 . Man tai buvo \nlabai skaudu."
   statusas: verified

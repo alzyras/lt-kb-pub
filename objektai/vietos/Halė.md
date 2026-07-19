@@ -64,30 +64,6 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
   pagrindžia:
     - c-168320
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Imperatorius Maksimilijonas netoli Halės jėga atėmė maskvėnų belaisvius iš karaliaus žygūnų ir grąžino juos į Maskvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Karalius bei karalienė, iškilmingai Vilniuje per mišias
-    padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­
-    mos popiežiui kaip dovaną keturiolika į nelaisvę pa­
-    imtų maskvėnų — pačių žymiausiųjų didikų. Tačiau
-    imperatorius Maksimilijonas netoli Halės jėga juos at­
-    ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal
-    į Maskvą. Be abejo, šitai jis
-    Im p e ra to riu s
-    M a k si-
-    padarė dėl savo senos drau-
-    m ili jo n a s
-    išsiža d a
-    gystės su Vasilijumi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-59327
@@ -113,18 +89,19 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Surengęs stovykloje kareiviškas pamaldas ir pa­
-    dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis
-    suskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­
-    niasdešimt žymiausių bajorų, išsiuntė juos karaliui su
-    laišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­
-    nią apie pralaimėjimą, paliko prie Smolensko savo ka­
-    riuomenę ir persigandęs pabėgo į Maskvą. Po tokios
-    pergalės be vargo buvo galima atsiimti ir tai, ką prie­
-    šas užgrobė neseniai per išdavystę. Tuo tarpu nuga­
-    lėtojai lyg tyčia neskubėjo: apsikrovę didžiule manta,
-    visą mėnesį žygiavo sunkiai pravažiuojamais ir pra­
-    einamais keliais iki Smolensko.
+    Karalius bei karalienė, iškilmingai Vilniuje per mišias
+    padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­
+    mos popiežiui kaip dovaną keturiolika į nelaisvę pa­
+    imtų maskvėnų — pačių žymiausiųjų didikų. Tačiau
+    imperatorius Maksimilijonas netoli Halės jėga juos at­
+    ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal
+    į Maskvą. Be abejo, šitai jis
+    Im p e ra to riu s
+    M a k si-
+    padarė dėl savo senos drau-
+    m ili jo n a s
+    išsiža d a
+    gystės su Vasilijumi.
   citata_rodoma: "Karalius bei karalienė, iškilmingai Vilniuje per mišias\npadėkoję viešpačiui dievui už pergalę, pasiuntė Ro­\nmos popiežiui kaip dovaną keturiolika į nelaisvę pa­\nimtų maskvėnų — pačių žymiausiųjų didikų. Tačiau\nimperatorius Maksimilijonas netoli Halės jėga juos at­\nėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal\nį Maskvą. Be abejo, šitai jis\nIm p e ra to riu s\nM a k si-\npadarė dėl savo senos drau-\nm ili jo n a s\nišsiža d a\ngystės su Vasilijumi."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

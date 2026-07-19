@@ -75,11 +75,7 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
   puslapiai: "p. 163 (PDF 161)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 163 (PDF 161)."
   citata_originali: |
-    An­
-    troji Leibienė tiek praturto, kad savo vienintelį sūnų išmokė rabinu.
-    Tas rabinas vedė pačią, o uošvis vedė Leibienę.
-    Leibienė išėjo gy­
-    venti į Panevėžį ir kromo nebenešiojo.
+    Leibienė išėjo gyventi į Panevėžį ir kromo nebenešiojo.
   citata_rodoma: "Leibienė išėjo gyventi į Panevėžį ir kromo nebenešiojo."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"

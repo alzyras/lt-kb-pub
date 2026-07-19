@@ -174,20 +174,13 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Odoakras,
-    kuriam buvo gerai žinoma Rytų imperatoriaus mintys ir
-    ketinimai, nutarė, jog, atsižvelgiant į jo padėtį, dera pa­
-    rodyti tam tikrą paklusnumą Zenonui. Dėl to Romos se­
-    natas nusiuntė į Konstantinopolį pasiuntinius, pranešda­
-    mas, jog nereikia skelbti imperatorių Romoje, nes aukš­
-    čiausio rango pareigūnas yra Rytų imperijoje; imperato­
+    Dėl to Romos se-
+    natas nusiuntė į Konstantinopolį pasiuntinius, pranešda-
+    mas, jog nereikia skelbti imperatorių Romoje, nes auk-
+    ščiausio rango pareigūnas yra Rytų imperijoje; imperato-
     rius gali drąsiai pasikliauti dora ir karingumu Odoakro
     kaip patricijaus, kuriam jis teikiasi patikėti valdžią italų
-    diecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­
-    siuntinius, kurie, demonstruodami nuolankumą, turėjo
-    prašyti patvirtinti senato reikalavimus. Taip pat atvyko
-    ir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­
-    tas jų imperatoriaus titulas.
+    diecezijoje.
   citata_rodoma: "Dėl to Romos se-\nnatas nusiuntė į Konstantinopolį pasiuntinius, pranešda-\nmas, jog nereikia skelbti imperatorių Romoje, nes auk-\nščiausio rango pareigūnas yra Rytų imperijoje; imperato-\nrius gali drąsiai pasikliauti dora ir karingumu Odoakro\nkaip patricijaus, kuriam jis teikiasi patikėti valdžią italų\ndiecezijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

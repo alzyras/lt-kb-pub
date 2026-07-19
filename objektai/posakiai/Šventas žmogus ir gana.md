@@ -45,18 +45,6 @@ Tai trumpa gynybinė vertinimo formulė. Vartojimo kontekstas: šeimininkė taip
 
 Trumpa gynybinė vertinimo formulė.
 
-## Teiginiai
-
-<a id="claim-t-195444"></a>
-- t-001
-  teiginys: "Šeimininkė taip apgina elgetą nuo šeimininko pašaipos."
-  atnaujinta: "2026-07-12 02:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177865
-
 ## Citatos
 
 - id: c-177865
@@ -65,13 +53,10 @@ Trumpa gynybinė vertinimo formulė.
   puslapiai: "p. 138 (PDF 136)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 138 (PDF 136)."
   citata_originali: |
-    — Eik, eik! Ką čia šneki niekus! Šventas žmogus ir gana, — sa­
-    ko šeimininkė.
+    — Eik, eik! Ką čia šneki niekus! Šventas žmogus ir gana, — sako šeimininkė.
   citata_rodoma: "— Eik, eik! Ką čia šneki niekus! Šventas žmogus ir gana, — sako šeimininkė."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -51,7 +51,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 <a id="claim-t-178768"></a>
 - t-001
   teiginys: "II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzkariavo -> Jotvingiai: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -63,7 +63,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   semantiniai_rysiai: "Vokiečių ordinas užkariavo Jotvingiai (0.94)"
   pagrindžia:
-    - c-162476
     - c-180647
 
 <a id="claim-t-178771"></a>
@@ -513,26 +512,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - susijęs iš [[objektai/asmenys/Lešekas Juodasis.md#claim-t-190919|Lešekas Juodasis]]: 1282 metais Lešeko Juodojo vadovaujami lenkai prie Narevo užklupo jotvingius ties Ostrolenka.
 - susijęs iš Galinda: 1253 m. kryžiuočiai, siekdami lengviau užimti Sembą, pirmiausia turėjo užkariauti Galindą ir atskirti jotvingius nuo Panemunės kraštų.
 ## Reikšmingi paminėjimai
-- c-014
-  santrauka: 'Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
-    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
-    55
-
-    ## Puslapis 51
-
-    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
-    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
-    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
-    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
-    mis ietimis, ir vaikėsi po lauką, tarytum turnyre.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-017
   santrauka: 'Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -558,13 +537,9 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   puslapiai: "PDF 11"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
-    Priešiškuose lietuviams
-    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
-    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
-    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
-    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
-    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
-    sutriuškino kryžiuočius mūšio lauke (III, 123).
+    Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
   citata_rodoma: "Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -623,12 +598,10 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   citata_rodoma: "sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-175204
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -938,16 +911,17 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   puslapiai: "PDF 52"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
   citata_originali: |
-    Vaišvilkas negalėjo pasiekti Šventojo Kalno, nesgi
-    anuose kraštuose tuomet buvo didelis sąmyšis. Ir par­
-    keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo­
-    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
-    ir gyveno tenai. O jo tėvas Mindaugas priekaištavo
-    jam, kam tokį gyvenimą pasirinkęs; bet jis savo tėvo
-    labai nemylėjo.
-    Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
-    pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
-    Daumanto, už Nalšios kunigaikščiol0.
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
+    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
+    55
+
+    ## Puslapis 51
+
+    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
+    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
+    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
+    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
+    mis ietimis, ir vaikėsi po lauką, tarytum turnyre.
   citata_rodoma: "Mindaugas buvo pasiruošęs, bet nutarė su jais at­\nvirame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir\n55\n\n## Puslapis 51\n\n(naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus, \nir jotvingius. O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"

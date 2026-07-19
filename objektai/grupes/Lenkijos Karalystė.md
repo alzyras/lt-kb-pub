@@ -11,15 +11,15 @@ datos:
   - '1815 m.'
 date_start: '1342'
 date_end: '1815'
+amziai:
+  - 'XIV'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kariuomenė
   - bajorija
   - grupe
-amziai:
-  - 'XIV'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -126,6 +126,45 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   pagrindžia:
     - c-178903
 
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir Krokuvos karalystė 5 jį paėmė, tada aš vėl pareiškiau savo tikėjimą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir kai šlovingasis val­
+    dovas Vytautas užpykdavo ant kurios nors šalies ir pa­
+    norėdavo kurią nors šalį nubausti, karalius Vladislovas
+    visuomet suteikdavo jam pagalbą, Įo kai kada pats
+    vykdavo jam į pagalbą).
+    Tarnavo jam ir kiti Rytų valdovai. Taip pat ir Mask­
+    vos didysis kunigaikštis gyveno su juo didelėje meilėje.
+    Ir kiti Vokietijos didieji kunigaikščiai tarnavo jam su
+    visais savo miestais ir su žemėmis. O tie Vokietijos di­
+    dieji kunigaikščiai vokiečių kalba vadinosi magistrai3.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali kęs vyriškos lyties įpėdinių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Atskirus šio maišto epizodus pla­
+    čiau aprašo J. Dlugošas ir rusų metraščiai |PSRL, t. IV, p. 92—93;
+    V, p. 239; VIII, p. 51; XV, p. 443).
+    3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
+    emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
+    jo iškilimu į Lenkijos karalius. Užsibrėžęs atplėšti Polocko kuni­
+    gaikštystę nuo LDK ir paversti ją savo įpėdinių valdoma atskira
+    valstybe, Andrius Algirdaitis 1385 m. spalio 10 d. aktu pasidavė
+    Livonijos ordinui kaip pastarojo vasalas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-176335
@@ -198,16 +237,14 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir kai šlovingasis val­
-    dovas Vytautas užpykdavo ant kurios nors šalies ir pa­
-    norėdavo kurią nors šalį nubausti, karalius Vladislovas
-    visuomet suteikdavo jam pagalbą, Įo kai kada pats
-    vykdavo jam į pagalbą).
-    Tarnavo jam ir kiti Rytų valdovai. Taip pat ir Mask­
-    vos didysis kunigaikštis gyveno su juo didelėje meilėje.
-    Ir kiti Vokietijos didieji kunigaikščiai tarnavo jam su
-    visais savo miestais ir su žemėmis. O tie Vokietijos di­
-    dieji kunigaikščiai vokiečių kalba vadinosi magistrai3.
+    Ir aš prieš savo norą, jų valią vyk­
+    dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
+    kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
+    tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
+    jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
+    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
+    savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
+    tikėjimo.
   citata_rodoma: "Ir aš prieš savo norą, jų valią vyk­\ndydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­\nkiau tai viešai žmonėms, o sykiu slaptai laikiausi savo \ntikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­\njimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir \nKrokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau \nsavo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių \ntikėjimo."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -248,15 +285,11 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Atskirus šio maišto epizodus pla­
-    čiau aprašo J. Dlugošas ir rusų metraščiai |PSRL, t. IV, p. 92—93;
-    V, p. 239; VIII, p. 51; XV, p. 443).
-    3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
-    emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
-    jo iškilimu į Lenkijos karalius. Užsibrėžęs atplėšti Polocko kuni­
-    gaikštystę nuo LDK ir paversti ją savo įpėdinių valdoma atskira
-    valstybe, Andrius Algirdaitis 1385 m. spalio 10 d. aktu pasidavė
-    Livonijos ordinui kaip pastarojo vasalas.
+    1  Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali­
+    kęs vyriškos lyties įpėdinių. Jo  vietą 1370—1382 m. užėmė Veng­
+    rijos karalius (1342—1382| Liudvikas Didysis iš Anžū (Anjou) di­
+    nastijos. Pats Liudvikas gyveno Vengrijoje, o Lenkiją valdė per
+    savo motiną Elžbietą ir Opolės kunigaikšti Vladislovą.
   citata_rodoma: "1  Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali­\nkęs vyriškos lyties įpėdinių. Jo  vietą 1370—1382 m. užėmė Veng­\nrijos karalius (1342—1382| Liudvikas Didysis iš Anžū (Anjou) di­\nnastijos. Pats Liudvikas gyveno Vengrijoje, o Lenkiją valdė per \nsavo motiną Elžbietą ir Opolės kunigaikšti Vladislovą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

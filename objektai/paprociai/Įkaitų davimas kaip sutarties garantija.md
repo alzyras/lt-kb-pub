@@ -11,13 +11,13 @@ datos:
   - '1396 m.'
 date_start: '1383'
 date_end: '1396'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinė-praktika
   - paprotys
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -163,22 +163,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   pagrindžia:
     - c-14489
 
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja
-    už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir
-    nuolankiai pasidavė krikščionių tikėjimui ir broliams.
-
-                   76 (75). Apie vienos Notangos dalies nuniokojimą
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-14489
@@ -263,12 +247,14 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Štai dėl to, šios aplinkybės verčiamas, jis sugrįžo į tėvynę, savo gerus norus
-    palaikydamas nuopelnu, nors užsimoto tikslo ir nepasiekė.
-    335  Žr. paaiškinimus D. III, 74, 332.
-    336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito,
-    Auglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p. 47; CV, t. 32, d. 2,
-    p. 324), plg. Топоров B. H., Прусский язык, E—H, c.
+    pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja
+    už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir
+    nuolankiai pasidavė krikščionių tikėjimui ir broliams.
+
+
+
+
+                   76 (75). Apie vienos Notangos dalies nuniokojimą
   citata_rodoma: "pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja\nuž brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir\nnuolankiai pasidavė krikščionių tikėjimui ir broliams.\n\n\n\n\n               76 (75). Apie vienos Notangos dalies nuniokojimą"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

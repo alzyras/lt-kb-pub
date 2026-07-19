@@ -12,14 +12,14 @@ datos:
   - '1701 m.'
 date_start: '1600'
 date_end: '1701'
-amziai:
-  - 'XVI'
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dinastija
   - grupe
+amziai:
+  - 'XVI'
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -116,22 +116,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   temporalinis_llm_pakomentavimas: "Teiginys yra glaustas, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-72981
-
-<a id="claim-t-75063"></a>
-- t-001
-  teiginys: "Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22844
 
 <a id="claim-t-188360"></a>
 - t-006
@@ -445,21 +429,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78380|Lietuvos totoriai]]: Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.
 - susijęs iš Biržų pilis (pilis): Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65305|Kazokai]]: Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Narbutas Švedijoje minėjo vyriausiąjį žynį ir teisėją, kuris dėl šių pareigų save laikė aukščiausiuoju karaliumi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kaip tik
-    Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
-    jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
-    raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-22844
@@ -474,12 +443,10 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   citata_rodoma: "Dėl to įsilieps-\nnojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-72980
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -553,14 +520,10 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šitaip būdavo paskelbiami
-    ne vien teismai, bet ir be skirtumo visokios viešosios sueigos;
-    ten turėdavo būti svarstomi kokie nors neeiliniai klausimai
-    arba bylos. Ši pranešėjo lazda būdavo pažymėta priklausomai
-    nuo dalyko, kuris turėdavo būti svarstomas sueigoje, kaip an­
-    tai, jeigu tikėjimo dalykas, - mediniu kryžiumi; jeigu žmogžu­
-    dystė, - medine strėle arba kirviu). Naudojimasis ta budlafla
-    kilęs iš seniausių stabmeldystės laikų, nes tą patį paprotį ran-
+    Kaip tik
+    Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
+    jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
+    raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
   citata_rodoma: "Kaip tik\nŠvedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­\njas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­\nraliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -569,13 +532,3 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-
-## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Gotbrodas]]
-- Kariavo prieš: [[objektai/grupes/Bajorų konfederacija]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Lietuvos kariuomenė]]
-- Turėjo priklausinį: [[objektai/grupes/Kuršiai]]
-- Švedai puolė [[objektai/vietos/Lietuva]]
-- Švedai apgulė [[objektai/vietos/Brasta]], [[objektai/vietos/Lietuvos Brasta]]
-- Švedai užėmė [[objektai/vietos/Apuolės pilis|Apuolės pilis (pilis)]], [[objektai/vietos/Livonija]]
-- Švedai kariavo prieš [[objektai/grupes/Lietuviai]]
-- Švedai dalyvavo mūšyje [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]

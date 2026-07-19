@@ -122,14 +122,9 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Skirmantas, surinkęs visas sa­
-    vo kariaunas, pasitiko juos Kaidanove l0, prie savo sie­
+    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
     nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
-    galybę, ir nukovė patį chaną ", Su didžios pergalės
-    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
-    Černigovo, Starodubo l3, Karačevo M miestus, ir, laimė­
-    jęs pergalę, be nuostolių pargrįžo atgalios.
-    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
-    vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
+    galybę, ir nukovė patį chaną ".
   citata_rodoma: "Didysis kunigaikštis Skirmantas, surinkęs visas sa­\nvo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­\nnos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją \ngalybę, ir nukovė patį chaną \"."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

@@ -65,25 +65,6 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 - susijęs iš [[objektai/asmenys/Aleksandras Humboltas.md#claim-t-191243|Aleksandras Humboltas]]: Narbutas Aleksandro Humbolto veikalus apie Žemės temperatūros kitimą siejo su prielaida, kad Šiaurėje labai seniai būta gyventojų.
 - susijęs iš [[objektai/autoriai/Aleksandras Humboltas.md#claim-t-191593|Aleksandras Humboltas]]: Teodoras Narbutas Aleksandro Humbolto veikalais apie Žemės temperatūros kitimą grindė prielaidą apie labai senus Šiaurės gyventojus.
 - susijęs iš [[objektai/asmenys/Bodhidana.md#claim-t-190135|Bodhidana]]: Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Teodoro Narbuto dėstyme pelazgai laikomi žmonių karta, atklydusia nuo Tibeto prie Viduržemio jūros pakrančių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nibūras, kurio darbus paėmėme, taip sa­
-    ko apie juos: „Tai ne prielaida, kalbu kuo tvirčiausiai isto­
-    riškai įsitikinęs“.
-    18
-    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
-    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
-    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
-    jonėnai ir trojėnai kilę iš pelazgų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-38653
@@ -113,16 +94,14 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    čių: ilyrų, mezų, penų, getų, dakų; jos pasitraukė to­
-    liau į šiaurę ir atsirado iš tų arba iš pagrindinio kamie­
-    no, pavyzdžiui, iš tisagetų, masagetų, gelonų. Iš pradžių
-    jos visos palaikė glaudžius ryšius ir bendrai gynė savo
-    saugumą. Pirmykštėje žmonių visuomenėje tautos sun­
-    kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
-    žmones, o gentainių pagalbą ir abipusę draugystę labai
-    brangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­
-    meninio gyvenimo kūdikystės lygio ir atrastų mūsų am­
-    žiais.
+    Nibūras, kurio darbus paėmėme, taip sa­
+    ko apie juos: „Tai ne prielaida, kalbu kuo tvirčiausiai isto­
+    riškai įsitikinęs“.
+    18
+    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
+    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
+    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
+    jonėnai ir trojėnai kilę iš pelazgų.
   citata_rodoma: "Nibūras, kurio darbus paėmėme, taip sa­\nko apie juos: „Tai ne prielaida, kalbu kuo tvirčiausiai isto­\nriškai įsitikinęs“.\n18\nNeginčijamas dalykas yra ir tai, kad pelazgai buvo tos\nkartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto\nprie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad\njonėnai ir trojėnai kilę iš pelazgų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -82,16 +82,6 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   pagrindžia:
     - c-177950
 
-<a id="claim-t-195531"></a>
-- t-004
-  teiginys: "Blaivybės brolijų plitimas siejamas su bravarų užgesimu ir gertuvių ištuštėjimu."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177947
-
 <a id="claim-t-195533"></a>
 - t-005
   teiginys: "Aprašyta blaivybės būklė tęsėsi iki 1863 m. sukilimo."
@@ -133,17 +123,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   puslapiai: "p. 84 (PDF 82)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 84 (PDF 82)."
   citata_originali: |
-    Iš tokių žydas daugiausia
-    pelnydavo.
-    Kiti išsimanydavo ir veltui degtinės atsigerti:
-    numato,,
-    kur Mendeliene kiaušinius krauna, numato, kad prie jų nesunku pri­
-    eiti, taigi žmogelis, atėjęs į gertuvę, pirmiausia pravėrė kamaros du­
-    ris, pamatė ten kiaušinių prikrautą rėtį, greitai dedasi į kišenę, greitai
-    iš kamaros į geriamąjį kambarį — ir keičia su Mendeliene kiaušinius
-    į degtinę.
-    Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­
-    siam girtuokliavimui, įvesdamas „Blaivybės Broliją“ .
+    Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžusiam girtuokliavimui, įvesdamas „Blaivybės Broliją“.
   citata_rodoma: "Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžusiam girtuokliavimui, įvesdamas „Blaivybės Broliją“."
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
@@ -152,7 +132,6 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
 
 - id: c-177948
   autorius: "M. Katkus"
@@ -160,11 +139,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   puslapiai: "p. 84 (PDF 82)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 84 (PDF 82)."
   citata_originali: |
-    Likeris — saldi degtinė, iki tol nežinoma.
-    Žydai ėmė sakyti, kad tai
-    ne degtinė, bet vynas; žmonės, išsiilgę stiprumo, buvo linkę tikėti, kad
-    tai teisybė, — ir vienas kitas ėmė gerti likerį. Tokia dalykų būklė tę­
-    sėsi ligi 1863 metų, ligi sukilimo.
+    Tokia dalykų būklė tęsėsi ligi 1863 metų, ligi sukilimo.
   citata_rodoma: "Tokia dalykų būklė tęsėsi ligi 1863 metų, ligi sukilimo."
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
@@ -180,12 +155,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   puslapiai: "p. 84 (PDF 82)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 84 (PDF 82)."
   citata_originali: |
-    Buvo tai didelė nau­
-    jiena ir didelis susidomėjimas: siekė vyrai, moterys, seni, jauni, didi ir
-    maži.
-    Buvo ir tokių, kurie sakė: „Nei aš1: sieksiu, nei aš gersiu.“ Svie­
-    tas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, lan­
-    gai jų išdaužyti, gyvenusieji jose žydai išsidangino.
+    Svietas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, langai jų išdaužyti, gyvenusieji jose žydai išsidangino.
   citata_rodoma: "Svietas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, langai jų išdaužyti, gyvenusieji jose žydai išsidangino."
   statusas: verified
   atnaujinta: "2026-07-12 05:44"

@@ -9,13 +9,13 @@ datos:
   - '1314 m.'
 date_start: '1313'
 date_end: '1314'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karinis-terminas
   - sąvoka
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -99,6 +99,42 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   pagrindžia:
     - c-179013
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    jeigu sugautas kaimietis nebūtų pranešęs, jog ne­
+    toliese tyko Vytenis su karių būriais, kryžiuočiai,
+    persikėlę per Nemuną, patys būtų pakliuvę į pasalas,
+    kurias spendė Gardinui. Bisenės užpuolimas buvo nar­
+    siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
+    rių dalies netekęs priešas buvo priverstas pasitraukti
+    nieko nepešęs. Kadangi stip-
+    1313 m e ta i
+    riausios lietuvių pilys buvo
+    prie Nemuno bei kitų upių,
+    Verneris, Ragainės komtūras, patarė kryžiuočiams jas
+    vieną po kitos pulti laivais, įtikinėdamas, kad į van­
+    dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
+    prastai menkiau sutvirtinti ir lengviau prieinami. To­
+    dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
+    ma panašus į tvirtovę — su
+    P a sista tę la iv ų , k iy -
+    dantytais bortais, už kurių
+    žiu o č ia i p u o la lietu -
+    krantą bei pylimą puolančius
+    v iu s
+    karius galima geriau apsau­
+    goti nuo iečių bei strėlių ir
+    geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
+    priešą, stovintį krante.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-176167
@@ -144,6 +180,12 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
+    Iš tos išdavystės išėjo visai kas kita, nei vy­
+    lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,
+    WQ
+
+    ## Puslapis 189
+
     jeigu sugautas kaimietis nebūtų pranešęs, jog ne­
     toliese tyko Vytenis su karių būriais, kryžiuočiai,
     persikėlę per Nemuną, patys būtų pakliuvę į pasalas,
@@ -157,18 +199,7 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
     Verneris, Ragainės komtūras, patarė kryžiuočiams jas
     vieną po kitos pulti laivais, įtikinėdamas, kad į van­
     dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
-    prastai menkiau sutvirtinti ir lengviau prieinami. To­
-    dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
-    ma panašus į tvirtovę — su
-    P a sista tę la iv ų , k iy -
-    dantytais bortais, už kurių
-    žiu o č ia i p u o la lietu -
-    krantą bei pylimą puolančius
-    v iu s
-    karius galima geriau apsau­
-    goti nuo iečių bei strėlių ir
-    geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
-    priešą, stovintį krante.
+    prastai menkiau sutvirtinti ir lengviau prieinami.
   citata_rodoma: "Iš tos išdavystės išėjo visai kas kita, nei vy­\nlėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,\nWQ\n\n## Puslapis 189\n\njeigu sugautas kaimietis nebūtų pranešęs, jog ne­\ntoliese tyko Vytenis su karių būriais, kryžiuočiai,\npersikėlę per Nemuną, patys būtų pakliuvę į pasalas,\nkurias spendė Gardinui. Bisenės užpuolimas buvo nar­\nsiai pilėnų atremtas; smarkiai sumuštas ir didelės ka­\nrių dalies netekęs priešas buvo priverstas pasitraukti\nnieko nepešęs. Kadangi stip-\n1313 m e ta i\nriausios lietuvių pilys buvo\nprie Nemuno bei kitų upių,\nVerneris, Ragainės komtūras, patarė kryžiuočiams jas\nvieną po kitos pulti laivais, įtikinėdamas, kad į van­\ndens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­\nprastai menkiau sutvirtinti ir lengviau prieinami."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"

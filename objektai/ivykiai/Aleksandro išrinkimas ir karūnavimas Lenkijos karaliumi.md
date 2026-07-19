@@ -7,6 +7,8 @@ datos:
   - '1501 m.'
 date_start: '1501'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,8 +16,6 @@ tags:
   - karūnacija
   - seimas
   - ivykis
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -101,12 +101,9 @@ Nenurodyta
   pagrindžia:
     - c-169981
 
-## Citatos
-
-- id: c-169981
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Mirė 1507 m.
     ° Aleksandras atvyko ( Lietuvos ir Lenkijos atstovų suvažia­
@@ -117,6 +114,27 @@ Nenurodyta
     M Andrius Droždža. Aleksandro favorito kunigaikščio Mykolo
     Glinskio giminaitis, sūnus Aleksandro Droždžos, Kazimiero laikais
     buvusio Lietuvos Kameneco (prie Brastosl valdytoju (1470—1479).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-001
+
+## Citatos
+
+- id: c-169981
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Turim a galvoje Lenkijos delegacija, kurių išsiuntė Lenkijos
+    seimas, 1501 X 3 Pelrakave sulyginai išrinkęs Ldk Aleksandrų Len-
+
+    ## Puslapis 321
+
+    kijos karaliumi vieton I501.VI.17 m irusio jo brolio Jono Olbrach-
+    to.
   citata_rodoma: "Turim a galvoje Lenkijos delegacija, kurių išsiuntė Lenkijos \nseimas, 1501 X 3 Pelrakave sulyginai išrinkęs Ldk Aleksandrų Len-\n\n## Puslapis 321\n\nkijos karaliumi vieton I501.VI.17 m irusio jo brolio Jono Olbrach- \nto."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

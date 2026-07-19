@@ -33,28 +33,42 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
 <a id="claim-t-190041"></a>
 - t-001
   teiginys: "Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriwe aiškino kaip žynį ar tautos teisėją."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Žyniai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pretorijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Žyniai: mention_match, group, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pretorijus\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172926
+    - c-172924
 
 <a id="claim-t-190043"></a>
 - t-002
   teiginys: "Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, tyrusių juos pagal paprastų žmonių sakytinius padavimus."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Meletijus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pretorijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Meletijus: mention_match, author, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pretorijus\" parinktas kaip owner_note_path. Targetas \"Meletijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172927
+    - c-172926
 
 <a id="claim-t-190044"></a>
 - t-003
@@ -198,26 +212,6 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-007
-  santrauka: 'Teodoro Narbuto perteikimu, Pretorijus Sasavos tvirtovę lokalizavo prie Šyšos upės, kuri kitados turėjusi vadintis Cyse arba Sussa.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ne Sarkės, o Šar­
-    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
-    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
-    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
-    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
-    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
-    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-
-    ## Puslapis 370
-
-    dos turėjo būti vadinama Cyse arba Sussa.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -226,49 +220,15 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mirus senajam vyriausiajam žyniui, vaidilos labai slaptai
-    išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
-    nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
-    iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo. Nors
-    Hartknochas abejoja tokią konklavą buvus, kadangi ankstes­
-    nieji istorikai apie ją neužsimena, tačiau užginčyti tai - neįma­
-    nomas dalykas, nes vietos padavimai ir dainos galėjo išsaugoti
-    ir perteikti vėlesniems amžiams tą detalę, kurią pamaldieji ra­
-    šytojai savo raštuose praleido nenorėdami lyginti su švento­
-    mis dabartinės Romos apeigomis.
-    Henenbergeris išsaugojo mums vyriausiųjų žynių sąrašą,
-    pradedamą Vaidevučiu, kuris VI amžiaus pradžioje, iki kry­
-    žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
-    tvarką (pas Hartknochą, p. 149):
-    1.
+    Vadinasi, šito pavadinimo etimolo­
+    gija dar neištirta.
+    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
+    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
+    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
+    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
+    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
+    rijos teisėjais arba žyniais.
   citata_rodoma: "Vadinasi, šito pavadinimo etimolo­\ngija dar neištirta.\nPretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-172926
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Beveik nežinome tautos, kuri, būdama tamsi arba nepa­
-    žindama tikrojo tikėjimo, neturėtų savų pranašavimo būdų;
-    įvairios tautos jų prisigalvodavo įvairių. Alanai, senieji kai ku­
-    rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­
-    liai, burdavo, kaip sako istorija, iš karklo šakų, tam tikru būdu
-    sumaišytų; vėliau, traukdami vieną po kitos tam tikru nustaty­
-    tu laiku bei ištardami kažkokius žodžius ir kitaip burtininkų
-    mada vaipydamiesi, skaitydavo lemties knygą .
-    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
-    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
-    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
-    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
-    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
-    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
-    kaip tai pamatysime toliau.
-  citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -276,6 +236,27 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-172926
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Daugeliu požiūrių
+    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
+    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
+    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
+    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka.
+  citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-172927
   autorius: "Teodoras Narbutas"
@@ -297,7 +278,6 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-003
 
 - id: c-173843
@@ -375,16 +355,17 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Antra šalaviečių pilis,
-    stovėjusi Lietuvos pasienyje, buvo vadinama Sarkais; čia
-    gyveno galingas ir narsus karžygis Šarkis, galbūt tai
-    šiandienė Sarkė, esanti netoli Selenų. Ne Sarkės, o Šar­
+    Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
     dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
     kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
     siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
     kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
     Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
+
+    ## Puslapis 370
+
+    dos turėjo būti vadinama Cyse arba Sussa.
   citata_rodoma: "Ne Sarkės, o Šar­\nkučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­\ndos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-\nkutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­\nsiausia šios provincijos tvirtovė buvo Sasava, stovėjusi\nkažkokios upės pakrantėje, bet tai tiksliai nenustatyta.\nPretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­\n\n## Puslapis 370\n\ndos turėjo būti vadinama Cyse arba Sussa."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -399,16 +380,18 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
-    dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
-    žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
-    mi, katinu ir gyvate ir nuskandinti Nemune. Pasirodė tas bajoras rai­
-    tas, šarvuotas, išvadavo mergelę ir liepė sutuokti su ja ant paties upės
-    kranto; tada abu apsikabinę šoko į vandenį ir dingo iš akių. Toje vie­
-    toje vanduo ėmęs virti ir suktis verpetu, ir dabar taip daro, tarytum
-    nelaimingosios poros vestuvių ženklam Kai kada naktį, šviečiant mė­
-    nuliui, ji išlipanti į krantą, dainuojanti dainą apie savo nuotykį ir mai­
-    tinanti kūdikį.
+    Latviuose tai buvo žynys ir pranašautojas. Paimdavo į
+    saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31
+    Vėjininkai (Wejones)
+    31
+    Šias penkias pranašautojų rūšis pateikia Pretorijus, remdama­
+    sis savais pastebėjimais, ką buvo matęs savo akimis.
+    299
+
+    ## Puslapis 299
+
+    teliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­
+    lykus, ypač apie pamestus daiktus.
   citata_rodoma: "Latviuose tai buvo žynys ir pranašautojas. Paimdavo į\nsaują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31\nVėjininkai (Wejones)\n31\nŠias penkias pranašautojų rūšis pateikia Pretorijus, remdama­\nsis savais pastebėjimais, ką buvo matęs savo akimis.\n299\n\n## Puslapis 299\n\nteliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­\nlykus, ypač apie pamestus daiktus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

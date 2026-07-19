@@ -9,6 +9,11 @@ datos:
   - '1507 m.'
 date_start: '1491'
 date_end: '1507'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,11 +21,6 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
-amziai:
-  - 'XV'
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -150,6 +150,35 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54958|Elena (vyskupas, XV–XVI a.)]]: Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82290|Elena (vyskupas, XV–XVI a.)]]: Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.
 - susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87197|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vaistais mažino
+    karštį, bet žaizdotuose viduriuose jie sukėlė dizenteriją,
+    o vėliau, ją begydant, nepaprastai sustiprėjo vandenli­
+    gė, ir galop bet koks gydymas nieko negalėjo padėti.
+    Kai gydytojas Jokūbas Zaleskis, palieptas atvirai išklo­
+    ti, ar karalius atlaikys ligą, nieko gero negalėjo paža­
+    dėti, karalius pasakė: „Vadinasi, reikia mirti" ir visą
+    savo dėmesį nukreipė į paskutiniuosius mirtingųjų rū­
+    pesčius. Sudaręs testamentą, visus pinigus, po ranka
+    turimus, padalijęs tarp čia pat esančių sūnų, kreipėsi į
+    lenkų didikus, prašydamas, kad, jam mirus, paskirtų
+    sosto įpėdiniu Joną, o po to, beveik ašarodamas, tarė
+    trumpą kalbą lietuviams, reikalaudamas, kad Aleksand­
+    rą paskelbtų Lietuvos valdovu. Paskui paragino Joną ir
+    Aleksandrą pasirūpinti broliu Žygimantu. Galop, kaip
+    dera krikščioniui aprūpintas visais sakramentais, mirė
+    birželio 7 d., išgyvenęs šešiasdešimt ketverius metus, o
+    Lietuvą valdęs penkiasdešimt dvejus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-83390
@@ -246,24 +275,28 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vaistais mažino
-    karštį, bet žaizdotuose viduriuose jie sukėlė dizenteriją,
-    o vėliau, ją begydant, nepaprastai sustiprėjo vandenli­
-    gė, ir galop bet koks gydymas nieko negalėjo padėti.
-    Kai gydytojas Jokūbas Zaleskis, palieptas atvirai išklo­
-    ti, ar karalius atlaikys ligą, nieko gero negalėjo paža­
-    dėti, karalius pasakė: „Vadinasi, reikia mirti" ir visą
-    savo dėmesį nukreipė į paskutiniuosius mirtingųjų rū­
-    pesčius. Sudaręs testamentą, visus pinigus, po ranka
-    turimus, padalijęs tarp čia pat esančių sūnų, kreipėsi į
-    lenkų didikus, prašydamas, kad, jam mirus, paskirtų
-    sosto įpėdiniu Joną, o po to, beveik ašarodamas, tarė
-    trumpą kalbą lietuviams, reikalaudamas, kad Aleksand­
-    rą paskelbtų Lietuvos valdovu. Paskui paragino Joną ir
-    Aleksandrą pasirūpinti broliu Žygimantu. Galop, kaip
-    dera krikščioniui aprūpintas visais sakramentais, mirė
-    birželio 7 d., išgyvenęs šešiasdešimt ketverius metus, o
-    Lietuvą valdęs penkiasdešimt dvejus.
+    Keliais mėnesiais
+    anksčiau už karalių mirė Vilniaus vyskupas Andrius,
+    kilęs iš Vilniaus, garsėjęs šventųjų mokslų pažinimu
+    bei proto aštrumu. Jo įpėdiniu tapo šviesiausios kilmės
+    Vaitiekus Taboras.
+
+    ## Puslapis 540
+
+    S e S t a
+    k n y g a
+    APIE LIETUVIŲ PRAEITI, KAI VALDE
+    Šv ie s ia u s ia s is  k u n ig a ik š t is a lek sand ras
+    1492 metai
+    Aleksandras išrenka-
+    Kai Lietuvoje pasklido ži­
+    nia apie karaliaus Kazimiero
+    m a s L ie tu v o s did žiu o -
+    mirtį, gausybė didikų skubiai
+    kaip Simonas Olelkaitis, Slucko kunigaikštis, Alšėnų,
+    Mstislavlio bei Giedraičių kunigaikštiškųjų šeimų gal­
+    vos, Žemaitijos seniūnas Kęsgailą, kunigaikščiai Vosy-
+    lus ir Mykolas Glinskiai.
   citata_rodoma: "Keliais mėnesiais\nanksčiau už karalių mirė Vilniaus vyskupas Andrius,\nkilęs iš Vilniaus, garsėjęs šventųjų mokslų pažinimu\nbei proto aštrumu. Jo įpėdiniu tapo šviesiausios kilmės\nVaitiekus Taboras.\n\n## Puslapis 540\n\nS e S t a\nk n y g a\nAPIE LIETUVIŲ PRAEITI, KAI VALDE\nŠv ie s ia u s ia s is  k u n ig a ik š t is a lek sand ras\n1492 metai\nAleksandras išrenka-\nKai Lietuvoje pasklido ži­\nnia apie karaliaus Kazimiero\nm a s L ie tu v o s did žiu o -\nmirtį, gausybė didikų skubiai\nkaip Simonas Olelkaitis, Slucko kunigaikštis, Alšėnų,\nMstislavlio bei Giedraičių kunigaikštiškųjų šeimų gal­\nvos, Žemaitijos seniūnas Kęsgailą, kunigaikščiai Vosy-\nlus ir Mykolas Glinskiai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

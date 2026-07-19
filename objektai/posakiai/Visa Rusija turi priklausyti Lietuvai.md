@@ -72,12 +72,10 @@ media_all_json: |-
   pagrindžia:
     - c-05504
 
-## Citatos
-
-- id: c-05503
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Padėtis tačiau
     pamažu keitėsi Lietuvos nenaudai, kai Maskvos kunigaikščiai ėmė
@@ -87,6 +85,22 @@ media_all_json: |-
     nurodęs aiškų kelią surinkti savo valdžion visą susiskaldžiusią
     Rusią. Bet to paties siekė ir Algirdas, kuris nedvejodamas pas­
     kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu­
+    viams »^14.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-05503
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Bet to paties siekė ir Algirdas, kuris nedvejodamas pas-
+    kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu-
     viams »^14.
   citata_rodoma: "Bet to paties siekė ir Algirdas, kuris nedvejodamas pas-\nkelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu-\nviams »^14."
   statusas: verified

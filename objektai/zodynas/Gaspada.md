@@ -38,15 +38,6 @@ Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
 
-<a id="claim-t-70002"></a>
-- t-003
-  teiginys: "`Gaspada` šiame tekste yra keleiviams skirta pastogė."
-  atnaujinta: "2026-05-31 10:29"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09678
-
 <a id="claim-t-70003"></a>
 - t-004
   teiginys: "Gaspada buvo po kairės angos pusės ir skirta keleiviams, atėjusiems dievų maldyti."
@@ -70,5 +61,4 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-004

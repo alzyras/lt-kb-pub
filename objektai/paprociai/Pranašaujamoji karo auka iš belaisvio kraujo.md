@@ -59,10 +59,12 @@ Nenurodyta
   pagrindžia:
     - c-172738
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas pranašaujamąją karo auką aprašė kaip apeigą, kai žynys smogdavo belaisviui į krūtinę ir iš kraujo spręsdavo apie karo sėkmę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172738
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Atlikę maldas ir būrimus, belaisvį pastatydavo žmo­
     nių akivaizdoje; žynys, vyriausiasis iš susirinkusiųjų, smogda­
@@ -71,32 +73,6 @@ Nenurodyta
     tuomet nebuvo ko tikėtis sėkmės kare; puolamąjį karą sustab­
     dydavo, kol dievai parodys geresnį ženklą. Po to belaisvį sude­
     gindavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172738
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­
-    nikininkai specialistai to neaprašo, tik priduria, kad senais lai­
-    kais, kai svarbiausioji šventykla - prūsų Romovė - dar nebuvo
-    galutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų
-    vyriausiems dievams nederėjo. Vėliau žyniai, ištaškyti po Lie­
-    tuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba
-    visur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo
-    laikas*.
-    Išpažintis
-    Prie apeigų, atliekamų per atnašavimą, dar priklauso iš­
-    pažintis. Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
-    žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
-    ninkų pranešimais ir savo paties duomenimis.
   citata_rodoma: "Atlikę maldas ir būrimus, belaisvį pastatydavo žmo­\nnių akivaizdoje; žynys, vyriausiasis iš susirinkusiųjų, smogda­\nvo jam peiliu į krūtinę. Jeigu kraujas plūsdavo srove, tai būda­\nvo geras ir sėkmingas ženklas, priešingai, jeigu vos lašėdavo,\ntuomet nebuvo ko tikėtis sėkmės kare; puolamąjį karą sustab­\ndydavo, kol dievai parodys geresnį ženklą. Po to belaisvį sude­\ngindavo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

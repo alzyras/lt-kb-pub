@@ -46,13 +46,10 @@ Basanavičius posakį „Dievas buvo augštai, teisybė — toli“ siejo su ūk
   pagrindžia:
     - c-184224
 
-## Citatos
-
-- id: c-184224
-  autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
-  šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
-  puslapiai: "PDF 37"
-  indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 37."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dr. J. Basanavičius posakį „Dievas buvo augštai, teisybē — toli“ siejo su ūkininkų išvarymais ir laukų pasisavinimu valdžiai esant „visgalingo pono“ rankose.'
+  šaltinis: Lenkai Lietuvoje Dr. J. Basanavičius
   citata_originali: |
     Mes galētum ēm pam inēt ilgą eilę
     dvarų, kurie atsirado per išvaikymus ukininkų ir
@@ -63,6 +60,29 @@ Basanavičius posakį „Dievas buvo augštai, teisybė — toli“ siejo su ūk
     kai išsisklaidē po svietą.
     Panašus atsitikim ai bu­
     vo Gartyno ir Vilniaus gubernijose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-184224
+  autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
+  šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
+  puslapiai: "PDF 37"
+  indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 37."
+  citata_originali: |
+    Suval­
+    kų gubernijoj.
+    Mes galētum ēm pam inēt ilgą eilę
+    dvarų, kurie atsirado per išvaikymus ukininkų ir
+    pasisavinimą laukų per kokį nors lenkišką valdi­
+    ninką, vaitą ir tt. Ranka ranką mazgojo, kuomet
+    valdżia ant ukininkų buvo rankose visgalingo po­
+    no: Dievas buvo augštai, teisybē — toli, ir ukinin­
+    kai išsisklaidē po svietą.
   citata_rodoma: "Suval­\nkų gubernijoj. \nMes galētum ēm pam inēt ilgą eilę \ndvarų, kurie atsirado per išvaikymus ukininkų ir \npasisavinimą laukų per kokį nors lenkišką valdi­\nninką, vaitą ir tt. Ranka ranką mazgojo, kuomet \nvaldżia ant ukininkų buvo rankose visgalingo po­\nno: Dievas buvo augštai, teisybē — toli, ir ukinin­\nkai išsisklaidē po svietą."
   statusas: verified
   atnaujinta: "2026-07-15 12:10"

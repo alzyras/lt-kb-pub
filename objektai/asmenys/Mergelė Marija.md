@@ -75,18 +75,12 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 <a id="claim-t-59890"></a>
 - t-005
   teiginys: "Dusburgiečio aprašytame regėjime Mergelė Marija, šventosios mergelės ir angelai kilo į dangų su žuvusių brolių sielomis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mergelė Marija: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mergelė Marija\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60521
+    - c-60525
+    - c-167498
 
 <a id="claim-t-59891"></a>
 - t-002
@@ -107,10 +101,18 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 <a id="claim-t-59892"></a>
 - t-006
   teiginys: "Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:22"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mergelė Marija: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Marija: mention_match, person, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mergelė Marija\" parinktas kaip owner_note_path. Targetas \"Marija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-60522
     - c-60525
 
 <a id="claim-t-59893"></a>
@@ -231,22 +233,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-007
-  santrauka: 'Dusburgiečio pasakojime Mergelė Marija atėjo su Teutonų ordino broliais ir atsakė broliui, prašiusiam likti jų bendrijoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
-    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
-    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė
-    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
-    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
-    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
-    taip kentėti, kaip trokšti“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -295,7 +281,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-009
 
 - id: c-60522
@@ -303,27 +288,21 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
-    Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos
-    žemėje, ir panoro, atėjus tinkamam laikui, pasigailėti savo žmonių, atvyko į Prūsiją
-    su daugybe karių Meiseno markos valdovas Ditrichas406, šviesiojo kunigaikščio valdovo
-    Henriko sūnus, kurį esame minėję, kalbėdami apie karą su pamedėnais; kai, pasitelkęs
-    magistrą ir brolius, ketino užgriūti priešus, prie įeigos į Notangos žemę rado pilaitę407,
-    ginamą daugybės ginklanešių, kliudžiusių šiam kunigaikščiui žygiuoti į priekį. Vis dėlto
-    broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
-    sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę. Kai šitai buvo padaryta,
-    minėtasis kunigaikštis, eidamas garbingomis savo tėvo pėdomis, nelyginant bebaimis
-    liūtas, kurio nebaugina jokios kovos, patraukė su savo kariuomene į priekį, nužygiuodamas
-    Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris dienas ir naktis, kiekvieną
-    dieną valydamas Notangą gaisrais bei plėšimais Jis  taip nusiaubė šią [žemę], kad kitais
-    metais ji vėl pasidavė tikėjimui bei broliams.
+    Tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį
+    taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą
+    jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.
+
+
+    krante žemiau Nogato atsišakojimo.
   citata_rodoma: "Tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį\ntaip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą\njį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.\n\n\nkrante žemiau Nogato atsišakojimo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-60523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -396,6 +375,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-002
     - t-006
 
@@ -404,15 +384,13 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šventoji mergelė jam atsakė: „Neverta,
+    Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
+    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
+    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė
+    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
+    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
     nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
-    taip kentėti, kaip trokšti“. Pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir
-    randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar
-    neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“. Jai
-    tarus šiuos žodžius, regėjimas dingo. Tas brolis pakirdęs atsikvošėjo, nuėjo į kapitulą,
-    kur buvo susirinkę broliai, ir dabar, daugiau supratęs bei patyręs, nuolankiai atšaukė
-    savo klaidingą nuomonę ir atsisakė savo sumanymo, kurį anksčiau lengvapėdiškai buvo
-    priėmęs, ir visiems papasakojo matytą regėjimą.
+    taip kentėti, kaip trokšti“.
   citata_rodoma: "Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir\nAugustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo\npriimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė\nMarija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam\nvis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,\nnes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei\ntaip kentėti, kaip trokšti“."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -420,6 +398,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-007
 
 - id: c-179036

@@ -89,10 +89,12 @@ Nenurodyta
   pagrindžia:
     - c-172764
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Dusburgiečiu, vaizduoja vyriausiojo žynio pasiuntinius su krivūle ar ženklu saugiai keliaujančius per lietuvių genties tautų kraštus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172763
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
     viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
@@ -103,38 +105,6 @@ Nenurodyta
     Dusburgietis iš tikrųjų prilygina popiežiui šį vyriausiąjį žy­
     nį, kuris valdė lietuvių genties tautas panašiai kaip aukščiau­
     siasis krikščionių valdovas; tai mes ir pažymėjome.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172763
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šiaip žinoma,
-    kad pirmasis budizmo patriarchas gimė Ceilone6; sukūręs reli­
-    giją palyginti su visomis kitomis tų kraštų religijomis supranta­
-    mesnę liaudžiai ir tinkamesnę jos gerovei, jis persikėlė į apsi­
-    švietusią šalį, tai yra į Indiją, kur braminai skleidė vietinį, arba
-    vien tik savo kraštui būdingą, tikėjimą, kadangi, pasak jų, žmo­
-    gus, miręs nepašlakstytas šventųjų upių vandeniu, negalįs būti
-    išganytas; Budhos sektos šalininkai su šituo nesutinka, kitaip
-    sakant, leidžia laikyti vandenį šventu kiekvienoje šalyje. Dėl ši­
-    to turėjo kilti religiniai vaidai, ir pagaliau po keleto amžių, tai
-    yra praėjus pusšešto amžiaus po Kristaus, Šakjamunis dvide­
-    šimt aštuntasis įpėdinis, pavadintas Bodhidana, persikėlė į Ti­
-    betą ir apsigyveno prie šventojo Sungo kalno, netoli Honaros
-    miesto; ten ir mirė krikščionių eros 495 metais. Ten gyvenda­
-    mas, vyriausiasis kunigas daug ką pakeitė ir papildė apeigas,
-    hierarchiją bei kitas išorines apraiškas naujovėmis taip, kad da­
-    bartinis lamaizmas, atrodo, nemažai panašus į senovės budiz­
-    mą, kurio principų dalį savyje išsaugojo senasis lietuvių tikė­
-    jimas.
   citata_rodoma: "Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­\nviai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­\ntoritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir\njo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­\ngiai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­\ndavo karalių, ponų ir prastuomenės didžios pagarbos.\nDusburgietis iš tikrųjų prilygina popiežiui šį vyriausiąjį žy­\nnį, kuris valdė lietuvių genties tautas panašiai kaip aukščiau­\nsiasis krikščionių valdovas; tai mes ir pažymėjome."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

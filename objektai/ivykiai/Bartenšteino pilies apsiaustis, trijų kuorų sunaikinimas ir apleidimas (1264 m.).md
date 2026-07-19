@@ -8,8 +8,6 @@ datos:
   - '1300 m.'
 date_start: '1264'
 date_end: '1300'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,6 +15,8 @@ tags:
   - ordinas
   - pilis
   - mūšis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -127,27 +127,6 @@ Nenurodyta
   pagrindžia:
     - c-66695
 
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Bartenšteino pilį palikę broliai pasitraukė į Karaliaučių ir Elbingą, o priešai vėliau įsibrovė į pilį ir ją panaudojo puldinėjimams.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
-    pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
-    relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
-      392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,
-    123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).
-
-    Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.
-    Galop, kai nebebuvo galima ilgiau reikalo slėpti, priešai vienas po kito pradėjo artėti ir,
-    išvydę, kad niekas jiems nesipriešina, įsibrovė į pilį; nužudę brolį, pilį jie panaudojo savo
-    reikalams, iš jos dažnai puldinėdami brolius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-66693
@@ -231,21 +210,16 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
-    Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
-    į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę
-    kitokio turto, kurį išsigabeno su savimi, sudegino visus pastatus, esančius už įtvirtinimų
-    [sienų], o visą šią žemę užliejo raudonu krikščionių krauju. Kai apie tai išgirdo magistras
-    brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos
-    žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė. Prūsai, apsitvėrę
-    užtvaromis, iš pradžių narsiai priešinosi, tačiau galop leidosi bėgti, o krikščionys, juos
-    besivydami, išsisklaidė, tada prūsai, nors jų daug bėgančių ir žuvo, susitelkė, matydami
-    nedaug vyrų apie vėliavą, sugrįžo į užtvaras ir pradėjo iš naujo kovą, kuri ilgai užtruko,
-    kol galop, šitaip leidžiant viešpačiui, kurio sprendimai protu nesuvokiami, nukovė
-    magistrą394 ir maršalą395 brolį Ditrichą, ir keturiasdešimt brolių ir išžudė visą krikščionių
-    kariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei
-    tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
-    rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
+    Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
+    pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
+    relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
+      392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,
+    123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).
+
+    Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.
+    Galop, kai nebebuvo galima ilgiau reikalo slėpti, priešai vienas po kito pradėjo artėti ir,
+    išvydę, kad niekas jiems nesipriešina, įsibrovė į pilį; nužudę brolį, pilį jie panaudojo savo
+    reikalams, iš jos dažnai puldinėdami brolius.
   citata_rodoma: "Šitai išgirdę, broliai ir jų šeimyna, kitą dieną\npasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų\nrelikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.\n  392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,\n123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).\n\nVis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.\nGalop, kai nebebuvo galima ilgiau reikalo slėpti, priešai vienas po kito pradėjo artėti ir,\nišvydę, kad niekas jiems nesipriešina, įsibrovė į pilį; nužudę brolį, pilį jie panaudojo savo\nreikalams, iš jos dažnai puldinėdami brolius."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -94,4 +94,4 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
     - t-004
 
 ## Ryšiai
-- Fridrichas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]
+- Fridrichas (Marienburgo brolis) gyveno Marienburgas

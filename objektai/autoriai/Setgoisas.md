@@ -26,55 +26,6 @@ media_all_json: |-
 
 Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos apie slavų kilmę iš budinų įrodymų.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos apie slavų kilmę iš budinų įrodymų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Dar daugiau, anot jų, romėnai taip gerai pažinoję venedus
-    kaip ir budinus, tad tokiu istorinių pritaikymų būdu stengiasi patvir­
-    tinti, kad slavai kilę iš budinu.
-    2 Ponas Setgoisas (Schettgeus) mėgino paskelbti įtikinamų šios
-    prielaidos įrodymų. Maskvos miesto pavadinimas kilęs iš to paties
-    pavadinimo upės, kurios vardo ištakos yra slavų kalbos žodyje Mozg,
-    turinčiame įvairią prasmę; ji galėjo vadintis Mozgowaja, Mozgowa
-    ir pagaliau Mosima, Maskva.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174539
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Vis dėlto Herodotas turėjo daugiau žinių apie
-    romėnus*, nes teigia, kad dienovidžio kryptimi į šiaurę
-    nuo gelonų ir budinu krašto plyti septynių dienų kelio
-    dykra, o už jos gyvena tisagetai. Naujausių ir tiksliau­
-    sių šios graikų istoriko geografijos paaiškinimų pateikė
-    generolas Baturlinas, aprašydamas Darijaus žygį prieš
-    Skitiją2. Pasak jo, gelonų gyventa dabartinėje Staro-
-    belsko apskrityje, o budinai gyveno visai greta, rytų link
-    buvo užėmę šiandienių Voluikos ir Bogončavo miestų
-    apylinkes, vadinasi, šių abiejų genčių gyvenamas kraš­
-    tas plytėjo Dono ir Doneco tarpupyje, jo plotas iš pietų
-    į šiaurę galėjo būti nuo 48 iki 51 laipsnio platumos, o
-    tisagetai buvo įsikūrę šiandienėse Oriolo, Tūlos, Riaza-
-    nės, Tambovo ir Penzos gubernijose.
-  citata_rodoma: "Dar daugiau, anot jų, romėnai taip gerai pažinoję venedus\nkaip ir budinus, tad tokiu istorinių pritaikymų būdu stengiasi patvir­\ntinti, kad slavai kilę iš budinu.\n2 Ponas Setgoisas (Schettgeus) mėgino paskelbti įtikinamų šios\nprielaidos įrodymų. Maskvos miesto pavadinimas kilęs iš to paties\npavadinimo upės, kurios vardo ištakos yra slavų kalbos žodyje Mozg,\nturinčiame įvairią prasmę; ji galėjo vadintis Mozgowaja, Mozgowa\nir pagaliau Mosima, Maskva."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-191657"></a>
@@ -96,3 +47,27 @@ Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos api
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174539
+
+## Citatos
+
+- id: c-174539
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Dar daugiau, anot jų, romėnai taip gerai pažinoję venedus
+    kaip ir budinus, tad tokiu istorinių pritaikymų būdu stengiasi patvir­
+    tinti, kad slavai kilę iš budinu.
+    2 Ponas Setgoisas (Schettgeus) mėgino paskelbti įtikinamų šios
+    prielaidos įrodymų. Maskvos miesto pavadinimas kilęs iš to paties
+    pavadinimo upės, kurios vardo ištakos yra slavų kalbos žodyje Mozg,
+    turinčiame įvairią prasmę; ji galėjo vadintis Mozgowaja, Mozgowa
+    ir pagaliau Mosima, Maskva.
+  citata_rodoma: "Dar daugiau, anot jų, romėnai taip gerai pažinoję venedus\nkaip ir budinus, tad tokiu istorinių pritaikymų būdu stengiasi patvir­\ntinti, kad slavai kilę iš budinu.\n2 Ponas Setgoisas (Schettgeus) mėgino paskelbti įtikinamų šios\nprielaidos įrodymų. Maskvos miesto pavadinimas kilęs iš to paties\npavadinimo upės, kurios vardo ištakos yra slavų kalbos žodyje Mozg,\nturinčiame įvairią prasmę; ji galėjo vadintis Mozgowaja, Mozgowa\nir pagaliau Mosima, Maskva."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

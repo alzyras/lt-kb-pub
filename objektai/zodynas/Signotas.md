@@ -27,42 +27,6 @@ media_all_json: |-
 
 Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvejų žuvų aukomis.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvejų žuvų aukomis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­
-    vo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,
-    straipsnyje „Žyniai“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172249
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    išvaizda, negu savo pareigų rimtumu. Todėl jis labai gąsdinda­
-    vo menko proto žmones, moteris ir vaikus, nors gana baisus
-    buvo kiekvienam, valdomam stiprių įspūdžių, paveldėtų iš vai­
-    kystės, ir dėl baisių savo keršto padarinių. Poklius viešai pasi­
-    rodydavo namuose; tai būdavo tikra dievų rūstybės, būsimų
-    namų bei gyventojų vargų ir nelaimių pranašystė.
-  citata_rodoma: "Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­\nvo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,\nstraipsnyje „Žyniai“."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189362"></a>
@@ -84,3 +48,22 @@ Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvej�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172249
+
+## Citatos
+
+- id: c-172249
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­
+    vo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,
+    straipsnyje „Žyniai“.
+  citata_rodoma: "Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­\nvo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,\nstraipsnyje „Žyniai“."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

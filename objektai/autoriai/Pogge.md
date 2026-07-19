@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Pogge
 
 ## Santrauka
@@ -28,19 +29,6 @@ media_all_json: |-
 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas (tas pats ir straipsnis „Kobham“); Pogge. Pogge buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
 
 ## Teiginiai
-
-<a id="claim-t-194848"></a>
-- t-001
-  teiginys: "La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas (tas pats ir straipsnis „Kobham“); Pogge."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177244
 
 <a id="claim-t-197335"></a>
 - t-002
@@ -72,5 +60,4 @@ La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

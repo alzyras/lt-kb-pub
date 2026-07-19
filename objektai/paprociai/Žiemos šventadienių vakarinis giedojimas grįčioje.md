@@ -118,11 +118,7 @@ Nenurodyta
   puslapiai: "p. 152 (PDF 150)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 152 (PDF 150)."
   citata_originali: |
-    Taigi į vakarinį
-    giedojimą eina net tas, kuris tingėjo rytą keltis. Čia jį pastebi ir pri­
-    kaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai,
-    pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už ne­
-    atėjimą rytą ražončiaus giedoti.
+    Čia jį pastebi ir prikaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai, pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už neatėjimą rytą ražončiaus giedoti.
   citata_rodoma: "Čia jį pastebi ir prikaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai, pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už neatėjimą rytą ražončiaus giedoti."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

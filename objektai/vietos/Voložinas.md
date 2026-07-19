@@ -67,16 +67,16 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
     Ir jų dar nebuvo
     suvažiavusių, nes kai kurie buvo tolimuose Didžiosios
     Kunigaikštystės miestuose, srityse: 2emaičių seniūnas
-    Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske,
+    Kęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske,
     nes jis tuo metu buvo Smolensko vietininku. Didysis
     kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
     atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
-    lenską jo vieton nusiuntė Andrių Sakavičių *. Kelyje
+    lenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje
     pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­
     sisvečiuoti pas Voložino kunigaikščius, ir Voložine at­
     ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį,
-    ir Goštautas išskubėjo j Alšėnus6 pas kunigaikštį Jurgį
-    Simonaitį Alšėniškį7.
+    ir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį
+    Simonaitį Alšėniškį7 .
   citata_rodoma: "Ir jų dar nebuvo \nsuvažiavusių, nes kai kurie buvo tolimuose Didžiosios \nKunigaikštystės miestuose, srityse: 2emaičių seniūnas \nKęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske, \nnes jis tuo metu buvo Smolensko vietininku. Didysis \nkunigaikštis Žygimantas rašė ir jam, kad skirtu laiku \natvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­\nlenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje \npas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­\nsisvečiuoti pas Voložino kunigaikščius, ir Voložine at­\nėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį, \nir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį \nSimonaitį Alšėniškį7 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:05"

@@ -61,10 +61,12 @@ Nenurodyta
   pagrindžia:
     - c-172516
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Vaidevutį ir Prutenį vaizduoja kaip geresnės civilinės bei religinės tvarkos įvedėjus, vyriausiuosius žynius ir tautos vadus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172516
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­
     tuvių tautos istorija ir mitologija, teiginius, kuriais abejojama
@@ -74,28 +76,6 @@ Nenurodyta
     devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,
     buvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­
     gaikščiai .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172516
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Palaikydavo taiką arba
-    užkurdavo karo gaisrą, nes buvo artimas dievų puotų dalyvis.
-    Iki kryžiuočių užpuolimo vyriausiojo žynio buveinė buvo Ro-
-    movė Natangijoje, Prūsos ir Bysleidos upių santakoje. Sako,
-    kad kadaise jis gyvenęs ir Šventamiestyje, kitaip Šventajame
-    Karvelyje; tam tikrais kritiškais momentais, kai Didžiajai Ro-
-    rnovei kildavo grėsmė, kad gali būti priešo užimta, arba kai ji
-    būdavo naikinama, kaip per karus su lenkais, tuomet jis gy­
-    vendavo vietovėse, kurios turi panašius pavadinimus.
   citata_rodoma: "Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­\ntuvių tautos istorija ir mitologija, teiginius, kuriais abejojama\nvyriausiojo žynio buvimu, palaikys nesąmone.\nŠios garbingos elementariųjų religijos dalykų pareigos su­\ntapo su aukščiausiosios civilinės valdžios turėjimu. Taigi Vai­\ndevutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,\nbuvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­\ngaikščiai ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

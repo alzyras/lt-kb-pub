@@ -151,22 +151,19 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   santrauka: 'Narbuto vertinimu, Dlugošas iš senesniųjų istorikų aiškiai pripažino, kad lietuvių genties tautos tikėjo fetišais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    201
-
-    ## Puslapis 201
-
-    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
-    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
-    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
-    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
-    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
-    minė, jokie namai, net daug pavienių asmenų negyveno be
-    savo asmeninių fetišų.
+    Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
+    paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-
+    ninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­
+    ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
+    bintojų keletą avilių bičių. Vėliau, po ilgos jų bičiulystės, at­
+    vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
+    damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
+    dievą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -234,14 +231,17 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
-    paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-
-    ninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­
-    ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
-    bintojų keletą avilių bičių. Vėliau, po ilgos jų bičiulystės, at­
-    vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
-    damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
-    dievą.
+    201
+
+    ## Puslapis 201
+
+    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
+    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
+    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
+    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
+    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
+    minė, jokie namai, net daug pavienių asmenų negyveno be
+    savo asmeninių fetišų.
   citata_rodoma: "201\n\n## Puslapis 201\n\nmitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi\ngal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas\nDlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo\nfetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką\nišaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­\nminė, jokie namai, net daug pavienių asmenų negyveno be\nsavo asmeninių fetišų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

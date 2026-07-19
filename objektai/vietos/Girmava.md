@@ -89,19 +89,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - susijęs iš Lochštetė: Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.
 - susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
 - susijęs iš Lochštetė: Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    316 D.— Girmow, Jer.— Girmowe; vėliau Germau (dab. Ruskojė) — Girmava,  į
-    pietryčius nuo Palmininkų (dab. Jantarnas), sembų valsčiaus centras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-86288
@@ -132,12 +119,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu
-    pasislėpęs meldėsi viename koplyčios kampelyje.
-    70 (69). Apie karo su sembais rezultatų atspėjimą
-    Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau
-    jį ištirti, nusiuntė į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,
-    maloniai jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.
+    316 D.— Girmow, Jer.— Girmowe; vėliau Germau (dab. Ruskojė) — Girmava,  į
+    pietryčius nuo Palmininkų (dab. Jantarnas), sembų valsčiaus centras.
   citata_rodoma: "316 D.— Girmow, Jer.— Girmowe; vėliau Germau (dab. Ruskojė) — Girmava,  į\npietryčius nuo Palmininkų (dab. Jantarnas), sembų valsčiaus centras."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

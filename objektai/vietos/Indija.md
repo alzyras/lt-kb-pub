@@ -86,10 +86,12 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
 - susijęs iš Silezija: Narbutas minėjo Sileziją tarp vietų, kur randama pavienių gintaro gabalų.
 - susijęs iš Čekija: Narbutas nurodė, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose.
 - susijęs iš [[objektai/zodynas/gintaras.md#claim-t-192920|gintaras]]: Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų, daugelio mokslų bei religinių vaizdinių kilmės vieta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-171825
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tiesą sako „Antilukrecijaus“ auto­
     rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir
@@ -101,30 +103,6 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
     Senovės istorija aiškina, kaip tatai perėjo iš indų pas chaldė-
     jus, iš chaldėjų pas egiptiečius, iš šių pas graikus, paskui pas
     romėnus ir kitus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171825
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Gražmenų tam nemirtingajam dievų
-    būriui pridėjo poetai, be kurių jis greitai būtų netekęs reikš­
-    mės.
-    Savo ruožtu romėnai - kuo jie darėsi galingesni ir labiau
-    apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą. Žy­
-    niai, kurių priviso nesuskaitoma daugybė, net nebežinojo, iš
-    kur dar pasiskolinti naujų dievų. Ne tiktai miestai, šeimos, pa­
-    vieniai žmonės, bet ir aistros bei gėdingi nusidėjimai turėjo
-    atskirus, tikybos valdininkų įgaliotus dievus. Štai kokia yra tikra
-    ir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas
-    kyla iš pačių religijos sargų arba kunigų.
   citata_rodoma: "Tiesą sako „Antilukrecijaus“ auto­\nrius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir\nžmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­\nnamomis su smilkytuvu rankose“1.\nIndiją, gražiausią senojo pasaulio šalį, tikriausiai iš pat pra­\ndžių buvo apgyvenę civilizuoti žmonės, nes iš ten kilo ir dau­\ngybė kastų, ir daugelis mokslų, o su jais religiniai vaizdiniai.\nSenovės istorija aiškina, kaip tatai perėjo iš indų pas chaldė-\njus, iš chaldėjų pas egiptiečius, iš šių pas graikus, paskui pas\nromėnus ir kitus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

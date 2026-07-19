@@ -55,18 +55,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195345"></a>
-- t-001
-  teiginys: "Sudėtinis vestuvinių kraičvežių kostiumo ir vaidybos atributų rinkinys."
-  atnaujinta: "2026-07-12 01:47"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177749
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -91,5 +79,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

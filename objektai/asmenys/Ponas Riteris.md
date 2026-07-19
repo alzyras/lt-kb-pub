@@ -26,51 +26,6 @@ media_all_json: |-
 
 Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačiai aptarė Saulės, arba Apolono, garbinimą prie Baltijos jūros.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačiai aptarė Saulės, arba Apolono, garbinimą prie Baltijos jūros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    100
-
-    ## Puslapis 100
-
-    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
-    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
-    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
-    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
-    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
-    ponas Riteris savo Siaurės senovės tyrimuose15.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173121
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
-    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
-    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
-    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
-    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
-    1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
-    buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
-    ypač mitologiją liečiančius dalykus**.
-  citata_rodoma: "100\n\n## Puslapis 100\n\n(Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­\nsakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­\nru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­\ntą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­\nbinamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba\nponas Riteris savo Siaurės senovės tyrimuose15."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-190238"></a>
@@ -99,3 +54,28 @@ Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačia
 - susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190376|Plinijus]]: Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie Baltijos jūros.
 - susijęs iš Baltijos jūra: Narbutas lietuvių rugiapjūtės dainų posakį „Garu Kotu“ siejo su padavimu apie Plinijaus minimą saulės, arba Apolono, garbinimą prie Baltijos jūros.
 - susijęs iš [[objektai/zodynas/Svaistikas Svaitestiksas.md#claim-t-189335|Svaistikas Svaitestiksas]]: Narbutas rašė, kad kronikininkai Svaistiką arba Svaitestiksą mini kaip šviesos dievą, o jo vardą aiškino kaip šviesos teikėją.
+## Citatos
+
+- id: c-173121
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    100
+
+    ## Puslapis 100
+
+    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
+    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
+    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
+    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
+    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
+    ponas Riteris savo Siaurės senovės tyrimuose15.
+  citata_rodoma: "100\n\n## Puslapis 100\n\n(Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­\nsakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­\nru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­\ntą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­\nbinamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba\nponas Riteris savo Siaurės senovės tyrimuose15."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -10,10 +10,6 @@ datos:
   - '1818 m.'
 date_start: '1808'
 date_end: '1818'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,6 +17,10 @@ tags:
   - autorius
   - dvasininkas
   - mokslininkas
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -100,6 +100,26 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą leidybos faktą."
   pagrindžia:
     - c-73208
+
+<a id="claim-t-188439"></a>
+- t-006
+  teiginys: "Narbutas Girysčio, miško dievaičio ir miškų baidyklės, vardą kildina iš Ksavero Bogušo pastebėjimų."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Pajūris: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ksaveras Bogušas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Pajūris: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ksaveras Bogušas\" parinktas kaip owner_note_path. Targetas \"Pajūris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171329
 
 <a id="claim-t-188440"></a>
 - t-007
@@ -196,21 +216,6 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-004
-  santrauka: 'Narbutas Girysčio, miško dievaičio ir miškų baidyklės, vardą kildina iš Ksavero Bogušo pastebėjimų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-
-    putis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,
-    krante suplakdavęs putą .
-    Girystis (Giristis)
-    Miško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas
-    iš Ksavero Bogušo pastebėjimų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 - c-008
   santrauka: 'Ksaveras Bogušas savo studijoje, 145 puslapyje, Vulkaną lietuviškai vadina Jagaubis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -230,7 +235,6 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-22155
@@ -283,22 +287,21 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Moteris, suviliota
-    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
-    Įdomią smulkmeną apie tuos dievaičius mums paliko Prū­
-    sijos kronikos . 1247 metais, kai kryžiuočiai jau valdė Pame-
-    dę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą,
-    vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų
-    gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie,
-    matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
-    sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
+    Pajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-
+    putis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,
+    krante suplakdavęs putą .
+    Girystis (Giristis)
+    Miško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas
+    iš Ksavero Bogušo pastebėjimų.
   citata_rodoma: "Pajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-\nputis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,\nkrante suplakdavęs putą .\nGirystis (Giristis)\nMiško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas\niš Ksavero Bogušo pastebėjimų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-171330
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

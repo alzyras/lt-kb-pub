@@ -81,23 +81,6 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190924|Motiejus Strijkovskis]]: Narbutas teigė, kad Kojalavičius lotyniškoje Lietuvos istorijoje Strijkovskio veikalą sudėjo į istorinius rėmus ir taisė jo spragas.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-188195|Herulai]]: Narbutas aiškino, kad herulai kai kada pagreitindavo ligos palaužtų senelių mirtį jų pačių prašymu, o ne pagal religijos nuostatus.
 - susijęs iš M. Strijkovskio kronika: Teodoro Narbuto vertinimu, Kojalavičius lotyniškoje Lietuvos istorijoje Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė jo spragas.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus piorunkomis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vadinasi, bu­
-    vo tik Jupiteris, turėjęs antrąją ypatybę*.
-    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
-    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
-    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
-    se buvo žinomi Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172964
@@ -105,12 +88,12 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    jas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo
-    paties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su
-    užrašais nepažįstamu raštu, kartais lotyniškomis raidėmis.
-    Jis sako (7 lapas, antroji pusė): „Prūsijoje ir gretimuose kraš­
-    tuose kapuose ir žemėje buvo randamos auksinės bei sidabri­
-    nės monetos su nežinomais atvaizdais, herbais ir užrašais.
+    Vadinasi, bu­
+    vo tik Jupiteris, turėjęs antrąją ypatybę*.
+    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
+    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
+    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
+    se buvo žinomi Lietuvoje.
   citata_rodoma: "Vadinasi, bu­\nvo tik Jupiteris, turėjęs antrąją ypatybę*.\nŽinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti\npiorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos\nnuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­\nse buvo žinomi Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

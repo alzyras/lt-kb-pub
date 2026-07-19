@@ -101,24 +101,11 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    J. Lasickį jis kritikuoja už tai, kad
-    deives Wellona, Ragutenapati palaikė dievais, kad klaidingai
-    užrašęs dievų Kublaniczu, Smik Smik Perleuenu ir kt. vardus,
-    neteisingai aptaręs dievus Numejas ir Reškia, Krugis, M. Strij­
-    kovskį - kad deive Kniminie Pradžių Warpu palaikė dievu,
-    K. Hartknochą - kad viską stengėsi pritempti prie germaniš­
-    kos mitologijos, F. Stenderį - kad krivius laikė esant kilusius
-    iš rusų (krievų) žemės, kad stengėsi įrodyti kai kurių mitinių
-    personažų nepriklausomumą nuo antikinės gaikų ir romėnų
-    mitologijos ir 1.1. Tačiau jis nesuabejojo iš viso jų pateiktų dievų
-    tikrumu ir beveik be atrankos perkėlė juos į savo aprašomą
-    lietuvių mitologiją. Smarkiai T. Narbutas kritikavo ir anuo me­
-    tu madingus etimologizavimus („etimologines išmones“) ir tik
-    jais paremtas išvadas. Tačiau to kritiškumo aiškiai būta per
-    maža, ypač turint galvoje, kad beveik visi svabiausieji jo nau­
-    doti rašytiniai šaltiniai yra ne visai patikimi. Patikrinti ir įver­
-    tinti tautosakinius ir etnografinius šaltinius jam buvo dar sun­
-    kiau nemokant lietuvių kalbos.
+    Tačiau, nežiūrint didelės pagarbos autoritetams, senuosius
+    šaltinius ir tyrinėtojus T. Narbutas vertino kritiškai, ne kartą
+    pabrėždamas, kad laikosi „griežto kriticizmo“, apsiriboja „kri-
+    tikos patvirtinta medžiaga“, kad tikrinęs ir taisęs kur pastebė-
+    jęs „aiškias klaidas“.
   citata_rodoma: "Tačiau, nežiūrint didelės pagarbos autoritetams, senuosius\nšaltinius ir tyrinėtojus T. Narbutas vertino kritiškai, ne kartą\npabrėždamas, kad laikosi „griežto kriticizmo“, apsiriboja „kri-\ntikos patvirtinta medžiaga“, kad tikrinęs ir taisęs kur pastebė-\njęs „aiškias klaidas“."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

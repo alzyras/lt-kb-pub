@@ -9,16 +9,16 @@ datos:
   - '1432 m.'
 date_start: '1432'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - didikas
   - vyskupas
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -260,6 +260,46 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
 - susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
 - susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187736|Ponų taryba (institucija)]]: Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jogaila, ne be pagrindo įtardamas,
+    jog visas reikalas kreipiamas
+    J o g a ila
+    n u sp ren d žia
+    į neišvengiamą ginkluotą su-
+    k a riau ti
+    p rieš
+    k r y -
+    sirėmimą, skubiai išvyko į
+    žiu o čiu s
+    Lietuvos Brestą pasitarti dėl
+    karo su skitų chanu ir Vytau­
+    tu. Ten jie nusprendė visomis jėgomis pradėti bendrą
+    karą prieš kryžiuočius. Jie ilgai svarstė reikšmingą ir
+    svarbų klausimą, galintį nulemti visų įvykių raidą, bū­
+    tent, kas daryti, kad kryžiuočių pusėje nekariautų nei
+    imperatorius Zigmantas, nei karalius Vaclovas. Jogaila
+    manė, kad, negavę pagalbos iš vengrų bei čekų, kry­
+    žiuočiai nepajėgsią ilgiau at-
+    S ten giasi
+    p a la ik y ti
+    sispirti; antra vertus, dar te-
+    d ra u g y stę su im pera-
+    begaliojo sutartis, sudaryta
+    to riu m i Z ig m a n tu
+    šešiolikai metų tarp šių šalių
+    valdovų ir Lenkijos bei Lie­
+    tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
+    galbos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-104969
@@ -407,35 +447,20 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Jogaila, ne be pagrindo įtardamas,
-    jog visas reikalas kreipiamas
-    J o g a ila
-    n u sp ren d žia
-    į neišvengiamą ginkluotą su-
-    k a riau ti
-    p rieš
-    k r y -
-    sirėmimą, skubiai išvyko į
-    žiu o čiu s
-    Lietuvos Brestą pasitarti dėl
-    karo su skitų chanu ir Vytau­
-    tu. Ten jie nusprendė visomis jėgomis pradėti bendrą
-    karą prieš kryžiuočius. Jie ilgai svarstė reikšmingą ir
-    svarbų klausimą, galintį nulemti visų įvykių raidą, bū­
-    tent, kas daryti, kad kryžiuočių pusėje nekariautų nei
-    imperatorius Zigmantas, nei karalius Vaclovas. Jogaila
-    manė, kad, negavę pagalbos iš vengrų bei čekų, kry­
-    žiuočiai nepajėgsią ilgiau at-
-    S ten giasi
-    p a la ik y ti
-    sispirti; antra vertus, dar te-
-    d ra u g y stę su im pera-
-    begaliojo sutartis, sudaryta
-    to riu m i Z ig m a n tu
-    šešiolikai metų tarp šių šalių
-    valdovų ir Lenkijos bei Lie­
-    tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
-    galbos.
+    Vis dėlto buvo pamato būgštauti, kad jie gali
+    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
+    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
+    uždavinio: pasikvietęs į palydovus didikus Goštautą,
+    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
+    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
+    tiktai karalystės pakancleris Trombą), kad, Vytautui
+    376
+
+    ## Puslapis 375
+
+    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
+    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
+    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   citata_rodoma: "Vis dėlto buvo pamato būgštauti, kad jie gali\nnepaisyti teisėto susitarimo iš palankumo žmonėms, su\nkuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio\nuždavinio: pasikvietęs į palydovus didikus Goštautą,\nRumbaudą bei Radvilą, jis išvyko pas imperatorių.\nPrieš tai susitarė slaptai su karaliumi (apie tai žinojo\ntiktai karalystės pakancleris Trombą), kad, Vytautui\n376\n\n## Puslapis 375\n\nišsiaiškinus, jog imperatorius bei jo brolis neabejingi\njų reikalui, kuo greičiausiai, niekam nieko nesakyda­\nmas, ten išvyks ir Jogaila patvirtinti naujo susitarimo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

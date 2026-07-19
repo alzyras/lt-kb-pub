@@ -11,15 +11,15 @@ datos:
   - '1089 m.'
 date_start: '1089'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
-amziai:
-  - 'XI'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -181,6 +181,87 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
 - susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-188600|Pajauta]]: Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.
 - susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    L ie tu v o s,
+    k ita s
+    Z e-
+    Karą pradėti paskatino tai,
+    m a itijo s
+    kad tautoje padidėjo šeimy­
+    nų, o laukų nausėdijoms trū­
+    ko. Vis dėlto Kernius iš pradžių abejojo, ar keltis per
+    Nerį su žmonėmis dėl naujų žemių, mat priešas, už­
+    pultas ir įsiutintas, galėtų smogti atsakomąjį smūgį ir
+    kelias į Lietuvą būtų užkirstas. Todėl, norėdamas su­
+    rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
+    kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be to, buvo paskirti žyniai, kū­
+    renę amžinąją ugnį ąžuolinėmis malkomis; šias prie­
+    taringas apeigas jie išsaugojo ligi krikščionybės laikų.
+    Pasakoti apie tolesnę isto-
+    A p ie m e tų ir laikų
+    rijos eigą man neleidžia aki-
+    sk a ič ia v im u s
+    vaizdi klaida, kurią šiuo at­
+    veju primetė pirmieji lietu­
+    vių istorijos rašytojai ir kurios aš negaliu nutylėti. Mat
+    ši klaida ne tokia maža, kad jos visai nepastebėtų dė­
+    mesingo skaitytojo akis. Gilios tylos gaubiamas išti­
+    sas šimtmetis padaro istorinių įvykių grandinėje di­
+    džiulę spragą. Ją vis dėlto anie rašytojai nejučiomis
+    apėjo, nepaisydami nė to, kad šis tarpsnis atskyrė tėvą
+    nuo sūnų, o tiesioginį įpėdinį nuo jo protėvių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    nenustota jos garbinti. Strijkovskis pats sako: „Palangoje, prie
+    jūros, mačiau aukštą kalną, tos Birutės milžinkapį, kurį že­
+    maičiai bei kuršiai dar ir šiandien vadina šventos Birutės (Swis-
+    tos-Bimtos) kalnu ir dar iki šios dienos švenčia jos šventę ten,
+    toje vietoje, kur ir Romos katalikų kunigas atvažiuoja surink­
+    damas nemaža naudos iš žvakių ir aukų, nors nesuprantu, kaip
+    Dievas priima tas aukas, kadangi toji Birutė buvo stabmeldė“.
+    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
+    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
+    mėti ten visuomet stovi medinis kryžius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Pasak Narbuto perteikiamo Hartknocho, ant Kukovaičio kalno nuo seno degė Kerniaus užkurta Amžinoji ugnis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    niau nuteiktų skaitytoją ir taiklesniais išvedžiojimais atskleis­
+    tų istorinę tiesą, užkastą amžių užmarštyje. Pagaliau, turėda­
+    mas daugiau galimybių, galėtų išnagrinėti mums neprieina­
+    mus šaltinius. Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
+    pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
+    dingos mūsų tėvynės istorijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-006
   santrauka: 'Lietuvos metraštis pasakoja legendą, kad Kernius iš lotyniškų žodžių „litus“ ir „tūba“ savo žmones ėmė vadinti „Litusbania“.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -205,6 +286,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 ## Citatos
 
 - id: c-169366
@@ -212,19 +294,13 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    L ie tu v o s,
-    k ita s
-    Z e-
-    Karą pradėti paskatino tai,
-    m a itijo s
-    kad tautoje padidėjo šeimy­
-    nų, o laukų nausėdijoms trū­
-    ko. Vis dėlto Kernius iš pradžių abejojo, ar keltis per
-    Nerį su žmonėmis dėl naujų žemių, mat priešas, už­
-    pultas ir įsiutintas, galėtų smogti atsakomąjį smūgį ir
-    kelias į Lietuvą būtų užkirstas. Todėl, norėdamas su­
-    rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
-    kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
+    Kokius jis nuveikė paminėtinus darbus,
+    vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
+    palikti po mirties sūnums paveldimo neapykantos šal­
+    tinio, todėl pasistengė laiku padalyti valdžią. Kernu-
+    sijui, arba Kerniui, atidavė valdyti Lietuvos žemes
+    tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­
+    tui paskyrė Žemaitiją.
   citata_rodoma: "Kokius jis nuveikė paminėtinus darbus,\nvėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­\npalikti po mirties sūnums paveldimo neapykantos šal­\ntinio, todėl pasistengė laiku padalyti valdžią. Kernu-\nsijui, arba Kerniui, atidavė valdyti Lietuvos žemes\ntarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­\ntui paskyrė Žemaitiją."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -239,22 +315,19 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Be to, buvo paskirti žyniai, kū­
-    renę amžinąją ugnį ąžuolinėmis malkomis; šias prie­
-    taringas apeigas jie išsaugojo ligi krikščionybės laikų.
-    Pasakoti apie tolesnę isto-
-    A p ie m e tų ir laikų
-    rijos eigą man neleidžia aki-
-    sk a ič ia v im u s
-    vaizdi klaida, kurią šiuo at­
-    veju primetė pirmieji lietu­
-    vių istorijos rašytojai ir kurios aš negaliu nutylėti. Mat
-    ši klaida ne tokia maža, kad jos visai nepastebėtų dė­
-    mesingo skaitytojo akis. Gilios tylos gaubiamas išti­
-    sas šimtmetis padaro istorinių įvykių grandinėje di­
-    džiulę spragą. Ją vis dėlto anie rašytojai nejučiomis
-    apėjo, nepaisydami nė to, kad šis tarpsnis atskyrė tėvą
-    nuo sūnų, o tiesioginį įpėdinį nuo jo protėvių.
+    Galbūt šitaip ir bū­
+    tų atsitikę, jeigu, jam mirus,
+    1089 m eta i
+    būtų prasidėjęs tarpuvaldis:
+    mat neturėjo jis sūnaus —
+    savo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs
+    jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš
+    Julijono Dausprungo palikuonių, pajėgų valdyti jauni­
+    kaitį, netrukus jam į žmonas atidavė vienturtę dukterį
+    Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai
+    pasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­
+    tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
+    Deltuvos palaidotas.
   citata_rodoma: "Galbūt šitaip ir bū­\ntų atsitikę, jeigu, jam mirus,\n1089 m eta i\nbūtų prasidėjęs tarpuvaldis:\nmat neturėjo jis sūnaus —\nsavo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs\njiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš\nJulijono Dausprungo palikuonių, pajėgų valdyti jauni­\nkaitį, netrukus jam į žmonas atidavė vienturtę dukterį\nPajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai\npasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­\ntas (kaip tais laikais derėjo) ir ant aukštos kalvos prie\nDeltuvos palaidotas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -269,16 +342,19 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    nenustota jos garbinti. Strijkovskis pats sako: „Palangoje, prie
-    jūros, mačiau aukštą kalną, tos Birutės milžinkapį, kurį že­
-    maičiai bei kuršiai dar ir šiandien vadina šventos Birutės (Swis-
-    tos-Bimtos) kalnu ir dar iki šios dienos švenčia jos šventę ten,
-    toje vietoje, kur ir Romos katalikų kunigas atvažiuoja surink­
-    damas nemaža naudos iš žvakių ir aukų, nors nesuprantu, kaip
-    Dievas priima tas aukas, kadangi toji Birutė buvo stabmeldė“.
-    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
-    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
-    mėti ten visuomet stovi medinis kryžius.
+    Nereikia tapatinti Medziojnos
+    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
+    Laima.
+    154
+
+    ## Puslapis 154
+
+    Pajauta (Pojata)
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
+    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
+    šė paveldimą Kernavės kunigaikštystę.
   citata_rodoma: "Nereikia tapatinti Medziojnos\nsu Medžiojma, kurią laikėme medžiotojų deive, vadinama\nLaima.\n154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -293,12 +369,12 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    niau nuteiktų skaitytoją ir taiklesniais išvedžiojimais atskleis­
-    tų istorinę tiesą, užkastą amžių užmarštyje. Pagaliau, turėda­
-    mas daugiau galimybių, galėtų išnagrinėti mums neprieina­
-    mus šaltinius. Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
-    pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
-    dingos mūsų tėvynės istorijai.
+    Tai liudija Strijkovskis. Ant
+    Kukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­
+    kų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­
+    begyvuojantis kaimo žmonių pasakojimuose. Hartknochas,
+    remdamasis savo tyrimais, pasakoja, kad ant to paties kalno
+    nuo seno degusi Kerniaus užkurta Amžinoji ugnis .
   citata_rodoma: "Tai liudija Strijkovskis. Ant\nKukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­\nkų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­\nbegyvuojantis kaimo žmonių pasakojimuose. Hartknochas,\nremdamasis savo tyrimais, pasakoja, kad ant to paties kalno\nnuo seno degusi Kerniaus užkurta Amžinoji ugnis ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

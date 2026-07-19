@@ -467,24 +467,6 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157659
     - c-157644
 
-<a id="claim-t-173333"></a>
-- t-001
-  teiginys: "Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą."
-  atnaujinta: "2026-05-31 14:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Milanas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Milanas: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Milanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1519 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-157650
-
 <a id="claim-t-173335"></a>
 - t-013
   teiginys: "Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis."
@@ -1265,12 +1247,10 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   citata_rodoma: "sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-157651
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1800,7 +1780,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - t-050
 
 ## Ryšiai
-- Žygimantas Senasis buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
-- Žygimantas Senasis valdė [[objektai/vietos/Lietuva]]
-- Žygimantas Senasis keliavo į [[objektai/vietos/Vilnius]]
+- Žygimantas Senasis buvo valdovas Lenkija, Lietuva
+- Žygimantas Senasis valdė Lietuva
+- Žygimantas Senasis keliavo į Vilnius
 - Žygimantas Senasis paskyrė [[objektai/asmenys/Jonas Hozijus]]

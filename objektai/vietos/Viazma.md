@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1389'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -158,6 +158,23 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186641|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186643|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.
 - susijęs iš Chlepenis: Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas.
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Šaltinio pastaboje Viazmos užėmimas siejamas su vėlesniu laiku, 1493 m. žiema iki vasario vidurio.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio
+    miestai, kaip maskvėnų užimti, yra minimi Aleksandro 1492.IX 27
+    rašte (instrukcijoje); papildomai ten dar nurodytas Mosalskas (apie
+    100 km | vakarus nuo Kalugos) ir Rohačevas (prie Chlepenio Į pie­
+    tus nuo Rževo). Viazma, matyt, buvo užimta vėliau, 1493 m, žie­
+    mų ligi įh vasario.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-32520
@@ -261,7 +278,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio
-    miestai, kaip maskvėnų užimti, yra minimi Aleksandro 1492.IX 27
+    miestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27
     rašte (instrukcijoje); papildomai ten dar nurodytas Mosalskas (apie
     100 km | vakarus nuo Kalugos) ir Rohačevas (prie Chlepenio Į pie­
     tus nuo Rževo). Viazma, matyt, buvo užimta vėliau, 1493 m, žie­

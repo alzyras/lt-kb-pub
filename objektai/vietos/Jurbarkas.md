@@ -246,56 +246,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - susijęs iš Žemaitija: Veliuonos pilis tikriausiai pastatyta XIII a. Žemaitijos sienoms nuo kryžiuočių puldinėjimų saugoti.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12313|Laivai]]: 1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.
 - susijęs iš [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis).md#claim-t-95965|Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]: Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vis dėlto, kai, pilyje užkūrus laužą ir šitaip
-    7*
-    195
-
-    ## Puslapis 194
-
-    padavus pavojaus ženklą, kaimynai įspėti šoko gink­
-    luotis, magistras turėjo palikti pilį ramybėje. Nebetoli
-    su kariuomene buvo ir Gediminas, įrengęs stovyklą
-    tarp Jurbarko ir Kauno. Tai šen, tai ten liepsnojo prie­
-    šo padegti kaimai, kylantys
-    G ed im in a s
-    su m u ša
-    dūmai žadino skausmą, o
-    k ry ž iu o č iu s  ir a tim a
-    skausmas — drąsą, tačiau ap-
-    iš jų  Ž e m a itiją
-    dairiam
-    kunigaikščiui
-    tuo
-    tarpu daugiau rūpėjo, kieno
-    pusėje jėgų persvara.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Narbutas Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, minėjo labai seną mūro pilį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
-    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
-    125
-
-    ## Puslapis 125
-
-    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
-    nedailaus, bet labai patvaraus gipso.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-46509
@@ -364,24 +314,28 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Nebetoli
+    Vis dėlto, kai, pilyje užkūrus laužą ir šitaip
+    7*
+    195
+
+    ## Puslapis 194
+
+    padavus pavojaus ženklą, kaimynai įspėti šoko gink­
+    luotis, magistras turėjo palikti pilį ramybėje. Nebetoli
     su kariuomene buvo ir Gediminas, įrengęs stovyklą
     tarp Jurbarko ir Kauno. Tai šen, tai ten liepsnojo prie­
     šo padegti kaimai, kylantys
     G ed im in a s
     su m u ša
     dūmai žadino skausmą, o
-    k ry ž iu o č iu s ir a tim a
+    k ry ž iu o č iu s  ir a tim a
     skausmas — drąsą, tačiau ap-
-    iš jų Ž e m a itiją
+    iš jų  Ž e m a itiją
     dairiam
     kunigaikščiui
     tuo
     tarpu daugiau rūpėjo, kieno
-    pusėje jėgų persvara. Jis kol kas turėjo nedidelę ka­
-    riuomenę, laukė pagrindinių dalinių, kurie su naugar-
-    dukiečiais ir polockiečiais, atėjusiais į pagalbą, turėjo
-    už dienos ar kitos pasirodyti.
+    pusėje jėgų persvara.
   citata_rodoma: "Vis dėlto, kai, pilyje užkūrus laužą ir šitaip\n7*\n195\n\n## Puslapis 194\n\npadavus pavojaus ženklą, kaimynai įspėti šoko gink­\nluotis, magistras turėjo palikti pilį ramybėje. Nebetoli\nsu kariuomene buvo ir Gediminas, įrengęs stovyklą\ntarp Jurbarko ir Kauno. Tai šen, tai ten liepsnojo prie­\nšo padegti kaimai, kylantys\nG ed im in a s\nsu m u ša\ndūmai žadino skausmą, o\nk ry ž iu o č iu s  ir a tim a\nskausmas — drąsą, tačiau ap-\niš jų  Ž e m a itiją\ndairiam\nkunigaikščiui\ntuo\ntarpu daugiau rūpėjo, kieno\npusėje jėgų persvara."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -396,13 +350,14 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Malone brangiu del žmonių:
-    Ture auxin kajb irplite,
-    Ture pilnu rugiu kloniu,
-    Garbe ture manip mundu9.
-    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
-    rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
-    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę.
+    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
+    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
+    125
+
+    ## Puslapis 125
+
+    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
+    nedailaus, bet labai patvaraus gipso.
   citata_rodoma: "Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­\nme, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­\n125\n\n## Puslapis 125\n\nko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš\nnedailaus, bet labai patvaraus gipso."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

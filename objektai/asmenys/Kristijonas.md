@@ -467,19 +467,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-013
-  santrauka: 'Narbuto nuomone, senojoje prūsų vyskupo Kristijono kronikoje galėjo būti žinių apie sieros šaltinį prie Romovės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
-    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
-    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
-    S. 261).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-016
   santrauka: 'Narbutas vyskupo Kristijono žinias vertino kaip tiesos išlaikiusį liudijimą apie senąjį kraštą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -490,27 +477,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     kupo Kristijono žiniose išlikusią tiesą. Nesuskaičiuojami
     nedidelio krašto gyventojai leidžia numanyti, jog vals­
     tybė buvo gerai tvarkoma.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-017
-  santrauka: 'Narbutas rašė, kad Kulmo vyskupas Kristijonas XIII amžiaus pirmojoje pusėje teigė prūsų kildinimą iš gotų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Alanai buvo
-    skitų blondinų gentis, jie davė pradžią roksolanams; gotai
-    taip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima
-    pastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių
-    kilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus
-    pradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-
-    jną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,
-    gyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs
-    prūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko
-    bendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­
-    siedamas kildintiną iš alanų su į šias šalis atėjusių hunų
-    antplūdžiu.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
@@ -676,16 +642,10 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dusburgietis, rašydamas apie lietuvių
-    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
-    prieš Lietuvą (III, 343—346, 357—358).
-    Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo
-    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
-    Prūsijoje pagrindu (II, 5, 6). Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
-    Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
-    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
-    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
-    prieš Ordiną.
+    Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“.
   citata_rodoma: "Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką\nkarų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus\nCezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei\nDobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -787,14 +747,10 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Gintaras lenkiškai vadinamas bursztyrv,
-    jo pavadinimas pasiskolintas iš vokiečių kalbos bdrnstein,
-    galbūt iš žodžio boernen, kuris reiškia „degti“, t. y. degus
-    akmuo. Visuose lietuvių kalbos dialektuose vadinamas
-    Gentoras; šio pavadinimo šaltinis, kaip spėja daugelis fi­
-    lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
-    ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
-    žodis Hentar pasiskolintas iš lietuvių.
+    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
+    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
+    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
+    S. 261).
   citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -881,20 +837,18 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Gerai pažinojęs
+    Alanai buvo
+    skitų blondinų gentis, jie davė pradžią roksolanams; gotai
+    taip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima
+    pastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių
+    kilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus
+    pradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-
+    jną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,
+    gyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs
     prūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko
     bendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­
     siedamas kildintiną iš alanų su į šias šalis atėjusių hunų
-    antplūdžiu. Šiandien kai kas mano, jog lietuviai yra dau­
-    gelio tautų mišinys. Tačiau nė vienas nepaaiškina, kokių
-    tautų būtent. Negalima būtų prieštarauti tokiai tiesai, jog
-    į lietuvių tautos sudėtį nebūtų įsiliejusios kokios nors gre­
-    timos tautos, nes Europoje nėra nė vienos tautos, kuri
-    galėtų pasigirti esanti visiškai gryna, o to priežastis —
-    didžiuliai ir dažni maišymaist ir tautų kraustymasis. Taip
-    pat negalima paneigti ir didelio lietuvių genties išsibars­
-    tymo dar priešistoriniais laikais, nes ir prie Reino, ir ana­
-    pus jo yra ryškių litalanų pėdsakų.
+    antplūdžiu.
   citata_rodoma: "Alanai buvo\nskitų blondinų gentis, jie davė pradžią roksolanams; gotai\ntaip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima\npastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių\nkilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus\npradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-\njną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,\ngyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs\nprūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko\nbendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­\nsiedamas kildintiną iš alanų su į šias šalis atėjusių hunų\nantplūdžiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

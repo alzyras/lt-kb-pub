@@ -10,16 +10,16 @@ datos:
   - '1237 m.'
 date_start: '1237'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - tauta
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -172,6 +172,31 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1227 m. jotvingių antpuoliai pasiekė Voluinės Vladimirą, kur buvo suimti Sutras Monoduničius ir Stegutas Zebrovičius.
 - susijęs iš Būgas: Būgas jau tuomet buvo Mazovijos ir rusų žemių riba.
 - susijęs iš Vizna: Kunigaikštis Danielius nuėjo prie Viznos, persikėlė per Narevo upę ir iš nelaisvės išvadavo daug krikščionių.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
+    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
+    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
+    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
+    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
+    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
+    žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
+    bių jotvingių gyvenviečių, nes jas tikėjosi užpulti Pietų
+    Rusios kunigaikščiai, kuriems
+    vadovavo Danielius —
+    klastingas, godus ir neramus žmogus. 1237 metais jis ve­
+    dė savo būrius prieš jotvingius į Brastos apylinkes, bet
+    itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
+    jo sumanymas nebuvo įgyvendintas3.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169462
@@ -203,20 +228,17 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
-    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
-    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
-    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
-    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
-    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
-    žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
-    bių jotvingių gyvenviečių, nes jas tikėjosi užpulti Pietų
-    Rusios kunigaikščiai, kuriems
-    vadovavo Danielius —
-    klastingas, godus ir neramus žmogus. 1237 metais jis ve­
-    dė savo būrius prieš jotvingius į Brastos apylinkes, bet
-    itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
-    jo sumanymas nebuvo įgyvendintas3.
+    Tuo tarpu Stegutas tikriausiai žu­
+    vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­
+    dėjus traukimuisi, Danielius pavijo jotvingių vadą Nebrą
+    ir, ištraukęs jam iš rankų ietį, smarkiai sužeidė ir būtų
+    jau pribaigęs, jeigu nebūtų reikėję padėti Vasilkai, kurį
+    priešai spaudė iš visų pusių. Tad Danielius, palikęs Neb-
+    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
+    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
+    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
+    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
+    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
   citata_rodoma: "Tuo tarpu Stegutas tikriausiai žu­\nvo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­\ndėjus traukimuisi, Danielius pavijo jotvingių vadą Nebrą\nir, ištraukęs jam iš rankų ietį, smarkiai sužeidė ir būtų\njau pribaigęs, jeigu nebūtų reikėję padėti Vasilkai, kurį\npriešai spaudė iš visų pusių. Tad Danielius, palikęs Neb-\nrą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems\njotvingiam sK itais metais jotvingių grėsmė iškilo Ru­\nsiai, nes Voluinės kunigaikščiai, prieš išžygiuodami su\nkariauna į Lenkiją, savo sienų nuo pat Brastos apsauga\nturėjo patikėti Pinsko kunigaikščiui Vladimirui1 2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

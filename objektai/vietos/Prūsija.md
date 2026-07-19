@@ -1565,15 +1565,23 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 <a id="claim-t-192730"></a>
 - t-119
   teiginys: "Teodoras Narbutas Ordino politiką vadina kruvina ir rašo, kad sūduviai buvo iškapoti arba išgabenti į kitas Prūsijos dalis."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduviai tiesiogiai nurodyti kaip išgabenti į kitas Prūsijos dalis."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Sūduviai keliavo į Prūsija (0.84)"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-179392
+    - c-175500
 
 <a id="claim-t-192732"></a>
 - t-121
@@ -1667,7 +1675,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 <a id="claim-t-196731"></a>
 - t-128
   teiginys: "Kojelavičius rašo, kad į Prūsiją ir Žemaitiją buvo sutelkta kariuomenė iš Vokietijos, Silezijos ir Austrijos."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1675,7 +1683,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
-    - c-168464
+    - c-168471
 
 <a id="claim-t-196732"></a>
 - t-129
@@ -3581,23 +3589,17 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“
+    Kronikos idėjinė reikšmė ir mokslinė svarba
+
+      Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės
+    organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės
+    platinimu. Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“
     (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
-    dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į
+    dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas  į
     Ordiną — tai „šventas sumanymas“ (III,284).
-    Čia verta priminti, kad Vakarų Europos pasaulietiniai ir bažnytiniai feodalai, norėdami
+      Čia verta priminti, kad Vakarų Europos pasaulietiniai ir bažnytiniai feodalai, norėdami
     praturtėti, užvaldyti nekrikščioniškas šalis, skelbė kryžiaus žygių idėjas: žemė su visais
     turtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai.
-    Kryžininkų kariuomenėje buvo skirtingų luomų ir socialinės padėties žmonių, kurie tikėjo,
-    jog atlieka savo pareigą, gina ir skleidžia išganingą santvarką, paremtą krikščioniškąja
-    teise, pagal kurią tik krikščionių dievo vardu dovanota žemė ir ją dirbantys žmonės
-    laikomos teisėtai valdomi. Karas prieš pagonis buvo vykdomas siekiant užkariautose
-    žemėse užtikrinti nuolatinį feodalinį išnaudojimą148.
-    Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios
-    priešus“ (II, 7), todėl kryžiaus žygių dalyviai eina į karą prieš prūsus ir lietuvius keršyti
-    „už nukryžiuotojo viešpaties kančias“ (III, 8, 71, 296), Prūsijoje kritusių krikščionių
-    143  PD, III, 7, 66; SRP, B. 5, S. 597; Perlbach M. Die Aeltere Chronik von Oliva, S.
-    60; PKD, s.
   citata_rodoma: "Kronikos idėjinė reikšmė ir mokslinė svarba\n\n  Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės\norganizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės\nplatinimu. Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“\n(III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties\ndievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas  į\nOrdiną — tai „šventas sumanymas“ (III,284).\n  Čia verta priminti, kad Vakarų Europos pasaulietiniai ir bažnytiniai feodalai, norėdami\npraturtėti, užvaldyti nekrikščioniškas šalis, skelbė kryžiaus žygių idėjas: žemė su visais\nturtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -3946,14 +3948,11 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,
-    agresijos į Artimuosius Rytus metu, atsikėlimas ir įsitvirtinimas pavyslyje XIII a.
-    pirmojoje pusėje. Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
-    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
-    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
-    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
-    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
-    kovą prieš agresiją.
+    Siekdamas pagrįsti kryžiuočių
+    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
+    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
+    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
+    valstybės kūrinys.
   citata_rodoma: "Siekdamas pagrįsti kryžiuočių\nužkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti\nOrdino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo\nkroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino\nvalstybės kūrinys."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -3968,13 +3967,9 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kronikininkas neslepia, kad šis „apšvarinimas“ — tai
-    vietinių gyventojų naikinimas, žudynės, kai „švytruojąs Kristaus kariaunos kalavijas ryte
-    rijo netikėlių kūnus“ (III, 11).
-    Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
-    riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus
-    ginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins
-    Kristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.
+    Dusburgiečio kronika pabrėžia, kad ne kas kitas, o „broliai apšvarino [...] šventąją
+    Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste,  ir dabar čia kas dieną
+    aukojama dievui“ (Pratarmė).
   citata_rodoma: "Dusburgiečio kronika pabrėžia, kad ne kas kitas, o „broliai apšvarino [...] šventąją\nPrūsijos žemę, kurią tenykštės gentys teršė stabmeldyste,  ir dabar čia kas dieną\naukojama dievui“ (Pratarmė)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -4697,13 +4692,12 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vokiškojo Ordino, visokeriopai remiamo popiežiaus kurijos,
-    priešai Petrui iš Dusburgo visada yra dievo priešai, jis nieku būdu nenori suprasti, kad
-    pagonys prūsai ir lietuviai gali kovoti už laisvę, už savarankišką vystymąsi. Prūsų ir
-    lietuvių išsivaduojamoji, gynybinė kova, masių kova prieš feodalinę priespaudą, baltų
-    kova prieš nacionalinę ir kultūrinę priespaudą jam tolygu kovai prieš krikščionybę ir
-    patį dievą. Norėdamas tą mintį pagrįsti, jis tendencingai pateikia ne tik, kaip matėme,
-    atskirus istorinius faktus, bet tam pajungia ir visą kronikos idėjinį turinį.
+    8).
+      Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
+    tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
+      Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis
+    krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
+    ekspansija  į baltų žemes.
   citata_rodoma: "8).\n  Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo\ntos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).\n  Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis\nkrikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios\nekspansija  į baltų žemes."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -4802,13 +4796,12 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Torunės pilyje apie XIII a. vidurį, atrodo, įsikūrė Ordino konventas.
-    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
-    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
-    rankose, ji naudota kaip gyvulininkystės dvaras.
-    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
-    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
-    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
+    2. Prūsijos žemės aprašymas
+
+       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
+    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186.
   citata_rodoma: "2. Prūsijos žemės aprašymas\n\n   Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,\nMazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -4913,19 +4906,19 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ka­
-    dangi miestą gynė rinktinių karių įgula, apsuptis
-    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
-    rasta daug be galo narsių karių, kurie tiltu per Prieg­
-    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
-    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
-    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
-    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
-    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
-    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
-    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
-    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
-    kerštą.
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -4940,35 +4933,19 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šitaip kryžiuo­
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
-    kerštą. Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
-    čionybės ir sutartu laiku, prieš pat šv. Motiejaus die­
-    ną, visame krašte išgriovė bažnyčias, o kunigus, ku-
-    nių valdovai nutarė sutelkti visas savo jėgas ir atremti
-    laukinių siautėjimą. Į pagalbą buvo sutraukta galybė
-    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
-    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
-    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
-    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
-    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
-    P rūsai
-    išsiža d a
-    k r i­
-    k ščio n ių
-    tik ė jim o ir
-    a tsim e ta
-    n u o
-    k r y ­
-    žiu o čių
-    riuos beįmanė pagauti, žiau­
-    riai nukankino; jie nepaliko
-    neišniekinę nė vienos krikš­
-    čionių
-    šventenybės,
-    kurią
-    tik valiojo pasiekti jų stai­
-    gus įsiūtis.
+    kerštą.
   citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -4977,24 +4954,20 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103
-    - t-128
 
 - id: c-168466
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
+    Ramiai
+    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
+    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
+    netikėtai patraukė su prūsų kariais Gardino kryptimi.
     Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
     įgulą, sugriovė arba sudegino visus įtvirtinimus; du
     tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
-    didžiulį grobį. Tuo tarpu keletas kitų lietuvių būrių
-    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
-    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
-    pasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­
-    tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,
-    kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,
-    vildamiesi, jog už naują išdavystę kryžiuočiai jiems
-    atleis jų ankstesnį nusikaltimą.
+    didžiulį grobį.
   citata_rodoma: "Ramiai\npraslinkus pavasariui, vasaros pradžioje prasidėjo nau­\nji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,\nnetikėtai patraukė su prūsų kariais Gardino kryptimi.\nPo kruvino antpuolio jis paėmė Gardino pilį, išžudė\nįgulą, sugriovė arba sudegino visus įtvirtinimus; du\ntūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė\ndidžiulį grobį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -5009,7 +4982,12 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Beveik tris mė­
+    Vis
+    dėlto kryžiuočiai, padarę savo darbą, jau buvo sku­
+    biai pasitraukę, todėl Vytenis ėmė juos vytis grįžtan­
+    čius, tykoti priešo jo žemėje, o vėliau, niekur neuž­
+    tikęs nei pačios kariuomenės, nei stovyklos, bastytis
+    su pulkais po visą kraštą ir niokoti. Beveik tris mė­
     nesius visą Prūsiją siaubė žudynės ir gaisrai. Tuo tar­
     pu kryžiuočiai, nedrįsdami sueiti į atvirą kovą su ga­
     lybe siautėjančių karių, laukė tinkamos progos, galop
@@ -5018,16 +4996,10 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
     išžudė, išsigelbėjo nedidelis
     1294 m e ta i
     būrelis, kurie su Vyteniu, pa-
-    K ry žiu o č ia i d a u g k a i-
+    K ry žiu o č ia i d a u g  k a i-
     likę kitus karius, išsislapstė
-    tų p u o la L ie tu vą
-    miškuose. Po to ištisus metus
-    Lietuva smarkiai buvo siau­
-    biama kryžiuočių, dažniausiai vedamų Liudviko Liben-
-    celės, kuris protarpiais kartodavo antpuolius. Iš Piešt-
-    vės apygardos išvarė visus gyvulius, išžudė čia dau­
-    gybę žmonių, į vergiją išsivedė tik septyniasdešimt
-    galvų.
+    tų p u o la  L ie tu vą
+    miškuose.
   citata_rodoma: "Vis\ndėlto kryžiuočiai, padarę savo darbą, jau buvo sku­\nbiai pasitraukę, todėl Vytenis ėmė juos vytis grįžtan­\nčius, tykoti priešo jo žemėje, o vėliau, niekur neuž­\ntikęs nei pačios kariuomenės, nei stovyklos, bastytis\nsu pulkais po visą kraštą ir niokoti. Beveik tris mė­\nnesius visą Prūsiją siaubė žudynės ir gaisrai. Tuo tar­\npu kryžiuočiai, nedrįsdami sueiti į atvirą kovą su ga­\nlybe siautėjančių karių, laukė tinkamos progos, galop\njie užklupo lietuvius, kai šie, grįždami siaurais keliais,\nsusigrūdo, apsikrovę grobiu, į krūvą, ir beveik visus\nišžudė, išsigelbėjo nedidelis\n1294 m e ta i\nbūrelis, kurie su Vyteniu, pa-\nK ry žiu o č ia i d a u g  k a i-\nlikę kitus karius, išsislapstė\ntų p u o la  L ie tu vą\nmiškuose."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -5090,19 +5062,15 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to nuvedė
-    kariuomenę
-    prieš
-    Prūsijos
-    maršalą, kuris, vėl nusiaubęs Žemaitiją, gabenosi gro­
-    bį padalijęs kariuomenę dviem voromis. Iš pradžių
+    Iš pradžių
     užpuolęs ariergardinę vorą ir būrius, paliktus gurguo­
     lių apsaugai, jis sumušė priešą ir atsiėmė grobį; po
     to kuo skubiausiai patraukė su pergalę laimėjusiais
     kariais prieš patį kariuomenės branduolį. Tačiau kry­
     žiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai
     pasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk­
-    dantį bėgti.
+    dantį bėgti. Kurį laiką Kęstutis laikėsi ramiai, tačiau
+    žemėmis.
   citata_rodoma: "Iš pradžių\nužpuolęs ariergardinę vorą ir būrius, paliktus gurguo­\nlių apsaugai, jis sumušė priešą ir atsiėmė grobį; po\nto kuo skubiausiai patraukė su pergalę laimėjusiais\nkariais prieš patį kariuomenės branduolį. Tačiau kry­\nžiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai\npasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk­\ndantį bėgti. Kurį laiką Kęstutis laikėsi ramiai, tačiau\nžemėmis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -5117,31 +5085,28 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Jį pasivi­
-    jo netoli buvęs Skirgaila, ta­
-    čiau jo kariuomenė veikiau tiko puldinėti besitraukian­
-    tiems būriams arba laisvai beklaidžiojantiems gaudyti,
-    nei stoti į tikrą kovą: ji buvo nedidelė ir menkai gink­
-    luota. Vis dėlto išdrįsęs grum-
-    Į v e ik ia m ū š y je Skir-
-    tis atvirame mūšyje, turėjo
-    ga ilą
-    po trumpų kautynių skaudžiai
-    užmokėti už savo neapgalvo­
-    tą drąsumą, likdamas toks pat nelaimingas, koks buvo
-    neapdairus; taip jau paprastai dedasi, kad kariaujant
-    neapdairumą neatskiriamai lydi nesėkmė. Netekęs ka­
+    Netekęs ka­
     riuomenės, vargais negalais jis paspruko į Trakus, nors
     vargstančiai tėvynei būtų daugiau pagelbėjęs, likdamas
     kautynių lauke: narsia mirtimi būtų užbaigęs nelaimin­
-    gą valdymą ir Lietuvos bėdas.
+    gą valdymą ir Lietuvos bėdas. Nugalėtojai, išžudę ko­
+    vos lauke visus laikančius rankose ginklą, negalėdami
+    gauti daugel kartų nuniokotuose kaimuose jokio gro­
+    bio, sugrįžo į Prūsiją. Ten
+    N io k o ja  Ž e m a itiją
+    leidęs šiek tiek kariuomenei
+    pailsėti, vėl įsiveržė į Žemai­
+    tiją, kur nuniokojo dvi apygardas, ligi šiol karo nepa­
+    liestas.
   citata_rodoma: "Netekęs ka­\nriuomenės, vargais negalais jis paspruko į Trakus, nors\nvargstančiai tėvynei būtų daugiau pagelbėjęs, likdamas\nkautynių lauke: narsia mirtimi būtų užbaigęs nelaimin­\ngą valdymą ir Lietuvos bėdas. Nugalėtojai, išžudę ko­\nvos lauke visus laikančius rankose ginklą, negalėdami\ngauti daugel kartų nuniokotuose kaimuose jokio gro­\nbio, sugrįžo į Prūsiją. Ten\nN io k o ja  Ž e m a itiją\nleidęs šiek tiek kariuomenei\npailsėti, vėl įsiveržė į Žemai­\ntiją, kur nuniokojo dvi apygardas, ligi šiol karo nepa­\nliestas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-128
+
 - id: c-168472
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5282,16 +5247,14 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Labdarys (Labbdarris)
-    Gera darantis. Tai tam tikri žyniai; jie kerėjimo formulė­
-    mis ir kitomis apgavikiškomis išmonėmis patarinėja įvairiais
-    klausimais, buria, gydo žmones ir gyvulius. Tokie žyniai, mo­
-    kantys pagarsėti, pritraukia lengvatikius iš tolimesnių ir arti­
-    mesnių apylinkių ir patys, be abejo, savęs nenuskriaudžia. Lat­
-    vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
-    Vilkolakis (Wilkats)
-    Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
-    sų rusinai tokį vadina Wolkotak, o lietuviai - Witkatas.
+    Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo
+    metais dar būta burtininkų pėdsakų, priskiria jiems ateities
+    išpranašavimą liejant ištirpintą vašką į šaltą vandenį. Šitaip
+    atsirandančios vaškinės figūros ir įvairūs pavidalai teikia pro­
+    gos juokdariams pripūsti lengvatikių galvas visokių niekų. Me-
+    letijus pažino Prūsijoje moterį, kuriai burtininkas šitaip išpra­
+    našavo, kad jos sūnus nuskęsiąs jūroje -  parodė vaškinį sudu­
+    žusį laivą ir aukštielninką plaukiantį žmogų.
   citata_rodoma: "Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo\nmetais dar būta burtininkų pėdsakų, priskiria jiems ateities\nišpranašavimą liejant ištirpintą vašką į šaltą vandenį. Šitaip\natsirandančios vaškinės figūros ir įvairūs pavidalai teikia pro­\ngos juokdariams pripūsti lengvatikių galvas visokių niekų. Me-\nletijus pažino Prūsijoje moterį, kuriai burtininkas šitaip išpra­\nnašavo, kad jos sūnus nuskęsiąs jūroje -  parodė vaškinį sudu­\nžusį laivą ir aukštielninką plaukiantį žmogų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -5304,15 +5267,15 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    - S. 242) teigia, kad Sapiegų
-    giminės protėvio herbe buvo pavaizduotos trys lelijos. Toliau sako: „Na­
-    rimantas buvo pirmasis, kuris Hipokentaurą pakeitė Vytimi, Giedrai­
-    tis - Rože, Daumantas - Stumbro galva; Gediminas vietoj vieno Stul­
-    po naudojo tris, Kaributas iš pradžių turėjo Erelį su Vytimi, o vėliau -
-    Mėnulį su Kryžiais. Kunigaikščiai Rožinskiai savo herbe pavaizdavo
-    kryžius, kabančius ant medžio kamieno, o kiti, dar prieš Lenkijos ir
-    Lietuvos uniją, savo herbams panaudojo senuosius bajoriškus ženklus,
-    arba, savuosius užleidę, ėmė vartoti naujus “.
+    10)**.
+    400
+
+    ## Puslapis 400
+
+    Prūsijos kronikininkai aprašo tautinį senovės prūsų her­
+    bą, kurio kilmė siekia Vaidevučio laikus6. Skyde pavaizduota
+    pusė prūsišku susegtu švarku apsirengusio žmogaus su lokio
+    galva, pasukta kairėn.
   citata_rodoma: "10)**.\n400\n\n## Puslapis 400\n\nPrūsijos kronikininkai aprašo tautinį senovės prūsų her­\nbą, kurio kilmė siekia Vaidevučio laikus6. Skyde pavaizduota\npusė prūsišku susegtu švarku apsirengusio žmogaus su lokio\ngalva, pasukta kairėn."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -5352,15 +5315,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Mes, sekdami Herodoto žodžiais ir remdamiesi se­
-    novės tyrinėtojų išvadomis, laikome kimbrus kitados Prū­
-    sijoje viešėjusia gentimi, net galėjusia palikti savo kal­
-    bos ir susigiminiavimo su pirmykščiais mūsų Baltijos jū­
-    ros pakrančių gyventojais paminklų. Savo pavadinimą
-    jie įamžino iki šiol išlikusiose pavardėse. Bet tolesnis ty­
-    rinėjimas, įrodantis gerbiamo* istoriko požiūrio nepatva­
-    rumą, nuvestų į šalį nuo mūsų tikslo, tad apsiribosime
-    tiktai keliomis pastabomis.
+    Nereikia ir abejoti, kad ne kimbrai buvo pir­
+    mieji žmonės, kuriuos priglobė lietuvių žemės. Mes net
+    laikysime panašia į tiesą nuomonę, jog šios žemės, ypač
+    esančios arčiau jūros, kaip Prūsija, turėjo savo aborige­
+    nų, arba pirmykščių gyventojų, su kuriais susipažino
+    kimbrai. Skaitytojas kituose šios knygos skyriuose ras
+    smulkesnių šio požiūrio įrodymų.
   citata_rodoma: "Nereikia ir abejoti, kad ne kimbrai buvo pir­\nmieji žmonės, kuriuos priglobė lietuvių žemės. Mes net\nlaikysime panašia į tiesą nuomonę, jog šios žemės, ypač\nesančios arčiau jūros, kaip Prūsija, turėjo savo aborige­\nnų, arba pirmykščių gyventojų, su kuriais susipažino\nkimbrai. Skaitytojas kituose šios knygos skyriuose ras\nsmulkesnių šio požiūrio įrodymų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -5373,15 +5334,16 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    1247 metais jotvin­
-    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
-    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
-    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
-    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
-    čino (dabar Kobrino apskritis). Prie pat šio miesto sienų
-    įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
-    pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
-    gaikštukų.
+    126
+
+    ## Puslapis 124
+
+    čius; jie kovodavo ir su vėliavomis Pamario kunigaikščio
+    Sventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.
+    Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos
+    net ligi Drevantos pelkių, lengvino kariaujančių su vo­
+    kiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko
+    su tam tikromis pertraukomis 1242—1253 metais1.
   citata_rodoma: "126\n\n## Puslapis 124\n\nčius; jie kovodavo ir su vėliavomis Pamario kunigaikščio\nSventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.\nTai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos\nnet ligi Drevantos pelkių, lengvino kariaujančių su vo­\nkiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko\nsu tam tikromis pertraukomis 1242—1253 metais1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -5417,21 +5379,26 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau ne tas Skomantas, kurį lenkų istorikai vadina Ko­
-    modų, vadovavęs 1264 metų birželio 23 dienos mūšyje ir,
-    anot jų, žuvęs, turėjo vadovauti prūsų sukilimui, o 1282
-    ar 1283 metais grįžęs iš Lietuvos, kur buvo pabėgęs, ap­
-    sikrikštijo ir pagaliau davė savo vardą vienam ežerui,
-    esančiam netoli Ario miesto. Veikiau reikėtų daryti išva­
-    dą, jog buvę keli šios Skomantų giminės kariūnai1. Me-
-    chovita maišo jotvingių ir lietuvių kilmę.
+    137
+
+    ## Puslapis 135
+
+    kryžiaus vardu jie medžiojo juos po miškus ir neišbren­
+    damas pelkes tarsi laukinius žvėris. Kruvina šio Ordino
+    politika numatė padaryti Sūduvą visiškai negyvenamą,
+    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
+    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
+    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
+    Raigardo ir Insterburgo Prūsijoje.
   citata_rodoma: "137\n\n## Puslapis 135\n\nkryžiaus vardu jie medžiojo juos po miškus ir neišbren­\ndamas pelkes tarsi laukinius žvėris. Kruvina šio Ordino\npolitika numatė padaryti Sūduvą visiškai negyvenamą,\ntad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į\nkitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­\nvingių, kurių palikuonis Strijkovskis pastebėdavo prie\nRaigardo ir Insterburgo Prūsijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119
+
 - id: c-175502
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5507,15 +5474,12 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-
-    putis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,
-    krante suplakdavęs putą .
-    Girystis (Giristis)
-    Miško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas
-    iš Ksavero Bogušo pastebėjimų. Mūsų kaimiečiai savo pasa­
-    kojimuose jį vadina kitaip - Pušiniu (Pusinas). Latviai jį taip
-    pat vadina Meszu Deews, miškų dievu, arba Meschu Wihrs -
-    miškiniu žmogum.
+    Latviškai Kirpis reiškia kirmi­
+    ną, medžio graužiką, išradėjo vardas virto pavadinimu išrasto
+    daikto, kurį priėmė kaimyninės tautos kalba.
+    Šilinyčius (Syleniczus) yra lietuviškos kilmės, iš Sylla -  šilas;
+    Prūsijos lietuvių kalba Syilenas -  stalius. Todėl šis vardas aiškiai
+    susijęs su kažkokiu mitiniu staliumi, arba stalių dievaičiu.
   citata_rodoma: "Latviškai Kirpis reiškia kirmi­\nną, medžio graužiką, išradėjo vardas virto pavadinimu išrasto\ndaikto, kurį priėmė kaimyninės tautos kalba.\nŠilinyčius (Syleniczus) yra lietuviškos kilmės, iš Sylla -  šilas;\nPrūsijos lietuvių kalba Syilenas -  stalius. Todėl šis vardas aiškiai\nsusijęs su kažkokiu mitiniu staliumi, arba stalių dievaičiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -5701,7 +5665,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116
-    - t-119
     - t-135
 
 - id: c-179393
@@ -5794,7 +5757,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - Užėmė Prūsiją: [[objektai/grupes/Kryžiuočių ordinas]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Inocentas IV]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo žygio kryptis: [[objektai/asmenys/Jonas iš Liuksemburgo]], [[objektai/asmenys/Otonas (Brandenburgo markgrafas)]], [[objektai/asmenys/Popiežius Honorijus II]]
-- Prekiavo su: [[objektai/grupes/Lietuviai]], [[objektai/vietos/Vilnius]]
+- Prekiavo su: [[objektai/grupes/Lietuviai]], Vilnius
 - Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Gyvenamoji vieta: [[objektai/asmenys/Krivis]]
-- Turėjo priklausinį: [[objektai/vietos/Notanga]], [[objektai/vietos/Plikoji Barta]], [[objektai/vietos/Romovė]], [[objektai/vietos/Salavija]], [[objektai/vietos/Užnemunė]]
+- Turėjo priklausinį: Notanga, Plikoji Barta, Romovė, Salavija, Užnemunė

@@ -118,11 +118,19 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-65938"></a>
 - t-003
   teiginys: "Nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, tai yra vakarinių baltų."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Claim tiesiogiai priskiria skalvius vakariniams baltams."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Nadruviai priklausė Baltai (0.83); Skalviai priklausė Baltai (0.83)"
   pagrindžia:
-    - c-66273
+    - c-66266
 
 <a id="claim-t-65939"></a>
 - t-008
@@ -301,19 +309,18 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Mums žinomi
-    jotvingiški vietų ir asmenų vardai turi fonetinių ypatybių, būdingų prūsų kalbai18. Prūsai
-    (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19. Lyginant su rytiniais baltais
-    — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
-    kitos nutolusios. Leksinių bendrumų tarp jotvingių ir lietuvių kalbos žymiai daugiau negu
-    skirtumų.
+    Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
+    baltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,
+    skalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.
   citata_rodoma: "Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių\nbaltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,\nskalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-66267
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -385,11 +392,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    XIII a. viduryje Nadruva priklausė,
-    atrodo, Mindaugo Lietuvai. Čia buvo Romuva (žr. paaiškinimus III, 5, 1).
-    Vardas (Nadruva, Nadrava) kildinamas iš upėvardžio Drava (plg.— Druoja, Priegliaus
-    intakas apie Įsrutį); Drava greičiausiai buvusi apeliatyvas, kurio pagrindinė reikšmė
-    ‘tekėti’.
+    Septinta — Nadruva197, kurioje [gyveno] nadruviai. Aštunta — Skalva198, kurioje [gyveno]
+
+
+
+
+
+      197 D.
   citata_rodoma: "Septinta — Nadruva197, kurioje [gyveno] nadruviai. Aštunta — Skalva198, kurioje [gyveno]\n\n\n\n\n\n  197 D."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -463,7 +472,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-006
 
 - id: c-66274
@@ -504,5 +512,5 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-007
 
 ## Ryšiai
-- Nadruviai puolė [[objektai/vietos/Bysleida]], [[objektai/vietos/Semba]]
-- Nadruviai apgulė [[objektai/vietos/Bysleida]]
+- Nadruviai puolė Bysleida, Semba
+- Nadruviai apgulė Bysleida

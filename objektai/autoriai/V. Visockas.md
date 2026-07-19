@@ -96,18 +96,9 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Įsigalėjęs neigia­
-    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
-    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
-    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
-    Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
-    trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
-    tuvos palikimą. Juk Lietuvos istorija - tai ne vien pagoniškas
-    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
-    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
-    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
-    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
-    tūrinio paveldo arealas.
+    R edaktorių kolegija:
+    E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,
+    A. TYLA] N. VĖLIUS,! V. VISOCKAS
   citata_rodoma: "R edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS"
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

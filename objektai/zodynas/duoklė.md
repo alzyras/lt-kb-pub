@@ -54,9 +54,34 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
 - susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192262|Warejs]]: Teodoro Narbuto perteikimu, Warejs Pretorijaus laikais reiškė vyrą, prievarta renkantį duoklę.
 - susijęs iš Vilniaus Aukštutinė pilis: Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+- c-003
+  santrauka: 'Naugardiečiai kasmet mokėjo Vytautui duoklę auksinais, sunkiaisiais žirgais ir įvairių žvėrių kailiais.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir didysis kunigaikštis Vytautas
+    paskyrė jiems vietininku savo svainį, kunigaikštį Si­
+    moną Alšėniškį, vadinamą Rūsčiuoju 9 .
+    Ir davė naugardiečiai didžiajam kunigaikščiui Vy­
+    tautui kiekvienais metais duoklės po dešimt tūkstančių
+    auksinų 1 0  ir keturias dešimtis sunkiųjų žirgų, kuriuos
+    dabar vadina fryzais, ir keturias dešimtis kailinių, ir
+    devynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių,
+    ir šermuonėlių, ir voverių kailių. Mokėjo naugardie­
+    čiai šitiek į Lietuvos didžiojo kunigaikščio Vytauto
+    iždą kiekvienais metais, o pskoviečiai davė pusė to,
+    ką davė naugardiečiai, tiek auksu ir žirgais, tiek kai­
+    liais ".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-168743
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Galop nugalėję lietuviai išvijo barbarus iš
     stovyklos: galybė priešų krito mūšyje, kur kas dau­
@@ -77,14 +102,19 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
     itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
     valdovui ne tik didesnę pagarbą bei palankumą, bet
     ir pastovesnę ištikimybę.
-  citata_rodoma: ''
+  citata_rodoma: "Galop nugalėję lietuviai išvijo barbarus iš\nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo\nD u o k lės p ra ša n tiem s\nsk ita m s E rd vila s siu n ­\nčia  d v i strė le s\nšaukęs pasiuntinius, jis atsi­\nsakė duoklės, paskelbė karą\nir įteikė jų kunigaikščiui do­\nvaną— dvi strėles. Atleidęs\npasiuntinius, įsakė juos klyst-\n82\n\n## Puslapis 81\n\nitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių\nvaldovui ne tik didesnę pagarbą bei palankumą, bet\nir pastovesnę ištikimybę."
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Naugardiečiai pasižadėjo Vytautui tarnauti, duoti duoklę ir laikyti jį savo valdovu kaip pskoviečiai.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  pagrindzia:
+    - t-001
+
+- id: c-170470
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Pskoviečiai, nebenorėdami,
     kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
@@ -106,70 +136,6 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
     kaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas
     paskyrė jiems vietininku savo svainį, kunigaikštį Si­
     moną Alšėniškį, vadinamą Rūsčiuoju 9 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-168743
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Tuo pat metu miręs Vykin­
-    tas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­
-    lį Erdvilą, tačiau šis, manydamas, jog vieno valdovo
-    per maža skirtingoms valstybėms, kaip per maža vie­
-    nos sielos į dvi dalis padalytam kūnui, be to, norėda­
-    mas atsiteisti už pagalbą, kurios neseniai sulaukė, per­
-    leido Živinbudui visas teises į Žemaitiją. Tačiau neilgai
-    trukus jis susirgo ir pasimirė, vyras, kuris pelnytai
-    priskirtinas prie žymiausių Lietuvos didvyrių.
-    Erdvilui mirus, Naugarduko kunigaikštystę valdyti
-    žemių. Polocko rusai savo valstybės valdymą buvo
-    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
-    permainų priežastis buvo ta, kad per skitų karą buvo
-    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
-    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
-    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
-    savo ištižimą laisvės, kurią iš priešų malonės gavote.
-  citata_rodoma: "Galop nugalėję lietuviai išvijo barbarus iš\nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo\nD u o k lės p ra ša n tiem s\nsk ita m s E rd vila s siu n ­\nčia  d v i strė le s\nšaukęs pasiuntinius, jis atsi­\nsakė duoklės, paskelbė karą\nir įteikė jų kunigaikščiui do­\nvaną— dvi strėles. Atleidęs\npasiuntinius, įsakė juos klyst-\n82\n\n## Puslapis 81\n\nitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių\nvaldovui ne tik didesnę pagarbą bei palankumą, bet\nir pastovesnę ištikimybę."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-170470
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    O Vytauto ka­
-    riuomenėje didžiuoju etmonu buvo kunigaikštis Jonas
-    2adivydas7, Jogailos ir Vytauto brolis8, o kiemo et­
-    monu — ponas Jonas Goštautas9.
-    Kai tie anksčiau minėti etmonai pradėjo rikiuoti
-    žmones, apie tas duobes, kurias jiems vokiečiai iškasė.
-
-    nieko nežinojo, taigi, kariuomenę berikiuodami, di­
-    dieji etmonai — kunigaikštis Jonas Zadivydas ir ponas
-    Sokolas — įkrito į duobes ir nulūžo kojas, labai susi­
-    žeidė ir nuo to mirė; ir ne vien tik etmonai, bet ir dau­
-    gelis karių dėl tų duobių labai nukentėjo.
-    Matydami, kad jų didžiuosius etmonus ištiko nelai­
-    mė, karalius Jogaila ir didysis kunigaikštis Vytautas
-    paskyrė jų vieton du etmonus: vieton Sokolo paskyrė
-    poną Spytką, o Vytautas — poną Joną Goštautą, ir įsa­
-    kė rikiuoti kariuomenes ir ruošti vėliavas mūšiui, o tų
-    klastingų duobių saugotis.
-    Tada tie etmonai, išrikiavę karius, žengė į mūšį,
-    o vokiečiai, šitai matydami, susikovė su jais.
   citata_rodoma: "Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n(07\n\n## Puslapis 103\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą.\nNaugardiečiai, matydami pskoviečius jam pasidavus \nir priėmus jo vietininką, nebenorėdami, kad jų žemė \nnuo didžiojo kunigaikščio Vytauto dar labiau nukentė­\ntų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam \ntarnauti, ir duoklę duoti, ir laikyti ji savo valdovu, \nkaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas \npaskyrė jiems vietininku savo svainį, kunigaikštį Si­\nmoną Alšėniškį, vadinamą Rūsčiuoju 9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

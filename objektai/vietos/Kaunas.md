@@ -1677,21 +1677,22 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 <a id="claim-t-188718"></a>
 - t-016
   teiginys: "Narbutas rašo, kad Kaune tarp pojėzuitinių pastatų buvo senoviniu būdu ir iš senovinių medžiagų sumūryto namo griuvėsiai."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_patikimumas: "priklause -> Kaunas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys namo griuvėsius tiesiogiai lokalizuoja Kaune."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Namas priklausė Kaunas (0.84)"
   pagrindžia:
-    - c-173537
+    - c-171607
 
 <a id="claim-t-190654"></a>
 - t-100
@@ -4484,19 +4485,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Netekęs ka­
-    riuomenės, vargais negalais jis paspruko į Trakus, nors
-    vargstančiai tėvynei būtų daugiau pagelbėjęs, likdamas
-    kautynių lauke: narsia mirtimi būtų užbaigęs nelaimin­
-    gą valdymą ir Lietuvos bėdas. Nugalėtojai, išžudę ko­
-    vos lauke visus laikančius rankose ginklą, negalėdami
-    gauti daugel kartų nuniokotuose kaimuose jokio gro­
-    bio, sugrįžo į Prūsiją. Ten
-    N io k o ja Ž e m a itiją
-    leidęs šiek tiek kariuomenei
-    pailsėti, vėl įsiveržė į Žemai­
-    tiją, kur nuniokojo dvi apygardas, ligi šiol karo nepa­
-    liestas. Atėjo žiema, vis dėlto lietuviams ji nebuvo nė
+    Atėjo žiema, vis dėlto lietuviams ji nebuvo nė
     kiek ne ramesnė kaip vasara, nes Vytautas nevengė iš­
     puolių ir iš žiemos stovyklos.
     Kadangi Kaunas Neries ir
@@ -4509,7 +4498,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     žiemą, užšalus vandenims, be
     vargo apsupamas, todėl Vytautas, tikėdamasis jį pa­
     imti, priėjo tylomis miškais ir netikėtai pasirodė su ka­
-    riuomene prie pylimo.
+    riuomene prie pylimo. Pilį ir miestą, smarkiai įtvirtin­
+    tus, gynė stambios lietuvių bei lenkų samdytinių įgulos.
   citata_rodoma: "Atėjo žiema, vis dėlto lietuviams ji nebuvo nė\nkiek ne ramesnė kaip vasara, nes Vytautas nevengė iš­\npuolių ir iš žiemos stovyklos.\nKadangi Kaunas Neries ir\nN e s ė k m in g a i m ė g in a\nNemuno\nsantakoje\nvasarą\np u lti K au n ą\nsunkiau prieinamas, tuo tarpu\nžiemą, užšalus vandenims, be\nvargo apsupamas, todėl Vytautas, tikėdamasis jį pa­\nimti, priėjo tylomis miškais ir netikėtai pasirodė su ka­\nriuomene prie pylimo. Pilį ir miestą, smarkiai įtvirtin­\ntus, gynė stambios lietuvių bei lenkų samdytinių įgulos."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -4549,16 +4539,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kodėl gi jie turėtų nurimti nepaėmę į savo rankas visų
-    Lietuvos žemių? Su tokiu įniršiu daugybę metų kovoję,
-    kol lietuvių padėtis buvusi tvirta, negi jie dabar sėdės
-    sudėję rankas, kai Lietuva beveik jau užkariauta? Kaip
-    jie išsaugos Europoje riterių vardą, jeigu, čia sudarę
-    taiką su lenkais, o ten — su lietuviais, leis rūdyti ka­
-    lavijams? Tegu tik parodo ryžtą, tegu tik pašaukia į
-    kovą, be abejonės, Jogaila ir Vytautas, kurie visai ne­
-    seniai, bijodami karo, atidavė Žemaitiją, greitosiomis
-    užleisią ir visą Lietuvą.
+    Vis dėlto radosi ir tokių, kurie, norėdami nu­
+    malšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad
+    pačioje pradžioje užgesintų įsiliepsnojančią ir bemaž
+    jau įsiplieskiančią karo ugnį. Susitaręs su Vytautu, Jo­
+    gaila, dėdamasis turįs visai kitų ketinimų, atvyko į
+    Kauną. Nelyginant į vaišes čia pasikvietė kryžiuočių
+    vadovus.
   citata_rodoma: "Vis dėlto radosi ir tokių, kurie, norėdami nu­\nmalšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad\npačioje pradžioje užgesintų įsiliepsnojančią ir bemaž\njau įsiplieskiančią karo ugnį. Susitaręs su Vytautu, Jo­\ngaila, dėdamasis turįs visai kitų ketinimų, atvyko į\nKauną. Nelyginant į vaišes čia pasikvietė kryžiuočių\nvadovus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -4573,15 +4560,18 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    T. Narbutas Lietuvoje suranda ir antikinio mito apie Plu­
-    tono pagrobtą Demetros dukterį Persefonę atitikmenį. Visiš­
-    kai panašų „pasakojimą“ jis nugirsta Raseinių apskrityje, Pa­
-    švenčio apylinkėse. Šio „pasakojimo“ svarbiausi veikėjai pasi­
-    rodo besą M. Strijkovskio, K. Hartknocho ir kitų minimas po­
-    žemio dievas Poklius (lietuviškasis Plutonas), M. Strijkovskio
-    minima Krūminė (lietuviškoji Demetra) ir paties T. Narbuto
-    surasta jų duktė Nijolė (Persefonė). Surandama ir moneta,
-    iliustruojanti šį „pasakojimą“.
+    Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­
+    da davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo
+    nimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi
+    16
+    Žr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -
+    V., 1968.-T. I.-P. 1118.
+    31
+
+    ## Puslapis 31
+
+    Aleksotu, tai dainas, kuriose apdainuojamas lietuviškosios
+    Aleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse.
   citata_rodoma: "Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­\nda davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo\nnimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi\n16\nŽr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -\nV., 1968.-T. I.-P. 1118.\n31\n\n## Puslapis 31\n\nAleksotu, tai dainas, kuriose apdainuojamas lietuviškosios\nAleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -4621,16 +4611,11 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Perrašau jį ištisai, ka­
-    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
-    nepaprasto grožio vienatinę dukterį. Kartą pavasarį ji norėjo
-    pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro
-    karalienės rūmų langą pamatė žydinčias Rasos (Ross) upės
-    pakrantėje; tuo tikslu ji nepastebėta išbėgo iš rūmų. Vienas
-    gražiausių pavasario žiedų, tarytum augantis prie pat kranto,
-    pasirodė esąs vidury upės; jį lengvai supo tekantis vanduo, pa­
-    dvigubindamas žiedo grožį nuostabių spalvų švytėjimu, lyg tai
-    būtų buvę brangakmeniai.
+    Remdamasis šio rankraščio aprašymu, dai­
+    lininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.
+    Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
+    nas man papasakojo gerbiamas profesorius ponas Laurinavi­
+    čius.
   citata_rodoma: "Remdamasis šio rankraščio aprašymu, dai­\nlininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.\nKaune buvo rastas tos deivės stabas. Šio atradimo smulkme­\nnas man papasakojo gerbiamas profesorius ponas Laurinavi­\nčius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -4643,12 +4628,11 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Senė, vadinama Upine, tomis apei­
-    gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
-    domosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos
-    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
-    šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
-    ris dėl to iki šiol neprarado gydomojo poveikio.
+    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
+    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
+    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
+    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
+    vieną šventę, ypač per šv.
   citata_rodoma: "Man pasisekė toks tyrimas. Kairiajame Nemuno krante,\ntarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­\nžiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise\nvadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­\nvieną šventę, ypač per šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -4707,18 +4691,21 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šį die­
-    vaitį garbino visiškai taip pat, kaip slavų Pokuitį, skirtumas tik
-    tas, kad vieta jam būdavo skiriama ne kampe, kaip Rusioje,
-    kur ir dabar kabinami šventieji paveikslai, bet virš slenksčio, o
-    jeigu lūšnelė apšildoma be kamino, išvesto per stogą, tai iš
-    lauko pusės virš prieangio durų. Tačiau nesame tikri, kaip tas
-    dievaitis buvo vaizduojamas; atrodo, tai buvo įpjautas medyje
-    arba lentelėje tam tikras ženklas arba mitinis hieroglifas.
-    Slenkstis lietuviškai yra Slymcnis, arba, kitų tarimu, Smirvcnis.
-    Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
-    patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­
-    kas laikoma Dievo įžeidimu3.
+    Taip pat pasako­
+    ja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­
+    tykla arba aukuras, skirtas meilės dievybėms.
+    159
+
+    ## Puslapis 159
+
+    Iš šių pastebėjimų reikia daryti išvadą, kad pats Kauno
+    miestas pavadinimą gavo veikiau nuo dievaičio Kaunio, o ne
+    nuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto
+    įkūrėjas. Neneigdami šios istoriko žinios, privalome pažymė­
+    ti, kad tikėjimas čia minimą dievaitį buvo senesnis už kuni­
+    gaikščio laikus; vietovės didžiųjų upių santakose turėjo būti
+    daug anksčiau apgyventos, jose visur buvozdievų prieglobs­
+    čiai.
   citata_rodoma: "Taip pat pasako­\nja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­\ntykla arba aukuras, skirtas meilės dievybėms.\n159\n\n## Puslapis 159\n\nIš šių pastebėjimų reikia daryti išvadą, kad pats Kauno\nmiestas pavadinimą gavo veikiau nuo dievaičio Kaunio, o ne\nnuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto\nįkūrėjas. Neneigdami šios istoriko žinios, privalome pažymė­\nti, kad tikėjimas čia minimą dievaitį buvo senesnis už kuni­\ngaikščio laikus; vietovės didžiųjų upių santakose turėjo būti\ndaug anksčiau apgyventos, jose visur buvozdievų prieglobs­\nčiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -4733,16 +4720,14 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tačiau nesame tikri, kaip tas
-    dievaitis buvo vaizduojamas; atrodo, tai buvo įpjautas medyje
-    arba lentelėje tam tikras ženklas arba mitinis hieroglifas.
-    Slenkstis lietuviškai yra Slymcnis, arba, kitų tarimu, Smirvcnis.
-    Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
-    patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­
-    kas laikoma Dievo įžeidimu3. Jie turi tokią papročių taisyklę:
-    „Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų
-    slenksčio, nedaryk jam skriaudos, nes virš tavęs kybos amži­
-    nas Dievo pyktis.
+    Neneigdami šios istoriko žinios, privalome pažymė­
+    ti, kad tikėjimas čia minimą dievaitį buvo senesnis už kuni­
+    gaikščio laikus; vietovės didžiųjų upių santakose turėjo būti
+    daug anksčiau apgyventos, jose visur buvozdievų prieglobs­
+    čiai. Taip pat Kaunio vardas labiau už Kūno panašesnis į pa­
+    vadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos).
+    Senovės romėnų vienas iš Kupidono pavadinimų taip pat
+    buvo Caunius.
   citata_rodoma: "Neneigdami šios istoriko žinios, privalome pažymė­\nti, kad tikėjimas čia minimą dievaitį buvo senesnis už kuni­\ngaikščio laikus; vietovės didžiųjų upių santakose turėjo būti\ndaug anksčiau apgyventos, jose visur buvozdievų prieglobs­\nčiai. Taip pat Kaunio vardas labiau už Kūno panašesnis į pa­\nvadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos).\nSenovės romėnų vienas iš Kupidono pavadinimų taip pat\nbuvo Caunius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -4757,14 +4742,12 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pirmąjį būdavo galima
-    pastebėti tik danguje prieš griaustinį, ir jis yra vadinamas „Jessa “,
-    o antrąjį galima matyti tik su savo strėlėmis, tai yra žaibais, besi­
-    vejantį blogį. Pastarasis dievas buvo vadinamas Perkūnu, o sla­
-    viškai - Perimu. Lietuvių mitologijoje „Jessa “ nėra. Vadinasi, bu­
-    vo tik Jupiteris, turėjęs antrąją ypatybę*.
-    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
-    piorunkomis (Piorunki).
+    Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­
+    suomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę
+    iš Rytų. Tokia buvo ir pono Kosakovskio nuomonė: tai buvęs
+    Kauno miesto dievas-globėjas, apie ką byloja jo karūna. Trys
+    žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­
+    kančias upes: Nerį, Nemuną ir Nevėžį.
   citata_rodoma: "Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­\nsuomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę\niš Rytų. Tokia buvo ir pono Kosakovskio nuomonė: tai buvęs\nKauno miesto dievas-globėjas, apie ką byloja jo karūna. Trys\nžuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­\nkančias upes: Nerį, Nemuną ir Nevėžį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -4777,14 +4760,11 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Už riterio galvos yra ženklas „O“, virš
-    kurio - žvėries letena ir ženklas „I“. Tuo tarpu virš jo galvos ir
-    nugaros trys ženklai „DIO“, nutolę vienas nuo kito dideliu atstu­
-    mu. Abiejose pusėse yra perlų apvadas, atitrauktas kiek nuo
-    krašto.
-    Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­
-    tai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­
-    kalta tokiu pat stiliumi kaip gerais Romos cezarių laikais.
+    Si moneta yra senesnė už mūsų turimą.
+    Senovinė lietuviška moneta, rasta prie Kauno (buvo aptikta
+    ir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau
+    nukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir
+    kažkokia neaiški raidė.
   citata_rodoma: "Si moneta yra senesnė už mūsų turimą.\nSenovinė lietuviška moneta, rasta prie Kauno (buvo aptikta\nir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau\nnukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir\nkažkokia neaiški raidė."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -4799,14 +4779,10 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie šio pavadinimo pras­
-    me kalbėjome straipsnyje „Šventieji medžiai. Ąžuolas“. Kadangi
-    aptinkame senovinę taip besivadinančią vietovę pirmykštėje lie-
-    luvių prosenelių tėvynėje, kurios praeitis apima penketą amžių
-    iki Kristaus gimimo5, todėl seniausios lietuvių genties tautos pra­
-    nokėjų šventyklos vietą nukeliame į Ukrainą, prie Psiolo upės, į
-    dešinįjį jos krantą, prie Romnos upės žiočių, kur ir dabar yra
-    miestelis, vadinamas Romnais (Romne).
+    Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
+    takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­
+    se ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo
+    šventi miškeliai, daugiau ar mažiau garsūs.
   citata_rodoma: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­\ntakos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­\nse ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo\nšventi miškeliai, daugiau ar mažiau garsūs."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -4819,28 +4795,24 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Dėl šios priežasties galėjo būti, kad ir Romovė prie Dvi-
-    upio ežero, apie kurį kalbėjome straipsnyje „Šventieji ežerai“,
-    kurį laiką buvo didelė šventykla.
-    Tikrojoje Lietuvoje yra taip pat kitų vietovių, turinčių to­
-    kius arba panašius pavadinimus; jeigu jie nėra kilę iš kokio
-    nors rusino Romano, gyvenvietės įkūrėjo, kaip tai ir Rusioje
-    pastebima (krikščionys rusai dažnai vartodavo tą vardą), tai
-    reikia daryti išvadą, kad XIII amžiuje tenai kada nors galėjo
-    būti vyriausiojo žynio buveinė. Pačiuose Prūsuose yra panašių
-    vietų, kurių suskaičiuojama iki šešeto, o Hartknochas veltui
-    kamuojasi su jomis nežinodamas, kurią laikyti tikrąja Romo-
-    ve; mat tie pavadinimai galėjo atsirasti dėl įvairių krašto nuti­
-    kimų, kurie galėjo paskatinti vyriausiuosius žynius apleisti vieną
-    vietą ir perkelti savo buveinę į kitą ir kartu įkurti naują šven­
-    tyklą.
+    268
+
+    ## Puslapis 268
+
+    puikiais statiniais9 10 1, kurių buvo Prūsijoje, kol kryžiuočiai su­
+    griovė.
+    Kaune tarp kitų pojėzuitinių pastatų yra ir namo, sumūryto
+    senoviniu būdu ir iš senovinių medžiagų, griuvėsiai. Pasakoja­
+    ma, jog tai būta lietuvių dievui Perkūnui skirtos šventovės.
   citata_rodoma: "268\n\n## Puslapis 268\n\npuikiais statiniais9 10 1, kurių buvo Prūsijoje, kol kryžiuočiai su­\ngriovė.\nKaune tarp kitų pojėzuitinių pastatų yra ir namo, sumūryto\nsenoviniu būdu ir iš senovinių medžiagų, griuvėsiai. Pasakoja­\nma, jog tai būta lietuvių dievui Perkūnui skirtos šventovės."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
 - id: c-173537
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -4861,7 +4833,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
     - t-100
 
 - id: c-175440
@@ -5153,5 +5124,5 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - Apgulė Kauną: [[objektai/grupes/Kryžiuočių ordinas]]
 - Užėmė Kauną: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/grupes/Vokiečiai]]
 - Gynė Kauną: [[objektai/grupes/Lenkai]]
-- Turėjo priklausinį: [[objektai/vietos/Karo muziejaus sodelis]], [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune]], [[objektai/daiktai/Prisikėlimo bažnyčia Kaune]], [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
+- Turėjo priklausinį: Karo muziejaus sodelis, [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune]], [[objektai/daiktai/Prisikėlimo bažnyčia Kaune]], [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - Kaunas priklausė [[objektai/grupes/Hanza]]

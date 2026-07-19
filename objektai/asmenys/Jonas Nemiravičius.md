@@ -47,10 +47,12 @@ media_all_json: |-
   pagrindžia:
     - c-169577
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Žygimantas pasiuntė Joną Nemiravičių pranešti karaliui, kad Boleslovas išvytas iš Lietuvos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169577
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Čia šiaip ne taip
     U žim a  R u sią
@@ -65,38 +67,6 @@ media_all_json: |-
     vėliau į kelią leidosi kiti pasiuntiniai, kurie turėjo pa­
     pasakoti senatui, kas ir kaip čia dėjosi, ir pareikalauti
     paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169577
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Mat Boleslovas dėl tiesiog neįtikimo žiauru­
-    mo atstūmė beveik visus nuo savęs ir galop užsitraukė
-    ypatingą neapykantą tų, kurie, kilę iš seniausių lietu­
-    vių šeimų, negalėjo pakęsti, kad jis, pataikaudamas sa­
-    vo žmonai rusei, Tverės kunigaikščio dukteriai, skyrė
-    žymiausias pareigybes beveik vien maskvėnams bei
-    rusams. Kai Žygimantas, išvykęs iš Seversko, pasiekė
-    Lietuvą, neraginami suplaukė pas jį didikai bei bajo­
-    rai, iš kurių netrukus susidarė tikra kariuomenė. Žy­
-    gimantas nutarė, skubiai ir slaptai ištraukus į žygį,
-    užklupti Boleslovą Ašmenoje, kur šis nerūpestingai lei­
-    do laiką, čia jį suimti ir pasiųsti karaliui. Tačiau Tra­
-    kų vaivada Jonas Manvydas, gavęs iš vieno žmogaus
-    žinią apie Žygimanto ketini-
-    B o le slo v a s
-    B vitrig a i-
-    mus, įspėjo Boleslovą apie
-    la p a b ė g a iš L ietu-
-    gresiantį pavojų.
   citata_rodoma: "Čia šiaip ne taip\nU žim a  R u sią\natgavęs kvapą, patraukė, ru­\nsų padedamas, į savo pusę\nPolocko bei Kijevo žemes ir pasiskelbė Rusios kuni­\ngaikščiu. Žygimantas, beveik be kovos laimėjęs karą,\npaėmė be kraujo praliejimo į savo rankas Vilnių, Tra­\nkus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun­\ntęs Joną Nemiravičių, pareiškė karaliui pagarbą ir\npranešė, kad Boleslovas išvytas iš Lietuvos. Truputį\nvėliau į kelią leidosi kiti pasiuntiniai, kurie turėjo pa­\npasakoti senatui, kas ir kaip čia dėjosi, ir pareikalauti\npaskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

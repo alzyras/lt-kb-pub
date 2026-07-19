@@ -102,11 +102,7 @@ Nenurodyta
   puslapiai: "p. 68 (PDF 66)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 68 (PDF 66)."
   citata_originali: |
-    Pramogos užtekdavo keliems rytams.
-    Kitą
-    sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuve“ .
-    Iš to Juozas pasigavo ir sako: „Žiūrėkite, kas jai galvoje, mat, „prikel-
-    tuvė“ .
+    Pramogos užtekdavo keliems rytams. Kitą sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuvė“ . Iš to Juozas pasigavo ir sako: „Žiūrėkite, kas jai galvoje, mat, „prikeltuvė“ .
   citata_rodoma: "Pramogos užtekdavo keliems rytams. Kitą sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuvė“ . Iš to Juozas pasigavo ir sako: „Žiūrėkite, kas jai galvoje, mat, „prikeltuvė“ ."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

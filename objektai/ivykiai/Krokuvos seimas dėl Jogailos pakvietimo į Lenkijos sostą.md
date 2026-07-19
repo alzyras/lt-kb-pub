@@ -7,13 +7,13 @@ datos:
   - '1385 m.'
 date_start: '1385'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - seimas
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -133,6 +133,27 @@ Nenurodyta
   pagrindžia:
     - c-169942
 
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Lenkijos didikų ir bajorų seimas, kuriame buvo nutarta kvies­
+    ti Lietuvos didįjį kunigaikšti Jogailą į Lenkijos sostą, buvo ne
+    Petrakave, o Krokuvoje 1385 m. birželio ar liepos mėn. Prieš jį
+    1385 m. vasario 18 d. | Krokuvą Jogailos ir Jadvygos vedybų rei­
+    kalu buvo atvykusi Jogailos atstovi) delegacija, vadovaujama Jo­
+    gailos brolio Skirgailos. 1385 m. kovo mėn. pradžioje Lietuvos
+    delegacija buvo nuvykusi | Vengriją, kur gavo oficialų Jadvygos
+    motinos Elžbietos sutikimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+    - t-001
+    - t-004
+
 ## Citatos
 
 - id: c-169942
@@ -142,9 +163,9 @@ Nenurodyta
   citata_originali: |
     Lenkijos didikų ir bajorų seimas, kuriame buvo nutarta kvies­
     ti Lietuvos didįjį kunigaikšti Jogailą į Lenkijos sostą, buvo ne
-    Petrakave, o Krokuvoje 1385 m. birželio ar liepos mėn. Prieš jį
+    Petrakave, o  Krokuvoje 1385 m. birželio ar liepos mėn. Prieš jį
     1385 m. vasario 18 d. | Krokuvą Jogailos ir Jadvygos vedybų rei­
-    kalu buvo atvykusi Jogailos atstovi) delegacija, vadovaujama Jo­
+    kalu buvo atvykusi Jogailos atstovi) delegacija, vadovaujam a Jo­
     gailos brolio Skirgailos. 1385 m. kovo mėn. pradžioje Lietuvos
     delegacija buvo nuvykusi | Vengriją, kur gavo oficialų Jadvygos
     motinos Elžbietos sutikimą.

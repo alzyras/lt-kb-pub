@@ -47,12 +47,9 @@ media_all_json: |-
   pagrindžia:
     - c-170287
 
-## Citatos
-
-- id: c-170287
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Tačiau iš viso Žemaitijos ir karų su kry­
     žiuočiais istorijai pažinti Bychovco kronika yra men­
@@ -64,6 +61,23 @@ media_all_json: |-
     Lietuvos valstybės santykiai su totorių ordomis dau­
     giausia už.kliudomi legendinėje dalyje, kur visi mūšiai
     baigiasi lietuvių pergalėmis, o taip pat Aleksandro vai-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-170287
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Kalbant apie LDK santykius su Rusų valstybe, labai
+    iškeliamas Vytauto pranašumas savo žento Vasilijaus,
+    Maskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­
+    garduko feodalinių respublikų atžvilgiu.
   citata_rodoma: "Kalbant apie LDK santykius su Rusų valstybe, labai \niškeliamas Vytauto pranašumas savo žento Vasilijaus, \nMaskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­\ngarduko feodalinių respublikų atžvilgiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

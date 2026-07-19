@@ -89,10 +89,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   puslapiai: "p. 157 (PDF 155)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 157 (PDF 155)."
   citata_originali: |
-    — Gi kiek ėmė praėjusius metus, tiek ims ir ateinančius — pen­
-    kiolika rublių.
-    — Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasuki­
-    nės — atsiliepė pirmą sykį Grigoras.
+    — Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras.
   citata_rodoma: "— Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
@@ -108,17 +105,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   puslapiai: "p. 158 (PDF 156)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 158 (PDF 156)."
   citata_originali: |
-    Čia gavai
-    berną,
-    davei
-    „ant rankos“
-    — čia tau vėl at­
-    sakė,
-    grąžino rankpinigius.
-    Iš to susidėjo patarlė:
-    „Kalėdos —
-    visos bėdos“ . Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos
-    padarė, atsiprašant, kažin ką.
+    Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką.
   citata_rodoma: "Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
@@ -134,15 +121,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   puslapiai: "p. 156 (PDF 154)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 156 (PDF 154)."
   citata_originali: |
-    Apsidraudę vietoje irgi eina: tiems reikia gir­
-    dėti naujienų, kas liko vietoje, kas ne. Vieni stovi, kiti pro juos slan­
-    kioja iš kertės
-    į kertę, iš kambariuko
-    Į kambariuką, viens kitą
-    klausinėja.
-    Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja
-    pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta deg­
-    tinėlę.
+    Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta degtinėlę.
   citata_rodoma: "Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta degtinėlę."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"

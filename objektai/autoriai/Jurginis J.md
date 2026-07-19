@@ -79,19 +79,6 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   pagrindžia:
     - c-65329
 - susijęs iš Lietuvos TSR istorija: „Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
-    J., Pagonybės..., p. 107).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-65327
@@ -122,10 +109,8 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    207  D. nobilis, Jer.— di hêren. Kilmingųjų (t. y. garsios giminės vyrų — viros preclaros
-    genere — III, 100) terminu D. apibūdina to meto prūsų ir lietuvių visuomenės socialines
-    viršūnes (III, 7, 21, 122, 220, 259, 318, 332 ir kt.); taip pat vadinami ir Lenkijos (II, 3;
-    III, 357), Vokietijos, Anglijos (III, 327, 348; IV, 52; Papildymai, 9) feodalai.
+    Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
+    J., Pagonybės..., p. 107).
   citata_rodoma: "Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis\nJ., Pagonybės..., p. 107)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

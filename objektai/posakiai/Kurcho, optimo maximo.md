@@ -77,23 +77,6 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   pagrindžia:
     - c-174995
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoras Narbutas užrašą „optimo maximo“ lygino su romėniška formule IOVI OPTIMO MAXIMO ir Jaruvito skydo užrašu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    O tai yra toks pat užrašas kaip
-    ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
-    MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
-    skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
-    maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
-    tojo kaip diplomatinę kalbą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174993
@@ -101,14 +84,12 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ponas Tadas Vo­
-    lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
-    rašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1
-    lenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —
-    R. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­
-    kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
-    Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
-    kalu.
+    O tai yra toks pat užrašas kaip
+      ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
+      MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
+      skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
+      maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
+      tojo kaip diplomatinę kalbą.
   citata_rodoma: "O tai yra toks pat užrašas kaip\n  ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO\n  MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito\n  skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo\n  maximo Jurowito\". Lotynų kalbą slavai venedai ir lietuviai var­\n  tojo kaip diplomatinę kalbą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

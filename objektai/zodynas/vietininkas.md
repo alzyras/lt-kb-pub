@@ -12,11 +12,11 @@ datos:
   - '2026 m.'
 date_start: '1128'
 date_end: '2026'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XII'
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,7 +45,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 <a id="claim-t-176250"></a>
 - t-017
   teiginys: "Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "paskyre -> Skirgaila: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -191,7 +191,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 <a id="claim-t-176266"></a>
 - t-016
   teiginys: "Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilniaus gyventojai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -476,6 +476,62 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - susijęs iš [[objektai/zodynas/Kamarninkas.md#claim-t-28555|Kamarninkas]]: Ordino kamarninkai Žemaičiuose vėl ėmė matuoti laukus ir surašinėti gyventojus.
 - susijęs iš [[objektai/zodynas/landkomtūras.md#claim-t-58912|landkomtūras]]: Popiežius Celestinas III paskyrė septynis Teutonų ordino brolius landkomtūrais, arba provincijų valdytojais.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-184639|tėvonija]]: Jogaila Vitebsko žemę pasiliko sau kaip tėvonijos dalį, nors Algirdas ją buvo prijungęs prie Lietuvos valstybės.
+## Reikšmingi paminėjimai
+- c-013
+  santrauka: 'Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gediminas, be kovos
+    užėmęs Lucką ir artimiausias pilis, atsiėmęs Drohičiną
+    ir Brestą, visą kraštą, ką tik iš priešo išplėštą, prijun­
+    gė prie Lietuvos valdų, palikdamas lietuvių įgulas ir
+    vietininkus. Išsiuntęs kariuomenę į žiemos stovyklą,
+    pats žiemą praleido Breste, gal norėdamas, kaip ki­
+    tiems sakėsi, laimėtų žemių reikalus geriau sutvarkyti,
+    o gal ketindamas asmeniškai rengtis, kaip ir darė, nau­
+    jam karui. Žiemą telkė kariuomenę ir rūpinosi tieki-
+    kantraudami laukė, kuria kryptimi smogs naują smū­
+    gį, sutraukta Gedimino kariuomenė perėjo Vladimiro
+    ir Lucko žemes, nedarydama čia, sąjungininkų valdo­
+    se, niekam skriaudų ir priartėjo prie Ovručo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-034
+
+- c-017
+  santrauka: 'Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Numatė vokie­
+    čiai, kad lenkai ir lietuviai su tokia daugybe kariuo­
+    menės niekur kitur negalės išsirikiuoti, kaip tik šiame
+    lauke, ir todėl prikasė duobių ir pridengė velėnomis,
+    kad žirgai ir žmonės į jas įgriūtų3.
+    Karalius Jogaila ir didysis kunigaikštis Vytautas, su
+    savo kariuomenėmis perėję per miškus, priėjo tuos
+    Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
+    didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo
+    etmonu 5 — ponas Spytka Spytkovičius 6. O Vytauto ka­
+    riuomenėje didžiuoju etmonu buvo kunigaikštis Jonas
+    2adivydas7, Jogailos ir Vytauto brolis8, o kiemo et­
+    monu — ponas Jonas Goštautas9.
+    Kai tie anksčiau minėti etmonai pradėjo rikiuoti
+    žmones, apie tas duobes, kurias jiems vokiečiai iškasė.
+
+    nieko nežinojo, taigi, kariuomenę berikiuodami, di­
+    dieji etmonai — kunigaikštis Jonas Zadivydas ir ponas
+    Sokolas — įkrito į duobes ir nulūžo kojas, labai susi­
+    žeidė ir nuo to mirė; ir ne vien tik etmonai, bet ir dau­
+    gelis karių dėl tų duobių labai nukentėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-37967
@@ -789,7 +845,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   puslapiai: "PDF 198"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 198."
   citata_originali: |
-    Gediminas, be kovos
+    Todėl, net nepabandęs laimės kovos lauke, kuo
+    greičiausiai pabėgo į Severską. Gediminas, be kovos
     užėmęs Lucką ir artimiausias pilis, atsiėmęs Drohičiną
     ir Brestą, visą kraštą, ką tik iš priešo išplėštą, prijun­
     gė prie Lietuvos valdų, palikdamas lietuvių įgulas ir
@@ -797,11 +854,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     pats žiemą praleido Breste, gal norėdamas, kaip ki­
     tiems sakėsi, laimėtų žemių reikalus geriau sutvarkyti,
     o gal ketindamas asmeniškai rengtis, kaip ir darė, nau­
-    jam karui. Žiemą telkė kariuomenę ir rūpinosi tieki-
-    kantraudami laukė, kuria kryptimi smogs naują smū­
-    gį, sutraukta Gedimino kariuomenė perėjo Vladimiro
-    ir Lucko žemes, nedarydama čia, sąjungininkų valdo­
-    se, niekam skriaudų ir priartėjo prie Ovručo.
+    jam karui.
   citata_rodoma: "Todėl, net nepabandęs laimės kovos lauke, kuo\ngreičiausiai pabėgo į Severską. Gediminas, be kovos\nužėmęs Lucką ir artimiausias pilis, atsiėmęs Drohičiną\nir Brestą, visą kraštą, ką tik iš priešo išplėštą, prijun­\ngė prie Lietuvos valdų, palikdamas lietuvių įgulas ir\nvietininkus. Išsiuntęs kariuomenę į žiemos stovyklą,\npats žiemą praleido Breste, gal norėdamas, kaip ki­\ntiems sakėsi, laimėtų žemių reikalus geriau sutvarkyti,\no gal ketindamas asmeniškai rengtis, kaip ir darė, nau­\njam karui."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -902,27 +955,25 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   puslapiai: "PDF 104-105"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 104-105."
   citata_originali: |
-    Numatė vokie­
-    čiai, kad lenkai ir lietuviai su tokia daugybe kariuo­
-    menės niekur kitur negalės išsirikiuoti, kaip tik šiame
-    lauke, ir todėl prikasė duobių ir pridengė velėnomis,
-    kad žirgai ir žmonės į jas įgriūtų3.
-    Karalius Jogaila ir didysis kunigaikštis Vytautas, su
-    savo kariuomenėmis perėję per miškus, priėjo tuos
-    Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
-    didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo
-    etmonu 5 — ponas Spytka Spytkovičius 6. O Vytauto ka­
-    riuomenėje didžiuoju etmonu buvo kunigaikštis Jonas
-    2adivydas7, Jogailos ir Vytauto brolis8, o kiemo et­
-    monu — ponas Jonas Goštautas9.
-    Kai tie anksčiau minėti etmonai pradėjo rikiuoti
-    žmones, apie tas duobes, kurias jiems vokiečiai iškasė.
+    Didysis kunigaikštis Vytautas, sutelkęs visas savo
+    pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis
+    mėnesius prie Porchovo miesto3  ir, nepaėmęs miesto,
+    nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
+    gindamas ir imdamas nelaisvėn * .
+    Sekančiais metais didysis kunigaikštis Vytautas išsi­
+    rengė prieš Pskovo miestą5  ir paėmė Pskovo miestus
+    Veližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami,
+    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
+    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
+    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
+    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
+    (07
 
-    nieko nežinojo, taigi, kariuomenę berikiuodami, di­
-    dieji etmonai — kunigaikštis Jonas Zadivydas ir ponas
-    Sokolas — įkrito į duobes ir nulūžo kojas, labai susi­
-    žeidė ir nuo to mirė; ir ne vien tik etmonai, bet ir dau­
-    gelis karių dėl tų duobių labai nukentėjo.
+    ## Puslapis 103
+
+    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
+    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
+    žygiavo prieš Naugardą.
   citata_rodoma: "Didysis kunigaikštis Vytautas, sutelkęs visas savo \npajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis \nmėnesius prie Porchovo miesto3  ir, nepaėmęs miesto, \nnuėjo per Naugardo ir Pskovo žemę niokodamas, de­\ngindamas ir imdamas nelaisvėn * .\nSekančiais metais didysis kunigaikštis Vytautas išsi­\nrengė prieš Pskovo miestą5  ir paėmė Pskovo miestus \nVeližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n(07\n\n## Puslapis 103\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

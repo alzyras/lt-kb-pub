@@ -14,13 +14,13 @@ datos:
   - '2026 m.'
 date_start: '1251'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -104,7 +104,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 <a id="claim-t-173695"></a>
 - t-002
   teiginys: "1569 m. Liubline galutinai nustatyti abiejų tautų tarpusavio valstybiniai santykiai."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -537,6 +537,55 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86443|žiogriai statinių tvoros palisadai]]: Vilniaus miesto centro aikštė buvo apstatyta prekijų krautuvėlėmis ir nuo kryžiuočių antpuolių apjuosta statinių tvoromis.
 - susijęs iš [[objektai/asmenys/Pavlikas.md#claim-t-87819|Pavlikas]]: Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui.
 - susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-199229|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotų rusų žemių.
+## Reikšmingi paminėjimai
+- c-007
+  santrauka: 'Lenkai ginklu siekė atsiimti iš rusų Liubliną, kurio, pasak Kojelavičiaus, buvo netekę prieš penkiasdešimt septynerius metus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat len­
+    kai ginklu stengėsi iš rusų at­
+    siimti Liubliną, kurio buvo
+    netekę prieš penkiasdešimt
+    septynerius metus. Abi pusės
+    sutelkė šiam karui didžiules
+    kariuomenes, ypač rusai, ku­
+    rie pagalbon buvo pasikvietę skitus ir lietuvius. Mūšį
+    laimėjo lenkai. Kadangi rusai, surikiavę kariuomenę
+    pusmėnuliu, labai į šalis išskleidė sparnus, o vidurį su­
+    silpnino, lenkai, sutelkę vienoje vietoje karius nelygi­
+    nant kumštį, be galo lengvai sunkiaisiais raiteliais pra­
+    laužė rikiuotės vidurį ir atvėrė kelią į pergalę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-010
+
+- c-010
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3.
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \ o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5. Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6 dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7, Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ®, o didysis kunigaikštis Aleksandras — į Vilnių9.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-05658
@@ -666,19 +715,27 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   puslapiai: "PDF 180"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 180."
   citata_originali: |
-    Mat len­
+    Po
+    to santarvė su rusais atitraukė lietuvius nuo žygių į
+    181
+
+    ## Puslapis 180
+
+    1302 m eta i
+    K a  as ta rp
+    len k ų  ir
+    rusų,
+    k u rie m s lie tu ­
+    v ia i ein a  į p a g a lb ą  ir
+    k u rie  su m u ša m i
+    Prūsiją ir Livoniją. Mat len­
     kai ginklu stengėsi iš rusų at­
     siimti Liubliną, kurio buvo
     netekę prieš penkiasdešimt
     septynerius metus. Abi pusės
     sutelkė šiam karui didžiules
     kariuomenes, ypač rusai, ku­
-    rie pagalbon buvo pasikvietę skitus ir lietuvius. Mūšį
-    laimėjo lenkai. Kadangi rusai, surikiavę kariuomenę
-    pusmėnuliu, labai į šalis išskleidė sparnus, o vidurį su­
-    silpnino, lenkai, sutelkę vienoje vietoje karius nelygi­
-    nant kumštį, be galo lengvai sunkiaisiais raiteliais pra­
-    laužė rikiuotės vidurį ir atvėrė kelią į pergalę.
+    rie pagalbon buvo pasikvietę skitus ir lietuvius.
   citata_rodoma: "Po\nto santarvė su rusais atitraukė lietuvius nuo žygių į\n181\n\n## Puslapis 180\n\n1302 m eta i\nK a  as ta rp\nlen k ų  ir\nrusų,\nk u rie m s lie tu ­\nv ia i ein a  į p a g a lb ą  ir\nk u rie  su m u ša m i\nPrūsiją ir Livoniją. Mat len­\nkai ginklu stengėsi iš rusų at­\nsiimti Liubliną, kurio buvo\nnetekę prieš penkiasdešimt\nseptynerius metus. Abi pusės\nsutelkė šiam karui didžiules\nkariuomenes, ypač rusai, ku­\nrie pagalbon buvo pasikvietę skitus ir lietuvius."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -750,17 +807,17 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     Aleksandras su didžiąja kunigaikštiene Elena bei su
     didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
     lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
-    j Vilnių 3.
+    j Vilnių 3 .
     Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
     taus gimimo tūkstantis keturi šimtai devyniasdešimt
     šeštaisiais didysis kunigaikštis Aleksandras išvyko
-    į Brastą \ o karalius Olbrachtas su jų broliu, karalai­
-    čiu Zigmantu — į Liubliną 5. Paskui abi šalys su visais
-    savo Tarybų ponais suvažiavo į Parčevą 6 dalyvauti sei­
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
     me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
     tais sumanė ir nutarė — visa tai paliko didelė paslap­
-    tis 7, Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
-    vą ®, o didysis kunigaikštis Aleksandras — į Vilnių9.
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
   citata_rodoma: "Tą pačią žiemą didysis kunigaikštis \nAleksandras su didžiąja kunigaikštiene Elena bei su \ndidikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­\nlenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo \nj Vilnių 3 .\nSeptyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais \nsavo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­\nme, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­\ntais sumanė ir nutarė — visa tai paliko didelė paslap­\ntis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­\nvą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"

@@ -13,9 +13,8 @@ datos:
 date_start: '1000'
 date_end: '1147'
 amziai:
-  - 'XI'
-  - 'XII'
   - 'X'
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -93,25 +92,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65625
-
-<a id="claim-t-188184"></a>
-- t-001
-  teiginys: "Narbutas Galindams priskyrė Rosės vardu vadintas šventas upes ir siejo jas su lietuvių genčių papročiu šventinti upes."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Galinda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Galindai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Galinda: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Galindai\" parinktas kaip owner_note_path. Targetas \"Galinda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171078
 
 <a id="claim-t-188185"></a>
 - t-005
@@ -276,29 +256,48 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-192411|Jotvingiai]]: Narbutas rašo, kad galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero globon, o kunigaikščiai apie tai pranešė popiežiui.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-192482|Venedai]]: Narbutas nurodo, kad apie 253 m. jungtiniai finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu.
 ## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    javus ir juos gausinti, be kitokio jų panaudojimo, išmokė da­
+    ryti alų. Iš šio seno egiptiečių prasimanymo kyla išvada, kad
+    jie pirmieji ėmė daryti alų. Kad ir kaip ten būtų buvę, palikę
+    ramybėje mokslines išvadas, drįstame kurti savo hipotezę, jog
+    tiek ir lietuviams, tiek ir kitoms žemdirbių tautoms aludarystė
+    galėjo būti namų išradimas. Įvairiai ruošiant javus, lengva ap­
+    tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
+    ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
+    ėjus fermentaciją, alus jau ir gatavas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-006
   santrauka: 'Narbutas Galindą vadina viena seniausių provincijų ir rašo, kad ji kadaise driekėsi plačiau Mazovijos bei Polesės link.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Rytuose ji
-    ribojosi su Sūduva, pietuose — su Mazovija, vakaruo­
-    se — su Hokerlandija ir Varmija, o šiaurėje — su Barta.
-    Galinda buvo viena seniausių provincijų, kitados nepa­
-    254
-
-    ## Puslapis 265
-
     lyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji
     nusipelnė detalių senovės geografų tyrinėjimų. Galindų
     gentys nuo seno buvo gausios ir karingos, plačiai žino­
     mos, kai kurių žinių apie jas pateikėme šio veikalo pir­
     mame tome, skyriuje „Pranašystės“; čia ¡papasakosime
-    apie kitus žinomus dalykus.
+    apie kitus žinomus dalykus. Esama įvairių nuomonių apie
+    pavadinimo kilmę; vieni teigia, jog jis atsirado iš žodžio
+    Galas* 1 neva todėl, kad žmonės gyvenę pabaigoje. Tačiau
+    lai neatitinka lietuvių pavadinimų suteikimo tradicijų;
+    gyventojų taip nevadindavo, o tik žemes arba miestus,
+    pavyzdžiui, Latgala, Žiemgala, Ariogala, Betygala ir kt.
+    Kiti autoriai, gal kiek arčiau tiesos, mėgina pavadinimų
+    kildinti iš senovės prūsų žodžio Galintuvojt, tai reiškė
+    triukšmauti, niekšeli, nes šios gentys buvusios plėšikiškos
+    ir agresyvios.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -363,12 +362,10 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     likti tokį garbinimą (Hiegels.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-171079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -394,15 +391,13 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    javus ir juos gausinti, be kitokio jų panaudojimo, išmokė da­
-    ryti alų. Iš šio seno egiptiečių prasimanymo kyla išvada, kad
-    jie pirmieji ėmė daryti alų. Kad ir kaip ten būtų buvę, palikę
-    ramybėje mokslines išvadas, drįstame kurti savo hipotezę, jog
-    tiek ir lietuviams, tiek ir kitoms žemdirbių tautoms aludarystė
-    galėjo būti namų išradimas. Įvairiai ruošiant javus, lengva ap­
-    tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
-    ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
-    ėjus fermentaciją, alus jau ir gatavas.
+    Šie, patikėję žynės žodžiu, tuojau sutelkė
+    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
+    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
+    Tačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­
+    sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
+    niokojo, kad Galinda daugeliui metų paliko beveik negyve­
+    nama.
   citata_rodoma: "Šie, patikėję žynės žodžiu, tuojau sutelkė\nvyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,\nbaisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.\nTačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­\nsus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­\nniokojo, kad Galinda daugeliui metų paliko beveik negyve­\nnama."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -417,21 +412,20 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Rytuose ji
+    ribojosi su Sūduva, pietuose — su Mazovija, vakaruo­
+    se — su Hokerlandija ir Varmija, o šiaurėje — su Barta.
+    Galinda buvo viena seniausių provincijų, kitados nepa­
+    254
+
+    ## Puslapis 265
+
     lyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji
     nusipelnė detalių senovės geografų tyrinėjimų. Galindų
     gentys nuo seno buvo gausios ir karingos, plačiai žino­
     mos, kai kurių žinių apie jas pateikėme šio veikalo pir­
     mame tome, skyriuje „Pranašystės“; čia ¡papasakosime
-    apie kitus žinomus dalykus. Esama įvairių nuomonių apie
-    pavadinimo kilmę; vieni teigia, jog jis atsirado iš žodžio
-    Galas* 1 neva todėl, kad žmonės gyvenę pabaigoje. Tačiau
-    lai neatitinka lietuvių pavadinimų suteikimo tradicijų;
-    gyventojų taip nevadindavo, o tik žemes arba miestus,
-    pavyzdžiui, Latgala, Žiemgala, Ariogala, Betygala ir kt.
-    Kiti autoriai, gal kiek arčiau tiesos, mėgina pavadinimų
-    kildinti iš senovės prūsų žodžio Galintuvojt, tai reiškė
-    triukšmauti, niekšeli, nes šios gentys buvusios plėšikiškos
-    ir agresyvios.
+    apie kitus žinomus dalykus.
   citata_rodoma: "Rytuose ji\nribojosi su Sūduva, pietuose — su Mazovija, vakaruo­\nse — su Hokerlandija ir Varmija, o šiaurėje — su Barta.\nGalinda buvo viena seniausių provincijų, kitados nepa­\n254\n\n## Puslapis 265\n\nlyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji\nnusipelnė detalių senovės geografų tyrinėjimų. Galindų\ngentys nuo seno buvo gausios ir karingos, plačiai žino­\nmos, kai kurių žinių apie jas pateikėme šio veikalo pir­\nmame tome, skyriuje „Pranašystės“; čia ¡papasakosime\napie kitus žinomus dalykus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

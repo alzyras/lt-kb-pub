@@ -118,23 +118,6 @@ Nenurodyta
   pagrindžia:
     - c-85375
 
-## Reikšmingi paminėjimai
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
-
-      Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu
-    Vaistotpilis389. Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią
-    ten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis
-    brolius bei daugybę krikščionių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-89413
-
 ## Citatos
 
 - id: c-85372
@@ -159,12 +142,12 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Gubros žemupio krante
-    aukščiau Sempopolio (VBK; HE, p. 170, 122; CV, t. 34, p. 135, 103, 138; MGP).
-    390 D.— Walewona, Jer.— Walewon (GAO, p. 193); Valevona, pilis, lokalizuojama
-    Gubros—Alnos santakoje, Sempopolio piliakalnyje (VBK; HE, p. 171, 144; Jasas R.,
-    Didysis.., žemėlapis), be to, kituose Gubros pakrančių piliakalniuose ir gyvenvietėse:
-    Ruvnina Dolnoje (Równina Dolna, buv.
+    Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
+
+      Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu
+    Vaistotpilis389. Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią
+    ten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis
+    brolius bei daugybę krikščionių.
   citata_rodoma: "Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje\n\n  Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu\nVaistotpilis389. Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią\nten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis\nbrolius bei daugybę krikščionių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

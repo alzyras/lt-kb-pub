@@ -65,10 +65,7 @@ Daukšienė vestuvių pasakojime pristatoma kaip Kairėnėlių šeimininkė, su 
   puslapiai: "p. 117 (PDF 115)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 117 (PDF 115)."
   citata_originali: |
-    Vestuvininkai nuvažiavo į Kairėnėlius.
-    Ten jaunuosius pasitiko
-    su duona ir rūkštimi. Šeimininkė Daukšienė išėjo į kiemą lėkšte ne­
-    šina.
+    Vestuvininkai nuvažiavo į Kairėnėlius. Ten jaunuosius pasitiko su duona ir rūkštimi. Šeimininkė Daukšienė išėjo į kiemą lėkšte nešina.
   citata_rodoma: "Vestuvininkai nuvažiavo į Kairėnėlius. Ten jaunuosius pasitiko su duona ir rūkštimi. Šeimininkė Daukšienė išėjo į kiemą lėkšte nešina."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"

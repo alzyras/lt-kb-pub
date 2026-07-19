@@ -7,13 +7,13 @@ datos:
   - '2000 m.'
 date_start: '2000'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - grupe
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -248,10 +248,12 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   pagrindžia:
     - c-179071
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniais Europos pakraščiais, rado kitokių polinkių žmones.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172302
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tokia pat dvasia gyveno dau­
     gybė senųjų Azijos tautų.
@@ -266,104 +268,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     ## Puslapis 80
 
     pakilo siekti šviesos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Narbutas rašė, kad egiptiečiai turėjo Kamefius, kuriuos Georgi siejo su japonų dievais Kami ir slavų Tryzna.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
-    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
-    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
-    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
-    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
-    slavų Tryzną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-008
-  santrauka: 'Narbutas rašė, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus, skirtus atskiriems dievams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kunigai, stovėdami ant pa­
-    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
-    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
-    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
-    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
-    kai kuriuos, buvusius Perkūno šventyklose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-009
-  santrauka: 'Narbutas, remdamasis Herodotu ir Strabonu, rašė, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti šventyklas dievams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
-    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
-    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
-    randame nuolat minimus miškus: kartais kalbama apie mišką
-    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
-    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
-    kiausiame miške ar nuošaliausiose vietose.
-    Šventyklos
-    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
-    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
-    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
-    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
-    kalnai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-010
-  santrauka: 'Tegu mitologai sako ką nori apie senovės egiptiečių religi ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame, yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Be jo­
-    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
-    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
-    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
-    no, gyveno ši tauta, garbinusi dangaus kūnus .
-    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
-    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
-    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
-    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
-    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
-    pagrindą ištisai sudaro indų padavimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172302
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Visa tai,
-    sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
-    tą valdyti pasaulį, - tautą, kuriai buvo lemta tapti pavyzdžiu
-    tolimiausiems ainiams ir kuri tarytum šešėlis dingo nuo pa­
-    saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
-    jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
-    žyniai.
-    Pamąstykime dabar apie pražūtingas senovės tautų tiky­
-    bos klaidas, pradėdami nuo daugiadievystės išpažinimo.
-    Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­
-    mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
-    kad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­
-    vai išrado tai, ką mes vadiname proto religija.
   citata_rodoma: "Tokia pat dvasia gyveno dau­\ngybė senųjų Azijos tautų.\nPrieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai\npradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai\nrado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti\nvisose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­\nzacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­\nzuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais\n80\n\n## Puslapis 80\n\npakilo siekti šviesos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -423,16 +327,12 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Toms statulėlėms
-    stigo keleto rankų, matyt, buvo nulaužtos. Domintis vėliau,
-    po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;
-    vos rasta atsimenančių šį nutikimą; žydai nenorėjo prisipažin­
-    ti tai pirkę. Nežinia, kas buvo užrašyta, bet vis dėlto vienas
-    žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant
-    paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai
-    tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
-    ar figūros arba trys žmogaus egzistavimo tarpsniai - gyveni­
-    mas, mirtis ir amžinybė.
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
+    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną.
   citata_rodoma: "Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek\nsusiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.\nIndų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo\nKamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­\nsiškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką\nslavų Tryzną."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -512,15 +412,12 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vėlgi buvo dievybių, kurioms nekūrė nei stabų, nei atvaiz­
-    dų; dažnai dievo vardas, parašytas ant lentos arba iškaltas ak­
-    menyje, atstodavo jų atvaizdą. Kartais adoracijos objektas bū­
-    davo austinė uždanga, pakabinta šventykloje priešais kokį nors
-    sienos įdubimą; dažniausiai tai būdavo slaptosiose šventyklo­
-    se. Iš antikinės istorijos taip pat žinome, kad Gadžio mieste,
-    dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
-    šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
-    jokios statulos, net paties Heraklio.
+    Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
   citata_rodoma: "Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -533,19 +430,19 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
-    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
-    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
-    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
-    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
-    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
-    nanti prabangumu tas beveik dar laukines Europos šalis. Ar
-    ne paprasčiau būtų to rūmo pastatymą priskirti užkariauto­
-    jams iš Italijos negu slavams, kurie savo šalyje niekur nieko
-    panašaus neturėjo ir, atplūdę iš Vyslos dešiniojo kranto miš­
-    kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
-    leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
-    apgyventas sodybas.
+    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
+    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
+    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
+    randame nuolat minimus miškus: kartais kalbama apie mišką
+    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
+    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
+    kiausiame miške ar nuošaliausiose vietose.
+    Šventyklos
+    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
+    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
+    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
+    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
+    kalnai.
   citata_rodoma: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose.\nŠventyklos\nHerodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai\npirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­\nriuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar\nilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo\nkalnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -560,18 +457,17 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Saulės rūmai buvo rytuose, kur buvo šventa ir palaiminta
-    šalis, lietuvių protėvių tėvynė - rytų šalis (Aušinimą zemme).
-    Iš šių rūmų tekanti Saulė išvažiuodavo nuostabiu vežimu, ku­
-    ris švietė skaisčiau už devynias galybes liepsnojančių deglų.
-    Vežimą traukė trejetas arklių - sidabrinis, auksinis ir deiman­
-    tinis. Didingai riedėdama savo keliu, apžvelgusi visą pasaulį,
-    kuris, lietuvių supratimu, buvęs ne apvalus, o plokščias ir ova­
-    lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
-    maudyti ir vykdavo į savo rūmus nakties poilsio.
-    Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
-    jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
-    Saulė aptemdavo.
+    Be jo­
+    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
+    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
+    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
+    no, gyveno ši tauta, garbinusi dangaus kūnus .
+    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
+    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
+    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
+    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
+    pagrindą ištisai sudaro indų padavimai.
   citata_rodoma: "Be jo­\nkios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­\ndžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­\nno, gyveno ši tauta, garbinusi dangaus kūnus .\nTegu mitologai sako ką nori apie senovės egiptiečių religi­\nją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,\nyra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­\nlio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.\nTaip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,\npagrindą ištisai sudaro indų padavimai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

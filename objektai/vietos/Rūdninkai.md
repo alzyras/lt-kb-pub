@@ -137,41 +137,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/žvėrynas Karaliaus daržas.md#claim-t-86632|žvėrynas Karaliaus daržas]]: Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.
 - susijęs iš [[objektai/asmenys/Vladislovas IV.md#claim-t-87593|Vladislovas IV]]: Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
 - susijęs iš [[objektai/asmenys/Zigmantas III.md#claim-t-87594|Zigmantas III]]: Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Miškuose netoli Rūdninkų miestelio Mykolas netikėtai užtiko iš Bresto į Vilnių vykusio Kazimiero palydą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo
-    46 9
-
-    ## Puslapis 468
-
-    tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­
-    siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,
-    paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
-    tais raitelių. Netikėtai miš-
-    A tle id ž ia
-    n e tik ė ta i
-    kuose netoli Rūdninkų mies-
-    p a k e lė je
-    s u tik ta m
-    telio jis užšoko ant Kazimiero
-    M y k o lu i
-    palydos. Patekęs į tokią ne­
-    aiškią padėtį, jis, be galo išsi­
-    gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­
-    tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs
-    Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį
-    kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
-    dikus, o jo paties, visiškai atsiduodančio valdovo malo­
-    nei, neatiduoti žmogžudžiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-81876
@@ -252,27 +217,30 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Štai todėl Kazimieras, pasak Lietuvos istori­
-    kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš San-
-    domiro į Brestą. Tuo tarpu lenkų istorikai teigia, jog
-    lenkai susitarę su pasiuntiniais, kad Kazimieras keliau­
-    siąs į Lietuvą ir ją brolio vardu valdysiąs, tačiau nie­
-    kad nesisavinsiąs Lietuvos didžiojo kunigaikščio titulo.
-    Ar vienaip, ar kitaip ten buvo, abejonių nekelia vienas
-    dalykas: jeigu Kazimieras nebūtų paskubėjęs, būtų nu­
-    kentėję ir karalius, ir susitarimai, mat kitos grupuotės
-    vadovas būtų ginklu pasigrobęs valdžią. Breste Kazi­
-    miero laukė gausybė žymiau-
-    P riėm ęs B reste lu o m ų
-    šiųjų didikų, ypač tie, kurie
-    priesaiką, p a ly d im a s į
-    save kildino iš Lietuvos di-
-    V ilnių
-    džiųjų kunigaikščių, kaip Al-
-    gimantaičiai,
-    Daumantaičiai,
-    Manvydaičiai, Sanguškaičiai, Kaributaičiai, Karijotaičiai
-    ir kiti.
+    Tuo
+    46 9
+
+    ## Puslapis 468
+
+    tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­
+    siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,
+    paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
+    tais raitelių. Netikėtai miš-
+    A tle id ž ia
+    n e tik ė ta i
+    kuose netoli Rūdninkų mies-
+    p a k e lė je
+    s u tik ta m
+    telio jis užšoko ant Kazimiero
+    M y k o lu i
+    palydos. Patekęs į tokią ne­
+    aiškią padėtį, jis, be galo išsi­
+    gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­
+    tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs
+    Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį
+    kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
+    dikus, o jo paties, visiškai atsiduodančio valdovo malo­
+    nei, neatiduoti žmogžudžiams.
   citata_rodoma: "Tuo\n46 9\n\n## Puslapis 468\n\ntarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­\nsiais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,\npaliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­\ntais raitelių. Netikėtai miš-\nA tle id ž ia\nn e tik ė ta i\nkuose netoli Rūdninkų mies-\np a k e lė je\ns u tik ta m\ntelio jis užšoko ant Kazimiero\nM y k o lu i\npalydos. Patekęs į tokią ne­\naiškią padėtį, jis, be galo išsi­\ngandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­\ntų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs\nKazimierui po kojų, jį pasveikino kaip Lietuvos didįjį\nkunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­\ndikus, o jo paties, visiškai atsiduodančio valdovo malo­\nnei, neatiduoti žmogžudžiams."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

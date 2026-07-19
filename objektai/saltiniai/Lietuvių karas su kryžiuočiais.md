@@ -20,6 +20,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Lietuvių karas su kryžiuočiais
 
 ## Santrauka
@@ -31,10 +32,19 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 <a id="claim-t-67441"></a>
 - t-003
   teiginys: "Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Gardinas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dovydas Gardiniškis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Dovydą Gardiniškį kaip Gardino gynėją."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Dovydas Gardiniškis gynė Pskovas (0.91)"
   pagrindžia:
+    - c-67338
     - c-67339
 
 <a id="claim-t-67442"></a>
@@ -53,21 +63,6 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   pagrindžia:
     - c-67339
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    573  D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten —
-    SRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino
-    pilininkas. Gardino ir Pskovo gynėjas, greičiausiai Daumanto sūnus (Dovydas— LE, 6;
-    Lietuvių karas..., p. 212 ir kt.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-67338
@@ -75,22 +70,19 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie
-    pasileido bėgti ir šitaip išsigelbėjo.
-    331 (324). Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
-    kariuomenę
-    1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir
-    Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus,
-    atūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,
-    jog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau
-    nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką.
+    573  D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten —
+    SRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino
+    pilininkas. Gardino ir Pskovo gynėjas, greičiausiai Daumanto sūnus (Dovydas— LE, 6;
+    Lietuvių karas..., p. 212 ir kt.).
   citata_rodoma: "573  D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten —\nSRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino\npilininkas. Gardino ir Pskovo gynėjas, greičiausiai Daumanto sūnus (Dovydas— LE, 6;\nLietuvių karas..., p. 212 ir kt.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-67339
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

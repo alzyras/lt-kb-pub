@@ -8,13 +8,13 @@ datos:
   - '1618 m.'
 date_start: '1618'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -88,56 +88,6 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10678|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188531|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.
 - susijęs iš Mozūrijos žemė: 1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylinkėmis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Seimo darbe dalyvavo ir ordino magistras Ket-
-    leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
-    kunigaikščio Mikalojaus Radvilos paraginti, nusprendė,
-    kad Livonija sudaranti su Lietuva sąjungą ir pereinanti
-    į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
-    čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
-    7 0 3
-
-    ## Puslapis 702
-
-    iždo padarytas išlaidas, Livo-
-    S u la rties są ly g o s
-    nijos riterių ordinas atiduo­
-    dąs
-    Lietuvai visas
-    žemes
-    abiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-
-    klės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­
-    pilio, Sėlpilio pilis su apylinkėmis. Sutelktomis jėgomis
-    užbaigus karą ir sutarus taiką, Livonija turėsianti teisę
-    tas žemes išpirkti užmokėjusi Lietuvos pinigais šešis
-    šimtus tūkstančių florinų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: '1618 m. Rezeknės, Daugpilio ir kitose Livonijos apylinkėse buvo rasti 418 neapkrikštyti suaugę asmenys.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
-    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
-    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
-    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
-    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
-    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
-    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
-    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-168661
@@ -152,6 +102,8 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
     į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
     čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
     7 0 3
+
+    ## Puslapis 702
 
     iždo padarytas išlaidas, Livo-
     S u la rties są ly g o s
@@ -179,17 +131,14 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tokių kapų pasitaiko aukštose vietose
-    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
-    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
-    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
-    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
-    nių kapų. Lietuvos didžiojo kunigaikščio Gedimino kapas yra
-    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
-    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
-    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
-    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
-    pelenai ilsisi supiltame kalne).
+    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
+    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
+    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
+    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
+    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “.
   citata_rodoma: "Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.\nJie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-\nte“, tai yra, anot autoriaus vertimo, „loca adiectorum “."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

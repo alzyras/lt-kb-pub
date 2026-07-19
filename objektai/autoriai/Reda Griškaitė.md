@@ -9,16 +9,16 @@ datos:
   - '2005 m.'
 date_start: '1995'
 date_end: '2005'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
+amziai:
+  - 'XX'
+  - 'XXI'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -96,30 +96,6 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188050|Norbertas Vėlius]]: Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192423|Lietuviai]]: Teodoras Narbutas pratarmėje antrąjį tomą pristatė kaip lietuvių tautos ištakų ir protėvių atsikėlimo istorijos apžvalgą.
 - susijęs iš Mykolas Balinskis kova dėl istorijos: Reda Griškaitė pastebėjo, kad ankstyvoji Mykolo Balinskio kūryba turėjo romantinės istoriografijos bruožų, o vėliau jis stengėsi rašyti nauja maniera.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Reda Griškaitė Narbuto LTI piešiamą vaizdą apibūdino kaip individualų ir asmeninį istorijos suvokimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taigi T. Narbutas, nors gerai
-    išmanė savo profesijos paslaptis, puikiai valdė plunksną
-    ir žinojo savo meto keliamus reikalavimus, stengėsi pa­
-    brėžti, jog LTI piešiamas vaizdas — tai jo individualus,
-    asmeninis suvokimas, nuo jo pabėgti neįmanoma, be to,
-    ir nebūtina. Kiekvienas rašo savo istoriją.
-    Reda Griškaitė
-
-    ## Puslapis 22
-
-    Istorijoje tiesa yra geležinė
-    būtinybė, ir nereikėtų manyti, jog
-    ji kada nors gali pakenkti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-84019
@@ -172,6 +148,8 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     asmeninis suvokimas, nuo jo pabėgti neįmanoma, be to,
     ir nebūtina. Kiekvienas rašo savo istoriją.
     Reda Griškaitė
+
+    ## Puslapis 22
 
     Istorijoje tiesa yra geležinė
     būtinybė, ir nereikėtų manyti, jog

@@ -624,11 +624,13 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     taip išauklėtas, kad mėgo
     puotauti, šokti ir visaip link-
     1545 m e ta i
-    M iršta A u strijo s k u ­
+    M iršta  A u strijo s k u ­
     n ig a ik š ty tė
     E lžb ieta ,
-    A u g u sto žm on a
-    6 7 4
+    A u g u sto  žm on a
+    6 7  4
+
+    ## Puslapis 673
 
     smintis su moterimis, pradėjo lankyti Barborą Radvi­
     laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­

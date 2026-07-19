@@ -37,23 +37,6 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 
 ## Teiginiai
 
-<a id="claim-t-60303"></a>
-- t-001
-  teiginys: "Marienburgo pilyje gyvenęs brolis Heinemanas užsikrėtė raupsais ir mirė tą pačią dieną, kai sužinojo apie brolio Fridricho mirtį."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Marienburgas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heinemanas (Marienburgo brolis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Heinemanas gyveno Marienburgo pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Heinemanas (Marienburgo brolis) gyveno Marienburgas (0.93)"
-  pagrindžia:
-    - c-60935
-
 <a id="claim-t-197087"></a>
 - t-002
   teiginys: "Apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs."
@@ -116,8 +99,7 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 ## Ryšiai
-- Heinemanas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]
+- Heinemanas (Marienburgo brolis) gyveno Marienburgas

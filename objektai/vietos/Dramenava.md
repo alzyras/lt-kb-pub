@@ -95,17 +95,6 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    380 D.  ir Jer.— Dramenow; Dramenava (vėliau — Drebnau), kaimas  į pietus nuo
-    Pabečių (Sch-K; GAO, p. 30).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -139,10 +128,8 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    382  D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —
-    Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus. Rinavos
-    pilis, matyt, buvusi Galtgarbių aukštumoje (117 m virš Baltijos jūros lygio įrengtame
-    piliakalnyje tarp Galtgarbių ir Kumėnų (Kumehnen).
+    380 D.  ir Jer.— Dramenow; Dramenava (vėliau — Drebnau), kaimas  į pietus nuo
+    Pabečių (Sch-K; GAO, p. 30).
   citata_rodoma: "380 D.  ir Jer.— Dramenow; Dramenava (vėliau — Drebnau), kaimas  į pietus nuo\nPabečių (Sch-K; GAO, p. 30)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

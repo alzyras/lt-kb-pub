@@ -43,18 +43,6 @@ Surviliškis 1931 m. Tautosakos komisijos suvestinėje minimas kaip pateikėjo k
 
 Surviliškis šiame šaltinyje yra vietovė.
 
-## Teiginiai
-
-<a id="claim-t-195497"></a>
-- t-001
-  teiginys: "1931 m. Tautosakos komisijos suvestinėje A. Žilgulis nurodytas kaip iš Surviliškio."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177920
-
 ## Citatos
 
 - id: c-177920
@@ -69,5 +57,3 @@ Surviliškis šiame šaltinyje yra vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

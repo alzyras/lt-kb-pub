@@ -10,13 +10,13 @@ datos:
   - '1540 m.'
 date_start: '1540'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -475,6 +475,90 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - susijęs iš Kijevas: Teodoro Narbuto prielaidoje chionitai gyveno dešiniajame Dnepro krante, kur yra Kijevas, o kitapus Dnepro jų kaimynai buvo alanai.
 - susijęs iš Gerų kraštas: Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse, o jo vidurys buvo Rogačiovas.
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Toliau skverbtis nedrįso sužinojęs, jog atžygiuoja ka­
+    raliaus kariuomenė. Pasiun-
+    P erein a
+    į
+    M a sk v o s
+    tęs į Maskvos kunigaikštys-
+    k u n ig a ik š ty s tę
+    tę brolį Vosylių su visais
+    globotiniais, jų žmonomis bei
+    vaikais ir visomis brangenybėmis, pats, kurį metą už­
+    trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
+    savuosius. Štai ką jis padarė žiemos pabaigoje. Pri­
+    imtas Maskvos kunigaikštystėje nepaprastai džiugiai
+    ir prastuomenės, ir aukštuomenės, ir paties Maskvos
+    didžiojo kunigaikščio, dūmoje įkalbėjo maskvėnus pa­
+    siųsti, pavasariui prašvitus, visas jėgas prieš Smolenską,
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Statinio viduje paprastai stovi maži mo­
+    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
+    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
+    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
+    žmonės priskiria kažkokią šventumo ypatybe5.
+    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
+    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
+    rius*.
+    4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
+    5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
+    rinkinyje, yra nemažai tokių akmenų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
+    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
+    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
+    jonėnai ir trojėnai kilę iš pelazgų. Šios tautos plėtėsi nuo
+    1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
+    kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
+    arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
+    davė pradžią dorėnams ir achajams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Narbutas chionitus laikė Padneprės emporiumų graikų kolonistais, gyvenusiais dešiniajame Dnepro krante ties Kijevu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
+    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
+    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
+    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
+    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
+    novės Kijevą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-010
   santrauka: 'Narbutas teigė, kad jo laikų Dnepro vandens masė buvo perpus mažesnė negu senovėje, nors vaga išlaikė panašų plotį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -496,6 +580,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 ## Citatos
 
 - id: c-168597
@@ -503,22 +588,13 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Toliau skverbtis nedrįso sužinojęs, jog atžygiuoja ka­
-    raliaus kariuomenė. Pasiun-
-    P erein a
-    į
-    M a sk v o s
-    tęs į Maskvos kunigaikštys-
-    k u n ig a ik š ty s tę
-    tę brolį Vosylių su visais
-    globotiniais, jų žmonomis bei
-    vaikais ir visomis brangenybėmis, pats, kurį metą už­
-    trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
-    savuosius. Štai ką jis padarė žiemos pabaigoje. Pri­
-    imtas Maskvos kunigaikštystėje nepaprastai džiugiai
-    ir prastuomenės, ir aukštuomenės, ir paties Maskvos
-    didžiojo kunigaikščio, dūmoje įkalbėjo maskvėnus pa­
-    siųsti, pavasariui prašvitus, visas jėgas prieš Smolenską,
+    Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
+    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
+    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
+    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
+    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
+    kiojo karalius. Netoli Dnepro Glinskį pasitiko šešios
+    dešimtys tūkstančių maskvėnų.
   citata_rodoma: "Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių. Jį atsitraukiantį atkakliai perse­\nkiojo karalius. Netoli Dnepro Glinskį pasitiko šešios\ndešimtys tūkstančių maskvėnų."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -533,17 +609,13 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Statinio viduje paprastai stovi maži mo­
-    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
-    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
-    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
-    žmonės priskiria kažkokią šventumo ypatybe5.
-    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
-    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
-    rius*.
-    4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
-    5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
-    rinkinyje, yra nemažai tokių akmenų.
+    Kad Pavyslio, Padneprio senieji gyventojai
+    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
+    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
+    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
+    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
+    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
+    jų, neužkąsdami jų žemėje, supildavo kalnelius.
   citata_rodoma: "Kad Pavyslio, Padneprio senieji gyventojai\nir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų\nvaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­\njo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­\njų, neužkąsdami jų žemėje, supildavo kalnelius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -558,14 +630,14 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
-    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
-    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
-    jonėnai ir trojėnai kilę iš pelazgų. Šios tautos plėtėsi nuo
-    1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
-    kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
-    arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
-    davė pradžią dorėnams ir achajams.
+    Būtent dėl šių priežasčių įvairios
+    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
+    bos susiformavo graikų kalba.
+    17
+    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
+    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
+    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
+    Dono.
   citata_rodoma: "Būtent dėl šių priežasčių įvairios\npelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­\nbos susiformavo graikų kalba.\n17\nPelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­\nčiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,\npradedant nuo Po ir Arno upių žiočių net iki Dnepro ir\nDono."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -600,19 +672,17 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Prajus** vėlgi kalba apie tą patį, žiūrė­
-    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
-    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
-    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
-    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
-    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
-    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
-    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
-    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
-    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
-    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
-    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
-    novės Kijevą.
+    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
+    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
+    vadinimo panašumu su chionitais. Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą.
   citata_rodoma: "Galima tik daryti gana tikėtiną prielaidą, kuri remia­\nsi Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­\nvadinimo panašumu su chionitais. Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

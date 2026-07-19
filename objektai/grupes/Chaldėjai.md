@@ -97,27 +97,6 @@ Narbutas chaldėjus mini tarp tautų, kurių padavimai, jo aiškinimu, priminė 
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188174|Egiptiečiai]]: Narbutas aiškino, kad egiptiečiai prie iš chaldėjų perimto dangaus kūnų garbinimo pridėjo nemirtingais laikytų asmenų dievinimą.
 - susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189416|Senovės egiptiečiai]]: Narbutas teigė, kad egiptiečiai prie iš chaldėjų perimto dangaus kūnų garbinimo pridėjo nemirtingais laikytų asmenų dievinimą.
 - susijęs iš Indija: Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų, daugelio mokslų bei religinių vaizdinių kilmės vieta.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas aiškino, kad religiniai vaizdiniai iš indų perėjo pas chaldėjus, iš chaldėjų pas egiptiečius, graikus, romėnus ir kitas tautas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tiesą sako „Antilukrecijaus“ auto­
-    rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir
-    žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­
-    namomis su smilkytuvu rankose“1.
-    Indiją, gražiausią senojo pasaulio šalį, tikriausiai iš pat pra­
-    džių buvo apgyvenę civilizuoti žmonės, nes iš ten kilo ir dau­
-    gybė kastų, ir daugelis mokslų, o su jais religiniai vaizdiniai.
-    Senovės istorija aiškina, kaip tatai perėjo iš indų pas chaldė-
-    jus, iš chaldėjų pas egiptiečius, iš šių pas graikus, paskui pas
-    romėnus ir kitus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172339
@@ -145,17 +124,16 @@ Narbutas chaldėjus mini tarp tautų, kurių padavimai, jo aiškinimu, priminė 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Gražmenų tam nemirtingajam dievų
-    būriui pridėjo poetai, be kurių jis greitai būtų netekęs reikš­
-    mės.
-    Savo ruožtu romėnai - kuo jie darėsi galingesni ir labiau
-    apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą. Žy­
-    niai, kurių priviso nesuskaitoma daugybė, net nebežinojo, iš
-    kur dar pasiskolinti naujų dievų. Ne tiktai miestai, šeimos, pa­
-    vieniai žmonės, bet ir aistros bei gėdingi nusidėjimai turėjo
-    atskirus, tikybos valdininkų įgaliotus dievus. Štai kokia yra tikra
-    ir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas
-    kyla iš pačių religijos sargų arba kunigų.
+    Tiesą sako „Antilukrecijaus“ auto­
+    rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir
+    žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­
+    namomis su smilkytuvu rankose“1.
+    Indiją, gražiausią senojo pasaulio šalį, tikriausiai iš pat pra­
+    džių buvo apgyvenę civilizuoti žmonės, nes iš ten kilo ir dau­
+    gybė kastų, ir daugelis mokslų, o su jais religiniai vaizdiniai.
+    Senovės istorija aiškina, kaip tatai perėjo iš indų pas chaldė-
+    jus, iš chaldėjų pas egiptiečius, iš šių pas graikus, paskui pas
+    romėnus ir kitus.
   citata_rodoma: "Tiesą sako „Antilukrecijaus“ auto­\nrius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir\nžmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­\nnamomis su smilkytuvu rankose“1.\nIndiją, gražiausią senojo pasaulio šalį, tikriausiai iš pat pra­\ndžių buvo apgyvenę civilizuoti žmonės, nes iš ten kilo ir dau­\ngybė kastų, ir daugelis mokslų, o su jais religiniai vaizdiniai.\nSenovės istorija aiškina, kaip tatai perėjo iš indų pas chaldė-\njus, iš chaldėjų pas egiptiečius, iš šių pas graikus, paskui pas\nromėnus ir kitus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

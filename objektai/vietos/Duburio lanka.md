@@ -60,13 +60,7 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
   puslapiai: "p. 52 (PDF 50)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 52 (PDF 50)."
   citata_originali: |
-    Antras pie­
-    muo, Napaliukas, pamatė, kad Tautkuvienės kiaulė atsiskyrė nuo kai­
-    menės ir pamažu eina kaimo link, nori nejučioms praslinkti pro pie­
-    menis ir namo pabėgti.
-    Piemuo užbėgo, sukirto rimbu du sykiu kiau­
-    lei per kinką ir privarė prie būrio.
-    Nusivarėme kaimenę į kitą Duburio lankos galą.
+    „Nusivarėme kaimenę į kitą Duburio lankos galą.“
   citata_rodoma: "„Nusivarėme kaimenę į kitą Duburio lankos galą.“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
@@ -82,10 +76,7 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
   puslapiai: "p. 51 (PDF 49)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 51 (PDF 49)."
   citata_originali: |
-    Iš kiemų varant kiaules, kaime
-    kilsta bilčius. Atėjus bilčiui ligi mūsų kiemo, išėjau ir aš, trečias pie­
-    muo: su terbele ant nugaros, su šiokiu tokiu rimbu rankoje.
-    Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė.
+    „Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė.“
   citata_rodoma: "„Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė.“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"

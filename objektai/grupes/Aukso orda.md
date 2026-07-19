@@ -17,14 +17,14 @@ datos:
   - '2026 m.'
 date_start: '1325'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - politinė-grupė
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -234,6 +234,29 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+- c-008
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po
+    pralaimėto
+    mūšio, bet
+    vėliau,
+    1503 m
+    rudenį; Mengli-Girėjaus
+    sumuštas, Sich-Achmetas iš karto ieškojo prieglobsčio Nogajų or­
+    doje Volgos žemupyje, bet, ir ten nepalankiai sutiktas, grįžo j LDK
+    (žr.Сборник Русского императорского исторического общества,
+    т. 41. С Петербург, 1884, р. 516).
+    п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
+    Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
+    masis gauti pagalbos Iš Turkijos sultono Bajareto II-jo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-011
+
 - c-010
   santrauka: 'Komentare Achmatas vadinamas Aukso ordos chanu, 1459–1481 m. valdžiusiu Kazimiero Jogailaičio sąjungininku ir 1480 m. žygiavusiu prie Ugros.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -252,6 +275,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+
 ## Citatos
 
 - id: c-31031
@@ -391,18 +415,14 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po
-    pralaimėto
-    mūšio, bet
-    vėliau,
-    1503 m
-    rudenį; Mengli-Girėjaus
+    pralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus
     sumuštas, Sich-Achmetas iš karto ieškojo prieglobsčio Nogajų or­
     doje Volgos žemupyje, bet, ir ten nepalankiai sutiktas, grįžo j LDK
     (žr.Сборник Русского императорского исторического общества,
-    т. 41. С Петербург, 1884, р. 516).
+    т. 41. С  Петербург, 1884, р. 516).
     п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
     Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
-    masis gauti pagalbos Iš Turkijos sultono Bajareto II-jo.
+    masis gauti pagalbos Iš T urkijos sultono Bajareto II-jo.
   citata_rodoma: "Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po \npralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus \nsumuštas, Sich-Achmetas iš karto ieškojo prieglobsčio Nogajų or­\ndoje Volgos žemupyje, bet, ir ten nepalankiai sutiktas, grįžo j LDK \n(žr.Сборник Русского императорского исторического общества, \nт. 41. С  Петербург, 1884, р. 516).\nп Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą \nBelgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­\nmasis gauti pagalbos Iš T urkijos sultono Bajareto II-jo."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

@@ -8,15 +8,15 @@ datos:
   - '1971 m.'
 date_start: '1062'
 date_end: '1971'
+amziai:
+  - 'XI'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - sostinė
   - miestas
-amziai:
-  - 'XI'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -123,6 +123,27 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   pagrindžia:
     - c-170334
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Pagal B. N. Florią kronika atsiradusi ne tik Slucko ku­
+    nigaikščių Olelkaičių, bet ir lietuvių didikų Goštautų
+    aplinkoje dviem etapais. Goštautų iniciatyva XV a. vi­
+    dury sukurtas Trumpojo sąvado perdirbinys, papildy­
+    tas pasakojimais apie XIV a. Petrą Goštautą, Gedimi­
+    no etmoną, Podolės Kameneco ir Vilniaus vaivadą,
+    taip pat apie Joną Goštautą, lietuvių vadą Žalgirio
+    mūšyje, LDK kanclerį (1440—1458) ir labai nusipelniu­
+    sį jauno didžiojo kunigaikščio Kazimiero globėją bei
+    patarėją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-170333
@@ -150,16 +171,10 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Pagal B. N. Florią kronika atsiradusi ne tik Slucko ku­
-    nigaikščių Olelkaičių, bet ir lietuvių didikų Goštautų
-    aplinkoje dviem etapais. Goštautų iniciatyva XV a. vi­
+    Goštautų iniciatyva XV a. vi­
     dury sukurtas Trumpojo sąvado perdirbinys, papildy­
     tas pasakojimais apie XIV a. Petrą Goštautą, Gedimi­
-    no etmoną, Podolės Kameneco ir Vilniaus vaivadą,
-    taip pat apie Joną Goštautą, lietuvių vadą Žalgirio
-    mūšyje, LDK kanclerį (1440—1458) ir labai nusipelniu­
-    sį jauno didžiojo kunigaikščio Kazimiero globėją bei
-    patarėją.
+    no etmoną, Podolės Kameneco ir Vilniaus vaivadą.
   citata_rodoma: "Goštautų iniciatyva XV a. vi­\ndury sukurtas Trumpojo sąvado perdirbinys, papildy­\ntas pasakojimais apie XIV a. Petrą Goštautą, Gedimi­\nno etmoną, Podolės Kameneco ir Vilniaus vaivadą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

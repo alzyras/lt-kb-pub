@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1819'
 date_end: '2026'
-amziai:
-  - 'XIX'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XIX'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -269,90 +269,6 @@ media_all_json: |-
 - susijęs iš Lietuva: Per Šiaurės karą Lietuva ir Lenkija ekonomiškai ir politiškai nusilpo, o jų teritorijas nuniokojo kariuomenės.
 - susijęs iš Švedija: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
 - susijęs iš [[objektai/autoriai/O. Halecki.md#claim-t-179561|O. Halecki]]: O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.
-## Reikšmingi paminėjimai
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
-    vietininkus, nebenorėdami daugiau būti vokiečių val­
-    džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
-    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
-    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
-    mušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­
-    kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­
-    gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­
-    kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų
-    valdovu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
-    na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
-    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
-    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
-    23 Ks.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šias smulkmenas aptarsime vėliau atskiruose straips­
-    niuose; dabar kalbėsime apie patį šventosios ugnies garbinimą.
-    1. Iš straipsnio „Praurimė“ matėme, kad ugnį, degusią tos
-    deivės aukuruose, saugojo žynės, vadintos vaidilutėmis; viena
-    iš jų buvo Birutė; tad šitokia ugnis, nuolat kurstoma, be abejo,
-    degė ant kalno prie Palangos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-008
-  santrauka: 'Mat ant švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau goma mergelių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Strijkov­
-    skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
-    bas, aiškiai mini ją buvus panašia žyne, arba vestale. Mat ant
-    švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki­
-    tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau­
-    goma mergelių. Jos visuotinai buvo vadinamos vaidilutėmis,
-    lietuviškai Wejdalotenie.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-009
-  santrauka: 'Birutė (Biruta) Žemaičių didiko duktė29, kuri iš pašaukimo tapo vaidilu te būryje mergelių, saugojančių šventą Praurimės aukuro ug nį netoli Palangos, ant švento kalno.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Duomenų apie tai mums
-    paliko Strijkovskis.
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-175145
@@ -382,28 +298,16 @@ media_all_json: |-
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im­
-    peratorius, buvęs tuo metu Vengrijos ir Čekijos kara­
-    liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir
-    Danijos karalius8, ir Perekopo chanas9, ir Riazanės
-    didysis kunigaikštis l0, ir Maskvos didysis kunigaikš­
-    tis", Vytauto žentas, ir Tverės didysis kunigaikštis
-    Borisas Aleksandrovičius'2, ir Prūsijos bei Livonijos
-    magistras l3, ir Odojevo u, ir Peremišlio l5, ir Novosi-
-    lės 16 kunigaikščiai, ir Moldavijos vaivada 17, ir graikų
-    imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
-    Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
-    čiai ir ponai, ir daug įvairių svečių.
-    Kai tie svečiai viešėjo pas didįjį kunigaikštį Vytau­
-    tą ir didysis kunigaikštis Vytautas visus juos gausiai
-    vaišino, kasdien vaišėms išeidavo septyni šimtai stati­
-    nių midaus, neskaitant muskatelio, ir vynų, ir malvazi-
-    jos, ir įvairių kitų gėrimų; septyni šimtai telyčių, sep­
-    tyni šimtai avinų ir paršų, po šešias dešimtis stumbrų,
-    po šimtą briedžių, neskaitant įvairios kitos žvėrienos
-    ir daugelio kitų mėsiškų ir naminių patiekalų20.
-    Ir vaišino didysis kunigaikštis Vytautas tuos sve­
-    čius septynias savaites21.
+    Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
+    vietininkus, nebenorėdami daugiau būti vokiečių val­
+    džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­
+    kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­
+    gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­
+    kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų
+    valdovu.
   citata_rodoma: "Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių \nvietininkus, nebenorėdami daugiau būti vokiečių val­\ndžioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­\nkiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­\ngu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­\nkam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų \nvaldovu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -440,14 +344,11 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Gardaitis fGardoeldius/***
-    Vėjų, audrų, jūros potvynių dievas, jūrinių arba visokių
-    laivų globėjas, kaip rodo charakteringojo vardo prasmė. Kro­
-    nikininkas jį vadina kitaip: Perdoite, Perdoilus, Gardoaitis, o
-    tai yra tik tarminė vardo atmaina.
-    Jūros pavojai, ypač tokios audringos kaip Baltija, gali įva­
-    ryt i baimės net drąsiausiems jūreiviams. Iš baimės bėgama prie
-    dievo.
+    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
+    na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
+    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
+    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
+    23 Ks.
   citata_rodoma: "Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­\nna, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­\ngo Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,\nprie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­\n23 Ks."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -482,18 +383,12 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žemaičiai
-    manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
-    užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
-    užgesino .
-    Kaip mano Naruševičius', slavai taip pat žinojo panašią
-    ugnį, vadintą Zwicz.
-    Šventosios upės
-    Senovės religijos pripažino šventumą kai kurių vandenų,
-    tekančių per šalis, įžymias tuo, kad jos buvo pirmoji tautos
-    protėvių tėvynė. Indai svarbiu savo religingumo dalyku laiko
-    tų upių garbinimą. Garbinti tokį upių šventumą buvo lietuvių
-    protėvių, konkrečiai budinu , indų-skitų tautos, paprotys .
+    Šias smulkmenas aptarsime vėliau atskiruose straips­
+    niuose; dabar kalbėsime apie patį šventosios ugnies garbinimą.
+    1. Iš straipsnio „Praurimė“ matėme, kad ugnį, degusią tos
+    deivės aukuruose, saugojo žynės, vadintos vaidilutėmis; viena
+    iš jų buvo Birutė; tad šitokia ugnis, nuolat kurstoma, be abejo,
+    degė ant kalno prie Palangos.
   citata_rodoma: "Šias smulkmenas aptarsime vėliau atskiruose straips­\nniuose; dabar kalbėsime apie patį šventosios ugnies garbinimą.\n1. Iš straipsnio „Praurimė“ matėme, kad ugnį, degusią tos\ndeivės aukuruose, saugojo žynės, vadintos vaidilutėmis; viena\niš jų buvo Birutė; tad šitokia ugnis, nuolat kurstoma, be abejo,\ndegė ant kalno prie Palangos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -534,16 +429,13 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iš tikrųjų iš
-    to, ką išguldėme straipsnyje apie Santvarą, Lada buvo lietuvių
-    Latona, dvynių Lėlio ir Lėlės, pramintų Lelyva, motina.
-    Bute (iBudie}
-    Išminties deivė. Jos vardą paėmiau iš vieno liaudies pada­
-    vimo, išgirsto Memelio apylinkėse, iš kurio aiškėja, kad šiuo
-    vardu dievinta išmintis. Siame pasakojime apie kažkokio gar­
-    saus jūrininko nuotykius tarp kitų moralizuojamų sakinių yra
-    tokie: „Išmintis, arba protas, kuris sergsti visus gero žmogaus
-    darbus, yra dieviškos būtybės, Butės (Budie) rankoje.
+    Strijkov­
+    skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
+    bas, aiškiai mini ją buvus panašia žyne, arba vestale. Mat ant
+    švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki­
+    tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau­
+    goma mergelių. Jos visuotinai buvo vadinamos vaidilutėmis,
+    lietuviškai Wejdalotenie.
   citata_rodoma: "Strijkov­\nskis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­\nbas, aiškiai mini ją buvus panašia žyne, arba vestale. Mat ant\nšvento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki­\ntose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau­\ngoma mergelių. Jos visuotinai buvo vadinamos vaidilutėmis,\nlietuviškai Wejdalotenie."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -556,16 +448,18 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
-    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
-    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
-    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
-    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
-    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
-    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
-    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
-    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
-    po Amžinosios ugnies aukuro griuvėsiais30.
+    Duomenų apie tai mums
+    paliko Strijkovskis.
+    Birutė (Biruta)
+    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
+    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
+    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną.
   citata_rodoma: "Duomenų apie tai mums\npaliko Strijkovskis.\nBirutė (Biruta)\nŽemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­\nte būryje mergelių, saugojančių šventą Praurimės aukuro ug­\nnį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -574,9 +468,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Birutė]]
-- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
-- Turėjo priklausinį: [[objektai/vietos/Birutės kalnas]]
-- Palanga priklausė [[objektai/vietos/Lietuva]]

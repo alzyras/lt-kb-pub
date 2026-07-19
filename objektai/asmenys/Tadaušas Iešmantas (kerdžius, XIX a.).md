@@ -111,11 +111,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   puslapiai: "p. 49 (PDF 47)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 49 (PDF 47)."
   citata_originali: |
-    Kerdžiaus triūba verta vietos muziejuje. Spėdami vadinkime ją trimitu.
-    Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar
-    nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites
-    karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: bari­
-    nė, ingelčikas, suktinis.
+    Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: barinė, ingelčikas, suktinis.
   citata_rodoma: "Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: barinė, ingelčikas, suktinis."
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
@@ -154,14 +150,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   puslapiai: "p. 50 (PDF 48)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 50 (PDF 48)."
   citata_originali: |
-    Viso kaimo jau­
-    nimas yra ganęs, kiekvienas jaunikaitis yra jo guldytas ant kupsto ir
-    skersai raižiotas keturlinkų rimbu; vienok jaunimas jį gerbė, nenustojo
-    vadinti „dėde“ , nes žinojo, kad raižymas buvo nebe reikalo.
-    Piemuo
-    išbėgti nuo jo negalėdavo nė mėginti: buvo greitas, o kai ima rimbu
-    plikyti į kulnus, turi luptis. Buvo linksmo būdo, dainavo savo kompo­
-    nuotas dainas.
+    Buvo linksmo būdo, dainavo savo komponuotas dainas.
   citata_rodoma: "Buvo linksmo būdo, dainavo savo komponuotas dainas."
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
@@ -177,11 +166,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   puslapiai: "p. 49 (PDF 47)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 49 (PDF 47)."
   citata_originali: |
-    Mūsų kerdžius, Tadaušas Iešmantas,
-    vienrankis, gimęs ir augęs tame pačiame kaime. Dešinė ranka maža ir
-    nevaldoma, tur būti, mažystėje susižeidęs, ir kaipo toks, kito uždarbio
-    duonos nevalgęs, kaip iš ganymo. Nuo mažystės ligi vyro tarnavo pie­
-    meniu, iš piemenų pastojo į kerdžius.
+    Nuo mažystės ligi vyro tarnavo piemeniu, iš piemenų pastojo į kerdžius.
   citata_rodoma: "Nuo mažystės ligi vyro tarnavo piemeniu, iš piemenų pastojo į kerdžius."
   statusas: verified
   atnaujinta: "2026-07-12 01:05"

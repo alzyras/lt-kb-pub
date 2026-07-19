@@ -10,15 +10,15 @@ datos:
   - '1928 m.'
 date_start: '1918'
 date_end: '1928'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - rašytojas
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,47 +53,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 
 ## Teiginiai
 
-<a id="claim-t-00063"></a>
-- t-007
-  teiginys: "P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> P. Šležas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "P. Klimas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "P. Šležas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"P. Klimas\" parinktas kaip owner_note_path. Targetas \"P. Šležas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-00089
-
-<a id="claim-t-00067"></a>
-- t-008
-  teiginys: "P. Klimas buvo Vykdomojo Komiteto biuro narys."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-00132
-
-<a id="claim-t-00068"></a>
-- t-009
-  teiginys: "P. Klimas buvo Lietuvos Tarybos narys."
-  atnaujinta: "2026-06-14 10:15"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "P. Klimas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"P. Klimas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-00133
-
 <a id="claim-t-93049"></a>
 - t-011
   teiginys: "1928 m. išėjo septintasis P. Klimo „Lietuvių kalbos sintaksės“ leidimas."
@@ -115,12 +74,9 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-00084|Zenonas Ivinskis]]: Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.
 - susijęs iš P. Klimas, Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais. Guillebert de Lannoy kelionė 1413-14 metais: P. Klimo „Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais“ paskelbta „Židinyje“ 1930 m. Nr. 3, p. 232-245.
 - susijęs iš Lietuvių kalbos sintaksė: P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m.
-## Citatos
-
-- id: c-00089
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
     tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
@@ -129,19 +85,15 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
     kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
     tymą ir nepriklausomojo gyvenimo laikotarpį.
-  citata_rodoma: "|"
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  statusas: verified
+- t-005
 
-- id: c-00132
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau karo administracija griežtai pareiš-
     kė, kad negalėsią būti jokios kalbos apie bet kokį tolesnį po-
@@ -153,19 +105,13 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
     P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
     cijai.
-  citata_rodoma: "|"
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
-
-- id: c-00133
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  statusas: verified
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
     naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
@@ -173,15 +119,53 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
     J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
     pirmininku Taryba išsirinko A. Smetoną.
-  citata_rodoma: "|"
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  statusas: verified
 
+## Citatos
+
+- id: c-00089
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    |
+  citata_rodoma: "|"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-00132
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    |
+  citata_rodoma: "|"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-00133
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    |
+  citata_rodoma: "|"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-36683
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

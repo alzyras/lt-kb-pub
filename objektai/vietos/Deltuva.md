@@ -8,13 +8,13 @@ datos:
   - '1221 m.'
 date_start: '1221'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Deltuva
 
 ## Santrauka
@@ -91,28 +92,6 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 - susijęs iš Nalšėnai: Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.
 - susijęs iš Nalšėnai: Ipatijaus metraštis Nalšėnus mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
 - susijęs iš [[objektai/zodynas/družina.md#claim-t-32773|družina]]: Nalšėnų Daumantas, bijodamas patekti Vaišvilkui į rankas, pabėgo į Pskovą su šeima, bajorais ir palydovais, vadinamais družina.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie tai dar bus mūsų is­
-    torijos tęsinyje.
-    221
-
-    ## Puslapis 221
-
-    Kukovaitis (Kukowojtis)
-    Sudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­
-    patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­
-    laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
-    įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-111138
@@ -140,18 +119,17 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lyginant lietuvių mitologiją su senąja graikų ir romėnų
-    mitologija, be pritempimo ir be kokio nors išankstinio įsitiki­
-    nimo savaime krito į akis panašumai ir beveik tapatumai. Greta
-    to, vertindami pastangas mitologų, norinčių įtvirtinti priešin­
-    gą nuomonę, kaip antai S tenderio1, atkakliai ieškojusio duo­
-    menų tokiai nuomonei pagrįsti, radome vien tik tuščius spė­
-    liojimus, etimologinę painiavą ir kažkokį užsispyrimą ginant
-    savo įsivaizdavimą. Dabar šioje antrojoje knygoje užsibrėžė­
-    me tikslą smulkiai išnarstyti visą mitologiją, paaiškinti tai, ką
-    pasakėme pirmojoje, ir, pateikdami duomenis, nušviečiančius
-    lietuvių tautos senovę, dar uoliau ieškoti tiesos su tokiu pačiu
-    bešališkumu.
+    Apie tai dar bus mūsų is­
+    torijos tęsinyje.
+    221
+
+    ## Puslapis 221
+
+    Kukovaitis (Kukowojtis)
+    Sudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­
+    patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­
+    laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
+    įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
   citata_rodoma: "Apie tai dar bus mūsų is­\ntorijos tęsinyje.\n221\n\n## Puslapis 221\n\nKukovaitis (Kukowojtis)\nSudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­\npatavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­\nlaidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai\nįvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -160,6 +138,3 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-
-## Ryšiai
-- Turėjo palaidotą asmenį: [[objektai/asmenys/Kernius]]

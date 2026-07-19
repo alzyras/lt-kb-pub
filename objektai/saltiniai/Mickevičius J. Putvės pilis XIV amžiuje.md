@@ -72,11 +72,18 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 <a id="claim-t-60958"></a>
 - t-002
   teiginys: "Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kreiviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mickevičius J. Putvės pilis XIV amžiuje: owner_note_path, source"
+  ryšio_targeto_parinkimas: "Kreiviai: mention_match, place, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mickevičius J. Putvės pilis XIV amžiuje\" parinktas kaip owner_note_path. Targetas \"Kreiviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-61588
+    - c-61590
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -115,7 +122,6 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-61589
   autorius: "Petras Dusburgietis"
@@ -137,20 +143,15 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolį Zigfridą, Prūsijos žemės didįjį magistrą
-    1309 viešpaties metais, rugsėjį atvyko į Prūsijos žemę brolis Zigfridas iš Foichtvangeno,
-    vienuoliktas didysis magistras ir aštuonioliktas Prūsijos žemės magistras, ir perkėlė į
-    Marienburgo pilį Prūsijoje Ordino vyriausiąją būstinę, kuri po Akono miesto sugriovimo
-    buvo Venecijoje.
-    305 (298). Apie [giesmę] „Sveika, Marija“
-    Tuo metu, 1309 metais brolius kamavo galybė visokeriopų vargų. Todėl tas pats brolis
-    Zigfridas, magistras, nutarė, kad broliai vienuoliai po atskirų liturginių valandų giedotų
-    antifoną: „Sveika, karaliene“ su atsakymu: „Kiekvienoje priespaudoje“ bei kolektą
-    „Apsaugok, viešpatie“, o broliai pasauliečiai — vieną „Sveika, Marija“ švenčiausiajai
-    mergelei pagerbti, kad per jos užtarimą ši sumaištis šiek tiek aprimtų.
+    kranto vingyje, esančioje Pilikėje (aikštelė 40Х Х24 m, be žymesnių įtvirtinimų
+    pėdsakų) galėjo būti anksčiau statyta pilaitė. Kreiviai (anksčiau vadinti Kryvos vardu
+    — Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.
+    paaiškinimus D. III, 5, 1).
   citata_rodoma: "kranto vingyje, esančioje Pilikėje (aikštelė 40Х Х24 m, be žymesnių įtvirtinimų\npėdsakų) galėjo būti anksčiau statyta pilaitė. Kreiviai (anksčiau vadinti Kryvos vardu\n— Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.\npaaiškinimus D. III, 5, 1)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

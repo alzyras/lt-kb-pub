@@ -41,7 +41,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 <a id="claim-t-07649"></a>
 - t-004
   teiginys: "Viežlybumą moterys turėjo saugoti namuose kartu su ugnimi."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 19:54"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:

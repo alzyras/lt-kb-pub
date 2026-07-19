@@ -47,10 +47,12 @@ Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Brac
   pagrindžia:
     - c-168667
 - susijęs iš Braclavas: Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-168667
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Niekas taip
     D im itru i a tid u o d a  tė-
@@ -66,36 +68,6 @@ Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Brac
 
     Braclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs
     šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-168667
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Ką rado miestiečių namuose, tas atiteko kariams, kuni­
-    gaikščio Dimitro lobiai ir visi turtai, sugabenti į pilį ir
-    bažnyčias, pakliuvo į Vytauto iždą. Po to, kai visas Se-
-    verskas vėl kaip kadaise atsi-
-    S e v e r s k ą
-    p riju n g ia
-    dūrė Lietuvos Didžiosios Ku-
-    p rie L ietu vo s
-    nigaikštystės valdžioje, kraš­
-    tui buvo paskirtas vietinin­
-    kas, turėjęs Vytauto vardu jį valdyti ir žiūrėti, kad
-    Dimitro šalininkai nesukeltų karo. Dimitrą su žmona bei
-    vaikais išsiuntė į Vilnių, čia jį ilgam uždarė Aukštuti­
-    nėje pilyje, o į laisvę paleido, kai Aleksandras (žmonių
-    vadinamas Olegu), Riazanės kunigaikštis, karštomis
-    maldomis jį užstojo ir, davęs užstatą, laidavo jam Vy­
-    tauto palankumą.
   citata_rodoma: "Niekas taip\nD im itru i a tid u o d a  tė-\nstipriai nesutramdo išpuikėlio\nv o n iją\nširdies, kaip nesėkmė, todėl\nir Dimitras, ilgai kalėdamas,\nišmoko klusnumo. Vėliau, prisiekęs visada būti ištiki­\nmas Vytautui bei jo įpėdiniams, gavo iš jo valdyti\n342\n\n## Puslapis 341\n\nBraclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs\nšiomis didelėmis valdomis, liovėsi reikalavęs Seversko."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

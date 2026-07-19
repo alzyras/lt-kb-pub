@@ -80,10 +80,7 @@ Nenurodyta
   puslapiai: "p. 48 (PDF 46)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 48 (PDF 46)."
   citata_originali: |
-    Priėjęs prie savo kiemo radau jaučius
-    ant tilto bestovinčius prie užkeltų vartų. Atkėliau vartus, suleidau jau­
-    čius ir užkabinau. Atsiskyriau su bendraganėmis neatsisveikinęs; tada
-    dar nebuvo papročio sakyti „labanakt“ .
+    Atsiskyriau su bendraganėmis neatsisveikinęs; tada dar nebuvo papročio sakyti „labanakt“.
   citata_rodoma: "Atsiskyriau su bendraganėmis neatsisveikinęs; tada dar nebuvo papročio sakyti „labanakt“."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

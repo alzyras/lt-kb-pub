@@ -101,23 +101,15 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Didysis kunigaikštis Vytautas, sutelkęs visas savo
-    pajėgas, ištraukė į Naugardo žemę2, prastovėjo šešis
-    mėnesius prie Porchovo miesto3 ir, nepaėmęs miesto,
-    nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
-    gindamas ir imdamas nelaisvėn *.
-    Sekančiais metais didysis kunigaikštis Vytautas išsi­
-    rengė prieš Pskovo miestą5 ir paėmė Pskovo miestus
-    Veližą6 ir Krasnyj Gorod7. Pskoviečiai, nebenorėdami,
-    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
-    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
-    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
-    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
-    (07
-
-    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
-    jų, pramintą Nosimi8, o pats su visomis pajėgomis nu­
-    žygiavo prieš Naugardą.
+    Štai kas nutiko po šito dangaus ženklo didžiajam
+    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
+    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
+    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
+    prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
+    verskiečius, atėmė iš jų du bebrus ir tris statines me-
+    dausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­
+    nius, kad suieškojęs nubaustų kaltininkus bei atlygintų
+    nuostolius severskiečiams.
   citata_rodoma: "Štai kas nutiko po šito dangaus ženklo didžiajam \nkunigaikščiui Vytautui, draugiškai sugyvenusiam su \nsavo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi \nDimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio, \nprie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se- \nverskiečius, atėmė iš jų du bebrus ir tris statines me-\ndausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­\nnius, kad suieškojęs nubaustų kaltininkus bei atlygintų \nnuostolius severskiečiams."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

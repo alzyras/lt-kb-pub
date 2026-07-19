@@ -48,13 +48,8 @@ Dusburgietis teigia, kad 336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kai
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Daug gera padaręs Prūsijos žemėje, jis sugrįžo į Vokietiją, kur, tapęs Vokietijos
-    žemės magistru, mirė ir buvo palaidotas.
-    79 (78). Apie vieno Karaliaučiaus brolio šlovingą gyvenimą
-    Tuo metu Karaliaučiaus pilies brolių konvente gyveno brolis Hermanas, pravarde
-    Saracėnas341, gimęs Švabijoje; dar būdamas pasaulietis, jis taip karštai pamilo
-    švenčiausiąją mergelę Mariją, kad niekada niekam nieko neatsakydavo, jos vardu ko
-    paprašytas.
+    336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito,
+    Auglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p.
   citata_rodoma: "336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito,\nAuglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

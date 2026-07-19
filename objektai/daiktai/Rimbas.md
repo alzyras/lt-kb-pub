@@ -57,31 +57,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195312"></a>
-- t-002
-  teiginys: "Elgetos pasakojime rimbas yra apsigynimo nuo šunų įrankis, į kurio galą įsirišama vinis."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177690
-
-<a id="claim-t-195313"></a>
-- t-001
-  teiginys: "Kerdžiaus rimbas aprašomas kaip ganymo, drausminimo ir bausminimo priemonė."
-  atnaujinta: "2026-07-19 18:01"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177692
-- susijęs iš [[objektai/daiktai/Lazda.md#claim-t-195347|Lazda]]: Elgetos nešiojamas gynybos ir pasiramstymo daiktas.
-- susijęs iš [[objektai/posakiai/Trimitais trimituoti, dambreliais uždambriuoti.md#claim-t-195421|Trimitais trimituoti, dambreliais uždambriuoti]]: Dainose randama formulė apie trimitus ir dambrelius.
-- susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.
-- susijęs iš [[objektai/zodynas/Triūba ir trimitas.md#claim-t-195454|Triūba ir trimitas]]: Triūba šiame šaltinyje yra ilgo trimito pavadinimas.
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -102,12 +77,10 @@ Nenurodyta
   citata_rodoma: "Dar prieš ateidamas įsirišau į galą rimbo vinį. Gi kai pašiaušiu rimbu pažemiu, lyg dalgiu — kliudžiau kalei per koją."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-177691
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -147,12 +120,10 @@ Nenurodyta
   citata_rodoma: "Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas, vadinamas triūba."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-177693
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -211,17 +182,17 @@ Nenurodyta
   puslapiai: "p. 50 (PDF 48)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 50 (PDF 48)."
   citata_originali: |
-    Kai apvynioja to­
-    še, trimitas jau pabaigtas.
-    Antras kerdžiaus įrankis buvo ilgas rimbas ant trumpo koto; valdė
-    jį kaire ranka, imdamas į dešinę tada, kai trimitavo.
-    Viso kaimo jau­
-    nimas yra ganęs, kiekvienas jaunikaitis yra jo guldytas ant kupsto ir
-    skersai raižiotas keturlinkų rimbu; vienok jaunimas jį gerbė, nenustojo
-    vadinti „dėde“ , nes žinojo, kad raižymas buvo nebe reikalo.
+    Viso kaimo jaunimas yra ganęs, kiekvienas jaunikaitis yra jo guldytas ant kupsto ir skersai raižiotas keturlinkų rimbu; vienok jaunimas jį gerbė, nenustojo vadinti „dėde“, nes žinojo, kad raižymas buvo nebe reikalo.
   citata_rodoma: "Viso kaimo jaunimas yra ganęs, kiekvienas jaunikaitis yra jo guldytas ant kupsto ir skersai raižiotas keturlinkų rimbu; vienok jaunimas jį gerbė, nenustojo vadinti „dėde“, nes žinojo, kad raižymas buvo nebe reikalo."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Teiginiai
+
+- susijęs iš [[objektai/daiktai/Lazda.md#claim-t-195347|Lazda]]: Elgetos nešiojamas gynybos ir pasiramstymo daiktas.
+- susijęs iš [[objektai/posakiai/Trimitais trimituoti, dambreliais uždambriuoti.md#claim-t-195421|Trimitais trimituoti, dambreliais uždambriuoti]]: Dainose randama formulė apie trimitus ir dambrelius.
+- susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.
+- susijęs iš [[objektai/zodynas/Triūba ir trimitas.md#claim-t-195454|Triūba ir trimitas]]: Triūba šiame šaltinyje yra ilgo trimito pavadinimas.

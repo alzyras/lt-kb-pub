@@ -155,20 +155,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Redakcinėje pastaboje spėjama, kad Raseinių korespondentas galėjo būti Simonas Stanevičius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tekstas, kuriuo T. Narbutas papildė skyrių, reng­
-    damas antrąjį LTI leidimą (PEĮ. -  L. 104-105). Ga­
-    lima spėti, kad šio laiško autorius, tai yra Raseinių
-    korespondentas, galėjo būti ir Simonas Stanevičius
-    (1799-1848).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -258,15 +244,11 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    - Bruns-
-    berga, 1604.
-    P. 238** - Turimi omenyje straipsniai: Portret na blaszce ry-
-    towany teologa Pomorskiego Jakóba Fabriciusza,
-    zachowujacy sic w zbiorze zabytków starozytnosci
-    Litewskich Pana Dyonizego Paszkiewicza. Tudziez,
-    wzmianka o pracach i badaniach profesora Króle-
-    wieckiego Pana Rhesa w przedmiocie starozytnosci
-    Litewskich // Dziennik Wileñski.
+    Tekstas, kuriuo T. Narbutas papildė skyrių, reng­
+    damas antrąjį LTI leidimą (PEĮ. -  L. 104-105). Ga­
+    lima spėti, kad šio laiško autorius, tai yra Raseinių
+    korespondentas, galėjo būti ir Simonas Stanevičius
+    (1799-1848).
   citata_rodoma: "Tekstas, kuriuo T. Narbutas papildė skyrių, reng­\ndamas antrąjį LTI leidimą (PEĮ. -  L. 104-105). Ga­\nlima spėti, kad šio laiško autorius, tai yra Raseinių\nkorespondentas, galėjo būti ir Simonas Stanevičius\n(1799-1848)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

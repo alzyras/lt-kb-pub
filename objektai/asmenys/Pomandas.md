@@ -102,15 +102,13 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pomando patariami, susirinko visi Varmės, Notangos, Bartos galingesnieji bei kiti kariauti
-    pasirengę vyrai ir apsupo Baigos pilį, įsitaisę čia karo stovyklas, tačiau broliai, iš anksto
-    žinodami, ką jie daro ir kaip tvarkosi, sutelkė minėtojo Braunšveigo kunigaikščio bei kitų
-    maldininkų jėgas ir pakilo į kovę, ir visus išžudė, nepalikdami nė vieno, kuris tokį įvykį
-    galėtų papasakoti busimosioms kartoms. Sitai padarę, kunigaikštis bei broliai su savo
-    kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami
-    pelenais, o žmones išsivesdami į nelaisvę arba išžudydami. Toliau būdamas Baigos
-    pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
-    taip kamavo prusus, kad tie nė atsikvėpti negalėjo.
+    Galop pats
+    Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių
+    sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį
+    didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį pas brolius,
+    imtis tikėjimo bei tikinčiųjų reikalo. Taigi Pomandas iš Baigos pilies sugrįžo pas savo
+    bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai
+    nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.
   citata_rodoma: "Galop pats\nKristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių\nsunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį\ndidelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį pas brolius,\nimtis tikėjimo bei tikinčiųjų reikalo. Taigi Pomandas iš Baigos pilies sugrįžo pas savo\nbendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai\nnudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

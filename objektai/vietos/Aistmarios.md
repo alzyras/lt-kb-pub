@@ -146,16 +146,11 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
-    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
-    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
-    137 (132). Apie atskirų Prūsijos žemės pilių bei miestų kovas per antrąją atskatūnybę,
-    pirmiausia apie Balgą
-    Bendrais bruožais aprašius karus, vykusius antrosios atskalūnybės metais, reikia
-    papasakoti ir apie kiekvienos pilies bei kiekvieno Prūsijos žemės valsčiaus kovas. Tegu
-    nesijaudina skaitytojas, jeigu kai kurių antrosios atskalūnybės paminėtų ar paminėtinų
-    karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
-    atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
+    Jis sugalvojo būdą, kaip  jį pribaigti,
+    ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios
+    Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,
+
+      409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.
   citata_rodoma: "Jis sugalvojo būdą, kaip  jį pribaigti,\nir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios\nSembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,\n\n  409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

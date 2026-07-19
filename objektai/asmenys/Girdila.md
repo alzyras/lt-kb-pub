@@ -99,19 +99,13 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai jie priėjo šio
-    kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės
-    kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė
-    juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
-    ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
-    žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-    229 (224). Apie tą patį
-    Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
-    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
-    ir prikrautą prekių laivą, paskui kurį slaptai ir leidosi; kai upeiviai papietavę sugulė
-    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
-    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
-    po 20 markių dalies.
+    Apie išdavystę, per kurią žuvo šimtas krikščionių
+
+      1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai
+    gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams
+    visokeriopų eibių. Kai broliai jam juos išskyrė, jis  ir patraukė su jais prie Aukaimio
+    pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga
+    juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.
   citata_rodoma: "Apie išdavystę, per kurią žuvo šimtas krikščionių\n\n  1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai\ngerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams\nvisokeriopų eibių. Kai broliai jam juos išskyrė, jis  ir patraukė su jais prie Aukaimio\npilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga\njuos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

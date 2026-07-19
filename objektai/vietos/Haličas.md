@@ -10,13 +10,13 @@ datos:
   - '1128 m.'
 date_start: '1128'
 date_end: ''
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -158,6 +158,27 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
 - susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54792|Municipalinė teisėtvarka]]: Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu.
 - susijęs iš [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės.md#claim-t-86642|Teutonų teisė vokiečių miestų teisės]]: Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.
 - susijęs iš [[objektai/zodynas/sostapilis.md#claim-t-184358|sostapilis]]: Mindaugo sostapilio ieškota keliose Žemaičių vietose.
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Po pergalės prie Drohičino kunigaikštis Vasilka daug belaisvių jotvingių pasiuntė į Haličą savo broliui.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Ypač vokiečių godumą skatino tur­
+    tinga Sembos provincija, bet šie atkaklūs bandymai ją
+    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
+    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
+    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
+    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
+    nės kraštais. Buvo baiminamasi didžiausio pralaimėjimo,
+    jei šios provincijos ir gentys, sudariusios tarpusavio są­
+    jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
+    1 Henning.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-24137
@@ -259,16 +280,13 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ypač vokiečių godumą skatino tur­
-    tinga Sembos provincija, bet šie atkaklūs bandymai ją
-    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
-    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
-    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
-    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
-    nės kraštais. Buvo baiminamasi didžiausio pralaimėjimo,
-    jei šios provincijos ir gentys, sudariusios tarpusavio są­
-    jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
-    1 Henning.
+    Kunigaikštis Vasilka, išžygiavęs iš Voluinės
+    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
+    čino (dabar Kobrino apskritis). Prie pat šio miesto sienų
+    įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
+    pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
+    gaikštukų. Daug kitų Vasilka paėmė į nelaisvę ir pasiun­
+    tė į Haličą savo broliui; visi tuo labai džiaugėsi2.
   citata_rodoma: "Kunigaikštis Vasilka, išžygiavęs iš Voluinės\nVladimiro, jau trečią dieną pasivijo juos prie pat Drohi-\nčino (dabar Kobrino apskritis). Prie pat šio miesto sienų\nįvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią\npergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-\ngaikštukų. Daug kitų Vasilka paėmė į nelaisvę ir pasiun­\ntė į Haličą savo broliui; visi tuo labai džiaugėsi2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

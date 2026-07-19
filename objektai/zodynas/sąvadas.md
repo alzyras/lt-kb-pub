@@ -146,19 +146,10 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Vėliau, išmirus Palemono
-    įpėdiniams ir sekančios Kentauro herbo dinastijos ku­
-    nigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi-
-    minaičių dinastijos valdovui Vyteniui.
-    Mokslinėje literatūroje toji istorija vadinama le­
-    gendine. Todėl ir pradinė Platesniojo sąvado teksto
-    dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks­
-    lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le­
-    gendine.
-    Tolimesnioji Lietuvos istorija, pradedant Gedimino
-    sūnų išvardijimu, Platesniajame sąvade dėstoma pagal
-    Trumpojo sąvado antrąją, XV a. pabaigoje kilusią re­
-    dakciją.
+    Trumpajame sąvade, sudarytame apie 1446 m., nuo­
+    sekliau ir išsamiau nušviečiama tiktai 1377—1445 m .
+    laikotarpio feodalinės Lietuvos valstybės politinė is­
+    torija.
   citata_rodoma: "Trumpajame sąvade, sudarytame apie 1446 m., nuo­\nsekliau ir išsamiau nušviečiama tiktai 1377—1445 m . \nlaikotarpio feodalinės Lietuvos valstybės politinė is­\ntorija."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -173,18 +164,9 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Todėl ir pradinė Platesniojo sąvado teksto
-    dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks­
-    lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le­
-    gendine.
-    Tolimesnioji Lietuvos istorija, pradedant Gedimino
-    sūnų išvardijimu, Platesniajame sąvade dėstoma pagal
-    Trumpojo sąvado antrąją, XV a. pabaigoje kilusią re­
-    dakciją. Prijungiant naujai parašytąją legendinę Lie­
-    tuvos istoriją prie nurašytos Trumpojo sąvado sudėti­
-    nės dalies — Vytauto laikus aprašančio „Didžiųjų Lie­
-    tuvos kunigaikščių metraščio", buvo visiškai perdirbta
-    ir šito šaltinio pradžia.
+    Platesnysis Lietuvos metraščių sąvadas, vadinamas
+    „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­
+    ka", kilo, veikiausiai, XVI a. antrajame dešimtmetyje.
   citata_rodoma: "Platesnysis Lietuvos metraščių sąvadas, vadinamas \n„Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­\nka\", kilo, veikiausiai, XVI a. antrajame dešimtmetyje."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

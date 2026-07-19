@@ -210,14 +210,14 @@ Nenurodyta
 <a id="claim-t-196947"></a>
 - t-011
   teiginys: "Dar apie tą patį bei apie nuostabų įvykį, kurio priežastimi buvęs arbaletas Vargu ar kas galėtų išsamiai apsakyti, kaip išradingai ir sumaniai sembai bei kiti prūsai puldinėjo Karaliaučiaus pilį, kokių aukų patyrė abi kariaujančios šalys nukautaisiais ar."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59813
+    - c-59814
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -233,39 +233,6 @@ Nenurodyta
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
-    kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas
-    sembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,
-    nežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop
-    paspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai
-    trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-007
-  santrauka: 'Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo
-    miestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino
-    jų tėvams.
-
-           95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
-
-       Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir
-    piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos
-    tu globoji.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
@@ -329,15 +296,11 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip buvo palikta Rezlio pilis
-    Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino
-    pilis, labai išsigando ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų
-    keliais pasitraukė.
-    98 (93). Apie laimėtą mūšį, kuriame Julicho ir Markos grafai nukovė tris tūkstančius
-    sembų
-    Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
-    ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
-    nes būgštavo, kad dievas ant jų labai užsirūstinęs.
+    95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
+
+       Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir
+    piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos
+    tu globoji.
   citata_rodoma: "95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą\n\n   Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir\npiktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos\ntu globoji."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -379,16 +342,12 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį
-    Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat
-    pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
-    vėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų
-    ir šitaip jam atseikėjo tuo pačiu saiku. Nusilpęs dėl šios žaizdos, jis pasitraukė su savo
-    kariuomene nepasiekęs tikslo.
-    105 (100). Dar apie tą patį bei apie nuostabų įvykį, kurio priežastimi buvęs arbaletas
-    Vargu ar kas galėtų išsamiai apsakyti, kaip išradingai ir sumaniai sembai bei kiti prūsai
-    puldinėjo Karaliaučiaus pilį, kokių aukų patyrė abi kariaujančios šalys nukautaisiais ar
-    mirtinai sužeistaisiais.
+    Galop aukštybių dievas atėjo jiems  į pagalbą, o kad
+    šitaip buvo, neverta nė abejoti, nes žmonėms vargu ar būtų užtekę jėgų taip grumtis
+    su tokia daugybe priešų, kad broliai galėtų, juos išvaikę, iki pamatų išardyti ir sunaikinti
+    tiltą bei kuorus. Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis
+      373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos
+    punkto, svarbą Ordinui.
   citata_rodoma: "Galop aukštybių dievas atėjo jiems  į pagalbą, o kad\nšitaip buvo, neverta nė abejoti, nes žmonėms vargu ar būtų užtekę jėgų taip grumtis\nsu tokia daugybe priešų, kad broliai galėtų, juos išvaikę, iki pamatų išardyti ir sunaikinti\ntiltą bei kuorus. Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis\n  373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos\npunkto, svarbą Ordinui."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -397,23 +356,18 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-011
 
 - id: c-59814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
-    Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
-    broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,
-    palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
-    kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę
-    vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo
-    atgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus
-    išsklaidė. Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos
-    ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
-    nukovė daugybę sembų.
+    Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
+    kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas
+    sembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,
+    nežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop
+    paspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai
+    trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
   citata_rodoma: "Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,\nkad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas\nsembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,\nnežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop\npaspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai\ntrukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -422,23 +376,25 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+    - t-011
 
 - id: c-167312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas,
-    įgudęs kariauti ir Kristui atsidavęs vyras.
-    97 (92). Apie tai, kaip buvo palikta Rezlio pilis
-    Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino
-    pilis, labai išsigando ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų
-    keliais pasitraukė.
-    98 (93). Apie laimėtą mūšį, kuriame Julicho ir Markos grafai nukovė tris tūkstančius
-    sembų
-    Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
-    ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
-    nes būgštavo, kad dievas ant jų labai užsirūstinęs.
+    Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo
+    miestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino
+    jų tėvams.
+
+
+
+
+           95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
+
+       Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir
+    piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos
+    tu globoji.
   citata_rodoma: "Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo\nmiestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino\njų tėvams.\n\n\n\n\n       95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą\n\n   Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir\npiktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos\ntu globoji."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -157,9 +157,12 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
 - susijęs iš Scriptores rerum Prussicarum: M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.
 - susijęs iš Karaliaučius: M. Tepenas 1861 m. paskelbė Petro Dusburgiečio kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.
 - susijęs iš Rausvė: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-56017
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
     Torunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores
@@ -170,65 +173,6 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
     visuomenei atskleisti šio svarbaus šaltinio turinį ir reikšmę, padaryti plačiau prieinamą
     kronikos tekstą, panagrinėti kai kurias istoriografines, kultūrines, filologines ir kt.
     problemas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-- t-64750
-- c-002
-  santrauka: 'M. Tepenas 1853 m. Berlyne paskelbė veikalą „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
-    Schütz.—Berlin, 1853.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'M. Tepenas 1853 m. Berlyne paskelbė veikalą „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    139 Töppen M. Geschichte der preussischen Historiographie, S. 266, 140; PKD, s.
-    138.
-      140 Donner G. A. Kardinai Wilhelm von Sabina, S. 233—413.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-- c-006
-  santrauka: 'M. Tepenas 1858 m. Gotoje išleido „Historisch-comparative Geographie von Preussen“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-56017
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    „Lituanistinės bibliotekos“ serijoje pateikiamu Petro iš Dusburgo kronikos teksto
-    vertimu, jo aptarimu įžanginiame straipsnyje bei paaiškinimuose norima platesnei
-    visuomenei atskleisti šio svarbaus šaltinio turinį ir reikšmę, padaryti plačiau prieinamą
-    kronikos tekstą, panagrinėti kai kurias istoriografines, kultūrines, filologines ir kt.
-    problemas.
-    Įvade bandoma apibūdinti kronikos sukūrimo epochą, prūsų ir Lietuvos ryšius,
-    kronikos rankraščius, jų tyrinėjimus, autoriaus politinius ir ideologinius tikslus,
-    kronikos šaltinius, tendenciją, idėjinę teksto reikšmę ir mokslinę svarbą. Kiti
-    klausimai analizuojami paaiškinimuose, kur mėginama lokalizuoti kronikoje minimas
-    vietoves (žr. ir schemą). Remiantis naujausiais istorijos, archeologijos, lingvistikos
-    duomenimis bei savarankiškais tyrinėjimais, visų pirma norima atskleisti kronikos
-    baltistinę, lituanistinę medžiagą.
   citata_rodoma: "Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius\nTorunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores\nrerum Prussicarum“ serijoje paskelbė M. Tepenas. Kronikos lietuviškas vertimas\npublikuojamas pirmą kartą.\n   „Lituanistinės bibliotekos“ serijoje pateikiamu Petro iš Dusburgo kronikos teksto\nvertimu, jo aptarimu įžanginiame straipsnyje bei paaiškinimuose norima platesnei\nvisuomenei atskleisti šio svarbaus šaltinio turinį ir reikšmę, padaryti plačiau prieinamą\nkronikos tekstą, panagrinėti kai kurias istoriografines, kultūrines, filologines ir kt.\nproblemas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -244,10 +188,8 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Иванов В. В., Топоров В. Н. Исследования в области славянских древностей:
-    Лексические и фразеологические вопросы реконструкции текстов. — М., 1974.
-    Иванов В. В., Топоров В. Н. Мифологические географические названия как
-    источник для реконструкции этногенеза и древнейшей истории славян.
+    Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
+    Schütz.—Berlin, 1853.
   citata_rodoma: "Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.\nSchütz.—Berlin, 1853."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -262,12 +204,9 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    pabrėžti, jog prūsai griebiasi šitokio „nepaprasto ir pasaulyje negirdėto būdo“143.
-    Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
-    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir
-    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų ir
-    sūduvių kariuomenę  (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
-    — nurodo „lietuvius ir prūsus“144.
+    139 Töppen M. Geschichte der preussischen Historiographie, S. 266, 140; PKD, s.
+    138.
+      140 Donner G. A. Kardinai Wilhelm von Sabina, S. 233—413.
   citata_rodoma: "139 Töppen M. Geschichte der preussischen Historiographie, S. 266, 140; PKD, s.\n138.\n  140 Donner G. A. Kardinai Wilhelm von Sabina, S. 233—413."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -318,11 +257,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    — М., 1974.
-    Иванов В. В., Топоров В. Н. Мифологические географические названия как
-    источник для реконструкции этногенеза и древнейшей истории славян. — Вопросы
-    этногенеза н этнической истории славян и восточных романцев: Методология и
-    историография, М., 1976, с.
+    Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.
   citata_rodoma: "Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

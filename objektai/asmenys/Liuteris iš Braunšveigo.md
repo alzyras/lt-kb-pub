@@ -79,12 +79,9 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Iš šio vertimo Dusburgiečio
-    kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
-    Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
-    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
-    Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
-    Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
+    Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo
+    (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė
+    jau magistro Ditricho iš Altenburgo (1335—1341 m.
   citata_rodoma: "Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo\n(1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė\njau magistro Ditricho iš Altenburgo (1335—1341 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

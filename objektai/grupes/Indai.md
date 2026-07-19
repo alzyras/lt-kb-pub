@@ -72,7 +72,7 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 <a id="claim-t-189412"></a>
 - t-003
   teiginys: "Narbutas buvo įsitikinęs, kad aptariamas kultas kilo iš indų arba iš tautos prie Himalajų kalnų, iš kurios kilo indai."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -174,12 +174,10 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199225|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199226|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-189467|Budinai]]: Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios paprotys buvo garbinti upių šventumą.
-## Citatos
-
-- id: c-172297
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senuosius įstatymus, papročius ir visuomenės gyvenimo smulkmenas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Atviras, gyvas, aistringas, trokštantis lais­
     vės protas; paprastumas, vaišingumas, noras išgarsėti savo iš­
@@ -195,6 +193,51 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     tė - romėnų, kurie parodė pasauliui didų būdą, didžias dory­
     bes, nepalyginamą tėvynės meilę, vyriškumą, ištvermę, gilia­
     mintę politiką, neišmatuojamą troškimą būti galingi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Narbutas buvo įsitikinęs, kad aptariamas kultas kilo iš indų arba iš tautos prie Himalajų kalnų, iš kurios kilo indai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Saulės rūmai buvo rytuose, kur buvo šventa ir palaiminta
+    šalis, lietuvių protėvių tėvynė - rytų šalis (Aušinimą zemme).
+    Iš šių rūmų tekanti Saulė išvažiuodavo nuostabiu vežimu, ku­
+    ris švietė skaisčiau už devynias galybes liepsnojančių deglų.
+    Vežimą traukė trejetas arklių - sidabrinis, auksinis ir deiman­
+    tinis. Didingai riedėdama savo keliu, apžvelgusi visą pasaulį,
+    kuris, lietuvių supratimu, buvęs ne apvalus, o plokščias ir ova­
+    lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
+    maudyti ir vykdavo į savo rūmus nakties poilsio.
+    Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
+    jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
+    Saulė aptemdavo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-172297
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
+    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
+    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
+    jimuose.
+    Seniausios žemės tautos -  indai ir kinai savo tautiškumo
+    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
+    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
+    nimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,
+    dėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir
+    dabar tebėra to paties apšvietos, politinių institucijų ir religi­
+    jos lygio.
   citata_rodoma: "Kad mums būtų lengviau išsemti visą naudą iš mitologijos\nskaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius\nmus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­\njimuose.\nSeniausios žemės tautos -  indai ir kinai savo tautiškumo\nsvarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­\nnųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­\nnimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,\ndėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir\ndabar tebėra to paties apšvietos, politinių institucijų ir religi­\njos lygio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -229,18 +272,17 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Saulės rūmai buvo rytuose, kur buvo šventa ir palaiminta
-    šalis, lietuvių protėvių tėvynė - rytų šalis (Aušinimą zemme).
-    Iš šių rūmų tekanti Saulė išvažiuodavo nuostabiu vežimu, ku­
-    ris švietė skaisčiau už devynias galybes liepsnojančių deglų.
-    Vežimą traukė trejetas arklių - sidabrinis, auksinis ir deiman­
-    tinis. Didingai riedėdama savo keliu, apžvelgusi visą pasaulį,
-    kuris, lietuvių supratimu, buvęs ne apvalus, o plokščias ir ova­
-    lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
-    maudyti ir vykdavo į savo rūmus nakties poilsio.
-    Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
-    jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
-    Saulė aptemdavo.
+    Be jo­
+    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
+    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
+    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
+    no, gyveno ši tauta, garbinusi dangaus kūnus .
+    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
+    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
+    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
+    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
+    pagrindą ištisai sudaro indų padavimai.
   citata_rodoma: "Be jo­\nkios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­\ndžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­\nno, gyveno ši tauta, garbinusi dangaus kūnus .\nTegu mitologai sako ką nori apie senovės egiptiečių religi­\nją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,\nyra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­\nlio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.\nTaip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,\npagrindą ištisai sudaro indų padavimai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

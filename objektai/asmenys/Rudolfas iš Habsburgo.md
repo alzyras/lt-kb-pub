@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Rudolfas iš Habsburgo
 
 ## Santrauka
@@ -51,18 +52,6 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
   teiginys: "1273 metais Rudolfas iš Habsburgo buvo išrinktas Romos karaliumi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60829
-
-<a id="claim-t-184124"></a>
-- t-003
-  teiginys: "Rudolfas iš Habsburgo savo dukterį atidavė nukauto Čekijos karaliaus Otokaro sūnui."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60829
@@ -111,7 +100,6 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
   pagrindzia:
     - t-002
     - t-001
-    - t-003
     - t-004
 
 - id: c-60830

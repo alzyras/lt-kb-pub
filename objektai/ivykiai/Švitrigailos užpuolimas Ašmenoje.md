@@ -11,15 +11,15 @@ datos:
   - '1434 m.'
 date_start: '1399'
 date_end: '1434'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - karas
   - ivykis
-amziai:
-  - 'XIV'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -146,28 +146,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
-- c-004
-  santrauka: 'Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
+- c-002
+  santrauka: 'Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    31.
-    3 0  Mykolas Jonaitis Alšėniškis d ar buvo gyvas žymiai vėliau
-    (1439— 1448), todėl šioje BK vietoje turėtų būti kalbama apie M y­
-    kolo brol| Simoną Jonaiti Alšėniškj, vieną iš svarbiausių 1432.1X1
-    Švitrigailos užpuolimo Ašmenoje dalyvių. Tačiau šiuo atveju lieka
-    neaišku, kodėl Mykolas Jonaitis Alšėniškis buvęs suimtas „ne­
-    kaltai".
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
-## Citatos
-
-- id: c-169956
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     K. Chodynicki, Geneza i rozwėj podania o zabėjsturie Zygmun-
     ta Kiejstutowicza, Ateneum Wilenskie, 5 (1928), p. 79— 103.
@@ -184,6 +165,40 @@ Nenurodyta
     Švitrigailą ir apkaltintiems neištikimybe. 1437 m. pradžioje buvo
     nukirsdinti Polocko ir Vitebsko pasiuntiniai, atvykę pas Žygimantą
     Kęstutaitį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    31.
+    3 0  Mykolas Jonaitis Alšėniškis d ar buvo gyvas žymiai vėliau
+    (1439— 1448), todėl šioje BK vietoje turėtų būti kalbama apie M y­
+    kolo brol| Simoną Jonaiti Alšėniškj, vieną iš svarbiausių 1432.1X1
+    Švitrigailos užpuolimo Ašmenoje dalyvių. Tačiau šiuo atveju lieka
+    neaišku, kodėl Mykolas Jonaitis Alšėniškis buvęs suimtas „ne­
+    kaltai".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: not_found
+
+## Citatos
+
+- id: c-169956
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    3 3  Petras Mantgirdaltis (Montygerdovv cz) — N augarduko vie­
+    tininkas (1430— 1452), Kopyiio seniūnas (1435) Už dalyvavimą
+    I432.1X.1 Svitrigai.os užpuolime Ašmenoje gavo iš Žygimanto Kęs-
+    tutaičio aukštą krašto vyriausiojo maršalo vietą (nuo 1434 m.)
+    Mirė 1435 m.
   citata_rodoma: "3 3  Petras Mantgirdaltis (Montygerdovv cz) — N augarduko vie­\ntininkas (1430— 1452), Kopyiio seniūnas (1435) Už dalyvavimą \nI432.1X.1 Svitrigai.os užpuolime Ašmenoje gavo iš Žygimanto Kęs- \ntutaičio aukštą krašto vyriausiojo maršalo vietą (nuo 1434 m.) \nMirė 1435 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

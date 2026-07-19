@@ -113,7 +113,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178107"></a>
 - t-033
   teiginys: "Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingomis prekybinėmis gyvenvietėmis."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Didysis Naugardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -124,10 +124,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Didysis Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-161915
     - c-161930
     - c-182699
-    - c-182714
     - c-161917
     - c-182717
 
@@ -329,7 +327,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178124"></a>
 - t-021
   teiginys: "1409 m. vasarą Vytautas sudarė sau naudingą taiką su Pskovu, nors Salyno ir Raciąžo aktai Pskovą buvo garantavę Ordino įtakai."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Salynas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -344,9 +342,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, bet perrašytas sklandžiau ir aiškiau."
   pagrindžia:
     - c-161904
-    - c-32365
-    - c-182733
-    - c-182734
 
 <a id="claim-t-178125"></a>
 - t-035
@@ -388,7 +383,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178127"></a>
 - t-048
   teiginys: "Vėlesniais Vytauto valdymo metais Vilniaus prekyba išsišakojo su Pskovu, Naugardu, Maskva ir kitais kraštais."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -425,22 +420,15 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178130"></a>
 - t-036
   teiginys: "Senyvo amžiaus Vytautas kovėsi su Pskovu ir Naugardu, keršydamas už Lietuvai šių miestų padarytas skriaudas."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-19 19:01"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   temporaliniai_duomenys: "įvykio data: 1429 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti Vytautą ir sutrumpinti sakinį."
   pagrindžia:
-    - c-161915
-    - c-182714
+    - c-161910
+    - c-182704
 
 <a id="claim-t-178132"></a>
 - t-063
@@ -466,7 +454,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178133"></a>
 - t-022
   teiginys: "Ordino reikalautos Žemaičių ribos buvo vedamos iki Pskovo respublikos valdų."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -592,7 +580,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178140"></a>
 - t-002
   teiginys: "Salyno akte ordinui tenkančių žemių sienos buvo nužymėtos iki Pskovo respublikos valdų."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -645,7 +633,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178144"></a>
 - t-047
   teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Maskva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -682,7 +670,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178146"></a>
 - t-034
   teiginys: "Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1267,27 +1255,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-- c-041
-  santrauka: 'Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tais pačiais metais, Vytautui būnant Vokiečių že­
-    mėje, į Marienburgą atvyko pasiuntiniai iš Maskvos,
-    nuo didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus,
-    prašydami didįjį kunigaikštį Vytautą, kad [leistų] duk­
-    terį už didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus.
-    Didysis kunigaikštis Vytautas atidavė savo dukterį ku­
-    nigaikštytę Sofiją ir išleido ją iš Marienburgo, o su
-    ja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš
-    Gdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­
-    mi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos
-    labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
-    gardo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -1374,7 +1341,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
     - t-022
     - t-002
 
@@ -1750,6 +1716,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-035
     - t-048
+    - t-036
     - t-032
 
 - id: c-161915
@@ -1778,8 +1745,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
-    - t-036
     - t-037
     - t-038
 
@@ -2185,19 +2150,18 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   puslapiai: "PDF 93"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 93."
   citata_originali: |
-    Ir didysis kunigaikštis Vytautas įkasė patrankas
-    Tauro kalne, ant kurio didysis kunigaikštis Gediminas
-    buvo nudėjęs taurą ir dėl to tas kalnas vadinasi Taura-
-    kalnis. Įsakė šaudyti į Kreivąjį kalną, ir nemaža to
-    Kreivojo kalno su užtvaromis nuvertė, ir pilies žmo­
-    nes apėmė baimė. O tuo metu didysis kunigaikštis Vy­
-    tautas pradėjo šturmą ir užėmė likusiąją pilies dalį 35,
-    sučiupo kunigaikštį Skirgailą ir uždarė jį kalėjime36,
-    ir Kreivąją pilį sudegino37, ir ėmė valdyti Vilnių ir
-    Lietuvos Didžiąją Kunigaikštystę.
-    Karalius Jogaila pasiuntė pas jį savo pasiunti­
-    nius M, šitaip kreipdamasis: „Nebeniokok daugiau tos
-    Lietuvos žemės, savo ir mūsų tėviškės.
+    Tais pačiais metais, Vytautui būnant Vokiečių že­
+    mėje, į Marienburgą atvyko pasiuntiniai iš Maskvos,
+    nuo didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus,
+    prašydami didįjį kunigaikštį Vytautą, kad [leistų] duk­
+    terį už didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus.
+    Didysis kunigaikštis Vytautas atidavė savo dukterį ku­
+    nigaikštytę Sofiją ir išleido ją iš Marienburgo, o su
+    ja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš
+    Gdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­
+    mi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos
+    labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
+    gardo.
   citata_rodoma: "Tais pačiais metais, Vytautui būnant Vokiečių že­\nmėje, į Marienburgą atvyko pasiuntiniai iš Maskvos, \nnuo didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus, \nprašydami didįjį kunigaikštį Vytautą, kad [leistų] duk­\nterį už didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus. \nDidysis kunigaikštis Vytautas atidavė savo dukterį ku­\nnigaikštytę Sofiją ir išleido ją iš Marienburgo, o su \nja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš \nGdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­\nmi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos \nlabai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau- \ngardo."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
@@ -2237,6 +2201,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-035
     - t-048
+    - t-036
     - t-032
 
 - id: c-182705
@@ -2458,8 +2423,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
-    - t-036
     - t-037
     - t-038
 
@@ -2947,7 +2910,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
     - t-022
     - t-002
 
@@ -2972,7 +2934,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
     - t-022
     - t-002
 
@@ -3044,4 +3005,4 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - Puolė Pskovą: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gynė Pskovą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Dovydas Gardiniškis]]
 - Buvo žygio kryptis: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Prekiavo su: [[objektai/vietos/Vilnius]]
+- Prekiavo su: Vilnius

@@ -599,21 +599,12 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
-    tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar
-    nepakako, galop atėjo visa likusi kariuomenė, taip tirštai padengdama ledą, kaip skėriai
-    padengia žemę; kai karalius paklausė, ar šitiek kariuomenės pakanka, kad galėtum šį
-    tą nuveikti Sembos žemėje, jis atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
-    Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
-    ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.
-    Jis vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai,
-    todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo
-    ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.
-    Tada karalius įsibrovė į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas
-    Medenava, ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs į
-    nelaisvę ir išžudęs, ten pat ir pernakvojo. Kitą dieną patraukė į Rudavos valsčių ir ten
-    pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,
-    321 D.— Medenow, Jer.
+    Susitaikius Čekijos karalius
+    nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
+    vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
+    Kandeimu, gerai žinojusį visą Sembos karių galią. Kai karalius jį paklausė, rodydamas
+    tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
+    nieku būdu.
   citata_rodoma: "Susitaikius Čekijos karalius\nnuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,\nvardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama\nKandeimu, gerai žinojusį visą Sembos karių galią. Kai karalius jį paklausė, rodydamas\ntik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad\nnieku būdu."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -628,17 +619,16 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie sembų pavergimą
-    Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
-    sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
-    karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
-    kuris šiame maldininkų žygyje buvo jo maršalas, Austrijos kunigaikštį, Moravijos
-    markgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą
-    su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
-    Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
-    atkeršyti už nukryžiuotojo viešpaties kančias. Tokia didelė buvo ši kariuomenė, kad joje
-    318 Pršemislas Otokaras II, Čekijos karalius (1253—1278), 1254 m. gruodžio
-    pabaigoje dar tebuvo Vroclave.
+    Apie karo su sembais rezultatų atspėjimą
+
+      Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau
+    jį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,
+    maloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.
+    Šis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad
+    broliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes
+    turime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,
+    bet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš
+    pragaištį.
   citata_rodoma: "Apie karo su sembais rezultatų atspėjimą\n\n  Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau\njį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,\nmaloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.\nŠis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad\nbroliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes\nturime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,\nbet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš\npragaištį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -692,17 +682,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Todėl,
-    kai Pobravas, susivienijęs su notangais ir variniais, naktį pasiuntė daug pėstininkų į
-    Balgos lauką, o pats anksti rytą su raiteliais užgrobė brolių gyvulius ir užmušė tris
-    juos saugojusius vyrus, brolis Gerhardas iš Reino ir nemaža kitų brolių bei ginklanešių
-    nusivijo juos, nužudė Pobravą bei šešis vyrus ir išplėšė iš jų rankų grobį.
-    140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
-    lies bei miesto paėmimą
-    Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
-    pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
-    tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
-    kariuomene ją apsupo, visą dieną smarkiai puolė.
+    Paskui jie patraukė prieš Baigą ir pagrobė brolių arklius bei gyvulius, ir šitai
+    buvo ne vieną, bet keletą kartų.
+
+
+
+
+                     138 (133).
   citata_rodoma: "Paskui jie patraukė prieš Baigą ir pagrobė brolių arklius bei gyvulius, ir šitai\nbuvo ne vieną, bet keletą kartų.\n\n\n\n\n                 138 (133)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -768,13 +754,9 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai kryžiuočiai jau nebegalėjo priešintis apgultame Bartenšteine, dievas
-    juos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi
-    mergelė Marija (III, 141). Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
-    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
-    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
-    kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
-    kariuomenę (III, 251).
+    Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti
+    saviškius (III, 26). Dievo apvaizda patvarkė, kad prūsai išdavė broliams Vėluvos pilį
+      63 SRP, B.
   citata_rodoma: "Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti\nsaviškius (III, 26). Dievo apvaizda patvarkė, kad prūsai išdavė broliams Vėluvos pilį\n  63 SRP, B."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

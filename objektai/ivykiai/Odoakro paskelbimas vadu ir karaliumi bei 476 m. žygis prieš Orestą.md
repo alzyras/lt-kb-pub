@@ -86,10 +86,12 @@ Nenurodyta
   pagrindžia:
     - c-173931
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi, o Odoakras iš Panonijos išžygiavo prieš Orestą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-173930
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     303
 
@@ -104,49 +106,6 @@ Nenurodyta
     mas gausius būrius. Orestas, nedrįsęs atvirai pasiprie­
     šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
     laikoma Italijos sostine.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Odoakro kariuomenei apgulus Paviją, miestas buvo užimtas, apiplėštas ir sunaikintas, o Orestas žuvo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Orestas, nedrįsęs atvirai pasiprie­
-    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
-    laikoma Italijos sostine. Odoakro kariuomenės apgultas
-    miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
-    tas; Orestas žuvo. Be pasipriešinimo užėmus Raveną,
-    imperatorius Augustulas pateko nelaisvėn ir liko gyvas
-    tik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­
-    ratoriaus ženklus ir purpurus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173930
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Karingoms, nesvetingų italų pavydo ir Oresto griež­
-    tumo išgąsdintoms gentims nieko daugiau nereikėjo; 476
-    metų pradžioje visi alanai, turcilingai, gepidai, skiriai,
-    herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
-    naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
-    mas gausius būrius. Orestas, nedrįsęs atvirai pasiprie­
-    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
-    laikoma Italijos sostine. Odoakro kariuomenės apgultas
-    miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
-    tas; Orestas žuvo. Be pasipriešinimo užėmus Raveną,
-    imperatorius Augustulas pateko nelaisvėn ir liko gyvas
-    tik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­
-    ratoriaus ženklus ir purpurus.
   citata_rodoma: "303\n\n## Puslapis 314\n\n317\nKaringoms, nesvetingų italų pavydo ir Oresto griež­\ntumo išgąsdintoms gentims nieko daugiau nereikėjo; 476\nmetų pradžioje visi alanai, turcilingai, gepidai, skiriai,\nherulai paskelbė Odoakrą savo vadu jr karaliumi. Sis\nnaujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­\nmas gausius būrius. Orestas, nedrįsęs atvirai pasiprie­\nšinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo\nlaikoma Italijos sostine."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -161,15 +120,14 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Odoakro kariuomenės apgultas
+    Orestas, nedrįsęs atvirai pasiprie­
+    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
+    laikoma Italijos sostine. Odoakro kariuomenės apgultas
     miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
     tas; Orestas žuvo. Be pasipriešinimo užėmus Raveną,
     imperatorius Augustulas pateko nelaisvėn ir liko gyvas
     tik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­
-    ratoriaus ženklus ir purpurus. Be to, jam davė įtvirtintą
-    miestą, esanti netoli Neapolio, t. y. Lukulanumą, kuris
-    atnešdavo šešis tūkstančius solidų, to meto piniginių vie­
-    netų, metinių pajamų.
+    ratoriaus ženklus ir purpurus.
   citata_rodoma: "Orestas, nedrįsęs atvirai pasiprie­\nšinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo\nlaikoma Italijos sostine. Odoakro kariuomenės apgultas\nmiestas netrukus buvo užimtas, apiplėštas ir sunaikin­\ntas; Orestas žuvo. Be pasipriešinimo užėmus Raveną,\nimperatorius Augustulas pateko nelaisvėn ir liko gyvas\ntik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­\nratoriaus ženklus ir purpurus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

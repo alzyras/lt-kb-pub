@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Rygiečiai
 
 ## Santrauka
@@ -52,23 +53,6 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   semantiniai_rysiai: "Rygiečiai buvo priešas Kryžiuočių ordinas (0.82)"
   pagrindžia:
     - c-163137
-
-<a id="claim-t-179439"></a>
-- t-001
-  teiginys: "Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį."
-  atnaujinta: "2026-07-19 18:01"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Gediminas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai įvardyta Gedimino ir rygiečių sąjunga."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Rygiečiai buvo sąjungininkas su Gediminas (0.93); Rygiečiai kariavo prieš Kryžiuočių ordinas (0.86); Rygiečiai puolė Daugavgryva (0.78)"
-  pagrindžia:
-    - c-163133
 
 <a id="claim-t-179441"></a>
 - t-005
@@ -133,12 +117,10 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     IX.) nuteriojo ordino valdas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-163134
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -192,6 +174,3 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Lietuviai]]

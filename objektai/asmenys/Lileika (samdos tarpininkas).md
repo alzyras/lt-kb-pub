@@ -127,11 +127,7 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
   puslapiai: "p. 156 (PDF 154)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 156 (PDF 154)."
   citata_originali: |
-    Sakosi neturįs dar vietos ir galvojąs, iš ko čia galima pasigerti.
-    Kitas žmogus, Lileika, jis nei samdo nei persisamdo, jis laisvas nuo
-    to rūpesčio. Lileika mato Grigorą ir supranta jo troškulį — tad priei­
-    na prie jo ir sako:
-    — Aš tave papiršiu Jokūbui, gerai?
+    Lileika mato Grigorą ir supranta jo troškulį — tad prieina prie jo ir sako: „Aš tave papiršiu Jokūbui, gerai?“
   citata_rodoma: "Lileika mato Grigorą ir supranta jo troškulį — tad prieina prie jo ir sako: „Aš tave papiršiu Jokūbui, gerai?“"
   statusas: verified
   atnaujinta: "2026-07-12 06:38"

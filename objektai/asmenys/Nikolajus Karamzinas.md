@@ -122,10 +122,12 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   pagrindžia:
     - c-174028
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pradžioje buvo atstatytas po poloviečių sunaikinimo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174024
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
     ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
@@ -134,42 +136,6 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
     Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
     statytas XII amžiaus pradžioje po to, kai jį sunaikino
     poloviečiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Teodoras Narbutas remiasi Karamzinu teigdamas, kad poloviečiai patys save vadino Kipczak.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Dešiniojoje Dnep-
-    1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
-    (t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­
-    rius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174024
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Tatiščevas**, gal geriau žinojęs šiuos
-    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
-    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
-    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
-    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
-    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
-    vės upę Ros. Topografiniuose prisiminimuose, apie ku­
-    riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
-    aprašome: nuo Oskolo miestelio, esančio prie to paties
-    1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida.
   citata_rodoma: "Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -204,14 +170,10 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pečenegų pavadinimas buvo bendrinis arba tai­
-    komas visai tautai, t. y. abiem jos pusėms, gyvenančioms
-    abipus Dnepro žemupio. Bet ta pusė, kuri gyveno kairio­
-    joje šios upės pakrantėje, buvo pavadinta poloviečiais
-    nuo pusės (polouiy, arba potovuicy). Neabejotinai slaviš­
-    ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
-    kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
-    vengrai vadino šias gentis kumanais.
+    Dešiniojoje Dnep-
+    1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
+    (t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­
+    rius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto.
   citata_rodoma: "Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas\n(t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­\nrius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -323,20 +323,6 @@ media_all_json: |-
 - susijęs iš Sedlcai: Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais.
 - susijęs iš Dobryniaus: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
 ## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
-    būdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
-
-      160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo  ir
-    Lenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-009
   santrauka: 'Teodoro Narbuto pasakojime kujavai vėliau persikėlė prie Vyslos žemupio ir įsikūrė jos kairiajame krante, Kujavijoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -475,16 +461,11 @@ media_all_json: |-
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Krokuvos kunigaikštis.
-    161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
-    misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
-    tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
-    ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno). Kristijono misijai padėjo Danijos
-    karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui
-    pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad
-    tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
-    dovanojęs Gdansko kunigaikštis Mščujus, ketinęs panaudoti cistersų misiją savo
-    politiniams tikslams).
+    Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
+    būdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
+
+      160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo  ir
+    Lenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis.
   citata_rodoma: "Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys\nbūdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo\n\n  160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo  ir\nLenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

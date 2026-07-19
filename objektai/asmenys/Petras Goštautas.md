@@ -10,15 +10,15 @@ datos:
   - '1345 m.'
 date_start: '1314'
 date_end: '1345'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
   - asmuo
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -395,6 +395,65 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - susijęs iš Rusia Rusios žemės: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
 - susijęs iš Rusia: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
 - susijęs iš [[objektai/zodynas/pagonys.md#claim-t-187543|pagonys]]: Lietuvos metraščio pasakojime Petras Goštautas prašė Algirdo nubausti pagonis, kurie esą žiauriai nužudė nekaltus pranciškonų vienuolius.
+## Reikšmingi paminėjimai
+- c-007
+  santrauka: 'Petras Goštautas, Surmino brolis, žuvo pergalingoje lietuvių kovoje kartu su kitais kariais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    jis, nukirtus inkarų virves, buvo srovės užneštas ant
+    seklumos, kur vos nesudužo, čia jį galop lietuviai už­
+    ėmė ir sudegino. Surminas grįžo pas valdovą nugalė­
+    toju, visiems nešdamas džiaugsmą, o pats slėpdamas
+    širdyje liūdesį, nes šioje pergalingoje kovoje jis ne­
+    teko savo brolio Goštauto drauge su kitais narsiais
+    kariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
+    sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
+    dininkų valsčių. Jeigu lietuviai, parodę tokį narsu­
+    mą, būtų turėję ten daugiau
+    1314 m e ta i
+    karių ir jėgų, tikrai būtų kry­
+    žiuočiai netekę visos stovyk­
+    los, mat penki kariai, nakties tamsoje prasigavę pro
+    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
+    priešų nužudę ir pasiplėšę
+    N e p a p ra sta
+    p e n k ių
+    grobio, kiek tik galėjo pen-
+    iie tu v ių n arsa
+    kiese pakelti, sveiki sugrįžo
+    pas savuosius, įvarydami kry­
+    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
+    būta baimės nei pavojaus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-018
+
+- c-010
+  santrauka: 'Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kita vertus, priešas irgi iš pas­
+    kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
+    nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
+    tis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­
+    bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
+    tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė
+    pradėtą pilį. Po to Prūsijos magistras užėmė ir sude­
+    gino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;
+    taip pat sudegino ir užkariavo Veliuoną, neseniai pa­
+    keltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­
+    tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
+    sausų malkų ir padegė taip, kad vėjas neštų liepsną į
+    pilį, daug gynėjų žuvo ugnyje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-55534
@@ -610,6 +669,12 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
+    Smarkiausia ir sunkiausia kova vyko prie to di­
+    džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau
+    191
+
+    ## Puslapis 190
+
     jis, nukirtus inkarų virves, buvo srovės užneštas ant
     seklumos, kur vos nesudužo, čia jį galop lietuviai už­
     ėmė ir sudegino. Surminas grįžo pas valdovą nugalė­
@@ -618,22 +683,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     teko savo brolio Goštauto drauge su kitais narsiais
     kariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
     sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
-    dininkų valsčių. Jeigu lietuviai, parodę tokį narsu­
-    mą, būtų turėję ten daugiau
-    1314 m e ta i
-    karių ir jėgų, tikrai būtų kry­
-    žiuočiai netekę visos stovyk­
-    los, mat penki kariai, nakties tamsoje prasigavę pro
-    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
-    priešų nužudę ir pasiplėšę
-    N e p a p ra sta
-    p e n k ių
-    grobio, kiek tik galėjo pen-
-    iie tu v ių n arsa
-    kiese pakelti, sveiki sugrįžo
-    pas savuosius, įvarydami kry­
-    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
-    būta baimės nei pavojaus.
+    dininkų valsčių.
   citata_rodoma: "Smarkiausia ir sunkiausia kova vyko prie to di­\ndžiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau\n191\n\n## Puslapis 190\n\njis, nukirtus inkarų virves, buvo srovės užneštas ant\nseklumos, kur vos nesudužo, čia jį galop lietuviai už­\nėmė ir sudegino. Surminas grįžo pas valdovą nugalė­\ntoju, visiems nešdamas džiaugsmą, o pats slėpdamas\nširdyje liūdesį, nes šioje pergalingoje kovoje jis ne­\nteko savo brolio Goštauto drauge su kitais narsiais\nkariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­\nsijos maršalas, pakartotiniais antpuoliais nuniokojo Me­\ndininkų valsčių."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -708,10 +758,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kita vertus, priešas irgi iš pas­
-    kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
-    nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
-    tis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­
+    Iš pradžių Ragainės komtūras išsklaidė dar­
     bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
     tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė
     pradėtą pilį. Po to Prūsijos magistras užėmė ir sude­
@@ -720,7 +767,9 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     keltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­
     tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
     sausų malkų ir padegė taip, kad vėjas neštų liepsną į
-    pilį, daug gynėjų žuvo ugnyje.
+    pilį, daug gynėjų žuvo ugnyje. Įgulos vadas Goštautas,
+    nors pats pasidavęs priešams, žuvo nuo nugalėtojų
+    rankų, kai šie susiginčijo dėl belaisvio.
   citata_rodoma: "Iš pradžių Ragainės komtūras išsklaidė dar­\nbininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­\ntosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė\npradėtą pilį. Po to Prūsijos magistras užėmė ir sude­\ngino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;\ntaip pat sudegino ir užkariavo Veliuoną, neseniai pa­\nkeltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­\ntas, tačiau puolėjai prie pačių sienų sukrovė krūvą\nsausų malkų ir padegė taip, kad vėjas neštų liepsną į\npilį, daug gynėjų žuvo ugnyje. Įgulos vadas Goštautas,\nnors pats pasidavęs priešams, žuvo nuo nugalėtojų\nrankų, kai šie susiginčijo dėl belaisvio."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

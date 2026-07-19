@@ -23,6 +23,9 @@ datos:
   - '1654 m.'
 date_start: '1239'
 date_end: '1654'
+amziai:
+  - 'XIII'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,9 +33,6 @@ tags:
   - kunigaikštis
   - miestas
   - vieta
-amziai:
-  - 'XIII'
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -1084,6 +1084,95 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - susijęs iš [[objektai/grupes/Rusiškoji bajorų partija.md#claim-t-95932|Rusiškoji bajorų partija]]: Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-187523|metropolitas]]: Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu.
 - susijęs iš [[objektai/asmenys/Vasilijus III.md#claim-t-40501|Vasilijus III]]: Išgirdęs apie pralaimėjimą, Vasilijus III paliko įgulą ir pasitraukė iš Smolensko.
+## Reikšmingi paminėjimai
+- c-023
+  santrauka: 'Kojelavičiaus pasakojime Vytautas išvijo priešininkus iš Oršos krašto ir užpuolė Smolenską, pavadintą maišto pradininku.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Su-
+    siu n čia karaliui
+    imtą Švitrigailą išsiuntė pas
+    karalių, pranešdamas šitaip
+    apie pergalę.
+    Kai baigėsi šis karas ir nugalėtojų kariuomenė jau
+    ketino grįžti į Lietuvą, gavo žinią, jog Smolensko val­
+    dovas Jurijus iš sąjungininko staiga pavirto priešu ir,
+    grįždamas iš stovyklos prie
+    S m o le n sk a s a tim a m a s
+    Vitebsko, įsiveržė į Oršos
+    iš
+    k u n ig a ik ščio
+    Ju-
+    dvarą, išvijo valdytojus ir pa-
+    rijau s
+    dalijo laukus savo žmonėms.
+    Kai Vytautas, išsiuntęs žygū­
+    ną, pareikalavo atlyginti skriaudą, susilaukė ne tik ne­
+    taikingo, bet net pasipūtėliško atsakymo. Mat Jurijaus
+    uošvis, Riazanės kunigaikštis Olegas, regėdamas neto­
+    liese augančią Vytauto galią, iš baimės ir pavydo ska­
+    tino jaunuolio užmojus ir žadino visokius sumanymus.
+    Vytautas, nutaręs užgesinti vis įsiliepsnojant) pavojų,
+    įsakė kariuomenės būriams, traukiantiems į Lietuvą,
+    nedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš­
+    to priešus, užpuolė Smolenską, maišto pradininką.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-041
+
+- c-027
+  santrauka: 'Jonas Goštautas buvo Smolensko vietininkas ir tuo metu buvo Smolenske, tolimame Didžiosios Kunigaikštystės mieste.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­
+    je 3 pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko
+    iš Trakų pilies, skubėdamas į Mazoviją,4 pas savo te­
+    tą, Mazovijos kunigaikštienę Jonušienę, kadangi ji bu­
+    vo tikra jo tėvo sesuo5, kunigaikštienės Boleslovienės
+    pamotė6. Važiuodamas per Rūdininkų girią7, jis toje
+    girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
+    ir žemai nusilenkė didžiajam kunigaikščiui Kazimierui,
+    ir ėmė prašyti malonės; kunigaikštis Kazimieras paža­
+    dėjo suteiksiąs jam savo malonę ir paliksiąs jam jo
+    tėvoniją 7.
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
+    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-029
+  santrauka: 'Antroji žmona buvo Smolensko kunigaikštytė Olga.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kartą, kai Vitolfas puotavo pas vieną karalių,
+    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
+    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
+    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
+    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
+    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
+    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
+    nugalėjo ir paėmė nesuskaičiuojamus turtus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-32434
@@ -1596,33 +1685,24 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Su-
-    siu n čia karaliui
-    imtą Švitrigailą išsiuntė pas
-    karalių, pranešdamas šitaip
-    apie pergalę.
-    Kai baigėsi šis karas ir nugalėtojų kariuomenė jau
-    ketino grįžti į Lietuvą, gavo žinią, jog Smolensko val­
-    dovas Jurijus iš sąjungininko staiga pavirto priešu ir,
-    grįždamas iš stovyklos prie
-    S m o le n sk a s a tim a m a s
-    Vitebsko, įsiveržė į Oršos
-    iš
-    k u n ig a ik ščio
-    Ju-
-    dvarą, išvijo valdytojus ir pa-
-    rijau s
-    dalijo laukus savo žmonėms.
-    Kai Vytautas, išsiuntęs žygū­
-    ną, pareikalavo atlyginti skriaudą, susilaukė ne tik ne­
-    taikingo, bet net pasipūtėliško atsakymo. Mat Jurijaus
+    Mat Jurijaus
     uošvis, Riazanės kunigaikštis Olegas, regėdamas neto­
     liese augančią Vytauto galią, iš baimės ir pavydo ska­
     tino jaunuolio užmojus ir žadino visokius sumanymus.
     Vytautas, nutaręs užgesinti vis įsiliepsnojant) pavojų,
     įsakė kariuomenės būriams, traukiantiems į Lietuvą,
     nedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš­
-    to priešus, užpuolė Smolenską, maišto pradininką.
+    to priešus, užpuolė Smolenską, maišto pradininką. Kaip
+    įprasta tiems, kurių visas karingumas tik ant liežuvio,
+    350
+
+    ## Puslapis 349
+
+    Jurijus, suvokęs, jog netrukus prasidės grumtynės, o
+    jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai
+    į kovos lauką traukti, nei už Smolensko pylimų gintis,
+    todėl, nieko nelaukęs, pabėgo su žmona pas uošvį, su-
+    kursčiusį šį karą.
   citata_rodoma: "Mat Jurijaus\nuošvis, Riazanės kunigaikštis Olegas, regėdamas neto­\nliese augančią Vytauto galią, iš baimės ir pavydo ska­\ntino jaunuolio užmojus ir žadino visokius sumanymus.\nVytautas, nutaręs užgesinti vis įsiliepsnojant) pavojų,\nįsakė kariuomenės būriams, traukiantiems į Lietuvą,\nnedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš­\nto priešus, užpuolė Smolenską, maišto pradininką. Kaip\nįprasta tiems, kurių visas karingumas tik ant liežuvio,\n350\n\n## Puslapis 349\n\nJurijus, suvokęs, jog netrukus prasidės grumtynės, o\njam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai\nį kovos lauką traukti, nei už Smolensko pylimų gintis,\ntodėl, nieko nelaukęs, pabėgo su žmona pas uošvį, su-\nkursčiusį šį karą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -1729,29 +1809,25 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­
-    je 3 pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko
-    iš Trakų pilies, skubėdamas į Mazoviją,4 pas savo te­
-    tą, Mazovijos kunigaikštienę Jonušienę, kadangi ji bu­
-    vo tikra jo tėvo sesuo5, kunigaikštienės Boleslovienės
-    pamotė6. Važiuodamas per Rūdininkų girią7, jis toje
-    girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
-    ir žemai nusilenkė didžiajam kunigaikščiui Kazimierui,
-    ir ėmė prašyti malonės; kunigaikštis Kazimieras paža­
-    dėjo suteiksiąs jam savo malonę ir paliksiąs jam jo
-    tėvoniją 7.
-    O paskui didysis kunigaikštis Kazimieras atvyko
-    į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
-    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
-    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
-    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
-    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
-    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
-    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
-    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
-    Kunigaikštystės.
+    APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS
+    DIDŽIUOJU KUNIGAIKŠČIU
+    O Didžiosios Kunigaikštystės Ponų Taryba apie visa
+    tai nieko nežinojo 1  — nei apie kunigaikščio Žygimanto
+    126
+
+    ## Puslapis 122
+
+    kėslus, nei apie Vilniaus ir Trakų vaivadų sąmokslų,
+    nes kunigaikštis Žygimantas, rašydamas raštus visoms
+    žemėms ir tolimiausiems miestams bei visiems didi­
+    kams, niekuo neišdavė savo pykčio. Ir jų dar nebuvo
+    suvažiavusių, nes kai kurie buvo tolimuose Didžiosios
+    Kunigaikštystės miestuose, srityse: 2emaičių seniūnas
+    Kęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske,
+    nes jis tuo metu buvo Smolensko vietininku. Didysis
+    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
+    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
+    lenską jo vieton nusiuntė Andrių Sakavičių * .
   citata_rodoma: "APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS \nDIDŽIUOJU KUNIGAIKŠČIU\nO Didžiosios Kunigaikštystės Ponų Taryba apie visa \ntai nieko nežinojo 1  — nei apie kunigaikščio Žygimanto\n126\n\n## Puslapis 122\n\nkėslus, nei apie Vilniaus ir Trakų vaivadų sąmokslų, \nnes kunigaikštis Žygimantas, rašydamas raštus visoms \nžemėms ir tolimiausiems miestams bei visiems didi­\nkams, niekuo neišdavė savo pykčio. Ir jų dar nebuvo \nsuvažiavusių, nes kai kurie buvo tolimuose Didžiosios \nKunigaikštystės miestuose, srityse: 2emaičių seniūnas \nKęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske, \nnes jis tuo metu buvo Smolensko vietininku. Didysis \nkunigaikštis Žygimantas rašė ir jam, kad skirtu laiku \natvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­\nlenską jo vieton nusiuntė Andrių Sakavičių * ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -1783,14 +1859,13 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kartą, kai Vitolfas puotavo pas vieną karalių,
-    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
-    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
-    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
-    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
-    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
-    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
-    nugalėjo ir paėmė nesuskaičiuojamus turtus.
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
   citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

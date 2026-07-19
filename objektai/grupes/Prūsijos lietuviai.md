@@ -7,13 +7,13 @@ datos:
   - '1530 m.'
 date_start: '1530'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - etninė-grupė
   - grupe
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -85,10 +85,12 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
 - susijęs iš [[objektai/paprociai/Pergrubei skirtos pavasario aukos.md#claim-t-189853|Pergrubei skirtos pavasario aukos]]: Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
 - susijęs iš Prūsijos žemės kronika: Narbutas rašė, kad Pretorijus Dusburgiečio kronikos vietoje minimą žynio lazdą vadino krivūle.
 - susijęs iš [[objektai/zodynas/Pergrubė Grubytė Grubios.md#claim-t-189132|Pergrubė Grubytė Grubios]]: Narbutas nurodė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų, kaip liudija Karaliaučiaus bažnyčios Agenda.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172348
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
     čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­
@@ -97,31 +99,6 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
     čios Agenda.
     Milda (Milda)
     Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172348
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šiose laimingose Nem uno ir Neries pakrantėse gyvena
-    iki šiol linksmiausi Lietuvoje ir maloniausių papročių žm o­
-    nės; jų dainos beveik visuom et apie m eile, pulsuoja iš tiesų
-    kiteriška jausmų jėga; iš jų ne viena apdainuoja deivės Mildos
-    grožį. Bet kai kas painioja šią patrauklią dievybę su deive Lie­
-    tuva.
-    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
-    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
-    jusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­
-    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
-    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
-    tinantį šį padavimą.
   citata_rodoma: "Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas\nčerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­\ngų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­\nronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­\nčios Agenda.\nMilda (Milda)\nMeilės ir piršlybų deivė, kitaip Aleksotą (Alexota)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

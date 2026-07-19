@@ -160,26 +160,6 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
 - susijęs iš [[objektai/asmenys/Genserikas.md#claim-t-191270|Genserikas]]: Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Teodoras Narbutas Afriką ir Aziją laikė seniau už Europą apgyvendintais ir anksčiau civilizuotais žemynais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad šį skyrių pirmiausia,
-    kol imsimės tolesnių ieškojimų, skirkime seniausių epo­
-    chų problemoms.
-    11
-    Europa palyginti su Azija ir Afrika yra naujasis pa­
-    saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau
-    civilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra
-    aukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas
-    žmonių giminės lopšiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-35389
@@ -230,18 +210,15 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Mums žinomos nuomonės tų senovės ty­
-    rinėtojų, kurie kildina dievų ir žmonių giminę iš Siaurės,
-    remdamiesi graikų padavimais, kuriuos neva patvirtina
-    ir Šventasis Raštas. Tie pirmykščiai žmonės esą buvę hi­
-    perborėjai. Apolonas ir Diana į Graikiją, Ozyris į Egiptą
-    atvyko neva iš Siaurės. Saturnas, Borėjas, palaimintoji
-    Atlantidos sala egzistavo Siaurės Europoje arba dingu­
-    siose salose, kurios buvo Lediniuotojoje jūroje. Ten buvo
-    Homero „Odisėjoje“ apdainuotas Elisiejus (4 giesmė),
-    ten, kur ambrozija sruveno, auksinis, palaimintasis die­
-    vų kraštas, hesperidžių sodas, makrobijų1 gyvenamoji
-    1 Šis pavadinimas turėtų reikšti kinų protėvius.
+    Tad šį skyrių pirmiausia,
+    kol imsimės tolesnių ieškojimų, skirkime seniausių epo­
+    chų problemoms.
+    11
+    Europa palyginti su Azija ir Afrika yra naujasis pa­
+    saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau
+    civilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra
+    aukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas
+    žmonių giminės lopšiu.
   citata_rodoma: "Tad šį skyrių pirmiausia,\nkol imsimės tolesnių ieškojimų, skirkime seniausių epo­\nchų problemoms.\n11\nEuropa palyginti su Azija ir Afrika yra naujasis pa­\nsaulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau\ncivilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra\naukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas\nžmonių giminės lopšiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

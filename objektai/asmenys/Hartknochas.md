@@ -228,46 +228,24 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
     - c-173745
 
 ## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Hartknochas, remdamasis vietos padavimais ir tyrimais, Baltijos pakrantės pokyčius siejo su smarkių šiaurinių vėjų sukeltais potvyniais Prūsijoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- c-003
+  santrauka: 'Narbutas mini Hartknocho spėjimą, kad Senosios Torunės vietoje taip pat buvo šventykla.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Sis ypatingas įvykis, atsitikęs žemėje, kuria
-    ypač domisi mūsų veikalas, vertas to, kad jam būtų skir­
-    ta daugiau dėmesio. Hartknochas, remdamasis vietos pa­
-    davimais ir tiesioginiais vietovės tyrinėjimais, visiškai
-    įsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog
-    smarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros
-    potvyniai išilgai visos Prūsijos padarė nemažai Baltijos
-    jūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­
-    si, kad išliktų atminimas apie tą didžiulį kimbrų epochos
-    potvynį, arba vietinį tvaną, cituotą prūsų kronikininko
-    Jokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­
-    mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo
-    kronikos knygas), turėjo po ranka.
+    -R. J.)'°
+    provincijoje, iki šiol neištirtoje vietoje; anot Sarnickio", tai lies­
+    tų Kuršą. Kadangi istorikai šią šventyklą vadina ir Romove,
+    todėl reikėtų manyti, kad, žlugus senajai prūsų religijai, Ale-
+    po, paskutinio prūsų vyriausiojo žynio, įpėdinis iš pradžių gy­
+    veno prie šios šventyklos; su tuo sutinka ir Strijkovskis. Tačiau
+    pajūrio miestas, atkištas priešų puolimams, netrukus turėjo
+    būti sugriautas, kadangi mūsų istorikai tuojau pastebi kitą Lie­
+    tuvos Romovę prie Dubysos ir Nemuno santakos12.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Hartknochas pateikė žinių, kad prie Baltijos jūros ilgai gyvavo padavimai apie tenykščių genčių, ypač prūsų, ištakas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pažvelgę tyrinėtojo žvilgsniu į
-    lietuvių senovės paminklus, visur aptinkame pėdsakų ir
-    padavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­
-    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
-    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
-    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
-    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
-    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
-    atvykusius į prūsų kraštus.
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -320,15 +298,13 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    -R. J.)'°
-    provincijoje, iki šiol neištirtoje vietoje; anot Sarnickio", tai lies­
-    tų Kuršą. Kadangi istorikai šią šventyklą vadina ir Romove,
-    todėl reikėtų manyti, kad, žlugus senajai prūsų religijai, Ale-
-    po, paskutinio prūsų vyriausiojo žynio, įpėdinis iš pradžių gy­
-    veno prie šios šventyklos; su tuo sutinka ir Strijkovskis. Tačiau
-    pajūrio miestas, atkištas priešų puolimams, netrukus turėjo
-    būti sugriautas, kadangi mūsų istorikai tuojau pastebi kitą Lie­
-    tuvos Romovę prie Dubysos ir Nemuno santakos12.
+    Šventyklos aptvaro vi­
+    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
+    bai, -  anot Enėjo Silvijaus liudijimo.
+    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
+    taip pat buvusi šventykla.
+    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
+    to paties istoriko, priklausė šventyklos liekanoms.
   citata_rodoma: "Šventyklos aptvaro vi­\nduje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­\nbai, -  anot Enėjo Silvijaus liudijimo.\nTen, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,\ntaip pat buvusi šventykla.\nUpės (Oppen) kaime augo storiausias ąžuolas, kuris, anot\nto paties istoriko, priklausė šventyklos liekanoms."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -365,26 +341,19 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau esama sunku­
-    mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
-    apie dalykus, susijusius su įvykiais, galėjusiais įvykti
-    daugiau negu šimtmetis prieš naują erą, jis mini 1190
-    metus ir kalba apie tą potvynį, kuris, anot jo pasakoji­
-    mų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3.
-    Strijkovskis neabejotinai taiso šios vietos prieštaravimus
-    ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
-    epochą, vesdamas juos nuo Baltijos jūros pakrančių tie­
-    siai į Ilyriją, kur jie prie Nortbėjos pirmąsyk kariauja su
-    tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
-    mėnais; tai įvyko 190 metais prieš Kristaus gimimą4. Iš
-    to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin­
-    gai į egzempliorius, buvusius po ranka Hartknochui ir
-    Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai
-    prieš skaičių 190 pridėtas vienas vienetas. Tos audros,
-    anot kronikose užrašytų padavimų, beveik be paliovos
-    truko 12 metų, nusiaubė Baltijos jūros vakarines pakran­
-    tes ir neatpažįstamai pakeitė jų vaizdą: pradingo netoli
-    1 Plutarchus; Sirabo.
+    Sis ypatingas įvykis, atsitikęs žemėje, kuria
+    ypač domisi mūsų veikalas, vertas to, kad jam būtų skir­
+    ta daugiau dėmesio. Hartknochas, remdamasis vietos pa­
+    davimais ir tiesioginiais vietovės tyrinėjimais, visiškai
+    įsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog
+    smarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros
+    potvyniai išilgai visos Prūsijos padarė nemažai Baltijos
+    jūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­
+    si, kad išliktų atminimas apie tą didžiulį kimbrų epochos
+    potvynį, arba vietinį tvaną, cituotą prūsų kronikininko
+    Jokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­
+    mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo
+    kronikos knygas), turėjo po ranka.
   citata_rodoma: "Sis ypatingas įvykis, atsitikęs žemėje, kuria\nypač domisi mūsų veikalas, vertas to, kad jam būtų skir­\nta daugiau dėmesio. Hartknochas, remdamasis vietos pa­\ndavimais ir tiesioginiais vietovės tyrinėjimais, visiškai\nįsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog\nsmarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros\npotvyniai išilgai visos Prūsijos padarė nemažai Baltijos\njūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­\nsi, kad išliktų atminimas apie tą didžiulį kimbrų epochos\npotvynį, arba vietinį tvaną, cituotą prūsų kronikininko\nJokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­\nmas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo\nkronikos knygas), turėjo po ranka."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -399,17 +368,15 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
+    Pažvelgę tyrinėtojo žvilgsniu į
+    lietuvių senovės paminklus, visur aptinkame pėdsakų ir
+    padavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­
+    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
+    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
+    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
     tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
     mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
-    atvykusius į prūsų kraštus. Po jo keli kronikininkai teigė
-    tą patį, visada remdamiesi vietiniais stebėjimais, kurie
-    visada jiems patvirtindavo giminingumą su heleniškomis
-    kartomis. Kiti, paremdami savo prielaidas kalbos pana­
-    šumu, su didžiausiu pasitikėjimu įsikibo padavimų, kal­
-    bančių apie tokią kilmę. Kilęs iš Prūsijos Vilichijus, ko­
-    mentavęs Tacitą, labiausiai tikina, jog lietuviai yra kilę
-    iš graikų, nes galėjo su jais susikalbėti jų kalba4.
+    atvykusius į prūsų kraštus.
   citata_rodoma: "Pažvelgę tyrinėtojo žvilgsniu į\nlietuvių senovės paminklus, visur aptinkame pėdsakų ir\npadavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­\nteikia žinių, jog prie Baltijos jūros amžių amžiais buvo\nžinomi padavimai apie tenykščių genčių, ypač prūsų, iš­\ntakas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­\ntu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­\nmu, rašo apie makedonus, po Aleksandro Didžiojo mirties\natvykusius į prūsų kraštus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

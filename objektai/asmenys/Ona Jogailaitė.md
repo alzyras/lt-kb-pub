@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   [{"mediaId":"m-423d7ddc70c85e3603dd2caf","title":"Martin Kober 002.jpg","caption":"Martino Koberio tapytas karalienės Onos Jogailaitės portretas našlės drabužiais, iki 1595 m.","originalTitle":"Martin Kober 002.jpg","creator":"Martin Kober","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.wawel.krakow.pl","dateDisplay":"before 1595 date QS:P571,+1595-00-00T00:00:00Z/7,P1326,+1595-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":585,"height":797,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMartin_Kober_002.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/49/Martin_Kober_002.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/49/Martin_Kober_002.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Anna Jagiellon as a Widow (Martin Kober)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks digital representation of 2D work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings by Martin Kober in the Wawel Castle","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Ona Jogailaitė.md","title":"Ona Jogailaitė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T20:13:45.126891+03:00","reviewedAt":"2026-07-11T20:56:26.905225+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Paveiksle matoma viena vyresnio amžiaus moteris iškilmingu juodu drabužiu, šviesiu našlės apdangalu ir valdovės rango papuošalu, pozuojanti portretui.","metadataEvidence":"Aprašyme nurodyta „Portrait of Queen Anna Jagiellon as a widow“, kūrėjas Martin Kober; tai tiesiogiai atitinka target Oną Jogailaitę.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Priimama, nes metaduomenys aiškiai identifikuoja portretuojamą asmenį kaip Oną Jogailaitę, o vaizdas yra jos istorinis portretas.","isPrimary":1}]
 ---
+
 # Ona Jogailaitė
 
 ## Santrauka
@@ -60,6 +61,18 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 - karalaitė
 
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/karalienė]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/daiktai/Vienaragis (pabūklas)]]
+
 ## Teiginiai
 
 <a id="claim-t-54979"></a>
@@ -81,11 +94,11 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 <a id="claim-t-54980"></a>
 - t-002
   teiginys: "Karalaitė Ona (Ona Jogailaitė) testamente apibūdinta kaip iki tol tebebuvusi neištekėjusi."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "gap::people"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-79102
+    - c-55527
 
 <a id="claim-t-54981"></a>
 - t-003
@@ -353,6 +366,7 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-005
 
 - id: c-55528
@@ -452,6 +466,5 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-007
     - t-009

@@ -787,21 +787,14 @@ media_all_json: |-
 <a id="claim-t-184897"></a>
 - t-070
   teiginys: "Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Konradas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168258
+    - c-168257
 
 <a id="claim-t-184898"></a>
 - t-071
@@ -833,18 +826,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168260
-
-<a id="claim-t-184900"></a>
-- t-073
-  teiginys: "Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168259
 
 <a id="claim-t-191006"></a>
 - t-074
@@ -2316,6 +2297,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-069
+    - t-070
 
 - id: c-168258
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2355,7 +2337,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-070
     - t-077
 
 - id: c-168259
@@ -2363,30 +2344,25 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    gi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,
-    Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­
-    gų, atidavė karalystei ir karaliui Kamenecą, Smotričių,
-    Skalą, Červonogradą. Vėliau šių valdų vietininku kara­
-    lius laikinai buvo paskyręs Spiteką. Ta pačia proga ka­
-    ralius bei Vytautas susitarė, kad Severesko kunigaikš­
-    tystėje Lietuvos didžiojo ku-
-    P a sk elb ia
-    T eo d o rą
-    nigaikščio vietininku būsiąs
-    S a n g u šk ą
-    S e v e r s k o
-    kunigaikštis Teodoras San-
-    k u n ig a ik ščiu
-    guška.
+    Tuo metu jau galima buvo
+    manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau
+    nerimo Švitrigaila. Matydamas, kad Vytautą lydi pa­
+    stovi sėkmė, jis niršo ir siuto, galop ėmėsi ryžtingų
+    žingsnių, pasitelkdamas sve-
+    K ry žiu o č ia i
+    n io k o ja
+    timšalių ginklą. Jis nuolatos
+    L ie tu v ą
+    kurstė Prūsijos bei Livonijos
+    kryžiuočių magistrus prieš
+    Vytautą.
   citata_rodoma: "Tuo metu jau galima buvo\nmanyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau\nnerimo Švitrigaila. Matydamas, kad Vytautą lydi pa­\nstovi sėkmė, jis niršo ir siuto, galop ėmėsi ryžtingų\nžingsnių, pasitelkdamas sve-\nK ry žiu o č ia i\nn io k o ja\ntimšalių ginklą. Jis nuolatos\nL ie tu v ą\nkurstė Prūsijos bei Livonijos\nkryžiuočių magistrus prieš\nVytautą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-073
-
 - id: c-168260
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2437,6 +2413,8 @@ media_all_json: |-
     pagal valdovo norus, jis pareiškė, jog santuoka būsian­
     ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-
     3 9 6
+
+    mos bažnyčia.
   citata_rodoma: "Todėl Petras, Vilniaus vyskupas, \nlabai atkakliai priešinosi šiai santuokai, kad nebūtų pa­\nžeisti dievo bei žmonių įstatymai. Galbūt atkakliu ne­\npritarimu ir būtų privertęs \nV y ta u ta s v e d a \nVytautą atsisakyti šio suma­\nnymo, jeigu nebūtų parėmęs \nJonas Kropidlas, Kujavijos vyskupas, su karaliumi at­\nvykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus \npagal valdovo norus, jis pareiškė, jog santuoka būsian­\nti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-\n3 9 6\n\nmos bažnyčia."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
@@ -2579,12 +2557,12 @@ media_all_json: |-
 - Kariavo prieš: [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - Sudarė sutartį su: [[objektai/asmenys/Aleksas Jefremovičius]], [[objektai/asmenys/Chariničius]], [[objektai/grupes/Didžiojo Naugardo bojarinai]], [[objektai/asmenys/Ivanas Jermoliničius]], [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - Rėmė Švitrigailą: [[objektai/grupes/Livonijos ordinas]]
-- Švitrigaila valdė [[objektai/vietos/Černigovas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Podolija]], [[objektai/vietos/Polockas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Voluinė]]
-- Švitrigaila keliavo į [[objektai/vietos/Kijevas]], [[objektai/vietos/Lukomlis]], [[objektai/vietos/Marienburgas]], [[objektai/vietos/Polockas]], [[objektai/vietos/Ukraina]], [[objektai/vietos/Vengrija]]
-- Švitrigaila mirė [[objektai/vietos/Luckas]]
-- Švitrigaila buvo palaidotas [[objektai/vietos/Vilnius]]
-- Švitrigaila puolė [[objektai/vietos/Vitebskas]]
-- Švitrigaila užėmė [[objektai/vietos/Ašmena]], [[objektai/vietos/Vitebskas]]
-- Švitrigaila surengė žygį į [[objektai/vietos/Lietuva]]
+- Švitrigaila valdė Černigovas, Kijevas, Podolija, Polockas, Smolenskas, Vitebskas, Voluinė
+- Švitrigaila keliavo į Kijevas, Lukomlis, Marienburgas, Polockas, Ukraina, Vengrija
+- Švitrigaila mirė Luckas
+- Švitrigaila buvo palaidotas Vilnius
+- Švitrigaila puolė Vitebskas
+- Švitrigaila užėmė Ašmena, Vitebskas
+- Švitrigaila surengė žygį į Lietuva
 - Švitrigaila dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - Švitrigaila sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

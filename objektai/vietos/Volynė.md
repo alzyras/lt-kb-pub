@@ -15,14 +15,14 @@ datos:
   - '1325 m.'
 date_start: '1205'
 date_end: '1325'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
-amziai:
-  - 'XIII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -267,6 +267,130 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195015|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195016|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis vaizduoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė prie Cepros paėmė arba nukovė daugybę totorių.
 - susijęs iš [[objektai/ivykiai/Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.).md#claim-t-185807|Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.)]]: Kazimieras, pasinaudojęs lietuvių karu su kryžiuočiais, atėmė iš lietuvių rusų valdas ir išvijo Liubartą iš Volynės.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kijevas ir tuo metu
+    buvo stambus tarptautinės prekybos centras, per kurį Rytų prekės keliavo ir Kryžiuočių
+    ordinui bei į Vakarų Europą. Lietuvos valstybė, kariaujanti su Kryžiuočių ordinu ir
+    atskirta nuo Baltijos jūros, dabar išėjo prie pietinių tarptautinės prekybos kelių. Kijevo
+    patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
+    įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
+    Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
+    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
+    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
+    minystės ryšiais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Po Lucko suvažiavimo imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, patraukė iš Volynės į Vengriją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu Krokuvos vyskupas Zbig­
+    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
+    kokia įtartina imperatoriaus
+    S en ato įsp ė ta s
+    draugystė, ir, atskleidęs, ko­
+    kie pavojingi jo siūlymai,
+    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
+    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
+    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
+    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
+    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
+    nas iš Tarnovo, Krokuvos vaivada. Visi sutartinai pri­
+    tarė vyskupui ir vaivadai. Vytautas, pasipiktinęs ne tiek
+    dėl pralaimėjimo, kiek dėl
+    P a sip ik tin ęs pasišali-
+    drąsių kalbų, išėjo iš senato
+    na
+    posėdžio, o pasišalindamas at­
+    virai pagrasino, sakydamas,
+    14*
+    4 1 9
+
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Štai todėl daugelis išsigandusių didikų, nenorėda­
+    mi daugiau karaliaus erzinti, ne tik paliovė reikalavę,
+    kad Augustas nutrauktų santuoką, bet sutiko, kad Bar­
+    bora kaip ir kitos karalienės būtų Krokuvoje vaini­
+    kuota. Augustas, pasiekęs to, ko norėjo, nebesispyrė
+    dėl įstatymo, kuris dabar jam rodėsi visai nereikalin­
+    gas. Neilgai trukus Barbora iškilmingai ir šventiškai
+    buvo apvainikuota Krokuvoje karalienės vainiku. Jos
+    broliams Piotrkovo seimas leido naudotis Lenkijoje bei
+    Lietuvoje tomis lengvatomis, kurių neseniai buvo ga­
+    vę iš imperatoriaus Karolio V. Vėliau, įsiteikdamas
+    žmonai, Augustas labiau juos iškėlė. Mikalojų, Barbo­
+    ros brolį, paskyrė Trakų vai-
+    1551 m e ta i
+    vada ir atidavė jam Kėdai­
+    nius, o jo pusbrolį Mikalojų
+    Juodąjį paskyrė Lietuvos maršalu bei didžiuoju kanc­
+    leriu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-007
+  santrauka: 'Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti visos Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Kantautas,
+    atvykęs j Žemaičių kariuomenę, pirmiausia jiems at­
+    skleidė, kad Mykoliukas pabėgęs, o Vilnių, Trakus ir
+    visas Lietuvos bei Rusų kunigaikštystes valdąs didysis
+    kunigaikštis Kazimieras. O paskui jis prikalbėjo savo
+    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
+    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
+    biausia. prieš teisėtą Lietuvos paveldėtoją a .
+    Tas Kantauto giminaitis suprato, kad negalima sto­
+    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
+    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
+    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
+    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
+    tarnauti
+    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
+    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
+    turtą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-59288
@@ -298,13 +422,9 @@ media_all_json: |-
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kijevas ir tuo metu
-    buvo stambus tarptautinės prekybos centras, per kurį Rytų prekės keliavo ir Kryžiuočių
-    ordinui bei į Vakarų Europą. Lietuvos valstybė, kariaujanti su Kryžiuočių ordinu ir
-    atskirta nuo Baltijos jūros, dabar išėjo prie pietinių tarptautinės prekybos kelių. Kijevo
-    patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
-    įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
-    Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
+    Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
+    m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
+    (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).
   citata_rodoma: "Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324\nm. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę\n(Brestą, Kamenecą, Kobriną, Melniką, Drohičiną)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -317,17 +437,16 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Užėmęs Brianską
+    Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
     ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
     išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
     niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
     Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
     mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
-    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
-    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
-    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
-    minystės ryšiais.
+    džioje.
   citata_rodoma: "Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi\nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -374,30 +493,19 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tarpu Krokuvos vyskupas Zbig­
-    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
-    kokia įtartina imperatoriaus
-    S en ato įsp ė ta s
-    draugystė, ir, atskleidęs, ko­
-    kie pavojingi jo siūlymai,
-    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
-    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
-    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
-    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
-    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
-    nas iš Tarnovo, Krokuvos vaivada. Visi sutartinai pri­
-    tarė vyskupui ir vaivadai. Vytautas, pasipiktinęs ne tiek
-    dėl pralaimėjimo, kiek dėl
-    P a sip ik tin ęs pasišali-
-    drąsių kalbų, išėjo iš senato
-    na
-    posėdžio, o pasišalindamas at­
-    virai pagrasino, sakydamas,
-    14*
-    4 1 9
-
-    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
-    siryžęs pasiekti.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
+    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
+    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
+    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
+    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
+    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
+    bei brangakmeniais.
   citata_rodoma: "Atvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją. Išvykstančiam Vytautas davė\ngalybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino\nnukauto tauro garsųjį ragą, išmoningai papuoštą auksu\nbei brangakmeniais."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -412,24 +520,19 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Štai todėl daugelis išsigandusių didikų, nenorėda­
-    mi daugiau karaliaus erzinti, ne tik paliovė reikalavę,
-    kad Augustas nutrauktų santuoką, bet sutiko, kad Bar­
-    bora kaip ir kitos karalienės būtų Krokuvoje vaini­
-    kuota. Augustas, pasiekęs to, ko norėjo, nebesispyrė
-    dėl įstatymo, kuris dabar jam rodėsi visai nereikalin­
-    gas. Neilgai trukus Barbora iškilmingai ir šventiškai
-    buvo apvainikuota Krokuvoje karalienės vainiku. Jos
-    broliams Piotrkovo seimas leido naudotis Lenkijoje bei
-    Lietuvoje tomis lengvatomis, kurių neseniai buvo ga­
-    vę iš imperatoriaus Karolio V. Vėliau, įsiteikdamas
-    žmonai, Augustas labiau juos iškėlė. Mikalojų, Barbo­
-    ros brolį, paskyrė Trakų vai-
-    1551 m e ta i
-    vada ir atidavė jam Kėdai­
-    nius, o jo pusbrolį Mikalojų
-    Juodąjį paskyrė Lietuvos maršalu bei didžiuoju kanc­
-    leriu.
+    Rugsėjo pabaigoje luomai susirinko Vilniuje į
+    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
+    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
+    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
+    niekas taip nekenkia visuomenės reikalams, kaip as­
+    meniniai atskirų didikų nesutarimai. Į seimą atvyko ir
+    lenkų atstovai, kurie senato bei bajorų akivaizdoje rim­
+    čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­
+    ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­
+    tų vieną kartą sudaryta galutinė lenkų ir lietuvių są­
+    junga, vadinamoji unija. Jie vis dėlto nieko nepešė,
+    nes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių
+    teisių į tas žemes.
   citata_rodoma: "Rugsėjo pabaigoje luomai susirinko Vilniuje į\nseimą, kuriame karalius pareikalavo, kad liautųsi pa­\nvojingai kivirčijęsi Trakų vaivada Mikalojus Radvila\nir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad\nniekas taip nekenkia visuomenės reikalams, kaip as­\nmeniniai atskirų didikų nesutarimai. Į seimą atvyko ir\nlenkų atstovai, kurie senato bei bajorų akivaizdoje rim­\nčių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­\nralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­\ntų vieną kartą sudaryta galutinė lenkų ir lietuvių są­\njunga, vadinamoji unija. Jie vis dėlto nieko nepešė,\nnes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių\nteisių į tas žemes."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -444,23 +547,19 @@ media_all_json: |-
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Kantautas,
-    atvykęs j Žemaičių kariuomenę, pirmiausia jiems at­
-    skleidė, kad Mykoliukas pabėgęs, o Vilnių, Trakus ir
-    visas Lietuvos bei Rusų kunigaikštystes valdąs didysis
-    kunigaikštis Kazimieras. O paskui jis prikalbėjo savo
-    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
-    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
-    biausia. prieš teisėtą Lietuvos paveldėtoją a .
-    Tas Kantauto giminaitis suprato, kad negalima sto­
-    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
-    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
-    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
-    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
-    tarnauti
-    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
-    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
-    turtą.
+    Važiuodamas per Rūdininkų girią7 , jis toje
+    girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
+    ir žemai nusilenkė didžiajam kunigaikščiui Kazimierui,
+    ir ėmė prašyti malonės; kunigaikštis Kazimieras paža­
+    dėjo suteiksiąs jam savo malonę ir paliksiąs jam jo
+    tėvoniją 7 .
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
+    to.
   citata_rodoma: "Važiuodamas per Rūdininkų girią7 , jis toje \ngirioje susidūrė su didžiuoju kunigaikščiu Kazimieru \nir žemai nusilenkė didžiajam kunigaikščiui Kazimierui, \nir ėmė prašyti malonės; kunigaikštis Kazimieras paža­\ndėjo suteiksiąs jam savo malonę ir paliksiąs jam jo \ntėvoniją 7 .\nO paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.\nBūnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­\nto."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

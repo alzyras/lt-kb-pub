@@ -121,19 +121,6 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Poterbergas — prie Kalduso, į pietvakarius nuo Kulmo (SZCh, p 101).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    iš didelės baimės perbalo, paskui, garsiai šaukdamas
-
-      287 D.— Potterbergk, Jer.— Pultirberc. Poterbergas — prie Kalduso, į pietvakarius nuo
-    Kulmo (SZCh, p 101).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -165,17 +152,14 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,
-    Kuršių nerijoje
-    Brolis Konradas, magistras, išmintingas ir apdairus vyras, suprasdamas, kad,
-    braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
-    broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
-    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
-    217 (212). Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
-    mą
-    Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis
-    pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
-    tikėjimo priešus sūduvius.
+    Todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės
+    Poterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji
+    po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
+
+
+
+
+               214 (209).
   citata_rodoma: "Todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės\nPoterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji\npo šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.\n\n\n\n\n           214 (209)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -188,15 +172,10 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Todėl kunigaikštis, kitiems po senovei krečiant juokus,
-    išėjo su tarnu; vienas brolis, šiam reikalui skirtas, nusekė juodu iš paskos ir prie upės,
-    nestengdamas sugauti kunigaikščio, nužudė jo tarną, o kiti broliai paėmė į nelaisvę ir
-    išžudė visus kitus iš jo šeimynos, čia likusius.
-    50 (49). Apie laivų kautynes
-    Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
-    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
-    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
-    žmonių ir 20 laivų.
+    iš didelės baimės perbalo, paskui, garsiai šaukdamas
+
+      287 D.— Potterbergk, Jer.— Pultirberc. Poterbergas — prie Kalduso, į pietvakarius nuo
+    Kulmo (SZCh, p 101).
   citata_rodoma: "iš didelės baimės perbalo, paskui, garsiai šaukdamas\n\n  287 D.— Potterbergk, Jer.— Pultirberc. Poterbergas — prie Kalduso, į pietvakarius nuo\nKulmo (SZCh, p 101)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

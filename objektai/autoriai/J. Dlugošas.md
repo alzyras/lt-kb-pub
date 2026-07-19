@@ -326,28 +326,38 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - susijęs iš Upytė: Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.
 - susijęs iš Vilnius: Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.
 ## Reikšmingi paminėjimai
-- c-014
-  santrauka: '„Slavų senienų“ autoriaus nuomone, jau J. Dlugošo laikais slavai lietuvius laikė labai maža ir silpna tauta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- c-006
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Vis dėlto žmogus, mokantis šias kalbas, ne­
-    ras nieko, kas galėtų jį įtikinti šios hipotezės teisingu­
-    mu, nes lietuvių, germanų, finų ir slavų kalbos skiriasi
-    viena nuo kitos kaip dangus ir žemė
-    „Slavų senienų“ autoriaus įsitikinimu, lietuviai iš nie­
-    kur neatkeliavo, o nuo neatmenamų laikų gyveno prie
-    Baltijos jūros kartu su slavų gentimis. Be to, jo nuomo­
-    ne, jau J. Dlugošo laikais slavai lietuvius laikė labai ma­
-    ža ir silpna tauta. Jis rašė: „Senaisiais laikais lietuvių
-    padermė ir savo skaičiumi, ir savo jėga buvo maža, ne­
-    žymi, engiama; kaip lapai ir žiedai krito ant svetimo, vo­
-    kiečių, jungo, ir, be jokios abejonės, ši ¡padermė svetimu
-    krauju negalėjo nei turtėti, nei augti“1.
+    XVI a.
+    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
+    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
+    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
+    Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
+    m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
+    variantas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- c-013
+  santrauka: 'Narbutas rašo, kad iš senesniųjų istorikų vienas Dlugošas aiškiai pripažino lietuvių genties tautas tikėjus fetišais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
+    paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-
+    ninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­
+    ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
+    bintojų keletą avilių bičių. Vėliau, po ilgos jų bičiulystės, at­
+    vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
+    damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
+    dievą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -475,13 +485,11 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    XVI a.
-    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
-    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
-    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
-    Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
-    m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
-    variantas.
+    Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
+    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
+    Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
+    Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
+    Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
   citata_rodoma: "Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo\njį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.\nDlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš\nJerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.\nSkubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -654,14 +662,17 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
-    paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-
-    ninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­
-    ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
-    bintojų keletą avilių bičių. Vėliau, po ilgos jų bičiulystės, at­
-    vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
-    damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
-    dievą.
+    201
+
+    ## Puslapis 201
+
+    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
+    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
+    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
+    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
+    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
+    minė, jokie namai, net daug pavienių asmenų negyveno be
+    savo asmeninių fetišų.
   citata_rodoma: "201\n\n## Puslapis 201\n\nmitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi\ngal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas\nDlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo\nfetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką\nišaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­\nminė, jokie namai, net daug pavienių asmenų negyveno be\nsavo asmeninių fetišų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -674,21 +685,19 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    P. J. Safaržykas buvo skaitęs ir pirmą LTI tomą.
-    T. Narbutą jis apibūdino kaip „naujausią Lietuvos isto­
-    riką, kuris visa siela palinko prie herulų ir prie kitų sve-
-    timkalbių“2. T. Narbuto koncepcija, kuri jau gana ryški ir
-    pirmame LTI tome, slovakų tyrinėtojui buvo nepriimtina.
-    Tai ryškiausiai parodo tokios jo mintys: „Lietuvių genties
-    tautų senoji istorija nusipelnė ypatingo slavų senovės
-    tyrinėtojų dėmesio, nes, kaip jau anksčiau buvo sakyta,
-    abi šios giminingos gentys senaisiais laikais galėjo būti
-    pagrįstai laikomos dviem vieno kamieno šakomis, kurios
-    vėlesniais amžiais dėl nedraugingų aplinkybių vis la­
-    biau viena nuo kitos tolo ir taip nutolo, jog šiandien, kai
-    kurioms vystančioms lietuvių šakoms vėl susijungus su
-    plačiašakiu ir vešliu slavų medžiu, pirmiau buvusios gi-
-    'Stavnanskie starožytnošci P. J. Szafarzyka.
+    Vis dėlto žmogus, mokantis šias kalbas, ne­
+    ras nieko, kas galėtų jį įtikinti šios hipotezės teisingu­
+    mu, nes lietuvių, germanų, finų ir slavų kalbos skiriasi
+    viena nuo kitos kaip dangus ir žemė
+    „Slavų senienų“ autoriaus įsitikinimu, lietuviai iš nie­
+    kur neatkeliavo, o nuo neatmenamų laikų gyveno prie
+    Baltijos jūros kartu su slavų gentimis. Be to, jo nuomo­
+    ne, jau J. Dlugošo laikais slavai lietuvius laikė labai ma­
+    ža ir silpna tauta. Jis rašė: „Senaisiais laikais lietuvių
+    padermė ir savo skaičiumi, ir savo jėga buvo maža, ne­
+    žymi, engiama; kaip lapai ir žiedai krito ant svetimo, vo­
+    kiečių, jungo, ir, be jokios abejonės, ši ¡padermė svetimu
+    krauju negalėjo nei turtėti, nei augti“1.
   citata_rodoma: "Vis dėlto žmogus, mokantis šias kalbas, ne­\nras nieko, kas galėtų jį įtikinti šios hipotezės teisingu­\nmu, nes lietuvių, germanų, finų ir slavų kalbos skiriasi\nviena nuo kitos kaip dangus ir žemė\n„Slavų senienų“ autoriaus įsitikinimu, lietuviai iš nie­\nkur neatkeliavo, o nuo neatmenamų laikų gyveno prie\nBaltijos jūros kartu su slavų gentimis. Be to, jo nuomo­\nne, jau J. Dlugošo laikais slavai lietuvius laikė labai ma­\nža ir silpna tauta. Jis rašė: „Senaisiais laikais lietuvių\npadermė ir savo skaičiumi, ir savo jėga buvo maža, ne­\nžymi, engiama; kaip lapai ir žiedai krito ant svetimo, vo­\nkiečių, jungo, ir, be jokios abejonės, ši ¡padermė svetimu\nkrauju negalėjo nei turtėti, nei augti“1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

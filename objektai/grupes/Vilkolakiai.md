@@ -27,50 +27,6 @@ media_all_json: |-
 
 Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti vilku, o rusinai ir lietuviai vartojo giminingus vardus.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti vilku, o rusinai ir lietuviai vartojo giminingus vardus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vilkolakis (Wilkats)
-    Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
-    sų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­
-    vidonas pridaro neapsakomai daug žalos. Geria su draugu iš
-    tos pačios taurelės, kalbasi. Antikos laikais panašiai būdavo
-    apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram
-    laikui pasiversdavę vilkais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172426
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Tuomet žyniai keliaklupsčiais prišliauždavo prie šven­
-    tojo medžio ir uždegdavo kempines ant aukuro, pirma sude­
-    ginę nerūpestingus ugnies sergėtojus, dėl kurių apsileidimo
-    tai nutiko35.
-    Ragelienė (Ragutienie)
-    Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­
-    nių pasakojime; taip pat šiokia tokia žinia bus apeigų aprašy­
-    me. Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ra-
-    gutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau
-    nurodytu moterų žynių pavadinimu.
-  citata_rodoma: "Vilkolakis (Wilkats)\nLatviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­\nsų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­\nvidonas pridaro neapsakomai daug žalos. Geria su draugu iš\ntos pačios taurelės, kalbasi. Antikos laikais panašiai būdavo\napkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram\nlaikui pasiversdavę vilkais."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189538"></a>
@@ -92,3 +48,26 @@ Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti v
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172426
+
+## Citatos
+
+- id: c-172426
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Vilkolakis (Wilkats)
+    Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
+    sų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­
+    vidonas pridaro neapsakomai daug žalos. Geria su draugu iš
+    tos pačios taurelės, kalbasi. Antikos laikais panašiai būdavo
+    apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram
+    laikui pasiversdavę vilkais.
+  citata_rodoma: "Vilkolakis (Wilkats)\nLatviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­\nsų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­\nvidonas pridaro neapsakomai daug žalos. Geria su draugu iš\ntos pačios taurelės, kalbasi. Antikos laikais panašiai būdavo\napkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram\nlaikui pasiversdavę vilkais."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

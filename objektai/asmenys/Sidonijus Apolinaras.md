@@ -49,10 +49,12 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
   pagrindžia:
     - c-174237
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi veidą, plaukus ir kūną raudona arba ruda spalva.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174237
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     81
 
@@ -66,28 +68,6 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
     veidą, plaukus, kūną raudona arba ruda spalva, o tam
     jie naudojo kažkokį bulvinį augalą, kurio savybes jie ge­
     rai žinojo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174237
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Tą sveiką gyvulinės kilmės
-    produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
-    suomet labai vertino ir dabar tebevertina šiaurės rytų
-    gyventojai. Tokiame piene, sumaišius jį su dar šiltu ir
-    šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl
-    destiliuojant galima pagaminti svaiginantį gėrimą. Ver­
-    gilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
-    gasis gelonas bėga į Rodopų kalnus arba getų dykumas
-    ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
   citata_rodoma: "81\n\n## Puslapis 79\n\n63\nSenovėje gelonai buvo laikomi geriausiais lankinin­\nkais1. Jie turėjo paprotį išsidažyti kūną2; apie tai pasa­\nkoja Sidonijus Apolinaras*. Jis rašo, kad gelonai, kaip\nir skitai, t. y. budinai, turėjo paprotį kartais išsidažyti\nveidą, plaukus, kūną raudona arba ruda spalva, o tam\njie naudojo kažkokį bulvinį augalą, kurio savybes jie ge­\nrai žinojo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -7,12 +7,12 @@ datos:
   - '1812 m.'
 date_start: '1812'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,22 +57,6 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Suroveckio studi
   pagrindžia:
     - c-173445
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Suroveckio studijoje, paskelbtoje 1812 m. Varšuvoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie tai byloja ir pats žibintas -
-    aiškus šviesos atributas**.
-    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
-    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
-    Nauk. -  Warszawa, 1812).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173445
@@ -80,12 +64,11 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Suroveckio studi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    tos prabos; iš viso galėjo būti pusantro svaro. Vieną plonųjų
-    rūšies egzempliorių pradangino tas pats prekiautojas*. Po šių
-    pastabų aprašysiu tas monetas, nusipelnančias čia vietos, bent
-    jau dėl to, kad buvo rastos Lietuvos žemėje.
-    III
-    lentelė, 10-asis piešinys.
+    Apie tai byloja ir pats žibintas -
+    aiškus šviesos atributas**.
+    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
+    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
+    Nauk. -  Warszawa, 1812).
   citata_rodoma: "Apie tai byloja ir pats žibintas -\naiškus šviesos atributas**.\n30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-\nkio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol\nNauk. -  Warszawa, 1812)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

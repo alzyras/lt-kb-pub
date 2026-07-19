@@ -7,12 +7,12 @@ datos:
   - '1517 m.'
 date_start: '1517'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,42 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 M. Mechovitos „Tractatus de duabus sarmatiis Asiana et Europiana“ Teodoro Narbuto nuorodoje siejamas su 1517 m. Krokuvos leidimu ir II knyga apie Europos Sarmatiją.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Mechovitos „Tractatus de duabus sarmatiis Asiana et Europiana“ Teodoro Narbuto nuorodoje siejamas su 1517 m. Krokuvos leidimu ir II knyga apie Europos Sarmatiją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de
-    duabus sarmatiis Asiana et Europiana, et de continentis in eis.
-    Cracoviae, 1517. L. II (De sarmatia Europiana).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174629
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    (Lie­
-    tuviškai kalbančių gyventojų žemė susideda iš keturių dalių: pir­
-    moji žemės juosta yra vietinių jotvingių, kurie apie Drohičino
-    Tvirtovę gyvena, ir nedaug jų belikę. Antroji yra lietuvių ir že­
-    maičių. Trečioji — prūsų. Ketvirtoji — Latvijoje arba Latgaloje —
-    Livonija, esanti prie Dauguvos upės ir Rygos miesto.
-  citata_rodoma: "Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de\nduabus sarmatiis Asiana et Europiana, et de continentis in eis.\nCracoviae, 1517. L. II (De sarmatia Europiana)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -92,3 +56,22 @@ M. Mechovitos „Tractatus de duabus sarmatiis Asiana et Europiana“ Teodoro Na
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174629
+
+## Citatos
+
+- id: c-174629
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de
+    duabus sarmatiis Asiana et Europiana, et de continentis in eis.
+    Cracoviae, 1517. L. II (De sarmatia Europiana).
+  citata_rodoma: "Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de\nduabus sarmatiis Asiana et Europiana, et de continentis in eis.\nCracoviae, 1517. L. II (De sarmatia Europiana)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

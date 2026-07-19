@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)
 
 ## Santrauka
@@ -84,19 +85,6 @@ Nenurodyta
   pagrindžia:
     - c-169128
 
-<a id="claim-t-196254"></a>
-- t-003
-  teiginys: "Kojelavičiaus pasakojime Podolės seimas išsiskirstė nieko nenutaręs ir dar labiau sustiprino abipusį lietuvių bei lenkų nepakantumą."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-169128
-
 ## Citatos
 
 - id: c-169128
@@ -132,4 +120,3 @@ Nenurodyta
   pagrindzia:
     - t-001
     - t-002
-    - t-003

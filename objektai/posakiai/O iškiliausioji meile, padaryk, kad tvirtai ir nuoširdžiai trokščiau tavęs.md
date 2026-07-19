@@ -122,19 +122,10 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Ragainės ir Skalvių pilių pastatymą
-    1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
-    krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio
-    kankinio dieną (balandžio 23) su galybe karių į skalvių žemę ir dievo garbei bei šlovei
-    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
-    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
-    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
-    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
-    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
-    236 (229). Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
-    jo gyvenimą
-    Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas
-    Karaliaučiaus brolių komtūru.
+    Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
+    einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį
+    metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
+    nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
   citata_rodoma: "Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach\neinem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį\nmetę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame\nnuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

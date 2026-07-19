@@ -74,7 +74,7 @@ Nenurodyta
 <a id="claim-t-97034"></a>
 - t-003
   teiginys: "1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -87,26 +87,6 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1325 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pakeista šnekamesnė formuluotė ir sutvarkyta vietovardžio rašyba."
-  pagrindžia:
-    - c-04995
-    - c-04996
-
-<a id="claim-t-97035"></a>
-- t-007
-  teiginys: "Kryžiuočiai kliudė Lietuvai užmegzti ryšius su krikščioniškomis valstybėmis, laikydami lietuvių krikštijimą savo monopoline teise."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir atsisakyta neapibrėžtos įžangos apie Avinjoną."
   pagrindžia:
     - c-04995
 
@@ -128,6 +108,11 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas, teiginys paliktas kaip citatos remiamas faktas."
   pagrindžia:
     - c-91584
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas]]
 
 ## Citatos
 
@@ -151,7 +136,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-007
 
 - id: c-04996
   autorius: "Zenonas Ivinskis"
@@ -173,7 +157,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-003
 
 - id: c-91584
   autorius: "Zenonas Ivinskis"

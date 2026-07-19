@@ -11,6 +11,11 @@ datos:
   - '1864 m.'
 date_start: '1784'
 date_end: '1864'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,11 +23,6 @@ tags:
   - mokslininkas
   - istorikas
   - rašytojas
-amziai:
-  - 'XVIII'
-  - 'XIX'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -101,19 +101,6 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171364
-
-<a id="claim-t-193374"></a>
-- t-008
-  teiginys: "S. Daukantas Albertą Vijūką-Kojelavičių vertino kaip už Strijkovskį geresnį lotyniškos Lietuvos istorijos autorių."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-176099
 
 <a id="claim-t-193587"></a>
 - t-009
@@ -232,6 +219,67 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
 - susijęs iš [[objektai/zodynas/tautinė sąmonė.md#claim-t-47945|tautinė sąmonė]]: Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų.
 - susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192300|dziejopis]]: Narbutas nurodė: Daukanto žodyne „dziejopis“ pateikiamas kaip „wejkaluraszytojas“, o „dziejopisarz“ siejamas su „latopisiec“.
 - susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192302|dziejopis]]: Narbutas nurodė: Simonas Daukantas „dziejopis“ („dziejopisarz“) siejo su „latopisiec“, t. y. „meturaszitojas“.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'S. Daukantas atsiuntė Teodorui Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“ - Lietuvos bajorų giminių genealogijų rinkinį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
+    ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­
+    ciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­
+    rėjas 1864 m. lapkričio 26 d. mirė Vilniuje. Rusijos valdžia
+    Saurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­
+    natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
+    ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
+    ir rankraščius išgabenti. Taip nyko dešimtmečius kaupta bib­
+    lioteka, istorijos dokumentų archyvas, nespausdinti darbai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
+    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
+    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
+    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
+    timi. Ir vis dėlto šis straipsnis rodo bendrą lygį, bendrą nuotai­
+    ką, gimstantį norą rašyti patiems, t. y. tokiu būdu išvengti klai­
+    dų, kurias sąmoningai ar nesąmoningai darė kiti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'S. Daukantas Albertą Vijūką-Kojelavičių vertino kaip už Strijkovskį geresnį lotyniškos Lietuvos istorijos autorių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Antras Vij ūkas-Koj alavičius (arba, kaip lietuviai va­
+    dina, Kojalas), gimimo lietuvis nuo Kauno, jezavitas,
+    garsus moksle savo amžiuje, pagailęs savo giminės už­
+    mirštos ir apleistos, surašė lotyniškai jos darbus. Daug
+    geresnis yra už Strijkauskį: kaipogi išguldymas darbų,
+    skaistumas kalbos, aiškumas žodžių nebgali būti ge­
+    resnis nė kokiame rašte, taip jog skaitytojas, perbėg­
+    damas darbus, pirm kelių šimtų metų buvusius, tarias
+    šalip jų bestovįs. Vienok jo istorija yra trumpa ir
+    daug dar trūksta, užvis toje daly, kurioj aprašo darbus
+    pagonų lietuvių, žemaičių; bet jaunam lietuviui ar že­
+    maičiui, norinčiam išmokti lotyniškai, nebreikia geres­
+    nės knygos" (Raštai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-48384
@@ -260,15 +308,12 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
-    ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­
-    ciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­
-    rėjas 1864 m. lapkričio 26 d. mirė Vilniuje. Rusijos valdžia
-    Saurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­
-    natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
-    ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
-    ir rankraščius išgabenti. Taip nyko dešimtmečius kaupta bib­
-    lioteka, istorijos dokumentų archyvas, nespausdinti darbai.
+    Pradžia jau buvo padaryta:
+    išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
+    jūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­
+    nealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­
+    tos. Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,
+    S. Daukantas nutraukė su juo santykius.
   citata_rodoma: "Pradžia jau buvo padaryta:\nišleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-\njūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­\nnealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­\ntos. Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,\nS. Daukantas nutraukė su juo santykius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -283,16 +328,11 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kaip rodo antro LTI tomo parankinis egzem­
-    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
-    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
-    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
-    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
-    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
-    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
-    timi. Ir vis dėlto šis straipsnis rodo bendrą lygį, bendrą nuotai­
-    ką, gimstantį norą rašyti patiems, t. y. tokiu būdu išvengti klai­
-    dų, kurias sąmoningai ar nesąmoningai darė kiti.
+    Galbūt geriausiai šį faktą paaiškintų paties
+    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
+    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
+    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
+    daug kartų apsirinka“12.
   citata_rodoma: "Galbūt geriausiai šį faktą paaiškintų paties\nS. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­\nkytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba\nsavo vaikams darbus jų bočių prabočių papasakoti, o be raštų\ndaug kartų apsirinka“12."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -307,28 +347,19 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Antras Vij ūkas-Koj alavičius (arba, kaip lietuviai va­
-    dina, Kojalas), gimimo lietuvis nuo Kauno, jezavitas,
-    garsus moksle savo amžiuje, pagailęs savo giminės už­
-    mirštos ir apleistos, surašė lotyniškai jos darbus. Daug
-    geresnis yra už Strijkauskį: kaipogi išguldymas darbų,
-    skaistumas kalbos, aiškumas žodžių nebgali būti ge­
-    resnis nė kokiame rašte, taip jog skaitytojas, perbėg­
-    damas darbus, pirm kelių šimtų metų buvusius, tarias
-    šalip jų bestovįs. Vienok jo istorija yra trumpa ir
-    daug dar trūksta, užvis toje daly, kurioj aprašo darbus
-    pagonų lietuvių, žemaičių; bet jaunam lietuviui ar že­
-    maičiui, norinčiam išmokti lotyniškai, nebreikia geres­
-    nės knygos" (Raštai.
+    Žymiausi Lietu­
+    vos istorikai romantikai — Teodoras Narbutas (1784—
+    1864), rašęs lenkiškai (Dzieje narodu litewskiego. T.
+    1—9, Wilno, 1835—1841), ir Simonas Daukantas (1793—
+    1864), rašęs lietuviškai. S. Daukanto istorijos skaityto­
+    jai turėjo būti raštingi valstiečiai.
   citata_rodoma: "Žymiausi Lietu­\nvos istorikai romantikai — Teodoras Narbutas (1784—\n1864), rašęs lenkiškai (Dzieje narodu litewskiego. T.\n1—9, Wilno, 1835—1841), ir Simonas Daukantas (1793—\n1864), rašęs lietuviškai. S. Daukanto istorijos skaityto­\njai turėjo būti raštingi valstiečiai."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
-
 - id: c-176262
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

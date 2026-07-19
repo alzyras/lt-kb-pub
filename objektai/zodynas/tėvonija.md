@@ -52,19 +52,11 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 <a id="claim-t-22336"></a>
 - t-002
   teiginys: "Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Voluinė: 0.67"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Radvilos: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Voluinė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Radvilos tiesiogiai minimi kaip čia įgiję valdas."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Radvilos valdė Voluinė (0.67); Chodkevičiai valdė Voluinė (0.67)"
   pagrindžia:
-    - c-25025
+    - c-166876
 
 <a id="claim-t-183482"></a>
 - t-004
@@ -156,6 +148,33 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - susijęs iš Valstiečių «veldamai» Lietuvoje XV-XVI a: „Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126.
 - susijęs iš Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a: „Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a.“ paskelbta rusų kalba su lietuviška santrauka AkMD 1 tome 1955 m., p. 57-73.
 - susijęs iš Kulmo žemė: Kulmo žemę mozūrų kunigaikščiai buvo dovanoję vokiečiams.
+## Reikšmingi paminėjimai
+- c-007
+  santrauka: 'Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Bevaldant Mantvilai, iškilo chanas Batu2; ir užpuo­
+    lė jis Rusų žemę, ir visą Rusų žemę užkariavo3, ir daug
+    rusų kunigaikščių iškapojo, kitus parsivedė nelaisvėn,
+    o visos Rusų žemės sostinę, Kijevo miestą, pavertė de­
+    gėsiais L Kijevo didysis kunigaikštis Dimitrijus5, išsi­
+    gandęs jo didelės jėgos ir galybės, pabėgo iš Kijevo
+    į Černigovo miestą6 ir paskui sužinojo, kad Kijevo
+    miestas sudegintas ir visa Rusų žemė nusiaubta. Ir iš­
+    girdo, kad esama žmonių — mužikų, gyvenančių be
+    valdovo, besivadinančių druckiečiais. Ir jis sušaukė ka­
+    rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­
+    no Drucko miestą ir pasivadino Drucko didžiuoju ku­
+    nigaikščiu s.
+    O tuo laiku Žemaičių didysis kunigaikštis Mantvila
+    sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
+    gaikščiai išvaikyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-25024
@@ -196,12 +215,10 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   citata_rodoma: "(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-166875
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -246,6 +263,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-004
 
 - id: c-168000
@@ -314,22 +332,20 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Bevaldant Mantvilai, iškilo chanas Batu2; ir užpuo­
-    lė jis Rusų žemę, ir visą Rusų žemę užkariavo3, ir daug
-    rusų kunigaikščių iškapojo, kitus parsivedė nelaisvėn,
-    o visos Rusų žemės sostinę, Kijevo miestą, pavertė de­
-    gėsiais L Kijevo didysis kunigaikštis Dimitrijus5, išsi­
-    gandęs jo didelės jėgos ir galybės, pabėgo iš Kijevo
-    į Černigovo miestą6 ir paskui sužinojo, kad Kijevo
-    miestas sudegintas ir visa Rusų žemė nusiaubta. Ir iš­
-    girdo, kad esama žmonių — mužikų, gyvenančių be
-    valdovo, besivadinančių druckiečiais. Ir jis sušaukė ka­
-    rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­
-    no Drucko miestą ir pasivadino Drucko didžiuoju ku­
-    nigaikščiu s.
-    O tuo laiku Žemaičių didysis kunigaikštis Mantvila
-    sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
-    gaikščiai išvaikyti.
+    4. APIE PALEMONO VAIKAIČIUS KERNIU IR GIMBUTĄ
+    IR VOKIEČIU ĮSIGALĖJIMĄ LATVIŲ 2EMEJE
+    O paskui 1  didysis kunigaikštis Kernius ir Gimbu­
+    tas, geisdami praplėsti savo tėvonijas, sutelkė savo pa­
+    jėgas iš Lietuvos ir Žemaičių ir leidosi į Rusią, link
+    Breslaujos ir link Polocko, ir padarė daug žalos rusams,
+    jų žemę nuniokojo ir daugybę žmonių išsivarė ne­
+    laisvėn 2 .
+    O tuo laiku, jam bebūnant Rusioje, kita gentis, va­
+    dinama latviais, kurie gyveno jūros pakrantėje ir iš­
+    girdo, kad kunigaikščio Kerniaus nebėra Lietuvoje,
+    o didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi
+    susirinkę patraukė į Žemaičių žemę ir pridarė Žemai­
+    čių žemėje daug žalos.
   citata_rodoma: "4. APIE PALEMONO VAIKAIČIUS KERNIU IR GIMBUTĄ \nIR VOKIEČIU ĮSIGALĖJIMĄ LATVIŲ 2EMEJE\nO paskui 1  didysis kunigaikštis Kernius ir Gimbu­\ntas, geisdami praplėsti savo tėvonijas, sutelkė savo pa­\njėgas iš Lietuvos ir Žemaičių ir leidosi į Rusią, link \nBreslaujos ir link Polocko, ir padarė daug žalos rusams, \njų žemę nuniokojo ir daugybę žmonių išsivarė ne­\nlaisvėn 2 .\nO tuo laiku, jam bebūnant Rusioje, kita gentis, va­\ndinama latviais, kurie gyveno jūros pakrantėje ir iš­\ngirdo, kad kunigaikščio Kerniaus nebėra Lietuvoje, \no didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi \nsusirinkę patraukė į Žemaičių žemę ir pridarė Žemai­\nčių žemėje daug žalos."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

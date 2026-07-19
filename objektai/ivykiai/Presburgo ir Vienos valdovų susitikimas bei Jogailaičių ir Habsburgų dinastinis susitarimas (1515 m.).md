@@ -7,6 +7,8 @@ datos:
   - '1515 m.'
 date_start: '1515'
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,8 +16,6 @@ tags:
   - diplomatinis-įvykis
   - sutartis
   - ivykis
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -74,12 +74,10 @@ Nenurodyta
   pagrindžia:
     - c-178594
 
-## Citatos
-
-- id: c-176174
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai
     susijaudinęs imperatorius tarė:
@@ -96,6 +94,26 @@ Nenurodyta
     skirtingai apsirengę, visi nepaprastai puošnūs, ir šitai
     teikė žiūrovams tokį didingą reginį, kokį bebuvo ga­
     lima matyti nebent per romėnų triumfo eisenas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-176174
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Penki tūkstančiai raitijos palydėjo karalius
+    ligi miesto, o kiti raiteliai bei pėstininkai liko saugoti
+    palapinių. Nesinori smulkiai pasakoti, ką valdovai nu­
+    tarė šiame suvažiavime. Dėl Lietuvos reikalų susitarta
+    šitaip: imperatorius arba nutrauksiąs draugystę su mas-
+    kvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­
+    tinsiąs savo autoritetu prašyti taikos ir taikytis.
   citata_rodoma: "Penki tūkstančiai raitijos palydėjo karalius\nligi miesto, o kiti raiteliai bei pėstininkai liko saugoti\npalapinių. Nesinori smulkiai pasakoti, ką valdovai nu­\ntarė šiame suvažiavime. Dėl Lietuvos reikalų susitarta\nšitaip: imperatorius arba nutrauksiąs draugystę su mas-\nkvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­\ntinsiąs savo autoritetu prašyti taikos ir taikytis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

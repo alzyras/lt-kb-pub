@@ -85,13 +85,20 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 <a id="claim-t-192278"></a>
 - t-001
   teiginys: "Teodoras Narbutas pilkapius apibrėžia kaip žmonių rankomis supiltas žemės kalvas, rusinų vadinamas kurhany."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Rusinai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "pilkapis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rusinai: mention_match, group, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilkapis\" parinktas kaip owner_note_path. Targetas \"Rusinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175101
+    - c-175102
 
 <a id="claim-t-192279"></a>
 - t-008
@@ -114,7 +121,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 <a id="claim-t-192281"></a>
 - t-002
   teiginys: "Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
@@ -203,10 +210,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Apskri­
-    tai panašūs radiniai priklauso prie retenybių.
-    Pavyko surinkti šiuos tenykščių kaimo gyventojų iš­
-    saugotus vietos padavimus ir pasakojimus:
     a) Pilkapiai visuomet buvo laikomi kapais.
     b) Jie priklauso neatmenamos senovės epochai.
     c) Tai paminklai kažkokios tautos, gyvenusios šioje
@@ -214,12 +217,12 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     slavai pavergė ginklu,
     d) Rogačiovas, esąs trikampyje, kurį skalauja Dnep-
     ras ir Drutė, ant kalvos, laikomas seniausiu šio krašto
-    miestu ir visų pripažįstamas šios buvusios pilkapių ka­
+    miestu ir visų pripažįstamas šios buvusios pilkapių ka-
     sėjų genties sostine.
-    e) Vis dėlto pilkapius visuomet gaubė dabartinės mū­
+    e) Vis dėlto pilkapius visuomet gaubė dabartinės mū-
     sų kraštiečių kartos pagarba. Šiandien kaimiečiai nors
-    nelaiko jų savo tautos protėvių kapais, tačiau iš pagar­
-    bos po jais besiilsinčios genties žmonių palaikams nieka­
+    nelaiko jų savo tautos protėvių kapais, tačiau iš pagar-
+    bos po jais besiilsinčios genties žmonių palaikams nieka-
     da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
     o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
     laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
@@ -231,7 +234,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-001
     - t-008
     - t-009
 
@@ -240,19 +242,8 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai netgi leidžia daryti prielaidą, jog minėti broliai
-    galėjo priklausyti krivičių tautai ar kuriai kitai su lietu­
-    viais susigiminiavusiai slavų kartai.
-    Tokia surinkta pradinės Kijevo istorijos medžiaga, ku­
-    ria remdamasis, išmanantis istoriją ir turintis noro galės
-    po mūsų parašyti platesnę studiją, jei laikas, sveikata ir
-    amžius neleis mums šito įgyvendinti.
-    * * *
-    VII Priedas
-    A p ie p ilk a p iu s
-    Šis lietuvių tautos istoriją dominantis straipsnis buvo
-    parašytas leidiniui „Tygodnik Wilenslki“', bet ir dabar
-    čia verta pakartoti jį su tam tikromis pataisomis.
+    Pilkapiai — žemės kalvos, supiltos žmonių rankomis,
+    rusinu vadinami kurhany.
   citata_rodoma: "Pilkapiai — žemės kalvos, supiltos žmonių rankomis,\nrusinu vadinami kurhany."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -260,4 +251,5 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002

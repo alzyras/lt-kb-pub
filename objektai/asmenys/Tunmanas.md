@@ -7,15 +7,15 @@ datos:
   - '1224 m.'
 date_start: '1224'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -91,26 +91,6 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
   pagrindžia:
     - c-174118
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašo, kad Tunmanas lietuvių kilmę siejo su bėgliais, apie 550 metus įsikūrusiais Vyslos šakų skalaujamoje saloje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ar galima tuo remiantis daryti prie­
-    laidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad
-    šis tautų lydinys yra tikras ir vienintelis lietuvių protėvis?
-    Juk žymus švedų senovės istorikas Tunmanas, susižavė­
-    jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo
-    gaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje
-    ir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­
-    rėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­
-    lio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174116
@@ -140,17 +120,15 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Ar galima tuo remiantis daryti prie­
+    laidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad
+    šis tautų lydinys yra tikras ir vienintelis lietuvių protėvis?
     Juk žymus švedų senovės istorikas Tunmanas, susižavė­
     jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo
     gaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje
     ir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­
     rėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­
     lio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos.
-    Jo pateikti lingvistiniai įrodymai, lietuvio nuomone, ne­
-    1 Ad littus Oceani, ubi tribus faucibus fluenta Vistula ebibitur,
-    Vidivarii (alii legunt Vidioarii), resident ex diversis nationibus aggre­
-    gati (Capite 5). Gepidae commanebant in insula Viselae amnis cir­
-    cumacta, quam pro patrio sermone dicebant Gepidos.
   citata_rodoma: "Ar galima tuo remiantis daryti prie­\nlaidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad\nšis tautų lydinys yra tikras ir vienintelis lietuvių protėvis?\nJuk žymus švedų senovės istorikas Tunmanas, susižavė­\njęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo\ngaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje\nir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­\nrėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­\nlio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)
 
 ## Santrauka
@@ -85,22 +86,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-155997
-
-<a id="claim-t-171454"></a>
-- t-010
-  teiginys: "Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-155996
 
 <a id="claim-t-171455"></a>
 - t-009
@@ -272,6 +257,14 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Vygantas Jocius.md#claim-t-39677|Vygantas Jocius]]: Parlamento gynėjas ir kūrėjas savanoris Vygantas Jocius 2010 m. pagamino demonstracinę butelio su padegamuoju skysčiu versiją.
 - susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78164|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
 - susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78165|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
+## Ryšiai
+
+### Laikotarpiai
+- XX amžius
+
+### Susiję objektai
+- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai]]
+
 ## Citatos
 
 - id: c-11823
@@ -444,7 +437,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
     - t-017
 
 - id: c-155997

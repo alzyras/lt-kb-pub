@@ -12,7 +12,6 @@ datos:
 date_start: '1387'
 date_end: '2005'
 amziai:
-  - 'XV'
   - 'XIV'
   - 'XXI'
 sukurta: ''
@@ -162,25 +161,27 @@ Nenurodyta
   santrauka: 'Štai todėl karalius po senato posėdžio, net neatsi sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Vytautui išėjus, senatas kuo rimčiau­
-    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
-    suktiems imperatoriaus sumanymams, nusileistų žmo­
-    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
-    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
-    tą. Štai todėl karalius po senato posėdžio, net neatsi­
-    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams.
+    Taip
+    ir buvo, senato pirmininkas Gnezno arkivyskupas bylo­
+    jo be galo iškalbingai, tačiau smarkiai varžydamasis,
+    nes bijojo įžeisti Vytautą; visa ko prišnekėjęs, nutilo
+    lyg kirviu nukirstas. Tuo tarpu Krokuvos vyskupas Zbig­
+    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
+    kokia įtartina imperatoriaus
+    S en ato įsp ė ta s
+    draugystė, ir, atskleidęs, ko­
+    kie pavojingi jo siūlymai,
+    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
+    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
+    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
+    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
+    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
+    nas iš Tarnovo, Krokuvos vaivada.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -247,22 +248,20 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Taip
-    ir buvo, senato pirmininkas Gnezno arkivyskupas bylo­
-    jo be galo iškalbingai, tačiau smarkiai varžydamasis,
-    nes bijojo įžeisti Vytautą; visa ko prišnekėjęs, nutilo
-    lyg kirviu nukirstas. Tuo tarpu Krokuvos vyskupas Zbig­
-    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
-    kokia įtartina imperatoriaus
-    S en ato įsp ė ta s
-    draugystė, ir, atskleidęs, ko­
-    kie pavojingi jo siūlymai,
-    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
-    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
-    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
-    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
-    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
-    nas iš Tarnovo, Krokuvos vaivada.
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
   citata_rodoma: "Vytautui išėjus, senatas kuo rimčiau­\nsiai paaiškino karaliui, kad, pritardamas pavojingiems ir\nsuktiems imperatoriaus sumanymams, nusileistų žmo­\ngui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos\npriešas, nes šitai esąs parodęs praeityje ne vieną kar­\ntą. Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

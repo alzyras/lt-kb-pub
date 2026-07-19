@@ -8,14 +8,14 @@ datos:
   - '1632 m.'
 date_start: '1632'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-amziai:
-  - 'XVII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -78,6 +78,22 @@ media_all_json: |-
 - susijęs iš Parulio mūras: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą iš magistrato ir perdavė jį Akademijos kolegijai.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86529|kahalas]]: Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms.
 - susijęs iš [[objektai/asmenys/Ona (Petro žmona, XIX a.).md#claim-t-195553|Ona (Petro žmona, XIX a.)]]: Ganiavos epizode Ona įvardijama kaip viena iš mergaičių, artimų Petrui.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Lietuvos metraščio pasakojime Britanijos karalaitę Uršulę, lydimą už Anglijos karaliaus sūnaus, nužudė Atila.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
+    lydima karalaitė, vardu Uršulė10, Įišleidžiama] už Ang­
+    lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
+    čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
+    vienuolika tūkstančių mergelių, buvusių su ja.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-83909
@@ -104,7 +120,7 @@ media_all_json: |-
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
-    lydima karalaitė, vardu Uršulė10, Įišleidžiama] už Ang­
+    lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
     lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
     čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
     vienuolika tūkstančių mergelių, buvusių su ja.

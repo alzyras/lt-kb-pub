@@ -63,19 +63,13 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
-    Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas
-    Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą
-    už šiuos jo žodžius: švento Vincento dieną sembai būsią išžudyti. Kai tą dieną maldininkų
-    kariuomenė pradėjo trauktis, jis, apkaltintas melu, dar atkakliau laikėsi savo nuomonės
-    ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
-    praris nelyginant Dataną ir Abironą“. Šitaip ir įvyko, kaip buvo sakęs.
-    100 (95). Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
-    Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į
-    šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš
-    viešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos
-    garsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su
-    šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.
+    Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
+    vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
+    atbėgo su kruvinu kalaviju rankose pranešti apie pasalą. Todėl maldininkai pasiruošė
+    kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,
+    jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius,
+    subėgusius  į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,
+      369 1262—1263 m.
   citata_rodoma: "Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;\nvienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,\natbėgo su kruvinu kalaviju rankose pranešti apie pasalą. Todėl maldininkai pasiruošė\nkovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,\njie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius,\nsubėgusius  į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,\n  369 1262—1263 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

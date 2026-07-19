@@ -8,12 +8,12 @@ datos:
   - '1430 m.'
 date_start: '1430'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -104,6 +104,32 @@ Nenurodyta
   pagrindžia:
     - c-67071
 - susijęs iš [[objektai/posakiai/Mirė tikrai mūsų tautos garbė.md#claim-t-67274|Mirė tikrai mūsų tautos garbė.]]: Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
+    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
+    žmonos vežime. Iš patalo daugiau nebepakilo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pa­
+    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
+    žmonos vežime. Iš patalo daugiau nebepakilo. Pagal Dlugošo idi­
+    lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
+    gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-04920
@@ -111,7 +137,7 @@ Nenurodyta
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
+    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa-
     kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
     žmonos vežime. Iš patalo daugiau nebepakilo.
   citata_rodoma: "Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa-\nkelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo\nžmonos vežime. Iš patalo daugiau nebepakilo."
@@ -128,10 +154,7 @@ Nenurodyta
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Pa­
-    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
-    žmonos vežime. Iš patalo daugiau nebepakilo. Pagal Dlugošo idi­
-    lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
+    Pagal Dlugošo idilišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo-
     gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
   citata_rodoma: "Pagal Dlugošo idilišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo-\ngailai ir liepęs jam nuo iždo ir pilių atiduoti raktus."
   statusas: verified

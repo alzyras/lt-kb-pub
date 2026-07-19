@@ -7,13 +7,13 @@ datos:
   - '1265 m.'
 date_start: '1265'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -123,26 +123,6 @@ Nenurodyta
   pagrindžia:
     - c-85352
 
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
-
-      Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė
-    kariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su
-    visu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion
-    sugrįžo anksčiau čia viešpatavusi taika.
-
-     112 (107).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-196967
-
 ## Citatos
 
 - id: c-85352
@@ -192,12 +172,17 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Manoma, kad Vitlandu vadinta
-    ne tik Aismarių nerija, bet ir kontinentinė Pagudė bei Notanga, pavadinimas kildinamas
-    iš baltų vidus, plg. latvių Vidzeme (Źródła skandynawskie.., p. 107—109 — Labuda G.).
-    Semba buvo pavadinta ir vardu Weydelant (SRP, 2, p. 404), plg. Sembos vietovardžius:
-    Weyden, Wayday, Waiditen, Waidipelkis ir lie. Vaidžiai, Vaidbaliai (GAO, p. 191, 198),
-    Vaidlėnai, Vaidlonys, Vaidulioniai, Vaideliotai.
+    111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
+
+      Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė
+    kariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su
+    visu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion
+    sugrįžo anksčiau čia viešpatavusi taika.
+
+
+
+
+     112 (107).
   citata_rodoma: "111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį\n\n  Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė\nkariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su\nvisu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion\nsugrįžo anksčiau čia viešpatavusi taika.\n\n\n\n\n 112 (107)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

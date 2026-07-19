@@ -7,14 +7,14 @@ datos:
   - '1981 m.'
 date_start: '1981'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
   - gyvenvietė
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Norkyčiai
 
 ## Santrauka
@@ -39,7 +40,7 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
 <a id="claim-t-58606"></a>
 - t-001
   teiginys: "XVI a. J. Bretkūnui žinotuose pasakojimuose vieta prie Auksinės netoli Norkyčių kadaise buvo laikoma vaidilos globoje."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Auksinė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,21 +77,6 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
 - susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
 - susijęs iš Vokiškieji kryžiuočių kelių aprašymai: 1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.
 - susijęs iš Katavos valsčius: Katavos valsčius lokalizuojamas Katinavos apylinkėse, o jo vardas siejamas su Katinava arba Katniava.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'XVI a. J. Bretkūnui žinotuose pasakojimuose vieta prie Auksinės netoli Norkyčių kadaise buvo laikoma vaidilos globoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Reikšminga, kad senuose pasakojimuose,
-    žinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi
-    kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.
-    (VVU) 157; r. p. (MA) 279; š. p. 576).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-59238
@@ -98,12 +84,10 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Senieji Norkyčiai buvę per 6—7 km žemiau nuo minimos vietos, Auksinės vingyje,
-    kur ant aukštos kalvos senos baltų gyvenvietės (1981 m. rasta I m. e. tūkstantmečio
-    vidurio grublėtosios keramikos pavyzdžių) ar pilaitės vietoje kryžiuočiai XIV a. pastatė
-    pilį (minima XIV a. 2-oje pusėje — SRP, 2, p. 577, 709 ir kt.). Norkyčiai čia buvo ir
-    XVI a., vėliau Norkyčių gyvenvietė buvusi perkelta per 2 km į šiaurę, prie Įsruties—
-    Karaliaučiaus kelio (dab. Meždurečjė). Senoje vietoje beliko apleistas Pilies kalnas.
+    Reikšminga, kad senuose pasakojimuose,
+    žinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi
+    kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.
+    (VVU) 157; r. p. (MA) 279; š. p. 576).
   citata_rodoma: "Reikšminga, kad senuose pasakojimuose,\nžinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi\nkadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.\n(VVU) 157; r. p. (MA) 279; š. p. 576)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

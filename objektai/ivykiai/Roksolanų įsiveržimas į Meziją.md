@@ -75,27 +75,6 @@ Nenurodyta
   pagrindžia:
     - c-173933
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Tacito cituojamame pasakojime roksolanai išžudė dvi romėnų kohortas ir įsiveržė į Meziją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai tiesa, nors įvairiai skamba
-    1 Lib. I, 79. (Roxolani, Sarmatica gens, caesis duabus cohorti­
-    bus, magna spe in Moesiam irruperant). (Roksolanai, sarmatą gen­
-    tis, išžudė dvi kohortas (romėnų) ir, kupini vilties, įsiveržė į Meziją.)
-    70
-
-    ## Puslapis 68
-
-    Volgos',ypavadinimas, tačiau roksanai ir bulgarai reiškia
-    vieną ik tą patį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173933
@@ -124,18 +103,16 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kai kurie iš šių panašumų buvo
-    nurodyti, o daug kitų palikta, kad patys skaitytojai ga­
-    lėtų palyginti norėdami geriau įsitikinti išvadomis, ku­
-    rios siekia istorinių tiesų, o tai yra mūsų tyrinėjimo sri­
-    tis, be to, patys darytų išvadas savo nuožiūra ir remda­
-    miesi išmanymu.
-    Iš naujausių Indostano istorijos atradimų žinoma, kad
-    1029 metais prieš Kristaus gimimą pradėta garbinti indų
-    dievą vardu Buda. Jo sektos narių labai padaugėjo pir­
-    miausia pačioje Indijoje, o vėliau šie sektantai, išvyti ir
-    išsibarstę po visą Vidurinę Aziją, išplatino savo tikėji­
-    mą.
+    Tai tiesa, nors įvairiai skamba
+    1 Lib. I, 79. (Roxolani, Sarmatica gens, caesis duabus cohorti­
+    bus, magna spe in Moesiam irruperant). (Roksolanai, sarmatą gen­
+    tis, išžudė dvi kohortas (romėnų) ir, kupini vilties, įsiveržė į Meziją.)
+    70
+
+    ## Puslapis 68
+
+    Volgos',ypavadinimas, tačiau roksanai ir bulgarai reiškia
+    vieną ik tą patį.
   citata_rodoma: "Tai tiesa, nors įvairiai skamba\n1 Lib. I, 79. (Roxolani, Sarmatica gens, caesis duabus cohorti­\nbus, magna spe in Moesiam irruperant). (Roksolanai, sarmatą gen­\ntis, išžudė dvi kohortas (romėnų) ir, kupini vilties, įsiveržė į Meziją.)\n70\n\n## Puslapis 68\n\nVolgos',ypavadinimas, tačiau roksanai ir bulgarai reiškia\nvieną ik tą patį."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

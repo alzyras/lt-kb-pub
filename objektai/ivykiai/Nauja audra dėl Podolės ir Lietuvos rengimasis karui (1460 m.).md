@@ -7,13 +7,13 @@ datos:
   - '1460 m.'
 date_start: '1460'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -89,12 +89,10 @@ Nenurodyta
   pagrindžia:
     - c-169118
 
-## Citatos
-
-- id: c-169117
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     1458 m eta i
     K araliu s su la ik o nuo
@@ -117,6 +115,40 @@ Nenurodyta
     miems žygiams, karalius tu­
     rėjo pasitraukti iš Prūsijos nieko naudinga čia šiuo žy­
     giu nepešęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169117
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    N e s ė k m in g a s  ž y g is  į
+    P rūsiją
+    leidimo paliko stovyklą, o
+    sumažėjus jėgoms ir pralei­
+    dus tinkamą metą
+    lemia-
+    rkovo seime jie, be galo iš­
+    510
+
+    ## Puslapis 509
+
+    Šitai dar labiau sukurstė aist-
+    N a u ja  au d ra  d ė l Po-
+    ras, dar neatvėsusias po anks-
+    d o lės
+    tesnių sambrūzdžių. Visa Lie­
+    tuva suskato rengtis karui dėl
+    Podolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
+    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
+    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
+    nas Goštautas.
   citata_rodoma: "N e s ė k m in g a s  ž y g is  į\nP rūsiją\nleidimo paliko stovyklą, o\nsumažėjus jėgoms ir pralei­\ndus tinkamą metą\nlemia-\nrkovo seime jie, be galo iš­\n510\n\n## Puslapis 509\n\nŠitai dar labiau sukurstė aist-\nN a u ja  au d ra  d ė l Po-\nras, dar neatvėsusias po anks-\nd o lės\ntesnių sambrūzdžių. Visa Lie­\ntuva suskato rengtis karui dėl\nPodolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­\ntenkinta grasinimais bei kariuomenės telkimu, nes kaip\ntik tuo metu mirė žymiausias šios grupuotės vadas Jo­\nnas Goštautas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

@@ -108,24 +108,12 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
-    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
-    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
-    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
-    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
-    Kunigaikštystės. Ir su visais tais miestais prisijungė
-    prie Mazovijos ir ėmė tarnauti Mykoliukui
-    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
-    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
-    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
-    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
-    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
-    vo mažametis. Ir tas Goštautas didžiojo kunigaikščio
-    įsakymu nuvyko į tuos miestus, ir juos įveikė ginklo
-    jėga, ir visus pilnutinai sugrąžino Didžiajai Kunigaikš­
-    tystei
-    o Jurgis Nosuta pabėgo į Mazoviją, nes jis
-    LlHuvoi
+    Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį
+    Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­
+    tystės šeimininku Jogailos sūnų karalaitį Kazimierą l0 ,
+    Lietuvos žemės tėvonį. Ir siunčia pas karalaitį į Lenkų
+    žemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­
+    siuntiniais ponus Mykolą ir Joną Kęsgailas1 1 .
   citata_rodoma: "Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį\nJurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­\ntystės šeimininku Jogailos sūnų karalaitį Kazimierą l0 ,\nLietuvos žemės tėvonį. Ir siunčia pas karalaitį į Lenkų\nžemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­\nsiuntiniais ponus Mykolą ir Joną Kęsgailas1 1 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

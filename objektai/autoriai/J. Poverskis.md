@@ -8,15 +8,15 @@ datos:
   - '1286 m.'
 date_start: '1242'
 date_end: '1286'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # J. Poverskis
 
 ## Santrauka
@@ -49,15 +50,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 - Chronologia...
 
 ## Teiginiai
-
-<a id="claim-t-64631"></a>
-- t-002
-  teiginys: "J. Poverskis parašė darbą „Przekaz“."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-56015
 
 <a id="claim-t-64633"></a>
 - t-010
@@ -110,18 +102,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   pagrindžia:
     - c-65311
 
-<a id="claim-t-64639"></a>
-- t-011
-  teiginys: "J. Poverskis siūlė vėlesnes pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos datas."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1279 m.; įvykio data: 1281 m.; įvykio data: 1286 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata sieja vėlesnių datų siūlymą su J. Poverskio darbu."
-  pagrindžia:
-    - c-65311
-
 <a id="claim-t-197000"></a>
 - t-012
   teiginys: "J. Poverskis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų išsigelbėjo pabėgdamas."
@@ -147,45 +127,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     - c-65309
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62620|J. Venta]]: J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.
 - susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio šaltinį, kuris yra neišlikęs.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    G. Liabuda, tyrinėdamas XIII—XV a. Pamario bei Ordino valstybės analistiką, be kitų
-    to meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.
-    Poliakuvnos darbo išvadomis, G. Liabuda išanalizavo probleminius Dusburgiečio kronikos
-    šaltinių klausimus, atskleidė jų genealogiją, atkreipė dėmesį  į atskirų Ordino teritorijų
-    valdytojų raportus ir kt.92 J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio
-    šaltinį, kuris yra žuvęs93.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'J. Poverskis parašė darbą „Przekaz“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    93 Powierski J. Przekaz..., s. 422—425.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
-    dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
-    išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-56015
@@ -193,14 +134,12 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Analizuodamas Olivos kronikos šaltinius, J. Venta iškėlė mintį,
-    kad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir
-    3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos
-    cenzūruotas antrininkas94.
-    Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą. Lotyniškojo
-    originalo ir lietuviškojo vertimo paragrafai, atskleidžiantys įvairius prūsų (32 paragrafai)
-    ir lietuvių (14 paragrafų) kovų su Ordinu momentus (iki 1324 m.), tarpais sutrumpinti,
-    paskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
+    G. Liabuda, tyrinėdamas XIII—XV a. Pamario bei Ordino valstybės analistiką, be kitų
+    to meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.
+    Poliakuvnos darbo išvadomis, G. Liabuda išanalizavo probleminius Dusburgiečio kronikos
+    šaltinių klausimus, atskleidė jų genealogiją, atkreipė dėmesį  į atskirų Ordino teritorijų
+    valdytojų raportus ir kt.92 J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio
+    šaltinį, kuris yra žuvęs93.
   citata_rodoma: "G. Liabuda, tyrinėdamas XIII—XV a. Pamario bei Ordino valstybės analistiką, be kitų\nto meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.\nPoliakuvnos darbo išvadomis, G. Liabuda išanalizavo probleminius Dusburgiečio kronikos\nšaltinių klausimus, atskleidė jų genealogiją, atkreipė dėmesį  į atskirų Ordino teritorijų\nvaldytojų raportus ir kt.92 J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio\nšaltinį, kuris yra žuvęs93."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -208,7 +147,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
 
 - id: c-56016
@@ -216,8 +154,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Volfenbiutelio bibliotekos kopija99. Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje
-    buvusi oficiali analistika. Jos pagrindas susidarė XIII a. pabaigoje100.
+    93 Powierski J. Przekaz..., s. 422—425.
   citata_rodoma: "93 Powierski J. Przekaz..., s. 422—425."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -251,11 +188,9 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės
-    dokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto
-    vieta (CDP, 2, Nr. 113, p. 151—152; SU, 2, Nr. 238, p. 159—160; Voigt J., Geschichte...,
-    1, p. 639—649; GAO, p. 146).
-    Ieškodamas centrinės baltų Romovės resp.
+    teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
+    dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
+    išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
   citata_rodoma: "teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška\ndykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo\nišlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -264,7 +199,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-011
 
 - id: c-65314
   autorius: "Petras Dusburgietis"

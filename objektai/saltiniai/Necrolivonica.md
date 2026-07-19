@@ -48,22 +48,6 @@ Narbutas nurodo, kad veikale „Necrolivonica“ nagrinėta tenykščių bronzin
   pagrindžia:
     - c-174641
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas nurodo, kad veikale „Necrolivonica“ nagrinėta tenykščių bronzinių radinių cheminė sudėtis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Bronzinių daiktų, kurie buvo randami lietuviškuose
-    kapuose, cheminė sudėtis nebuvo tiriama. Kiek man ži­
-    noma, veikale „Necrolivonica“ yra nagrinėjama tenykščių
-    bronzinių radinių sudėtis. Romėnų laikų bronzoje yra
-    96,17% vario, 0,5% cino, 3,33% cinko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174641
@@ -71,14 +55,11 @@ Narbutas nurodo, kad veikale „Necrolivonica“ nagrinėta tenykščių bronzin
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taigi gali bū­
-    ti, jog, amžiams bėgant, ašarinėse esantis skystis žemėje
-    įgauna tiek dujinio nepatvarumo, kad išgaruoja ir per
-    stiklą.
     Bronzinių daiktų, kurie buvo randami lietuviškuose
     kapuose, cheminė sudėtis nebuvo tiriama. Kiek man ži­
     noma, veikale „Necrolivonica“ yra nagrinėjama tenykščių
-    bronzinių radinių sudėtis.
+    bronzinių radinių sudėtis. Romėnų laikų bronzoje yra
+    96,17% vario, 0,5% cino, 3,33% cinko.
   citata_rodoma: "Bronzinių daiktų, kurie buvo randami lietuviškuose\nkapuose, cheminė sudėtis nebuvo tiriama. Kiek man ži­\nnoma, veikale „Necrolivonica“ yra nagrinėjama tenykščių\nbronzinių radinių sudėtis. Romėnų laikų bronzoje yra\n96,17% vario, 0,5% cino, 3,33% cinko."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -222,15 +222,15 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Paprastai, susiruošęs į
-    karą, karys užsideda šarvus, mat norima, kad jis pasijustų žvalesnis, tačiau šio brolio
-    kūnas buvęs taip sužalotas, kad rodėsi, jog jis kokių skorpionų sukandžiotas. Kai brolis
-    Petras, kunigas ir jo nuodėmklausys, jį subarė, sakydamas, kad karo metu dėl kitų šarvų
-    svorio jis privaląs nusiimti grandininius, tas atrėžė, kad niekas jo negalįs priversti, kol
-    gyvas, juos nusivilkti. Tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį
-    taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą
-    jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.
-    krante žemiau Nogato atsišakojimo.
+    Mstivojus, Pomeranijos kunigaikštis, anksčiau
+    nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,
+    paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą
+    tarp jo ir magistro bei brolių taikos susitarimą.
+
+
+
+
+                   130 (125).
   citata_rodoma: "Mstivojus, Pomeranijos kunigaikštis, anksčiau\nnelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,\npaliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą\ntarp jo ir magistro bei brolių taikos susitarimą.\n\n\n\n\n               130 (125)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

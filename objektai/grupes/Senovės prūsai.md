@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Senovės prūsai
 
 ## Santrauka
@@ -77,10 +78,12 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
 - susijęs iš Drujos apylinkė: 1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos.
 - susijęs iš Drujos apylinkės ir Druja: 1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos.
 - susijęs iš [[objektai/zodynas/Veliona Wellona.md#claim-t-189187|Veliona Wellona]]: Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir būsimo pomirtinio gyvenimo deivę.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su vyriausiuoju žyniu“5.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172389
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kartais, tik­
     riausiai kaip apgavikiškus monus, žmonėms rodydavo baisias
@@ -89,31 +92,6 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
     basi su vyriausiuoju žyniu“5.
     Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­
     mui ir atskleisti slaptam.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172389
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    graikiškų ir 1.1, papročių71. Senovės prūsų merginas, jeigu norė­
-    davo jas vesti, turėdavo iš tėvų nusipirkti1.
-    Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi­
-    me vedybų papročius, bendrus lietuviams ir skandinavams, tai
-    yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei­
-    sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo­
-    terys neturėjo tokios reikšmės ir nors jų vaikai, tėvo pripažin­
-    ti, buvo laikomi teisėtais, kaip ir pagimdyti pirmosios žmonos,
-    vis dėlto ta daugpatystė buvo labai apribota, net iki to, kad
-    kitos žmonos buvo laikomos vergėmis ir namų nuosavybe, ku­
-    rią po šeimininko mirties pasidalydavo įpėdiniai; jos būdavo
-    arba iš paimtų per karą, arba nupirktos iš vargingų tėvų.
   citata_rodoma: "Kartais, tik­\nriausiai kaip apgavikiškus monus, žmonėms rodydavo baisias\ngyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­\ngirdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­\nbasi su vyriausiuoju žyniu“5.\nBuvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­\nmui ir atskleisti slaptam."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -73,6 +73,25 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66507|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Dusburgietis pasakoja, kad Surmino surengtoje pasaloje Nodamas, persirengęs moteriškais drabužiais, priviliojo Ernekės laivą prie kranto, po ko visi laivu plaukę buvo išžudyti.
 - susijęs iš [[objektai/posakiai/išvaduotų iš velnio vergovės.md#claim-t-184029|išvaduotų iš velnio vergovės]]: Nodamas, apsimetęs moterimi, prašė brolį Ernekę priimti jį į laivą ir išvaduoti jo sielą iš velnio vergovės.
 - susijęs iš [[objektai/posakiai/išvaduotų iš velnio vergovės.md#claim-t-59098|išvaduotų iš velnio vergovės]]: Nodamas, apsimetęs moterimi, prašė brolį Ernekę priimti jį į laivą ir išvaduoti jo sielą iš velnio vergovės.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Todėl magistras bei broliai
+    didžiai nudžiugo ir padėkojo už galybę suteiktų malonių dievui, guodžiančiam savo
+    žmones kiekvienoje nelaimėje. Štai šitaip pragaras, visai neseniai džiūgavęs teisingojo
+    dievo lėmimu, patyrė skausmą, o brolių liūdesys pavirto džiaugsmu.
+    243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
+    1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
+    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
+    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-60743
@@ -106,14 +125,14 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Todėl magistras bei broliai
-    didžiai nudžiugo ir padėkojo už galybę suteiktų malonių dievui, guodžiančiam savo
-    žmones kiekvienoje nelaimėje. Štai šitaip pragaras, visai neseniai džiūgavęs teisingojo
-    dievo lėmimu, patyrė skausmą, o brolių liūdesys pavirto džiaugsmu.
-    243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
-    1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
-    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
-    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino.
+    Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė
+    prie kranto, šis staiga nutvėrė laivą, stipriai  į  jį įsikibo  ir, susišaukęs savo bendrus,
+    užpuolė plaukusius laivu ir visus išžudė.
+
+
+
+
+              240 (233).
   citata_rodoma: "Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė\nprie kranto, šis staiga nutvėrė laivą, stipriai  į  jį įsikibo  ir, susišaukęs savo bendrus,\nužpuolė plaukusius laivu ir visus išžudė.\n\n\n\n\n          240 (233)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

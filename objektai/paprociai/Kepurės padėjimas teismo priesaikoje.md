@@ -7,13 +7,13 @@ datos:
   - '1757 m.'
 date_start: '1757'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - priesaika
   - paprotys
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -83,10 +83,12 @@ Nenurodyta
   pagrindžia:
     - c-172664
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas kepurių padėjimą teismo liudijimuose aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172663
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šaltinis
     yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
@@ -100,30 +102,6 @@ Nenurodyta
     ## Puslapis 321
 
     lietuvių liudijimo būdas su užkeikimu arba priesaika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172663
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Hartknochas, mėgstantis viską pritempti prie germaniš­
-    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
-    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
-    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
-    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
-    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
-    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
-    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
-    vuose išlikę duomenys iš XIII amžiaus.
-    Lietuviai nuo seniausių amžių dalijo laiką į valandas
-    (lYahmda) , o jos skirstytos į dienos ir nakties.
   citata_rodoma: "Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).\nII. 93\n321\n\n## Puslapis 321\n\nlietuvių liudijimo būdas su užkeikimu arba priesaika."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

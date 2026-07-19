@@ -7,13 +7,13 @@ datos:
   - '1432 m.'
 date_start: '1432'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -93,12 +93,10 @@ Nenurodyta
   pagrindžia:
     - c-178621
 
-## Citatos
-
-- id: c-168909
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     sius kaimus ieškotis maisto ir pašaro; grįždamas iš
     tolo išgirdo riksmus bei triukšmą ir suprato, kąd čia
@@ -116,6 +114,34 @@ Nenurodyta
     me danguje aiškiai švietė mėnulio pilnatis, lenkai,
     trokšdami galutinės pergalės, dar po pusiaunakčio per­
     sekiojo sprunkančius rusus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168909
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Neilgai trukus, tai yra gruodžio 2 d., Boleslovas
+    pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­
+    dešimties tūkstančių kariuomene, įrengusia prie Ašme­
+    nos stovyklą. Į pagalbą jam
+    Ž y g im a n ta s
+    su m u ša
+    atėjo beveik visa Rusia, ne
+    Š v itrig a ilą
+    tik ta, kuri priklausė Lietuvos
+    didžiajam kunigaikščiui, tai
+    yra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,
+    Volynės žemės, bet atžygiavo kariuomenė iš Maskvos,
+    Riazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­
+    čio Boriso brolio. Pagal slaptą susitarimą Livonija at­
+    siuntė į pagalbą kelis būrius vokiečių.
   citata_rodoma: "Neilgai trukus, tai yra gruodžio 2 d., Boleslovas\npralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­\ndešimties tūkstančių kariuomene, įrengusia prie Ašme­\nnos stovyklą. Į pagalbą jam\nŽ y g im a n ta s\nsu m u ša\natėjo beveik visa Rusia, ne\nŠ v itrig a ilą\ntik ta, kuri priklausė Lietuvos\ndidžiajam kunigaikščiui, tai\nyra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,\nVolynės žemės, bet atžygiavo kariuomenė iš Maskvos,\nRiazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­\nčio Boriso brolio. Pagal slaptą susitarimą Livonija at­\nsiuntė į pagalbą kelis būrius vokiečių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

@@ -8,15 +8,15 @@ datos:
   - '1597 m.'
 date_start: '1532'
 date_end: '1597'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - autorius
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,44 +35,6 @@ media_all_json: |-
 ## Santrauka
 
 Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas „Annales, sive de origine et rebus gestis Polonorum et Lituanorum“.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas „Annales, sive de origine et rebus gestis Polonorum et Lituanorum“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    P. 269** -  Turimas omenyje Stanislovo Sarnickio (1532-1597)
-    veikalas (Stanislai Sarnicii. Annales, sive de origi-
-    ne et rebus gestis Polonorum et Lituanorum. -  Libri
-    octo. -  Cracovia, 1587).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173288
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Veikalas buvo T. Narbuto Šaurų
-    dvaro bibliotekoje ([Narbute T ] Spisanie Muzeum
-    w Szawrach. - L. 13. - Nr. 89-90).
-    Minimas Aronas Kristijonas Lėrbergas (Aron Chris­
-    tian Lehrberg), kurio žymiausias veikalas: Unter­
-    suchungen zu Erläuterung der älteren Geschichte
-    Russlands.
-  citata_rodoma: "P. 269** -  Turimas omenyje Stanislovo Sarnickio (1532-1597)\nveikalas (Stanislai Sarnicii. Annales, sive de origi-\nne et rebus gestis Polonorum et Lituanorum. -  Libri\nocto. -  Cracovia, 1587)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -98,3 +60,23 @@ Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas �
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173288
+
+## Citatos
+
+- id: c-173288
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    P. 269** -  Turimas omenyje Stanislovo Sarnickio (1532-1597)
+    veikalas (Stanislai Sarnicii. Annales, sive de origi-
+    ne et rebus gestis Polonorum et Lituanorum. -  Libri
+    octo. -  Cracovia, 1587).
+  citata_rodoma: "P. 269** -  Turimas omenyje Stanislovo Sarnickio (1532-1597)\nveikalas (Stanislai Sarnicii. Annales, sive de origi-\nne et rebus gestis Polonorum et Lituanorum. -  Libri\nocto. -  Cracovia, 1587)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

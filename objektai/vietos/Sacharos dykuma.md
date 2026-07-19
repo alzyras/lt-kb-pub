@@ -49,29 +49,6 @@ Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą prip
   pagrindžia:
     - c-171949
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą pripažino ir Afrikos Sacharos dykumos gyventojams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    J98
-
-    ## Puslapis 198
-
-    kad paslaptys nebuvo svetimos mūsų protėviams. Pagaliau jei­
-    gu kronikos ir padavimai tvirtina apie lietuvius, kad jie slepią
-    kai kurias savo apeigas , jeigu autoriai, įvairiapusiškai išma­
-    nantys visuotinę mitologiją, tą patį pripažįsta ir laukiniams Af­
-    rikos Sacharos dykumos gyventojams’, tai kodėl tą turėtume
-    užginčyti lietuvių tautai?
-    Dabar apžvelkime Lasickio paliktą paslaptingųjų dievybių
-    sąrašą, papildydami mūsišku jų supratimo išdėstymu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-171949
@@ -80,6 +57,8 @@ Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą prip
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     J98
+
+    ## Puslapis 198
 
     kad paslaptys nebuvo svetimos mūsų protėviams. Pagaliau jei­
     gu kronikos ir padavimai tvirtina apie lietuvius, kad jie slepią

@@ -116,9 +116,12 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   pagrindžia:
     - c-170350
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+## Citatos
+
+- id: c-170350
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­
     j e 3  pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko
@@ -135,44 +138,6 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
     į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
     didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
     džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-187322
-
-## Citatos
-
-- id: c-170350
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    O Kantautas prikalbės ir juos pačius, ir tą savo
-    giminaitj, kad jie neleistų niokoti savo žemės ir kad
-    nesipriešintų tau, savo valdovui; mat, jeigu tu, mūsų
-    valdove, žengsi prieš juos, vedinas savo kariuomene,
-    tai nusiaubsi visą jų žemę ir juos pačius išnaikinsi, o
-    paskui tau, mūsų valdovui, nebus iš jų jokios naudos."
-    Ir didysis kunigaikštis Kazimieras, paklausęs tų žo­
-    džių, pasiuntė j Žemaitiją poną Kantautą l6. Kantautas,
-    atvykęs j Žemaičių kariuomenę, pirmiausia jiems at­
-    skleidė, kad Mykoliukas pabėgęs, o Vilnių, Trakus ir
-    visas Lietuvos bei Rusų kunigaikštystes valdąs didysis
-    kunigaikštis Kazimieras. O paskui jis prikalbėjo savo
-    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
-    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
-    biausia. prieš teisėtą Lietuvos paveldėtoją a .
-    Tas Kantauto giminaitis suprato, kad negalima sto­
-    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
-    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
-    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
-    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
-    tarnauti
-    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
-    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
-    turtą.
   citata_rodoma: "ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­\nj e 3  pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko \niš Trakų pilies, skubėdamas į Mazoviją,4  pas savo te­\ntą, Mazovijos kunigaikštienę Jonušienę, kadangi ji bu­\nvo tikra jo tėvo sesuo5 , kunigaikštienės Boleslovienės \npamotė6 . Važiuodamas per Rūdininkų girią7 , jis toje \ngirioje susidūrė su didžiuoju kunigaikščiu Kazimieru \nir žemai nusilenkė didžiajam kunigaikščiui Kazimierui, \nir ėmė prašyti malonės; kunigaikštis Kazimieras paža­\ndėjo suteiksiąs jam savo malonę ir paliksiąs jam jo \ntėvoniją 7 .\nO paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

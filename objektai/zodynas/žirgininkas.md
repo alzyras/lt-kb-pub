@@ -11,14 +11,14 @@ datos:
   - '1503 m.'
 date_start: '1470'
 date_end: '1503'
-amziai:
-  - 'XV'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigybė
   - sąvoka
+amziai:
+  - 'XV'
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,64 +37,6 @@ media_all_json: |-
 ## Santrauka
 
 Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda. Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Antra vertus, netrukus atvyksią į Maskvą jo įgalioti
-    legatai, kurie pasitarsią su Maskvos didikais ir pada­
-    rysią viską, kas naudinga valstybei.
-    Išsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu­
-    košius Garaburda, Lietuvos raštininkas, ir Jonas Vil-
-    čekas, karališkasis Vilniaus vaivadijos žirgininkas, bet
-    nieko nepešė, nes maskvėnai atidėjo derybas, sakyda-
-    miesi lauksią didesnius įgaliojimus turinčių pasiunti­
-    nių.
-    Tuo tarpu Augustas patraukė į Livoniją su šimtu
-    tūkstančių kariuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-168779
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Karalius, nutaręs ginklu atsikeršyti už skriau­
-    das, pakvietė į karo sąjungininkus Švedijos karalių.
-    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
-    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
-    ros, Augustas laiškais stengėsi sutaikyti švedus bei
-    maskvėnus.
-    Po ilgų ir karštų ginčų tais pačiais metais leista
-    karalienei Bonai, negailėju-
-    K a ra lic n ė
-    B ona
-    iš-
-    šiai dovanų Lenkijos didi-
-    v y k s ta į Ita liją
-    kams, išvykti į Italiją su vi­
-    somis brangenybėmis ir vi­
-    sais valdovės turtais. Tiesa, vėliau tinkama forma
-    surašytame prieš pat mirtį testamente ji sūnų Augustą
-    paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar­
-    no Papakodos suktybių paskutinioji velionės valia
-    buvo neįvykdyta, o visas turtas vėjais paleistas.
-  citata_rodoma: "Antra vertus, netrukus atvyksią į Maskvą jo įgalioti\nlegatai, kurie pasitarsią su Maskvos didikais ir pada­\nrysią viską, kas naudinga valstybei.\nIšsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu­\nkošius Garaburda, Lietuvos raštininkas, ir Jonas Vil-\nčekas, karališkasis Vilniaus vaivadijos žirgininkas, bet\nnieko nepešė, nes maskvėnai atidėjo derybas, sakyda-\nmiesi lauksią didesnius įgaliojimus turinčių pasiunti­\nnių.\nTuo tarpu Augustas patraukė į Livoniją su šimtu\ntūkstančių kariuomenės."
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -118,3 +60,46 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
     - c-168779
 - susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
 - susijęs iš [[objektai/asmenys/Motiejus Kločka.md#claim-t-186070|Motiejus Kločka]]: Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    M A ndrius Droždža. Aleksandro favorito kunigaikščio Mykolo
+    Glinskio giminaitis, sūnus Aleksandro Droždžos, Kazimiero laikais
+    buvusio Lietuvos Kameneco (prie Brastosl valdytoju (1470—1479).
+    Pradėjus valdyti Aleksandrui. A ndrius Droždža gavo didžiojo kuni­
+    gaikščio taurininko vietą (1498 m.), vyko su diplomatine misija pas
+    totorius, o  apie 1500 m. tajio Vilniaus žirgininku ir gavo valdyti
+    Belicą (1503) ir Zblianus prie Lydos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-168779
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Antra vertus, netrukus atvyksią į Maskvą jo įgalioti
+    legatai, kurie pasitarsią su Maskvos didikais ir pada­
+    rysią viską, kas naudinga valstybei.
+    Išsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu­
+    košius Garaburda, Lietuvos raštininkas, ir Jonas Vil-
+    čekas, karališkasis Vilniaus vaivadijos žirgininkas, bet
+    nieko nepešė, nes maskvėnai atidėjo derybas, sakyda-
+    miesi lauksią didesnius įgaliojimus turinčių pasiunti­
+    nių.
+    Tuo tarpu Augustas patraukė į Livoniją su šimtu
+    tūkstančių kariuomenės.
+  citata_rodoma: "Antra vertus, netrukus atvyksią į Maskvą jo įgalioti\nlegatai, kurie pasitarsią su Maskvos didikais ir pada­\nrysią viską, kas naudinga valstybei.\nIšsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu­\nkošius Garaburda, Lietuvos raštininkas, ir Jonas Vil-\nčekas, karališkasis Vilniaus vaivadijos žirgininkas, bet\nnieko nepešė, nes maskvėnai atidėjo derybas, sakyda-\nmiesi lauksią didesnius įgaliojimus turinčių pasiunti­\nnių.\nTuo tarpu Augustas patraukė į Livoniją su šimtu\ntūkstančių kariuomenės."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

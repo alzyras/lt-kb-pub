@@ -7,15 +7,15 @@ datos:
   - '1811 m.'
 date_start: '1811'
 date_end: ''
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kalbininkas
   - autorius
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,10 +57,12 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
   pagrindžia:
     - c-174524
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la lanąue russe“, išleistą Sankt Peterburge 1811 metais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174524
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sanskrite yra panašus ir panašią reikšmę
     turintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje
@@ -70,28 +72,6 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
     S.
     Petersb.,
     1811.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174524
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    sudaro daugelio žodžių šaknį1, Tiriant lietuvių kalbą, pa­
-    vyko rasti tą patį žodį Russ vienoje dainelėje, kuri buvo
-    užrašyta Raseinių apskrityje 1805 metais: dainininkas
-    stengiasi piešti gyvenimo gimtojoje sodyboje laimę ir
-    naudą, peikdamas tuos, kurie ją palieka2. Tai tarsi natū­
-    ralus taip puikiai lenkiškai skambančios Trembeckio pa­
-    sakėčios „Balandėliai“ pakartojimas*. Ieškojau to, kuris
-    man paaiškintų prasmę žodžio Russ, turėjusio iš pirmo
-    žvilgsnio reikšti kaimą.
   citata_rodoma: "Sanskrite yra panašus ir panašią reikšmę\nturintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje\n1\nRapport entre la lanąue sanscrite et la lanąue russe par Frid.\nAdelung.\nS.\nPetersb.,\n1811."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

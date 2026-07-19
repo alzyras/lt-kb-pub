@@ -7,13 +7,13 @@ datos:
   - '1345 m.'
 date_start: '1345'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -221,8 +221,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+## Citatos
+
+- id: c-170437
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O paskui, sudarius susitarimą, ir pats Mask­
     vos didysis kunigaikštis išjojo pas jį, ir matėsi su juo,
@@ -245,72 +249,6 @@ Nenurodyta
     kariuomene ir su didžia šlove, su daugybe belaisvių ir
     neapsakomu grobiu, nukariavęs ir paėmęs daug miestų
     ir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį
-    žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
-    gojęs, išžygiavo namo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- t-006
-    - t-008
-
-- c-004
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir tada didysis kuni­
-    gaikštis Algirdas tarė Maskvos didžiajam kunigaikš­
-    čiui: „Nors mes su tavimi susitaikėme, bet man nede­
-    ra kitaip pasielgti — turiu atremti į tavo Maskvosmies-
-    to sieną savo ietį ir vardan savo šlovės palikti ženklą,
-    kad lietuvių, ir rusų, ir žemaičių kunigaikštis Algirdas
-    buvo atrėmęs savo ietį į Maskvos sieną."
-    Ir, užšokęs ant žirgo, paėmęs ietį rankon, prijojo
-    prie miesto ir atrėmė savo ietį į sieną, o nujodamas
-    didžiu balsu sušuko: „Maskvos didysis kunigaikšti, at­
-    mink, kad lietuvių ietis stovėjo prie Maskvos!"
-    O vėliau didysis kunigaikštis Algirdas su visa savo
-    kariuomene ir su didžia šlove, su daugybe belaisvių ir
-    neapsakomu grobiu, nukariavęs ir paėmęs daug miestų
-    ir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį
-    žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
-    gojęs, išžygiavo namo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- t-009
-    - t-007
-
-## Citatos
-
-- id: c-170437
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    O paskui, sudarius susitarimą, ir pats Mask­
-    vos didysis kunigaikštis išjojo pas jį, ir matėsi su juo,
-    ir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­
-    čiuojamą daugybę dovanų — aukso, sidabro ir bran­
-    gių perlų, sabalų bei kitų brangių ir retų žvėrių kai­
-    lių 5, ir apmokėjo išlaidas, kurias Algirdas pasidarė,
-    žygiuodamas j Maskvos žemę. Ir tada didysis kuni­
-    gaikštis Algirdas tarė Maskvos didžiajam kunigaikš­
-    čiui: „Nors mes su tavimi susitaikėme, bet man nede­
-    ra kitaip pasielgti — turiu atremti į tavo Maskvosmies-
-    to sieną savo ietį ir vardan savo šlovės palikti ženklą,
-    kad lietuvių, ir rusų, ir žemaičių kunigaikštis Algirdas
-    buvo atrėmęs savo ietį į Maskvos sieną."
-    Ir, užšokęs ant žirgo, paėmęs ietį rankon, prijojo
-    prie miesto ir atrėmė savo ietį į sieną, o nujodamas
-    didžiu balsu sušuko: „Maskvos didysis kunigaikšti, at­
-    mink, kad lietuvių ietis stovėjo prie Maskvos!"
-    O vėliau didysis kunigaikštis Algirdas su visa savo
-    kariuomene ir su didžia šlove, su daugybe belaisvių ir
-    neapsakomu grobiu, nukariavęs ir paėmęs daug miestų
-    ir nukėlęs sieną ligi Možaisko8 ir Kolomnos7, daugelį
     žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
     gojęs, išžygiavo namo.
   citata_rodoma: "O paskui, sudarius susitarimą, ir pats Mask­\nvos didysis kunigaikštis išjojo pas jį, ir matėsi su juo, \nir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­\nčiuojamą daugybę dovanų — aukso, sidabro ir bran­\ngių perlų, sabalų bei kitų brangių ir retų žvėrių kai­\nlių 5 , ir apmokėjo išlaidas, kurias Algirdas pasidarė, \nžygiuodamas j Maskvos žemę. Ir tada didysis kuni­\ngaikštis Algirdas tarė Maskvos didžiajam kunigaikš­\nčiui: „Nors mes su tavimi susitaikėme, bet man nede­\nra kitaip pasielgti — turiu atremti į tavo Maskvosmies- \nto sieną savo ietį ir vardan savo šlovės palikti ženklą, \nkad lietuvių, ir rusų, ir žemaičių kunigaikštis Algirdas \nbuvo atrėmęs savo ietį į Maskvos sieną.\"\nIr, užšokęs ant žirgo, paėmęs ietį rankon, prijojo \nprie miesto ir atrėmė savo ietį į sieną, o nujodamas \ndidžiu balsu sušuko: „Maskvos didysis kunigaikšti, at­\nmink, kad lietuvių ietis stovėjo prie Maskvos!\"\nO vėliau didysis kunigaikštis Algirdas su visa savo \nkariuomene ir su didžia šlove, su daugybe belaisvių ir \nneapsakomu grobiu, nukariavęs ir paėmęs daug miestų \nir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį \nžmonių paėmęs nelaisvėn, o visus savo žmones išsau­\ngojęs, išžygiavo namo."
@@ -343,7 +281,7 @@ Nenurodyta
     O vėliau didysis kunigaikštis Algirdas su visa savo
     kariuomene ir su didžia šlove, su daugybe belaisvių ir
     neapsakomu grobiu, nukariavęs ir paėmęs daug miestų
-    ir nukėlęs sieną ligi Možaisko8 ir Kolomnos7, daugelį
+    ir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį
     žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
     gojęs, išžygiavo namo.
   citata_rodoma: "Ir tada didysis kuni­\ngaikštis Algirdas tarė Maskvos didžiajam kunigaikš­\nčiui: „Nors mes su tavimi susitaikėme, bet man nede­\nra kitaip pasielgti — turiu atremti į tavo Maskvosmies- \nto sieną savo ietį ir vardan savo šlovės palikti ženklą, \nkad lietuvių, ir rusų, ir žemaičių kunigaikštis Algirdas \nbuvo atrėmęs savo ietį į Maskvos sieną.\"\nIr, užšokęs ant žirgo, paėmęs ietį rankon, prijojo \nprie miesto ir atrėmė savo ietį į sieną, o nujodamas \ndidžiu balsu sušuko: „Maskvos didysis kunigaikšti, at­\nmink, kad lietuvių ietis stovėjo prie Maskvos!\"\nO vėliau didysis kunigaikštis Algirdas su visa savo \nkariuomene ir su didžia šlove, su daugybe belaisvių ir \nneapsakomu grobiu, nukariavęs ir paėmęs daug miestų \nir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį \nžmonių paėmęs nelaisvėn, o visus savo žmones išsau­\ngojęs, išžygiavo namo."

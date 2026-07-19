@@ -8,13 +8,13 @@ datos:
   - '1572 m.'
 date_start: '1569'
 date_end: '1572'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
-amziai:
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -166,6 +166,42 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     - c-05601
 - susijęs iš [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija.md#claim-t-32811|valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]: Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais.
 - susijęs iš [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija.md#claim-t-32813|valstybingumo idėja valstybingumu grįsta periodizacija]]: Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais.
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Ivinskis Lietuvos valstybingumo idealą siejo su lietuvių tautos tautiniu susipratimu ir ilgomis pastangomis jį įgyvendinti.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei­
+    ties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid­
+    menį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų
+
+    (^2) PRATARMĖ
+    padėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty­
+    bingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą
+    idealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų
+    buvo suklota ir vis tebekovojama laisvame pasaulyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos
+    ribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme­
+    čius, visą savo dėstymą norime sutelkti apie _valstybingumo idėją_
+    lietuvių tautoje. Kaip ji _atsirado,_ vystėsi, išbujojo ir paskui silpo
+    ir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo
+    vedamoji mintis per visus šimtmečius. Ji paryškinta politinio,
+    religinio, kultūrinio bei ūkinio gyvenimo faktais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+
 ## Citatos
 
 - id: c-05598
@@ -173,13 +209,10 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei­
-    ties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid­
+    Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei-
+    ties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid-
     menį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų
-
-
-    (^2) PRATARMĖ
-    padėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty­
+    padėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty-
     bingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą
     idealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų
     buvo suklota ir vis tebekovojama laisvame pasaulyje.
@@ -198,7 +231,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos
-    ribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme­
+    ribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme-
     čius, visą savo dėstymą norime sutelkti apie _valstybingumo idėją_
     lietuvių tautoje. Kaip ji _atsirado,_ vystėsi, išbujojo ir paskui silpo
     ir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo

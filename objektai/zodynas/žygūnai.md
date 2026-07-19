@@ -87,6 +87,51 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 - susijęs iš Volga: Volgą Narbutas mini pasakodamas padavimą, kad persų karalius Saporas žiemojo prie jos vidurupio, o Julijono žygūnai keliavo per alanų kraštą.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185331|žygūnas]]: Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185333|žygūnas]]: Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Į Pinską buvo išsiųsti žygūnai pakviesti vienuolį Vaišvilką perimti tėvo paliktos valdžios.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai
+    žygūnai
+    nesilio­
+    vė maldavę bei kalbėję, jog
+    jis turįs pasigailėti per nesandorą žūstančios tėvynės,
+    Vaišvilkas palūžo ir nusileido pasiuntiniams. Kai iš
+    Pinsko atvyko į Naugarduką, buvo aprūpintas svita,
+    sudaryta iš ajrlinkinių bajorų, po to skubiai leidosi į
+    Kernavę, kol dar nebuvo išsiskirstę didikai; jį priėmė
+    su didele pagarba bei džiaugsmu ir su įprastinėmis
+    apeigomis paskelbė Lietuvos didžiuoju kunigaikščiu.
+    Vis dėlto niekada negalima buvo jo priversti užmiršti
+    viso ankstyvesnio gyvenimo: paprastai ant purpurinio
+    apsiausto jis vilkėdavo juodą drapaną, kaip vienuolio
+    įžadų ženklą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Jedlnios seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai negalėtų prasmukti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    imperatoriumi, ir pareikalavo priesaika patvirtinti kai
+    kuriuos naujos sutarties straipsnius. Į tai Vytautas
+    tarė: ,,Su dėkingumu priimu
+    V y ta u to a tsa k y m a s
+    savo didelio draugo dovaną,
+    rodančią valdovo palankumą,
+    nors pats manau, kad nereikia naujų draugystės įro­
+    dymų. Senosios draugystės pastovumui laiduoti visiškai
+    užtenka ankstesnio susitarimo, nepaisant to, kad jis
+    nepatvirtintas jokia priesaika.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-59565
@@ -117,21 +162,23 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai
-    žygūnai
-    nesilio­
-    vė maldavę bei kalbėję, jog
-    jis turįs pasigailėti per nesandorą žūstančios tėvynės,
-    Vaišvilkas palūžo ir nusileido pasiuntiniams. Kai iš
-    Pinsko atvyko į Naugarduką, buvo aprūpintas svita,
-    sudaryta iš ajrlinkinių bajorų, po to skubiai leidosi į
-    Kernavę, kol dar nebuvo išsiskirstę didikai; jį priėmė
-    su didele pagarba bei džiaugsmu ir su įprastinėmis
-    apeigomis paskelbė Lietuvos didžiuoju kunigaikščiu.
-    Vis dėlto niekada negalima buvo jo priversti užmiršti
-    viso ankstyvesnio gyvenimo: paprastai ant purpurinio
-    apsiausto jis vilkėdavo juodą drapaną, kaip vienuolio
-    įžadų ženklą.
+    Taigi visuotiniame
+    susirinkime kunigaikščiu buvo išrinktas Vaišvilkas.
+    U  5
+
+    ## Puslapis 114
+
+    Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­
+    kui nuodugniai papasakoti apie diduomenės bei tau­
+    tos prielankumą ir pakviesti jį perimti tėvo paliktos
+    valdžios. Iš pradžių Vaišvil­
+    kas
+    nė
+    klausyti nenorėjo
+    apie tai, ko jį maldavo žy­
+    gūnai, nes šitai prieštaravo
+    jo pasirinktam gyvenimo bū­
+    dui.
   citata_rodoma: "Taigi visuotiniame\nsusirinkime kunigaikščiu buvo išrinktas Vaišvilkas.\nU  5\n\n## Puslapis 114\n\nIšleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­\nkui nuodugniai papasakoti apie diduomenės bei tau­\ntos prielankumą ir pakviesti jį perimti tėvo paliktos\nvaldžios. Iš pradžių Vaišvil­\nkas\nnė\nklausyti nenorėjo\napie tai, ko jį maldavo žy­\ngūnai, nes šitai prieštaravo\njo pasirinktam gyvenimo bū­\ndui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -146,16 +193,17 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    imperatoriumi, ir pareikalavo priesaika patvirtinti kai
-    kuriuos naujos sutarties straipsnius. Į tai Vytautas
-    tarė: ,,Su dėkingumu priimu
-    V y ta u to a tsa k y m a s
-    savo didelio draugo dovaną,
-    rodančią valdovo palankumą,
-    nors pats manau, kad nereikia naujų draugystės įro­
-    dymų. Senosios draugystės pastovumui laiduoti visiškai
-    užtenka ankstesnio susitarimo, nepaisant to, kad jis
-    nepatvirtintas jokia priesaika.
+    Tačiau ligai išgy­
+    dyti jau nebeužteko gydytojo, reikėjo veiksmingesnių
+    priemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­
+    tarė, jog reikia pastatyti ginkluotas saugas visuose ke­
+    liuose Lenkijos pasienyje ir
+    uoliai žiūrėti, kad ir impera­
+    toriaus, ir Vytauto žygūnai
+    negalėtų prasmukti nei į vie­
+    ną, nei į kitą pusę. Viskam
+    vadovauti paskyrė Joną Čar-
+    nkovskį.
   citata_rodoma: "Tačiau ligai išgy­\ndyti jau nebeužteko gydytojo, reikėjo veiksmingesnių\npriemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­\ntarė, jog reikia pastatyti ginkluotas saugas visuose ke­\nliuose Lenkijos pasienyje ir\nuoliai žiūrėti, kad ir impera­\ntoriaus, ir Vytauto žygūnai\nnegalėtų prasmukti nei į vie­\nną, nei į kitą pusę. Viskam\nvadovauti paskyrė Joną Čar-\nnkovskį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

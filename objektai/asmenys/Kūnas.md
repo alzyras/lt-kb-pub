@@ -261,6 +261,69 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/zodynas/klebono titulas.md#claim-t-86594|klebono titulas]]: Šv. Dvasios vienuolyno vyresnysis ir broliai prisiėmė panaikintą prieglaudos klebono titulą.
 - susijęs iš [[objektai/zodynas/vaivada kaštelionas.md#claim-t-86623|vaivada kaštelionas]]: Po Horodlės unijos akto Lietuvoje pagal Lenkijos pavyzdį buvo įvestos vaivados ir kašteliono tarnybos, apibrėžus jų pareigas.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    L ie tu v o s,
+    k ita s
+    Z e-
+    Karą pradėti paskatino tai,
+    m a itijo s
+    kad tautoje padidėjo šeimy­
+    nų, o laukų nausėdijoms trū­
+    ko. Vis dėlto Kernius iš pradžių abejojo, ar keltis per
+    Nerį su žmonėmis dėl naujų žemių, mat priešas, už­
+    pultas ir įsiutintas, galėtų smogti atsakomąjį smūgį ir
+    kelias į Lietuvą būtų užkirstas. Todėl, norėdamas su­
+    rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
+    kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Lietuvos metraštis pasakoja, kad Kūnas prie Nevėžio žiočių įkūrė miestą ir pagal savo vardą pavadino jį Kaunu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Vyriausias sūnus Barkus įkūrė mies­
+    tą prie Jūros upės, ir to kunigaikščio vardas susijungė
+    su upės vardu, kuri vadinosi Jūra, o kunigaikščio var­
+    das -— Barkus, tai tas miestas imta vadinti Jurbarku 4.
+    Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės
+    žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino
+    jį pagal savo vardą Kauno miestu5.
+    O trečias sūnus Spera keliavo tolyn per girias į ry­
+    tus, kur saulė teka, ir persikėlė per Nevėžio upę, ir
+
+    per trečią upę — Širvintą, aptiko ežerą, dabinamą pie­
+    vų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie
+    to ežero ir tą ežerą pavadino savo vardu — Spera6.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Lietuvos metraštis pasakoja, kad po bevaikio brolio Barkaus mirties Kūnas perėmė jo dalį ir Jurbarko miestą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Neilgai trukus, mirė jo brolis Barkus, kuris gyveno
+    Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė
+    ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir
+    ėmė viešpatauti toje jo dalyje.
+    O tasai kunigaikštis Kūnas turėjo du sūnus: vieną
+    Kernių, o kitą Gimbutą8. Beviešpataudamas Žemaičių
+    žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
+    upę į Užnerio kraštą 9.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169495
@@ -288,19 +351,13 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    L ie tu v o s,
-    k ita s
-    Z e-
-    Karą pradėti paskatino tai,
-    m a itijo s
-    kad tautoje padidėjo šeimy­
-    nų, o laukų nausėdijoms trū­
-    ko. Vis dėlto Kernius iš pradžių abejojo, ar keltis per
-    Nerį su žmonėmis dėl naujų žemių, mat priešas, už­
-    pultas ir įsiutintas, galėtų smogti atsakomąjį smūgį ir
-    kelias į Lietuvą būtų užkirstas. Todėl, norėdamas su­
-    rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
-    kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
+    Kokius jis nuveikė paminėtinus darbus,
+    vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
+    palikti po mirties sūnums paveldimo neapykantos šal­
+    tinio, todėl pasistengė laiku padalyti valdžią. Kernu-
+    sijui, arba Kerniui, atidavė valdyti Lietuvos žemes
+    tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­
+    tui paskyrė Žemaitiją.
   citata_rodoma: "Kokius jis nuveikė paminėtinus darbus,\nvėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­\npalikti po mirties sūnums paveldimo neapykantos šal­\ntinio, todėl pasistengė laiku padalyti valdžią. Kernu-\nsijui, arba Kerniui, atidavė valdyti Lietuvos žemes\ntarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­\ntui paskyrė Žemaitiją."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -318,16 +375,18 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     Vyriausias sūnus Barkus įkūrė mies­
     tą prie Jūros upės, ir to kunigaikščio vardas susijungė
     su upės vardu, kuri vadinosi Jūra, o kunigaikščio var­
-    das -— Barkus, tai tas miestas imta vadinti Jurbarku 4.
+    das - —  Barkus, tai tas miestas imta vadinti Jurbarku 4 .
     Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės
     žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino
-    jį pagal savo vardą Kauno miestu5.
+    jį pagal savo vardą Kauno miestu5 .
     O trečias sūnus Spera keliavo tolyn per girias į ry­
     tus, kur saulė teka, ir persikėlė per Nevėžio upę, ir
 
+    ## Puslapis 41
+
     per trečią upę — Širvintą, aptiko ežerą, dabinamą pie­
     vų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie
-    to ežero ir tą ežerą pavadino savo vardu — Spera6.
+    to ežero ir tą ežerą pavadino savo vardu — Spera6 .
   citata_rodoma: "Vyriausias sūnus Barkus įkūrė mies­\ntą prie Jūros upės, ir to kunigaikščio vardas susijungė \nsu upės vardu, kuri vadinosi Jūra, o kunigaikščio var­\ndas - —  Barkus, tai tas miestas imta vadinti Jurbarku 4 .\nVidurinis sūnus Kūnas atsikėlė prie Nevėžio upės \nžiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino \njį pagal savo vardą Kauno miestu5 .\nO trečias sūnus Spera keliavo tolyn per girias į ry­\ntus, kur saulė teka, ir persikėlė per Nevėžio upę, ir\n\n## Puslapis 41\n\nper trečią upę — Širvintą, aptiko ežerą, dabinamą pie­\nvų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie \nto ežero ir tą ežerą pavadino savo vardu — Spera6 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -347,9 +406,9 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir
     ėmė viešpatauti toje jo dalyje.
     O tasai kunigaikštis Kūnas turėjo du sūnus: vieną
-    Kernių, o kitą Gimbutą8. Beviešpataudamas Žemaičių
+    Kernių, o kitą Gimbutą8 . Beviešpataudamas Žemaičių
     žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
-    upę į Užnerio kraštą 9.
+    upę į Užnerio kraštą 9 .
   citata_rodoma: "Neilgai trukus, mirė jo brolis Barkus, kuris gyveno \nJurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė \nir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir \nėmė viešpatauti toje jo dalyje.\nO tasai kunigaikštis Kūnas turėjo du sūnus: vieną \nKernių, o kitą Gimbutą8 . Beviešpataudamas Žemaičių \nžemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries \nupę į Užnerio kraštą 9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

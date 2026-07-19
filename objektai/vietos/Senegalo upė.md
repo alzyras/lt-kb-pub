@@ -7,13 +7,13 @@ datos:
   - '1760 m.'
 date_start: '1760'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - upė
   - vieta
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,10 +55,12 @@ Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Sene
   pagrindžia:
     - c-171953
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Senegalo upės, o vėliau terminas įgavo platesnę reikšmę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-171953
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Todėl ne kiekvienas istorikas ir 5
     5
@@ -67,30 +69,6 @@ Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Sene
     ches. -1760). Portugalai taip vadino pirmiausia negrų prie Senegalo
     upės bei kitų laukinių tautų dievukus; paskui tas terminas įgavo pla­
     tesnę reikšmę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171953
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Straipsnyje „Žemininkas“ matėme, jog šio dievo garbini­
-    mas - tai šliužų laikymas tiek šventyklose, tiek privačiuose na­
-    muose tam tikruose induose, pridengtuose javo pėdu. Iš to
-    išvada: šliužai buvo fetišai, pavaldūs Žemės dievui. Bendras
-    jų pavadinimas buvo Gyvatė (Giwojte); skyrium tai reiškė ypa­
-    tingą šliužą, angį, gyvatę, daug nuodingesnę šliužų rūšį.
-    Žaltys (Žaltis)
-    Žaltys, laikytas namų dievu ir drauge gydytoju, arba Auš-
-    laviu - dievaičiu, kurį garbino to gyvo šliužo pavidalu.
-    Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
-    paprastai seni, ir apie juos pasakojo ypač keistų dalykų.
   citata_rodoma: "Todėl ne kiekvienas istorikas ir 5\n5\nFetiche, iš portugalų Fetisso -  stabmeldiška statulėlė; feticzei-\nra -  ragana (fée, feérie, f  ata). (De Brosses. Du culte de Dieux Féti­\nches. -1760). Portugalai taip vadino pirmiausia negrų prie Senegalo\nupės bei kitų laukinių tautų dievukus; paskui tas terminas įgavo pla­\ntesnę reikšmę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

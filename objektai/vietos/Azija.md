@@ -113,10 +113,12 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
 - susijęs iš Kaukazas: Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono.
 - susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
 - susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia senovę saugančia ir permainas atmetančia dvasia.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-171833
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jokia laiko pažanga, jokia civilizuoto pasaulio per­
     maina nesutrikdo jų stabilios padėties: amžiais jos stovi ant
@@ -125,49 +127,6 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
     atradimus, jie su panieka tyčiojasi. Jie įnirtę persekioja net
     norą kaip nors pakeisti senovę. Tokia pat dvasia gyveno dau­
     gybė senųjų Azijos tautų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas Aziją laikė žmonių giminės lopšiu, o Europą, palyginti su Azija ir Afrika, vadino vėliau apgyvendintu ir civilizuotu naujuoju pasauliu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad šį skyrių pirmiausia,
-    kol imsimės tolesnių ieškojimų, skirkime seniausių epo­
-    chų problemoms.
-    11
-    Europa palyginti su Azija ir Afrika yra naujasis pa­
-    saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau
-    civilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra
-    aukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas
-    žmonių giminės lopšiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171833
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Tuo tarpu Apvaizda ruošė kitą tautą, turėjusią tapti Euro­
-    pos apšvietos sargu. Senovės Lacijaus gilumoje, tarp plikų kal­
-    nų, nesveikiausiame užkampyje, užsimezgė romėnų karalys­
-    tė - romėnų, kurie parodė pasauliui didų būdą, didžias dory­
-    bes, nepalyginamą tėvynės meilę, vyriškumą, ištvermę, gilia­
-    mintę politiką, neišmatuojamą troškimą būti galingi. Visa tai,
-    sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
-    tą valdyti pasaulį, - tautą, kuriai buvo lemta tapti pavyzdžiu
-    tolimiausiems ainiams ir kuri tarytum šešėlis dingo nuo pa­
-    saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
-    jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
-    žyniai.
   citata_rodoma: "Jokia laiko pažanga, jokia civilizuoto pasaulio per­\nmaina nesutrikdo jų stabilios padėties: amžiais jos stovi ant\ntos pačios pakopos; niekas jų neskatina ieškoti gerovės žen­\ngiant aukščiau; iš kitų tautų, pasisavinusių svetimus daiktus ir\natradimus, jie su panieka tyčiojasi. Jie įnirtę persekioja net\nnorą kaip nors pakeisti senovę. Tokia pat dvasia gyveno dau­\ngybė senųjų Azijos tautų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -182,18 +141,15 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Mums žinomos nuomonės tų senovės ty­
-    rinėtojų, kurie kildina dievų ir žmonių giminę iš Siaurės,
-    remdamiesi graikų padavimais, kuriuos neva patvirtina
-    ir Šventasis Raštas. Tie pirmykščiai žmonės esą buvę hi­
-    perborėjai. Apolonas ir Diana į Graikiją, Ozyris į Egiptą
-    atvyko neva iš Siaurės. Saturnas, Borėjas, palaimintoji
-    Atlantidos sala egzistavo Siaurės Europoje arba dingu­
-    siose salose, kurios buvo Lediniuotojoje jūroje. Ten buvo
-    Homero „Odisėjoje“ apdainuotas Elisiejus (4 giesmė),
-    ten, kur ambrozija sruveno, auksinis, palaimintasis die­
-    vų kraštas, hesperidžių sodas, makrobijų1 gyvenamoji
-    1 Šis pavadinimas turėtų reikšti kinų protėvius.
+    Tad šį skyrių pirmiausia,
+    kol imsimės tolesnių ieškojimų, skirkime seniausių epo­
+    chų problemoms.
+    11
+    Europa palyginti su Azija ir Afrika yra naujasis pa­
+    saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau
+    civilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra
+    aukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas
+    žmonių giminės lopšiu.
   citata_rodoma: "Tad šį skyrių pirmiausia,\nkol imsimės tolesnių ieškojimų, skirkime seniausių epo­\nchų problemoms.\n11\nEuropa palyginti su Azija ir Afrika yra naujasis pa­\nsaulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau\ncivilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra\naukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas\nžmonių giminės lopšiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

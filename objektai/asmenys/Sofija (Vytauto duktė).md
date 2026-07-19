@@ -8,15 +8,15 @@ datos:
   - '1387 m.'
 date_start: '1387'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -141,37 +141,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   pagrindžia:
     - c-168191
 - susijęs iš Pskovas: Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.
-## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Sofija, Vytauto duktė, tekėjo už Maskvos kunigaikščio Vasilijaus, o Vytautas Marienburge surengė jai dideles palydėtuves.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Priėmus nutarimą, ieškota žmogaus, kuriam be
-    pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
-    turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
-    pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
-    dovauti galop parinko Henriką, mozūrų kunigaikščio
-    Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
-    Jo atvykimas (tiesą sakant,
-    P a šn e n k a m a s m o zū rų
-    daug kas manė, jog dėl gi-
-    k u n ig a ik štis
-    H enri-
-    minystės jis gali likti nepas-
-    k a s
-    tebėtas) anaiptol negalėjo ne­
-    sukelti kryžiuočiams įtarimo,
-    tačiau tuo pat metu Vytautas Marienburge surengė sa­
-    vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
-    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
-    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
-    Vytauto žmonos Onos brolis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-15324
@@ -288,18 +257,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Todėl ir buvo nutar­
-    ta užbaigti sunkų bei ilgą karą, kuriam nei karalius,
-    užsiėmęs Lenkijos reikalais, asmeniškai negalėjo atsidė­
-    ti ir kurio nedrįso patikėti Skirgailai, karo sėkme nepa­
-    sižyminčiam kunigaikščiui, ir tokiu būdu išvaduoti Lie­
-    tuvą nuo baisiausių nelaimių; tai reikėjo padaryti dar
-    ir dėl to, kad, viena, lietuviai, be galo kovų nualinti,
-    nedengė karo išlaidų, o antra, lenkai irgi nenoromis
-    skyrė tam pinigų, nelyginant šitai būtų visai svetimas
-    3 2 6
-
-    reikalas. Priėmus nutarimą, ieškota žmogaus, kuriam be
+    Priėmus nutarimą, ieškota žmogaus, kuriam be
     pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
     turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
     pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
@@ -316,7 +274,9 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     sukelti kryžiuočiams įtarimo,
     tačiau tuo pat metu Vytautas Marienburge surengė sa­
     vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
-    Vasilijaus, dideles palydėtuves.
+    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
+    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
+    Vytauto žmonos Onos brolis.
   citata_rodoma: "Priėmus nutarimą, ieškota žmogaus, kuriam be\npavojaus galima būtų patikėti šią slaptą užduotį, mat jis\nturėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti\npasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­\ndovauti galop parinko Henriką, mozūrų kunigaikščio\nZemovito sūnų, neseniai vainikuotą Plocko vyskupu.\nJo atvykimas (tiesą sakant,\nP a šn e n k a m a s m o zū rų\ndaug kas manė, jog dėl gi-\nk u n ig a ik štis\nH enri-\nminystės jis gali likti nepas-\nk a s\ntebėtas) anaiptol negalėjo ne­\nsukelti kryžiuočiams įtarimo,\ntačiau tuo pat metu Vytautas Marienburge surengė sa­\nvo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio\nVasilijaus, dideles palydėtuves. Visi manė, jog su kitais\nkunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,\nVytauto žmonos Onos brolis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

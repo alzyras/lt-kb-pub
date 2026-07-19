@@ -45,7 +45,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 <a id="claim-t-114103"></a>
 - t-001
   teiginys: "Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Trakai: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,7 +67,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 <a id="claim-t-114105"></a>
 - t-002
   teiginys: "Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, ėjo į Trakus."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Trakai: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -170,7 +170,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 <a id="claim-t-184919"></a>
 - t-019
   teiginys: "Kojelavičius Žygimanto Kęstutaičio elgesį po pergalės vertina kaip tarp žmonių nekenčiamą žiaurumą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -185,19 +185,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168280
-    - c-168276
-    - c-168277
-
-<a id="claim-t-184920"></a>
-- t-020
-  teiginys: "Jonas su keliais vyrais įsiveržė į Žygimanto Kęstutaičio miegamąjį, partrenkė valdovą ir prisidėjo prie jo nužudymo."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
     - c-168276
 
 <a id="claim-t-194024"></a>
@@ -321,7 +308,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 <a id="claim-t-198514"></a>
 - t-006
   teiginys: "Lenkai paragino Žygimantą Kęstutaitį griebtis ginklo prieš Boleslovą ir pažadėjo jam pagalbą bei Lietuvos Didžiąją Kunigaikštystę už pergalę."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -329,7 +316,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-168276
+    - c-168279
 
 <a id="claim-t-198515"></a>
 - t-007
@@ -551,53 +538,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   puslapiai: "PDF 438-439"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 438-439."
   citata_originali: |
-    Kadangi lenkams labiausiai
-    rūpėjo neprarasti Podolės ir Volynės, kurių, kaip jie
-    matė, Boleslovas nieku būdu neketino užleisti, jie lyg
-    susitarę vienas per kitą ėmė įkalbinėti karalių iškelti
-    kaip Boleslovo varžovą Žygimantą, Vytauto brolį, Sta-
-    rodubo valdovą, ir suteikti jam Lietuvos didžiojo kuni-
-    4 40
-
-    gaikščio titulą. Jų raginamas Jogaila neilgai priešinosi,
-    nes ir jam Boleslovas buvo neapsakomai įkyrėjęs. Štai
-    todėl išsiuntė karaliaus bei valstybės vardu žygūnus
-    ir paragino Žygimantą griebtis ginklo prieš Boleslovą.
-    Lenkai pažadėjo jam teikti pagalbą, o vėliau atiduoti
-    nelyginant atlyginimą už pergalę Lietuvos Didžiąją
-    Kunigaikštystę. Žygimantas ir anksčiau jautė priešiš­
-    kumą Boleslovui, nes šis vei-
-    Išk e lia
-    Ž y g im a n tą
-    kiau per smurtą, o ne kara-
-    K e stu ta itį k a ip Š v it-
-    liaus bei luomų valia paėmė
-    rig a ilo s v a r ž o v ą
-    kunigaikštystėje valdžią, ku­
-    rią Vytautas tam tikra pras­
-    me paliko Kęstučio palikuonims, todėl godžiai stvėrėsi
-    pasitaikiusios progos išaukštinti savo giminę, kurios
-    ramsčiu ateityje būtų buvęs jo sūnus, šaunus jaunikaitis
-    ir tėvo žemių paveldėtojas.
-  citata_rodoma: "Mat Boleslovas dėl tiesiog neįtikimo žiauru­\nmo atstūmė beveik visus nuo savęs ir galop užsitraukė\nypatingą neapykantą tų, kurie, kilę iš seniausių lietu­\nvių šeimų, negalėjo pakęsti, kad jis, pataikaudamas sa­\nvo žmonai rusei, Tverės kunigaikščio dukteriai, skyrė\nžymiausias pareigybes beveik vien maskvėnams bei\nrusams. Kai Žygimantas, išvykęs iš Seversko, pasiekė\nLietuvą, neraginami suplaukė pas jį didikai bei bajo­\nrai, iš kurių netrukus susidarė tikra kariuomenė. Žy­\ngimantas nutarė, skubiai ir slaptai ištraukus į žygį,\nužklupti Boleslovą Ašmenoje, kur šis nerūpestingai lei­\ndo laiką, čia jį suimti ir pasiųsti karaliui."
-  statusas: verified
-  atnaujinta: "2026-07-13 01:28"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
-    - t-019
-    - t-020
-    - t-024
-    - t-006
-
-- id: c-168277
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 439"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 439."
-  citata_originali: |
     Mat Boleslovas dėl tiesiog neįtikimo žiauru­
     mo atstūmė beveik visus nuo savęs ir galop užsitraukė
     ypatingą neapykantą tų, kurie, kilę iš seniausių lietu­
@@ -609,14 +549,37 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     rai, iš kurių netrukus susidarė tikra kariuomenė. Žy­
     gimantas nutarė, skubiai ir slaptai ištraukus į žygį,
     užklupti Boleslovą Ašmenoje, kur šis nerūpestingai lei­
-    do laiką, čia jį suimti ir pasiųsti karaliui. Tačiau Tra­
-    kų vaivada Jonas Manvydas, gavęs iš vieno žmogaus
-    žinią apie Žygimanto ketini-
-    B o le slo v a s
-    B vitrig a i-
-    mus, įspėjo Boleslovą apie
-    la p a b ė g a iš L ietu-
-    gresiantį pavojų.
+    do laiką, čia jį suimti ir pasiųsti karaliui.
+  citata_rodoma: "Mat Boleslovas dėl tiesiog neįtikimo žiauru­\nmo atstūmė beveik visus nuo savęs ir galop užsitraukė\nypatingą neapykantą tų, kurie, kilę iš seniausių lietu­\nvių šeimų, negalėjo pakęsti, kad jis, pataikaudamas sa­\nvo žmonai rusei, Tverės kunigaikščio dukteriai, skyrė\nžymiausias pareigybes beveik vien maskvėnams bei\nrusams. Kai Žygimantas, išvykęs iš Seversko, pasiekė\nLietuvą, neraginami suplaukė pas jį didikai bei bajo­\nrai, iš kurių netrukus susidarė tikra kariuomenė. Žy­\ngimantas nutarė, skubiai ir slaptai ištraukus į žygį,\nužklupti Boleslovą Ašmenoje, kur šis nerūpestingai lei­\ndo laiką, čia jį suimti ir pasiųsti karaliui."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+    - t-019
+    - t-024
+
+- id: c-168277
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 439"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 439."
+  citata_originali: |
+    Čia šiaip ne taip
+    U žim a  R u sią
+    atgavęs kvapą, patraukė, ru­
+    sų padedamas, į savo pusę
+    Polocko bei Kijevo žemes ir pasiskelbė Rusios kuni­
+    gaikščiu. Žygimantas, beveik be kovos laimėjęs karą,
+    paėmė be kraujo praliejimo į savo rankas Vilnių, Tra­
+    kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun­
+    tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir
+    pranešė, kad Boleslovas išvytas iš Lietuvos. Truputį
+    vėliau į kelią leidosi kiti pasiuntiniai, kurie turėjo pa­
+    pasakoti senatui, kas ir kaip čia dėjosi, ir pareikalauti
+    paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.
   citata_rodoma: "Čia šiaip ne taip\nU žim a  R u sią\natgavęs kvapą, patraukė, ru­\nsų padedamas, į savo pusę\nPolocko bei Kijevo žemes ir pasiskelbė Rusios kuni­\ngaikščiu. Žygimantas, beveik be kovos laimėjęs karą,\npaėmė be kraujo praliejimo į savo rankas Vilnių, Tra­\nkus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun­\ntęs Joną Nemiravičių, pareiškė karaliui pagarbą ir\npranešė, kad Boleslovas išvytas iš Lietuvos. Truputį\nvėliau į kelią leidosi kiti pasiuntiniai, kurie turėjo pa­\npasakoti senatui, kas ir kaip čia dėjosi, ir pareikalauti\npaskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -625,7 +588,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-016
-    - t-019
 
 - id: c-168279
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -633,21 +595,19 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   puslapiai: "PDF 441"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 441."
   citata_originali: |
-    Argi
-    sys rodė, jog jis sąžiningai laikysis duoto žodžio. Tuo
-    visi buvo įsitikinę. Priesaika patvirtinto susitarimo pag­
-    rindiniai teiginiai buvo šie: turi būti amžinai laikomasi
-    senojo Lietuvos susitarimo su Lenkija, tai yra unijos;
-    Žygimantas niekad nesistengs be karaliaus ir karalystės
-    luomų žinios bei pritarimo gauti karaliaus titulo ir iš­
-    rūpinti sau karališkąsias insignijas; savo įpėdiniu jis
-    numatysiąs ir paskirsiąs ne ką kitą kaip karalių; jo sūnus
-    Mykolas, Trakų bei Starodubo kunigaikštis, privaląs
-    pasitenkinti šiomis žemėmis ir visada pripažinti kara­
-    liaus teises; Žygimantui mirus, Volynė turinti būti pri­
-    jungta prie Lenkijos karalystės; jeigu Mykolas mirtų
-    nesulaukęs sūnaus, visos teisės į Trakų bei Starodubo
-    kunigaikštystę atiteksią karaliui.
+    Stanislovo katedroje
+    Vilniuje paskelbė susirinku­
+    siems žmonėms popiežiaus raštą, kuriuo Žygimantas bei
+    visi Lietuvos Didžiosios Kunigaikštystės gyventojai
+    buvo atleidžiami nuo priesaikos, prieš metus duotos
+    Boleslovui. Tada Žygimantas pagal senus papročius
+    buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
+    keltas į sostą, į dešinę jam įteikiant apnuogintą ka­
+    laviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių
+    didžiai susikrimto Liudvikas, Toninės komtūras, kuris
+    su trimis savo draugais, kryžiuočių ordino riteriais, gy­
+    veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
+    tikrųjų uoliai eidamas žvalgo pareigas.
   citata_rodoma: "Stanislovo katedroje\nVilniuje paskelbė susirinku­\nsiems žmonėms popiežiaus raštą, kuriuo Žygimantas bei\nvisi Lietuvos Didžiosios Kunigaikštystės gyventojai\nbuvo atleidžiami nuo priesaikos, prieš metus duotos\nBoleslovui. Tada Žygimantas pagal senus papročius\nbuvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­\nkeltas į sostą, į dešinę jam įteikiant apnuogintą ka­\nlaviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių\ndidžiai susikrimto Liudvikas, Toninės komtūras, kuris\nsu trimis savo draugais, kryžiuočių ordino riteriais, gy­\nveno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš\ntikrųjų uoliai eidamas žvalgo pareigas."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -656,6 +616,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-018
+    - t-006
 
 - id: c-168280
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -718,22 +679,16 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   puslapiai: "PDF 122"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 122."
   citata_originali: |
-    Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį
-    Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­
-    tystės šeimininku Jogailos sūnų karalaitį Kazimierą l0,
-    Lietuvos žemės tėvonį. Ir siunčia pas karalaitį į Lenkų
-    žemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­
-    siuntiniais ponus Mykolą ir Joną Kęsgailas11.
-    O Žygimantas buvo suėmęs rusų kunigaikščius: ku­
-    nigaikštis Olelka buvo įkalintas Kernavėje, o jo kuni­
-    gaikštienė su dvejetu sūnų kunigaikščių — Semionu ir
-    Mykolu — Utenoje, o kunigaikštis Jurgis Lengvenai-
-    tis — Trakuose. Po Žygimanto mirties ponai juos ne­
-    trukus paleido, ir kunigaikštis Lengvenaitis išvyko į
-    Mstislavlį, o kunigaikštis Olelka su kunigaikštiene ir
-    su sūnumis į Kopylių, o visi Lietuvos didikai ir kuni­
-    gaikštis Jurgis Alšėniškis — į Brastą, paskui savo pa­
-    siuntinius.
+    Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6  ieškoti
+    kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras
+    Cartorijskis su Skabeika Verbų sekmadienį1 7  įvažiavo
+    į Trakų pilį. Tuo metu kunigaikščio Žygimanto sūnus
+    buvo išėjęs iš pilies į bažnyčią, o pats kunigaikštis Žy­
+    gimantas klausė mišių pilies miegamajame. Ir, kuni­
+    gaikščiui Cartorijskiui su Skabeika ir su visais tais
+    vežimais įvažiavus į pilį ir užrakinus vartus, visi tie vy­
+    rai išlindo iš vežimų ir metėsi stačiai į kunigaikščio Žy­
+    gimanto miegamąjį, kur jis klausė mišių.
   citata_rodoma: "Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6  ieškoti \nkunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras \nCartorijskis su Skabeika Verbų sekmadienį1 7  įvažiavo \nį Trakų pilį. Tuo metu kunigaikščio Žygimanto sūnus \nbuvo išėjęs iš pilies į bažnyčią, o pats kunigaikštis Žy­\ngimantas klausė mišių pilies miegamajame. Ir, kuni­\ngaikščiui Cartorijskiui su Skabeika ir su visais tais \nvežimais įvažiavus į pilį ir užrakinus vartus, visi tie vy­\nrai išlindo iš vežimų ir metėsi stačiai į kunigaikščio Žy­\ngimanto miegamąjį, kur jis klausė mišių."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -749,34 +704,15 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   puslapiai: "PDF 409"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 409."
   citata_originali: |
-    retur (Šios klastingos tautos [gyvenamų žemių] viduryje, Nad-
-    ruvoje, buvo vieta, kurią vadino Romove, gavusi savo vardą
-    nuo Romos, o ten gyveno žmogus, vadinamas kriviu, kurį ger­
-    bė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę
-    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne
-    tik minėtosios gentys, bet ir lietuviai, ir kitos tautos, gyvenu­
-    sios Livonijos žemėje. Toks didelis buvo jo autoritetas, kad ne
-    tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo kri­
-    vūle ar kokiu kitu žinomu ženklu keliaudamas per šių netikė­
-    lių žemes, sulaukdavo didžios kunigaikščių, kilmingųjų bei pra­
-    stuomenės pagarbos). Nepradedami aiškinti šios Dusburgie-
-    čio kronikos vietos, pateiksime tą patį iš vėlesniojo jos perdir­
-    binio (rankraštis iš Slaptojo Karaliaučiaus archyvo), kur pasa­
-    kyta šitaip: In medio eorum fiât sita civitas Romowe, dicta a
-    Roma, in qua habitabat eorum nobilior, dictus Crive, quem pa­
-    gani pro Papa habebant, cui omnes non solum Pruteni, sed ei
-    Lithvani et Livonienses, veluti christiani Papae obediebant et
-    tantum venerabantur, quod etiam suos nuntios, qui ejus bacu­
-    lum aut signum aliquod portabant ab eo missum, principes etiam
-    et communis populus multo honore colebant et omnia praecep­
-    ta ejus firmiter servabant (Jų [žemės] viduryje buvo Romovės
-    miestas, gavęs vardą nuo Romos, kuriame gyveno kilminges-
-    nis iš jų, vadinamas kriviu, kurį stabmeldžiai laikė popiežiu­
-    mi, kurie visi - ne tik prūsai, bet ir lietuviai, ir livoniečiai -
-    klausė jo kaip krikščionys popiežiaus ir taip jį gerbė, kad netgi
-    jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
-    siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
-    sia pagarba ir griežtai vykdydavo visus jo nurodymus).
+    Antrame
+    skyde -  bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai
+    tėvoninės Žemaičių kunigaikštystės herbas. Trečiame skyde, į
+    dešinę nuo kunigaikščio, yra kryžius, einantis beveik per visą
+    skydą; šis skydas priklauso Senųjų Trakų miestui . Ketvirta­
+    me skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu
+    šalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio
+    kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­
+    ko kažką panašaus į pasagą.
   citata_rodoma: "Antrame\nskyde -  bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai\ntėvoninės Žemaičių kunigaikštystės herbas. Trečiame skyde, į\ndešinę nuo kunigaikščio, yra kryžius, einantis beveik per visą\nskydą; šis skydas priklauso Senųjų Trakų miestui . Ketvirta­\nme skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu\nšalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio\nkamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­\nko kažką panašaus į pasagą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1223,4 +1159,4 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-031
 
 ## Ryšiai
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į [[objektai/vietos/Trakai]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į Trakai

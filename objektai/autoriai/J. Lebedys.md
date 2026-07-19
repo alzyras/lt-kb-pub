@@ -9,16 +9,16 @@ datos:
   - '1967 m.'
 date_start: '1957'
 date_end: '1967'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - redaktorius
   - autorius
   - istorikas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -81,19 +81,6 @@ Lebedžio, Vilnius 1957, 31-35 p.
   pagrindžia:
     - c-171314
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -
-    P. 216-303.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-32973
@@ -129,15 +116,8 @@ Lebedžio, Vilnius 1957, 31-35 p.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    gijos tyrinėjimo tradicijos, kuri XVII-XVIII a. buvo pratur­
-    tinta platesniu lyginamuoju aspektu - atskirų Europos tautų
-    mitologiją imta lyginti ne tik su antikine graikų, romėnų, bet
-    ir su Rytų (indų, persų) mitologija. Neretai vietinių tautų mi­
-    tologija buvo tiesiog kildinama iš antikinės mitologijos. Gar­
-    susis Jakobo Grimo veikalas „Vokiečių mitologija“, pagrįstai
-    laikomas moderniosios mitologijos (o kartais net iš viso mito­
-    logijos) mokslo pradžia, pasirodė tais pačiais metais (1835),
-    kaip ir T. Narbuto „Lietuvių mitologija“.
+    9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -
+    P. 216-303.
   citata_rodoma: "9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -\nP. 216-303."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

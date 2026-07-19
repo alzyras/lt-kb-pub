@@ -44,46 +44,6 @@ ginčytinas etninio arba profesinio pavadinimo aiškinimas; susietas su ginkluot
 
 formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti nuo neutralios leksikos ir pateikti kaip Narbuto aiškinimą.
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­
-    tis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį
-    šoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino
-    artileristus3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-192215
-    - t-192555
-
-## Citatos
-
-- id: c-175070
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Tai kažkada buvo turtinga ir tankiai gyve­
-    nama provincija, turėjusi kelias labai galingas tvirtoves.
-    Rytuose ji ribojosi su Sūduva, pietuose — su Galinda,
-    vakaruose — su Varmija, o šiaurėje — su Natangija ir
-    Nadruva.
-    1 Sledzenie początkow Narodow Slawianskich.
-  citata_rodoma: "Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­\ntis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį\nšoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino\nartileristus3."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-001
-    - t-003
-
 ## Teiginiai
 
 <a id="claim-t-192214"></a>
@@ -141,3 +101,25 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175070
+
+## Citatos
+
+- id: c-175070
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­
+    tis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį
+    šoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino
+    artileristus3.
+  citata_rodoma: "Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­\ntis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį\nšoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino\nartileristus3."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+    - t-001
+    - t-003

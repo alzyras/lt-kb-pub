@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1251'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - vieta
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -272,6 +272,20 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - susijęs iš [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės.md#claim-t-86642|Teutonų teisė vokiečių miestų teisės]]: Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
 - susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
+## Reikšmingi paminėjimai
+- c-007
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir
+    buvo ten tarp spalio II Ir 25 d., o toliau Iki 1485 m. pabaigos
+    buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1—3)
+    35 Visos šios past ra i Įlos chronologija netiksli.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-37520
@@ -420,9 +434,9 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 303."
   citata_originali: |
     34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir
-    buvo ten tarp spalio II Ir 25 d., o toliau Iki 1485 m. pabaigos
-    buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1—3)
-    35 Visos šios past ra i Įlos chronologija netiksli.
+    buvo ten tarp spalio II Ir 25 d., o  toliau Iki 1485 m. pabaigos
+    buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)
+    35 Visos šios past ra i Įlo s chronologija netiksli.
   citata_rodoma: "34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir \nbuvo ten tarp spalio II Ir 25 d., o  toliau Iki 1485 m. pabaigos \nbuvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)\n35 Visos šios past ra i Įlo s chronologija netiksli."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"

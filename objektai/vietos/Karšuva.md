@@ -11,14 +11,14 @@ datos:
   - '2026 m.'
 date_start: '1303'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -193,6 +193,70 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - susijęs iš Karšuvos žemė: Burchardas iš Hornhauzeno patvarkė, kad Karšuvos žemėje ant švento Jurgio kalno būtų pastatyta pilis.
 - susijęs iš Karšuvos žemė: 1259 m. Karšuvos žemėje ant švento Jurgio kalno buvo pastatyta pilis, kurią saugojo Prūsijos ir Livonijos įgula.
 - susijęs iš [[objektai/ivykiai/Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.).md#claim-t-62896|Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)]]: 1259 m. Burchardas iš Hornhauzeno patvarkė pastatyti pilį Karšuvoje ant švento Jurgio kalno.
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: '1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo
+    pateko į užvartą ir visa kariuomenė per jį perėjo. Takas čia buvo toks siauras, kad
+    niekas jo negalėjo apeiti, todėl visi ėjo per jį. Skydas, kuriuo jis, negalėdamas atsistoti,
+    prisidengė, sutrupėjo į mažiausius gabalėlius. Galop, kai jau visi per jį perėjo, jis, dievo
+    padedamas, pasikėlė; kadangi neturėjo žirgo, be to, kadangi tolumoje matė tarną,
+    sėdintį ant žirgo ir vedantį kitą ristūną — pažabotą juodį, jis nuėjo prie jo ir pasiprašė
+    vieno žirgo, tačiau šis įniršęs užjojo ant jo, parbloškė jį žemėn ir, kelis kartus prajojęs,
+    jį sutrypė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vėliau, ir tais pačiais,
+    ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
+    je Karšuvos žemę, kad gyventojai, nematydami iš­
+    eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
+    sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
+    buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
+    Pūtvės pilį išdavė jos seniūnas Spūdas. Šis žymios kil­
+    mės lietuvis, trokšdamas priimti krikščionių tikėjimą,
+    pats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­
+    myna. Kryžiuočiams puldinėjant gretimus Žemaitijos
+    kaimus, lietuviai su savo nuolatiniu, galima sakyti,
+    naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų
+    tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-007
+
 ## Citatos
 
 - id: c-32088
@@ -258,14 +322,12 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo
-    pateko į užvartą ir visa kariuomenė per jį perėjo. Takas čia buvo toks siauras, kad
-    niekas jo negalėjo apeiti, todėl visi ėjo per jį. Skydas, kuriuo jis, negalėdamas atsistoti,
-    prisidengė, sutrupėjo į mažiausius gabalėlius. Galop, kai jau visi per jį perėjo, jis, dievo
-    padedamas, pasikėlė; kadangi neturėjo žirgo, be to, kadangi tolumoje matė tarną,
-    sėdintį ant žirgo ir vedantį kitą ristūną — pažabotą juodį, jis nuėjo prie jo ir pasiprašė
-    vieno žirgo, tačiau šis įniršęs užjojo ant jo, parbloškė jį žemėn ir, kelis kartus prajojęs,
-    jį sutrypė.
+    285 (278). Apie Karšuvos žemės nusiaubimą
+
+      Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į
+    Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į
+    saugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,
+    sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse.
   citata_rodoma: "285 (278). Apie Karšuvos žemės nusiaubimą\n\n  Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į\nKaršuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į\nsaugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,\nsudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -280,19 +342,19 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ka­
-    dangi miestą gynė rinktinių karių įgula, apsuptis
-    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
-    rasta daug be galo narsių karių, kurie tiltu per Prieg­
-    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
-    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
-    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
-    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
-    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
-    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
-    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
-    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
-    kerštą.
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -307,19 +369,14 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Vėliau, ir tais pačiais,
+    Sutelktu būriu užgriuvę iš pasalų nieko nenu-
+    jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
     ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
     je Karšuvos žemę, kad gyventojai, nematydami iš­
     eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
     sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
     buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
-    Pūtvės pilį išdavė jos seniūnas Spūdas. Šis žymios kil­
-    mės lietuvis, trokšdamas priimti krikščionių tikėjimą,
-    pats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­
-    myna. Kryžiuočiams puldinėjant gretimus Žemaitijos
-    kaimus, lietuviai su savo nuolatiniu, galima sakyti,
-    naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų
-    tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
+    Pūtvės pilį išdavė jos seniūnas Spūdas.
   citata_rodoma: "Sutelktu būriu užgriuvę iš pasalų nieko nenu-\njaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,\nir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­\nje Karšuvos žemę, kad gyventojai, nematydami iš­\neities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­\nsios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys\nbuvo priešo ir liepsnų sunaikintos, o truputį anksčiau\nPūtvės pilį išdavė jos seniūnas Spūdas."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"

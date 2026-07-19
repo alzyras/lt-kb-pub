@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)
 
 ## Santrauka
@@ -71,23 +72,14 @@ Nenurodyta
 <a id="claim-t-185574"></a>
 - t-003
   teiginys: "Mūšiui ilgai nesikreipiant nė į vieną pusę, Mikalojus Radvila smogė priešams į sparną ir nulėmė pergalę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "dalyvavo_musyje -> Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.): 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Mikalojus Radvila tiesiogiai veikia mūšyje, smogdamas priešams."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Mikalojus Radvila dalyvavo mūšyje Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.) (0.85)"
   pagrindžia:
     - c-168933
-    - c-168935
 
 <a id="claim-t-196162"></a>
 - t-004
@@ -165,5 +157,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-005

@@ -9,15 +9,15 @@ datos:
   - '1239 m.'
 date_start: '1210'
 date_end: '1239'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - pareigūnas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,18 +55,6 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
   semantiniai_rysiai: "Otonas buvo palaidotas Akonas (0.99); Otonas mirė Akonas (0.68)"
   pagrindžia:
     - c-61032
-
-<a id="claim-t-197139"></a>
-- t-003
-  teiginys: "Otonas buvo iškalbingas, mandagus, išmintingas, apdairus, atsargus, o visi jo darbai rodo jį buvus garbingą."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61032
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Otonas (Brandenburgo markgrafas).md#claim-t-60188|Otonas (Brandenburgo markgrafas)]]: 1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.
 - susijęs iš [[objektai/asmenys/Otonas iš Bergo.md#claim-t-60401|Otonas iš Bergo]]: 1294 m. Otonas iš Bergo su Ditrichu iš Ezbeko ir Otonu iš Cedlico buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
@@ -75,12 +63,10 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
 - susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-183908|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. Vokietijos žemių valdovai su kariuomenėmis vyko į Prūsiją gelbėti krikščionių ir tramdyti prūsų sukilimo.
 - susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-62734|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. į Prūsiją atvykę kunigaikščiai dėl minkštos žiemos nepasiekė savo tikslo ir sugrįžo į savo kraštus.
 - susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-62735|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. Vokietijos žemių valdovai su kariuomenėmis vyko į Prūsiją gelbėti krikščionių ir tramdyti prūsų sukilimo.
-## Citatos
-
-- id: c-61032
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą
     Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,
@@ -89,6 +75,29 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
     magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais
     broliais, jog nepagailėtų ir vienos akies, kad tik Ordinas jo vadovavimo metais taip
     sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-61032
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Apie brolį Otoną, antrą magistrą
+
+      Antras magistras brolis Otonas vadovavo daug metų, o mirė birželio 2 dieną  ir
+    palaidotas Akone156.
+
+
+
+
+                             4.
   citata_rodoma: "Apie brolį Otoną, antrą magistrą\n\n  Antras magistras brolis Otonas vadovavo daug metų, o mirė birželio 2 dieną  ir\npalaidotas Akone156.\n\n\n\n\n                         4."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -97,7 +106,6 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
 
 ## Ryšiai
-- Otonas buvo palaidotas [[objektai/vietos/Akonas]]
+- Otonas buvo palaidotas Akonas

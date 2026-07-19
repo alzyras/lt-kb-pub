@@ -62,12 +62,10 @@ Nenurodyta
   pagrindžia:
     - c-168953
 
-## Citatos
-
-- id: c-168953
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Didelę dalį gynybinės sienos priešas su­
     griovė pabūklais, ir apsuptieji būtų atsidūrę ant pra­
@@ -93,6 +91,44 @@ Nenurodyta
     nės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­
     garsėjęs karvedys, kuriam buvo patikėtas miestas ir
     apygarda, sėkmingai atrėmė antpuolį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168953
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Staigiu
+    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
+    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
+    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
+    vinose kautynėse sumušė Mechmet
+    Girėjų, Krymo
+    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
+    būriais. Po to, įkūręs stovyklą prie Dnepro, netoli Čer­
+    nigovo, pas Aleksandrą išsiuntė Chaleckį ir kelis žy­
+    miausius savo vyrus, kad tie, papasakoję viską iš ei­
+    lės, kas čia dėjosi, paskatintų Aleksandrą užimti su
+    savo kariuomene Severską, sutelkti jėgas ir patraukti
+    į pergalingą žygį, nes Maskvos valdovas esąs beveik
+    sumuštas ir jį galima sutriuškinti menku išpuoliu. Tuo
+    S k ita m s p a d ed a n t, iš
+    M a s k v o s
+    a tim a m a s
+    S e v e is k a s
+    Šich
+    Achmetas,
+    persikėlęs
+    per Volgą ir Doną, įsiveržė
+    su Mykolu Chaleckiu, Alek­
+    sandro karvedžiu, į Severs­
+    ką.
   citata_rodoma: "Staigiu\nantpuoliu užėmęs Seversko Naugardą, Aleksandro var­\ndu jį bei kitas vietoves, pasidavusias geruoju, atidavė\nvaldyti Chaleckiui; perėjęs visą Seversko kraštą, kru­\nvinose kautynėse sumušė Mechmet\nGirėjų, Krymo\nkunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais\nbūriais. Po to, įkūręs stovyklą prie Dnepro, netoli Čer­\nnigovo, pas Aleksandrą išsiuntė Chaleckį ir kelis žy­\nmiausius savo vyrus, kad tie, papasakoję viską iš ei­\nlės, kas čia dėjosi, paskatintų Aleksandrą užimti su\nsavo kariuomene Severską, sutelkti jėgas ir patraukti\nį pergalingą žygį, nes Maskvos valdovas esąs beveik\nsumuštas ir jį galima sutriuškinti menku išpuoliu. Tuo\nS k ita m s p a d ed a n t, iš\nM a s k v o s\na tim a m a s\nS e v e is k a s\nŠich\nAchmetas,\npersikėlęs\nper Volgą ir Doną, įsiveržė\nsu Mykolu Chaleckiu, Alek­\nsandro karvedžiu, į Severs­\nką."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

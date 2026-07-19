@@ -62,6 +62,38 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   pagrindžia:
     - c-178543
 - susijęs iš Seversko Naugardas: Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Seime Lietuvoje susirinko daug Seversko žemės didikų, nes juos baugino arti esanti Maskvos galybė ir valstybės nuostoliai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat prieš keletą mėnesių labai turtingi
+    ir kilmingi kunigaikščiai Belskiai, Boratinskiai ir Voro-
+    tinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pu­
+    sę ir pradėjo su savo kariaunomis puldinėti karaliaus
+    valdas. Sužinojęs apie šiuos
+    M a s k v o s galia auga,
+    įvykius, karalius tiek tepada-
+    b e t karaliu s K a zim ie-
+    rė, kad išsiuntė pas Vasilje-
+    ras
+    sten g ia si to ne-
+    vičių
+    pasiuntinį
+    Stanislovą
+    m a ty ti
+    Strumilą Petravičių protes­
+    tuoti dėl paliaubų sulaužymo.
+    O visos ginkluotos jėgos pasuko į Vengriją. Nenoromis
+    Jonas sutiko dalyvauti tame žygyje, nes turėjo kovoti
+    prieš brolį ir jam kenkti; šį kartą, beje, jam dar prasčiau
+    pasisekė nei prieš metus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-168798
@@ -96,27 +128,23 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat prieš keletą mėnesių labai turtingi
-    ir kilmingi kunigaikščiai Belskiai, Boratinskiai ir Voro-
-    tinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pu­
-    sę ir pradėjo su savo kariaunomis puldinėti karaliaus
-    valdas. Sužinojęs apie šiuos
-    M a s k v o s galia auga,
-    įvykius, karalius tiek tepada-
-    b e t karaliu s K a zim ie-
-    rė, kad išsiuntė pas Vasilje-
-    ras
-    sten g ia si to ne-
-    vičių
-    pasiuntinį
-    Stanislovą
-    m a ty ti
-    Strumilą Petravičių protes­
-    tuoti dėl paliaubų sulaužymo.
-    O visos ginkluotos jėgos pasuko į Vengriją. Nenoromis
-    Jonas sutiko dalyvauti tame žygyje, nes turėjo kovoti
-    prieš brolį ir jam kenkti; šį kartą, beje, jam dar prasčiau
-    pasisekė nei prieš metus.
+    Apie šiuos susitarimus karalius nieko nežinojo, mat
+    tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
+    Susirinko gausybė didikų, ypač daug — iš Seversko že­
+    mės, nes visus juos baugino
+    Seversko
+    ku n igaikš-
+    dėl pavojingo artumo kaimy-
+    čiai
+    atsiskiria
+    nuo
+    ninės Maskvos galybė ir ver-
+    L ie tu v o s
+    tė labiau rūpintis valstybe,
+    kuri iro, patirdama vieną nuo­
+    stolį po kito. Visi ketino senate sutartinai paraginti ir
+    šiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti
+    tos žemės gynyba.
   citata_rodoma: "Apie šiuos susitarimus karalius nieko nežinojo, mat\ntuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.\nSusirinko gausybė didikų, ypač daug — iš Seversko že­\nmės, nes visus juos baugino\nSeversko\nku n igaikš-\ndėl pavojingo artumo kaimy-\nčiai\natsiskiria\nnuo\nninės Maskvos galybė ir ver-\nL ie tu v o s\ntė labiau rūpintis valstybe,\nkuri iro, patirdama vieną nuo­\nstolį po kito. Visi ketino senate sutartinai paraginti ir\nšiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti\ntos žemės gynyba."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"

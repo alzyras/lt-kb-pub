@@ -75,13 +75,7 @@ media_all_json: |-
   puslapiai: "p. 105 (PDF 103)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 105 (PDF 103)."
   citata_originali: |
-    Gerais metais gaudavau
-    po
-    penkis pūrus,
-    prastesniais — mažiau.
-    Bet vis nemažiau kaip tris.
-    Švėgžda užlei­
-    do man savo svirne aruodą.
+    Švėgžda užleido man savo svirne aruodą.
   citata_rodoma: "Švėgžda užleido man savo svirne aruodą."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
@@ -97,11 +91,7 @@ media_all_json: |-
   puslapiai: "p. 105 (PDF 103)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 105 (PDF 103)."
   citata_originali: |
-    Kaip sau
-    sėdavo, taip ir man pasėdavo.
-    Švėgžda galinis, duok Dieve jam dan­
-    gų, liepdavo pačiam sėtis.
-    Geras buvo žmogus, nepavydingas.
+    Švėgžda galinis, duok Dieve jam dangu, liepdavo pačiam sėtis. Geras buvo žmogus, nepavydingas.
   citata_rodoma: "Švėgžda galinis, duok Dieve jam dangu, liepdavo pačiam sėtis. Geras buvo žmogus, nepavydingas."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"

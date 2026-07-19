@@ -64,10 +64,12 @@ Nenurodyta
   pagrindžia:
     - c-172784
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Žymesni asmenys laidoti su luomui būdingais drabužiais ir gyvenimo užsiėmimą žymėjusiais daiktais, pavyzdžiui, karys su ginklu, o amatininkas su įrankiais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172784
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kartais jie būna apdėti ak­
     menimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių
@@ -79,34 +81,6 @@ Nenurodyta
     niojo peties, prie motenį -  varinės adatos, akmeniniai verpstukų
     smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
     kio lygintuvo liekanas, iškastas Obeliuose).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172784
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    šarvais, su spindinčiu ginklu, laikantį rankoje sakalą, su didele
-    draugų palyda skubantį į kitą pasaulį“ .
-    Sudeginus lavoną, giminaičiai ir bičiuliai rūpestingai su­
-    rinkdavo pelenus bei nesudegusius kaulus ir sudėdavo į urną;
-    kai kurios iš jų buvo dailiai padarytos, su pagražinimais, kitos
-    paprastos, grubaus darbo; ten įdėdavo taip pat viską, ką velio­
-    nis mėgo gyvas būdamas: žiedus, grandinėles, apyrankes, plau­
-    kų smeigtus, meniškas sagtis ir kitokius skaistvario bei gele­
-    žies papuošalus, rutuliukus iš spalvoto molio, karolius, ginta­
-    rą - arba natūralų, arba rutulio pavidalo, monetas, ypač Ro­
-    mos laikų, ir kitus į šiuos panašius daiktus. Kai dėl dovanų
-    mirusiajam, tai atkasus kapus pastebėta, kad kai kurios mo­
-    netos ir metalai buvo perdegę ir pusiau susilydę, kitur visiškai
-    sveiki; vadinasi, kai kada tie dalykai būdavo kartu metami į
-    laužą, o kartais, sudeginus kūną, dedami tiesiai į urną.
   citata_rodoma: "Kartais jie būna apdėti ak­\nmenimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių\nasmenų kūnus laidodavo ne tik su visais drabužiais, būdingais\nkiekvienam luomui, bet ir su visu tuo, kuo velionis vertėsi gy­\nvas būdamas: karys su ginklu, medžiotojas su lanku, amati­\nninkas su savo amato įrankiais. Visuomet pagoniškose kapa­\nvietėse randamas koks nors geležinis daiktas, padėtas prie deši­\nniojo peties, prie motenį -  varinės adatos, akmeniniai verpstukų\nsmagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­\nkio lygintuvo liekanas, iškastas Obeliuose)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

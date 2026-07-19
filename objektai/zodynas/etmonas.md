@@ -154,6 +154,26 @@ Greta didžiojo etmono M.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195015|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.
 - susijęs iš [[objektai/posakiai/Vilniaus publika dar nepradėjo rinktis.md#claim-t-200626|Vilniaus publika dar nepradėjo rinktis]]: 1747 m. Jonas Dominykas Lopacinskis rašė, kad Vilniaus publika dar nepradėjo rinktis, nors jos požymiai jau matėsi.
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Aleksandras, pasitaręs su ponu Petru, etmono vietą perdavė Konstantinui Ostrogiškiui.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O pas­
+    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
+    vą 39.
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos40. Paskui,
+    sekančių metų vasarą bei rudenį4I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 42, vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 43.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -173,6 +193,7 @@ Greta didžiojo etmono M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+
 ## Citatos
 
 - id: c-45514
@@ -212,17 +233,12 @@ Greta didžiojo etmono M.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O pas­
-    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
-    vą 39.
-    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
-    das, ir paplito žmonėse prancūziškos ligos40. Paskui,
-    sekančių metų vasarą bei rudenį4I, atėjo Moldavijos
-    vaivada Steponas, o su juo — turkų sultono didysis pa­
-    ša, vardu Malkočas 42, vedinas daugeliu žmonių, ir ka­
-    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
-    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
-    kuvos 43.
+    Ir didysis kunigaikštis Aleksandras, maty­
+    damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
+    ties perduoti etmono vietą. Ponas Petras patarė per­
+    duoti Volynės kunigaikščiui Konstantinui Ostrogiš-
+    kiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius
+    davė etmono vietą kunigaikščiui Konstantinui2 5 .
   citata_rodoma: "Ir didysis kunigaikštis Aleksandras, maty­\ndamas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­\nties perduoti etmono vietą. Ponas Petras patarė per­\nduoti Volynės kunigaikščiui Konstantinui Ostrogiš- \nkiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius \ndavė etmono vietą kunigaikščiui Konstantinui2 5 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

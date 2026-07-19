@@ -81,7 +81,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 <a id="claim-t-64514"></a>
 - t-005
   teiginys: "A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome."
-  atnaujinta: "2026-06-13 17:38"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1955 m."
@@ -89,7 +89,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   temporalinis_llm_pakomentavimas: "Citata palaiko A. Salio autorystę tik straipsniui „Baltic Languages“, o ne kitam nurodytam darbui."
   vertinimo_atnaujinta: "2026-06-13T14:38:41Z"
   pagrindžia:
-    - c-03971
+    - c-03970
 
 <a id="claim-t-64515"></a>
 - t-003
@@ -197,6 +197,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-004
 
 - id: c-03971
@@ -212,12 +213,10 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   citata_rodoma: "—\n(”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_\nZeitschr. für vergleichende Sprachforschung, t. 70, 1954."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-13905
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

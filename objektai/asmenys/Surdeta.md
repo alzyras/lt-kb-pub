@@ -8,15 +8,15 @@ datos:
   - '1269 m.'
 date_start: '1269'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
   - asmuo
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -75,6 +75,30 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 - susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-60441|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89216|Skalviai]]: Skalvių viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su šeimomis pasitraukė pas Ordino brolius.
 - susijęs iš [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas.md#claim-t-62131|Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]: Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Skalvių didikas Surdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tarp riterių
+    ordino ir kunigaikščio Ze-
+    mislovo, valdžiusio Kujaviją ir Lenčicą, prasidėjo vai­
+    dai ir ginkluoti susidūrimai. Žinia apie šią nesantaiką
+    paskatino visus narsiausius lietuvių jaunikaičius žygiui
+    dėl grobio. Greitosiomis su-
+    L ie tu v ia i n u n io k o jo
+    telkta kariuomenė ryžosi nio-
+    K u ja v iją
+    koti Kujaviją; patraukė jie
+    ten Mazovijos ir Prūsijos pa­
+    sieniu; niekieno netrukdomi, nusiaubė kaimus, išsivarė
+    galybę gyvulių ir belaisvių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-167515
@@ -101,19 +125,15 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tarp riterių
-    ordino ir kunigaikščio Ze-
-    mislovo, valdžiusio Kujaviją ir Lenčicą, prasidėjo vai­
-    dai ir ginkluoti susidūrimai. Žinia apie šią nesantaiką
-    paskatino visus narsiausius lietuvių jaunikaičius žygiui
-    dėl grobio. Greitosiomis su-
-    L ie tu v ia i n u n io k o jo
-    telkta kariuomenė ryžosi nio-
-    K u ja v iją
-    koti Kujaviją; patraukė jie
-    ten Mazovijos ir Prūsijos pa­
-    sieniu; niekieno netrukdomi, nusiaubė kaimus, išsivarė
-    galybę gyvulių ir belaisvių.
+    Tiesą sakant,
+    tą pasitraukimą su visa manta ir vaikais į Lietuvą, kur
+    gyveno tos pačios kilmės tauta, vargu ar galima va­
+    dinti tremtimi. Tokio paties likimo ištikti skalvių di­
+    dikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje,
+    persikraustė su savo turtais ir žmonėmis toliau į Lie­
+    tuvą. Tuo tarpu kilo neramu-
+    1269 m e ta i
+    mai Lenkijoje.
   citata_rodoma: "Tiesą sakant,\ntą pasitraukimą su visa manta ir vaikais į Lietuvą, kur\ngyveno tos pačios kilmės tauta, vargu ar galima va­\ndinti tremtimi. Tokio paties likimo ištikti skalvių di­\ndikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje,\npersikraustė su savo turtais ir žmonėmis toliau į Lie­\ntuvą. Tuo tarpu kilo neramu-\n1269 m e ta i\nmai Lenkijoje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

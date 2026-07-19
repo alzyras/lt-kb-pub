@@ -72,41 +72,39 @@ Nenurodyta
 <a id="claim-t-62704"></a>
 - t-002
   teiginys: "Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-167378
-
-<a id="claim-t-196990"></a>
-- t-004
-  teiginys: "Tęsdama Dusburgiečio ir kitų Ordino kronikininkų tradiciją, buržuazinė vokiečių istoriografija visaip stengėsi ir stengiasi pateisinti vokiečių feodalų veiksmus Rytuose."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63459
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Petras iš Dusburgo Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą iš Dievo malonės ir „viešpaties darbą“.'
+- c-002
+  santrauka: 'Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Norėdamas tą mintį pagrįsti, jis tendencingai pateikia ne tik, kaip matėme,
-    atskirus istorinius faktus, bet tam pajungia ir visą kronikos idėjinį turinį.
-      Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai
-    darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
-    Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
-    315).
+    Tęsdama Dusburgiečio ir kitų Ordino kronikininkų tradiciją, buržuazinė vokiečių
+    istoriografija visaip stengėsi ir stengiasi pateisinti vokiečių feodalų veiksmus Rytuose.
+    Tarybų Sąjungos ir kitų socialistinių šalių istorikai akivaizdžiai pabrėžia, jog prūsų
+    nukariavimo genezėje slypėjo ne tiek pagonių krikštijimo idėja, kiek idėja įkurti užgrobtose
+    žemėse savarankišką Ordino valstybę. Todėl nepagrįstos pastarojo meto reakcinių VFR
+    istorikų pastangos vaizduoti Prūsijos bei kitų žemių užkariavimą, lydimą vietos gyventojų
+    pavergimo, kaip šių sričių „pertvarkymą vietos gyventojų ir vokiečių elementų sintezės“
+    pagrindų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-004
 
 ## Citatos
 
@@ -134,14 +132,12 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tęsdama Dusburgiečio ir kitų Ordino kronikininkų tradiciją, buržuazinė vokiečių
-    istoriografija visaip stengėsi ir stengiasi pateisinti vokiečių feodalų veiksmus Rytuose.
-    Tarybų Sąjungos ir kitų socialistinių šalių istorikai akivaizdžiai pabrėžia, jog prūsų
-    nukariavimo genezėje slypėjo ne tiek pagonių krikštijimo idėja, kiek idėja įkurti užgrobtose
-    žemėse savarankišką Ordino valstybę. Todėl nepagrįstos pastarojo meto reakcinių VFR
-    istorikų pastangos vaizduoti Prūsijos bei kitų žemių užkariavimą, lydimą vietos gyventojų
-    pavergimo, kaip šių sričių „pertvarkymą vietos gyventojų ir vokiečių elementų sintezės“
-    pagrindų.
+    Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
+    315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino
+    siekimas — grobti naujas žemes. Jo nuomone, Marienverderio pilis pavyslyje pastatyta,
+    „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. y. į vakarines
+    prūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III,
+    315), t. y. užgrobti lietuvių žemes.
   citata_rodoma: "Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,\n315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino\nsiekimas — grobti naujas žemes. Jo nuomone, Marienverderio pilis pavyslyje pastatyta,\n„kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. y. į vakarines\nprūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III,\n315), t. y. užgrobti lietuvių žemes."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -149,20 +145,19 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-167378
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino
-    siekimas — grobti naujas žemes. Jo nuomone, Marienverderio pilis pavyslyje pastatyta,
-    „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. y. į vakarines
-    prūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III,
-    315), t. y. užgrobti lietuvių žemes.
-    Tęsdama Dusburgiečio ir kitų Ordino kronikininkų tradiciją, buržuazinė vokiečių
-    istoriografija visaip stengėsi ir stengiasi pateisinti vokiečių feodalų veiksmus Rytuose.
+    Norėdamas tą mintį pagrįsti, jis tendencingai pateikia ne tik, kaip matėme,
+    atskirus istorinius faktus, bet tam pajungia ir visą kronikos idėjinį turinį.
+      Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai
+    darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
+    Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
+    315).
   citata_rodoma: "Norėdamas tą mintį pagrįsti, jis tendencingai pateikia ne tik, kaip matėme,\natskirus istorinius faktus, bet tam pajungia ir visą kronikos idėjinį turinį.\n  Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai\ndarydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).\nOrdinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,\n315)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -171,4 +166,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

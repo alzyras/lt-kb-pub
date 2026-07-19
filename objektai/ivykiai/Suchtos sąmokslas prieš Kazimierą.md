@@ -8,13 +8,13 @@ datos:
   - '1453 m.'
 date_start: '1444'
 date_end: '1453'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - konfliktas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -139,12 +139,8 @@ Nenurodyta
   statusas: not_found
 - t-004
 
-## Citatos
-
-- id: c-169964
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-002
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     LDK
     pasiuntinys Radvila Astikaitis, susidūręs su Ač-Girėjaus kariuomene
@@ -157,6 +153,43 @@ Nenurodyta
     susijęs (ar sutampa) su J. Dlugošo žodžiais Ač-Girėjaus nekrologe:
     „Su Lenkija ir Prūsija jis [Ač-Girėjusj visą savo valdymą laikėsi
     pagirtinos taikos”.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Voložinas buvo atiduotas valdyti
+    Trakų vaivadai Jonui Manvydui (J. Wolti, Kniaziowie litewsko-ruscy,
+    p. 684), vadinasi, Suchtoms nebepriklausė.
+    Padavimas apie vieną iš septynių sąmokslų prieš Kazimierą,
+    kurio
+    pagrindiniu
+    veikėju
+    buvęs Suchta, yra plačiai užrašytas
+    J. Dlugošo su 1444 m. data (J. Diugosz, Dzieje, V, p. 27—28). Ta­
+    čiau J. Dlugošo pasakojime neužsimenama, nei apie Voložiną, nei
+    apie Goštautų vaidmenį, gelbstint Kazimierą nuo sąmokslininkų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-169964
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tačiau J . Dlugošo pasakojimas apie
+    Suchtą y ra aiškia) tautosakinio pobūdžio. Todėl patikimesnis L. Ko-
+    llankovskio spėjimas |L  Kolankowski. Dzieje W. Księstwa Litewskie-
+    go, I, p. 240), kad kalbamasis sąmokslas buvo tuoj po 1444 m,
   citata_rodoma: "Tačiau J . Dlugošo pasakojimas apie \nSuchtą y ra aiškia) tautosakinio pobūdžio. Todėl patikimesnis L. Ko- \nllankovskio spėjimas |L  Kolankowski. Dzieje W. Księstwa Litewskie- \ngo, I, p. 240), kad kalbamasis sąmokslas buvo tuoj po 1444 m,"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -169,16 +202,10 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Voložinas buvo atiduotas valdyti
-    Trakų vaivadai Jonui Manvydui (J. Wolti, Kniaziowie litewsko-ruscy,
-    p. 684), vadinasi, Suchtoms nebepriklausė.
     Padavimas apie vieną iš septynių sąmokslų prieš Kazimierą,
-    kurio
-    pagrindiniu
-    veikėju
-    buvęs Suchta, yra plačiai užrašytas
+    kurio pagrindiniu veikėju buvęs Suchta, y ra plačiai užrašytas
     J. Dlugošo su 1444 m. data (J. Diugosz, Dzieje, V, p. 27—28). Ta­
-    čiau J. Dlugošo pasakojime neužsimenama, nei apie Voložiną, nei
+    čiau J . Dlugošo pasakojime neužsimenama, nei apie Voložiną, nei
     apie Goštautų vaidmenį, gelbstint Kazimierą nuo sąmokslininkų.
   citata_rodoma: "Padavimas apie vieną iš septynių sąmokslų prieš Kazimierą, \nkurio pagrindiniu veikėju buvęs Suchta, y ra plačiai užrašytas \nJ. Dlugošo su 1444 m. data (J. Diugosz, Dzieje, V, p. 27—28). Ta­\nčiau J . Dlugošo pasakojime neužsimenama, nei apie Voložiną, nei \napie Goštautų vaidmenį, gelbstint Kazimierą nuo sąmokslininkų."
   statusas: verified

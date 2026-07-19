@@ -339,13 +339,11 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Torunės pilyje apie XIII a. vidurį, atrodo, įsikūrė Ordino konventas.
-    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
-    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
-    rankose, ji naudota kaip gyvulininkystės dvaras.
-    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
-    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
-    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
+    Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
+    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
+    Lietuvos ir Kuršo187.
   citata_rodoma: "Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,\no prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,\nLietuvos ir Kuršo187."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -360,17 +358,14 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1247
-    Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius
-    metus296. Jis atsivedė drauge su savimi į Prūsijos žemę kilnųjį vyrą Veidos valdovą297,
-    savo giminaitį, ir penkiasdešimt didžiai įgudusių kariauti vyrų (jie buvo tokie narsūs,
-    kad apie juos sklido garsas, jog niekas nestengė jų ieties atremti, o jų paleistos strėlės
-    visados susirasdavusios taikinį) bei daug kitų kilmingų maldininkų iš Vokietijos. Sis brolis
-    Henrikas, gavęs savo žmonos sutikimą, apsivilko Teutonų ordino vienuolio apsiaustą, o
-    ji pati įstojo į Kronsvico moterų vienuolyną298, kurį jis pats įkūrė ir aprūpino ir kuriam
-    suteikė dosnių dovanų. Tame pačiame vienuolyne po daugybės karų, kuriuose garbingai
-    kovojo, eidamas savo pareigas, kaip vėliau pasirodys, pasimirė ir palaidotas, didžiojo
-    magistro kviečiamas į kapitulą ir kelyje susirgęs.
+    Apie taikos atkūrimą tarp Sventopelko ir brolių
+
+      Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
+    Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis
+    sunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą
+    pasodintą Prūsijos žemėje, dabar  it jaukus avinėlis, nuleidęs akis  ir nukoręs galvą,
+    nuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį
+    palankumą.
   citata_rodoma: "Apie taikos atkūrimą tarp Sventopelko ir brolių\n\n  Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis\nSventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis\nsunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą\npasodintą Prūsijos žemėje, dabar  it jaukus avinėlis, nuleidęs akis  ir nukoręs galvą,\nnuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį\npalankumą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

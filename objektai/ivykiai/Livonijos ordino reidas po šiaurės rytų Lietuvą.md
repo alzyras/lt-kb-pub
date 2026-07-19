@@ -8,14 +8,14 @@ datos:
   - '1433 m.'
 date_start: '1432'
 date_end: '1433'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
   - karas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -161,12 +161,9 @@ Nenurodyta
   pagrindžia:
     - c-169960
 
-## Citatos
-
-- id: c-169959
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     51 Tas sakinys tėra tik BK.
     55 Lietuvos metraščių žinią apie smolenskiečių pasidavimą pa­
@@ -174,6 +171,43 @@ Nenurodyta
     raportas didžiajam magistrui, kuriame minima, kad (Smolensko vie­
     tininkas] Jurgis Butrimas pasitraukė nuo Švitrigailos, pripažindamas
     2ygimanto Kęstutaičio valdžią (LUB, VIII, Nr. 999, p. 611).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+- c-002
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ” Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio
+    pabaigoje — vasario pradžioje. Nepavykus 1432 m. rudens puoli­
+    mui. buvo sutarta, kad Švitrigailos sąjungininkas Livonijos ordino
+    magistras Rutenbeigas 1433.1.25 jsiverš j Lietuvą iš Daugpilio pu­
+    sės, o pats Švitrigaila — nuo Vitebsko pusės. Ir vasario 15 d. su­
+    sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­
+    nių. Tačiau susitarimas nebuvo jgyvendintas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+    - t-001
+
+## Citatos
+
+- id: c-169959
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Livonijos kariuome­
+    nė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­
+    du po šiaurės rytų Lietuvą (per Linkmenų, Tauragnų, Utenos, Už­
+    palių vaisčiusi, o  Švitrigaila pasiliko Lukomlyje. arti Vitebsko, to­
+    liau telkti kariuomenės.
   citata_rodoma: "Livonijos kariuome­\nnė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­\ndu po šiaurės rytų Lietuvą (per Linkmenų, Tauragnų, Utenos, Už­\npalių vaisčiusi, o  Švitrigaila pasiliko Lukomlyje. arti Vitebsko, to­\nliau telkti kariuomenės."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -188,13 +222,13 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    ” Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio
+    ”  Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio
     pabaigoje — vasario pradžioje. Nepavykus 1432 m. rudens puoli­
     mui. buvo sutarta, kad Švitrigailos sąjungininkas Livonijos ordino
     magistras Rutenbeigas 1433.1.25 jsiverš j Lietuvą iš Daugpilio pu­
-    sės, o pats Švitrigaila — nuo Vitebsko pusės. Ir vasario 15 d. su­
+    sės, o  pats Švitrigaila — nuo Vitebsko pusės. Ir vasario 15 d. su­
     sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­
-    nių. Tačiau susitarimas nebuvo jgyvendintas.
+    nių. Tačiau susitarim as nebuvo jgyvendintas.
   citata_rodoma: "”  Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio \npabaigoje — vasario pradžioje. Nepavykus 1432 m. rudens puoli­\nmui. buvo sutarta, kad Švitrigailos sąjungininkas Livonijos ordino \nmagistras Rutenbeigas 1433.1.25 jsiverš j Lietuvą iš Daugpilio pu­\nsės, o  pats Švitrigaila — nuo Vitebsko pusės. Ir vasario 15 d. su­\nsijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­\nnių. Tačiau susitarim as nebuvo jgyvendintas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

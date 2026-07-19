@@ -89,19 +89,7 @@ Nenurodyta
   puslapiai: "p. 51 (PDF 49)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 51 (PDF 49)."
   citata_originali: |
-    Atsipirkti nuo piemens leidimo nesiduodavo.
-    Akyse
-    jaunuomenė jį vadindavo „dėde“ , senesni „Tadaušu“ , už akių visi va­
-    dindavo „kerdžiuku“ .
-    Kiek kerdžius nusidėdavo ūkininkėms vasaros
-    metu, reikalaudamas piemenų, tiek atitaisydavo santykius su jomis ga­
-    nymui pasibaigus — kiekvienai padirbdavo
-    po kokį daikčiuką:
-    kam
-    dailų krepšelį,
-    kam sėtuvę iš eglės šaknų,
-    narvelį sūriams džiovinti,
-    šaukštą, samtį, kaušą, lanktį.
+    Kiek kerdžius nusidėdavo ūkininkėms vasaros metu, reikalaudamas piemenų, tiek atitaisydavo santykius su jomis gani-mui pasibaigus — kiekvienai padirbdavo po kokį daikčiuką: kam dailų krepšelį, kam sėtuvę iš eglės šaknų, narvelį sūriams džiovinti, šaukštą, samtį, kaušą, lanktį...
   citata_rodoma: "Kiek kerdžius nusidėdavo ūkininkėms vasaros metu, reikalaudamas piemenų, tiek atitaisydavo santykius su jomis gani-mui pasibaigus — kiekvienai padirbdavo po kokį daikčiuką: kam dailų krepšelį, kam sėtuvę iš eglės šaknų, narvelį sūriams džiovinti, šaukštą, samtį, kaušą, lanktį..."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"

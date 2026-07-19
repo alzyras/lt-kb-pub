@@ -26,46 +26,6 @@ media_all_json: |-
 
 Narbutas rašo, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado pas čerkesų ir kumanų totorius.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado pas čerkesų ir kumanų totorius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Todėl apie ją šį bei tą rašo visi kronikininkai, ir beveik
-    kiekvienas savitai.
-    Senovės germanai ją vadino H erta, tai yra Motina žeme.
-    Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
-    čerkesų ir kum anų totorius12 13.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173290
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    tosios pilnavidurės rožės pačios želia brūzgynuose, kur anks­
-    čiau turėjo būti sodai, geras žem ės derlingumas tai tik patvir­
-    tina. Šiose laimingose Nem uno ir Neries pakrantėse gyvena
-    iki šiol linksmiausi Lietuvoje ir maloniausių papročių žm o­
-    nės; jų dainos beveik visuom et apie m eile, pulsuoja iš tiesų
-    kiteriška jausmų jėga; iš jų ne viena apdainuoja deivės Mildos
-    grožį. Bet kai kas painioja šią patrauklią dievybę su deive Lie­
-    tuva.
-  citata_rodoma: "Todėl apie ją šį bei tą rašo visi kronikininkai, ir beveik\nkiekvienas savitai.\nSenovės germanai ją vadino H erta, tai yra Motina žeme.\nTam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas\nčerkesų ir kum anų totorius12 13."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-190407"></a>
@@ -87,3 +47,24 @@ Narbutas rašo, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado p
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173290
+
+## Citatos
+
+- id: c-173290
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Todėl apie ją šį bei tą rašo visi kronikininkai, ir beveik
+    kiekvienas savitai.
+    Senovės germanai ją vadino H erta, tai yra Motina žeme.
+    Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
+    čerkesų ir kum anų totorius12 13.
+  citata_rodoma: "Todėl apie ją šį bei tą rašo visi kronikininkai, ir beveik\nkiekvienas savitai.\nSenovės germanai ją vadino H erta, tai yra Motina žeme.\nTam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas\nčerkesų ir kum anų totorius12 13."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

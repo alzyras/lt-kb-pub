@@ -54,15 +54,23 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
 <a id="claim-t-192941"></a>
 - t-002
   teiginys: "Teodoras Narbutas seniausią užuominą apie roksolanus kaip sarmatų padermės tautą tarp Dnepro ir Dauguvos sieja su 94 m. pr. Kr."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Dauguva: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Roksolanai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Roksolanų gyvenamoji sritis nurodyta tarp Dnepro ir Dauguvos, todėl Dauguva yra ribinis gyvenamosios teritorijos objektas."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Roksolanai gyveno Dnepras (0.78); Roksolanai gyveno Dauguva (0.78)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175710
+    - c-175711
 
 <a id="claim-t-192942"></a>
 - t-003
@@ -106,27 +114,6 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
 - susijęs iš [[objektai/asmenys/Paiakas.md#claim-t-191452|Paiakas]]: Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192400|Gotai]]: Narbutas mini senovės tyrinėtojų nuomonę, kad gotai buvo giminingi alanams dar asų arba Odino amžiuje.
 - susijęs iš [[objektai/ivykiai/Roksolanų įsiveržimas į Meziją.md#claim-t-191052|Roksolanų įsiveržimas į Meziją]]: Tacito cituojamame pasakojime roksolanai išžudė dvi romėnų kohortas ir įsiveržė į Meziją.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Teodoras Narbutas seniausią užuominą apie roksolanus kaip sarmatų padermės tautą tarp Dnepro ir Dauguvos sieja su 94 m. pr. Kr.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai, kad tie asai, arba osetinai, priklauso tai
-    pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
-    italų Rytų senovės tyrinėtojas Ramusio2 3.
-    51
-    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
-    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
-    Dauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-
-    lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
-    tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
-    hR.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-175710
@@ -152,30 +139,31 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-175711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kitaip buvo vadinama Rhoas7, tariama
-    Rhos, Ross, Russ, taip pat ir kalbant apie Volgos pava­
-    dinimą. 1811 metais teko laikyti rankose vokiečių kalba
-    parašytą rankraštį su antrašte „Topografiniai ir statis­
-    tiniai Volgos žemupio ir Astrachanės apylinkių stebėji­
-    mai, inžinieriaus generolo majoro Telkerzamo surinkti jo
-    ilgo buvimo Rusijos imperijos pietryčiuose**** metu.
-    Ten užtikau įvairius šios upės ir jos šakų pavadinimus,
-    sužinotus iš vietos gyventojų, Pakubanės kolonistų ir įvai­
-    1 Majewski.
+    Tai, kad tie asai, arba osetinai, priklauso tai
+    pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
+    italų Rytų senovės tyrinėtojas Ramusio2 3.
+    51
+    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
+    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
+    Dauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-
+    lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
+    tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
+    hR.
   citata_rodoma: "Tai, kad tie asai, arba osetinai, priklauso tai\npačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė\nitalų Rytų senovės tyrinėtojas Ramusio2 3.\n51\nRos-alanai, Seniausia užuomina apie roksolanus, kaip\napie sarmatą padermės tautą, gyvenusią tarp Dnepro ir\nDauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-\nlanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­\ntų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-\nhR."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-175712
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

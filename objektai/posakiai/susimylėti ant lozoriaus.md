@@ -65,12 +65,7 @@ Trumpa elgetavimo ir maldavimo formulė.
   puslapiai: "p. 137 (PDF 135)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 137 (PDF 135)."
   citata_originali: |
-    Kiti
-    jų važinėdavo važiuoti mažu arkliuku, mažais ratukais su būda; prie
-    ratukų pririštas baltas derlus paršelis, kitą sykį didelis, visai nupenė­
-    tas paršas. Būdoje čirška vaikai, matyti iš būdos iškištos basos vyro
-    kojos. Boba įeina į grįčią ir prašo „susimylėti ant lozoriaus“ ; šeimi­
-    ninkė ir tai nedrįsta priešintis, nes „ubagė“ visada ją nukalba.
+    Boba įeina į grįčią ir prašo „susimylėti ant lozoriaus“ ; šeimininkė ir tai nedrįsta priešintis, nes „ubagė“ visada ją nukalba.
   citata_rodoma: "Boba įeina į grįčią ir prašo „susimylėti ant lozoriaus“ ; šeimininkė ir tai nedrįsta priešintis, nes „ubagė“ visada ją nukalba."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"

@@ -36,8 +36,8 @@ const markdown = `# Objektas
   redaktorius: Test Redaktorius
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Cituojamas sakinys.
-  citata_rodoma: Trumpesnė rodoma ištrauka.
+    Cituojamas sakinys. Papildomas originalaus šaltinio fragmentas.
+  citata_rodoma: Cituojamas sakinys.
 `
 
 function inspectLazyClaimPayloads(output: string): string {
@@ -117,7 +117,7 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(transformed, /technical-only|quote_start|quote_end|saltinio_vieta/)
     assert.match(transformed, /Paskutinis atnaujinimas/)
     assert.match(transformed, /Originalus šaltinio fragmentas/)
-    assert.doesNotMatch(transformed, /Rodoma citatos ištrauka/)
+    assert.match(transformed, /Rodoma citatos ištrauka/)
     assert.match(transformed, /advanced-field-help/)
     assert.match(transformed, /Susiję objektai/)
     assert.match(transformed, /Ryšiai/)

@@ -46,12 +46,10 @@ Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.
 - susijęs iš Lietuvos ir Lenkijos sąjungos atnaujinimo viešasis dokumentas (1401 m.): Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvos prisijungimą prie Lenkijos karalystės.
 - susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.
 - susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
-## Citatos
-
-- id: c-176045
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neatsispyręs kas dieną girdimiems Glinskio
     klastingiems
@@ -78,6 +76,29 @@ Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.
     rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
     klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
     ją, o kitus išvijo iš senato.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-176045
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Pakviestas į se­
+    nato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­
+    skundė, kad, girdi, kovodamas už Lenkijos bei Lietu­
+    vos reikalus, buvęs priešo krašte nelyginant išduotas;
+    išeikvojęs visus turtus kariuomenei išlaikyti, dabar,
+    laužant duotą žodį, turįs kęsti smurtą, negalėdamas su­
+    silaukti nei laisvės, nei pagalbos kovoje prieš Krymo
+    skitus. Karaliaus ir luomų vardu jam šitaip buvo atsa­
+    kyta. Dėl visų negandų, kuriuos iki šiol esąs patyręs,
+    turįs kaltinti ne ką kitą, bet patį save, Šich Achmetą.
   citata_rodoma: "Pakviestas į se­\nnato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­\nskundė, kad, girdi, kovodamas už Lenkijos bei Lietu­\nvos reikalus, buvęs priešo krašte nelyginant išduotas;\nišeikvojęs visus turtus kariuomenei išlaikyti, dabar,\nlaužant duotą žodį, turįs kęsti smurtą, negalėdamas su­\nsilaukti nei laisvės, nei pagalbos kovoje prieš Krymo\nskitus. Karaliaus ir luomų vardu jam šitaip buvo atsa­\nkyta. Dėl visų negandų, kuriuos iki šiol esąs patyręs,\nturįs kaltinti ne ką kitą, bet patį save, Šich Achmetą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

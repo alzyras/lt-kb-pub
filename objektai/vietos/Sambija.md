@@ -189,20 +189,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-184455
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas nurodo Voigto veikalo puslapius, kuriuose pateikiami įrodymai, kad Romovė buvo Sambijoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    „Taip pat šiaurėje
-    2
-    Voigt. Geschichte Preussens. -  B. I. -  S. 617-637. Apima straips­
-    ni, kuriame įrodinėjamas tos kronikos buvimas. Ten pat (p. 641-649)
-    įrodymai, kad Romovė buvo Sambijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-004
   santrauka: 'Narbutas teigė, kad senovės žemėlapiuose Sambija, ypač jos jūros pakrantės, atrodė kitaip dėl jūros ir Aistmarių bangų pokyčių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -252,21 +238,11 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    6) sako apie tai: Budlafla in
-    priscis Sueonum legibus dicebatur citatio in jus, in causis ordi­
-    nariis per baculum, quem Baculum notitiae vel Nuntiatorium
-    vocabant. Hunc index nota utrimque inustulata emittebat sin-
-    gidum singulis territorii quadrantibus, ut per manus vicinorum
-    extraditus et facti notitiam simul et comparandi maneatum cir­
-    cumferret: quomodo non juditia tantum, sed et promiscue om­
-    nes conventus publici indicti fuerunt, ubi de casu aliquo extra
-    ordinem deliberandum erat, aut judicandum. Erat autem hic
-    baculus nunciatorius effectus ad modum rei, de qua in Conven­
-    tu tractatio instituenda fuit, ut, si res sacra, crux lignea, si homi­
-    cidium, ligneum telum, aut securis (Budlafla senuosiuose šve­
-    dų įstatymuose būdavo vadinamas šaukimas į teismą papras­
-    tosiose bylose, panaudojant lazdą, kuri buvo praminta žinių
-    arba pranešėjo, pasiuntinio lazda.
+    „Taip pat šiaurėje
+    2
+    Voigt. Geschichte Preussens. -  B. I. -  S. 617-637. Apima straips­
+    ni, kuriame įrodinėjamas tos kronikos buvimas. Ten pat (p. 641-649)
+    įrodymai, kad Romovė buvo Sambijoje.
   citata_rodoma: "„Taip pat šiaurėje\n2\nVoigt. Geschichte Preussens. -  B. I. -  S. 617-637. Apima straips­\nni, kuriame įrodinėjamas tos kronikos buvimas. Ten pat (p. 641-649)\nįrodymai, kad Romovė buvo Sambijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

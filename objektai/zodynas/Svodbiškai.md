@@ -104,13 +104,7 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   puslapiai: "p. 118 (PDF 116)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 118 (PDF 116)."
   citata_originali: |
-    Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudi­
-    nės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medi­
-    nėmis skiedromis.
-    Kariški antpečiai, mediniai kardai, šiaudiniai dir­
-    žai, visoki pasaitai, pentinai, vis išdabinti stučkomis, vis sudaro juo­
-    kingai išdidų vaizdą. Tam panaši ir jų kalba: esą plunksnų pirkliai,
-    perką kur geras plunksnas ir pūkus.
+    Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudinės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medinėmis skiedromis.
   citata_rodoma: "Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudinės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medinėmis skiedromis."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"

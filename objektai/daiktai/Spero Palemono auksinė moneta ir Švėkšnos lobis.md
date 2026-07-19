@@ -9,13 +9,13 @@ datos:
   - '1836 m.'
 date_start: '1814'
 date_end: '1836'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - moneta
   - daiktas
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -101,23 +101,6 @@ Nenurodyta
   pagrindžia:
     - c-177018
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono Juozapo Januškevičiaus sode rasto lobio istorija buvo žinoma vietos gyventojams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
-    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
-    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
-    turėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­
-    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
-    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172533
@@ -146,18 +129,12 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie jį dar esama padavimo, kad jis buvęs gar­
-    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
-    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
-    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
-    keliais milžinkapiais. Pusdievio ir Nemuno vardo panašumas
-    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
-    kas šia upe keliavęs, bus davęs upei savo vardą. Lietuvoje
-    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
-    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
-    navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
-    kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
-    sūnus, iš Petro.
+    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
+    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
+    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
+    turėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­
+    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
+    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
   citata_rodoma: "Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris\nturėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­\nnas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio\nautorius, man rašytame laiške (Raseiniai. -  1836.IV19)*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

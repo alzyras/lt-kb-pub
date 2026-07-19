@@ -7,13 +7,13 @@ datos:
   - '1383 m.'
 date_start: '1383'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -122,6 +122,44 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
 - susijęs iš Tikocinas: Goštautas kartą išvyko į Tikociną Palenkėje, arba Poleksijoje.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184721|Jogaila (kunigaikštis, XIV–XV a.)]]: Sulaukęs paramos iš Livonijos ir Prūsijos, Jogaila su kariuomene traukė iš Vilniaus.
 - susijęs iš Livonija: Jogaila, gavęs paramą iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus.
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Atgavus Poleksiją, didesni rūpesčiai paskatino kariuomenę skubėti į tėvynę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tar­
+    pu Jogaila, užkirtęs, kaip jis manė, kelią vidaus ne­
+    santarvei, nukreipė jėgas prieš išorinį priešą, norėda­
+    mas jį išvyti iš Poleksijos, kurią Jonušas, Mazovijos
+    kunigaikštis, kilus nesutarimams tarp Lietuvos valdo­
+    vų, buvo neseniai atėmęs iš lietuvių. Iš pradžių nuve­
+    dė kariuomenę prie Drohičino; sutikęs čia stiprų pasi­
+    priešinimą, ėmė veržliais ant-
+    Jo g a ila
+    atsiim a
+    iš
+    puoliais
+    kamuoti
+    gynėjus,
+    M a z o v ijo s P o lek siją
+    ypač po to, kai Sašinas, ku­
+    nigaikščio
+    rūmų
+    maršalas,
+    prasiskynė kelią per užpuolėjų eiles ir su šimtine rai­
+    telių, ginkluotų ietimis bei arbaletais, prasiveržė į pilį.
+    Vėliau, kai išdavė kurie ne kurie rusai, kai, iš karto
+    padegus keliose vietose pastatus, gynėjai risidūrė tarp
+    plintančios gaisro ugnies ir smarkiai puolančių įtvir­
+    tinimus lietuvių, narsusis vyras, nebepajėgdamas spir­
+    tis dvigubam pavojui, atidavė Jogailai apdegusią pilį,
+    tai, ko nesunaikino gaisras ir priešas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-168606
@@ -244,33 +282,16 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Tuo tar­
-    pu Jogaila, užkirtęs, kaip jis manė, kelią vidaus ne­
-    santarvei, nukreipė jėgas prieš išorinį priešą, norėda­
-    mas jį išvyti iš Poleksijos, kurią Jonušas, Mazovijos
-    kunigaikštis, kilus nesutarimams tarp Lietuvos valdo­
-    vų, buvo neseniai atėmęs iš lietuvių. Iš pradžių nuve­
-    dė kariuomenę prie Drohičino; sutikęs čia stiprų pasi­
-    priešinimą, ėmė veržliais ant-
-    Jo g a ila
-    atsiim a
-    iš
-    puoliais
-    kamuoti
-    gynėjus,
-    M a z o v ijo s P o lek siją
-    ypač po to, kai Sašinas, ku­
-    nigaikščio
-    rūmų
-    maršalas,
-    prasiskynė kelią per užpuolėjų eiles ir su šimtine rai­
-    telių, ginkluotų ietimis bei arbaletais, prasiveržė į pilį.
-    Vėliau, kai išdavė kurie ne kurie rusai, kai, iš karto
-    padegus keliose vietose pastatus, gynėjai risidūrė tarp
-    plintančios gaisro ugnies ir smarkiai puolančių įtvir­
-    tinimus lietuvių, narsusis vyras, nebepajėgdamas spir­
-    tis dvigubam pavojui, atidavė Jogailai apdegusią pilį,
-    tai, ko nesunaikino gaisras ir priešas.
+    Praėjus kelioms
+    dienoms, pasidavė Suražas, vėliau po staigaus antpuolio
+    275
+
+    ## Puslapis 274
+
+    užėmė Melniką. Kamenecą atėmė iš priešo po as­
+    tuonių apsiausties dienų. Sėkmingai atgavus Poleksi-
+    ją, kur kas didesni rūpesčiai paragino skubėti į tėvy­
+    nę.
   citata_rodoma: "Praėjus kelioms\ndienoms, pasidavė Suražas, vėliau po staigaus antpuolio\n275\n\n## Puslapis 274\n\nužėmė Melniką. Kamenecą atėmė iš priešo po as­\ntuonių apsiausties dienų. Sėkmingai atgavus Poleksi-\nją, kur kas didesni rūpesčiai paragino skubėti į tėvy­\nnę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

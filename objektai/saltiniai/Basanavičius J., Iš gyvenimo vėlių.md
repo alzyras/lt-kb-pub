@@ -10,13 +10,13 @@ datos:
   - '1900 m.'
 date_start: '1344'
 date_end: '1900'
-amziai:
-  - 'XIV'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIV'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -111,22 +111,6 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   pagrindžia:
     - c-61569
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Basanavičiaus veikalo puslapis 182 nurodomas prie Šereitlaukio apylinkėse lokalizuojamos Sareibe pilies aptarimo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1344 m. čia minima  pilis — huse Sareibe
-    (Mortensen G., Beiträge..., p. 33; HGAPW). Per 2 km  į vakarus nuo Šereitlaukio yra
-    apskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint,
-    ryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių...,
-    p. 182; SZM, p. 288—289; Remeika J., Ką kalneliai..., p. 13—14, 88; LAA, 2, p. 162).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61567
@@ -134,16 +118,11 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pasiėmęs
-    su savimi kuriuos ne kuriuos brolius bei ginklanešius, patraukė į kelią; žygiuodamas jis
-    sutiko priešais atskubantį vyrą, kuris jį įspėjo dėl sumanytos išdavystės, tikindamas, kad
-    Sarkis su daugybe karių pakelėje tykojąs jo bei brolių, ketindamas visus išžudyti. Šitai
-    išgirdęs, komtūras, nenorėdamas, kad Sarkis turėtų kokios naudos iš tos nedorybės,
-    apsupo jį, staiga užpuolė ir, kitiems iš baimės išsibėgiojus, pagavo jį patį ir nusivedė
-    drauge su aštuoniais galingesniaisiais skalvių vyrais. Tačiau pačią pirmąją naktį, kai
-    broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais
-    buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius,
-    o kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.
+    1344 m. čia minima  pilis — huse Sareibe
+    (Mortensen G., Beiträge..., p. 33; HGAPW). Per 2 km  į vakarus nuo Šereitlaukio yra
+    apskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint,
+    ryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių...,
+    p. 182; SZM, p. 288—289; Remeika J., Ką kalneliai..., p. 13—14, 88; LAA, 2, p. 162).
   citata_rodoma: "1344 m. čia minima  pilis — huse Sareibe\n(Mortensen G., Beiträge..., p. 33; HGAPW). Per 2 km  į vakarus nuo Šereitlaukio yra\napskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint,\nryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių...,\np. 182; SZM, p. 288—289; Remeika J., Ką kalneliai..., p. 13—14, 88; LAA, 2, p. 162)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

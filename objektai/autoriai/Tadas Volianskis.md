@@ -140,6 +140,29 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   pagrindžia:
     - c-173171
 
+<a id="claim-t-190290"></a>
+- t-009
+  teiginys: "Narbutas informaciją apie užrašą paėmė iš 1844 m. sausio 17 d. Tado Volianskio laiško iš Bidgoščiaus."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bidgoščius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadas Volianskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Bidgoščius: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Volianskis\" parinktas kaip owner_note_path. Targetas \"Bidgoščius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1844 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Kataloginis fragmentas perrašytas į sakinį apie Volianskio laišką kaip informacijos šaltinį. Nepridėtas laiško turinys, nes citata jo neatskleidžia."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173173
+
 <a id="claim-t-190801"></a>
 - t-010
   teiginys: "Tekstas apie Tadą Volianskį buvo parengtas remiantis jo tyrinėjimais ir J. Hamerio monografija."
@@ -308,55 +331,89 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173689
 
 ## Reikšmingi paminėjimai
-- c-010
-  santrauka: 'Tekstas apie Tadą Volianskį buvo parengtas remiantis jo tyrinėjimais ir J. Hamerio monografija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- c-003
+  santrauka: 'Narbutas rašė, kad Tadas Volianskis Santvaro atvaizde matė ragus ir dėl nuogumo laikė jį pragaro dievybe.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Tekstas buvo parengtas remiantis T. Vo-
-    lianskio tyrinėjimais (Tadeusza Wolanskiego
-    listy o starožytnošciach slawianskich. Zbiór
-    pierwszy. Gniezno, 1845. S. 22—23), taip pat
-    jau minėta J. Hamerio monografija.
+    Matomos kojos - nuo pusės blauzdų
+    kaip lazdelės, besibaigiančios rutuliukais. Kairioji ranka re­
+    miasi į ilgą lazdą, stovinčią ant žemės. Dešinioji ranka nuleis­
+    ta žemyn, tarytum rodo pradžią užrašo, einančio ratu iš apa­
+    čios į viršų, pradedant nuo 0.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-011
-  santrauka: 'Teodoras Narbutas Tado Volianskio išvadomis pildė parankinio „Lietuvių tautos istorijos“ egzemplioriaus tomus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    T. Volianskio dėka
-    senoji Lietuvos istorija nušvito naujomis spalvomis. Po­
-    znanės kolekcionieriaus išvadomis istorikas puolė pildyti
-    parankinio LTI egzemplioriaus tomus. Šiandien net sun­
-    ku būtų suskaičiuoti, kiek tokių papildymų buvo padaryta,
-    ir bene daugiausia jų tektų pirmam tomui.
-  citata_rodoma: ''
   statusas: verified
+- c-004
+  santrauka: 'Tadas Volianskis Narbutui atsiuntė Lietuvoje rastos monetos piešinį ir manė ją priklausant lietuviškiems paminklams.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Karys kairiąja ranka stumia žvėrį. Toje
+    rankoje laiko kažką panašaus į skydą, o dešiniąja arba remiasi į
+    žemę, arba siekia ginklo. Už riterio galvos yra ženklas „O“, virš
+    kurio - žvėries letena ir ženklas „I“.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-015
-  santrauka: 'Teodoras Narbutas nurodo, kad Tadas Volianskis runų užrašą skaitė kaip Simeonas (SI-ME-ON).'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    183 /P.
-    329,
-    4
-    pastraipos
-    tęsinys/
-    Užrašą runomis p/onas/ Tad/as/ Volianskis skaito taip: Simeonas
-    (SI-ME-ON).
-    Sakinys, kuriuo T, Narbutas papildė paragrafą, rengdamas antrąjį
-    LTI leidimą (PEĮ. L, 416). Tai informacija iš minėto T. Volianskio
-    laiško (Ten pat).
-  citata_rodoma: ''
   statusas: verified
+- c-005
+  santrauka: 'Narbutas žadėjo trečiame veikalo tome aptarti Tado Volianskio naują Henenbergerio užrašo aiškinimą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    401
+
+    ## Puslapis 401
+
+    c basi Ten kitaip pavaizduotos figūros, ypač rankų pozicijos. Be
+    to, pas Henenbergerį yra užrašas senovės lietuvių kalba (apie
+    naują šio užrašo aiškinimą, padarytą pono Tado Volianskio, bus
+    kalbama šio veikalo trečiame tome). Tinkamai perskaičius, pa­
+    aiškėja, kad tai buvo Lietuvos kunigaikščio Utenio, kuris padėjo
+    prūsams kovoti su kryžiuočiais ir kuris buvo pramintas Zupanit,
+    vėliava.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-190807
+  statusas: verified
+- c-006
+  santrauka: 'Narbutas pagal Volianskio šifruotę runų užrašą siejo su Vaivedučio vardu, bet nežinojo, ar jis skirtas vėliavai, ar herbui.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Žinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­
+    kė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu
+    šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
+    nomas ir Neseckiui.
+    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
+    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
+    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
+    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
+    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
+    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
+    du erelio sparnai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-009
+  santrauka: 'Narbutas informaciją apie užrašą paėmė iš 1844 m. sausio 17 d. Tado Volianskio laiško iš Bidgoščiaus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Turimas
+    omenyje lenkų filologo Andriaus Kucharskio
+    (1795-1862) straipsnis: Kncharski A. O dyalektach
+    Slawianskich i o języku Sanskryckim // Dziennik Wi-
+    lenski. - 1825. - T. I. - S. 17-34.
+    P. 446* - Tekstas, kuriuo autorius papildė paragrafą, reng­
+    damas antrąjį leidimą (PEĮ.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -401,11 +458,9 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Matomos kojos - nuo pusės blauzdų
-    kaip lazdelės, besibaigiančios rutuliukais. Kairioji ranka re­
-    miasi į ilgą lazdą, stovinčią ant žemės. Dešinioji ranka nuleis­
-    ta žemyn, tarytum rodo pradžią užrašo, einančio ratu iš apa­
-    čios į viršų, pradedant nuo 0.
+    Ponas Tadas Volianskis mato tą galvą su ragais, kurie iš užpakalio
+    panašūs į erelį su nagais. Be to, dievas yra nuogas, taigi Santvaras yra
+    pragaro dievybė. Mes gi matome ne ragus, bet saulės spindulius.
   citata_rodoma: "Ponas Tadas Volianskis mato tą galvą su ragais, kurie iš užpakalio\npanašūs į erelį su nagais. Be to, dievas yra nuogas, taigi Santvaras yra\npragaro dievybė. Mes gi matome ne ragus, bet saulės spindulius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -420,10 +475,9 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Karys kairiąja ranka stumia žvėrį. Toje
-    rankoje laiko kažką panašaus į skydą, o dešiniąja arba remiasi į
-    žemę, arba siekia ginklo. Už riterio galvos yra ženklas „O“, virš
-    kurio - žvėries letena ir ženklas „I“.
+    Panašios monetos piešinį man atsiuntė ponas Tadas Volianskis.
+    Ji buvo rasta Lietuvoje ir, jo nuomone, priklauso lietuviškiems
+    paminklams. Si moneta yra senesnė už mūsų turimą.
   citata_rodoma: "Panašios monetos piešinį man atsiuntė ponas Tadas Volianskis.\nJi buvo rasta Lietuvoje ir, jo nuomone, priklauso lietuviškiems\npaminklams. Si moneta yra senesnė už mūsų turimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -436,17 +490,12 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­
-    kė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu
-    šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
-    nomas ir Neseckiui.
-    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
-    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
-    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
-    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
-    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
-    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
-    du erelio sparnai.
+    Tačiau nežinome, iš kokio šaltinio yra
+    tas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio
+    vardą (pono Volianskio šijruotė), tačiau negalime tiksliai pasa­
+    kyti, kam jis buvo skirtas -  vėliavai ar herbui, nes jis užrašytas
+    tarp vėliavos ir herbo. Mes dėl vietos stokos jį užrašėme ant pa­
+    čios vėliavos.
   citata_rodoma: "Tačiau nežinome, iš kokio šaltinio yra\ntas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio\nvardą (pono Volianskio šijruotė), tačiau negalime tiksliai pasa­\nkyti, kam jis buvo skirtas -  vėliavai ar herbui, nes jis užrašytas\ntarp vėliavos ir herbo. Mes dėl vietos stokos jį užrašėme ant pa­\nčios vėliavos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -499,38 +548,28 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Turimas
-    omenyje lenkų filologo Andriaus Kucharskio
-    (1795-1862) straipsnis: Kncharski A. O dyalektach
-    Slawianskich i o języku Sanskryckim // Dziennik Wi-
-    lenski. - 1825. - T. I. - S. 17-34.
-    P. 446* - Tekstas, kuriuo autorius papildė paragrafą, reng­
-    damas antrąjį leidimą (PEĮ.
+    Informaciją apie užrašą T. Narbutas paėmė iš mi­
+    nėto T. Volianskio laiško (Bidgoščius. 1844. I.
+    17(29). T. Volianskis T. Narbutui. -  P. 14).
   citata_rodoma: "Informaciją apie užrašą T. Narbutas paėmė iš mi­\nnėto T. Volianskio laiško (Bidgoščius. 1844. I.\n17(29). T. Volianskis T. Narbutui. -  P. 14)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
 - id: c-173683
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    p. 115*— T. Narbuto pataisa antrajam leidimui vietoje
-    „skitų“ (scytyjskiego) (PE. P. 167). Pataisa,
-    be jokios abejonės, padaryta atsižvelgiant į P.
-    Safaržyko tyrinėjimus.
-    p. 117* — T. Narbutas, rengdamas antrąjį leidimą, pa­
-    pildė paragrafą nauju tekstu vietoj sakinio:
-    „Naujų laikų istorikai sutaria, jog jotvingių
-    gyvenamoji vietovė prieš išsikėlirną prie Bugo
-    buvusi Dunojaus ir Tisos tarpupyje“ (Dziejo-
-    pisowie nowoczesni zgadzają się na to, že
-    Jadzwingów siedlisko bylo między Dunajem i
-    Tyssą rzekami, przed przyjšciem nad Bug)
-    (PE.
+    Tekstas buvo parengtas remiantis T. Vo-
+    lianskio tyrinėjimais (Tadeusza Wolanskiego
+    listy o starožytnošciach slawianskich. Zbiór
+    pierwszy. Gniezno, 1845. S. 22—23), taip pat
+    jau minėta J. Hamerio monografija.
   citata_rodoma: "Tekstas buvo parengtas remiantis T. Vo-\nlianskio tyrinėjimais (Tadeusza Wolanskiego\nlisty o starožytnošciach slawianskich. Zbiór\npierwszy. Gniezno, 1845. S. 22—23), taip pat\njau minėta J. Hamerio monografija."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -545,18 +584,12 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Poznanės kolekcionierius ypač ža­
-    vėjosi Karališkojo Danijos lobyno rinkiniais, kurių dau­
-    guma jau buvo publikuota. Skandinaviškose monetose bei
-    ten pat saugomuose auksiniuose pakabučiuose pavaizduo­
-    tas figūras bei užrašus T. Volianskis ir bandė perskai­
-    tyti, anot paties T. Narbuto, padarydamas tai, ko nega­
-    lėjo niekas padaryti jau daugiau kaip pusšimtį metų.
-    Lietuvos istoriko negalėjo nesuintriguoti detalus, parem­
-    tas didele erudicija ir kalbų mokėjimu aiškinimas, čia pat
-    iliustruotas įdomiais piešiniais; juolab kad numizmato
-    išvados būdavo tiesiog stulbinančios ir dažnai patvirti­
-    nančios paties T. Narbuto hipotezes.
+    T. Volianskio dėka
+    senoji Lietuvos istorija nušvito naujomis spalvomis. Po­
+    znanės kolekcionieriaus išvadomis istorikas puolė pildyti
+    parankinio LTI egzemplioriaus tomus. Šiandien net sun­
+    ku būtų suskaičiuoti, kiek tokių papildymų buvo padaryta,
+    ir bene daugiausia jų tektų pirmam tomui.
   citata_rodoma: "T. Volianskio dėka\nsenoji Lietuvos istorija nušvito naujomis spalvomis. Po­\nznanės kolekcionieriaus išvadomis istorikas puolė pildyti\nparankinio LTI egzemplioriaus tomus. Šiandien net sun­\nku būtų suskaičiuoti, kiek tokių papildymų buvo padaryta,\nir bene daugiausia jų tektų pirmam tomui."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -648,17 +681,16 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    70 Malachovskis savo bajoriškų pavardžių rinkinyje (neaišku,
-    kokiu šaltiniu remdamasis) pateikė žinių apie tai, kaip Gediminas
-    suteikė herbą Krunevičiui. Neseckiui šis herbas, pavadintas Kru-
-    nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
-    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
-    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
-    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
-    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
-    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
-    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
-    erelio sparnai.
+    183 /P.
+    329,
+    4
+    pastraipos
+    tęsinys/
+    Užrašą runomis p/onas/ Tad/as/ Volianskis skaito taip: Simeonas
+    (SI-ME-ON).
+    Sakinys, kuriuo T, Narbutas papildė paragrafą, rengdamas antrąjį
+    LTI leidimą (PEĮ. L, 416). Tai informacija iš minėto T. Volianskio
+    laiško (Ten pat).
   citata_rodoma: "183 /P.\n329,\n4\npastraipos\ntęsinys/\nUžrašą runomis p/onas/ Tad/as/ Volianskis skaito taip: Simeonas\n(SI-ME-ON).\nSakinys, kuriuo T, Narbutas papildė paragrafą, rengdamas antrąjį\nLTI leidimą (PEĮ. L, 416). Tai informacija iš minėto T. Volianskio\nlaiško (Ten pat)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

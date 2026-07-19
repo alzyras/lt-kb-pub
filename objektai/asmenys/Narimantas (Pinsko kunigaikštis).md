@@ -10,16 +10,16 @@ datos:
   - '1348 m.'
 date_start: '1268'
 date_end: '1348'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
-amziai:
-  - 'XIII'
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/5/53/Narymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ANarymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg'
@@ -182,6 +182,30 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184687|Daumantas (kunigaikštis, XV a.)]]: Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją.
 ## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jeigu jis vienas, remdamasis
+    aukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų
+    galėję skatinti brolių ir valdinių nepasitenkinimą. Mat
+    valdovų potvarkiais dažniausiai skundžiamasi pasikliau­
+    jant asmeniškomis nuotaikomis, ir be vargo atsiranda,
+    kas klausosi šitokių skundų; tarybos nutarimų ne taip
+    greitai linkstama apšnekėti ir įtarinėti, tarsi jie būtų
+    neabejotinai visuomenei naudingi ir neliečiami. Be abe­
+    jo, galima buvo plačias žemes išdalyti kaip tėvoniją
+    kitiems kunigaikščiams, tačiau dėl priešų artumo Na­
+    rimantas nenorėjo stiprinti jų valdžios, kad jie, pasi­
+    davę užgaidoms, nesusima-
+    T ė v o n ija
+    išd a lija m a
+    nytų atsiskirti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-005
   santrauka: 'Leidinio pastaboje Narimanto vardas siejamas su Lietuvos metraščių sąrašu, kuriame išvardijami Gedimino sūnūs, ir nurodoma, kad Gedimino sūnus Narimantas gyveno 1277-1348 m.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -198,6 +222,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+
 ## Citatos
 
 - id: c-169434
@@ -279,21 +304,15 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Jeigu jis vienas, remdamasis
+    Narimantas nenorėjo
+    taip spręsti valstybės reikalų, kad broliai galėtų jam
+    prikaišioti, jog sprendžia perdaug griežtai: dėl savo
+    sprendimo jis nenorėjo vienas pats susilaukti visuo­
+    tinės neapykantos. Todėl jis nieko neveikė savo valia,
+    be tarybos, pasiryžęs, gausių tarėjų paremiamas, švel­
+    ninti savo sprendimus. Jeigu jis vienas, remdamasis
     aukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų
-    galėję skatinti brolių ir valdinių nepasitenkinimą. Mat
-    valdovų potvarkiais dažniausiai skundžiamasi pasikliau­
-    jant asmeniškomis nuotaikomis, ir be vargo atsiranda,
-    kas klausosi šitokių skundų; tarybos nutarimų ne taip
-    greitai linkstama apšnekėti ir įtarinėti, tarsi jie būtų
-    neabejotinai visuomenei naudingi ir neliečiami. Be abe­
-    jo, galima buvo plačias žemes išdalyti kaip tėvoniją
-    kitiems kunigaikščiams, tačiau dėl priešų artumo Na­
-    rimantas nenorėjo stiprinti jų valdžios, kad jie, pasi­
-    davę užgaidoms, nesusima-
-    T ė v o n ija
-    išd a lija m a
-    nytų atsiskirti.
+    galėję skatinti brolių ir valdinių nepasitenkinimą.
   citata_rodoma: "Narimantas nenorėjo\ntaip spręsti valstybės reikalų, kad broliai galėtų jam\nprikaišioti, jog sprendžia perdaug griežtai: dėl savo\nsprendimo jis nenorėjo vienas pats susilaukti visuo­\ntinės neapykantos. Todėl jis nieko neveikė savo valia,\nbe tarybos, pasiryžęs, gausių tarėjų paremiamas, švel­\nninti savo sprendimus. Jeigu jis vienas, remdamasis\naukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų\ngalėję skatinti brolių ir valdinių nepasitenkinimą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

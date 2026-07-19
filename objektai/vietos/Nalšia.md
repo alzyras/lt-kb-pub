@@ -82,23 +82,6 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
 - susijęs iš P. Johansen, Eine Riga-Wisby-Urkunde des 13. Jahrhunderts: P. Johanseno „Eine Riga-Wisby-Urkunde des 13. Jahrhunderts“ paskelbta 1958 m. leidinio „Zeitschr. des Vereins für Lübekische Geschichte und Altertumskunde“ 38 tome, p. 99-107.
 - susijęs iš Z. Ivinskis, Suksė: Z. Ivinskio „Suksė“ 1963 m. nurodyta „Lietuvių enciklopedijos“ XXIX tome, 179 puslapyje.
 - susijęs iš Durbė: 1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O jos sesuo buvo ištekėjusi už
-    Daumanto, už Nalšios kunigaikščiol0 . Ir Mindaugas
-    pasiuntė kvieslius į Nalšią pas savo svainę, tarydamas:
-    „Numirė tavo sesuo; atvažiuok savo sesers apraudoti."
-    O kai ji atvažiavo gedėti, Mindaugas užsimanė ves­
-    ti savo svainę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-168690
@@ -134,7 +117,7 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O jos sesuo buvo ištekėjusi už
-    Daumanto, už Nalšios kunigaikščiol0. Ir Mindaugas
+    Daumanto, už Nalšios kunigaikščiol0 . Ir Mindaugas
     pasiuntė kvieslius į Nalšią pas savo svainę, tarydamas:
     „Numirė tavo sesuo; atvažiuok savo sesers apraudoti."
     O kai ji atvažiavo gedėti, Mindaugas užsimanė ves­

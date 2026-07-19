@@ -163,19 +163,14 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolį Liudviką, septintą Prūsijos žemės magistrą
-    Brolis Liudvikas iš Baldensheimo, septintas Prūsijos magistras, vadovavo nuo
-    1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš
-    Holdenštetės397.
-    125 (120). Apie daugybės maldininkų atvykimą
-    Kai Vokietijos žemėse pasklido gandai apie minėtųjų pilių sunaikinimą, subruzdo
-    karaliai bei kunigaikščiai ir, nenorėdami, kad visiškai sunyktų Prūsijoje dievo bažnyčia,
-    kurią diegiant taip gausiai buvo liejamas krikščionių kraujas, o manydami, kad dėl jų
-    malonaus atvykimo ji deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių
-    ir gausybės karių, gelbėti šios žemės ir tramdyti prūsų sukilimo: 1265 viešpaties
-    metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo
-    markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos
-    karalius398.
+    123 (118). Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
+
+       Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
+    į Kulmo žemę  ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę
+    kitokio turto, kurį išsigabeno su savimi, sudegino visus pastatus, esančius už įtvirtinimų
+    [sienų], o visą šią žemę užliejo raudonu krikščionių krauju. Kai apie tai išgirdo magistras
+    brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos
+    žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė.
   citata_rodoma: "123 (118). Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį\n\n   Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė\nį Kulmo žemę  ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę\nkitokio turto, kurį išsigabeno su savimi, sudegino visus pastatus, esančius už įtvirtinimų\n[sienų], o visą šią žemę užliejo raudonu krikščionių krauju. Kai apie tai išgirdo magistras\nbrolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos\nžemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

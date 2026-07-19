@@ -103,16 +103,10 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Štai koks nuostabus, štai koks nepaprastas įvykis: moteriškos
-    vilionės palaužė stiprųjį Samsoną, šventąjį Dovydą, išmintingąjį Saliamoną, tuo tarpu
-    šis vyras, laisva valia apkabinęs savo bendrę, nugalėjo ir pakilo į dorybės viršūnes. Negi
-    jis ne stipresnis už Samsoną, ne šventesnis už Dovydą, ne išmintingesnis už Saliamoną?
-    Nemažindami aniems deramos pagarbos, šiuo atveju galime tvirtai sakyti: taip.
-    237 (230). Apie Sembos žemės nusiaubimą
-    Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į
-    Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,
-    o grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė
-    į žygį.
+    Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo
+    susigėdęs atstojo ir nebedrįso daugiau rodytis.
+
+    234 (227).
   citata_rodoma: "Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo\nsusigėdęs atstojo ir nebedrįso daugiau rodytis.\n\n234 (227)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

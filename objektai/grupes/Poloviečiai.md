@@ -9,13 +9,13 @@ datos:
   - '1127 m.'
 date_start: '1101'
 date_end: '1127'
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - grupe
-amziai:
-  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -190,6 +190,43 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 - susijęs iš Volga: Narbutas pasakoja, kad po kelių pralaimėjimų poloviečiai apie 1127 m. buvo priversti pasitraukti už Volgos.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-190974|Sventopelkas]]: Teodoras Narbutas aiškino, kad Giurgevo tvirtovė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė taiką.
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-190688|Albertas Vijūkas-Kojalavičius]]: Kojalavičius, Narbuto perteikimu, teigė, kad poloviečiai turėjo lietuvių kalbą, ir rėmėsi pasakojimu apie Mamajaus sugriautą Beloserką.
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Paėmė jie daug miestų ir pargrįžo namo l3.
+    O paskui atsiuntė žinią Vykintas, pranešdamas, kad
+    vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
+    siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
+    čius, ir jie ilgai kariavo vieni su kitais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Karamzinas Nestoro žodžius apie poloviečius siejo su jų veiksmais dešiniajame Dnepro krante prie Jurjevo ir Rosės upės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tatiščevas**, gal geriau žinojęs šiuos
+    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
+    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
+    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
+    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
+    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
+    vės upę Ros. Topografiniuose prisiminimuose, apie ku­
+    riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
+    aprašome: nuo Oskolo miestelio, esančio prie to paties
+    1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida. S.
+    231). Oskolok, oskoloczok dar rusiškai reiškia drožlę, skiedrą, pliaus­
+    ką, medžio atplaišą (Slownik Ross.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-170712
@@ -197,7 +234,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Paėmė jie daug miestų ir pargrįžo namo l3.
+    Paėmė jie daug miestų ir pargrįžo namo l3 .
     O paskui atsiuntė žinią Vykintas, pranešdamas, kad
     vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
@@ -241,18 +278,17 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tatiščevas**, gal geriau žinojęs šiuos
-    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
-    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
-    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
-    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
-    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
-    vės upę Ros. Topografiniuose prisiminimuose, apie ku­
-    riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
-    aprašome: nuo Oskolo miestelio, esančio prie to paties
-    1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida. S.
-    231). Oskolok, oskoloczok dar rusiškai reiškia drožlę, skiedrą, pliaus­
-    ką, medžio atplaišą (Slownik Ross.
+    Ka­
+    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
+    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
+    toro žodžius priskiria poloviečių veiksmams dešiniojoje
+    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
+    statytas XII amžiaus pradžioje po to, kai jį sunaikino
+    poloviečiai. Tačiau jis prieštarauja sau ir savo tiksliai
+    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
+    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
+    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
+    riojoje Dnepro pakrantėje, į rytus nuo jo.
   citata_rodoma: "Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai. Tačiau jis prieštarauja sau ir savo tiksliai\nišdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­\nmai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­\nimti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­\nriojoje Dnepro pakrantėje, į rytus nuo jo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

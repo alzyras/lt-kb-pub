@@ -7,12 +7,12 @@ datos:
   - '1967 m.'
 date_start: '1967'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,39 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad stepinš P.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'P. Stepinšo „Durbės kauja“ išleista Rygoje 1967 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Stepinš P. Durbės kauja.— Rīga, 1967.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61930
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    — Балто-
-    славянские этноязыковые отношения в историческом и ареальном плане: Тезисы
-    докладов, М, 1983 с. 69.
-    Валиконите И. Социально-экономическое и правовое положение женщин в ВКЛ
-    (конец XV — первая пол.
-  citata_rodoma: "Stepinš P. Durbės kauja.— Rīga, 1967."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -85,3 +52,20 @@ Dusburgietis teigia, kad stepinš P.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61930
+
+## Citatos
+
+- id: c-61930
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Stepinš P. Durbės kauja.— Rīga, 1967.
+  citata_rodoma: "Stepinš P. Durbės kauja.— Rīga, 1967."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

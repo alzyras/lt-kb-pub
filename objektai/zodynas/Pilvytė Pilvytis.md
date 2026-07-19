@@ -55,23 +55,6 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
   pagrindžia:
     - c-172058
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas Pilvytę laikė originaliu lietuvišku pavadinimu ir aiškino jį per žodį Pilwis, reiškiantį storulį arba perkeltine prasme turtuolį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
-    rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,
-    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę. Šioje
-    lietuvių deivėje susiliejo Plutono ir Fortūnos bruožai, todėl ji
-    galėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­
-    riškos giminės Pilvyte (Pilwite).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172057
@@ -101,15 +84,12 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ją tebežino lietu­
-    viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
-    Anot visų tyrimų, šios deivės ypatybės buvo perimtos iš
-    skandinavų, kurie ją vadino Frėja; ji buvo jūrų ir ugnies dievo,
-    žemiškos laimės, turtų, sostų dalintojo Niordo duktė, o pati
-    buvo laisvės, nepriklausomybės, malonumų, meilės poezijos mo­
-    tina *. Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­
-    dalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas
-    murgais (murgi).
+    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
+    rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,
+    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę. Šioje
+    lietuvių deivėje susiliejo Plutono ir Fortūnos bruožai, todėl ji
+    galėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­
+    riškos giminės Pilvyte (Pilwite).
   citata_rodoma: "Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­\nrųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,\nkaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę. Šioje\nlietuvių deivėje susiliejo Plutono ir Fortūnos bruožai, todėl ji\ngalėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­\nriškos giminės Pilvyte (Pilwite)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

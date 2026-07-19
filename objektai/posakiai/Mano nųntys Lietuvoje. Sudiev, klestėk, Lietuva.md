@@ -48,18 +48,6 @@ Nekrologiniame pasakojime ši formuluotė pateikiama kaip paskutiniai prof. Niem
 
 Atsisveikinimo formulė, tiesiogiai susieta su Lietuva.
 
-## Teiginiai
-
-<a id="claim-t-195410"></a>
-- t-001
-  teiginys: "Prof. Niemio paskutiniai žodžiai užrašyti kaip atsisveikinimo formulė apie Lietuvą."
-  atnaujinta: "2026-07-12 02:45"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177831
-
 ## Citatos
 
 - id: c-177831
@@ -85,5 +73,3 @@ Atsisveikinimo formulė, tiesiogiai susieta su Lietuva.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -148,43 +148,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     - c-159312
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas
-    — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas
-    dovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes,
-    kurias ateityje Ordinas atkovosiąs iš pagonių. Tačiau pirmasis Konrado užrašymas Ordinui
-    1228 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgiečio šaltinis
-    — Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos
-    seką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda —
-    Baiga (SRP, 5, p. 160; PKD, p. 37).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-007
   santrauka: 'Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -207,13 +170,8 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    55 (54). Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
-    jos [vyrų]
-    Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems
-    jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės
-    kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
-    pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
-    kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
+    292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas
+    — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.
   citata_rodoma: "292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas\n— tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -289,13 +247,10 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie pirmąsias derybas tarp Konrado ir kryžiuočių dėl šių įsikūrimo prie Vyslos kalba
-    imperatoriaus Fridricho II 1226 m. kovo mėn. privilegija („Aukso bulė“), kurioje minima
-    Kulmo bei gretima žemė (Nešavos?), taip pat žemės, kurios būsiančios užkariautos
-    Prūsijoje (PUB, 1, 1, Nr. 56). Panašiai teigia Krušvicos falsifikatas (1230 m. Konrado
-    dokumentas, kurio aprašas išlikęs 1234 m. popiežiaus kanceliarijos registre; manoma,
-    kad jis kryžiuočių sufalsifikuotas 1234 m.,— PUB, 1, 1, Nr. 78) bei juo paremta 1234 m.
-    popiežiaus bulė (PUB, 1, 1, Nr. 108).
+    172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas
+    dovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes,
+    kurias ateityje Ordinas atkovosiąs iš pagonių. Tačiau pirmasis Konrado užrašymas Ordinui
+    1228 m.
   citata_rodoma: "172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas\ndovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes,\nkurias ateityje Ordinas atkovosiąs iš pagonių. Tačiau pirmasis Konrado užrašymas Ordinui\n1228 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -310,18 +265,10 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    60 (59). Apie įvairias Sventopelko derybas ir sutartis
-    Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš
-    Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė:
-    „Esu pasirengęs paisyti teisingumo ir vykdyti visa, ką įsakys broliai, jeigu jie man
-    sugrąžins sūnų, kurį esu jiems davęs kaip įkaitą“. Valdovas Henrikas, turėdamas galvoje,
-    kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu
-    negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei
-    broliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,
-    su kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o
-    tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
-    vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas į amžiną vergovę,
-    todėl ne teisingumo ieškoki, bet pasigailėjimo“.
+    Dusburgiečio šaltinis
+    — Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos
+    seką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda —
+    Baiga (SRP, 5, p. 160; PKD, p. 37).
   citata_rodoma: "Dusburgiečio šaltinis\n— Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos\nseką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda —\nBaiga (SRP, 5, p. 160; PKD, p. 37)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -334,15 +281,11 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti į vienuolyną, ir šis pasiuntė į
-    Torunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko,
-    kas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių; neilgai
-    trukus pats atvykęs, buvo priimtas su didele pagarba, apsivilko Teutonų namų ordino
-    vienuolio apsiaustą, o brolius išgelbėjo nuo didelio vargo.
-    53 (52). Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
-    Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
-    Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
-    Višogrudo pilies291 ir ten įsikūrė stovyklą.
+    Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną
+
+      288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
+    5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
+    pilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams.
   citata_rodoma: "Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną\n\n  288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,\n5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino\npilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

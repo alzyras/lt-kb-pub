@@ -104,6 +104,28 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   santrauka: 'Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs ligą, kuri vasarą pražudė kitus jo bendrakeleivius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
+    Apie keliautoją Divonį ponas Tadas Volianskis paliko mums
+    tokius aprašymus: „Tai, ką vyskupas Kristijonas perpasakoja iš Ploc-
+    ko kanauninko Jaroslavo kronikos apie Bitinijos keliauninką Dimonas,
+    bent jau aš nemanau esant pasaka. Visų pirma apie vardą. Hartknochas
+    jį vadina Divanes, in genetivo: Divanis. Foigtas (t. 1, p. 32) vadina jį
+    Divones, o 623 puslapyje — kitaip, t. y. Dimones, Dimonis, Dywones.
+    Gruna'u (mano rankraštyje II traktato I skyrius) vieną kartą jį įvar­
+    dija Dymoynis, o kitą kartą — Dymoniys, kitur Dybonis, o dar kitur
+    Dyvaonys, paskutinį kartą Dymonis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-174021
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
     Vyrai turi po tris žmonas, bendrauja su jo­
     mis kada ir kur nori nesigėdydami pašalinių, nes tokiuose
     dalykuose jie neturi gėdos, bendrauja su žmonomis bend­
@@ -118,28 +140,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     nes juos tame krašte užklupo labai sunki žiema; čia jiems
     reikėjo žiemoti. Kai atėjo vasara, visi susirgo ir išmirė,
     išskyrus vieną, vardu Divonis1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174021
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Apie keliautoją Divonį ponas Tadas Volianskis paliko mums
-    tokius aprašymus: „Tai, ką vyskupas Kristijonas perpasakoja iš Ploc-
-    ko kanauninko Jaroslavo kronikos apie Bitinijos keliauninką Dimonas,
-    bent jau aš nemanau esant pasaka. Visų pirma apie vardą. Hartknochas
-    jį vadina Divanes, in genetivo: Divanis. Foigtas (t. 1, p. 32) vadina jį
-    Divones, o 623 puslapyje — kitaip, t. y. Dimones, Dimonis, Dywones.
-    Gruna'u (mano rankraštyje II traktato I skyrius) vieną kartą jį įvar­
-    dija Dymoynis, o kitą kartą — Dymoniys, kitur Dybonis, o dar kitur
-    Dyvaonys, paskutinį kartą Dymonis.
   citata_rodoma: "Vyrai turi po tris žmonas, bendrauja su jo­\nmis kada ir kur nori nesigėdydami pašalinių, nes tokiuose\ndalykuose jie neturi gėdos, bendrauja su žmonomis bend­\nrai ir pakaitomis; ten, kur yra vyras, turi būti ir žmona,\nir, nors daug turi moterų, vaikų augina mažai.\n171\n\n## Puslapis 169\n\n172\nBitinijos keliautojai turėjo daug laiko visa tai sužinoti,\nnes juos tame krašte užklupo labai sunki žiema; čia jiems\nreikėjo žiemoti. Kai atėjo vasara, visi susirgo ir išmirė,\nišskyrus vieną, vardu Divonis1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

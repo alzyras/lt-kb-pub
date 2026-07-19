@@ -67,7 +67,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180065"></a>
 - t-064
   teiginys: "Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -142,7 +142,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180069"></a>
 - t-086
   teiginys: "1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Didžioji Britanija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -234,7 +234,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180074"></a>
 - t-082
   teiginys: "LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -271,7 +271,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180076"></a>
 - t-062
   teiginys: "1918 m. vasario 16 d. Taryba Vilniuje paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -348,7 +348,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180081"></a>
 - t-076
   teiginys: "1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> SSRS: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -425,7 +425,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180085"></a>
 - t-055
   teiginys: "1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopino paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią Lenkijos ir Lietuvos valstybę."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -519,7 +519,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180092"></a>
 - t-060
   teiginys: "XX a. Lietuva apsisprendė atkurti valstybę etnografiniu principu kaip lietuviškai kalbančią Lietuvą."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -619,7 +619,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180097"></a>
 - t-036
   teiginys: "Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.71"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -633,7 +633,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - c-163818
     - c-181970
-    - c-163722
 
 <a id="claim-t-180098"></a>
 - t-101
@@ -716,7 +715,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180103"></a>
 - t-050
   teiginys: "Ir šiandien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pavadinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK po Liublino unijos)."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -806,7 +805,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180110"></a>
 - t-070
   teiginys: "1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -918,7 +917,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180120"></a>
 - t-049
   teiginys: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -991,7 +990,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180126"></a>
 - t-067
   teiginys: "1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1052,7 +1051,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180130"></a>
 - t-030
   teiginys: "Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1092,7 +1091,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180132"></a>
 - t-037
   teiginys: "Iki Jogailos tapimo Lenkijos karaliumi 1386 m. Lietuva gali būti vadinama savotiška arba nesistemine karalyste."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1108,9 +1107,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - c-163771
     - c-163772
-    - c-163795
-    - c-181929
-    - c-182058
 
 <a id="claim-t-180135"></a>
 - t-038
@@ -1200,7 +1196,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180141"></a>
 - t-071
   teiginys: "Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1220,7 +1216,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180142"></a>
 - t-084
   teiginys: "Lietuvos nepriklausomybės atkūrimo tikslas skatino vienytis lietuvių diplomatus ir išeiviją."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1239,7 +1235,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180143"></a>
 - t-053
   teiginys: "Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Austrija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1261,7 +1257,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180144"></a>
 - t-031
   teiginys: "Modernioji Lietuvos vardo samprata vis labiau siejo Lietuvą su lietuvių kalbos vartojimu."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1281,7 +1277,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180145"></a>
 - t-042
   teiginys: "Vytautas kovojo ne su Vakarais, o dėl Lietuvos vietos Vakaruose ir padėjo pagrindus Lietuvos tapsmui Europos dalimi."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1294,8 +1290,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - c-163802
     - c-181922
-    - c-163726
-    - c-182002
 
 <a id="claim-t-180146"></a>
 - t-081
@@ -1502,7 +1496,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180160"></a>
 - t-077
   teiginys: "1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos politinius kalinius paskubomis išgabeno iš Lietuvos."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1516,16 +1510,14 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-163809
     - c-163827
     - c-181968
-    - c-182054
     - c-182071
 
 <a id="claim-t-180162"></a>
 - t-027
   teiginys: "Lietuvoje yra geografinis Europos centras, kurį Prancūzijos nacionalinis geografijos institutas lokalizavo 25 km į šiaurę nuo Vilniaus."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1537,16 +1529,14 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163768
-    - c-163754
     - c-163793
-    - c-181953
     - c-182003
     - c-182053
 
 <a id="claim-t-180163"></a>
 - t-073
   teiginys: "1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamai demokratinį valdymą ir įjungė jas į SSRS."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Latvija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1601,7 +1591,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180169"></a>
 - t-085
   teiginys: "Sąjūdis įvykdė rinkimų programos dalį, susijusią su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1624,7 +1614,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180170"></a>
 - t-075
   teiginys: "Okupantų paskirto Liaudies seimo nutarimai panaikinti Lietuvos valstybingumą ir prašytis į SSRS buvo neteisėti."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1639,11 +1629,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra iliustracijos antraštės triukšmas."
   pagrindžia:
     - c-163789
+    - c-163757
+    - c-181984
 
 <a id="claim-t-180171"></a>
 - t-083
   teiginys: "Lietuvos diplomatai padėjo išlaikyti okupuotos Lietuvos politinį atminimą tarptautinėje sąmonėje."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> primus inter pares: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1659,12 +1651,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - c-163754
     - c-181953
-    - c-163755
     - c-163795
     - c-181929
-    - c-182055
     - c-182058
-    - c-182087
 
 <a id="claim-t-180172"></a>
 - t-107
@@ -1744,7 +1733,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180179"></a>
 - t-078
   teiginys: "Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1765,7 +1754,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180180"></a>
 - t-057
   teiginys: "Suvažiavimas priėmė rezoliuciją, kurioje reikalauta suteikti Lietuvai politinę autonomiją ir Vilniuje rinkti Seimą visuotiniu balsavimu."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1837,7 +1826,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180186"></a>
 - t-066
   teiginys: "Steigiamojo Seimo rinkimai Vilnijoje ir Mažojoje Lietuvoje nevyko, nes Lietuva tų teritorijų nekontroliavo."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1912,7 +1901,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180193"></a>
 - t-043
   teiginys: "Vytauto politika pašalino didžiuosius pavojus Lietuvos valstybei, įteisino jos egzistenciją ir padėjo jai pritapti Europoje."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1947,7 +1936,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180198"></a>
 - t-065
   teiginys: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antantė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1966,11 +1955,14 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     - c-181964
     - c-182025
     - c-182066
+    - c-163730
+    - c-181926
+    - c-181940
 
 <a id="claim-t-180199"></a>
 - t-074
   teiginys: "1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Estija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1991,7 +1983,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180200"></a>
 - t-088
   teiginys: "Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2174,15 +2166,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-185016"></a>
 - t-155
   teiginys: "Karalius lapkritį grįžo į Krokuvą ir leido Augustui vykti į Lietuvą."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168369
-    - c-168370
     - c-178854
     - c-178855
 
@@ -2248,7 +2238,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-187596"></a>
 - t-128
   teiginys: "Aleksandras pasiuntė į Maskvą pasiuntinius parvežti didžiosios kunigaikštytės Elenos į Lietuvą."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2269,7 +2259,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192688"></a>
 - t-159
   teiginys: "Teodoras Narbutas Lietuvos susijungimą su Lenkija vertino kaip savanorišką nepriklausomybės atsisakymą ir niokojančių karų priežastį."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2290,7 +2280,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192689"></a>
 - t-160
   teiginys: "Narbutas estų žodį Litalain siejo su Lietuva ir Ukmergės apskritimi, aiškindamas lietuvių bei kuršių ankstyvą gyvenimą jų žemėse."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2311,7 +2301,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192690"></a>
 - t-161
   teiginys: "Teodoras Narbutas lietuvių kalbą kildino iš pelazgų kalbos šakos kartu su graikų ir lotynų kalbomis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2332,7 +2322,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192691"></a>
 - t-162
   teiginys: "Narbutas Nestorą laikė pirmuoju jam žinomu istoriku, paminėjusiu Lietuvą apie 860 metus ar kiek vėliau."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2353,7 +2343,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192693"></a>
 - t-164
   teiginys: "Tadas Voliankis Narbutui atsiuntė Lietuvoje rastos monetos piešinį ir manė, kad ji priklauso lietuviškiems paminklams."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2374,7 +2364,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192694"></a>
 - t-165
   teiginys: "Narbutas rašo, kad XVI a. teismuose nuosprendžiai būdavo sakomi lietuviškai, o į knygas įrašomi rusiškai, lotyniškai arba lenkiškai."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2408,7 +2398,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-193645"></a>
 - t-170
   teiginys: "Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2422,7 +2412,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-193774"></a>
 - t-171
   teiginys: "Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2436,7 +2426,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-193775"></a>
 - t-172
   teiginys: "PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2450,7 +2440,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-194255"></a>
 - t-174
   teiginys: "Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose, gedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė į pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė ir apsaugojo."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2555,7 +2545,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-196885"></a>
 - t-184
   teiginys: "Leidinio aiškinime tolimesnioji Lietuvos istorija Platesniajame sąvade dėstoma pagal XV a. pabaigos Trumpojo sąvado antrąją redakciją."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2569,7 +2559,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-196886"></a>
 - t-185
   teiginys: "Grįždamas iš Braclavo didysis kunigaikštis Aleksandras Trakuose aplankė sergantį Petrą Jonaitį, tuo metu buvusį Trakų vaivada ir Lietuvos didžiuoju etmonu."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2583,7 +2573,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197466"></a>
 - t-186
   teiginys: "Tas senovės mitas, primenantis labai reikšmingą Titanų šeimynos asmenį, negalėjo būti nežinomas lietuvių mitologijai."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2599,7 +2589,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197467"></a>
 - t-187
   teiginys: "Šiuo atveju lietuviai nelaimingu ženklu laikė, jei naminis gyvulys gimdavo aklas arba su kokia baisia yda."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2612,7 +2602,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197468"></a>
 - t-188
   teiginys: "Neturime jokio pa tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka bindavo karalių kūnus, parištus ant aukso grandinių ."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2625,7 +2615,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197469"></a>
 - t-189
   teiginys: "Todėl blogai daro kunigai, ku rie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichėjų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var dan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra mentą draudžiama."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2638,7 +2628,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197470"></a>
 - t-190
   teiginys: "Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir užmarš ties amžių, pasilikome sau dar daug tyrimų, ketindami juos išdėstyti kitame tome; tad ši tomą galima laikyti pasirengimu tam, apie ką dar kalbėsime."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2651,7 +2641,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197471"></a>
 - t-191
   teiginys: "Italijoje jis įstojo į vienuolyną, o sugrįžęs į tė vynę ir susidūręs su religiniais sąmaiščiais, kilusiais dėl Huso moky mo, jis išvyko į Lenkiją, o iš ten karalius Vladislovas Jogaila 1392 metais nusiuntė jį, kaip pasiryžusį skelbti Lietuvoje krikščionių."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2664,7 +2654,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197889"></a>
 - t-192
   teiginys: "Pažvelgę tyrinėtojo žvilgsniu į lietuvių senovės paminklus, visur aptinkame pėdsakų ir padavimų apie tautos kilmę iš pelazgų1."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2677,7 +2667,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197890"></a>
 - t-193
   teiginys: "Tačiau iš kur kilęs šis pavadinimas, dabar nepradėsime nagrinėti, kad nekartotume to, apie ką rašėme šio veikalo pirmo tomo straipsniuose „Lietuva“ ir „Lietuvanis“."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2690,7 +2680,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197891"></a>
 - t-194
   teiginys: "Bene geriausiai ją apibūdina 1829 metais „Dziennik Warszawski“ išspaus dintas Dionizo Poškos straipsnis „Keletas įžanginių žo džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is toriją“2."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2776,7 +2766,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199354"></a>
 - t-005
   teiginys: "Narbutas tikrosios Lietuvos teismų sprendimus minėjo kaip šaltinį apie liudytojų priesaikas per skrutinijas."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2786,17 +2776,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporaliniai_duomenys: "įvykio data: 1600 m.; įvykio data: 1655 m.; įvykio data: 1600 m.; įvykio data: 1655 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lietuvos bajorija buvo sąjungininkas su Lenkijos bajorija“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Išskleistas šaltinio pobūdis ir Lietuvos kontekstas. Neperkelta neaiški citata apie kepures kaip atskiras faktas."
-  ryšio_patikimumas: "valde -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkijos bajorija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Vytautas gavo valdyti visą Lietuvą."
+  ryšio_subjekto_parinkimas: "Lietuvos bajorija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkijos bajorija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje aiškiai nurodomas Lietuvos ir Lenkijos bajorijų bendro luomo suvokimas."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Lietuvos bajorija buvo sąjungininkas su Lenkijos bajorija (0.72)"
   pagrindžia:
-    - c-171632
-    - c-181975
+    - c-171641
+    - c-181928
 
 <a id="claim-t-199357"></a>
 - t-006
@@ -2910,7 +2901,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199382"></a>
 - t-130
   teiginys: "T. Narbuto lenkiškai parašytas veikalas išryškino etnokultūrinius lietuvių ir „koroniažų“ skirtumus."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2927,11 +2918,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171628
+    - c-181935
+    - c-181992
 
 <a id="claim-t-199385"></a>
 - t-011
   teiginys: "Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3031,7 +3024,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199407"></a>
 - t-019
   teiginys: "Narbutas Prūsijoje buvusius žemės drebėjimus laikė argumentu, kad jie galėjo būti žinomi ir tolimesnei Lietuvai."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3053,7 +3046,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199413"></a>
 - t-020
   teiginys: "Narbutas rašė, kad Lietuvoje pasakojimuose aitvaras kartais nematomas užpuola moteris, o kartais prijaukintas neša gėrybes."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3068,8 +3061,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuvos kariuomenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171628
-    - c-181992
+    - c-171637
+    - c-182039
 
 <a id="claim-t-199416"></a>
 - t-021
@@ -3116,7 +3109,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199425"></a>
 - t-023
   teiginys: "Narbutas vaizdavo, kad Graikijos ir Romos dievai persikėlė į Lietuvą ir susiliejo su vietos bei skandinavų religijomis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3155,7 +3148,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199427"></a>
 - t-025
   teiginys: "Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ - tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3168,7 +3161,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199446"></a>
 - t-026
   teiginys: "Narbutas tikėjimą raganomis siejo su lietuvių stabmeldystės žlugimu ir svetimų prietarų plitimu."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3209,7 +3202,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199448"></a>
 - t-033
   teiginys: "Narbutas rašė, kad tikrojoje Lietuvoje sudegintų žmonių pelenams laikyti skirtos vietos buvo vadinamos Obelijomis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3250,7 +3243,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199453"></a>
 - t-048
   teiginys: "Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškąją Aleksotą apdainuojančias dainas siejo su Kauno apylinkėmis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3336,7 +3329,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199478"></a>
 - t-093
   teiginys: "Lietuvos metraštis pasakoja, kad tais pačiais metais Lietuvos žemę ištiko baisus badas ir tarp žmonių paplito prancūziškos ligos."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3351,7 +3344,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199482"></a>
 - t-150
   teiginys: "Narbutas nurodė, kad toliau pateikia smulkius kai kurių lietuvių mitologijos sričių aprašymus."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3387,7 +3380,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199484"></a>
 - t-094
   teiginys: "Narbutas Lietuvos sluoksnių formacijoje išskyrė įvairialypius jai nebūdingus akmenis, nes joje nematė panašių uolienų sluoksnių ar kalnų."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3488,7 +3481,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199498"></a>
 - t-099
   teiginys: "Narbutas dievaitį Lielhuwani siejo su Lietuvos vardo kilme ir laikė jį lietuvių mitu bei pamėgtu šūkiu."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -14230,13 +14223,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 17"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
-    Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
-    Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
-    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
-    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
-    prieš Ordiną. Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
-    pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos
-    66  PD, II, 6; PKD, s.
+    Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
+      Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo
+    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis.
   citata_rodoma: "Dusburgietis, rašydamas apie lietuvių\npuolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti\nprieš Lietuvą (III, 343—346, 357—358).\n  Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo\nžemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -14723,7 +14714,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
     - t-030
 
 - id: c-163725
@@ -14768,7 +14758,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-068
-    - t-042
 
 - id: c-163728
   autorius: "Michał Baliński"
@@ -14839,6 +14828,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-078
+    - t-065
 
 - id: c-163731
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -15315,7 +15305,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
     - t-083
 
 - id: c-163755
@@ -15341,7 +15330,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-083
     - t-074
 
 - id: c-163756
@@ -15401,6 +15389,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-075
     - t-089
 
 - id: c-163758
@@ -15903,13 +15892,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 17"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
-    Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
-    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
-    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
-    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
-    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333). Tai
-    jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
-    pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
+    Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
+    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
+    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
   citata_rodoma: "Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui\nAlbertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu\nir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -16153,7 +16138,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
     - t-073
     - t-083
     - t-057
@@ -16428,7 +16412,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindzia:
     - t-067
     - t-052
-    - t-077
 
 - id: c-163812
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -16543,15 +16526,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 27"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
-    Žinių Dusburgiečiui teikė visų pirma Ordino broliai. Kronikos dalyje, aprašančioje karus
-    prieš Lietuvą, išvardijama apie 70 brolių, tuo tarpu visose kitose dalyse —žymiai mažiau.
-    Minimi čia 7 Ragainės komtūrai (1289—1324 m. laikotarpiu; Bertoldas iš Austrijos,
-    Ernekė, Konradas, Folčas, Verneris, Fridrichas iš Libencelės, Ditrichas bei 1 vicekomtūras
-    (III, 235, 239, 251, 297, 317, 332, 351, 300), 4 Karaliaučiaus komtūrai (Albertas iš
-    Meiseno, Bertoldas iš Austrijos, Eberhardas, Fridrichas) (III, 230, 236, 289, 307), tiek
-    pat Sembos vyskupo fogtų (advocatus) (Ditrichas, Pilypas, Hugonas, Gerhardas) (III,
-    227, 291, 330, 338), trys Baigos komtūrai (III, 247, 266, 362) ir t. t., daugumas jų — iš
-    rytinės Ordino teritorijos dalies, tiesiogiai dalyvavę kare prieš Lietuvą.
+    Aprašant XIV a. pradžios įvykius, vėl padaugėja detalių, jos įvairesnės, originalesnės,
+    čia kur kas plačiau aprašomi karo žygių  į Lietuvos teritoriją sunkumai ir atsakomieji
+    lietuvių smūgiai.
+       Žinių Dusburgiečiui teikė visų pirma Ordino broliai.
   citata_rodoma: "Aprašant XIV a. pradžios įvykius, vėl padaugėja detalių, jos įvairesnės, originalesnės,\nčia kur kas plačiau aprašomi karo žygių  į Lietuvos teritoriją sunkumai ir atsakomieji\nlietuvių smūgiai.\n   Žinių Dusburgiečiui teikė visų pirma Ordino broliai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -16724,24 +16702,17 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 161"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 161."
   citata_originali: |
-    Pirmiausia
+    Už žalą, padarytą per šį niokojamą iš­
+    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
+    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
+    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
+    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
     ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
     balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
     Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
     tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
     niokoti, o du tūkstančiai pėstininkų atkakliai puolė
-    apsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­
-    vaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai
-    ir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­
-    leisdama jiems be nuostolių supti tvirtovės, mat atvi­
-    rame lauke šie buvo nesunkiai sužeidžiami ietimis ir
-    strėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­
-    damas iš visų pusių, nepaliauj amai sekino menkas jė­
-    gas, vos ne vos įstengiančias vienu metu užstoti visą
-    gynybinę sieną, lietuviai patyrė didelių nuostolių; kai
-    vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
-    pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
-    tokią, rodos, beviltišką.
+    apsuptą pilį.
   citata_rodoma: "Už žalą, padarytą per šį niokojamą iš­\npuolį Sembai, lietuviams buvo atsilyginta kitais ir dar\nkokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­\nsą laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu\nkariaudami, smogė nemažai stiprių smūgių. Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -16757,9 +16728,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 244"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 244."
   citata_originali: |
-    Magistras,
-    nenorėdamas, kad įsiplieskusi nesantaika pavirstų at­
-    virais vaidais, įsakė visiems traukti į karo žygį. Be
+    Be
     nuolatinės kariuomenės, savo rankose turėjo į pagal­
     bą atvykusius Čekijos, Anglijos, Danijos ir Vokietijos
     karius. Pavasario pradžioje jis ir išvedė abi kariuo­
@@ -16768,6 +16737,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     1362 m e ta i
     prietaisų, pasiryžę nugalėti,
     ypač po to, kai Algirdas, at-
+    246
+
+    ## Puslapis 245
+
+    vykęs su kariuomene pralaužti apsupimo žiedo, nieko
+    nelaimėjo ir buvo atstumtas.
   citata_rodoma: "Be\nnuolatinės kariuomenės, savo rankose turėjo į pagal­\nbą atvykusius Čekijos, Anglijos, Danijos ir Vokietijos\nkarius. Pavasario pradžioje jis ir išvedė abi kariuo­\nmenes į Lietuvą. Pirmiausia jie užgriuvo Kauną; pilį\npuolė pasitelkę visokiausių\n1362 m e ta i\nprietaisų, pasiryžę nugalėti,\nypač po to, kai Algirdas, at-\n246\n\n## Puslapis 245\n\nvykęs su kariuomene pralaužti apsupimo žiedo, nieko\nnelaimėjo ir buvo atstumtas."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -16776,7 +16751,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-147
-    - t-155
 
 - id: c-168370
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -16820,7 +16794,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-148
-    - t-155
 
 - id: c-168371
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -16855,34 +16828,23 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 333-334"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 333-334."
   citata_originali: |
-    Tuo tarpu Švit­
-    rigaila ir toliau kurstė kry-
-    1394 m e ta i
-    žiuočius rengtis karui, kol
-    Š vitrig a ilo s
-    k u rsto m i
-    žiema,
-    kol ramus metas, o
-    k ry žiu o čia i
-    ren g ia
-    stoti į
-    kovą pavasario pra-
-    karą
-    džioje.
-    Šie papildė regulia­
-    riąją kariuomenę paraginę
-    imtis ginklo Prūsijos vyrus, be to, pakvietė nemaža pa­
-    galbininkų iš kitur— iš Silezijos, Austrijos ir visos Vo­
-    kietijos; daug karių susiruošė į šlovės žygį iš Anglijos
-    bei Prancūzijos. Mat teutonų riterių, arba kryžiuočių,
+    Mat teutonų riterių, arba kryžiuočių,
     ordinas dėl nuolatinių karų tuo metu ten buvo laikomas
     3 3 5
+
+    ## Puslapis 334
 
     nelyginant kokia arena, kur galima pelnyti karo šlovę,
     todėl ne tik išgarsėję savo žygiais bei nuopelnais kariai,
     bet ir didžiai patyrę karvedžiai, tikėdamiesi pelnyti dar
     didesnę šlovę, traukė iš visų krikščioniškųjų karalys­
-    čių į Prūsiją.
+    čių į Prūsiją. Riterių magistras Konradas su savo bei
+    svetimšalių kariuomene pava-
+    Įsiv e ržia  į L ietu vą
+    sario pabaigoje patraukė į
+    Lietuvą. Nusiaubęs dideliuose
+    plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
+    lietuvių bei žemaičių keletą pilių.
   citata_rodoma: "Mat teutonų riterių, arba kryžiuočių,\nordinas dėl nuolatinių karų tuo metu ten buvo laikomas\n3 3 5\n\n## Puslapis 334\n\nnelyginant kokia arena, kur galima pelnyti karo šlovę,\ntodėl ne tik išgarsėję savo žygiais bei nuopelnais kariai,\nbet ir didžiai patyrę karvedžiai, tikėdamiesi pelnyti dar\ndidesnę šlovę, traukė iš visų krikščioniškųjų karalys­\nčių į Prūsiją. Riterių magistras Konradas su savo bei\nsvetimšalių kariuomene pava-\nĮsiv e ržia  į L ietu vą\nsario pabaigoje patraukė į\nLietuvą. Nusiaubęs dideliuose\nplotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš\nlietuvių bei žemaičių keletą pilių."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -16944,31 +16906,19 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 395"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 395."
   citata_originali: |
-    Lenkų ir lietuvių kariuo-
-    Prūsija
-    menės, peržengusios sienas,
-    netruko įsiveržti į šį kraštą;
-    visi, o ypač valdovai Jogaila bei Vytautas, ketino ne­
-    gailint jėgų pergalingai užbaigti ilgą ir sunkų karą,
-    trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams
-    liktų arba ramūs bei klusnūs, arba draugiški. Tuo tarpu
-    kryžiuočiai, taikos metu be galo aikštingi ir per daug
-    savimi pasitikintys, bemat suvokė esą nepasirengę ka­
-    rui, todėl pareiškė norį susitarti, nors jie ne tiek troško
-    taikos, kiek bijojo pralaimėjimo. Kadangi daliniai jau
-    veržėsi į priekį, degdami noru atkeršyti už skriaudas,
-    jie pasitelkė popiežiaus legato, Milano arkivyskupo
-    Baltramiejaus Kapros, autori-
-    Baigiamas popiežiaus
-    tetą. Be abejo, šitai buvo ga-
-    legato
-    pasiūlytomis
-    lingas skydas, ypač prieš Jo-
-    paliaubomis
-    gailą ir Vytautą, kurie, visai
-    neseniai priėmę krikščionių
-    tikėjimą ir nė trupučio jam neatšalę, karštai gerbė po­
-    piežiaus žodį.
+    397
+
+    ## Puslapis 396
+
+    Danijos karalius ir Pomeranijos kunigaikštis, atvykę
+    kryžiuočiams į pagalbą ir supratę, kas teisus ir netei­
+    sus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,
+    perėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,
+    kuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu
+    šie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­
+    sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o
+    karalius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į
+    Srodą, vos neprarado gyvybės.
   citata_rodoma: "397\n\n## Puslapis 396\n\nDanijos karalius ir Pomeranijos kunigaikštis, atvykę\nkryžiuočiams į pagalbą ir supratę, kas teisus ir netei­\nsus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,\nperėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,\nkuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu\nšie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­\nsirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o\nkaralius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į\nSrodą, vos neprarado gyvybės."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -17020,27 +16970,27 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 726-727"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 726-727."
   citata_originali: |
-    T ad n o rs d ab a r teg u l nesi-
-    v an g stą aiškiai p areik šti
-    savo nuom onę, tegul, jeig u
-    iš tiesų no rį nuoširdžiai d erėtis dėl taikos, n esiv aržą
-    siūlyti ir reik alau ti, b et su saiku, b eje, to, k ą galim a
-    duoti. P atys teg u su g rąžin ą S m olenską bei Polocką, u ž­
-    im tus v eik iau k lasta n ei sm urtu, b et tik rai n eteisėtai,
-    o dėl k itų pilių, k itad o s iš lietu v ių atim tų, teg u prade-
-    7 2 8
-
-    dą d ery b as. K ai m ask v ėn a i p a re ik alav o aišk iai p asa k y ­
-    ti, ar jie tu ri visu s įg alio jim u s su sita rti ir dėl
-    caro ti­
-    tulo, ir dėl Livonijos, k a ra lia u s p asiu n tin iai atsak ė: „ J e i­
-    gu šitai p ad ės taik o s reik alu i, k a ra liu s n ep rie šta ra u s nė
-    tada, k ai
-    didysis k u n ig aik štis bus titu lu o jam as d v ig u ­
-    bai garb in g esn iais titu lais, o k iv irča s dėl L ivonijos tik ­
-    ra i n ė ra to k s sunkus, k ad n eg alim a b ū tų rasti bendros
-    kalbos, jeig u m ask v ėn ai su tik s ta rtis teisingom is sąly ­
-    gom is".
+    Iv an as n ep rie šta rav o , k ai A u ­
+    gusto
+    p asiu n tin iai
+    p areišk ė
+    Maskvėnai nepritaria
+    n o rį p a sita rti su k araliu m i ar-
+    paliauhoms ir įsibrau-
+    ba
+    b en t laišk u
+    p ak lau sti jį
+    na į Lietuvą
+    nuom onės, tačia u  n iek u  būdu
+    n en o rėjo  su tik ti nei su ilg es­
+    nėm is paliaubom is, n ei su laik in u  k aro  v eik sm ų  n u tra u ­
+    kim u, kol bus g au tas k araliau s atsakym as. M at jis jau
+    buvo sutelk ęs žygiui p asiren g u sią kariu o m en ę, k u ri tuo
+    ta rp u  n etoli L ietuvos sienų įsik ū rė žiem os stovyklose.
+    T uo p a t keliu, k u riu o  leidosi nam o pasiu n tin iai, p ra rad ę
+    v iltį su tarti taiką, p atra u k ė  m etų  p ab aig o je šviežiom is
+    jų  pėdom is priešų vėliavos, n ely g in an t p aties likim o
+    stum te stum iam os lin k  ty k o jan čio s nelaim ės.
   citata_rodoma: "Iv an as n ep rie šta rav o , k ai A u ­\ngusto\np asiu n tin iai\np areišk ė\nMaskvėnai nepritaria\nn o rį p a sita rti su k araliu m i ar-\npaliauhoms ir įsibrau-\nba\nb en t laišk u\np ak lau sti jį\nna į Lietuvą\nnuom onės, tačia u  n iek u  būdu\nn en o rėjo  su tik ti nei su ilg es­\nnėm is paliaubom is, n ei su laik in u  k aro  v eik sm ų  n u tra u ­\nkim u, kol bus g au tas k araliau s atsakym as. M at jis jau\nbuvo sutelk ęs žygiui p asiren g u sią kariu o m en ę, k u ri tuo\nta rp u  n etoli L ietuvos sienų įsik ū rė žiem os stovyklose.\nT uo p a t keliu, k u riu o  leidosi nam o pasiu n tin iai, p ra rad ę\nv iltį su tarti taiką, p atra u k ė  m etų  p ab aig o je šviežiom is\njų  pėdom is priešų vėliavos, n ely g in an t p aties likim o\nstum te stum iam os lin k  ty k o jan čio s nelaim ės."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -17104,14 +17054,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 11"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
   citata_originali: |
-    Aš, kaip atrodo, pasirinkau vidurio kelią: pateikdamas faktus
-    apie tautą, išvadas ir visa tai, ko nėra šaltiniuose, palieku pa­
-    daryti pačiam skaitytojui. Hiūmas buvo mano pavyzdys, tik
-    nežinau, ar tai pavyko“12.
-    T. Narbuto istorijos darbų kritika stiprėjo. Lietuvos istori­
-    kas Mykolas Balinskis rašė: „Kas tiek pasakų palaikė tiesa ir
-    j gretino jas su tikrais įvykiais, kas nesvyruodamas kaitaliojo da-
-    11 List T. Narbutta do A. Reniera 1843 r.
+    T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
+    kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
+    tojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet
+    mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
+    reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
+    kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
   citata_rodoma: "T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­\nkino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­\ntojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet\nmus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių\nreikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,\nkad mes jų turime daugiau ir kur kas geresnių negu lenkai“11."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -17120,7 +17068,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-130
-    - t-020
 
 - id: c-171629
   autorius: "Teodoras Narbutas"
@@ -17128,15 +17075,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 31"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 31."
   citata_originali: |
-    T. Narbutas Lietuvoje suranda ir antikinio mito apie Plu­
-    tono pagrobtą Demetros dukterį Persefonę atitikmenį. Visiš­
-    kai panašų „pasakojimą“ jis nugirsta Raseinių apskrityje, Pa­
-    švenčio apylinkėse. Šio „pasakojimo“ svarbiausi veikėjai pasi­
-    rodo besą M. Strijkovskio, K. Hartknocho ir kitų minimas po­
-    žemio dievas Poklius (lietuviškasis Plutonas), M. Strijkovskio
-    minima Krūminė (lietuviškoji Demetra) ir paties T. Narbuto
-    surasta jų duktė Nijolė (Persefonė). Surandama ir moneta,
-    iliustruojanti šį „pasakojimą“.
+    Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­
+    da davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo
+    nimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi
+    16
+    Žr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -
+    V., 1968.-T. I.-P. 1118.
+    31
+
+    ## Puslapis 31
+
+    Aleksotu, tai dainas, kuriose apdainuojamas lietuviškosios
+    Aleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse.
   citata_rodoma: "Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­\nda davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo\nnimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi\n16\nŽr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -\nV., 1968.-T. I.-P. 1118.\n31\n\n## Puslapis 31\n\nAleksotu, tai dainas, kuriose apdainuojamas lietuviškosios\nAleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -17152,20 +17102,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 84"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
   citata_originali: |
-    Kadangi ir šioje yra nemažai pasi­
-    savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
-    šybė pasirodo esanti dar ryškesnė. Bet jos principai visiškai
-    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
-    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
-    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
-    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
-    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
-    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
-    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
-    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
-    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
-    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
-    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
+    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
+    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
+    čią beveik visas menkiausias smulkmenas.
+    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
+    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
+    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
+    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
+    plaikos kilo mitologija, kurią imamės išdėstyti.
   citata_rodoma: "Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip\ntatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną\nir tais pačiais principais besiremiančią religiją, pamėgdžiojan-\nčią beveik visas menkiausias smulkmenas.\nNet atrodo, kad Graikijos ir senosios Romos dievai, išgui­\nti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­\ndami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų\nsistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­\nplaikos kilo mitologija, kurią imamės išdėstyti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -17173,7 +17118,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-023
 
 - id: c-171634
@@ -17232,43 +17176,35 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 178"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
-    Tai yra tai, ką prancūzai
-    vadina košmaru (Cochemar). Tą vardą duodavo taip pat fau­
-    nams ir satyrams dėl jų gašlumo. Tamsybės laikais demonog-
-    rafai išgalvojo velnius - viršgulius, Incubi, ir apačgulius, Suc­
-    cubi, kankinančius žmones per miegą begėdiškais vaizdais, net
-    tikrais veiksmais, ypač davusius skaistybės įžadus. Antikos žmo­
-    nės dievino viršgulius, vadindami Graikijoje efialtais, Romo­
-    je - hifialtais“.
+    Dar ir dabar jį tiki tamsūs žmonės“14 15.
+    Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
+    matomas užpuola miegančias moteris, kitą kartą prijaukintas
+    pasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­
+    da į klėtis, senoms, taupioms šeimininkėms išneša grietinę,
+    duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
+    terims arba mergaitėms, duoda net pinigų.
   citata_rodoma: "Dar ir dabar jį tiki tamsūs žmonės“14 15.\nLietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­\nmatomas užpuola miegančias moteris, kitą kartą prijaukintas\npasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­\nda į klėtis, senoms, taupioms šeimininkėms išneša grietinę,\nduoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­\nterims arba mergaitėms, duoda net pinigų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
+
 - id: c-171639
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 303"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
-    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
-    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
-    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
-    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
-    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
-    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
-    kaip tai pamatysime toliau. Jis išpranašaudavo privačių as­
-    menų, valdovų, kariuomenės, miestų, visos valstybės, taip pat
-    visokiausių sumanymų ir darbų tolesnę ateitį; jo pranašystės
-    buvo nutarimų politiniais, teismo^ religijos klausimais pagrin­
-    das. Vyriausiasis žynys Lizdeika , paskutinis iš lietuvių stab­
-    meldystės vadų, paskelbė didžiajam kunigaikščiui Gedimi­
-    nui garsiąją pranašystę apie Vilnių, nes žinojo ir galėjo nu­
-    matyti, kad, vadovaujant tokiam išmintingam, veikliam ir ka­
-    ringam monarchui, augančios galingos valstybės sostinė bū- 38 39
-    38 Noël F. Dictionnaire mythologique (Divination).
+    Kuo daugiau tikėta jų buvimu, tuo labiau
+    artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
+    prietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai
+    įrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­
+    giausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­
+    dies padavimai tas senes paprastai kildina iš Lietuvos Rusios,
+    o vietinių nepripažįsta, jog šitiek daug moka.
   citata_rodoma: "Kuo daugiau tikėta jų buvimu, tuo labiau\nartėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų\nprietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai\nįrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­\ngiausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­\ndies padavimai tas senes paprastai kildina iš Lietuvos Rusios,\no vietinių nepripažįsta, jog šitiek daug moka."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -17284,41 +17220,39 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 322"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
   citata_originali: |
-    Tą pastebėjęs
-    Neliubavičius (Nielubowicz) vienoje senoje lietuviškoje dai­
-    noje. Hartknochas, mėgstantis viską pritempti prie germaniš­
-    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
-    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
-    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
-    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
-    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
-    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
-    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
-    vuose išlikę duomenys iš XIII amžiaus.
+    Arntas (Arndt) 17 pa-
+    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
+    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
+    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
+    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
+    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
+    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
+    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
+    17 Lieflandische Geschichte (1757 metų leidimas.
   citata_rodoma: "Arntas (Arndt) 17 pa-\nteilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­\nmiečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,\nsubyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-171642
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 354"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 354."
   citata_originali: |
-    Šį paprotį, bendrą lietuviams ir slavams, mūsų rašytojai
-    dažnai mini; vis dėlto jo smulkmenų niekur nėra papasakota;
-    aprašysime, kaip tai vyksta dabar mano užkampyje; tikriausiai
-    nedaug skirsis nuo senovinio. Trobos vidury pastato duonku­
-    bilį dugnu į viršų, ant jo deda pagalvę, ant kurios atsisėda jau­
-    noji. Uždega vaško žvakę, visi sustoja ratu, merginos - pagal­
-    bininkės arba pamergės (draiki) - dainuoja dainą, vaizduoda­
-    mos esančios labai susigraudinusios, verkiančios; šios dainos
-    turinys toks: vargšė mergelė netenka savo vainikėlio, pereina į
-    kitą padėtį - priklausomybės ir nelaisvės, darbų, pastangų, rū­
-    pesčių ir 1.1, būklę.
+    Tuo tarpu sužadėtinę įvesdavo į trobą, vežėjas nu­
+    šokdavo nuo stalelio, pasiimdavo savo rankšluostį, o ant stale­
+    lio pasodindavo sužadėtinę. Tuoj prasidėdavo jungtuvės,
+    f
+    Įkijungtuviniuose papročiuose, be abejo, buvo skirtumų,
+    nelygu kurios jie buvo tautos iš įvairių, sudariusių lietuvių gentį,
+    ir jie kito pareinamai nuo vietos aplinkybių; pagaliau pats lai­
+    kas daug ką pakeitė. Aprašysime naujesnius pastebėjimus iš
+    Pietų Lietuvos.
   citata_rodoma: "Tuo tarpu sužadėtinę įvesdavo į trobą, vežėjas nu­\nšokdavo nuo stalelio, pasiimdavo savo rankšluostį, o ant stale­\nlio pasodindavo sužadėtinę. Tuoj prasidėdavo jungtuvės,\nf\nĮkijungtuviniuose papročiuose, be abejo, buvo skirtumų,\nnelygu kurios jie buvo tautos iš įvairių, sudariusių lietuvių gentį,\nir jie kito pareinamai nuo vietos aplinkybių; pagaliau pats lai­\nkas daug ką pakeitė. Aprašysime naujesnius pastebėjimus iš\nPietų Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -17332,16 +17266,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 377"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
   citata_originali: |
-    įvairiose Prūsijos vietose tiek atsitiktinai, tiek sąmoningai ka­
-    sinėjant senovinius pilkapius, ypač Velnio saloje (Czartowy-
-    Osirow), esančioje Sniardvų ežere, ir ties Pleviškių kaimu, as­
-    tuonios mylios nuo Karaliaučiaus, prie Priegliaus upės. Tai bu­
-    vo puodeliai arba kažkokios urnos su pelenais ir sudegusių
-    žmonių kaulų gabaliukais viduje. Toje vietovėje pats autorius
-    liepė atkasti vieną pilkapį ir surado naujo pavidalo pelenų ur­
-    ną. Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo­
-    roti, kad tarp jų susidariusioje tuštumoje galėjo būti pilami
-    pelenai.
+    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
+    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
+    kad į jas tekėtų ašaros.
+    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
+    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
+    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
+    Obelijomis.
   citata_rodoma: "Vienoda jų sandara ir tokia pat radimo vieta įtikina,\njog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,\nkad į jas tekėtų ašaros.\nTikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­\ndos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­\nrias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo\nObelijomis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -17357,15 +17288,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 394"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 394."
   citata_originali: |
-    Autorius pereina prie dalykų, susijusių su pačiais kryžiuo­
-    čiais ir jų konfliktu su Livonijos arkivyskupu. Toliau grįžta prie
-    Lietuvos bažnyčios, iškeldamas tokią aksiomą: „Krikščionybė
-    tol neapsivalys savo klaidų, kol piemenys nesiliaus savo pačių
-    gerovę branginę labiau už avidės gerovę, kol papročių švelnu­
-    mu, savo dorybėmis ir nenuilstamu budėjimu nepalenks žmo­
-    nių širdžių Dievui vieningame tikėjime“. Autorius pateikia iš­
-    kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
-    gyne.
+    Religijos valdžia yra didelė
+    ir buvo vyriausia. Prūsijai ir Livonijai praradus nepriklauso­
+    mybę, tų kvailysčių sumažėjo, ir pamažu stabmeldystės griu­
+    vėsiuose ėmė įsitvirtinti krikščionybė, kol 1387 metais Dievas
+    visą tautą pašaukė priimti šventąjį tikėjimą“.
+    Toliau autorius pateikia kai kurių lietuvių mitologijos sri-
+    393
+
+    ## Puslapis 393
+
+    čių smulkius aprašymus; iš jų tas vietas, kurios mums šiaip ne­
+    buvo žinomos, išdėstėme anksčiau įvairiuose straipsniuose.
   citata_rodoma: "Religijos valdžia yra didelė\nir buvo vyriausia. Prūsijai ir Livonijai praradus nepriklauso­\nmybę, tų kvailysčių sumažėjo, ir pamažu stabmeldystės griu­\nvėsiuose ėmė įsitvirtinti krikščionybė, kol 1387 metais Dievas\nvisą tautą pašaukė priimti šventąjį tikėjimą“.\nToliau autorius pateikia kai kurių lietuvių mitologijos sri-\n393\n\n## Puslapis 393\n\nčių smulkius aprašymus; iš jų tas vietas, kurios mums šiaip ne­\nbuvo žinomos, išdėstėme anksčiau įvairiuose straipsniuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -17381,29 +17315,22 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 396-397"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 396-397."
   citata_originali: |
-    Lenkų kunigai
-    neapkentė tų apeigų; taigi šitokios kovos išdava buvo tokia,
-    kad, vieni iš kitų sulaukdami prozelitų, krikštydavo juos antrą
-    kartą. Tačiau nešališki teologai tą visuomet smerkdavo. Jero- 1
-    1 Specimen Ecclesiae Ruthenicae*.
-    icn
-
-    nimas Prahiškis iš Čekijos, kuris gavo gerą išsilavinimą gimta­
-    jame mieste, vėliau leidosi į keliones, aplankė Vokietiją, Pran­
-    cūziją, Ispaniją, Portugaliją, Italiją, visur pastudijuodamas žy­
-    miausiose mokyklose; paskui vyko į Palestiną, o prieš 1403
-    metus buvo Lenkijoje ir Lietuvoje, aplankė Krokuvą, važiavo
-    per Varšuvą, Gardiną, Vilnių ir Žemaitiją, visur šviesdamasis
-    ir šviesdamas kitus tikėjimo dalykais su didžiausiu nuolanku­
-    mu Romos bažnyčiai. Iš Lietuvos per Karaliaučių jis išplaukė
-    jūra į Angliją; ten pataikė į patį Viklifo mokymo atgimimą,
-    susijusį su Kenterberio arkivyskupo Arundelo įniršiu prieš lor­
-    dą Kobhemą; su nežabotu atkaklumu lordas gynė savo nuo­
-    monę dėl tikėjimo dalykų, kuriuos įsivaizdavo taip, kaip ir Vik-
-    lifas; dar pikčiau buvo užsispyręs arkivyskupas, asmeniškai įtū­
-    žęs ant lordo; pagaliau tragiška tos kovos baigtis anuo metu
-    darė įspūdį protams, atsidavusiems religiniams svarstymams,
-    ir sukėlė susidomėjimą beveik užmirštais Viklifo raštais.
+    Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­
+    delis lietuvių svetingumas, darbštumas, namų gyvenimo do­
+    rybės.
+    Iš šito rankraščio pasisemiame žinių apie pirminį krikščio­
+    nybės paplitimą Lietuvoje; XI amžiuje krikščionybė tikriau­
+    siai buvo paplitusi tik labai menkai, nes lietuvių vyriausiųjų
+    žynių valdžia gyvavo nepajudinama iki XIII amžiaus vidurio;
+    tuomet prūsai suklupo prieš kryžiuočius, panašiai Livonija su
+    Kuršu, pačioje Lietuvoje tų pačių riterių puolimai darėsi bai­
+    sesni, lietuviai kunigaikščiai savo žvilgsnius ėmė labiau kreipti
+    į rusų kraštus, o jų savitarpio kovos sudrebino vidinę valstybės
+    sandarą; pagaliau užkariavus Minską, Naugarduką, Pinską ir
+    dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
+    kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
+    Rusia. Susidarius tokiai padėčiai, rusų tikėjimo cerkvės galėjo
+    paplisti Lietuvoje, ir gausėjo krikščionybės išpažinėjų.
   citata_rodoma: "Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­\ndelis lietuvių svetingumas, darbštumas, namų gyvenimo do­\nrybės.\nIš šito rankraščio pasisemiame žinių apie pirminį krikščio­\nnybės paplitimą Lietuvoje; XI amžiuje krikščionybė tikriau­\nsiai buvo paplitusi tik labai menkai, nes lietuvių vyriausiųjų\nžynių valdžia gyvavo nepajudinama iki XIII amžiaus vidurio;\ntuomet prūsai suklupo prieš kryžiuočius, panašiai Livonija su\nKuršu, pačioje Lietuvoje tų pačių riterių puolimai darėsi bai­\nsesni, lietuviai kunigaikščiai savo žvilgsnius ėmė labiau kreipti\nį rusų kraštus, o jų savitarpio kovos sudrebino vidinę valstybės\nsandarą; pagaliau užkariavus Minską, Naugarduką, Pinską ir\ndalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­\nkraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio\nRusia. Susidarius tokiai padėčiai, rusų tikėjimo cerkvės galėjo\npaplisti Lietuvoje, ir gausėjo krikščionybės išpažinėjų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -17417,18 +17344,17 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 30"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
   citata_originali: |
-    Iš visų spausdintų
-    verčiausias yra vienas Strijkovskis**, po to — prūsų ir
-    Livonijos kronikininkai. Nepaneigiama tiesa tai, kad šis
-    istorikas būtų buvęs laimingesnis, jei būtų panorėjęs ap­
-    siriboti tik senienų ir rankraščių, kurių daugelį turėjo po
-    ranka, rinkėjo šlove; bet, nelaimei, jis įsigeidė istorijos,
-    suskirstytos į knygas ir skyrius, kurių priekyje įdėtų sa­
-    vo rėmėjų vardus. Užsikrovęs šią ne pagal savo jėgas
-    naštą, mūsų garbingasis pirmtakas skubėjo be menkiau­
-    sios kritikos, be atsargumo su datomis, palyginimo, da­
-    lyko nagrinėjimo, ir skubėjo pagrįstai: jau nedaug metų
-    jam buvo skirta gyventi.
+    Kalbant apie istorinius seno­
+    vės šaltinius, negalima nepaminėti naujesnių, bet ir
+    čia iškyla nemalonių prisiminimų. Lietuva, susijungusi
+    30
+
+    ## Puslapis 30
+
+    su Lenkija, savanoriškai atsisakė savo nepriklausomybės,
+    pateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos
+    išorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,
+    padarė ją niokojančių karų grobiu.
   citata_rodoma: "Kalbant apie istorinius seno­\nvės šaltinius, negalima nepaminėti naujesnių, bet ir\nčia iškyla nemalonių prisiminimų. Lietuva, susijungusi\n30\n\n## Puslapis 30\n\nsu Lenkija, savanoriškai atsisakė savo nepriklausomybės,\npateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos\nišorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,\npadarė ją niokojančių karų grobiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -17444,18 +17370,16 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 188"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
-    Bet iš viso to nega­
+    Sutiksime net
+    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
+    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
+    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
+    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
+    ri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­
     lima daryti jokios kitos išvados, o tik tą, kurią jau minė­
     jome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse
     gyventa anksčiau, negu atvykėliai alanai davė pradžią
-    šių lydinių susidarymui. Juk šiandien negalima nieko įro­
-    dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
-    šios tautos likučiai, Kaukazo kalnų gyventojai osetinai,
-    ištirti mokslininko, senovės istoriko pono Klaproto, kuris
-    veikale „Asia Polyglotta“** pateikia osetinų kalbos žo­
-    dyną, kuriame nerandame nieko, ką galima būtų vadinti
-    panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
-    tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
+    šių lydinių susidarymui.
   citata_rodoma: "Sutiksime net\nir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-\nalanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,\ngyvenantys prie Peipaus ežero, dar ir šiandien lietuvius\nvadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­\nri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­\nlima daryti jokios kitos išvados, o tik tą, kurią jau minė­\njome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse\ngyventa anksčiau, negu atvykėliai alanai davė pradžią\nšių lydinių susidarymui."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -17553,18 +17477,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 488"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
   citata_originali: |
-    94 /Ten
-    pat,
-    nenurodyta
-    vieta/
-    Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
-    (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
-    tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui. Jo
-    vardas kilęs iš žodžio žvaigždė (Zwajgida), bet savo išvaizda jis
-    visiškai nepanašus į Apoloną, Tai barzdotas senis su žibintu ran­
-    koje. Šį priekaištą išsakė po/nas/ Tadas Volianskis. Ir tai būtų
-    galima priimti domėn: Siaurės tautos turėjo vaizdinių apie švie­
-    sos dievą.
+    Moneta labai plona, labai apgadinta ir išliko
+    lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti
+    Krūminės medalį). Panašios monetos piešinį man atsiuntė p/onas/
+    Tad/as/ Voliankis. Ji buvo rasta Lietuvoje ir, jo nuomone, pri­
+    klauso lietuviškiems paminklams.
   citata_rodoma: "Moneta labai plona, labai apgadinta ir išliko\nlik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti\nKrūminės medalį). Panašios monetos piešinį man atsiuntė p/onas/\nTad/as/ Voliankis. Ji buvo rasta Lietuvoje ir, jo nuomone, pri­\nklauso lietuviškiems paminklams."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -17600,21 +17517,17 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 27"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 27."
   citata_originali: |
-    Kad toji lenkų imperija nežlugtų ir, vykdydama
-    Gnezno arkivyskupystės ir jėzuitų ordino įsipareigoji­
-    mus, toliau plėtotų savo agresiją į didžiarusių (mask-
-    vėnų) žemes, reikia remtis Lietuva, kurios piliečius,
-    turinčius ir gerbiančius savo istoriją, jungia su Lenki­
-    ja katalikybė, bendra kalba ir monarcho išmintis.
-    Nors veikalas, kur pasaulėžiūra išreiškiama litera­
-    tūrine išmone, negalėjo lygiuotis su Vakarų Europos
-    istoriografijoje besireiškiančiu racionalizmu, vis dėl­
-    to A. Kojelavičiaus Lietuvos istorija sėkmingai atsto­
-    vavo Lietuvai mokslo pasaulyje. Po šimto metų Vil­
-    niaus akademijos profesorius P. Paprockis parašė trum­
-    pą Lietuvos istoriją lenkiškai (Domowe wiadomošci o
-    Wielkim Xięstwie Litewskim z przytączeniem historyi
-    tegož narodu przedrukowane.
+    Vaizdingi, nors ir žiaurūs, karo veiksmų aprašy­
+    mai su lietuvių kunigaikščių ir karvedžių charakteris­
+    28
+
+    ## Puslapis 27
+
+    tikomis leidžia pastebėti siužetų idėją. Tie lietuviai
+    pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­
+    kimi protėvių religijai ir papročiams,— jie sukūrė Lie­
+    tuvos valstybę. Priėmę krikščionybę, jie liko jai ištiki­
+    mi.
   citata_rodoma: "Vaizdingi, nors ir žiaurūs, karo veiksmų aprašy­\nmai su lietuvių kunigaikščių ir karvedžių charakteris­\n28\n\n## Puslapis 27\n\ntikomis leidžia pastebėti siužetų idėją. Tie lietuviai\npagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­\nkimi protėvių religijai ir papročiams,— jie sukūrė Lie­\ntuvos valstybę. Priėmę krikščionybę, jie liko jai ištiki­\nmi."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -18297,6 +18210,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-078
+    - t-065
 
 - id: c-181927
   autorius: "Teodoras Narbutas"
@@ -18334,24 +18248,24 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 322"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
   citata_originali: |
-    Tą pastebėjęs
-    Neliubavičius (Nielubowicz) vienoje senoje lietuviškoje dai­
-    noje. Hartknochas, mėgstantis viską pritempti prie germaniš­
-    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
-    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
-    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
-    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
-    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
-    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
-    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
-    vuose išlikę duomenys iš XIII amžiaus.
+    Arntas (Arndt) 17 pa-
+    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
+    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
+    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
+    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
+    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
+    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
+    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
+    17 Lieflandische Geschichte (1757 metų leidimas.
   citata_rodoma: "Arntas (Arndt) 17 pa-\nteilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­\nmiečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,\nsubyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-181929
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -18379,7 +18293,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
     - t-073
     - t-083
     - t-057
@@ -18502,6 +18415,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-130
     - t-153
 
 - id: c-181936
@@ -18631,6 +18545,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-078
+    - t-065
 
 - id: c-181941
   autorius: "Petras Dusburgietis"
@@ -18638,13 +18553,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 17"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
-    Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
-    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
-    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
-    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
-    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333). Tai
-    jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
-    pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
+    Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
+    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
+    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
   citata_rodoma: "Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui\nAlbertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu\nir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -18726,15 +18637,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 27"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
-    Žinių Dusburgiečiui teikė visų pirma Ordino broliai. Kronikos dalyje, aprašančioje karus
-    prieš Lietuvą, išvardijama apie 70 brolių, tuo tarpu visose kitose dalyse —žymiai mažiau.
-    Minimi čia 7 Ragainės komtūrai (1289—1324 m. laikotarpiu; Bertoldas iš Austrijos,
-    Ernekė, Konradas, Folčas, Verneris, Fridrichas iš Libencelės, Ditrichas bei 1 vicekomtūras
-    (III, 235, 239, 251, 297, 317, 332, 351, 300), 4 Karaliaučiaus komtūrai (Albertas iš
-    Meiseno, Bertoldas iš Austrijos, Eberhardas, Fridrichas) (III, 230, 236, 289, 307), tiek
-    pat Sembos vyskupo fogtų (advocatus) (Ditrichas, Pilypas, Hugonas, Gerhardas) (III,
-    227, 291, 330, 338), trys Baigos komtūrai (III, 247, 266, 362) ir t. t., daugumas jų — iš
-    rytinės Ordino teritorijos dalies, tiesiogiai dalyvavę kare prieš Lietuvą.
+    Aprašant XIV a. pradžios įvykius, vėl padaugėja detalių, jos įvairesnės, originalesnės,
+    čia kur kas plačiau aprašomi karo žygių  į Lietuvos teritoriją sunkumai ir atsakomieji
+    lietuvių smūgiai.
+       Žinių Dusburgiečiui teikė visų pirma Ordino broliai.
   citata_rodoma: "Aprašant XIV a. pradžios įvykius, vėl padaugėja detalių, jos įvairesnės, originalesnės,\nčia kur kas plačiau aprašomi karo žygių  į Lietuvos teritoriją sunkumai ir atsakomieji\nlietuvių smūgiai.\n   Žinių Dusburgiečiui teikė visų pirma Ordino broliai."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -18850,22 +18756,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 303"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
-    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
-    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
-    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
-    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
-    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
-    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
-    kaip tai pamatysime toliau. Jis išpranašaudavo privačių as­
-    menų, valdovų, kariuomenės, miestų, visos valstybės, taip pat
-    visokiausių sumanymų ir darbų tolesnę ateitį; jo pranašystės
-    buvo nutarimų politiniais, teismo^ religijos klausimais pagrin­
-    das. Vyriausiasis žynys Lizdeika , paskutinis iš lietuvių stab­
-    meldystės vadų, paskelbė didžiajam kunigaikščiui Gedimi­
-    nui garsiąją pranašystę apie Vilnių, nes žinojo ir galėjo nu­
-    matyti, kad, vadovaujant tokiam išmintingam, veikliam ir ka­
-    ringam monarchui, augančios galingos valstybės sostinė bū- 38 39
-    38 Noël F. Dictionnaire mythologique (Divination).
+    Kuo daugiau tikėta jų buvimu, tuo labiau
+    artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
+    prietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai
+    įrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­
+    giausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­
+    dies padavimai tas senes paprastai kildina iš Lietuvos Rusios,
+    o vietinių nepripažįsta, jog šitiek daug moka.
   citata_rodoma: "Kuo daugiau tikėta jų buvimu, tuo labiau\nartėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų\nprietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai\nįrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­\ngiausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­\ndies padavimai tas senes paprastai kildina iš Lietuvos Rusios,\no vietinių nepripažįsta, jog šitiek daug moka."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -18939,7 +18836,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
     - t-083
 
 - id: c-181954
@@ -18975,18 +18871,16 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 188"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
-    Bet iš viso to nega­
+    Sutiksime net
+    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
+    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
+    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
+    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
+    ri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­
     lima daryti jokios kitos išvados, o tik tą, kurią jau minė­
     jome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse
     gyventa anksčiau, negu atvykėliai alanai davė pradžią
-    šių lydinių susidarymui. Juk šiandien negalima nieko įro­
-    dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
-    šios tautos likučiai, Kaukazo kalnų gyventojai osetinai,
-    ištirti mokslininko, senovės istoriko pono Klaproto, kuris
-    veikale „Asia Polyglotta“** pateikia osetinų kalbos žo­
-    dyną, kuriame nerandame nieko, ką galima būtų vadinti
-    panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
-    tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
+    šių lydinių susidarymui.
   citata_rodoma: "Sutiksime net\nir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-\nalanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,\ngyvenantys prie Peipaus ežero, dar ir šiandien lietuvius\nvadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­\nri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­\nlima daryti jokios kitos išvados, o tik tą, kurią jau minė­\njome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse\ngyventa anksčiau, negu atvykėliai alanai davė pradžią\nšių lydinių susidarymui."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -19342,20 +19236,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 84"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
   citata_originali: |
-    Kadangi ir šioje yra nemažai pasi­
-    savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
-    šybė pasirodo esanti dar ryškesnė. Bet jos principai visiškai
-    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
-    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
-    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
-    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
-    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
-    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
-    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
-    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
-    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
-    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
-    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
+    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
+    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
+    čią beveik visas menkiausias smulkmenas.
+    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
+    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
+    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
+    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
+    plaikos kilo mitologija, kurią imamės išdėstyti.
   citata_rodoma: "Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip\ntatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną\nir tais pačiais principais besiremiančią religiją, pamėgdžiojan-\nčią beveik visas menkiausias smulkmenas.\nNet atrodo, kad Graikijos ir senosios Romos dievai, išgui­\nti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­\ndami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų\nsistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­\nplaikos kilo mitologija, kurią imamės išdėstyti."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -19363,7 +19252,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-023
 
 - id: c-181976
@@ -19470,15 +19358,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 394"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 394."
   citata_originali: |
-    Autorius pereina prie dalykų, susijusių su pačiais kryžiuo­
-    čiais ir jų konfliktu su Livonijos arkivyskupu. Toliau grįžta prie
-    Lietuvos bažnyčios, iškeldamas tokią aksiomą: „Krikščionybė
-    tol neapsivalys savo klaidų, kol piemenys nesiliaus savo pačių
-    gerovę branginę labiau už avidės gerovę, kol papročių švelnu­
-    mu, savo dorybėmis ir nenuilstamu budėjimu nepalenks žmo­
-    nių širdžių Dievui vieningame tikėjime“. Autorius pateikia iš­
-    kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
-    gyne.
+    Religijos valdžia yra didelė
+    ir buvo vyriausia. Prūsijai ir Livonijai praradus nepriklauso­
+    mybę, tų kvailysčių sumažėjo, ir pamažu stabmeldystės griu­
+    vėsiuose ėmė įsitvirtinti krikščionybė, kol 1387 metais Dievas
+    visą tautą pašaukė priimti šventąjį tikėjimą“.
+    Toliau autorius pateikia kai kurių lietuvių mitologijos sri-
+    393
+
+    ## Puslapis 393
+
+    čių smulkius aprašymus; iš jų tas vietas, kurios mums šiaip ne­
+    buvo žinomos, išdėstėme anksčiau įvairiuose straipsniuose.
   citata_rodoma: "Religijos valdžia yra didelė\nir buvo vyriausia. Prūsijai ir Livonijai praradus nepriklauso­\nmybę, tų kvailysčių sumažėjo, ir pamažu stabmeldystės griu­\nvėsiuose ėmė įsitvirtinti krikščionybė, kol 1387 metais Dievas\nvisą tautą pašaukė priimti šventąjį tikėjimą“.\nToliau autorius pateikia kai kurių lietuvių mitologijos sri-\n393\n\n## Puslapis 393\n\nčių smulkius aprašymus; iš jų tas vietas, kurios mums šiaip ne­\nbuvo žinomos, išdėstėme anksčiau įvairiuose straipsniuose."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -19591,6 +19482,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-075
     - t-089
 
 - id: c-181985
@@ -19642,16 +19534,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 377"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
   citata_originali: |
-    įvairiose Prūsijos vietose tiek atsitiktinai, tiek sąmoningai ka­
-    sinėjant senovinius pilkapius, ypač Velnio saloje (Czartowy-
-    Osirow), esančioje Sniardvų ežere, ir ties Pleviškių kaimu, as­
-    tuonios mylios nuo Karaliaučiaus, prie Priegliaus upės. Tai bu­
-    vo puodeliai arba kažkokios urnos su pelenais ir sudegusių
-    žmonių kaulų gabaliukais viduje. Toje vietovėje pats autorius
-    liepė atkasti vieną pilkapį ir surado naujo pavidalo pelenų ur­
-    ną. Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo­
-    roti, kad tarp jų susidariusioje tuštumoje galėjo būti pilami
-    pelenai.
+    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
+    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
+    kad į jas tekėtų ašaros.
+    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
+    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
+    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
+    Obelijomis.
   citata_rodoma: "Vienoda jų sandara ir tokia pat radimo vieta įtikina,\njog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,\nkad į jas tekėtų ašaros.\nTikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­\ndos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­\nrias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo\nObelijomis."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -19689,15 +19578,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 31"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 31."
   citata_originali: |
-    T. Narbutas Lietuvoje suranda ir antikinio mito apie Plu­
-    tono pagrobtą Demetros dukterį Persefonę atitikmenį. Visiš­
-    kai panašų „pasakojimą“ jis nugirsta Raseinių apskrityje, Pa­
-    švenčio apylinkėse. Šio „pasakojimo“ svarbiausi veikėjai pasi­
-    rodo besą M. Strijkovskio, K. Hartknocho ir kitų minimas po­
-    žemio dievas Poklius (lietuviškasis Plutonas), M. Strijkovskio
-    minima Krūminė (lietuviškoji Demetra) ir paties T. Narbuto
-    surasta jų duktė Nijolė (Persefonė). Surandama ir moneta,
-    iliustruojanti šį „pasakojimą“.
+    Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­
+    da davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo
+    nimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi
+    16
+    Žr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -
+    V., 1968.-T. I.-P. 1118.
+    31
+
+    ## Puslapis 31
+
+    Aleksotu, tai dainas, kuriose apdainuojamas lietuviškosios
+    Aleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse.
   citata_rodoma: "Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­\nda davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo\nnimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi\n16\nŽr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -\nV., 1968.-T. I.-P. 1118.\n31\n\n## Puslapis 31\n\nAleksotu, tai dainas, kuriose apdainuojamas lietuviškosios\nAleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -19758,14 +19650,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 11"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
   citata_originali: |
-    Aš, kaip atrodo, pasirinkau vidurio kelią: pateikdamas faktus
-    apie tautą, išvadas ir visa tai, ko nėra šaltiniuose, palieku pa­
-    daryti pačiam skaitytojui. Hiūmas buvo mano pavyzdys, tik
-    nežinau, ar tai pavyko“12.
-    T. Narbuto istorijos darbų kritika stiprėjo. Lietuvos istori­
-    kas Mykolas Balinskis rašė: „Kas tiek pasakų palaikė tiesa ir
-    j gretino jas su tikrais įvykiais, kas nesvyruodamas kaitaliojo da-
-    11 List T. Narbutta do A. Reniera 1843 r.
+    T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
+    kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
+    tojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet
+    mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
+    reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
+    kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
   citata_rodoma: "T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­\nkino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­\ntojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet\nmus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių\nreikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,\nkad mes jų turime daugiau ir kur kas geresnių negu lenkai“11."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -19773,7 +19663,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-130
 
 - id: c-181993
   autorius: "Teodoras Narbutas"
@@ -19809,18 +19699,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 488"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
   citata_originali: |
-    94 /Ten
-    pat,
-    nenurodyta
-    vieta/
-    Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
-    (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
-    tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui. Jo
-    vardas kilęs iš žodžio žvaigždė (Zwajgida), bet savo išvaizda jis
-    visiškai nepanašus į Apoloną, Tai barzdotas senis su žibintu ran­
-    koje. Šį priekaištą išsakė po/nas/ Tadas Volianskis. Ir tai būtų
-    galima priimti domėn: Siaurės tautos turėjo vaizdinių apie švie­
-    sos dievą.
+    Moneta labai plona, labai apgadinta ir išliko
+    lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti
+    Krūminės medalį). Panašios monetos piešinį man atsiuntė p/onas/
+    Tad/as/ Voliankis. Ji buvo rasta Lietuvoje ir, jo nuomone, pri­
+    klauso lietuviškiems paminklams.
   citata_rodoma: "Moneta labai plona, labai apgadinta ir išliko\nlik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti\nKrūminės medalį). Panašios monetos piešinį man atsiuntė p/onas/\nTad/as/ Voliankis. Ji buvo rasta Lietuvoje ir, jo nuomone, pri­\nklauso lietuviškiems paminklams."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -20020,7 +19903,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-068
-    - t-042
 
 - id: c-182003
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -20376,17 +20258,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 354"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 354."
   citata_originali: |
-    Šį paprotį, bendrą lietuviams ir slavams, mūsų rašytojai
-    dažnai mini; vis dėlto jo smulkmenų niekur nėra papasakota;
-    aprašysime, kaip tai vyksta dabar mano užkampyje; tikriausiai
-    nedaug skirsis nuo senovinio. Trobos vidury pastato duonku­
-    bilį dugnu į viršų, ant jo deda pagalvę, ant kurios atsisėda jau­
-    noji. Uždega vaško žvakę, visi sustoja ratu, merginos - pagal­
-    bininkės arba pamergės (draiki) - dainuoja dainą, vaizduoda­
-    mos esančios labai susigraudinusios, verkiančios; šios dainos
-    turinys toks: vargšė mergelė netenka savo vainikėlio, pereina į
-    kitą padėtį - priklausomybės ir nelaisvės, darbų, pastangų, rū­
-    pesčių ir 1.1, būklę.
+    Tuo tarpu sužadėtinę įvesdavo į trobą, vežėjas nu­
+    šokdavo nuo stalelio, pasiimdavo savo rankšluostį, o ant stale­
+    lio pasodindavo sužadėtinę. Tuoj prasidėdavo jungtuvės,
+    f
+    Įkijungtuviniuose papročiuose, be abejo, buvo skirtumų,
+    nelygu kurios jie buvo tautos iš įvairių, sudariusių lietuvių gentį,
+    ir jie kito pareinamai nuo vietos aplinkybių; pagaliau pats lai­
+    kas daug ką pakeitė. Aprašysime naujesnius pastebėjimus iš
+    Pietų Lietuvos.
   citata_rodoma: "Tuo tarpu sužadėtinę įvesdavo į trobą, vežėjas nu­\nšokdavo nuo stalelio, pasiimdavo savo rankšluostį, o ant stale­\nlio pasodindavo sužadėtinę. Tuoj prasidėdavo jungtuvės,\nf\nĮkijungtuviniuose papročiuose, be abejo, buvo skirtumų,\nnelygu kurios jie buvo tautos iš įvairių, sudariusių lietuvių gentį,\nir jie kito pareinamai nuo vietos aplinkybių; pagaliau pats lai­\nkas daug ką pakeitė. Aprašysime naujesnius pastebėjimus iš\nPietų Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -20611,13 +20491,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 17"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
-    Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
-    Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
-    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
-    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
-    prieš Ordiną. Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
-    pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos
-    66  PD, II, 6; PKD, s.
+    Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
+      Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo
+    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis.
   citata_rodoma: "Dusburgietis, rašydamas apie lietuvių\npuolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti\nprieš Lietuvą (III, 343—346, 357—358).\n  Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo\nžemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -20722,29 +20600,22 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 396-397"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 396-397."
   citata_originali: |
-    Lenkų kunigai
-    neapkentė tų apeigų; taigi šitokios kovos išdava buvo tokia,
-    kad, vieni iš kitų sulaukdami prozelitų, krikštydavo juos antrą
-    kartą. Tačiau nešališki teologai tą visuomet smerkdavo. Jero- 1
-    1 Specimen Ecclesiae Ruthenicae*.
-    icn
-
-    nimas Prahiškis iš Čekijos, kuris gavo gerą išsilavinimą gimta­
-    jame mieste, vėliau leidosi į keliones, aplankė Vokietiją, Pran­
-    cūziją, Ispaniją, Portugaliją, Italiją, visur pastudijuodamas žy­
-    miausiose mokyklose; paskui vyko į Palestiną, o prieš 1403
-    metus buvo Lenkijoje ir Lietuvoje, aplankė Krokuvą, važiavo
-    per Varšuvą, Gardiną, Vilnių ir Žemaitiją, visur šviesdamasis
-    ir šviesdamas kitus tikėjimo dalykais su didžiausiu nuolanku­
-    mu Romos bažnyčiai. Iš Lietuvos per Karaliaučių jis išplaukė
-    jūra į Angliją; ten pataikė į patį Viklifo mokymo atgimimą,
-    susijusį su Kenterberio arkivyskupo Arundelo įniršiu prieš lor­
-    dą Kobhemą; su nežabotu atkaklumu lordas gynė savo nuo­
-    monę dėl tikėjimo dalykų, kuriuos įsivaizdavo taip, kaip ir Vik-
-    lifas; dar pikčiau buvo užsispyręs arkivyskupas, asmeniškai įtū­
-    žęs ant lordo; pagaliau tragiška tos kovos baigtis anuo metu
-    darė įspūdį protams, atsidavusiems religiniams svarstymams,
-    ir sukėlė susidomėjimą beveik užmirštais Viklifo raštais.
+    Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­
+    delis lietuvių svetingumas, darbštumas, namų gyvenimo do­
+    rybės.
+    Iš šito rankraščio pasisemiame žinių apie pirminį krikščio­
+    nybės paplitimą Lietuvoje; XI amžiuje krikščionybė tikriau­
+    siai buvo paplitusi tik labai menkai, nes lietuvių vyriausiųjų
+    žynių valdžia gyvavo nepajudinama iki XIII amžiaus vidurio;
+    tuomet prūsai suklupo prieš kryžiuočius, panašiai Livonija su
+    Kuršu, pačioje Lietuvoje tų pačių riterių puolimai darėsi bai­
+    sesni, lietuviai kunigaikščiai savo žvilgsnius ėmė labiau kreipti
+    į rusų kraštus, o jų savitarpio kovos sudrebino vidinę valstybės
+    sandarą; pagaliau užkariavus Minską, Naugarduką, Pinską ir
+    dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
+    kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
+    Rusia. Susidarius tokiai padėčiai, rusų tikėjimo cerkvės galėjo
+    paplisti Lietuvoje, ir gausėjo krikščionybės išpažinėjų.
   citata_rodoma: "Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­\ndelis lietuvių svetingumas, darbštumas, namų gyvenimo do­\nrybės.\nIš šito rankraščio pasisemiame žinių apie pirminį krikščio­\nnybės paplitimą Lietuvoje; XI amžiuje krikščionybė tikriau­\nsiai buvo paplitusi tik labai menkai, nes lietuvių vyriausiųjų\nžynių valdžia gyvavo nepajudinama iki XIII amžiaus vidurio;\ntuomet prūsai suklupo prieš kryžiuočius, panašiai Livonija su\nKuršu, pačioje Lietuvoje tų pačių riterių puolimai darėsi bai­\nsesni, lietuviai kunigaikščiai savo žvilgsnius ėmė labiau kreipti\nį rusų kraštus, o jų savitarpio kovos sudrebino vidinę valstybės\nsandarą; pagaliau užkariavus Minską, Naugarduką, Pinską ir\ndalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­\nkraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio\nRusia. Susidarius tokiai padėčiai, rusų tikėjimo cerkvės galėjo\npaplisti Lietuvoje, ir gausėjo krikščionybės išpažinėjų."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -20808,21 +20679,22 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 178"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
-    Tai yra tai, ką prancūzai
-    vadina košmaru (Cochemar). Tą vardą duodavo taip pat fau­
-    nams ir satyrams dėl jų gašlumo. Tamsybės laikais demonog-
-    rafai išgalvojo velnius - viršgulius, Incubi, ir apačgulius, Suc­
-    cubi, kankinančius žmones per miegą begėdiškais vaizdais, net
-    tikrais veiksmais, ypač davusius skaistybės įžadus. Antikos žmo­
-    nės dievino viršgulius, vadindami Graikijoje efialtais, Romo­
-    je - hifialtais“.
+    Dar ir dabar jį tiki tamsūs žmonės“14 15.
+    Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
+    matomas užpuola miegančias moteris, kitą kartą prijaukintas
+    pasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­
+    da į klėtis, senoms, taupioms šeimininkėms išneša grietinę,
+    duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
+    terims arba mergaitėms, duoda net pinigų.
   citata_rodoma: "Dar ir dabar jį tiki tamsūs žmonės“14 15.\nLietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­\nmatomas užpuola miegančias moteris, kitą kartą prijaukintas\npasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­\nda į klėtis, senoms, taupioms šeimininkėms išneša grietinę,\nduoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­\nterims arba mergaitėms, duoda net pinigų."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
+
 - id: c-182040
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -20940,18 +20812,17 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 30"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
   citata_originali: |
-    Iš visų spausdintų
-    verčiausias yra vienas Strijkovskis**, po to — prūsų ir
-    Livonijos kronikininkai. Nepaneigiama tiesa tai, kad šis
-    istorikas būtų buvęs laimingesnis, jei būtų panorėjęs ap­
-    siriboti tik senienų ir rankraščių, kurių daugelį turėjo po
-    ranka, rinkėjo šlove; bet, nelaimei, jis įsigeidė istorijos,
-    suskirstytos į knygas ir skyrius, kurių priekyje įdėtų sa­
-    vo rėmėjų vardus. Užsikrovęs šią ne pagal savo jėgas
-    naštą, mūsų garbingasis pirmtakas skubėjo be menkiau­
-    sios kritikos, be atsargumo su datomis, palyginimo, da­
-    lyko nagrinėjimo, ir skubėjo pagrįstai: jau nedaug metų
-    jam buvo skirta gyventi.
+    Kalbant apie istorinius seno­
+    vės šaltinius, negalima nepaminėti naujesnių, bet ir
+    čia iškyla nemalonių prisiminimų. Lietuva, susijungusi
+    30
+
+    ## Puslapis 30
+
+    su Lenkija, savanoriškai atsisakė savo nepriklausomybės,
+    pateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos
+    išorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,
+    padarė ją niokojančių karų grobiu.
   citata_rodoma: "Kalbant apie istorinius seno­\nvės šaltinius, negalima nepaminėti naujesnių, bet ir\nčia iškyla nemalonių prisiminimų. Lietuva, susijungusi\n30\n\n## Puslapis 30\n\nsu Lenkija, savanoriškai atsisakė savo nepriklausomybės,\npateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos\nišorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,\npadarė ją niokojančių karų grobiu."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -21167,7 +21038,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindzia:
     - t-067
     - t-052
-    - t-077
 
 - id: c-182055
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -21192,7 +21062,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-083
     - t-074
 
 - id: c-182056
@@ -21290,7 +21159,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
     - t-073
     - t-083
     - t-057
@@ -21894,7 +21762,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-083
     - t-074
 
 - id: c-182088
@@ -22160,6 +22027,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - Prekiavo su: [[objektai/grupes/Vilniaus miestiečių luomas]]
 - Buvo užkariauta: [[objektai/grupes/Sovietų Sąjunga]]
 - Gyvenamoji vieta: [[objektai/grupes/Lietuvos rusinai]], [[objektai/asmenys/Tochtamišas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Žydai]]
-- Turėjo priklausinį: [[objektai/vietos/Baltoji Rusia]], [[objektai/vietos/Karaliaučius]], [[objektai/grupes/Kijevo kunigaikštystė]], [[objektai/vietos/Kijevo Rusia]], [[objektai/vietos/Klaipėdos kraštas]], [[objektai/daiktai/Lietuvos auksas]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/vietos/Livonija]], [[objektai/vietos/Pagraudė]], [[objektai/vietos/Palanga]], [[objektai/vietos/Podolė]], [[objektai/vietos/Podolija]], [[objektai/vietos/Polockas]], [[objektai/vietos/Ragainė]], [[objektai/vietos/Severskas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Voluinė]], [[objektai/grupes/Žemaičiai]], [[objektai/vietos/Žemaitija]]
-- Lietuva prekiavo su [[objektai/vietos/Dancigas]], [[objektai/vietos/Karaliaučius]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Vokietija]]
-- Lietuva priklausė [[objektai/vietos/Europa]], [[objektai/grupes/Europos Sąjunga]], [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]], [[objektai/grupes/NATO]], [[objektai/vietos/Rusija]], [[objektai/vietos/Rytų Europa]], [[objektai/vietos/SSRS]], [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]], [[objektai/grupes/Tautų Sąjunga]]
+- Turėjo priklausinį: Baltoji Rusia, Karaliaučius, [[objektai/grupes/Kijevo kunigaikštystė]], Kijevo Rusia, Klaipėdos kraštas, [[objektai/daiktai/Lietuvos auksas]], [[objektai/grupes/Lietuvos kariuomenė]], Livonija, Pagraudė, Palanga, Podolė, Podolija, Polockas, Ragainė, Severskas, Smolenskas, Trakai, Vitebskas, Voluinė, [[objektai/grupes/Žemaičiai]], Žemaitija
+- Lietuva prekiavo su Dancigas, Karaliaučius, Lenkija, Vokietija
+- Lietuva priklausė Europa, [[objektai/grupes/Europos Sąjunga]], [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]], [[objektai/grupes/NATO]], Rusija, Rytų Europa, SSRS, [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]], [[objektai/grupes/Tautų Sąjunga]]

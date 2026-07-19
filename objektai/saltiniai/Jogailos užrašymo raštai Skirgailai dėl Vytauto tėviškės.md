@@ -48,7 +48,7 @@ Jau metai laiko nūnai, kai kunigaikštis [Jogailai Liublino pilyje užrašė ku
   citata_originali: |
     Jau metai laiko nūnai, kai kunigaikštis [Jogailai
     Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
-    visą mano tėviškę mano akivaizdoje6. Man tai buvo
+    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
     labai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­
     čiui Jogailai ir mačiau aiškiai, kad aš čia ničnieko ne­
     galėjau padaryti ir negalėjau nieku būdu tų privilegijų

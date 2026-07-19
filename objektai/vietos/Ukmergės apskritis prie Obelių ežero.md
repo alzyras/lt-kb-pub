@@ -27,48 +27,6 @@ media_all_json: |-
 
 Ukmergės apskrityje prie Obelių ežero degintiniame kape buvo rasti 2–5 colių skersmens varpeliai.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Ukmergės apskrityje prie Obelių ežero degintiniame kape buvo rasti 2–5 colių skersmens varpeliai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ištirti mord­
-    vių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­
-    je prie Obelių ežero degintiniame kape buvo rasti varpeliai, kurie ka­
-    daise turėjo panašią paskirtį. Jų skersmuo - 2-5 coliai. Turiu savo se­
-    nienų rinkinyje**.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171960
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Bet jeigu šuolis pavykdavo,
-    jis sulaukdavo plojimų ir gaudavo dovanų paklotą ant stalelio
-    rankšluostį. Tuo tarpu sužadėtinę įvesdavo į trobą, vežėjas nu­
-    šokdavo nuo stalelio, pasiimdavo savo rankšluostį, o ant stale­
-    lio pasodindavo sužadėtinę. Tuoj prasidėdavo jungtuvės,
-    f
-    Įkijungtuviniuose papročiuose, be abejo, buvo skirtumų,
-    nelygu kurios jie buvo tautos iš įvairių, sudariusių lietuvių gentį,
-    ir jie kito pareinamai nuo vietos aplinkybių; pagaliau pats lai­
-    kas daug ką pakeitė.
-  citata_rodoma: "Ištirti mord­\nvių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­\nje prie Obelių ežero degintiniame kape buvo rasti varpeliai, kurie ka­\ndaise turėjo panašią paskirtį. Jų skersmuo - 2-5 coliai. Turiu savo se­\nnienų rinkinyje**."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189071"></a>
@@ -90,3 +48,24 @@ Ukmergės apskrityje prie Obelių ežero degintiniame kape buvo rasti 2–5 coli
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171960
+
+## Citatos
+
+- id: c-171960
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Ištirti mord­
+    vių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­
+    je prie Obelių ežero degintiniame kape buvo rasti varpeliai, kurie ka­
+    daise turėjo panašią paskirtį. Jų skersmuo - 2-5 coliai. Turiu savo se­
+    nienų rinkinyje**.
+  citata_rodoma: "Ištirti mord­\nvių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­\nje prie Obelių ežero degintiniame kape buvo rasti varpeliai, kurie ka­\ndaise turėjo panašią paskirtį. Jų skersmuo - 2-5 coliai. Turiu savo se­\nnienų rinkinyje**."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

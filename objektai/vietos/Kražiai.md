@@ -58,6 +58,29 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   pagrindžia:
     - c-67884
 
+<a id="claim-t-188726"></a>
+- t-002
+  teiginys: "Narbutas Kovo statulėlę, 1836 m. rastą netoli Kražių, laikė akivaizdžiu įrodymu, kad lietuviai turėjo stabus."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kražiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kražiai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1836 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas antraštės triukšmas ir OCR lūžiai. Vertinamasis bei religinis aiškinimas paliktas su Narbuto atribucija."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171615
+
 <a id="claim-t-188728"></a>
 - t-004
   teiginys: "Narbutas rašė, kad 1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius nekrikštytų valstiečių."
@@ -183,40 +206,41 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    To dievaičio vardo
-    užraše raidė „o“yra įterpta į vidurį, o ne įpabaigą, vadinasi, yra
-    „Koruch“ vietoj „Kracho“, o vietoje raidės „ch“, kuri nebuvo ži­
-    noma venedų runų abėcėlėje, buvo naudojama dviguba „gg“
-    (11), kurios, sujungtos į vieną raidę, skaitoma kaip „ CH“. (Li­
-    tografiją paėmiau iš Tomseno II lentelės, 22 piešinio) “ (žiūrėk
-    iliustraciją p. 257, piešinį 49). Antrasis numizmatinis radinys tos
-    pačios kilmės su tokiu aprašymu: „Medalionas su kiek dailesniu
-    raiteliu, be paukščio.
+    Moneta, rasta Ballvyžių girioje.
+    Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
+    255
+
+    ## Puslapis 255
+
+    Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos že­
+    mėje netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietu­
+    viai turėjo stabus. Sis stabas yra natūralaus dydžio, iš bronzos,
+    tai yra senovinio Korinto vario, gražiai išlietas, pilnaviduris, be
+    abiejų rankų (žiūrėk Xlentelę).
   citata_rodoma: "Moneta, rasta Ballvyžių girioje.\nTeodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje\n255\n\n## Puslapis 255\n\nKaro dievo Kovo statulėlė, 1836 metais rasta Žemaitijos že­\nmėje netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietu­\nviai turėjo stabus. Sis stabas yra natūralaus dydžio, iš bronzos,\ntai yra senovinio Korinto vario, gražiai išlietas, pilnaviduris, be\nabiejų rankų (žiūrėk Xlentelę)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-171617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tie sampilai priklauso toli­
-    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
-    tose. Tačiau kraštui neturint savo istorijos ir žuvus daugeliui
-    rašto šaltinių, į užmarštį nugrimzdo atminimas apie daugelio
-    žymių žmonių kapus. Tokių kapų pasitaiko aukštose vietose
-    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
-    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
-    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
-    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
-    nių kapų. Lietuvos didžiojo kunigaikščio Gedimino kapas yra
-    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
-    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
-    avide cupientes tumulos, quam maximos efficere (Herodotas).
+    Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
+    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
+    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
   citata_rodoma: "Nepai­\nsant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje\nŽemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­\nma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­\ngų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

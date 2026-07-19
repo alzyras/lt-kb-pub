@@ -7,15 +7,15 @@ datos:
   - '1331 m.'
 date_start: '1331'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,53 +34,6 @@ media_all_json: |-
 ## Santrauka
 
 Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Viena tokia buvo Didžiojoje
-    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
-    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
-    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
-    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
-    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
-    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
-    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
-    dyklos vietoje įkūrė cerkvę su šventiku.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172988
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Tai davė jiems dingstį pasista­
-    tydinti pilį, nes Kernavė buvo visiškai sunaikinta. O kadangi
-    duoklės susidėjo daugiausia iš miško gėrybių, nes dirbamos
-    žemės dirvonavo trūkstant išblaškytų ir už Neries pabėgusių
-    žmonių, todėl valdovų ir krašto gyventojų verslas buvo lauki­
-    nių žvėrių medžioklė. Dėl šios priežasties ir tuo metu atsirado
-    Trakų pavadinimas. Vėliau Lietuvos kunigaikščiai, išstūmę ru­
-    sinus iš tos krašto dalies, pasilaikė tą pilį; tenai žmonės, taikiai
-    ir laisvai gyvendami, ilgai džiaugėsi palaiminga būtimi; šito
-    liudytojai buvo miestas, pilis ir šventyklos, garsėjusios labai
-    gražiais ir nuostabą keliančiais pastatais.
-  citata_rodoma: "Viena tokia buvo Didžiojoje\ngatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių\nkunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.\nMaldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­\nko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­\nvei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.\nŠi pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­\ntos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­\ndyklos vietoje įkūrė cerkvę su šventiku."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -107,6 +60,31 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172988
+
+## Citatos
+
+- id: c-172988
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Viena tokia buvo Didžiojoje
+    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
+    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
+    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
+    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
+    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
+    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
+    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
+    dyklos vietoje įkūrė cerkvę su šventiku.
+  citata_rodoma: "Viena tokia buvo Didžiojoje\ngatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių\nkunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.\nMaldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­\nko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­\nvei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.\nŠi pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­\ntos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­\ndyklos vietoje įkūrė cerkvę su šventiku."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

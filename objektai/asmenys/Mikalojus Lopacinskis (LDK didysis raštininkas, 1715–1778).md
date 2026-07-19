@@ -8,14 +8,14 @@ datos:
   - '1778 m.'
 date_start: '1715'
 date_end: '1778'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-amziai:
-  - 'XVIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -92,6 +92,23 @@ Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopac
 - susijęs iš [[objektai/paprociai/Teisminių reikalų tvarkymas per advokatus ir regentus.md#claim-t-200558|Teisminių reikalų tvarkymas per advokatus ir regentus]]: 1751 m. Lopacinskis nurodė regentui Ščepanovskiui sumokėti advokatui Glindzičiui 15 auksinų.
 - susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200619|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1757 m. Lopacinskis su Vitebsko kaštelionu Martynu Tiškevičiumi tarėsi dėl seimelio reikalų ir Sapiegų interesų.
 - susijęs iš [[objektai/paprociai/Teisminių reikalų tvarkymas per advokatus ir regentus.md#claim-t-200558|Teisminių reikalų tvarkymas per advokatus ir regentus]]: 1751 m. Lopacinskis nurodė regentui Ščepanovskiui sumokėti advokatui Glindzičiui 15 auksinų.
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  citata_originali: |
+    Bene dažniausias jo adresa-
+    tas buvo brolis Mikalojus Lopacinskis (1715–1778) – būsimasis LDK didysis raštininkas.
+    Jo, kaip savo giminės ir, be abejo, luomo atstovo, interesai Vilniuje buvo bene svarbiausi
+    būsimam hierarchui ir viena iš pagrindinių jo laiškų temų. Jis brolį nuolat ragino dažniau
+    atvykti į Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-001
+    - t-002
+
 ## Citatos
 
 - id: c-183840

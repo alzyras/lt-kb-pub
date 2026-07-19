@@ -880,6 +880,25 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168093
     - c-176117
 
+<a id="claim-t-184733"></a>
+- t-234
+  teiginys: "Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams."
+  atnaujinta: "2026-07-19 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Korčinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Korčinas: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Korčinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168094
+
 <a id="claim-t-184734"></a>
 - t-235
   teiginys: "Sužinojęs apie Vytauto vainikavimo reikalą, karalius Jogaila ieškojo užtarėjų ir apie viską pranešė Romos popiežiui."
@@ -2727,23 +2746,19 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kadangi neseniai per pasiuntinius buvo pra­
-    šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
-    savo žento, ir toji pagalba diena iš dienos turėjo at­
-    vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
-    gailą traukti su nedidele kariuomene ir be pagalbinin­
-    kų stoti į lemiamą mūšį. Kad kariai turėtų kokį užsi­
-    ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti
-    Trakus. Po kelių dienų apgulos, sutikęs smarkų pasi­
-    priešinimą, griebėsi kito sumanymo. Mat tuo metu
+    Mat tuo metu
     paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
     nutaręs, jog dabar tinkama proga nebaudžiamam su­
     laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
     žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
     2 7 0
 
+    ## Puslapis 269
+
     Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
-    jos, jau traukė su kariuomene iš Vilniaus.
+    jos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­
+    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
+    jie neprilygsta nei ginkluote, nei karių skaičiumi.
   citata_rodoma: "Mat tuo metu\npaaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,\nnutaręs, jog dabar tinkama proga nebaudžiamam su­\nlaužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­\nžęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.\n2 7 0\n\n## Puslapis 269\n\nBe to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­\njos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­\nnojo, kad priešas vedasi didžiulę kariuomenę, kuriai\njie neprilygsta nei ginkluote, nei karių skaičiumi."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2759,10 +2774,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
-    jos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­
-    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
-    jie neprilygsta nei ginkluote, nei karių skaičiumi. Ta­
+    Ta­
     čiau šis senas karys ir vadas, pasikliaudamas savo rei­
     kalo teisumu ir žinodamas, jog atsitraukimas neatneš
     išsigelbėjimo, tik gėdą, ryžtingai patraukė prieš Jo­
@@ -2774,7 +2786,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     pergale, numanė, jog kova pareikalaus didelių aukų,
     ir todėl nutarė pirmiau pabandyti vilioti patiklias šir­
     dis klastingais žodžiais nei pulti kovų užgrūdintus vy-
-    monėmis.
+    monėmis. Tegu jie atsimeną, jog viena prieš kitą sto­
+    vinčios ne priešų, bet giminaičių rikiuotės.
   citata_rodoma: "Ta­\nčiau šis senas karys ir vadas, pasikliaudamas savo rei­\nkalo teisumu ir žinodamas, jog atsitraukimas neatneš\nišsigelbėjimo, tik gėdą, ryžtingai patraukė prieš Jo­\ngailą ir atvirame lauke išrikiavo savo pulkus. Abi ka­\nriuomenės kovos tvarka stovėjo priešais viena kitą:\nšiapus — nevilties į priekį varomi Kęstučio kariai, pa­\nsiryžę atkakliai žingsnis po žingsnio veržtis į kovą ir\nmirtį, anapus — Jogaila, kuris nors neabejojo savųjų\npergale, numanė, jog kova pareikalaus didelių aukų,\nir todėl nutarė pirmiau pabandyti vilioti patiklias šir­\ndis klastingais žodžiais nei pulti kovų užgrūdintus vy-\nmonėmis. Tegu jie atsimeną, jog viena prieš kitą sto­\nvinčios ne priešų, bet giminaičių rikiuotės."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2831,20 +2844,17 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Karalienė pyko ir — keista — kartą savo
-    rankomis mėgino sudaužyti visus skląsčius, ji tikriau­
-    siai būtų dar ką padariusi, ko nieku būdu nedera da­
-    ryti moteriai ir karalienei, jeigu Dimitras Goraiskis,
-    karalystės iždininkas, nebūtų sutramdęs protingais pa­
-    tarimais audringų silpnos moters užmojų. Tuo tarpu
-    Vilhelmas, bijodamas didesnių nemalonumų, slapta pa­
-    spruko iš Krokuvos, per skubėjimą palikdamas čia
-    daugybę indų. Po kelių dienų Jogaila, lydimas Lietu­
-    vos didikų ir savo giminės kunigaikščių, buvo sutik­
-    tas Krokuvos vaivados Spiteko iš Melštino, išvykusio
-    pagarbos pareikšti su rinktinių raitelių būriu keletą
-    mylių priešais, o vasario 12 dieną įjojo į Krokuvą, su­
-    teikdamas didingą reginį miestiečiams.
+    Tą pačią dieną
+    jis asmeniškai pasveikino karalienę, kitą dieną per
+    brolius Skirgailą bei Vytautą
+    pasiuntė jai gausių dovanų.
+    Po to vasario 16 dieną, kuri
+    paskirta šv. Valentinui, Gnez-
+    no
+    arkivyskupo
+    Bodzantos
+    apkrikštytas, gavo Vladislo­
+    vo vardą.
   citata_rodoma: "Tą pačią dieną\njis asmeniškai pasveikino karalienę, kitą dieną per\nbrolius Skirgailą bei Vytautą\npasiuntė jai gausių dovanų.\nPo to vasario 16 dieną, kuri\npaskirta šv. Valentinui, Gnez-\nno\narkivyskupo\nBodzantos\napkrikštytas, gavo Vladislo­\nvo vardą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -2859,30 +2869,29 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Todėl ėmė tartis su rusų didikais, kokiu būdu galima
-    būtų užimti Rusią, iš kur ga-
-    Susitaria su rusais
-    lėtų pats savo nuožiūra pra-
-    labai toli nuo Livonijos, Baltarusijoje, turtingą Vitebs­
-    ko žemę valdė karaliaus Jogailos vietininkas Teodoras
-    Vesna, karaliaus sakalininkas Lietuvoje. Nors šis kraš­
-    tas anksčiau Algirdo buvo prijungtas prie Lietuvos vals­
-    tybės, tačiau Jogaila jį pasiliko sau kaip tėvonijos dalį.
-    Vis dėlto saugojo tą žemę nelabai rūpestingai (šitaip pa­
-    prastai esti, kai karalysčių pakraščiai pavedami tiems,
-    kurie tenkina karalių įgeidžius), galima sakyti, visai
-    aplaidžiai, rodos, nė nemanydamas, jog jai gali grėsti
-    koks pavojus. Nematė ar dėjosi nematąs jai gresiančio
-    pavojaus ir Vytautas, nelyginant šitai būtų visai sveti­
-    mas reikalas. Tad Švitrigaila, būdamas tikras, jog ru­
+    Tad Švitrigaila, būdamas tikras, jog ru­
     sai jam pasiduos, tyliai pa-
-    U žim a V ite b s k o že-
+    U žim a  V ite b s k o  že-
     traukė žinomais keliais per
     puolė Vitebską, be didelio vargo užėmė Vitebsko miestą
     ir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini­
     mų, bet ir dėl neprieinamos vietos, rusams be kovos
     pasiduodant, o po to į savo rankas paėmė Oršą ir visą
-    kraštą tarp Dnepro ir Dauguvos.
+    kraštą tarp Dnepro ir Dauguvos. Jogaila, neilgai tru­
+    kus gavęs žinią apie tuos įvykius, ne tiek pykdamas
+    dėl žemės netekimo, kiek dėl nešlovės (mat jam pra­
+    nešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu­
+    vęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė
+    dėti karą prieš Vytautą. Ne-
+    mę
+    Polocko girias su keliais tūks­
+    tančiais Livonijos karių, už-
+    348
+
+    ## Puslapis 347
+
+    Vytautui tol kariauti, kol neatsiims žemės ir nesutriuš­
+    kins Švitrigailos.
   citata_rodoma: "Tad Švitrigaila, būdamas tikras, jog ru­\nsai jam pasiduos, tyliai pa-\nU žim a  V ite b s k o  že-\ntraukė žinomais keliais per\npuolė Vitebską, be didelio vargo užėmė Vitebsko miestą\nir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini­\nmų, bet ir dėl neprieinamos vietos, rusams be kovos\npasiduodant, o po to į savo rankas paėmė Oršą ir visą\nkraštą tarp Dnepro ir Dauguvos. Jogaila, neilgai tru­\nkus gavęs žinią apie tuos įvykius, ne tiek pykdamas\ndėl žemės netekimo, kiek dėl nešlovės (mat jam pra­\nnešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu­\nvęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė\ndėti karą prieš Vytautą. Ne-\nmę\nPolocko girias su keliais tūks­\ntančiais Livonijos karių, už-\n348\n\n## Puslapis 347\n\nVytautui tol kariauti, kol neatsiims žemės ir nesutriuš­\nkins Švitrigailos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -2967,21 +2976,26 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Visus išlaikė
-    Vytautas, gausiai viskuo aprūpindamas. Neminint kitų
-    gėrybių, kurias kuo stropiausiai surašė to meto istorikai,
-    kas dieną buvo pjaunama po septynis šimtus jaučių, po
-    tūkstantį keturis šimtus avinų, po šimtą stumbrų, brie­
-    džių ir kitokių žvėrių, o išgeriama po septynis šimtus
-    statinių midaus, neskaitant kitų gėrimų. Prabanga ir
-    iškilumas aiškių aiškiausiai rodė imperatoriui Vytauto
-    širdyje slypinčią garbę — troškimą, kuris netruktų įsi­
-    plieksti, jeigu kas įskeltų vilties kibirkštį, jog ne už
-    kalnų toji didybė, kuriai lenkai su karaliumi iš visų
-    jėgų ketino priešintis. Štai todėl vienaip kalbėjo im­
-    peratorius su Jogaila, kitaip
-    1429 m eta i
-    akis į akį su Vytautu.
+    Iš tiesų didingi su­
+    manymai, ir daugelis jiems
+    J o g a ila  atsisako
+    nuoširdžiai
+    pritarė,
+    tačiau
+    kur kas lengviau juos pa-
+    416
+
+    ## Puslapis 415
+
+    siūlyti, nei įgyvendinti. Jogaila, aptaręs su senatu ir
+    Vytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio­
+    niškųjų šalių valdovai susitarsią ne tik narsiai paskelb­
+    ti turkams karą, bet visomis jėgomis kuo atkakliausiai
+    jį tęsti sausumoje bei jūroje, jis neatsisakysiąs šito­
+    kios ginklų sąjungos. Tuo tarpu, raginamas vien tik
+    imperatoriaus, du kartus Vengrijoje turkų sumušto, jis
+    negalįs nepaisyti sudarytų susitarimų, kuriuos lengva
+    sulaužyti, bet sunku atnaujinti.
   citata_rodoma: "Iš tiesų didingi su­\nmanymai, ir daugelis jiems\nJ o g a ila  atsisako\nnuoširdžiai\npritarė,\ntačiau\nkur kas lengviau juos pa-\n416\n\n## Puslapis 415\n\nsiūlyti, nei įgyvendinti. Jogaila, aptaręs su senatu ir\nVytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio­\nniškųjų šalių valdovai susitarsią ne tik narsiai paskelb­\nti turkams karą, bet visomis jėgomis kuo atkakliausiai\njį tęsti sausumoje bei jūroje, jis neatsisakysiąs šito­\nkios ginklų sąjungos. Tuo tarpu, raginamas vien tik\nimperatoriaus, du kartus Vengrijoje turkų sumušto, jis\nnegalįs nepaisyti sudarytų susitarimų, kuriuos lengva\nsulaužyti, bet sunku atnaujinti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -2996,29 +3010,29 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Taip
-    ir buvo, senato pirmininkas Gnezno arkivyskupas bylo­
-    jo be galo iškalbingai, tačiau smarkiai varžydamasis,
-    nes bijojo įžeisti Vytautą; visa ko prišnekėjęs, nutilo
-    lyg kirviu nukirstas. Tuo tarpu Krokuvos vyskupas Zbig­
-    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
-    kokia įtartina imperatoriaus
-    S en ato įsp ė ta s
-    draugystė, ir, atskleidęs, ko­
-    kie pavojingi jo siūlymai,
-    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
-    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
-    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
-    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
-    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
-    nas iš Tarnovo, Krokuvos vaivada.
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
   citata_rodoma: "Vytautui išėjus, senatas kuo rimčiau­\nsiai paaiškino karaliui, kad, pritardamas pavojingiems ir\nsuktiems imperatoriaus sumanymams, nusileistų žmo­\ngui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos\npriešas, nes šitai esąs parodęs praeityje ne vieną kar­\ntą. Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-234
+
 - id: c-168095
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3126,25 +3140,18 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Nors sumišęs su stabmeldyste, klai­
-    dingas ir absurdiškas, vis dėlto tai yra tikėjimas mūsų viešpa­
-    čiu Jėzumi Kristumi, jo mirtimi ir prisikėlimu. Autorius dėsto
-    ir daugiau panašių esminių pamokymų, svarbių tam amžiui.
-    Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­
-    delis lietuvių svetingumas, darbštumas, namų gyvenimo do­
-    rybės.
-    Iš šito rankraščio pasisemiame žinių apie pirminį krikščio­
-    nybės paplitimą Lietuvoje; XI amžiuje krikščionybė tikriau­
-    siai buvo paplitusi tik labai menkai, nes lietuvių vyriausiųjų
-    žynių valdžia gyvavo nepajudinama iki XIII amžiaus vidurio;
-    tuomet prūsai suklupo prieš kryžiuočius, panašiai Livonija su
-    Kuršu, pačioje Lietuvoje tų pačių riterių puolimai darėsi bai­
-    sesni, lietuviai kunigaikščiai savo žvilgsnius ėmė labiau kreipti
-    į rusų kraštus, o jų savitarpio kovos sudrebino vidinę valstybės
-    sandarą; pagaliau užkariavus Minską, Naugarduką, Pinską ir
-    dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
-    kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
-    Rusia.
+    Pasakiau „stebuklingu būdu“, kadangi apaš­
+    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
+    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
+    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
+    patrauklumas. Lenkijos karalienės Jadvygos ranka, paduota
+    Vladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­
+    rius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija
+    jo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­
+    nyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie
+    didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
+    jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
+    džių.
   citata_rodoma: "Pasakiau „stebuklingu būdu“, kadangi apaš­\ntališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­\nkinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių\nriterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus\npatrauklumas. Lenkijos karalienės Jadvygos ranka, paduota\nVladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­\nrius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija\njo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­\nnyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie\ndidžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri\njų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­\ndžių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -3209,20 +3216,14 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    rodydamas malonę, turėjusią trukti ne ilgiau, kaip
-    ligi jų gyvos galvos. Tuo tarpu lietuviai atkakliai lai­
-    kėsi savo, tvirtindami, jog seniau, gerokai prieš Kazi­
-    miero Didžiojo viešpatavimą, Podolė buvusi pavaldi
-    skitams, kurie sudarė didžiumą šio krašto gyventojų, o
-    šios tautos valdovams buvę pavaldūs ir seni Podolės
-    gyventojai, ir skitai. Algirdas, Lietuvos didysis kuni­
-    gaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių
-    sienas, pirmas sumušęs svetimšalius ir juos išstūmęs iš
-    šių žemių, po to padalijęs brolio Karijoto sūnums kraš­
-    tą; šie čia pastatę Smotričiaus, Bakotos, Kameneco ir
-    kitas pilis
-    ir jas sutvirtinę, nesigailėdami didelių iš­
-    laidų.
+    Vėliau, susi­
+    kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
+    gynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­
+    raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta
+    nuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­
+    daręs klaidą, kai, siekdamas sosto, davęs neapgalvotų
+    pažadų, antra vertus, jų reikalas neleisti, kad valstybė
+    dėl anų susitarimų patirtų kokių nuostolių.
   citata_rodoma: "Vėliau, susi­\nkivirčiję su lenkais dėl Rusios, lietuviai visada ginklu\ngynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­\nraliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta\nnuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­\ndaręs klaidą, kai, siekdamas sosto, davęs neapgalvotų\npažadų, antra vertus, jų reikalas neleisti, kad valstybė\ndėl anų susitarimų patirtų kokių nuostolių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

@@ -127,12 +127,10 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
 - susijęs iš Volynė: Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.
 - susijęs iš [[objektai/zodynas/Rusios didysis kunigaikštis.md#claim-t-185410|Rusios didysis kunigaikštis]]: Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195008|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
-## Citatos
-
-- id: c-168718
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     šaukiami Liubline arba Parčeve. Be valdovo sutikimo
     bajorai neturi teisės nei parduoti, nei dovanoti valdo­
@@ -150,19 +148,16 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
     Galop susitarė ir dėl tikė-
     tikėjimo reikalai Lie-
     jimo reikalų.
-  citata_rodoma: "Be valdovo sutikimo \nbajorai neturi teisės nei parduoti, nei dovanoti valdo­\nnėms žymiems lietuviams tu­\nrėti tuos pačius herbus, aišku, ne dėl to, kad lietuviams \nanksčiau būtų stigę šitokių kilmingumo įrodymų ar šlo­\nvingumo žymenų, nes dar ir dabar daugelis šeimų turi \nbe galo senus paveldimus giminės ženklus, kurie visai \nnepanašūs į lenkų herbus, tačiau todėl, kad visi buvo \ntvirtai įsitikinę, jog, skirtingoms tautoms susijungus į \nvieną valstybę, būtų didžiai naudinga, jeigu tų dviejų \ntautų žymiausios šeimos sietųsi nelyginant kokia gi­\nminyste herbų panašumu.\nĮstatymais sutvarkomi \nGalop susitarė ir dėl tikė-\ntikėjimo reikalai Lie- \njimo reikalų. Visi Lietuvos \niuvoje \nbažnyčios tarnai, jų valdos ir\npačias privilegijas, kokias šiuo metu turi šio luomo žmo­\nnės Lenkijoje."
-  statusas: verified
-  atnaujinta: "2026-07-13 01:17"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  statusas: verified
+- t-004
 
-- id: c-168719
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+- c-002
+  santrauka: 'Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautui išėjus, senatas kuo rimčiau­
     siai paaiškino karaliui, kad, pritardamas pavojingiems ir
@@ -181,6 +176,63 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
     imperatorius, apsvarstęs su Vytautu svarbiausius klau­
     simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
     iš Volynės į Vengriją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-005
+
+## Citatos
+
+- id: c-168718
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Be valdovo sutikimo
+    bajorai neturi teisės nei parduoti, nei dovanoti valdo­
+    nėms žymiems lietuviams tu­
+    rėti tuos pačius herbus, aišku, ne dėl to, kad lietuviams
+    anksčiau būtų stigę šitokių kilmingumo įrodymų ar šlo­
+    vingumo žymenų, nes dar ir dabar daugelis šeimų turi
+    be galo senus paveldimus giminės ženklus, kurie visai
+    nepanašūs į lenkų herbus, tačiau todėl, kad visi buvo
+    tvirtai įsitikinę, jog, skirtingoms tautoms susijungus į
+    vieną valstybę, būtų didžiai naudinga, jeigu tų dviejų
+    tautų žymiausios šeimos sietųsi nelyginant kokia gi­
+    minyste herbų panašumu.
+    Įstatymais sutvarkomi
+    Galop susitarė ir dėl tikė-
+    tikėjimo reikalai Lie-
+    jimo reikalų. Visi Lietuvos
+    iuvoje
+    bažnyčios tarnai, jų valdos ir
+    pačias privilegijas, kokias šiuo metu turi šio luomo žmo­
+    nės Lenkijoje.
+  citata_rodoma: "Be valdovo sutikimo \nbajorai neturi teisės nei parduoti, nei dovanoti valdo­\nnėms žymiems lietuviams tu­\nrėti tuos pačius herbus, aišku, ne dėl to, kad lietuviams \nanksčiau būtų stigę šitokių kilmingumo įrodymų ar šlo­\nvingumo žymenų, nes dar ir dabar daugelis šeimų turi \nbe galo senus paveldimus giminės ženklus, kurie visai \nnepanašūs į lenkų herbus, tačiau todėl, kad visi buvo \ntvirtai įsitikinę, jog, skirtingoms tautoms susijungus į \nvieną valstybę, būtų didžiai naudinga, jeigu tų dviejų \ntautų žymiausios šeimos sietųsi nelyginant kokia gi­\nminyste herbų panašumu.\nĮstatymais sutvarkomi \nGalop susitarė ir dėl tikė-\ntikėjimo reikalai Lie- \njimo reikalų. Visi Lietuvos \niuvoje \nbažnyčios tarnai, jų valdos ir\npačias privilegijas, kokias šiuo metu turi šio luomo žmo­\nnės Lenkijoje."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-168719
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus. Vytautas,
+    Vytauto pasiuntinybė
+    kaip laisvos tautos laisvas
+    valdovas, o ne dėl to, kad
+    žiūri vien savo reikalų, taip ryžtingai reikalaująs, kad
+    karalius bei karalystės luomai pritartų jo vainikavimui.
   citata_rodoma: "Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus. Vytautas,\nVytauto pasiuntinybė\nkaip laisvos tautos laisvas\nvaldovas, o ne dėl to, kad\nžiūri vien savo reikalų, taip ryžtingai reikalaująs, kad\nkaralius bei karalystės luomai pritartų jo vainikavimui."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"

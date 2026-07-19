@@ -1399,28 +1399,17 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Garsėjo šis val­
-    dovas ir savo šlovingu vardu, ir savo garbingais žy­
-    giais. Vidutinio ūgio, plikakaktis, pailgo ir prakaulaus
-    5 40
-
-    veido, kalbėdamas šiek tiek švepliavo; būdamas labai
-    kantrus ir kūnu, ir dvasia, nebijojo nei darbų, nei var­
-    gų. Gerdavo tiktai šaltą vandenį, o elgėsi ir rengėsi
-    paprastai ir kukliai kaip ir Jogaila. Didžiausias palaido
-    sanguliavimo priešas, ištiki-
-    Š v ie sio jo
-    V iln ia u s
-    miausias teisėtos žmonos vy-
-    v y s k u p o
-    A n d ria u s
-    ras, nepaprastai mėgo me-
-    m irtis
-    džioti, o draugams buvo la­
-    bai dosnus. Keliais mėnesiais
-    anksčiau už karalių mirė Vilniaus vyskupas Andrius,
-    kilęs iš Vilniaus, garsėjęs šventųjų mokslų pažinimu
-    bei proto aštrumu.
+    Gerokai nesutarė tie, kurie, visaip meilin-
+    damiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie
+    atvirai siūlė Simoną Olelkaitį. Vis dėlto šiuos užmojus
+    sutramdė dar tebegyva jų širdyse Kazimiero įtaka ir
+    pagarba jam: jie negalėjo aplenkti jo sūnų, ypač Alek­
+    sandro, kurį paskutinę gyvenimo valandą Kazimieras
+    priešmirtiniais žodžiais jiems pasiūlė į valdovus. Be to,
+    ir pats Aleksandras, jaunikaitis, kupinas valdovui de­
+    ramų savybių, žadino viltį, jog per savo gabumus susi­
+    lauks tokios pat sėkmės, kokios iš pradžių buvo susi­
+    laukęs jo tėvas.
   citata_rodoma: "Gerokai nesutarė tie, kurie, visaip meilin-\ndamiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie\natvirai siūlė Simoną Olelkaitį. Vis dėlto šiuos užmojus\nsutramdė dar tebegyva jų širdyse Kazimiero įtaka ir\npagarba jam: jie negalėjo aplenkti jo sūnų, ypač Alek­\nsandro, kurį paskutinę gyvenimo valandą Kazimieras\npriešmirtiniais žodžiais jiems pasiūlė į valdovus. Be to,\nir pats Aleksandras, jaunikaitis, kupinas valdovui de­\nramų savybių, žadino viltį, jog per savo gabumus susi­\nlauks tokios pat sėkmės, kokios iš pradžių buvo susi­\nlaukęs jo tėvas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -1436,10 +1425,12 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Akivaizdus ir nepaprastas tautos pritarimas
-    ju k u n ig a ik ščiu
+    ju  k u n ig a ik ščiu
     susirinko į Vilniaus seimą. At­
     vyko ir tokie žymūs vyrai,
     5 4 2
+
+    ## Puslapis 541
 
     neleido atidėlioti vainikavimo
     P a k ėlim a s į so stą
@@ -1461,16 +1452,16 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to visi it vienas pa­
-    reikalavo vesti juos į priekį ir pulti priešą. Nesilsėjusi
-    kariuomenė, vargais negalais nužygiavusi dvi mylias,
-    įnirtingai užpuolė priešą vos jį išvydusi. Maskvėnų
-    raiteliai neatlaikė antpuolio; vos prasidėjus mūšiui, at­
-    sitraukė iš atviro lauko į stovyklą. Besitraukiantiems
-    ant kulnų lipo Konstantinas, tačiau, perdaug karštai
-    siekdamas pergalės, susilaukė pralaimėjimo: visiems
-    pulkams pasklidus atviroje lygumoje, parodė priešams,
-    kaip mažai teturi kariuomenės.
+    Atvestas pas Ivaną, Konstan­
+    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
+    kinimus: ne tik kojas jam it vergui surakino grandinė­
+    mis, bet ir rankas užlaužė už nugaros ir nelyginant
+    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
+    Aleksandras sužinojo prie Bobro upės; norėdamas su­
+    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
+    se. Kodėl vėliau Aleksandras su kariuomene patraukė
+    link Polocko, nei kur parašyta radau, nei pats atspėti
+    galėjau.
   citata_rodoma: "Atvestas pas Ivaną, Konstan­\ntinas, tironui įsakius, turėjo iškęsti neapsakomus kan­\nkinimus: ne tik kojas jam it vergui surakino grandinė­\nmis, bet ir rankas užlaužė už nugaros ir nelyginant\nraiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą\nAleksandras sužinojo prie Bobro upės; norėdamas su­\nstabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-\nse. Kodėl vėliau Aleksandras su kariuomene patraukė\nlink Polocko, nei kur parašyta radau, nei pats atspėti\ngalėjau."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -1485,21 +1476,26 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Visiems buvo
-    aišku, kad nepaprastą valdovo rūstį sukurstė ne jo pri­
-    gimtis, bet nuolatiniai Glinskio įkalbinėjimai, štai to­
-    dėl tie, kurie patyrė karaliaus pyktį, dabar, sutelkę
-    jėgas, ėmėsi priemonių jį nuversti. Žmonėse sklido ne­
-    žinia kieno paleisti gandai, kad Mykolas Glinskis taiks­
-    tosi, susidorojęs su lietuvių kilmės didikais, užgrobti
-    Lietuvos kunigaikštystę ir kad dėl šių jo užmačių Alek­
-    sandro gyvybei gresia pavojus. Sunku pasakyti, ar tai
-    buvo paskalos, ar teisybė, bet daugelis tuo patikėjo:
-    taip jau esti, kad apie visas žymiąsias šeimas daugiau­
-    sia ir sklinda visokiausių šnekų. Pats Glinskis, pasiti­
-    kėdamas valdovo palankumu, nekreipė dėmesio į
-    žmonių kalbas, nors savo ruožtu visaip stengėsi pra­
-    žudyti gandų skleidėjus.
+    Neatsispyręs kas dieną girdimiems Glinskio
+    klastingiems
+    raginimams,
+    Karalius
+    pasmerkia
+    Aleksandras pasmerkė mir-
+    mirčiai
+    žymiausius
+    čiai Žemaitijos seniūną Sta-
+    Lietuvos didikus
+    nislovą Žarnovskį, Smolens­
+    ko vietininką Stanislovą Kiš­
+    ką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos
+    maršalą Joną Zaberezinskį ir kitus to paties luomo ir
+    tos pačios minties žmones. Jis sušaukė Breste seimą,
+    ketindamas kokia nors dingstimi sukviesti ten žymiau­
+    sius didikus į pilį, suimti ir išžudyti. Nieko nežinoda­
+    mi apie karaliaus sumanymus, į seimą kaip paprastai
+    suvažiavo gausybė bajorų, tačiau, karalystės kanclerio
+    Jono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį.
   citata_rodoma: "Neatsispyręs kas dieną girdimiems Glinskio\nklastingiems\nraginimams,\nKaralius\npasmerkia\nAleksandras pasmerkė mir-\nmirčiai\nžymiausius\nčiai Žemaitijos seniūną Sta-\nLietuvos didikus\nnislovą Žarnovskį, Smolens­\nko vietininką Stanislovą Kiš­\nką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos\nmaršalą Joną Zaberezinskį ir kitus to paties luomo ir\ntos pačios minties žmones. Jis sušaukė Breste seimą,\nketindamas kokia nors dingstimi sukviesti ten žymiau­\nsius didikus į pilį, suimti ir išžudyti. Nieko nežinoda­\nmi apie karaliaus sumanymus, į seimą kaip paprastai\nsuvažiavo gausybė bajorų, tačiau, karalystės kanclerio\nJono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -1540,16 +1536,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kitką pasisėmėme iš rankraščių ir padavimų, kuriuos
-    pasitaikė surinkti, visuomet laikydamiesi griežto kritiškumo,
-    su kuriuo išlukštenama tiesa iš per amžius susikaupusios pai­
-    niavos. Visokios pastabos ir istorijos liudijimai teikia žinių, kad
-    lietuvių stabmeldystės klestėjimo laikais kiekvieno laipsnio žy­
-    nius tvirtindavo krivis. Šioms kilmingoms pareigoms rinkdavo
-    dorovingus žmones, jau pagyvenusius, kurie visu savo gyveni­
-    mu deramai pateisindavo nuomonę apie juos. Kiekvienas žy­
-    nys ar vaidilutė privalėjo likti viengungiai, laikytis nepriekaiš­
-    tingos skaistybės, būti nepapeikiamų papročių.
+    Tai tikriausiai pati seniausia šventovė Že­
+    maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
+    Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
+    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
+    toje buvo pastatyta filija .
+    Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
+    vių, kurios priklausė ugnies šventovėms piratėjoms.
   citata_rodoma: "Tai tikriausiai pati seniausia šventovė Že­\nmaitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,\nVilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­\ndant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­\ntoje buvo pastatyta filija .\nLietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­\nvių, kurios priklausė ugnies šventovėms piratėjoms."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1564,14 +1557,17 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    L. 158).
-    1,2 /Ten pat, 1 pastraipos 9 eilutės sakinio minties tęsinys/
-    Toji šventykla turėjo būti su kariniais įtvirtinimais, nes senovi­
-    niuose XVI amžiaus dokumentuose minima senovinė piliavietė ir
-    būtent šioje vietoje kadaise stovėję įtvirtinimai17“.
-    17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,
-    Viln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-
-    vas.
+    Tai tik­
+    riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­
+    joje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero
+    ir Zurblio (2urblis)
+    pievos.
+    Valdant
+    karaliui
+    Aleksandrui,
+    jo
+    įsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.
+    ,9a Ludwik z Pokiewia.
   citata_rodoma: "Tai tik­\nriausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­\njoje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero\nir Zurblio (2urblis)\npievos.\nValdant\nkaraliui\nAleksandrui,\njo\nįsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.\n,9a Ludwik z Pokiewia."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -1611,15 +1607,10 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    5 Trisdešimt
-    vienerių
-    metų
-    Aleksandras
-    (gimė
-    Krokuvoje
-    1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos imperatoriaus
+    5 Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje
+    1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus
     Albrechto dukters Elžbietos ketvirtasis sūnus. Tėvui mirštant, bu­
-    vo n e Gardine, o Vilniuje, paliktas ten karaliaus vietininku.
+    vo n e  Gardine, o Vilniuje, paliktas ten karaliaus vietininku.
   citata_rodoma: "5 Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje \n1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus \nAlbrechto dukters Elžbietos ketvirtasis sūnus. Tėvui mirštant, bu­\nvo n e  Gardine, o Vilniuje, paliktas ten karaliaus vietininku."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

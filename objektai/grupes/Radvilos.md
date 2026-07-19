@@ -344,46 +344,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176256|vietininkas]]: Aleksandras Jogailaitis nurodė, kad Vilniaus vaivados vietininkams nereikia mokėti po grašį nuo krovinio perkėloje ties Vilniumi.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176263|vietininkas]]: Bogdanas Kievla buvo Vilniaus vaivados ir valstybės kanclerio Mikalojaus Radvilos vietininkas.
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40212|Jokūbas Kudenekovičius Čerkaskis]]: Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Jaunatviškai lengvabū­
-    diškas, be to, iš mažumės
-    taip išauklėtas, kad mėgo
-    puotauti, šokti ir visaip link-
-    1545 m e ta i
-    M iršta  A u strijo s k u ­
-    n ig a ik š ty tė
-    E lžb ieta ,
-    A u g u sto  žm on a
-    6 7  4
-
-    ## Puslapis 673
-
-    smintis su moterimis, pradėjo lankyti Barborą Radvi­
-    laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
-    vados Stanislovo Goštauto našlę. Nors Radvilų rūmai
-    buvo visai netoli karaliaus
-    A u g u sta s sla p ta i ve-
-    pilies, Augustas, trokšdamas
-    d a
-    B arborą
-    R a d vi-
-    kada panorėjęs kuo trumpes-
-    la itę
-    niu keliu ten patekti, palie­
-    pė nukloti iš pilies į Barboros
-    sodus takelį ir tiltuką per Vilnios upę. Sklido viso­
-    kios kalbos ir apie Barborą, ir apie Augustą, gal ir
-    neteisingos, bet nesakysi, kad visai be pagrindo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-72863
@@ -463,11 +423,13 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     taip išauklėtas, kad mėgo
     puotauti, šokti ir visaip link-
     1545 m e ta i
-    M iršta A u strijo s k u ­
+    M iršta  A u strijo s k u ­
     n ig a ik š ty tė
     E lžb ieta ,
-    A u g u sto žm on a
-    6 7 4
+    A u g u sto  žm on a
+    6 7  4
+
+    ## Puslapis 673
 
     smintis su moterimis, pradėjo lankyti Barborą Radvi­
     laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­

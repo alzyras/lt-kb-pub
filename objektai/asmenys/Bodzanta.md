@@ -9,10 +9,6 @@ datos:
   - '1386 m.'
 date_start: '1386'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +16,10 @@ tags:
   - karalienė
   - karalius
   - vyskupas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -100,40 +100,6 @@ Bodzanta Vladislovo vardu.
     - c-168038
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54450|Lietuvos krikštas Vilniuje (1387 m.)]]: Per Lietuvos krikštą Vilniuje Gniezno arkivyskupas Bodzanta pašventino Šv. Stanislovo katedrą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184725|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila asmeniškai pasveikino karalienę ir per Skirgailą bei Vytautą pasiuntė jai gausių dovanų.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: '1386 m. vasario 16 d. Gnezno arkivyskupas Bodzanta apkrikštijo Jogailą, kuris gavo Vladislovo vardą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po to vasario 16 dieną, kuri
-    paskirta šv. Valentinui, Gnez-
-    no
-    arkivyskupo
-    Bodzantos
-    apkrikštytas, gavo Vladislo­
-    vo vardą. Pakeitė kartu su
-    tikėjimu vardus ir kiti kunigaikščiai, kurie dar nebuvo
-    priėmę krikščionybės: Vygandas su Vytautu tapo Alek­
-    sandrais, Skirgaila ir Karigaila — Kazimierais, Švitri-
-    1386 m eta i
-    Jo g a ila
-    a tv y k s ta
-    į
-    K ro k u v ą , jis a p k rik š-
-    ti jam as,
-    v a in ik u o  ja-
-    m a s
-    282
-
-    ## Puslapis 281
-
-    gaila — Boleslovu, Daujotas — Jurgiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-78732
@@ -185,15 +151,6 @@ Bodzanta Vladislovo vardu.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po kelių dienų Jogaila, lydimas Lietu­
-    vos didikų ir savo giminės kunigaikščių, buvo sutik­
-    tas Krokuvos vaivados Spiteko iš Melštino, išvykusio
-    pagarbos pareikšti su rinktinių raitelių būriu keletą
-    mylių priešais, o vasario 12 dieną įjojo į Krokuvą, su­
-    teikdamas didingą reginį miestiečiams. Tą pačią dieną
-    jis asmeniškai pasveikino karalienę, kitą dieną per
-    brolius Skirgailą bei Vytautą
-    pasiuntė jai gausių dovanų.
     Po to vasario 16 dieną, kuri
     paskirta šv. Valentinui, Gnez-
     no
@@ -210,8 +167,13 @@ Bodzanta Vladislovo vardu.
     į
     K ro k u v ą , jis a p k rik š-
     ti jam as,
-    v a in ik u o ja-
+    v a in ik u o  ja-
     m a s
+    282
+
+    ## Puslapis 281
+
+    gaila — Boleslovu, Daujotas — Jurgiu.
   citata_rodoma: "Po to vasario 16 dieną, kuri\npaskirta šv. Valentinui, Gnez-\nno\narkivyskupo\nBodzantos\napkrikštytas, gavo Vladislo­\nvo vardą. Pakeitė kartu su\ntikėjimu vardus ir kiti kunigaikščiai, kurie dar nebuvo\npriėmę krikščionybės: Vygandas su Vytautu tapo Alek­\nsandrais, Skirgaila ir Karigaila — Kazimierais, Švitri-\n1386 m eta i\nJo g a ila\na tv y k s ta\nį\nK ro k u v ą , jis a p k rik š-\nti jam as,\nv a in ik u o  ja-\nm a s\n282\n\n## Puslapis 281\n\ngaila — Boleslovu, Daujotas — Jurgiu."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

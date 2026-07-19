@@ -9,13 +9,13 @@ datos:
   - '1429 m.'
 date_start: '1409'
 date_end: '1429'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -159,6 +159,41 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 - susijęs iš [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos.md#claim-t-185678|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]: Lietuvos ir Maskvos paliaubų pasiuntinybei vadovavo Petras Miškovskis, Stanislovas Glebavičius, Vaitiekus Kločka ir Jonas Sapiega.
 - susijęs iš Dogiel, Codex Diplomaticus: Dogielio „Codex Diplomaticus“ pateikia 1413 m. vasario 6 d. Vilniuje Jogailos ir Vytauto duotą įgaliojimą deryboms su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176825|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Vytenis su 1800 raitelių įsiveržė į Lenčicos kraštą ir netikėtu antpuoliu užėmė Lenčicos miestą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Dėjosi šitai
+    sekmadienį, todėl į miestą buvo prigužėję iš aplinkinių
+    kaimų į pamaldas galybė kaimiečių ir bajorų. Tiesiai
+    iš kelio, niekieno nelauktas, Vytenis užėmė miestą, ko­
+    va ir grėsmė artėjo prie bažnyčios, padrikai puolan­
+    čius karius bažnyčioje užsidariusi minia, iš siaubo įga­
+    vusi drąsos, atstūmė; į besiartinančius jie svaidė vis­
+    ką, kas tik pakliuvo po ranka, vis dėlto, kai užsidegė
+    aplinkiniai namai, nuo dūmų ir liepsnos daugelis žuvo,
+    galop bažnyčia buvo užimta ir išplėšta. Po to kariai
+    buvo pasiųsti plėšti aplinkinių kaimų, kuriuos jie per
+    trumpą laiką klaikiai nusiau-
+    N u žu d o m a s K a zim ie-
+    bė. Tuo tarpu Kazimieras,
+    ras,
+    L en čico s
+    ku n i-
+    Lenčicos kunigaikštis, sku-
+    g a ik štis
+    biai apginkluoja kovai su
+    staiga pasirodžiusiu priešu
+    greitosiomis sutelktą būrį, pasivijęs lietuvius netoli
+    Sochačevo, stoja į kovą, kur kas didesnę narsą rody­
+    damas, nei susilaukdamas sėkmės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-37500
@@ -246,7 +281,18 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Dėjosi šitai
+    Mat bemaž tuo
+    pačiu metu Vytenis lyg niekur nieko, tarytum tėvynė
+    būtų visiškai saugi nuo prie-
+    V y te n is
+    įsiv e ržia
+    į
+    šo, Mazovijos pasieniais įsi-
+    L en k iją  ir u žim a  Len-
+    veržė, sutelkęs žygiui tūks-
+    čicą
+    tantį aštuonis šimtus raitelių,
+    į Lenčicos kraštą. Dėjosi šitai
     sekmadienį, todėl į miestą buvo prigužėję iš aplinkinių
     kaimų į pamaldas galybė kaimiečių ir bajorų. Tiesiai
     iš kelio, niekieno nelauktas, Vytenis užėmė miestą, ko­
@@ -255,21 +301,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     vusi drąsos, atstūmė; į besiartinančius jie svaidė vis­
     ką, kas tik pakliuvo po ranka, vis dėlto, kai užsidegė
     aplinkiniai namai, nuo dūmų ir liepsnos daugelis žuvo,
-    galop bažnyčia buvo užimta ir išplėšta. Po to kariai
-    buvo pasiųsti plėšti aplinkinių kaimų, kuriuos jie per
-    trumpą laiką klaikiai nusiau-
-    N u žu d o m a s K a zim ie-
-    bė. Tuo tarpu Kazimieras,
-    ras,
-    L en čico s
-    ku n i-
-    Lenčicos kunigaikštis, sku-
-    g a ik štis
-    biai apginkluoja kovai su
-    staiga pasirodžiusiu priešu
-    greitosiomis sutelktą būrį, pasivijęs lietuvius netoli
-    Sochačevo, stoja į kovą, kur kas didesnę narsą rody­
-    damas, nei susilaukdamas sėkmės.
+    galop bažnyčia buvo užimta ir išplėšta.
   citata_rodoma: "Mat bemaž tuo\npačiu metu Vytenis lyg niekur nieko, tarytum tėvynė\nbūtų visiškai saugi nuo prie-\nV y te n is\nįsiv e ržia\nį\nšo, Mazovijos pasieniais įsi-\nL en k iją  ir u žim a  Len-\nveržė, sutelkęs žygiui tūks-\nčicą\ntantį aštuonis šimtus raitelių,\nį Lenčicos kraštą. Dėjosi šitai\nsekmadienį, todėl į miestą buvo prigužėję iš aplinkinių\nkaimų į pamaldas galybė kaimiečių ir bajorų. Tiesiai\niš kelio, niekieno nelauktas, Vytenis užėmė miestą, ko­\nva ir grėsmė artėjo prie bažnyčios, padrikai puolan­\nčius karius bažnyčioje užsidariusi minia, iš siaubo įga­\nvusi drąsos, atstūmė; į besiartinančius jie svaidė vis­\nką, kas tik pakliuvo po ranka, vis dėlto, kai užsidegė\naplinkiniai namai, nuo dūmų ir liepsnos daugelis žuvo,\ngalop bažnyčia buvo užimta ir išplėšta."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

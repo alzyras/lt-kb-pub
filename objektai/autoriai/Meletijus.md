@@ -7,14 +7,14 @@ datos:
   - '1684 m.'
 date_start: '1684'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -105,10 +105,12 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
 - susijęs iš [[objektai/asmenys/Pretorijus.md#claim-t-190043|Pretorijus]]: Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, tyrusių juos pagal paprastų žmonių sakytinius padavimus.
 - susijęs iš [[objektai/autoriai/Motiejus Pretorijus.md#claim-t-190330|Motiejus Pretorijus]]: Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais.
 - susijęs iš [[objektai/autoriai/Vaiselijus.md#claim-t-190461|Vaiselijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip Antimp, o Lasickis - kaip Audros.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-173221
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     -  Frankfurt und Leip­
     zig, 1684*.
@@ -119,63 +121,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
     liones, nepažindami krašto realijų, todėl to dievo vardas buvo
     rašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-
     sickis -Audros.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Daugeliu požiūrių
-    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
-    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
-    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
-    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
-    Burtininkė (Burte)
-    Lietuvių barde -  Burtyniczka.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že mės viešpačiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Per­
-    sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš
-    metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo
-    už nuodėmes, savo misterijose vaizduodavo gamtos atgimi­
-    mą, rengdavosi naujam, doram gyvenimui.
-    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
-    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
-    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
-    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
-    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
-    tingais mitais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173221
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šitoks lietuvių supratimas galėjo apdovanoti
-    amžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­
-    nųjį ir pirmykštį pradą, kad parodytų nepaliaujamą gyvųjų bū­
-    tybių ir augalų atsinaujinimą.
-    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
-    na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
-    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
-    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“.
   citata_rodoma: "-  Frankfurt und Leip­\nzig, 1684*.\n103\n\n## Puslapis 103\n\nliones, nepažindami krašto realijų, todėl to dievo vardas buvo\nrašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-\nsickis -Audros."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -190,21 +135,13 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Beveik nežinome tautos, kuri, būdama tamsi arba nepa­
-    žindama tikrojo tikėjimo, neturėtų savų pranašavimo būdų;
-    įvairios tautos jų prisigalvodavo įvairių. Alanai, senieji kai ku­
-    rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­
-    liai, burdavo, kaip sako istorija, iš karklo šakų, tam tikru būdu
-    sumaišytų; vėliau, traukdami vieną po kitos tam tikru nustaty­
-    tu laiku bei ištardami kažkokius žodžius ir kitaip burtininkų
-    mada vaipydamiesi, skaitydavo lemties knygą .
-    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
-    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
-    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
-    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
-    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
-    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
-    kaip tai pamatysime toliau.
+    Daugeliu požiūrių
+    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
+    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
+    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
+    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka.
   citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -219,20 +156,17 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Perkūnas (Perkūnas)
-    Perkūnas, Jupiteris griausmavaldis, Jupiter tonam - seno­
-    vės Europoje labiausiai paplitęs dievas, dievų, dangaus ir že­
-    mės karalius, gamtos valdovas. Žmogus, vadovaudamasis įgim­
-    tu jausmu, pajutęs dievą savo širdyje, protu ieškojo jo aplin­
-    koje. Jis jautė, kad visa, kas vyksta gamtoje, turi turėti savo
-    kaltininką, todėl pripažino savo viešpatį ir visų dalykų valdo­
-    vą, ėmė jį garbinti; bet garbinimas visuomet žengia kartu su
-    baime, todėl savo jausmais linkęs garbinti reiškinį, kuris, atro­
-    dė, labiausiai jį gąsdino. Audros, kruša, žaibai, griausmas -
-    šitokie baisūs reiškiniai, sukeliami nesuprantamų dangaus jė­
-    gų, labai traukė žmogaus dėmesį: jų jėga griauna, daužo, nai­
-    kina viską, net šventyklas ir dievų stabus; taigi tos jėgos valdo­
-    vas turi būti galingiausias dievas.
+    Per­
+    sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš
+    metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo
+    už nuodėmes, savo misterijose vaizduodavo gamtos atgimi­
+    mą, rengdavosi naujam, doram gyvenimui.
+    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
+    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
+    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
+    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
+    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
+    tingais mitais.
   citata_rodoma: "Per­\nsai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš\nmetų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo\nuž nuodėmes, savo misterijose vaizduodavo gamtos atgimi­\nmą, rengdavosi naujam, doram gyvenimui.\nKai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina\nšį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­\nmės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo\nsuasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų\naukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­\ntingais mitais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

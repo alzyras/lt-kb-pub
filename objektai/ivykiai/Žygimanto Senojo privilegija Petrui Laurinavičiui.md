@@ -7,13 +7,13 @@ datos:
   - '1538 m.'
 date_start: '1538'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,21 +71,6 @@ Nenurodyta
     - c-174891
 - susijęs iš 1538 m. Žygimanto Senojo privilegija Petrui Laurinavičiui: 1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius Vilniaus piliečio pirkimus.
 - susijęs iš [[objektai/asmenys/Petras Laurinavičius.md#claim-t-191454|Petras Laurinavičius]]: 1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius jo pirkimus.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1538 m. sausio 25 d. Piotrkove Žygimantas Senasis suteikė Petrui Laurinavičiui privilegiją, patvirtinusią įvairius pirkimus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,
-    Viln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-
-    vas. 1538.1.25. Iš Lietuvos Metrikos. Išspausdino Kraševskis (Wil-
-    no. T. IV).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174891
@@ -93,25 +78,10 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    L.
-    156).
-    109/Ten
-    pat, 1
-    pastraipos 13
-    eilutė/
-    Autorius, rengdamas antrąjį leidimą, vietoj „1294 metais“ patai­
-    sė
-    „1316—1320
-    metais“ (ten
-    pat).
-    110 /P.
-    210, nauja
-    išnaša/
-    17 Ponas Rumbovičius, Vilniaus gimnazijos matematikos mo­
-    kytojas, pasakojo, jog ponas Podčašinskis, buvusio Universiteto
-    architektūros profesorius, apžiūrinėdamas Vilniaus Katedros var­
-    pinę, pastebėjo ant plytų ten, kur baigiasi jos netaisyklingoji da­
-    lis, kažkokius atspaudus ir ženklus, kuriuos parodė Leleveliui.
+    17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,
+    Viln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-
+    vas. 1538.1.25. Iš Lietuvos Metrikos. Išspausdino Kraševskis (Wil-
+    no. T. IV).
   citata_rodoma: "17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,\nViln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-\nvas. 1538.1.25. Iš Lietuvos Metrikos. Išspausdino Kraševskis (Wil-\nno. T. IV)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

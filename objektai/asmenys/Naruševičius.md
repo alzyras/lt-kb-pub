@@ -87,39 +87,31 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
     - c-179182
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Germanijos į Sarmatiją, tiltu kėlėsi per Vyslos žemupį.'
+- c-003
+  santrauka: 'Narbutas Naruševičiaus nuomonę, kad jotvingiai nuo Tisos atėjo tiesiai į Polesę, laikė labai panašia į tiesą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    70
-    161 metai. Gotų žygis su Filimeru. 161 krikščioniško­
-    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
-    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
-    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
-    met ribojo senovės geografų taip pavadintus kraštus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Naruševičius tapatino Ptolemėjo chunus su graikų-skitų gentimi Geniui, kuri, anot jo, buvo atsikėlusi iš Chijo salos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Prajus** vėlgi kalba apie tą patį, žiūrė­
-    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
-    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
-    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
-    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
-    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
-    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
-    Chue, Chunnigard-, ji priklausė minėtai tautai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+    Taip pat
+    daromos teisingos išvados, jog jie nekariavo su hunų
+    vėliavomis, bet atvirkščiai — priešinosi hunams, o pra­
+    laimėję turėjo keltis į tolimą kraštą, kur jų nepasiekė
+    kerštingi tų barbarų ginklai. Tad labai panaši j tiesą
+    Naruševičiaus nuomonė, kad jotvingiai nuo Tisos atėjo
+    tiesiai j Polesę. Norint išvengti hunų pulkų, užtvindžiu-
+    117
 
+    ## Puslapis 115
+
+    šių visą kairiąją Dunojaus pakrantę, neužteko perkopti
+    Karpatų kalnus, dar reikėjo ieškoti kitų tautų neužimtų
+    vietų, kur galima buvo ramiai gyventi, nes kairiojoje Bu-
+    go pakrantėje, žemdirbystei tinkamose ir aukštėlesnėse ly­
+    gumose, tais laikais jau gyveno daug slavų kartų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-174072
@@ -127,14 +119,12 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Siame žygyje jie ėjo per spalių kraštą, kurio gyvento­
-    jus pasiėmė kartu su savimi. Apie šią tautą senovės ty­
-    rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
-    buvę kairiojoje Dono pakrantėje, prie Kimerijos Bospo­
-    ro2; šis teiginys, paimtas iš senovės geografų ir esantis
-    Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai
-    sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
-    nėje Mazovijoje.
+    70
+    161 metai. Gotų žygis su Filimeru. 161 krikščioniško­
+    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
+    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
+    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
+    met ribojo senovės geografų taip pavadintus kraštus.
   citata_rodoma: "70\n161 metai. Gotų žygis su Filimeru. 161 krikščioniško­\nsios eros metais, pasak Naruševičiaus tyrimų1, gotai su\nsavo karaliumi Filimeru, pereidami iš Germanijos į Sar-\nmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­\nmet ribojo senovės geografų taip pavadintus kraštus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -149,15 +139,14 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Nestoras irgi nusirašė visa tai. Esmė ta,
-    kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų,
-    daugiausia netvarkingai surašytų ir sukompiliuotų iš
-    įvairių šaltinių, kuriuos naudojo šis geografas, daugybė­
-    je jam ne sykį atsitikdavo, kad, paėmęs du vienos tau­
-    tos pavadinimus iš įvairių epochų ir autorių, pateikė juos
-    atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
-    nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
-    1 Lib. XXXI.
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
   citata_rodoma: "Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama\nChue, Chunnigard-, ji priklausė minėtai tautai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

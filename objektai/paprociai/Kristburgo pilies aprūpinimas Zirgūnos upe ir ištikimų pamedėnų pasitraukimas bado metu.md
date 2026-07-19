@@ -109,6 +109,30 @@ Nenurodyta
   pagrindžia:
     - c-63438
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Broliai ir miestiečiai su
+    savo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė,
+    daugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš
+    pasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius
+    į miestą. Atkakliai juos persekiodami, prūsai po trumpų grumtynių užėmė miestą, dalį
+    gyventojų paėmė į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko į pilį ir šitaip
+    išsigelbėjo. Ligi pamatų sugriovę ir sudeginę miestą, prūsai pasitraukė su dideliu grobiu.
+    148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą
+    Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio
+    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
+    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
+    pamedėnui, vardu Jonas, Sarginio sūnui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-005
+
 ## Citatos
 
 - id: c-63436
@@ -164,18 +188,14 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Broliai ir miestiečiai su
-    savo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė,
-    daugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš
-    pasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius
-    į miestą. Atkakliai juos persekiodami, prūsai po trumpų grumtynių užėmė miestą, dalį
-    gyventojų paėmė į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko į pilį ir šitaip
-    išsigelbėjo. Ligi pamatų sugriovę ir sudeginę miestą, prūsai pasitraukė su dideliu grobiu.
-    148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą
-    Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio
-    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
-    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
-    pamedėnui, vardu Jonas, Sarginio sūnui.
+    Šitai sužinoję, prūsai
+    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
+    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
+    ten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,
+    kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
+    jų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei
+    laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,
+    o pasiliko tik vienas kitas.
   citata_rodoma: "Šitai sužinoję, prūsai\nįtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,\ntol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,\nten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,\nkad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie\njų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei\nlaisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,\no pasiliko tik vienas kitas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

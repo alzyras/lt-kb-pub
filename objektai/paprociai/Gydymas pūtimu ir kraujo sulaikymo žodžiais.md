@@ -57,22 +57,6 @@ Nenurodyta
   pagrindžia:
     - c-172717
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak Narbuto minimų padavimų, pūtikas žodžiais galėjęs sulaikyti kraują, tekantį iš perkirstos gyslos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pūtikai (Pustones)
-    Ypatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­
-    timu. Iš to taip pat kilęs jų pavadinimas, kuris reiškia putėją.
-    Pasak padavimų, kuriais paprasti žmonės tiki iki šiol, pūtikas
-    galėjo žodžiais sulaikyti kraują, tekantį iš perkirstos gyslos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172717
@@ -80,15 +64,11 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apskritai visa, kas religijos dalykuose tiesiogiai susiję su
-    moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­
-    josi su gražiąja lytimi, buvo vaidilučių sritis. Neturime smul­
-    kesnių žinių apie jas nei iš padavimų, nei iš istorijos. Vis dėlto
-    reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos
-    ir iki nustatytų metų, o vėliau galėdavo ištekėti. Mat žinoma,
-    kad visos vaidilutės buvo nesenos. O tos, kurios norėjo tar­
-    nauti dievams pasibaigus skirtam laikui, pasitraukdavo į nuo­
-    šalias vietas, kur tapdavo ypatingomis pranašautojomis34.
+    Pūtikai (Pustones)
+    Ypatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­
+    timu. Iš to taip pat kilęs jų pavadinimas, kuris reiškia putėją.
+    Pasak padavimų, kuriais paprasti žmonės tiki iki šiol, pūtikas
+    galėjo žodžiais sulaikyti kraują, tekantį iš perkirstos gyslos.
   citata_rodoma: "Pūtikai (Pustones)\nYpatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­\ntimu. Iš to taip pat kilęs jų pavadinimas, kuris reiškia putėją.\nPasak padavimų, kuriais paprasti žmonės tiki iki šiol, pūtikas\ngalėjo žodžiais sulaikyti kraują, tekantį iš perkirstos gyslos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

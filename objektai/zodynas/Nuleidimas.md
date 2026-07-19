@@ -49,10 +49,12 @@ Narbutas, remdamasis Lasickiu, nuleidimu vadina pirmos alaus statinės pradėjim
   pagrindžia:
     - c-172204
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Lasickiu, nuleidimu vadina pirmos alaus statinės pradėjimo apeigas, kurias šeimininkas atlikdavo Ragutienės garbei.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172204
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     347
 
@@ -65,35 +67,6 @@ Narbutas, remdamasis Lasickiu, nuleidimu vadina pirmos alaus statinės pradėjim
     davo pradėti jį gerti, namų šeimininkas, pritekinęs indą iš pir­
     mos statinės, atlikdavo apeigas, vadintas nuleidimu (Nutajdi-
     mas), deivės Ragutienės garbei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172204
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Už pir­
-    mą vagystę bausdavo nuplakdami rykštėmis; įrodytąjį pavo­
-    gus antrą kartą žiauriai primušdavo lazdomis, o nepasitaisiu-
-    sįjį ir pavogusį trečią kartą išvesdavo už miesto, toli nuo dievų
-    prieglobsčio, ir užpjudydavo didžiuliais šunimis, kurie jį vieto­
-    je surydavo.
-    Vestuvių apeigos
-    Sį platų straipsnį dar galėtume išplėsti, jeigu norėtume iš­
-    dėstyti visas smulkesnes žinias, tačiau aptinkama visada tas
-    pats dalykas, tiktai vis kitu būdu pakartotas, todėl tas ištęsi­
-    mas būtų tuščias skaitytojo kantrybės varginimas. Lietuviai ne­
-    sipriešino vedyboms su kitos tautos merginomis, nes lietuvių
-    apeigose istorija mums pateikia daug skolinių, kadangi gyvuoja
-    amžinas paprotys, jog vestuvių apeigose vadovaujamasi ne vy­
-    ro, o nuotakos tautiniu papročiu; kurios tautos buvo jaunoji,
-    pagal tos tautos apeigas vyko ir vestuvės.
   citata_rodoma: "347\n\n## Puslapis 347\n\nmyn, kaip tai darė kitos tautos amžininkės, o atgal. Vis dėlto\nLasickis mums paliko pirmos alaus statinės pradėjimo apeigų\naprašymą, nors nedaug vertą, bet praleisti jį, kaip senovės pa­\nminklą, nederėtų. Kai išvirtą alų pastatydavo rūsyje ir ketin­\ndavo pradėti jį gerti, namų šeimininkas, pritekinęs indą iš pir­\nmos statinės, atlikdavo apeigas, vadintas nuleidimu (Nutajdi-\nmas), deivės Ragutienės garbei."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

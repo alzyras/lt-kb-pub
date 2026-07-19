@@ -27,45 +27,6 @@ media_all_json: |-
 
 Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pataisų.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Posakis „Wolnošč bez grožy, to bezrząd, Groza bez wolnošči, to niewola. Moję przyslowko“ pateiktas kaip epigrafas, kuriuo Narbutas papildė tekstą rengdamas antrąjį leidimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Epigrafas, kuriuo
-    autorius
-    papildė tekstą,
-    rengdamas antrąjį leidimą (PEĮ. Be numera­
-    cijos). Orig.: ,,Wolnošč bez grožy, to bezrząd, /
-    Groza bez wolnošči, to niewola. Moję przys-
-    lowko“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-175012
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Įklija pa­
-    rankiniame antro LTI tomo egzemplioriuje
-    (toliau — PEĮ)). Orig.: „Prawda jest želazną
-    w historji koniecznošcią i nietrzeba mniewač,
-    aby byla kiedy szkodliwą. Stara gawenda“.
-  citata_rodoma: "Epigrafas, kuriuo\n  autorius\n  papildė tekstą,\n  rengdamas antrąjį leidimą (PEĮ. Be numera­\n  cijos). Orig.: ,,Wolnošč bez grožy, to bezrząd, /\n  Groza bez wolnošči, to niewola. Moję przys-\n  lowko“."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-192126"></a>
@@ -78,3 +39,26 @@ Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pata
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175012
+
+## Citatos
+
+- id: c-175012
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Epigrafas, kuriuo
+      autorius
+      papildė tekstą,
+      rengdamas antrąjį leidimą (PEĮ. Be numera­
+      cijos). Orig.: ,,Wolnošč bez grožy, to bezrząd, /
+      Groza bez wolnošči, to niewola. Moję przys-
+      lowko“.
+  citata_rodoma: "Epigrafas, kuriuo\n  autorius\n  papildė tekstą,\n  rengdamas antrąjį leidimą (PEĮ. Be numera­\n  cijos). Orig.: ,,Wolnošč bez grožy, to bezrząd, /\n  Groza bez wolnošči, to niewola. Moję przys-\n  lowko“."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

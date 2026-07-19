@@ -113,19 +113,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindžia:
     - c-173604
 
-<a id="claim-t-190706"></a>
-- t-007
-  teiginys: "Herodotas iš dalies aprašė skitų įpročius, papročius ir religiją."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173601
-
 <a id="claim-t-190708"></a>
 - t-009
   teiginys: "Herodotas sarmatams priskyrė pusiau pasakiškas ištakas iš amazonių ir skitų."
@@ -579,24 +566,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-175313
 
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Herodotas minėjo, kad tisagetai gyvenę toliau į šiaurę, už gelonų gyvenamo krašto.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pirmykštėje žmonių visuomenėje tautos sun­
-    kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
-    žmones, o gentainių pagalbą ir abipusę draugystę labai
-    brangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­
-    meninio gyvenimo kūdikystės lygio ir atrastų mūsų am­
-    žiais. Minėtų pelazgų palikuonių turėjo būti ant kai­
-    riojo Dono vidurupio kranto. Tai mini ir Herodotas*,
-    teigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų
-    gyvenamo krašto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-011
   santrauka: 'Herodotas, Talis, Aristotelis, Teofrastas ir Pitėjas Masilietis žinojo gintarą bei jo savybes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -635,30 +604,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-019
-  santrauka: 'Teodoro Narbuto vertinimu, Herodoto aprašymuose yra nemažai neaiškių vietų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Maždaug
-    500 metais prieš Kristaus gimimą klestėjo prekyba tarp
-    helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
-    Pameotidės gyventojai2. Herodoto aprašymuose yra ne­
-    mažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa­
-    nagrinėsime jas dabartinių ir praėjusių laikų dvasia.
-    Tai ir yra tikslas, kurio mes dar siekiame ir nuo kurio vis
-    labiau tolsime, kol liausimės praėjusio pasaulio dalykus
-    atkakliai ir su išankstine nuostata matuoti mūsų šiandie­
-    nos masteliais. Kritikuodami Herodoto patiklumą, taisy­
-    sime jo geografines klaidas ir tiesas, t. y. visuomet žvelg­
-    sime iš atitinkamos vėlesnių laikų pozicijos, mažų ma­
-    žiausiai neatsižvelgdami į išorinį žodžių pavidalą, jų
-    reikšmės ir minčių atitikimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 - c-020
   santrauka: 'Teodoro Narbuto vertinimu, Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -712,14 +657,12 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tai iš tikrųjų ir yra
-    graikų mitologijos Trejybė.
-    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
-    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
-    Indų trejybė - Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
-    Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
-    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
-    slavų Tryzną.
+    E Noelis mano, kad Kabi­
+    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
+    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
+    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
+    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
+    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
   citata_rodoma: "E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-\nmotrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir\nįvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­\nsiausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -734,19 +677,19 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
-    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
-    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
-    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
-    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
-    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
-    nanti prabangumu tas beveik dar laukines Europos šalis. Ar
-    ne paprasčiau būtų to rūmo pastatymą priskirti užkariauto­
-    jams iš Italijos negu slavams, kurie savo šalyje niekur nieko
-    panašaus neturėjo ir, atplūdę iš Vyslos dešiniojo kranto miš­
-    kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
-    leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
-    apgyventas sodybas.
+    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
+    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
+    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
+    randame nuolat minimus miškus: kartais kalbama apie mišką
+    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
+    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
+    kiausiame miške ar nuošaliausiose vietose.
+    Šventyklos
+    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
+    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
+    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
+    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
+    kalnai.
   citata_rodoma: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose.\nŠventyklos\nHerodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai\npirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­\nriuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar\nilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo\nkalnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -761,17 +704,12 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jaunesni žmonės, juos kirpdami, niekad nenumes-
-    davo nuokirpų ant žemės, bet visuomet, stropiausiai surinkę,
-    sviesdavo į ugnį, nes būta fantastiškos nuomonės, jog bus nau­
-    dingi po mirties, kadangi sudegę ugnyje su dūmais pakils į aukš­
-    tybes ir ten kiekvienas juos atras. O jeigu nukirpti nagai būtų
-    išmėtyti čia, žemėje, tai mirusiojo vėlė, negalėdama be jų ap- }
-    sieiti, neišvengiamai turėtų ieškoti, kol surastų visus iki ma­
-    žiausios nuokirpos. Iš čia tamsioje vaizduotėje įsišaknijo įsi­
-    vaizdavimas apie gąsdinantį mirusių vėlių vaidenimąsi prie tro­
-    besių; dažniausiai jos matomos šiukšlynuose, kur išmeta šiukš­
-    les iš kambarių.
+    Ant laidotuvių laužo su miru­
+    siojo kūnu būdavo kraunama viskas, kas velionio gyvenime
+    buvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­
+    žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
+    įvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,
+    taip pat užmušdavo jų mylimiausius tarnus.
   citata_rodoma: "Ant laidotuvių laužo su miru­\nsiojo kūnu būdavo kraunama viskas, kas velionio gyvenime\nbuvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­\nžiūriu sekta senovės galais ir skandinavais bei daugeliu kitų\nįvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,\ntaip pat užmušdavo jų mylimiausius tarnus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -786,15 +724,15 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tikėtina, kad jie
-    galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdynų.
-    Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,
-    mums artimą gentį, tad remkimės tik moksliniu ir kruopš­
-    čiai parašytu pono Riterio** veikalu1. Jame sakoma, kad
-    kolchai giminiavosi su indais, arba kitados iš Indostano
-    kilusiomis gentimis. Dievus garbino senovės Indijos bu­
-    dizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su­
-    siformavusiai budinu genčiai, kuri įsikūrė prie Dono.
+    Pirmykštėje žmonių visuomenėje tautos sun­
+    kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
+    žmones, o gentainių pagalbą ir abipusę draugystę labai
+    brangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­
+    meninio gyvenimo kūdikystės lygio ir atrastų mūsų am­
+    žiais. Minėtų pelazgų palikuonių turėjo būti ant kai­
+    riojo Dono vidurupio kranto. Tai mini ir Herodotas*,
+    teigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų
+    gyvenamo krašto.
   citata_rodoma: "Pirmykštėje žmonių visuomenėje tautos sun­\nkiai pakęsdavo šalia savęs svetimos giminės ir kalbos\nžmones, o gentainių pagalbą ir abipusę draugystę labai\nbrangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­\nmeninio gyvenimo kūdikystės lygio ir atrastų mūsų am­\nžiais. Minėtų pelazgų palikuonių turėjo būti ant kai­\nriojo Dono vidurupio kranto. Tai mini ir Herodotas*,\nteigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų\ngyvenamo krašto."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -1084,7 +1022,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-020
 
 - id: c-173602
@@ -1092,7 +1029,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    metais prieš Kristaus gimimą klestėjo prekyba tarp
+    Maždaug
+    500 metais prieš Kristaus gimimą klestėjo prekyba tarp
     helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
     Pameotidės gyventojai2. Herodoto aprašymuose yra ne­
     mažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa­

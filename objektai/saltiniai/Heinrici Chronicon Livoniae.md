@@ -44,7 +44,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 <a id="claim-t-199236"></a>
 - t-001
   teiginys: "Henriko Latvio kronika yra viena iš pirmųjų Pabaltijyje vokiečių kronikų ir buvo surašyta 1225-27 m."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Latvija; mentioned_place: Livonija"
   temporaliniai_duomenys: "įvykio data: 1225-1227; įvykio data: po 1290 m.; įvykio data: 1290 m.; įvykio data: 1225-1227; įvykio data: po 1290 m.; įvykio data: 1290 m."
@@ -91,21 +91,6 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-03535
-
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Pagal rusų metraščius ir Henriko Latvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko patekimo Lietuvos valdžion XIII a.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­
-    locko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko
-    Latvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko
-    patekimo Lietuvos valdžion XIII a. viduryje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -170,16 +155,10 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   puslapiai: "PDF 197"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 197."
   citata_originali: |
-    M. Strijkovskis savo kronikoje (1766 m. lei­
-    dimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė
-    Kukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto
-    Lietuvos valdovas". Lietuvos metraščių PS toje pačioje vietoje apie
-    Kukovaičio mirt) nekalbama, o vietoj spragos, buvusios BK rank­
-    raštyje, yra pasakojimas apie Kukovaičio motinos Pajautos mirti-
-    Užpildydami spragą, dedame tos vietos vertimą iš PS antrosios re­
-    dakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi
-    spragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­
-    dakcijos nuorašų tekstais.
+    1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­
+    locko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko
+    Latvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko
+    patekimo Lietuvos valdžion XIII a. viduryje.
   citata_rodoma: "1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­\nlocko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko \nLatvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko \npatekimo Lietuvos valdžion XIII a. viduryje."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"

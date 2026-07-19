@@ -75,11 +75,9 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 261."
   citata_originali: |
     • Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­
-    raliumi
-    tuo
-    laikotarpiu buvo Erikas ХП1 Pomeranietis (1382—
+    raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382—
     1459 m ). Lucko suvažiavime dalyvavo jo atstovų delegacija, sie­
-    kusi užsitikrinti imperatoriaus Zigmanto paramų prieš Hanzos są­
+    kusi užsitikrinti im peratoriaus Zigmanto paramų prieš Hanzos są­
     jungai priklausančius Vokietijos miestus.
   citata_rodoma: "• Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­\nraliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382— \n1459 m ). Lucko suvažiavime dalyvavo jo atstovų delegacija, sie­\nkusi užsitikrinti im peratoriaus Zigmanto paramų prieš Hanzos są­\njungai priklausančius Vokietijos miestus."
   statusas: verified

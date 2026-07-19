@@ -11,14 +11,14 @@ datos:
   - '2026 m.'
 date_start: '1415'
 date_end: '2026'
-amziai:
-  - 'XV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -154,38 +154,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Mikalojus Sepienskis.md#claim-t-29043|Mikalojus Sepienskis]]: 1415 m. į Konstancą atsiųstiems 60 pakrikštytų žemaičių bajorų vadovavo ir Vytauto sekretorius lenkas Mikalojus Sepienskis.
 - susijęs iš [[objektai/asmenys/Jurgis Galminas.md#claim-t-29024|Jurgis Galminas]]: Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.
 - susijęs iš [[objektai/asmenys/Jurgis Gedgaudas.md#claim-t-29025|Jurgis Gedgaudas]]: 1415 m. į Konstancą atsiųstiems pakrikštytiems žemaičių bajorams vadovavo Vytauto didikas Jurgis Gedgaudas.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Konstancos susirinkime kaltinamasis atsakinėjo, kad Lenkijoje Viklifo mokymo neskleidęs ir apie jį ten neužsiminęs.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tenai nors tarėsi su Husu, sa­
-    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
-    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
-    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
-    įtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­
-    joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
-    apie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­
-    sirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik
-    atverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­
-    mas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­
-    nyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­
-    mą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą
-    kartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį
-    398
-
-    ## Puslapis 398
-
-    patarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;
-    jis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­
-    ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
-    čioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-24199
@@ -251,27 +219,27 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė­
-    ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos
-    katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo
-    kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį
-    krikštijimą ir buvimą Lietuvoje kažkokios rusiškos sektos, ku­
-    ri laikytina grynai stabmeldiška.
-    Antra vertus, reikia atkreipti dėmesį, kad katalikų bažny­
-    čioje yra ne vienos religinės apeigos, kurioms įprasta suteikti
-    naują vardą: krikštijimas vandeniu, patepimas šventais alie­
-    jais, sutvirtinimas, įstojimas į vienuolius. Todėl, šitaip žiūrint,
-    lietuvių tautybės asmenys, kad ir kokio būtų tikėjimo, priima­
-    mi kryžiuočių ar lenkų į katalikų bažnyčios bendrystę, nors
-    jau ir būtų buvę pirmiau pakrikštyti kito tikėjimo krikščionių
-    kunigų, galėjo pasikrikštyti patepant šventais aliejais arba su­
-    teikiant sutvirtinimo sakramentą ir gauti kitus vardus, nors iš
-    tikrųjų krikšto sakramentas nebūdavo pakartojamas.
-    Apie lietuvių herbus
-    Čia derėtų paminėti kai kuriuos senuosius lietuvių her­
-    bus, kurie susiję su mitologija5.
-    4 Baptismus Ruthenorum, cum Bulla Alexandri Papae, de non
-    rebaptisandis Ruthenis.
+    Tenai nors tarėsi su Husu, sa­
+    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
+    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
+    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
+    įtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­
+    joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
+    apie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­
+    sirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik
+    atverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­
+    mas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­
+    nyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­
+    mą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą
+    kartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį
+    398
+
+    ## Puslapis 398
+
+    patarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;
+    jis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­
+    ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
+    čioje.
   citata_rodoma: "Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­\njoje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte\napie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­\nsirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik\natverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­\nmas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­\nnyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­\nmą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą\nkartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį\n398\n\n## Puslapis 398\n\npatarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;\njis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­\nka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­\nčioje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

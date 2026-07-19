@@ -79,14 +79,9 @@ K. Ambrasas šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Rankraštis neturėjo jokio pavadini­
-    mo. „Bychovco kronika" jis buvo pramintas XIX a.
-    pagal rankraščio savininką, Gardino gubernijos Volko-
-    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
-    vos metraščio" antraštė duota dėl nusistojusios jau lie­
-    tuvių tarybinėje istoriografijoje tradicijos vadinti
-    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
-    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
+    REDAKCINE KOMISIJA
+    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
+    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
   citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

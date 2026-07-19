@@ -13,15 +13,15 @@ aliases:
   - 'objektai/autoriai/J. Jurginis'
 variantai:
   - 'J. Jurginis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -91,9 +91,12 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 - susijęs iš [[objektai/autoriai/Leonas Valkūnas.md#claim-t-184471|Leonas Valkūnas]]: Leonas Valkūnas iš lotynų kalbos vertė šį „Lietuvos istorijos“ leidimą.
 - susijęs iš [[objektai/grupes/Istorikų kolektyvas.md#claim-t-31193|Istorikų kolektyvas]]: Istorikų kolektyvas parengė bendrą lietuvių kovų su kryžiuočiais istoriją „Lietuvių karas su kryžiuočiais“.
 - susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika.
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-167829
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     BBK-63.3(2L)
     Vi-109
@@ -114,45 +117,6 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
     M853(10)—89
     1—89
     (6) Vertimas, įvadas, paaiškinimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
-    *
-    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-167829
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    A. Kojelavičiaus
-    „Lietuvos istorijoje" gausu beletristikos, vis dėlto au­
-    torius buvo teisus, vadindamas save istoriku,
-    Jo pirmtakai — Aleksandras Gvagninis (lotyniškasis
-    „Sarmatų Europos aprašymas", 1578) ir Motiejus Strij­
-    kovskis (lenkiškoji „Lenkijos, Lietuvos, Žemaitijos ir
-    visos Rusios kronika", 1582). Šiedu autoriai vaidijosi.
-    Antrasis apkaltino pirmąjį plagiatu. Jis mat davęs jam,
-    savo viršininkui, veikalą pasiskaityti, o šis begėdiškai
-    pasisavinęs darbą ir išspausdinęs savo vardu, tačiau
-    „kiekvienas matys, jog varna puošiasi svetimomis
-    plunksnomis". Šitaip rašė M. Strijkovskis apie A. Gvag-
-    ninį.
   citata_rodoma: "BBK-63.3(2L)\nVi-109\nSpausdinama pagal leidinį:\nAlbertas Vijūkas-Kojelavičius\nLIETUVOS ISTORIJA, V., Vaga, 1988\nREDAKCINE KOM ISIJA\nJ. LANKUTIS (pirm ininkas),\nA. JOVAIŠAS, A. MALDONIS, V. MERKYS,\nE. ULČINAITĖ, H. ZABULIS\nĮvadą ir paaiškinim us parašė\nJUOZAS JURGINIS\nIš lotynų ka!bos_vertė\nLEONAS VALKŪNAS\nV\n0503020908—250\n-----------------------  Prot. Nr.\nM853(10)—89\n1—89\n(6) Vertimas, įvadas, paaiškinimai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -167,14 +131,11 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Rankraštis neturėjo jokio pavadini­
-    mo. „Bychovco kronika" jis buvo pramintas XIX a.
-    pagal rankraščio savininką, Gardino gubernijos Volko-
-    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
-    vos metraščio" antraštė duota dėl nusistojusios jau lie­
-    tuvių tarybinėje istoriografijoje tradicijos vadinti
-    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
-    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
+    REDAKCINE KOMISIJA
+    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
+    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
+    *
+    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
   citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į\n*\nVertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

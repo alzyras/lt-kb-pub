@@ -57,16 +57,13 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos
-    karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su
-    Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo, Saumburgo, Falkenšteino
-    grafais ir Kerpeno, Geros, Bergo, Rotenšteino, Damiso, Kotbuso, Meiseno valdovais
-    bei Donos burggrafu ir su daugybe Vokietijos bei Anglijos karalysčių kilmingųjų. Su
-    šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių ir 18 tūkstančių karių,
-    neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų
-    pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
-    pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
-    10.
+    Apie tris saulės spindulius ir kolegijos suskilimą
+
+      1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,
+    apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —
+    pietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai
+    stovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,
+    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija.
   citata_rodoma: "Apie tris saulės spindulius ir kolegijos suskilimą\n\n  1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,\napie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —\npietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai\nstovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,\nrodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

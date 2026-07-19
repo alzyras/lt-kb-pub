@@ -940,19 +940,20 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   santrauka: 'Narbutas teigė pastebėjęs, kad kaimiečiai ir kaimuose gyvenantys Lietuvos žydai išlaikė vaizdinio apie mirusiųjų vėlių vaidenimąsi liekanų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Iš čia tamsioje vaizduotėje įsišaknijo įsi­
-    vaizdavimas apie gąsdinantį mirusių vėlių vaidenimąsi prie tro­
-    besių; dažniausiai jos matomos šiukšlynuose, kur išmeta šiukš­
-    les iš kambarių. Dar aš pats pastebėjau, kad kaimiečiai, net
-    kaimuose gyvenantys Lietuvos žydai turi šito įsivaizdavimo lie­
-    kanų. 19
-    19
-    Ištrauka iš 1240 metų sutarties (Voigt.
+    Raudotojos yra jaunos, stiprių plaučių moterys; kai kas nors
+    miršta, nuo to momento iki kūno nuleidimo į kapą jos be per­
+    stojo kuo garsiausiai ir kuo klaikiausiai klykia, kiek tik gali.
+    Jeigu mirusysis neturėjo tam tinkamos giminaitės, kviečiama
+    pirma pasitaikiusi kaimynė. Nuostabus dalykas, kaip tos rau­
+    dotojos sugeba išreikšti didžiausią liūdesį, bet stebėtoją labiau­
+    siai stulbina jų linksmi ir pragiedrėję veidai tuo momentu, kai
+    jos liaujasi rėkusios - nueina nuo scenos kaip artistės, visiškai
+    nepaveiktos įspūdžių, kuriuos ką tik vaizdavo žiūrovams.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -1428,15 +1429,14 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Raudotojos yra jaunos, stiprių plaučių moterys; kai kas nors
-    miršta, nuo to momento iki kūno nuleidimo į kapą jos be per­
-    stojo kuo garsiausiai ir kuo klaikiausiai klykia, kiek tik gali.
-    Jeigu mirusysis neturėjo tam tinkamos giminaitės, kviečiama
-    pirma pasitaikiusi kaimynė. Nuostabus dalykas, kaip tos rau­
-    dotojos sugeba išreikšti didžiausią liūdesį, bet stebėtoją labiau­
-    siai stulbina jų linksmi ir pragiedrėję veidai tuo momentu, kai
-    jos liaujasi rėkusios - nueina nuo scenos kaip artistės, visiškai
-    nepaveiktos įspūdžių, kuriuos ką tik vaizdavo žiūrovams.
+    Iš čia tamsioje vaizduotėje įsišaknijo įsi­
+    vaizdavimas apie gąsdinantį mirusių vėlių vaidenimąsi prie tro­
+    besių; dažniausiai jos matomos šiukšlynuose, kur išmeta šiukš­
+    les iš kambarių. Dar aš pats pastebėjau, kad kaimiečiai, net
+    kaimuose gyvenantys Lietuvos žydai turi šito įsivaizdavimo lie­
+    kanų. 19
+    19
+    Ištrauka iš 1240 metų sutarties (Voigt.
   citata_rodoma: "Iš čia tamsioje vaizduotėje įsišaknijo įsi­\nvaizdavimas apie gąsdinantį mirusių vėlių vaidenimąsi prie tro­\nbesių; dažniausiai jos matomos šiukšlynuose, kur išmeta šiukš­\nles iš kambarių. Dar aš pats pastebėjau, kad kaimiečiai, net\nkaimuose gyvenantys Lietuvos žydai turi šito įsivaizdavimo lie­\nkanų. 19\n19\nIštrauka iš 1240 metų sutarties (Voigt."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

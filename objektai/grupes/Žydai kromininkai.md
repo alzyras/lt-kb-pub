@@ -56,16 +56,6 @@ Socialinė ir prekybinė grupė.
 
 ## Teiginiai
 
-<a id="claim-t-195513"></a>
-- t-001
-  teiginys: "Kaimo žydai kromininkai šiame šaltinyje išskiriami kaip atskira kaimo prekybininkų grupė."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177934
-
 <a id="claim-t-195514"></a>
 - t-004
   teiginys: "Vaikams kromininkas ir Leiba buvo lygios sąvokos."
@@ -104,11 +94,7 @@ Socialinė ir prekybinė grupė.
   puslapiai: "p. 161 (PDF 159)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 161 (PDF 159)."
   citata_originali: |
-    48.
-    Kaimo žydai kromininkai.
-    Žydas kromininkas po Kalėdų įeina ne į ūkininkų grįčias, bet į
-    vargšų grįčiukes, žinodamas, kad tuo laiku čia yra pinigų ir reika­
-    linga prekių.
+    Žydas kromininkas po Kalėdų įeina ne į ūkininkų grįčias, bet į vargšų grįčiukes, žinodamas, kad tuo laiku čia yra pinigų ir reikalinga prekių.
   citata_rodoma: "Žydas kromininkas po Kalėdų įeina ne į ūkininkų grįčias, bet į vargšų grįčiukes, žinodamas, kad tuo laiku čia yra pinigų ir reikalinga prekių."
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
@@ -116,7 +102,6 @@ Socialinė ir prekybinė grupė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-177935

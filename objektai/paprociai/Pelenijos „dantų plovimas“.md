@@ -102,18 +102,7 @@ Nenurodyta
   puslapiai: "p. 168 (PDF 166)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 168 (PDF 166)."
   citata_originali: |
-    Vakar nerimavo ir išdykavo jaunieji, o suaugę namus dabojo,
-    dėlto šiandien pirmieji liūdni ir nusiminę, seniai gi eina į gertuvę ar
-    pas kits kitą bonkelėmis degtinės nešini. Eina „dantų plauti“ . Ši pa­
-    reiga daroma lėtai ir
-    ramiai,
-    mažais
-    būreliais,
-    po
-    du
-    po
-    tris
-    žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
+    Vakar nerimavo ir išdykavo jaunieji, o suaugę namus dabojo, dėlto šiandien pirmieji liūdni ir nusiminę, seniai gi eina į gertuvę ar pas kits kitą bonkelėmis degtinės nešini. Eina „dantų plauti“ . Ši pareiga daroma lėtai ir ramiai, mažais būreliais, po du po tris žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
   citata_rodoma: "Vakar nerimavo ir išdykavo jaunieji, o suaugę namus dabojo, dėlto šiandien pirmieji liūdni ir nusiminę, seniai gi eina į gertuvę ar pas kits kitą bonkelėmis degtinės nešini. Eina „dantų plauti“ . Ši pareiga daroma lėtai ir ramiai, mažais būreliais, po du po tris žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
@@ -129,18 +118,7 @@ Nenurodyta
   puslapiai: "p. 168 (PDF 166)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 168 (PDF 166)."
   citata_originali: |
-    Eina „dantų plauti“ . Ši pa­
-    reiga daroma lėtai ir
-    ramiai,
-    mažais
-    būreliais,
-    po
-    du
-    po
-    tris
-    žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima. Kiti va­
-    žiuodavo tą dieną į bažnyčią mišių klausyti, pelenais galvos barstyti,
-    bet kitiems proga ir dantis plauti.
+    Kiti važiuodavo tą dieną į bažnyčią mišių klausyti, pelenais galvos barstyti, bet kitiems proga ir dantis plauti.
   citata_rodoma: "Kiti važiuodavo tą dieną į bažnyčią mišių klausyti, pelenais galvos barstyti, bet kitiems proga ir dantis plauti."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
@@ -156,11 +134,7 @@ Nenurodyta
   puslapiai: "p. 169 (PDF 167)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 169 (PDF 167)."
   citata_originali: |
-    Eisime basi į bažnyčią. Skaitytojas gal to­
-    kių jausmų neturi, nes dabar Pelenija — ne Pelenija, gavėnia — ne
-    gavėnia, nejaučiamas griežtas skirtumas minimų laikų. Užgavėnėse
-    jau ne devynis sykius valgoma, Pelenijoje jau dantų neplaunama, dė­
-    delio nevežiojama ir gavėnios negavėjama.
+    Pelenijoje jau dantų neplaunama, dėdelio nevežiojama ir gavėnios negavėjama.
   citata_rodoma: "Pelenijoje jau dantų neplaunama, dėdelio nevežiojama ir gavėnios negavėjama."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

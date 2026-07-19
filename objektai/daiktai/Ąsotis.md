@@ -53,29 +53,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195307"></a>
-- t-001
-  teiginys: "Šienapjūtėje ąsočiai vartojami maistui ir gėrimui vežti į pievas."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177680
-
-<a id="claim-t-195308"></a>
-- t-002
-  teiginys: "Vestuvių pasakojime ąsotis naudojamas alui nešti ir statyti ant stalo."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177678
-- susijęs iš [[objektai/daiktai/Lėkštė.md#claim-t-195341|Lėkštė]]: Vestuvių vakarienės indas ir gervės vaidinimo taikinys ant stalo.
-- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195358|Šienapiūtė]]: Per šienapiūtę vyrai savaitei išeina į pievas, ten gyvena ir verda valgį, o mergaitės atveža pusryčius bei pietus.
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -96,12 +73,10 @@ Nenurodyta
   citata_rodoma: "Vyras pakylėjo ąsotį — ąsotis lengvas, ir vėl pastatė ant stalo nieko nesakęs."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-177679
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -138,12 +113,10 @@ Nenurodyta
   citata_rodoma: "Nežiūrint visokeriopos atsargos, ąsočiai atvažiuoja į pievas bai­\nsiai apsilaistę."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-177681
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -171,14 +144,7 @@ Nenurodyta
   puslapiai: "p. 101 (PDF 99)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 101 (PDF 99)."
   citata_originali: |
-    šioti; jis ir alų dirba.
-    Po, valandėlės vyrui po ranka trinktelėjo į sta­
-    lą sunkus ąsotis, pilnas putoto alaus.
-    Vyras pripylė stiklinę, pasakė
-    Putinienei „sveikatą gražią“ , išgėrė, pripylė kitą ir pastatė Putinie-
-    nei, sakydamas:
-    — Mat, vyrui, kaip skriauda, taip skriauda, o moterims vis geriau
-    išeina.
+    Po, valandėlės vyrui po ranka trinktelėjo į stalą sunkus ąsotis, pilnas putoto alaus.
   citata_rodoma: "Po, valandėlės vyrui po ranka trinktelėjo į stalą sunkus ąsotis, pilnas putoto alaus."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
@@ -202,6 +168,11 @@ Nenurodyta
   citata_rodoma: "Kamščiai ąsočiams padaryti iš suraitytų karnų, apvyniotų skarmaliukais ir ant viršaus kopūstla­\npiais."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Teiginiai
+
+- susijęs iš [[objektai/daiktai/Lėkštė.md#claim-t-195341|Lėkštė]]: Vestuvių vakarienės indas ir gervės vaidinimo taikinys ant stalo.
+- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195358|Šienapiūtė]]: Per šienapiūtę vyrai savaitei išeina į pievas, ten gyvena ir verda valgį, o mergaitės atveža pusryčius bei pietus.

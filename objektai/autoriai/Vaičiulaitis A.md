@@ -8,15 +8,15 @@ datos:
   - '1940 m.'
 date_start: '1939'
 date_end: '1940'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,51 +36,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad vaičiulaitis A.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,
-    K., 1940, t. 3, p. 315—319.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61439
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Varmės vysk. valdytojas
-    Jozuė
-    Jucevičius L. A.
-    Jučas M.
-    Judas
-    Judas Makabėjus
-    Juodutis (D.— Jodute)
-    Jurginis J. (Юргинис Ю.)
-    Jurgis šv.
-    Justas šv.
-    Justinianas
-    Kabelka J.
-    Kaltis (Colte, Kolte)
-    Kalvaitis V. (Kalwaitis W.)
-    Kaminskis A. (Kamiński)
-    Kandeimas (D. — Candeym, Jer.
-  citata_rodoma: "Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,\nK., 1940, t. 3, p. 315—319."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-60807"></a>
@@ -91,3 +46,21 @@ Dusburgietis teigia, kad vaičiulaitis A.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61439
+
+## Citatos
+
+- id: c-61439
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,
+    K., 1940, t. 3, p. 315—319.
+  citata_rodoma: "Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,\nK., 1940, t. 3, p. 315—319."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

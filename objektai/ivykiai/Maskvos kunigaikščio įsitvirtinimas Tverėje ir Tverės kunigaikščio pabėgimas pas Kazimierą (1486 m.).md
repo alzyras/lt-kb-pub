@@ -8,13 +8,13 @@ datos:
   - '1486 m.'
 date_start: '1485'
 date_end: '1486'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,6 +67,38 @@ Nenurodyta
   pagrindžia:
     - c-168978
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kojelavičiaus vertinimu, maskvėnų stiprėjimas kėlė pavojų lietuviams, tačiau karalius Kazimieras vengė karo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat jis, po tėvo mirties paveldėjęs
+    valdžią, sugalvojo padaryti tai, kas nepavyko jo tėvui,
+    todėl pradėjo karą prieš Ste-
+    1485 m e ta i
+    poną, Valachijos valdovą, ir
+    T urkų k a ra s V alach i-
+    užėmė Dakijoje keletą mies-
+    jo je
+    tų: vienus jėga užgrobė, kiti
+    patys pasidavė. Šitai sužino­
+    jęs, karalius leidosi į Lvovą. Ten paskelbus, jog Ste­
+    poną bei Valachi ją karalystė imanti į savo globą, nu­
+    siuntė į pagalbą tris tūkstančius rinktinės jaunuome­
+    nės. Kad pagalba buvo deramai stipri, parodė žygio
+    pabaiga: turkai buvo išstumti beveik iš visos Valachi­
+    jos. Sutvarkęs Valachijos reikalus, karalius nuvyko į
+    Lietuvą, nes, bėgant metams ir nykstant dvasios žva­
+    lumui, vis labiau vengė valstybinių reikalų ir vis smar­
+    kiau mėgo medžioklę,
+    o ypač taurų, kurių Lenkijoje
+    negalima užtikti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-168977
@@ -103,27 +135,15 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat jis, po tėvo mirties paveldėjęs
-    valdžią, sugalvojo padaryti tai, kas nepavyko jo tėvui,
-    todėl pradėjo karą prieš Ste-
-    1485 m e ta i
-    poną, Valachijos valdovą, ir
-    T urkų k a ra s V alach i-
-    užėmė Dakijoje keletą mies-
-    jo je
-    tų: vienus jėga užgrobė, kiti
-    patys pasidavė. Šitai sužino­
-    jęs, karalius leidosi į Lvovą. Ten paskelbus, jog Ste­
-    poną bei Valachi ją karalystė imanti į savo globą, nu­
-    siuntė į pagalbą tris tūkstančius rinktinės jaunuome­
-    nės. Kad pagalba buvo deramai stipri, parodė žygio
-    pabaiga: turkai buvo išstumti beveik iš visos Valachi­
-    jos. Sutvarkęs Valachijos reikalus, karalius nuvyko į
-    Lietuvą, nes, bėgant metams ir nykstant dvasios žva­
-    lumui, vis labiau vengė valstybinių reikalų ir vis smar­
-    kiau mėgo medžioklę,
-    o ypač taurų, kurių Lenkijoje
-    negalima užtikti.
+    Tverė turėjo labai galingas karo
+    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
+    ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­
+    jinga maskvėnų sėkmė, toks smarkus jų augimas kai­
+    mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi
+    seniai mėgdamas ramybę, po senovei vengė karo. To­
+    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
+    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
+    jį pagerbęs, bet nieko doro nepažadėjęs.
   citata_rodoma: "Tverė turėjo labai galingas karo\njėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­\nties tūkstančių raitelių. Lietuviams tikrai buvo pavo­\njinga maskvėnų sėkmė, toks smarkus jų augimas kai­\nmynų sąskaita, tačiau karalius Kazimieras, kaip ir visi\nseniai mėgdamas ramybę, po senovei vengė karo. To­\ndėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­\nbomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai\njį pagerbęs, bet nieko doro nepažadėjęs."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

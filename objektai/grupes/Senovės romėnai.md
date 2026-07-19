@@ -52,15 +52,22 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 <a id="claim-t-189368"></a>
 - t-002
   teiginys: "Narbutas rašo, kad romėnai Kabirus vadino Diipotentes, Dii socii arba Anactes, tai yra monarchais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172265
+    - c-172255
 
 <a id="claim-t-189372"></a>
 - t-004
@@ -143,35 +150,35 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 <a id="claim-t-189377"></a>
 - t-009
   teiginys: "Narbutas rašo, kad romėnai laukų apvalymo apeigas vadino Ambervales arba Cum solemnia vota lustrare agros."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172265
-
-<a id="claim-t-189378"></a>
-- t-010
-  teiginys: "Narbutas rašo, kad romėnai per vestuves nukirpdavo kasas, aukodavo jas Junonai ir šią pakirptuvių apeigą vadino Heratelea."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
+  ryšio_patikimumas: "susije_su -> Ambervales: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Ambervales: mention_match, thing, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Ambervales\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172265
+    - c-172264
+
+<a id="claim-t-189378"></a>
+- t-010
+  teiginys: "Narbutas rašo, kad romėnai per vestuves nukirpdavo kasas, aukodavo jas Junonai ir šią pakirptuvių apeigą vadino Heratelea."
+  atnaujinta: "2026-07-19 20:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172263
 
 <a id="claim-t-194588"></a>
 - t-011
@@ -301,83 +308,30 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-172265
 - susijęs iš [[objektai/grupes/Persai.md#claim-t-189426|Persai]]: Narbutas šio dievo mitą sieja su senovės persų Oromazu ir Arimanu ir spėja iš jų kilmę.
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašo, kad romėnai Kabirus vadino Diipotentes, Dii socii arba Anactes, tai yra monarchais.'
+- c-003
+  santrauka: 'Narbutas mano, kad religinių paslapčių požiūriu graikai ir romėnai pamėgdžiojo egiptiečius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
-    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
-    Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­
-    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
-    vo seniausia jų šventykla.
+    Antikoje beveik kiekviena tauta turėjo
+    savo slaptas religines šventes, maldas, aukas; kuo labiau iš­
+    prususi kuri nors tauta buvo, tuo painesnis, tamsesnis, deta­
+    lesnis darydavosi tas stabmeldiškasis religinis kultas. Egiptie­
+    čiai savo paslaptimis pranoksta visas antikines tautas; atrodo,
+    šiuo požiūriu graikai ir romėnai tik pamėgdžioja tą nuostabią
+    tautą. Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
+    Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­
+    196
+
+    ## Puslapis 196
+
+    gą tikslą: taisyti papročius, rodyti kelią j tikrąją dorovę, į skaistų
+    dievybės garbinimą, į neišvengiamą bausmę arba atlyginimą
+    busimajame gyvenime.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Narbutas rašo, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasak Plutarcho, pas atėniečius prijaukinti žal­
-    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
-    vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
-    nėms apsireikšdavo žalčiu.
-    Per daug ilgai reikėtų vardyti visas smulkmenas, bendras
-    lietuviams ir Antikos tautoms, iš tos pačios srities.
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-007
-  santrauka: 'Narbutas lygina, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus atskiriems dievams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kunigai, stovėdami ant pa­
-    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
-    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
-    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
-    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
-    kai kuriuos, buvusius Perkūno šventyklose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-008
-  santrauka: 'Narbutas perteikia Strijkovskio teiginį, kad ugnies apeigomis buvo pamėgdžiojami romėnai per Palilėjų šventes deivės Palės garbei.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šis ugnies krikštas, arba apsivalymas
-    panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
-    sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
-    gas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai
-    tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
-    romėnai, kurie taip krikštydavosi per Palilėjų šventes deivės
-    Palės garbei.
-    Būrimus, darytus su ugnimi, uždegta šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-009
-  santrauka: 'Narbutas rašo, kad romėnai laukų apvalymo apeigas vadino Ambervales arba Cum solemnia vota lustrare agros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Bet kol stabmeldystė tebebuvo
-    savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo
-    nepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­
-    čias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino
-    Ambervales arba Cum solemnia vota lustrare agros (iškilmin­
-    gomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­
-    šventinimu atnašaujant iškilmingas aukas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-010
   santrauka: 'Narbutas rašo, kad romėnai per vestuves nukirpdavo kasas, aukodavo jas Junonai ir šią pakirptuvių apeigą vadino Heratelea.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -388,56 +342,11 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
     globtė (Abglojte), kas reiškia nuometą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-- c-012
-  santrauka: 'Graikai bei romėnai, kuriuos šiame veikale minėsime va dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas dievybes - Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia viskam.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš jų dažnai galima išgirsti: tas jau
-    biją winnam Likis („taip jam jau buvo lemta“)1 2.
-    Graikai bei romėnai, kuriuos šiame veikale minėsime va­
-    dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas
-    dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
-    pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
-    viskam.
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-013
-  santrauka: 'Narbutas teigia, kad šio dievo mitas taip pat sutampa su senovės persų Oromazu ir Arimanu, iš kurių, matyt, ir kilęs.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šio dievo mitas taip pat sutampa su senovės persų Oro-
-    mazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai
-    vadino jį Niger Deus ir painiojo su Plutono mitais. Senovės
-    saksai jį vadino Aire.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-017
-  santrauka: 'Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie toj parašų patvirtindavo savo raštus - taip, kaip romėnai9.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Užrašas virš akmenų galvų -  runomis'*.
-    Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
-    viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­
-    ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­
-    toj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­
-    9
-    Neseckis (Herbarz Polski.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+- t-020
 
 ## Citatos
 
@@ -471,38 +380,31 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tačiau lygindami tuos padavimus vieną
-    su kitu ir aiškindamiesi tų dievybių prigimtį, Mnelea, o vėliau
-    Rolandas, labiausiai priartėdami prie tiesos, sutaria, kad Ka­
-    tarai - trys pragaro, arba mirusiųjų, dievai, kadangi Prozerpi­
-    na simbolizuoja žemę, priimančią į savo įsčias visa, kas mirė,
-    ir atiduodančią, arba gimdančią, iš tų pačių įsčių, dėl to ji yra
-    pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito
-    gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
-    nas - požemį, arba egzistavimą po mirties. Tai iš tikrųjų ir yra
-    graikų mitologijos Trejybė.
-    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
-    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
+    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
+    Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­
+    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
+    vo seniausia jų šventykla.
   citata_rodoma: "Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­\nkiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,\nDii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-172259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pasak Sten-
-    derio, atseit tai buvusi namų senė, sergėjanti naminius žalčius
-    ir rupūžes; ji aprėkdavusi kiekvieną įeinantį, kad nesumindy-
-    tų pieno karalienės.
-    J. F. R. kronika mini tokią rupūžę, užaugusią nepaprasto
-    dydžio, išmaitintą pienu; ji išdarinėjusi neapsakomus dalykus.
-    Ji buvo vieno lietuvių kaimiečio, gyvenusio Neringoje, arba
-    Kuršių nerijoje, namų dievaitė XVI amžiaus pirmojoje pusėje.
+    Pasak Plutarcho, pas atėniečius prijaukinti žal­
+    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
+    vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
+    nėms apsireikšdavo žalčiu.
+    Per daug ilgai reikėtų vardyti visas smulkmenas, bendras
+    lietuviams ir Antikos tautoms, iš tos pačios srities.
   citata_rodoma: "Pasak Plutarcho, pas atėniečius prijaukinti žal­\nčiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­\nvo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­\nnėms apsireikšdavo žalčiu.\nPer daug ilgai reikėtų vardyti visas smulkmenas, bendras\nlietuviams ir Antikos tautoms, iš tos pačios srities."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -560,15 +462,12 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vėlgi buvo dievybių, kurioms nekūrė nei stabų, nei atvaiz­
-    dų; dažnai dievo vardas, parašytas ant lentos arba iškaltas ak­
-    menyje, atstodavo jų atvaizdą. Kartais adoracijos objektas bū­
-    davo austinė uždanga, pakabinta šventykloje priešais kokį nors
-    sienos įdubimą; dažniausiai tai būdavo slaptosiose šventyklo­
-    se. Iš antikinės istorijos taip pat žinome, kad Gadžio mieste,
-    dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
-    šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
-    jokios statulos, net paties Heraklio.
+    Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
   citata_rodoma: "Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -581,41 +480,44 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Paltu messu (paltį mėsos. - R. J.)
-    reiškia pusę kiaulės skerdienos kartu su riebalais, įprastinę ro­
-    mėnų ir lietuvių auką, kurią kaimiečiai atnašauja dievams. Si
-    maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
-    šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
-    rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
-    gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
-    ne. muskis. und man'.
+    Šis ugnies krikštas, arba apsivalymas
+    panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
+    sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
+    gas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai
+    tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
+    romėnai, kurie taip krikštydavosi per Palilėjų šventes deivės
+    Palės garbei.
+    Būrimus, darytus su ugnimi, uždegta šv.
   citata_rodoma: "Šis ugnies krikštas, arba apsivalymas\npanaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­\nsakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­\ngas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai\ntvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės\nromėnai, kurie taip krikštydavosi per Palilėjų šventes deivės\nPalės garbei.\nBūrimus, darytus su ugnimi, uždegta šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-172264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Hartknochas pagal vietinius padavi­
-    mus ir kronikas šitaip aprašo vagystės nustatymo būdą: „Jeigu
-    kam ką nors pavogdavo, jis tuoj pat vykdavo pas tam tikrą
-    signotą arba vaidilą, tai yra pas žynį, kuris paprastai būdavo
-    beturtis neregys arba šlubis. Kai jo klausdavo, kodėl jis toks
-    vargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti
-    dievų valia. Šis žynys pirmiausia melsdavo dangaus dievą Uka-
-    pirmą ir žemės dievą Pušaitį, idant neleistų vagiui pabėgti.
+    Bet kol stabmeldystė tebebuvo
+    savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo
+    nepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­
+    čias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino
+    Ambervales arba Cum solemnia vota lustrare agros (iškilmin­
+    gomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­
+    šventinimu atnašaujant iškilmingas aukas.
   citata_rodoma: "Bet kol stabmeldystė tebebuvo\nsavo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo\nnepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­\nčias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino\nAmbervales arba Cum solemnia vota lustrare agros (iškilmin­\ngomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­\nšventinimu atnašaujant iškilmingas aukas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
 - id: c-172265
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -636,9 +538,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-009
-    - t-010
     - t-020
 
 - id: c-176987
@@ -671,15 +570,13 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
-    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
-    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
-    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
-    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
-    tingais mitais.
-    Viršaitis (Wirszajtos)
-    Šio dievo stabas buvo senojoje Romovės šventykloje, jis
-    buvo labai gerbiamas.
+    Iš jų dažnai galima išgirsti: tas jau
+    biją winnam Likis („taip jam jau buvo lemta“)1 2.
+    Graikai bei romėnai, kuriuos šiame veikale minėsime va­
+    dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas
+    dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
+    pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
+    viskam.
   citata_rodoma: "Iš jų dažnai galima išgirsti: tas jau\nbiją winnam Likis („taip jam jau buvo lemta“)1 2.\nGraikai bei romėnai, kuriuos šiame veikale minėsime va­\ndindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas\ndievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti\npasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia\nviskam."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -692,11 +589,10 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti
-    dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV
-    lentelėje. Skaitykite straipsnį apie herbus.
-    Šneibratas (Sznejbrato)
-    Paukščių ūkio ir medžioklės dievas.
+    Šio dievo mitas taip pat sutampa su senovės persų Oro-
+    mazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai
+    vadino jį Niger Deus ir painiojo su Plutono mitais. Senovės
+    saksai jį vadino Aire.
   citata_rodoma: "Šio dievo mitas taip pat sutampa su senovės persų Oro-\nmazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai\nvadino jį Niger Deus ir painiojo su Plutono mitais. Senovės\nsaksai jį vadino Aire."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -772,16 +668,13 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šis herbas, pavadintas Krunevičiaus vardu, ži­
-    nomas ir Neseckiui.
-    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
-    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
-    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
-    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
-    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
-    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
-    du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
-    Podbužo dvam Voluinėje už nuopelnus kare su totoriais.
+    Užrašas virš akmenų galvų -  runomis'*.
+    Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
+    viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­
+    ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­
+    toj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­
+    9
+    Neseckis (Herbarz Polski.
   citata_rodoma: "Užrašas virš akmenų galvų -  runomis'*.\nLietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra\nviduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­\nni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­\ntoj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­\n9\nNeseckis (Herbarz Polski."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

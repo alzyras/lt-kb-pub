@@ -375,19 +375,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_saltinis: ai
 - t-173137
     - t-194479
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,
-    Danijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,
-    degindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių
-    kilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų
-    — ir pasauliečių, ir vienuolių. Be to, klaikiai išniekino ir išgrobstė sakramentus, bažnyčias,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -516,19 +503,11 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Be galybės mūsų jau minėtų nuostolių, jie išsivarė
-    tiek daug visokeriopo grobio, kad krikščionims, pakliuvusiems į amžiną netikėlių vergiją,
-    rodėsi, jog šios kunigaikštystės žemė labai ilgai, o gal ir niekad negalės atsigauti nuo
-    patirtų nuostolių (skaudūs įspūdžiai ilgam išlieka); be to, būgštauta ir sielvartauta, kad
-    dabar, kai mūsų minėtoje kunigaikštystėje akmens neliko ant akmens, netikėliai be
-    vargo galėsią brautis į gretimas bei kaimynines krikščionių žemes. Štai kiek žalos buvo
-    padaryta krikščionių tikėjimui bei tikintiesiems per pusantrų metų, kai netikėliai nužudė
-    arba išsivarė į amžiną vergiją beveik 20 tūkstančių krikščionių, o daug miestų bei pilių
-    iki pamatų sugriovę.
-    347 (340). Apie keliolikos lietuvių žūtį 1323 metais
-    Tais pačiais metais, per rugiapjūtę, brolis Henrikas, Tepliavos komtūras, su aštuoniais
-    broliais ir 300 vyrų išjojo į Zemygalos581 laukę, buvusį prieš Paštuvos pilį, tačiau dėl
-    lietingo oro neužtiko čia lietuvių pjovėjų, kuriuos tikėjosi išvysti dirbant laukuose.
+    Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,
+    Danijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,
+    degindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių
+    kilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų
+    — ir pasauliečių, ir vienuolių. Be to, klaikiai išniekino ir išgrobstė sakramentus, bažnyčias,
   citata_rodoma: "Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,\nDanijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,\ndegindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių\nkilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų\n— ir pasauliečių, ir vienuolių. Be to, klaikiai išniekino ir išgrobstė sakramentus, bažnyčias,"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -599,21 +578,16 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
-    čionių 1324 metais
-    Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą,
-    įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties
-    miesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento
-    Benedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti
-    lietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
-    šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo
-    karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos ir apaštališkojo sosto
-    valia pasiūlė tvirtai jos laikytis, pridurdami, kad toji šalis, kuri lengvapėdiškai pažeisianti
-    šį susitarimą, kuri sakysianti tokius žodžius ar darysianti tokius veiksmus, griebsiantisi
-    tokių sumanymų ar darbų, kurie galėtų trukdyti šiam susitarimui ar jį vilkinti, būsianti
-    dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
-    tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
-    kad atvykę deramai pataisytų tai, kas atsitiko.
+    Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
+
+       Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų
+    smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
+    nukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.
+
+
+
+
+                   350 (343).
   citata_rodoma: "Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais\n\n   Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų\nsmarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;\nnukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.\n\n\n\n\n               350 (343)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -629,18 +603,13 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Taip pat ugnimi
-    nusiaubė 10 parapinių bažnyčių ir svarbiausią šios kunigaikštystės miestą, vardu
-    Dobrynė, bei visus šios kunigaikštystės kaimus, o į nelaisvę paėmė ar nužudė toje
-    žemėje du tūkstančius krikščionių. Be galybės mūsų jau minėtų nuostolių, jie išsivarė
-    tiek daug visokeriopo grobio, kad krikščionims, pakliuvusiems į amžiną netikėlių vergiją,
-    rodėsi, jog šios kunigaikštystės žemė labai ilgai, o gal ir niekad negalės atsigauti nuo
-    patirtų nuostolių (skaudūs įspūdžiai ilgam išlieka); be to, būgštauta ir sielvartauta, kad
-    dabar, kai mūsų minėtoje kunigaikštystėje akmens neliko ant akmens, netikėliai be
-    vargo galėsią brautis į gretimas bei kaimynines krikščionių žemes. Štai kiek žalos buvo
-    padaryta krikščionių tikėjimui bei tikintiesiems per pusantrų metų, kai netikėliai nužudė
-    arba išsivarė į amžiną vergiją beveik 20 tūkstančių krikščionių, o daug miestų bei pilių
-    iki pamatų sugriovę.
+    Apie Revelio, Danijos karaliaus žemės, nusiaubimą
+
+      Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,
+    Danijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,
+    degindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių
+    kilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų
+    — ir pasauliečių, ir vienuolių.
   citata_rodoma: "Apie Revelio, Danijos karaliaus žemės, nusiaubimą\n\n  Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,\nDanijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,\ndegindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių\nkilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų\n— ir pasauliečių, ir vienuolių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

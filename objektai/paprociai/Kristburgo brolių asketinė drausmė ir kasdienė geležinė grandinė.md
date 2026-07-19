@@ -91,22 +91,6 @@ Nenurodyta
   pagrindžia:
     - c-178995
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vienas brolis iki mirties kasdien ant pliko kūno juosėjo sunkią geležinę grandinę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
-    menką nusidėjėlį“. Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo
-    sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.
-
-                   65 (64).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-63435
@@ -114,12 +98,14 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kristburgo broliai šiuos karius užpuolė
-    ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
-    kariuomenės. Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.
-    Sitai išvydę, broliai ėmė juos vytis, vienus nukovė, kitus paėmė į nelaisvę, o likusieji
-    prigėrė Vysloje. Vis dėlto jos vadas su keliais [kariais] vargais negalais išsigelbėjo,
-    pasprukdamas laivu.
+    Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
+    menką nusidėjėlį“. Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo
+    sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.
+
+
+
+
+                   65 (64).
   citata_rodoma: "Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį\nmenką nusidėjėlį“. Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo\nsunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.\n\n\n\n\n               65 (64)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

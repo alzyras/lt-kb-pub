@@ -117,8 +117,8 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
-    mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa­
-    mesti savo deivės stabą, kuris išgulėjo žemėje daugiau nei sep­
+    mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa-
+    mesti savo deivės stabą, kuris išgulėjo žemėje daugiau nei sep-
     tynis amžius. Šiandien tai lenkų
     armijos
     generolo Skažinskio
@@ -138,21 +138,12 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šios dainos vertimą į lenkų
-    kalbą istorikas gavo iš savo korespondento archeologo, kolekcio­
-    nieriaus Tado Volianskio (Wolanski). 1844 sausį T. Volianskis ra­
-    šė istorikui:
-    siunčiu Tamstai dainą, kurią išverčiau ka-
-    dais, prieš daugel metų, į lenkų kalbą. Tai nebus Tamstai nema­
-    lonu, nes tas, kuris savo širdyje ištikimai, kaip lenkas ir lietu­
-    vis, saugo tėvynės meilę ir jos ankstesniy laikų prisiminimą, tai
-    jam
-    ir
-    tokia
-    smulkmena
-    yra
-    geistina“
-    (Bidgoščius.
+    Netoli Krušvicos, prie Goplo ežero, buvo atkastas deivės Laimos
+    stabas, gana dailiai iškaltas iš smiltainio. Ponas T. Volianskis
+    atsiuntė man piešinį, kurį čia pridedu. Iš kitų rankų gavau tokį
+    pat piešinį, tik su tuo skirtumu, jog ant akmeninio pagrindo buvo
+    rastas runų užrašas, patvirtinantis pono Volianskio spėjimą. Jis
+    išskaitė, jog tai yra Lauma, AVFTAL (skaitoma iš dešinės į kairę).
   citata_rodoma: "Netoli Krušvicos, prie Goplo ežero, buvo atkastas deivės Laimos\nstabas, gana dailiai iškaltas iš smiltainio. Ponas T. Volianskis\natsiuntė man piešinį, kurį čia pridedu. Iš kitų rankų gavau tokį\npat piešinį, tik su tuo skirtumu, jog ant akmeninio pagrindo buvo\nrastas runų užrašas, patvirtinantis pono Volianskio spėjimą. Jis\nišskaitė, jog tai yra Lauma, AVFTAL (skaitoma iš dešinės į kairę)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

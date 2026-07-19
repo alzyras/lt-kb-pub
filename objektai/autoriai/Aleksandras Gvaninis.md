@@ -241,17 +241,11 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
-    pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
-    nius žalčius; šie baltu rankšluosčiu užšliaužia ant stalo ir ra­
-    gauja valgių, kuriuos paskui žmonės suvalgo, bet jeigu žalčiai
-    nenorėtų išlįsti arba ėsti, tai reikštų gresiančią namui didelę
-    nelaimę“.
-    Latviai naminius žalčius, garbintus kaip fetišus, vadino
-    Czuhskas. Šiuos prietarus žinojo ir Lietuvos rusinai.
-    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
-    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
-    gelis kitų tautų nebuvo laisvos nuo tų prietarų.
+    Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
+    paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-
+    ninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­
+    ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
+    bintojų keletą avilių bičių.
   citata_rodoma: "Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­\npaprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-\nninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­\nras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­\nbintojų keletą avilių bičių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -266,20 +260,12 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Perkūnas (Perkūnas)
-    Perkūnas, Jupiteris griausmavaldis, Jupiter tonam - seno­
-    vės Europoje labiausiai paplitęs dievas, dievų, dangaus ir že­
-    mės karalius, gamtos valdovas. Žmogus, vadovaudamasis įgim­
-    tu jausmu, pajutęs dievą savo širdyje, protu ieškojo jo aplin­
-    koje. Jis jautė, kad visa, kas vyksta gamtoje, turi turėti savo
-    kaltininką, todėl pripažino savo viešpatį ir visų dalykų valdo­
-    vą, ėmė jį garbinti; bet garbinimas visuomet žengia kartu su
-    baime, todėl savo jausmais linkęs garbinti reiškinį, kuris, atro­
-    dė, labiausiai jį gąsdino. Audros, kruša, žaibai, griausmas -
-    šitokie baisūs reiškiniai, sukeliami nesuprantamų dangaus jė­
-    gų, labai traukė žmogaus dėmesį: jų jėga griauna, daužo, nai­
-    kina viską, net šventyklas ir dievų stabus; taigi tos jėgos valdo­
-    vas turi būti galingiausias dievas.
+    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
+    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
+    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
+    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
+    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
+    tingais mitais.
   citata_rodoma: "Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina\nšį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­\nmės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo\nsuasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų\naukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­\ntingais mitais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -134,15 +134,15 @@ Nenurodyta
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 128."
   citata_originali: |
     Tarybos ponai su kariuomene prastovėjo prie
-    Smolensko tris savaites8 ir miesto niekaip neįveikė,
+    Smolensko tris savaites8  ir miesto niekaip neįveikė,
     o priemiesčius bei vienuolynus sudegino, daug žmonių
     išsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­
     jo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.
     Didysis kunigaikštis Kazimieras, sutelkęs visas savo
     Lietuvos pajėgas, tą patį rudenį atėjo prie Smolensko,
-    pats vadovaudamas, ir atsiėmė Smolenską9, o kuni­
+    pats vadovaudamas, ir atsiėmė Smolenską9 , o kuni­
     gaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­
-    tybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0.
+    tybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0 .
     Ir didysis kunigaikštis vėl perduoda Smolensko val­
     dymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­
     vo sostinę.

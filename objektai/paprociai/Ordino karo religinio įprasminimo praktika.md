@@ -85,18 +85,11 @@ Nenurodyta
 <a id="claim-t-67175"></a>
 - t-005
   teiginys: "Petras iš Dusburgo Ordino karą laikė vykdomu pagal Dievo valią, o Ordino priešus vadino Dievo priešais."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ordino karo religinio įprasminimo praktika: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ordino karo religinio įprasminimo praktika\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-67188
+    - c-67187
 
 <a id="claim-t-67176"></a>
 - t-003
@@ -144,35 +137,22 @@ Nenurodyta
     - c-67186
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Ordino karo religinis įprasminimas žadėjo žuvusiems kryžiuočiams dangų, amžiną palaimą ir angelų globą po mūšio.'
+- c-004
+  santrauka: 'Petras iš Dusburgo Ordino karą laikė vykdomu pagal Dievo valią, o Ordino priešus vadino Dievo priešais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
-    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
-    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87). Prūsijoje karų
-    dalyviams dievas netgi atleidžiąs bausmes, už kurias šiaip gresiąs amžinas pasmerkimas
-    (III, 54). Tai jau kryžiuočių kovinės dvasios ugdymas.
+    Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
+    tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
+      Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis
+    krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
+    ekspansija  į baltų žemes. Vokiškojo Ordino, visokeriopai remiamo popiežiaus kurijos,
+    priešai Petrui iš Dusburgo visada yra dievo priešai, jis nieku būdu nenori suprasti, kad
+    pagonys prūsai  ir lietuviai gali kovoti už laisvę, už savarankišką vystymąsi.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
-    riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus
-    ginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins
-    Kristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.
-    Šie „geri darbai“ apsaugo kalaviją iškėlusį „nuo pragaro bausmių“, „veda  jį  į amžiną
-    linksmybę“ (II. 8).
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -181,17 +161,11 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vizijomis apie brolių žaizdas ir randus, kuriuos rodanti abejojantiems pati švenčiausioji
-    mergelė, teigiama, jog Vokiečių ordinas esąs pats geriausias, labiausiai nusipelnęs tarp
-    kitų panašių brolijų (III, 12).
-    Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
-    žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies
-    įvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.
-    septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje
-    įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis
-    šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
-    Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
-    niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
+    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
+    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
+    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87). Prūsijoje karų
+    dalyviams dievas netgi atleidžiąs bausmes, už kurias šiaip gresiąs amžinas pasmerkimas
+    (III, 54). Tai jau kryžiuočių kovinės dvasios ugdymas.
   citata_rodoma: "Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos\neinančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė\nMarija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87). Prūsijoje karų\ndalyviams dievas netgi atleidžiąs bausmes, už kurias šiaip gresiąs amžinas pasmerkimas\n(III, 54). Tai jau kryžiuočių kovinės dvasios ugdymas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -247,6 +221,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-003
 
 - id: c-67188
@@ -254,36 +229,29 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vokiškojo Ordino, visokeriopai remiamo popiežiaus kurijos,
-    priešai Petrui iš Dusburgo visada yra dievo priešai, jis nieku būdu nenori suprasti, kad
-    pagonys prūsai ir lietuviai gali kovoti už laisvę, už savarankišką vystymąsi. Prūsų ir
-    lietuvių išsivaduojamoji, gynybinė kova, masių kova prieš feodalinę priespaudą, baltų
-    kova prieš nacionalinę ir kultūrinę priespaudą jam tolygu kovai prieš krikščionybę ir
-    patį dievą. Norėdamas tą mintį pagrįsti, jis tendencingai pateikia ne tik, kaip matėme,
-    atskirus istorinius faktus, bet tam pajungia ir visą kronikos idėjinį turinį.
-    Kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai
-    darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
+    Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
+    tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
+      Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis
+    krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
+    ekspansija  į baltų žemes.
   citata_rodoma: "Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo\ntos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).\n  Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis\nkrikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios\nekspansija  į baltų žemes."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-67189
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
-    tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
-    Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis
-    krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
-    ekspansija į baltų žemes. Vokiškojo Ordino, visokeriopai remiamo popiežiaus kurijos,
-    priešai Petrui iš Dusburgo visada yra dievo priešai, jis nieku būdu nenori suprasti, kad
-    pagonys prūsai ir lietuviai gali kovoti už laisvę, už savarankišką vystymąsi.
+    Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
+    riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus
+    ginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins
+    Kristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.
+    Šie „geri darbai“ apsaugo kalaviją iškėlusį „nuo pragaro bausmių“, „veda  jį  į amžiną
+    linksmybę“ (II. 8).
   citata_rodoma: "Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino\nriterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus\nginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins\nKristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.\nŠie „geri darbai“ apsaugo kalaviją iškėlusį „nuo pragaro bausmių“, „veda  jį  į amžiną\nlinksmybę“ (II. 8)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

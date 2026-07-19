@@ -91,6 +91,30 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
 - susijęs iš Ugros upė: Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-184630|metropolitas]]: Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-185415|viečė]]: Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Lietuvos metraščio pasakojime Kijevo didysis kunigaikštis Dimitrijus po Batu antpuolio užėmė Drucko žemę, pastatydino Drucko miestą ir pasivadino Drucko didžiuoju kunigaikščiu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Bevaldant Mantvilai, iškilo chanas Batu2; ir užpuo­
+    lė jis Rusų žemę, ir visą Rusų žemę užkariavo3, ir daug
+    rusų kunigaikščių iškapojo, kitus parsivedė nelaisvėn,
+    o visos Rusų žemės sostinę, Kijevo miestą, pavertė de­
+    gėsiais L Kijevo didysis kunigaikštis Dimitrijus5, išsi­
+    gandęs jo didelės jėgos ir galybės, pabėgo iš Kijevo
+    į Černigovo miestą6 ir paskui sužinojo, kad Kijevo
+    miestas sudegintas ir visa Rusų žemė nusiaubta. Ir iš­
+    girdo, kad esama žmonių — mužikų, gyvenančių be
+    valdovo, besivadinančių druckiečiais. Ir jis sušaukė ka­
+    rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­
+    no Drucko miestą ir pasivadino Drucko didžiuoju ku­
+    nigaikščiu s.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169466
@@ -160,13 +184,13 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Bevaldant Mantvilai, iškilo chanas Batu2; ir užpuo­
-    lė jis Rusų žemę, ir visą Rusų žemę užkariavo3, ir daug
+    Bevaldant Mantvilai, iškilo chanas Batu2 ; ir užpuo­
+    lė jis Rusų žemę, ir visą Rusų žemę užkariavo3 , ir daug
     rusų kunigaikščių iškapojo, kitus parsivedė nelaisvėn,
     o visos Rusų žemės sostinę, Kijevo miestą, pavertė de­
-    gėsiais L Kijevo didysis kunigaikštis Dimitrijus5, išsi­
+    gėsiais L  Kijevo didysis kunigaikštis Dimitrijus5 , išsi­
     gandęs jo didelės jėgos ir galybės, pabėgo iš Kijevo
-    į Černigovo miestą6 ir paskui sužinojo, kad Kijevo
+    į Černigovo miestą6  ir paskui sužinojo, kad Kijevo
     miestas sudegintas ir visa Rusų žemė nusiaubta. Ir iš­
     girdo, kad esama žmonių — mužikų, gyvenančių be
     valdovo, besivadinančių druckiečiais. Ir jis sušaukė ka­

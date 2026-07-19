@@ -8,13 +8,13 @@ datos:
   - '1925 m.'
 date_start: '1500'
 date_end: '1925'
-amziai:
-  - 'XV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,37 +34,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad zimmermann P.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'P. Zimmermanno veikalas „Geschichte des Kreises Labiau bis etwa zum Jahre 1500“ išleistas Labiau 1925 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
-    1925.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-62016
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Рыбаков Б. А. Киевская Русь и русские княжества XII— XIII вв. — М., 1982.
-    Савукинас Б. К проблеме западнобалтийского субстрата в югозападной Литве.
-  citata_rodoma: "Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,\n1925."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-61384"></a>
@@ -78,3 +47,21 @@ Dusburgietis teigia, kad zimmermann P.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinę informaciją apie leidinį."
   pagrindžia:
     - c-62016
+
+## Citatos
+
+- id: c-62016
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
+    1925.
+  citata_rodoma: "Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,\n1925."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

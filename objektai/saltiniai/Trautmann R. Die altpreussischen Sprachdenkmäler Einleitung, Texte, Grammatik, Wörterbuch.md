@@ -9,13 +9,13 @@ datos:
   - '1910 m.'
 date_start: '1801'
 date_end: '1910'
-amziai:
-  - 'XIX'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,38 +35,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad trautmann R.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'R. Trautmanno „Die altpreussischen Sprachdenkmäler“ išleista Getingene 1910 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,
-    Wörterbuch.— Göttingen, 1910.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61958
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    109—128.
-    История Литовской ССР (с древнейших времен до наших дней) / Ред. коллегия Б.
-    Ванткявичюс (отв. ред.), В. Меркис, К. Навицкас, В. Пашуто, К. Сурблис, М. Ючас.
-  citata_rodoma: "Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,\nWörterbuch.— Göttingen, 1910."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-61326"></a>
@@ -80,3 +48,21 @@ Dusburgietis teigia, kad trautmann R.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį leidinio miestą ir metus."
   pagrindžia:
     - c-61958
+
+## Citatos
+
+- id: c-61958
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,
+    Wörterbuch.— Göttingen, 1910.
+  citata_rodoma: "Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,\nWörterbuch.— Göttingen, 1910."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

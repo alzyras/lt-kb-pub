@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1929'
 date_end: '2026'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -130,6 +130,32 @@ media_all_json: |-
   pagrindžia:
     - c-43273
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Suvažiavime
+    aptarti svarbiausi partizanų veik-
+    lą reglamentuojantys dokumentai,
+    numatyta bendra kovos strategija ir taktikos kryptys, suformuota aukš-
+    čiausioji partizanų vadovybė. LLKS Tarybos prezidiumo pirmininku iš-
+    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
+    karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
+    rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
+    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
+    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
+    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
+    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
+    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
+    sudarytą vyriausybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
 ## Citatos
 
 - id: c-43273
@@ -165,20 +191,13 @@ media_all_json: |-
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Suvažiavime
-    aptarti svarbiausi partizanų veik-
-    lą reglamentuojantys dokumentai,
-    numatyta bendra kovos strategija ir taktikos kryptys, suformuota aukš-
-    čiausioji partizanų vadovybė. LLKS Tarybos prezidiumo pirmininku iš-
-    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
-    karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
-    rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
-    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
+    Bunkeryje pri-
     imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
     atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
     suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
-    sudarytą vyriausybę.
+    sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
+    organu iki laisvų demokratinių Seimo rinkimų.
   citata_rodoma: "Bunkeryje pri-\nimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės \natkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, \nsuvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, \ndemokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo \nsudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios \norganu iki laisvų demokratinių Seimo rinkimų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"

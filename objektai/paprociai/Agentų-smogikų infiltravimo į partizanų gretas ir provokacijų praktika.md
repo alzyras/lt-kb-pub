@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika
 
 ## Santrauka
@@ -95,7 +96,7 @@ Nenurodyta
 <a id="claim-t-67037"></a>
 - t-006
   teiginys: "Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Agentai-smogikai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -108,6 +109,7 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1940-1950; įvykio data: 1950 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
+    - c-12363
     - c-12364
 
 ## Citatos
@@ -138,6 +140,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+    - t-006
 
 - id: c-12364
   sudarytojas: "Karolis Zikaras"

@@ -65,21 +65,6 @@ Nenurodyta
   pagrindžia:
     - c-172732
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas nuolatinę auką apibūdino kaip negęstančios ugnies kurstymą Praurimės, Kurko, Perkūno ir Amžinosios ugnies aukuruose.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    7. N uolatinė auka. Jos esmė buvo visados degančios ir
-    niekad negęstančios ugnies kurstymas Praurimės, Kurko,
-    Perkūno ir Amžinosios ugnies aukuruose; tą ugnį prižiūrė­
-    jo tam tikri žyniai ir žynės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172732
@@ -87,12 +72,10 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jam Franci, Heruli, Saxones, multiplices crudelitatum species,
-    belluarum more peragebant, quae nationum diversitas superstitionis
-    mancipata altaris, deos suos humano credebant caede mulgeri (Jau
-    frankai, herulai, saksai yra pridarę visokių žiaurybių; šios įvairios
-    tautos, atsidavusios prietaringos baimės altoriams, tikėjo, kad žmo­
-    nių aukojimu palenksiančios savo dievus) In script. Rer. Brunsvic.
+    7. N uolatinė auka. Jos esmė buvo visados degančios ir
+    niekad negęstančios ugnies kurstymas Praurimės, Kurko,
+    Perkūno ir Amžinosios ugnies aukuruose; tą ugnį prižiūrė­
+    jo tam tikri žyniai ir žynės.
   citata_rodoma: "7. N uolatinė auka. Jos esmė buvo visados degančios ir\nniekad negęstančios ugnies kurstymas Praurimės, Kurko,\nPerkūno ir Amžinosios ugnies aukuruose; tą ugnį prižiūrė­\njo tam tikri žyniai ir žynės."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

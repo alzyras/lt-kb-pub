@@ -86,24 +86,6 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
 - susijęs iš [[objektai/ivykiai/Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas.md#claim-t-191034|Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas]]: Romos senatas pasiuntė į Konstantinopolį delegaciją pranešti Zenonui, kad Romoje nereikia skelbti imperatoriaus, o Odoakrui galima patikėti Italijos valdžią.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192166|diecezija]]: Narbutas rašo, kad Romos senatas Odoakrą pristatė kaip patricijų, kuriam patikima valdžia italų diecezijoje.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    318
-    Išsigandę italai nė nedrįso priešintis, visi iškart len­
-    kėsi naujo valdovo galybei. Romos senatas patvirtino Ro­
-    mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­
-    mulo karališkoji ir pirmojo Augusto įsteigtos karūnos,
-    pašalinimą iš imperatoriaus posto. Tarsi pats likimas pa­
-    noro, kad šis jaunuolis sujungtų anų įžymių Romos im­
-    perijos įkūrėjų vardus ir būtų paskutinis jų vadų ir ti­
-    tulų paveldėtojas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Romos senatas nusiuntė pasiuntinius į Konstantinopolį pranešti, kad Romoje nebereikia skelbti imperatorių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -133,17 +115,15 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Romos senatas patvirtino Ro­
+    318
+    Išsigandę italai nė nedrįso priešintis, visi iškart len­
+    kėsi naujo valdovo galybei. Romos senatas patvirtino Ro­
     mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­
     mulo karališkoji ir pirmojo Augusto įsteigtos karūnos,
     pašalinimą iš imperatoriaus posto. Tarsi pats likimas pa­
     noro, kad šis jaunuolis sujungtų anų įžymių Romos im­
     perijos įkūrėjų vardus ir būtų paskutinis jų vadų ir ti­
-    tulų paveldėtojas. Savo kariuomenės paskelbtas karaliu­
-    mi, Odoakras galėjo priimti titulus ir sosto papuošalus,
-    bet iš kuklumo ar politinių sumetimų skatinamas, o gal
-    vengdamas įžeisti senatą, neliepė vadinti save nei im­
-    peratoriumi, nei Italijos karaliumi.
+    tulų paveldėtojas.
   citata_rodoma: "318\nIšsigandę italai nė nedrįso priešintis, visi iškart len­\nkėsi naujo valdovo galybei. Romos senatas patvirtino Ro­\nmulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­\nmulo karališkoji ir pirmojo Augusto įsteigtos karūnos,\npašalinimą iš imperatoriaus posto. Tarsi pats likimas pa­\nnoro, kad šis jaunuolis sujungtų anų įžymių Romos im­\nperijos įkūrėjų vardus ir būtų paskutinis jų vadų ir ti­\ntulų paveldėtojas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

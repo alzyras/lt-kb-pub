@@ -18,15 +18,15 @@ datos:
   - '2026 m.'
 date_start: '1236'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
   - upė
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -505,29 +505,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 - susijęs iš [[objektai/zodynas/krivė krivaitis.md#claim-t-185387|krivė krivaitis]]: Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine.
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
 - susijęs iš Betygala: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
-## Reikšmingi paminėjimai
-- c-016
-  santrauka: 'Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    218
-
-    ## Puslapis 218
-
-    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
-    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
-    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
-    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
-    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
-    lemonu Kalnas).
-    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
-    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-37358
@@ -900,18 +877,18 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Dėl šito nėra abejonės, kadangi Biarmija,
-    turtinga senovinė šalis, garsėjanti IX ir X amžių šiaurės sago­
-    se10, turėjo savo raštą, apie kurį teks dar kartą išsamiau kalbė­
-    ti. Iškyla kitas klausimas: kaip šis raidynas pateko į Žemaitiją?
-    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
-    užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę­
-    sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir
-    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
-    kraštams.
-    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
-    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
-    to gyventojams.
+    218
+
+    ## Puslapis 218
+
+    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
+    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
+    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
+    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
+    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
+    lemonu Kalnas).
+    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
+    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
   citata_rodoma: "218\n\n## Puslapis 218\n\nnikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­\nmuno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­\ntuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo\nkitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-\ntės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­\nlemonu Kalnas).\nKaimiečiai net žino pasakojimų, vaizduojančių tą žmogų\nsudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

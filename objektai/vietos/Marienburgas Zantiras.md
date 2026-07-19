@@ -70,35 +70,6 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
   pagrindžia:
     - c-171911
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėjusi trečia šventykla.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Trečia šventykla buvo vietovėje, kur dabar Marienburgas,
-    prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,
-    pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.
-    Toji vietovė anksčiau vadinosi Zantiras.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas nurodė, kad Marienburgo vietovė prie Nogato anksčiau vadinosi Zantiras.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Toji vietovė anksčiau vadinosi Zantiras. Šventyklos aptvaro vi­
-    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
-    bai, -  anot Enėjo Silvijaus liudijimo.
-    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
-    taip pat buvusi šventykla.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-171910
@@ -106,13 +77,10 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vis dėlto istorija mena labai seną šventyklą, kuri buvo
-    prie Baltijos jūros Austechijos (Aiistechia - Aukštaitija. -R. J.)'°
-    provincijoje, iki šiol neištirtoje vietoje; anot Sarnickio", tai lies­
-    tų Kuršą. Kadangi istorikai šią šventyklą vadina ir Romove,
-    todėl reikėtų manyti, kad, žlugus senajai prūsų religijai, Ale-
-    po, paskutinio prūsų vyriausiojo žynio, įpėdinis iš pradžių gy­
-    veno prie šios šventyklos; su tuo sutinka ir Strijkovskis.
+    Trečia šventykla buvo vietovėje, kur dabar Marienburgas,
+    prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,
+    pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.
+    Toji vietovė anksčiau vadinosi Zantiras.
   citata_rodoma: "Trečia šventykla buvo vietovėje, kur dabar Marienburgas,\nprie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,\npastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.\nToji vietovė anksčiau vadinosi Zantiras."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -127,15 +95,11 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    -R. J.)'°
-    provincijoje, iki šiol neištirtoje vietoje; anot Sarnickio", tai lies­
-    tų Kuršą. Kadangi istorikai šią šventyklą vadina ir Romove,
-    todėl reikėtų manyti, kad, žlugus senajai prūsų religijai, Ale-
-    po, paskutinio prūsų vyriausiojo žynio, įpėdinis iš pradžių gy­
-    veno prie šios šventyklos; su tuo sutinka ir Strijkovskis. Tačiau
-    pajūrio miestas, atkištas priešų puolimams, netrukus turėjo
-    būti sugriautas, kadangi mūsų istorikai tuojau pastebi kitą Lie­
-    tuvos Romovę prie Dubysos ir Nemuno santakos12.
+    Toji vietovė anksčiau vadinosi Zantiras. Šventyklos aptvaro vi­
+    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
+    bai, -  anot Enėjo Silvijaus liudijimo.
+    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
+    taip pat buvusi šventykla.
   citata_rodoma: "Toji vietovė anksčiau vadinosi Zantiras. Šventyklos aptvaro vi­\nduje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­\nbai, -  anot Enėjo Silvijaus liudijimo.\nTen, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,\ntaip pat buvusi šventykla."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

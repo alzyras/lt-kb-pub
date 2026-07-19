@@ -23,6 +23,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Krivis Krewe Kriwe
 
 ## Santrauka
@@ -96,42 +97,6 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   pagrindžia:
     - c-172085
 
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas remiasi Pretorijumi aiškindamas, kad „Kreive“ arba „Kriwe“ reiškė žynį arba tautos teisėją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
-    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
-    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
-    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
-    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
-    rijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų
-    žynių vyriausiąjį žynį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'O be to, krivio pavadinimą žinojo beveik vien lietuvių kiltys - tiek, kad kiekviena atskira gentis arba kiekvie na provincija turėjo savo atskirą krivį - net tolimuose kraš- 10 1 Skaityk pabaigoje I priedą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Antra
-    vertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios
-    giminės tautas pasaulietiškos grafo pareigos nebuvo susijusios
-    su žyniavimu . O be to, krivio pavadinimą žinojo beveik vien
-    lietuvių kiltys -  tiek, kad kiekviena atskira gentis arba kiekvie­
-    na provincija turėjo savo atskirą krivį -  net tolimuose kraš- * 10 1
-    Skaityk pabaigoje I priedą.
-    10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
-    Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172085
@@ -188,21 +153,13 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mirus senajam vyriausiajam žyniui, vaidilos labai slaptai
-    išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
-    nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
-    iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo. Nors
-    Hartknochas abejoja tokią konklavą buvus, kadangi ankstes­
-    nieji istorikai apie ją neužsimena, tačiau užginčyti tai - neįma­
-    nomas dalykas, nes vietos padavimai ir dainos galėjo išsaugoti
-    ir perteikti vėlesniems amžiams tą detalę, kurią pamaldieji ra­
-    šytojai savo raštuose praleido nenorėdami lyginti su švento­
-    mis dabartinės Romos apeigomis.
-    Henenbergeris išsaugojo mums vyriausiųjų žynių sąrašą,
-    pradedamą Vaidevučiu, kuris VI amžiaus pradžioje, iki kry­
-    žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
-    tvarką (pas Hartknochą, p. 149):
-    1.
+    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
+    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
+    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
+    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
+    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
+    rijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų
+    žynių vyriausiąjį žynį.
   citata_rodoma: "Pretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų\nžynių vyriausiąjį žynį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -217,15 +174,15 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    nes; tam įvykus, krivis užkopdavo ant laužo ir prašnekdavo į
-    susirinkusiuosius sakydamas, kad jie privalą iš visos širdies ta-
-    nauti dievams, apverkti nuodėmes, kuriomis sukėlę dievų pyktį,
-    pagaliau toliau gyventi doresnį gyvenimą. Kai žmonės, atsi­
-    liepdami į tokį pamokslą, su verksmu ir riksmu išpažindavo
-    savo nuodėmes ir išsakydavo nuoširdžią atgailą, krivis guos­
-    davo žadėdamas dievų malonę. O kad būtų labiau tuo įsitiki­
-    nę, sakydavo jiems, kad jis pats norįs už jų nuodėmes pasiau­
-    koti ir kankinio mirtimi už juos atsilyginti.
+    Antra
+    vertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios
+    giminės tautas pasaulietiškos grafo pareigos nebuvo susijusios
+    su žyniavimu . O be to, krivio pavadinimą žinojo beveik vien
+    lietuvių kiltys -  tiek, kad kiekviena atskira gentis arba kiekvie­
+    na provincija turėjo savo atskirą krivį -  net tolimuose kraš- * 10 1
+    Skaityk pabaigoje I priedą.
+    10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
+    Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius.
   citata_rodoma: "Antra\nvertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios\ngiminės tautas pasaulietiškos grafo pareigos nebuvo susijusios\nsu žyniavimu . O be to, krivio pavadinimą žinojo beveik vien\nlietuvių kiltys -  tiek, kad kiekviena atskira gentis arba kiekvie­\nna provincija turėjo savo atskirą krivį -  net tolimuose kraš- * 10 1\nSkaityk pabaigoje I priedą.\n10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir\nPruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -43,18 +43,6 @@ Eržvilkas 1931 m. Tautosakos komisijos suvestinėje minimas kaip pateikėjo kil
 
 Eržvilkas šiame šaltinyje yra vietovė.
 
-## Teiginiai
-
-<a id="claim-t-195490"></a>
-- t-001
-  teiginys: "1931 m. Tautosakos komisijos suvestinėje P. Blynovas nurodytas kaip iš Eržvilko."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177913
-
 ## Citatos
 
 - id: c-177913
@@ -69,5 +57,3 @@ Eržvilkas šiame šaltinyje yra vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

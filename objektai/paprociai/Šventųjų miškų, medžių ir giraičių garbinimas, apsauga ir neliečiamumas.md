@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-189906"></a>
 - t-001
   teiginys: "Narbutas rašo, kad šventuosiuose miškeliuose nederėjo medžioti ar gaudyti gyvūnų, o persekiojami žmonės ten rasdavę prieglobstį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 19:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -55,20 +55,28 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
+    - c-172789
     - c-177040
 
 <a id="claim-t-189907"></a>
 - t-002
   teiginys: "Narbutas mini padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško, teikusio prieglobstį persekiojamiesiems, liekana."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventųjų miškų, medžių ir giraičių garbinimas, apsauga ir neliečiamumas: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventųjų miškų, medžių ir giraičių garbinimas, apsauga ir neliečiamumas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-177040
+    - c-172790
 
 <a id="claim-t-194642"></a>
 - t-003
@@ -83,10 +91,12 @@ Nenurodyta
   pagrindžia:
     - c-177040
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad šventuosiuose miškeliuose nederėjo medžioti ar gaudyti gyvūnų, o persekiojami žmonės ten rasdavę prieglobstį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172789
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Miškelių garbinimas buvo taip sureikšmintas, kad juose
     jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­
@@ -100,14 +110,19 @@ Nenurodyta
     susukdavo kojas ir rankas“. Krikščionims iš smalsumo buvo
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
     tikriausiai ne4.
-  citata_rodoma: ''
+  citata_rodoma: "Miškelių garbinimas buvo taip sureikšmintas, kad juose\njokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­\nčius, bet jie dar buvo persekiojamų žmonių prieglobstis; pasi­\nslėpę toje šventoje vietoje, jie išsivaduodavo nuo persekioji­\nmo, kadangi visos ten esančios būtybės, taip pat medžiai ir\naugalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­\nčiamais. Miechovita3 sako: „Prūsų tauta buvo taip sugedusi,\nkad ne tik miškai, bet ir juose gyvenantys paukščiai ir žvėrys\nbuvo laikomi šventais, o tų žvėrių užmušėjams velnių galybė\nsusukdavo kojas ir rankas“. Krikščionims iš smalsumo buvo\ndraudžiama įžengti į tuos miškelius, bet nelaimingiesiems -\ntikriausiai ne4."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas mini padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško, teikusio prieglobstį persekiojamiesiems, liekana.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  pagrindzia:
+    - t-001
+
+- id: c-172790
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     263
 
@@ -127,14 +142,19 @@ Nenurodyta
     su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
     čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
     kiausiame miške ar nuošaliausiose vietose.
-  citata_rodoma: ''
+  citata_rodoma: "263\n\n## Puslapis 263\n\nlai, po jų -  tuopos -  baltosios, sidabrinės. Lydos apskrityje,\nprie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me­\ndžių, labai senų ir gražiai augančių; apie juos esama padavi­\nmo, kad tai liekana šventojo miško, kuris buvo mirtinai per­\nsekiojamųjų prieglobstis, o nematoma jėga, sauganti tokius\nžmones, stebuklingu būdu juos maitinusi, kol jie ten gyven­\ndavę.\nLietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Seniausiais amžiais, kai miškai, dengiantys žemę, buvo žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra žumu ir malonia aplinka, būdavo draugiškų sueigų vieta; tai ten gyvendavo pirmieji tautų vadai ir drauge pirmieji žyniai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  pagrindzia:
+    - t-002
+
+- id: c-177040
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Seniausiais amžiais, kai miškai, dengiantys žemę, buvo
     žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­
@@ -149,87 +169,6 @@ Nenurodyta
 
     mo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi
     miškelis buvo pirmoji visų tautų šventykla.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172789
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Antikos žmonių šventyklos susidėdavo iš dviejų dalių: Na-
-    os, kurioje stovėdavo indas su šventuoju vandeniu ir rinkdavosi
-    žmonės bei dalyvaudavo apeigose; antroji dalis -Adytum, ku­
-    rioje stovėdavo stabai; ten teisę būti turėjo tik pašvęstieji asme­
-    nys, žyniai, vadai. Visas statinys kildavo pakopomis ir priekyje
-    arba šonuose turėdavo kolonomis besiremiančius priesienius.
-    Kapitolijaus Jupiterio šventykla stovėjo pakelta nuo aikštės ly­
-    gio ant šimto pakopų. Vidaus ir išorės puošyba būdavo meno
-    kūriniai: architektūra, skulptūra, tapyba ir panašiai, puošnumu
-    lenktyniaudavo tarp savęs; visi šedevrai, sukurti skoningai ir ku­
-    riems religija suteikė rimtį, buvo sutelkti šventyklose.
-    Senovės Romoje tų pastatų garbinimas priklausė nuo žmo­
-  citata_rodoma: "Miškelių garbinimas buvo taip sureikšmintas, kad juose\njokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­\nčius, bet jie dar buvo persekiojamų žmonių prieglobstis; pasi­\nslėpę toje šventoje vietoje, jie išsivaduodavo nuo persekioji­\nmo, kadangi visos ten esančios būtybės, taip pat medžiai ir\naugalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­\nčiamais. Miechovita3 sako: „Prūsų tauta buvo taip sugedusi,\nkad ne tik miškai, bet ir juose gyvenantys paukščiai ir žvėrys\nbuvo laikomi šventais, o tų žvėrių užmušėjams velnių galybė\nsusukdavo kojas ir rankas“. Krikščionims iš smalsumo buvo\ndraudžiama įžengti į tuos miškelius, bet nelaimingiesiems -\ntikriausiai ne4."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-172790
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šis šventas mitologi­
-    nis pavadinimas turi būti toks pat senas, kaip ir pati lietuvių
-    kalba arba kaip tautos virtimas visuomene, kadangi toje kalbo­
-    je jis turi originalią prasmę. Tad istorikai teisingai mano, kad
-    vyriausiasis žynys rezidavo išimtinai prie šios šventyklos, kur buvo
-    laikomi ir vyriausiųjų dievų stabai ir ženklai, ir tai nuo seniau­
-    sią tautos gyvavimo Rytų Europoje laikų.
-    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
-    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
-    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
-    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
-    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
-    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
-    nanti prabangumu tas beveik dar laukines Europos šalis.
-  citata_rodoma: "263\n\n## Puslapis 263\n\nlai, po jų -  tuopos -  baltosios, sidabrinės. Lydos apskrityje,\nprie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me­\ndžių, labai senų ir gražiai augančių; apie juos esama padavi­\nmo, kad tai liekana šventojo miško, kuris buvo mirtinai per­\nsekiojamųjų prieglobstis, o nematoma jėga, sauganti tokius\nžmones, stebuklingu būdu juos maitinusi, kol jie ten gyven­\ndavę.\nLietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-177040
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Lydos apskrityje,
-    prie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me­
-    džių, labai senų ir gražiai augančių; apie juos esama padavi­
-    mo, kad tai liekana šventojo miško, kuris buvo mirtinai per­
-    sekiojamųjų prieglobstis, o nematoma jėga, sauganti tokius
-    žmones, stebuklingu būdu juos maitinusi, kol jie ten gyven­
-    davę.
-    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
-    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
-    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
-    randame nuolat minimus miškus: kartais kalbama apie mišką
-    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
-    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
-    kiausiame miške ar nuošaliausiose vietose.
-    Šventyklos
-    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
-    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
-    riuose jie būdavo garbinami.
   citata_rodoma: "Seniausiais amžiais, kai miškai, dengiantys žemę, buvo\nžmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­\nžumu ir malonia aplinka, būdavo draugiškų sueigų vieta; tai\nten gyvendavo pirmieji tautų vadai ir drauge pirmieji žyniai.\nŠiuose miškeliuose buvo padėti pirmieji visuomeninio gyveni- 2\n2 Tuo tikrai lietuvišku pavadinimu kaimiečiai vadina miškelius\nTrakų apskrityje apie Marcinkonis.\n262\n\n## Puslapis 262\n\nmo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi\nmiškelis buvo pirmoji visų tautų šventykla."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -238,5 +177,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
     - t-003

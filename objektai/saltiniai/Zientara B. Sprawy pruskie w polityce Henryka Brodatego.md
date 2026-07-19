@@ -7,12 +7,12 @@ datos:
   - '1976 m.'
 date_start: '1976'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,38 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad zientara B.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'B. Zientaros straipsnis „Sprawy pruskie w polityce Henryka Brodatego“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Zientara B. Sprawy pruskie w polityce Henryka Brodatego.— ZHPB, Warszawa—
-    Poznań—Toruń, 1976, t. 41, z. 4, s. 27—42.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-62014
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Летописи: Баркулабовская,
-    Аверки и Панцырного/Составитель и редактор H. Н. Улащик. — М., 1975.
-    Псковские летописи/Изд. А. Н. Насонов.
-  citata_rodoma: "Zientara B. Sprawy pruskie w polityce Henryka Brodatego.— ZHPB, Warszawa—\nPoznań—Toruń, 1976, t. 41, z. 4, s. 27—42."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -84,3 +52,21 @@ Dusburgietis teigia, kad zientara B.
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą apie publikaciją."
   pagrindžia:
     - c-62014
+
+## Citatos
+
+- id: c-62014
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Zientara B. Sprawy pruskie w polityce Henryka Brodatego.— ZHPB, Warszawa—
+    Poznań—Toruń, 1976, t. 41, z. 4, s. 27—42.
+  citata_rodoma: "Zientara B. Sprawy pruskie w polityce Henryka Brodatego.— ZHPB, Warszawa—\nPoznań—Toruń, 1976, t. 41, z. 4, s. 27—42."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

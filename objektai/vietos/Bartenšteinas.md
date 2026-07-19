@@ -233,17 +233,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88523|Bartai]]: Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.
 - susijęs iš [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.).md#claim-t-66801|Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]: 1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Bartenšteinas buvo Alnos upės kairiajame krante, o pilies kalnas stovėjo miesto šiaurinėje dalyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    256 Bartenšteinas (dab. Bartošicė; vardo pagrindą sudaro prūsų—bartų vardas) Alnos
-    (dab. Lynos) upės kairiajame krante. Pilies kalnas — miesto šiaurinėje dalyje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Dusburgietis pasakoja, kad apgultame Bartenšteine nebegalėję priešintis kryžiuočiai Dievo buvo pamokyti bėgti paliekant pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -272,35 +261,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - t-194529
-- c-005
-  santrauka: 'Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
-    ir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,
-    kur gyvena po šiai dienai.
-
-         175 (170).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-009
-  santrauka: 'Vėliau, pagal 1331 metų rugsėjo 17 dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys buvo sunaikintos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
-    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
-    buvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino
-    Veliuoną ir sugriovė pilį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -309,10 +269,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pilis (anksčiau — prūsų, vėliau — kryžiuočių) stovėjo kiek žemiau dab. miesto, arčiau
-    Aismarių.
-    260  D.— Helisberk, Jer. — Heilisberc; Heilsbergas (dab. Varmijos Lidzbarkas, Lidzbark
-    Warmiński) Alnos ir Simsarnos (dab. Symsarna) santakoje.
+    256 Bartenšteinas (dab. Bartošicė; vardo pagrindą sudaro prūsų—bartų vardas) Alnos
+    (dab. Lynos) upės kairiajame krante. Pilies kalnas — miesto šiaurinėje dalyje.
   citata_rodoma: "256 Bartenšteinas (dab. Bartošicė; vardo pagrindą sudaro prūsų—bartų vardas) Alnos\n(dab. Lynos) upės kairiajame krante. Pilies kalnas — miesto šiaurinėje dalyje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -327,13 +285,9 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
-    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
-    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
-    kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
-    kariuomenę (III, 251). Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
-    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
-    globojo, kai traukė per ploną Kuršių marių ledą (III, 285).
+    Kai kryžiuočiai jau nebegalėjo  priešintis apgultame Bartenšteine, dievas
+    juos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi
+    mergelė Marija  (III, 141).
   citata_rodoma: "Kai kryžiuočiai jau nebegalėjo  priešintis apgultame Bartenšteine, dievas\njuos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi\nmergelė Marija  (III, 141)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -348,15 +302,13 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dėl šių dviejų žūties
-    prūsai labai džiūgavo, o broliai sielvartavo. Tačiau broliai sugalvojo paversti jų džiugesį
-    ašaromis bei liūdesiu ir prieš pilies vartus pakorė 30 prūsų įkaitų, kuriuos buvo paėmę
-    į nelaisvę. Dėl to prūsai, matydami pakartus savo sūnus ir giminaičius, patys prapliupo
-    didžiu raudojimu.
-    120 (115). Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
-    Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
-    kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo
-    šventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum].
+    Apie Bartenšteino pilies puolimą
+
+      Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai
+    įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris
+    apgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę
+
+    MGP, p.
   citata_rodoma: "Apie Bartenšteino pilies puolimą\n\n  Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai\nįrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris\napgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę\n\nMGP, p."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -392,15 +344,15 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    į priekį, priėjo dvi šio valsčiaus pilis ir, pasikliovę dievo pagalba, po ilgų kovų galop jas
-    abi paėmė; išžudę bei išsivarę į nelaisvę daug žmonių, drauge su papiliais jas sudegino;
-    beje, jiems čia atiteko toks didelis grobis, tiek arklių, gyvulių bei visokiausių daiktų, kad
-    vos ne vos stengė šitai išsigabenti.
-    177 (172). Apie Auktuolyčių pilies užkariavimą
-    Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos
-    valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų,
-    kurie plaukė laivais, ir, išdėstęs tinkamose vietose šaulius bei pristatęs prie sienų
-    kopėčias, pradėjo pulti Auktuolyčių pilį462.
+    Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
+    ir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,
+    kur gyvena po šiai dienai.
+
+
+
+
+
+         175 (170).
   citata_rodoma: "Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį\nir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,\nkur gyvena po šiai dienai.\n\n\n\n\n\n     175 (170)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -475,17 +427,12 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kitus dalykus apie ją išdėsty-
-    sime straipsniuose „Vėlinės“, „Laidotuvių papročiai“, „Kapai,“
-    „Mirusiųjų garbinimas“.
-    Pergrubė (Pergrubie)
-    Pavasario, gėlių, daržų, žmogaus pastangomis gausinamų
-    žemės vaisių deivė.
-    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
-    gėlių ir vaismedžių sodas.
-    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
-    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
-    grubę.
+    1329 metais Lietuvos didysis kunigaikštis
+    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
+    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
+    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
+    buvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino
+    Veliuoną ir sugriovė pilį.
   citata_rodoma: "1329 metais Lietuvos didysis kunigaikštis\nGediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­\nkiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17\ndienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys\nbuvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -125,12 +125,10 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 - susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-190787|Prokopijus]]: Narbutas rašo, kad Prokopijus estus mini kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184475|Herulai]]: Po Otokaro nužudymo Teodorikas patraukė į savo pusę herulų kariuomenę ir lengvai ją perkalbėjo.
 - susijęs iš [[objektai/grupes/Persai.md#claim-t-192440|Persai]]: 552 m. Naršo vadovaujamoje Justiniano kariuomenėje prie Pado žemupio greta longobardų ir persų buvo herulų.
-## Citatos
-
-- id: c-169482
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apie tuos pačius metus langobar-
     dai, vedami Albojino, iškeliavo iš Panonijos ir, pasi­
@@ -152,6 +150,29 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
     nybę: ir daugelis buvusių
     arijonų (šią sektą buvo priglaudę Germanijoje ir Pa-
     nonijoje), ir žmonės, ligi tol buvę stabmeldžiais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169482
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tačiau didelė herulų da­
+    lis persikėlė iš Italijos į Grai-
+    493 m e ta i
+    kiją, mat sutartys leido Bi­
+    zantijos imperatoriui kvies­
+    tis tą gentį į karo sąjungininkus. Štai, Justinianui vieš­
+    pataujant, herulų, vadovaujamų Getero, pagalba pasi­
+    naudojo Belizarijus, nugalėjęs persus. Kita jų dalis,
+    pasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie
+    Dunojaus Noriko pasienyje.
   citata_rodoma: "Tačiau didelė herulų da­\nlis persikėlė iš Italijos į Grai-\n493 m e ta i\nkiją, mat sutartys leido Bi­\nzantijos imperatoriui kvies­\ntis tą gentį į karo sąjungininkus. Štai, Justinianui vieš­\npataujant, herulų, vadovaujamų Getero, pagalba pasi­\nnaudojo Belizarijus, nugalėjęs persus. Kita jų dalis,\npasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie\nDunojaus Noriko pasienyje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

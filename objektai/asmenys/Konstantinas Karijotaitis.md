@@ -9,15 +9,15 @@ datos:
   - '1390 m.'
 date_start: '1388'
 date_end: '1390'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
   - asmuo
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,6 +71,32 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
     - c-176564
 - susijęs iš [[objektai/asmenys/Konstantinas (Karijotaitis).md#claim-t-29032|Konstantinas (Karijotaitis)]]: Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių.
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'O didžiojo kunigaikščio Algirdo brolis Karijotas valdė Lietuvos Naugarduką, ir jis turėjo keturis4 sū nus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni gaikštį Konstantiną ir kunigaikštį Teodorą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir didysis
+    kunigaikštis Algirdas su visomis Lietuvos pajėgomis
+    išžygiavo į Podolę; išgirdęs apie tai, kunigaikštis Teo­
+    doras Karijotaitis pabėgo iš Podolės žemės pas veng­
+    rus ”, o į miestus įvedė moldavų įgulas. Didysis kuni­
+    gaikštis Algirdas 10 pirmiausia nužygiavo prie Bracla-
+    vo20; paėmęs Braclavą, nužygiavo prie Sokoleco21; ir,
+    paėmęs Sokolecą, naktį priėjo Kamenecą ir Kamenecą
+    paėmė. O paskui užėmė Smotričių, ir Skalą22, ir Cer-
+    vonogradą **, užėmė visus miestus, sučiupo kunigaikš­
+    čio Teodoro vaivadą, vardu Nestaną21, tvarkiusį tuos
+    miestus. Visuose miestuose didysis kunigaikštis Algir­
+    das pastatė savo seniūnus 23.
+    Tuomet didysis kunigaikštis Algirdas Podolės Ka­
+    menecą davė valdyti savo vardu Goštautui Goštautai-
+    čiui M. Ir visuose tuose miestuose pastatęs savo seniū­
+    nus, leidosi atgalios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Komentare Lietuvos metraščių žinia apie Kazimiero ketinimą susigiminiuoti su Konstantinu Karijotaičiu laikoma patikima, išskyrus Lenkijos sosto perdavimo sumanymą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -85,6 +111,7 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+
 ## Citatos
 
 - id: c-169416
@@ -118,23 +145,19 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir didysis
-    kunigaikštis Algirdas su visomis Lietuvos pajėgomis
-    išžygiavo į Podolę; išgirdęs apie tai, kunigaikštis Teo­
-    doras Karijotaitis pabėgo iš Podolės žemės pas veng­
-    rus ”, o į miestus įvedė moldavų įgulas. Didysis kuni­
-    gaikštis Algirdas 10 pirmiausia nužygiavo prie Bracla-
-    vo20; paėmęs Braclavą, nužygiavo prie Sokoleco21; ir,
-    paėmęs Sokolecą, naktį priėjo Kamenecą ir Kamenecą
-    paėmė. O paskui užėmė Smotričių, ir Skalą22, ir Cer-
-    vonogradą **, užėmė visus miestus, sučiupo kunigaikš­
-    čio Teodoro vaivadą, vardu Nestaną21, tvarkiusį tuos
-    miestus. Visuose miestuose didysis kunigaikštis Algir­
-    das pastatė savo seniūnus 23.
-    Tuomet didysis kunigaikštis Algirdas Podolės Ka­
-    menecą davė valdyti savo vardu Goštautui Goštautai-
-    čiui M. Ir visuose tuose miestuose pastatęs savo seniū­
-    nus, leidosi atgalios.
+    Podolėje veikė jų  paskirti atamanai, ku­
+    rie tvarkė visas pajamas, o pas juos atvykdavo totorių
+    baskakai ir, surinkę iš tų atamanų duoklę, išgabendavo
+    ją j Ordą.
+    O didžiojo kunigaikščio Algirdo brolis Karijotas
+    valdė Lietuvos Naugarduką, ir jis turėjo keturis4  sū­
+    nus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni­
+    gaikštį Konstantiną ir kunigaikštį Teodorą. Ir štai tie
+    kunigaikščiai — trys broliai Karijotaičiai, leidus jų dė­
+    dei, didžiajam kunigaikščiui Algirdui, ir su lietuvių
+    pagalba ištraukė į Podolės žemę5 , o tais laikais Podo­
+    lės žemėje nebuvo nė vienos pilies — nei medinės, nei
+    mūrinės.
   citata_rodoma: "Podolėje veikė jų  paskirti atamanai, ku­\nrie tvarkė visas pajamas, o pas juos atvykdavo totorių \nbaskakai ir, surinkę iš tų atamanų duoklę, išgabendavo \nją j Ordą.\nO didžiojo kunigaikščio Algirdo brolis Karijotas \nvaldė Lietuvos Naugarduką, ir jis turėjo keturis4  sū­\nnus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni­\ngaikštį Konstantiną ir kunigaikštį Teodorą. Ir štai tie \nkunigaikščiai — trys broliai Karijotaičiai, leidus jų dė­\ndei, didžiajam kunigaikščiui Algirdui, ir su lietuvių \npagalba ištraukė į Podolės žemę5 , o tais laikais Podo­\nlės žemėje nebuvo nė vienos pilies — nei medinės, nei \nmūrinės."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

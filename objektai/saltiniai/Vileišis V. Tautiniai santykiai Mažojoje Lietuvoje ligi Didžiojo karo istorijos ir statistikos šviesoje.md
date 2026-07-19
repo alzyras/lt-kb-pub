@@ -53,17 +53,8 @@ Dusburgietis teigia, kad vileišis V.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    — IV vissavienības baltistu konference 1980,
-    Rīgā, 1980, lpp. 163—164.
-    Непокупный
-    А.
-    П.
-    Лингвистические
-    свидетельства
-    об
-    исторической
-    и
-    доисторической географии ятвягов.
+    Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
+    šviesoje.—K., 1935.
   citata_rodoma: "Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos\nšviesoje.—K., 1935."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -52,14 +52,15 @@ Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
-    Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
-    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
-    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl
-    ir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių
-    būrį, nukovė 65 vyrus ir išvadavo 70 krikščionių. Kita brolių dalis surado tik penkis
-    krikščionių vaikus, kuriuos ir išsivedė. Po to broliai iš patikimų šaltinių sužinojo, kad vos
-    keli šio būrio lietuviai gyvi ir sveiki besugrįžo.
+    30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės
+    ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas,
+    kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių
+    bei arklių, kurių daug prigėrė Narevo upėje dėl baisios kamšaties.
+
+
+
+
+                          278 (271).
   citata_rodoma: "30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės\nir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas,\nkad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių\nbei arklių, kurių daug prigėrė Narevo upėje dėl baisios kamšaties.\n\n\n\n\n                      278 (271)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

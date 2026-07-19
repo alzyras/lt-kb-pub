@@ -27,12 +27,10 @@ media_all_json: |-
 
 Nenurodyta
 
-## Citatos
-
-- id: c-168841
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalaviją, kuris bus įsmeigtas jam į sprandą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius, būdamas labai
     pamaldus, be to, gerai žino­
@@ -51,6 +49,23 @@ Nenurodyta
     liavų užėmė dešinįjį sparną, nenorėdamas, kad kryžiuo­
     čiai, pastebėję priešininkus delsiant, įgytų pasitikėjimo
     savo jėgomis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168841
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Ramiai karalius išklausė
+    tų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­
+    lą. Priešas pats parūpino kalaviją, kurį įsmeigsime jam
+    į sprandą".
   citata_rodoma: "Ramiai karalius išklausė\ntų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­\nlą. Priešas pats parūpino kalaviją, kurį įsmeigsime jam\nį sprandą\"."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"

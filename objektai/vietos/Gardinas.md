@@ -2489,20 +2489,21 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
-    Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
-    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
-    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
-    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
-    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
-    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
-    272 (265). Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
-    Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
-    metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
-    273 (266). Apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais
-    Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
-    apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
-    ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones.
+    Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
+    kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
+    subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
+    įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes. Šis,
+    bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino
+    pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
+    kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
+
+
+
+
+                       268 (261) Apie penkių kaimų apiplėšimą
+
+      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
+    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
   citata_rodoma: "Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,\nkai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis\nsubūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir\nįsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes. Šis,\nbemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino\npilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,\nkai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.\n\n\n\n\n                   268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -2695,15 +2696,14 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip broliai laimėjo mūšį su lietuvių karaliumi
-    1305 viešpaties metais, apie žolinę (rugpjūčio 15), brolis Pilypas iš Bolando, Sembos
-    vyskupo fogtas, bei 11 brolių su 200 vyrų sudegino tris lietuvių karaliaus kaimus, o
-    žmones išžudė arba paėmė į nelaisvę. Tuo metu, kai šitai dėjosi, karalius buvo susišaukęs
-    beveik visus savo karalystės galingesniuosius į tam tikrą pasitarimą, arba tarybą [in...
-    tractatu, seu parlamento], ir, šitai sužinojęs, leidosi pavymui su tūkstančiu penkiais
-    šimtais vyrų. Tuo tarpu broliai jau buvo priėję tokią vietą, kur nesitikėjo jokių pavojų,
-    todėl pasidėjo į šalį ginklus, į priekį pasiuntė vieną brolį su 200 vyrų, o patys su būreliu
-    karių nusekė iš tolo paskui juos.
+    Apie Pagraudės ir Gardino valsčių nusiaubimą 1305 metais
+
+      Tų pačių metų žiemą brolis Eberhardas iš Firneburgo, Karaliaučiaus komtūras, su
+    dviem tūkstančiais raitelių patraukė  į Lietuvą. Tačiau negalime nepaminėti ir to, kad
+    brolis Konradas iš Lichtenhageno, Brandenburgo komtūras,  jį pralenkė, pasukdamas
+    su didele kariuomene  į Gardino pilies apylinkes, kurias  ir nusiaubė, degindamas bei
+    plėšdamas, nors daugiau ten nieko nepešė, nes Lietuvos žemės raiteliai irgi sujojo į šį
+    valsčių.
   citata_rodoma: "Apie Pagraudės ir Gardino valsčių nusiaubimą 1305 metais\n\n  Tų pačių metų žiemą brolis Eberhardas iš Firneburgo, Karaliaučiaus komtūras, su\ndviem tūkstančiais raitelių patraukė  į Lietuvą. Tačiau negalime nepaminėti ir to, kad\nbrolis Konradas iš Lichtenhageno, Brandenburgo komtūras,  jį pralenkė, pasukdamas\nsu didele kariuomene  į Gardino pilies apylinkes, kurias  ir nusiaubė, degindamas bei\nplėšdamas, nors daugiau ten nieko nepešė, nes Lietuvos žemės raiteliai irgi sujojo į šį\nvalsčių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -2946,18 +2946,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tačiau dievas, kuris neleidžia, kad juo įtikėjusios
-    tautos drebėtų iš baimės ir, gailestingai teikdamas taiką, saugo krikščionių žemes nuo
-    visokiausių priešų, dieviška šviesa palaužė širdį kai kuriems atskalūnams, kurie atskleidė
-    visas šios piktadarystės paslaptis. Po to Karaliaučiaus komtūras negaišdamas sugrįžo
-    su kariuomene iš Vonsdorfo [Unzatrapio] valsčiaus, norėdamas sutramdyti Notangos
-    maištą. Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę,
-    Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti
-    sugrąžino belaisvius, ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
-    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
-    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
-    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
-    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti.
+    260 (253). Apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei
+                                            netikėlių žūtį
+
+      1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas
+    penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo prie
+    pilies, jie nutarė, palikę arklius, plaukti Nemunu žemyn; apiplėšę Nemuno pakrantėje
+    vieną lietuvių kaimą, nukovę ir paėmę į nelaisvę daug žmonių, vėl nuplaukė tolyn.
   citata_rodoma: "260 (253). Apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei\n                                        netikėlių žūtį\n\n  1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas\npenkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo prie\npilies, jie nutarė, palikę arklius, plaukti Nemunu žemyn; apiplėšę Nemuno pakrantėje\nvieną lietuvių kaimą, nukovę ir paėmę į nelaisvę daug žmonių, vėl nuplaukė tolyn."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -3107,17 +3102,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jeronimas įtikino, kad tai apgavystė, sugriovė
-    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
-    liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
-    didžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­
-    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
-    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
-    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
-    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
-    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
-    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
-    no paviete, kur lietuviai gyvena, ir Trakų.
+    Arčiausiai jo yra
+    Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina­
+    mos. Jis pastatytas iš dalies ant kalvos, o iš dalies slėnyje, kaip
+    įprasta tame krašte. Jame yra labai nedaug daugiaaukščių, ne­
+    daug plytinių namų, bet daug iš paprastos medžiagos kaimiškai
+    suręstų. Nėra nei mūrinių sienų, nei pylimų, nei gynybinių bokš­
+    tų, nei vartų.
   citata_rodoma: "Arčiausiai jo yra\nGardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina­\nmos. Jis pastatytas iš dalies ant kalvos, o iš dalies slėnyje, kaip\nįprasta tame krašte. Jame yra labai nedaug daugiaaukščių, ne­\ndaug plytinių namų, bet daug iš paprastos medžiagos kaimiškai\nsuręstų. Nėra nei mūrinių sienų, nei pylimų, nei gynybinių bokš­\ntų, nei vartų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

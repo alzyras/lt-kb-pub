@@ -69,23 +69,6 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   pagrindžia:
     - c-172147
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia ir perfidia lietuviškai atitinka Vylius (Wilius).'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Čia negalime praleisti dar vieno Vilijos upės vardo aiški­
-    nimo, dominančio Lietuvos praeities požiūriu. Kunigas Sirvy­
-    das savo žodyne (p. 446) rašo: Zdrada, Dolus, fraus, falacia,
-    perfidia -  lietuviškai Vylius (Wilius). Iš to žodžio paimtas pa­
-    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
-    niaus arsenalo įtekančiai į Viliją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172146
@@ -93,15 +76,12 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Nebent pripažintume,
-    jog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią
-    nimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją
-    įeina vanduo.
-    Yra vietų šlapiose pievose, kadaise užlietose vandeniu, pa­
-    našiai kaip Dugnai (Dugny) mano kaimelyje. Kaimiečiai iki
-    šiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­
-    čios, nuogos mergos. Jos šokančios, linksmai išdykaujančios;
-    vargas tam, kurį suvilios jų klastingas gundymas.
+    Čia negalime praleisti dar vieno Vilijos upės vardo aiški­
+    nimo, dominančio Lietuvos praeities požiūriu. Kunigas Sirvy­
+    das savo žodyne (p. 446) rašo: Zdrada, Dolus, fraus, falacia,
+    perfidia -  lietuviškai Vylius (Wilius). Iš to žodžio paimtas pa­
+    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
+    niaus arsenalo įtekančiai į Viliją.
   citata_rodoma: "Čia negalime praleisti dar vieno Vilijos upės vardo aiški­\nnimo, dominančio Lietuvos praeities požiūriu. Kunigas Sirvy­\ndas savo žodyne (p. 446) rašo: Zdrada, Dolus, fraus, falacia,\nperfidia -  lietuviškai Vylius (Wilius). Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

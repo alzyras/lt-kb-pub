@@ -52,11 +52,7 @@ Dusburgietis teigia, kad strikowski M.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    — В., 1978.
-    Ванагас А. К вопросу о языковых ятвяжских реликтах в Литве. — ABS, 1976, 9, s.
-    71—79.
-    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
-    происхождения балтов.
+    Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
   citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

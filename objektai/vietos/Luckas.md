@@ -19,14 +19,14 @@ datos:
   - '2026 m.'
 date_start: '1384'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '2'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-889192132%2Fthumbnail-original%2Fget.jpg&type=IMAGE'
 media_primary_canonical_url: 'https://www.europeana.eu/item/2021802/LIMIS_889192132'
@@ -77,7 +77,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177647"></a>
 - t-014
   teiginys: "1393 m. Luckas perėjo tiesiogiai Vytauto žinion."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Luckas: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -170,7 +170,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177656"></a>
 - t-025
   teiginys: "Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Jogaila (kunigaikštis, XIV–XV a.): 0.64"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -209,7 +209,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177660"></a>
 - t-010
   teiginys: "1392 m. Astrave Vytautas ir Ona jau titulavosi Trakų ir Lucko kunigaikščiais."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Astravas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -288,7 +288,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177665"></a>
 - t-037
   teiginys: "1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 19:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Žydai: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -304,9 +304,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą, pradiniame teiginyje yra antraštės ir puslapio triukšmo."
   pagrindžia:
     - c-161525
-    - c-161504
-    - c-182306
-    - c-182319
+    - c-161523
+    - c-182342
 
 <a id="claim-t-177666"></a>
 - t-016
@@ -346,7 +345,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177670"></a>
 - t-035
   teiginys: "Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -380,7 +379,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177674"></a>
 - t-006
   teiginys: "1392 m. Astravo dokumentai rodo, kad Vytautas ir Ona titulavosi Trakų ir Lucko kunigaikščiais."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Astravas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -456,7 +455,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177678"></a>
 - t-045
   teiginys: "Lucke būrėsi Jogaila nepatenkinti ir nuo jo nukentėję kunigaikščiai bei bajorai."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -530,7 +529,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177682"></a>
 - t-038
   teiginys: "Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes Lietuvos žemėje, įskaitant Lucką."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -543,9 +542,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindžia:
     - c-161521
     - c-182332
-    - c-161504
-    - c-182306
-    - c-182319
 
 <a id="claim-t-183860"></a>
 - t-051
@@ -1138,6 +1134,77 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - susijęs iš Trakų žydų privilegija: Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu.
 - susijęs iš [[objektai/asmenys/Mangaila iš Ašmenos.md#claim-t-87770|Mangaila iš Ašmenos]]: Mangaila iš Ašmenos 1388 m. Lucke dalyvavo tarp patikimų liudytojų iš Lietuvos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179067|Kryžiuočių ordinas]]: Lucko suvažiavime Vokiečių ordinas rėmė Vytauto vainikavimo planą kaip atsvarą Lenkijai regione.
+## Reikšmingi paminėjimai
+- c-027
+  santrauka: 'Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Taip
+    ir buvo, senato pirmininkas Gnezno arkivyskupas bylo­
+    jo be galo iškalbingai, tačiau smarkiai varžydamasis,
+    nes bijojo įžeisti Vytautą; visa ko prišnekėjęs, nutilo
+    lyg kirviu nukirstas. Tuo tarpu Krokuvos vyskupas Zbig­
+    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
+    kokia įtartina imperatoriaus
+    S en ato įsp ė ta s
+    draugystė, ir, atskleidęs, ko­
+    kie pavojingi jo siūlymai,
+    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
+    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
+    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
+    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
+    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
+    nas iš Tarnovo, Krokuvos vaivada.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-045
+
+- c-028
+  santrauka: 'Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Prie Horodlės miesto lenkų
+    kariuomenė persikėlė per Būgą. Šiek tiek jiems pasis­
+    tūmėjus į priekį, juos pasitiko Boleslovas, atsivedęs žy­
+    miai mažesnę ir gerokai silpnesnę kariuomenę, tik šešis
+    tūkstančius karių. Kai neat-
+    Po
+    n e sė k m in g o m ū-
+    nešė sėkmės pirmieji susidū-
+    šio p a sitra u k ia į Lue-
+    rimai, kuriais ryžosi išmėginti
+    ką
+    karinę laimę, kai žuvo arba
+    pateko į nelaisvę narsiausi
+    kariai, kaip rusų kunigaikštis Senka, jis pasitraukė į Luc­
+    ką, nenorėdamas stoti su visomis jėgomis į žūtbūtines
+    kautynes.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-083
+
+- c-061
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
+    vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
+    O paskui didysis kunigaikštis Skirmantas pasimirė.
+    Liubartas sėdo valdyti Karačevą 18 ir ėmė tituluotis
+    Karačevo kunigaikščiu, o Pisimantas sėdo valdyti Tu-
+    rovą l9, o Treniota — Naugarduką, ir valdė tuos mies­
+    tus daugelį metų !0.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-24278
@@ -1390,9 +1457,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-025
-    - t-037
     - t-035
-    - t-038
 
 - id: c-161506
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1619,6 +1684,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-037
     - t-028
 
 - id: c-161524
@@ -1754,22 +1820,20 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   puslapiai: "PDF 417"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 417."
   citata_originali: |
-    Taip
-    ir buvo, senato pirmininkas Gnezno arkivyskupas bylo­
-    jo be galo iškalbingai, tačiau smarkiai varžydamasis,
-    nes bijojo įžeisti Vytautą; visa ko prišnekėjęs, nutilo
-    lyg kirviu nukirstas. Tuo tarpu Krokuvos vyskupas Zbig­
-    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
-    kokia įtartina imperatoriaus
-    S en ato įsp ė ta s
-    draugystė, ir, atskleidęs, ko­
-    kie pavojingi jo siūlymai,
-    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
-    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
-    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
-    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
-    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
-    nas iš Tarnovo, Krokuvos vaivada.
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
   citata_rodoma: "Vytautui išėjus, senatas kuo rimčiau­\nsiai paaiškino karaliui, kad, pritardamas pavojingiems ir\nsuktiems imperatoriaus sumanymams, nusileistų žmo­\ngui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos\npriešas, nes šitai esąs parodęs praeityje ne vieną kar­\ntą. Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -1785,22 +1849,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   puslapiai: "PDF 433"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 433."
   citata_originali: |
-    Prie Horodlės miesto lenkų
-    kariuomenė persikėlė per Būgą. Šiek tiek jiems pasis­
-    tūmėjus į priekį, juos pasitiko Boleslovas, atsivedęs žy­
-    miai mažesnę ir gerokai silpnesnę kariuomenę, tik šešis
-    tūkstančius karių. Kai neat-
-    Po
-    n e sė k m in g o m ū-
-    nešė sėkmės pirmieji susidū-
-    šio p a sitra u k ia į Lue-
-    rimai, kuriais ryžosi išmėginti
-    ką
-    karinę laimę, kai žuvo arba
-    pateko į nelaisvę narsiausi
-    kariai, kaip rusų kunigaikštis Senka, jis pasitraukė į Luc­
-    ką, nenorėdamas stoti su visomis jėgomis į žūtbūtines
-    kautynes.
+    Karo audra pamažėle artėjo prie
+    Lucko, nes niekas nedrįso su ginklu rankose užstoti Bo­
+    leslovo. Lenkams beliko persikelti per Styrės upę, per
+    tyvuliuojančias pelkes tekančią tarp aukštų krantų dum­
+    bluota vaga. Luckas rodėsi ranka pasiekiamas, čia tu­
+    rėjo baigtis karas, vis dėto, priešui neseniai sugriovus
+    tiltus ir perkėlus į kitą krantą statybinę medžiagą, tinka­
+    mą plaustams ir tiltams, lenkai nežinojo, kaip galės stoti
+    į kovą ir kaip nusigaus į kitą krantą.
   citata_rodoma: "Karo audra pamažėle artėjo prie\nLucko, nes niekas nedrįso su ginklu rankose užstoti Bo­\nleslovo. Lenkams beliko persikelti per Styrės upę, per\ntyvuliuojančias pelkes tekančią tarp aukštų krantų dum­\nbluota vaga. Luckas rodėsi ranka pasiekiamas, čia tu­\nrėjo baigtis karas, vis dėto, priešui neseniai sugriovus\ntiltus ir perkėlus į kitą krantą statybinę medžiagą, tinka­\nmą plaustams ir tiltams, lenkai nežinojo, kaip galės stoti\nį kovą ir kaip nusigaus į kitą krantą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -1947,9 +2004,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-025
-    - t-037
     - t-035
-    - t-038
 
 - id: c-182307
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2178,9 +2233,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-025
-    - t-037
     - t-035
-    - t-038
 
 - id: c-182320
   autorius: "Zenonas Ivinskis"
@@ -2533,13 +2586,12 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   puslapiai: "PDF 48"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
   citata_originali: |
-    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
-    vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
-    O paskui didysis kunigaikštis Skirmantas pasimirė.
-    Liubartas sėdo valdyti Karačevą 18 ir ėmė tituluotis
-    Karačevo kunigaikščiu, o Pisimantas sėdo valdyti Tu-
-    rovą l9, o Treniota — Naugarduką, ir valdė tuos mies­
-    tus daugelį metų !0.
+    Šiapus Jieseldos5  upės
+    kunigaikštis Skirmantas visiškai sumušė Lucko ir Pins­
+    ko kunigaikštį bei visą rusų karo jėgą6 . Tiktai kuni­
+    gaikštis Mstislavas su nedidele palyda spėjo pabėgti
+    į Lucko miestą. O didysis kunigaikštis Skirmantas už­
+    ėmė Pinsko miestą7  ir Turovo miestą".
   citata_rodoma: "Šiapus Jieseldos5  upės \nkunigaikštis Skirmantas visiškai sumušė Lucko ir Pins­\nko kunigaikštį bei visą rusų karo jėgą6 . Tiktai kuni­\ngaikštis Mstislavas su nedidele palyda spėjo pabėgti \nį Lucko miestą. O didysis kunigaikštis Skirmantas už­\nėmė Pinsko miestą7  ir Turovo miestą\"."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
@@ -2596,6 +2648,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-037
     - t-028
 
 - id: c-184061
@@ -2613,4 +2666,4 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo kelionės vieta: [[objektai/asmenys/Mstislavas Romanovičius]]
 - Mirties vieta: [[objektai/asmenys/Švitrigaila]]
-- Luckas priklausė [[objektai/vietos/Voluinė]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Luckas priklausė Voluinė, [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -14,14 +14,14 @@ datos:
   - '1922 m.'
 date_start: '1387'
 date_end: '1922'
+amziai:
+  - 'XIV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pinigai
   - daiktas
-amziai:
-  - 'XIV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -308,6 +308,22 @@ Nenurodyta
   pagrindžia:
     - c-96648
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto pinigai.md#claim-t-65011|Zigmanto Augusto pinigai]]: Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.
+## Reikšmingi paminėjimai
+- c-011
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
+    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
+    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+    ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    auksu paremtas litas, kurį sudaro 100 centų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-00210
@@ -524,12 +540,10 @@ Nenurodyta
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
-    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
-    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
-    ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
+    Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
-    auksu paremtas litas, kurį sudaro 100 centų.
+    auksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje
+    įvestas litas.
   citata_rodoma: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-\nniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra \nauksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje \nįvestas litas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"

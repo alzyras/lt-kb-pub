@@ -45,18 +45,6 @@ Darbininko dėkavonė po užbaigto darbo.
 
 Trumpa padėkos formulė.
 
-## Teiginiai
-
-<a id="claim-t-195425"></a>
-- t-001
-  teiginys: "Darbo pabaigoje ištariama padėkos formulė „Ponui Dievui dėkui“."
-  atnaujinta: "2026-07-12 02:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177846
-
 ## Citatos
 
 - id: c-177846
@@ -81,5 +69,3 @@ Trumpa padėkos formulė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

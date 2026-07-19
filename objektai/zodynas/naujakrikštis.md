@@ -57,25 +57,6 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   pagrindžia:
     - c-69301
 
-## Reikšmingi paminėjimai
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias
-    malones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
-    libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis
-    turi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis
-    dėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi
-    nekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs
-    ištikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų
-    pakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad
-    taip.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-69301
@@ -107,18 +88,15 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Gardino pilies sunaikinimą
-    1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su
-    netikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš
-    Gardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius tinkamose vietose ir
-    pristatė prie sienų kopėčias; užvirė tokia žiauri kova, kad bailesnieji nė nedrįso į ją
-    žiūrėti. Vieniems drąsiai puolant, kitiems atkakliai ginantis, viena ir kita šalis neteko
-    daugybės [karių] užmuštaisiais ar sužeistaisiais. Galop iš dievo malonės broliai įsiveržė
-    į pilį ir ją sudegino, o visus [pilėnus] išžudė arba paėmė į nelaisvę. Po to tūkstantis
-    aštuoni šimtai vyrų užpuolė šios pilies apylinkes, jas nusiaubė, degindami bei piešdami,
-    ir patraukė namo su didžiausiu grobiu, paėmę daug žmonių į nelaisvę ar išžudę. Šiame
-    valsčiuje jie nukovė vieną bartą, pabėgusį iš Pagudės ir paskutiniosios atskalūnybės
-    metais paėmusį į nelaisvę Kristburgo ir Elbingo komtūrus su jų šeimynomis.
+    Tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias
+    malones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
+    libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis
+    turi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis
+    dėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi
+    nekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs
+    ištikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų
+    pakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad
+    taip.
   citata_rodoma: "Tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias\nmalones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei\nlibera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis\nturi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis\ndėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi\nnekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs\ništikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų\npakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad\ntaip."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

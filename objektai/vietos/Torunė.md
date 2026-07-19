@@ -235,7 +235,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 <a id="claim-t-175444"></a>
 - t-013
   teiginys: "Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Laivai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -246,7 +246,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159561
     - c-159571
     - c-159575
 
@@ -505,18 +504,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-009
-  santrauka: 'XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus
-    bibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,
-    daugelyje vietų tekstui grąžinusio pirminę prasmę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-013
   santrauka: 'Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -566,19 +553,11 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie taikos atkūrimą tarp Sventopelko ir brolių
-    Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
-    Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis
-    sunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą
-    pasodintą Prūsijos žemėje, dabar it jaukus avinėlis, nuleidęs akis ir nukoręs galvą,
-    nuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį
-    palankumą. Broliai nenorėjo leistis suvedžiojami, žinodami, kad jis, bėdos prispirtas,
-    visados slepia po švelniu avinėlio kailiu lapės širdį, kupiną klastos ir suktumo, nes šitai
-    rodė įvykių raida, mat jis jau trečią kartą buvo sulaužęs priesaika patvirtintą taikos
-    sutartį. Kadangi taikos malonių visados reikia siekti, nes to moko tas, kuris teikia taiką ir
-    ją puoselėja, tai yra Jėzus Kristus, todėl po ilgų derybų, kryžininkų patariami, jie atnaujino
-    pagal pirmykštę formulę senąją sutartį, jų sudarytą su minėtuoju kunigaikščiu295.
-    57 (56). Apie brolį Henriką, trečią magistrą.
+    Tuo tarpu stalininkas Druzigeris,
+    su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
+    ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo
+    žemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo
+    girdėta.
   citata_rodoma: "Tuo tarpu stalininkas Druzigeris,\nsu saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad\nir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo\nžemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo\ngirdėta."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -610,14 +589,10 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tą pačią naktį šios pilies broliai su savo ginklanešiais išėjo
-    iš pilies; kai jie užpuolė miegančius karius, kai vienus žudė, o kitus mirtinai žeidė, kilo
-    baisus triukšmas, kurį išgirdo sargybiniai, tą naktį saugoję kariuomenę, jie atskubėjo,
-    pasirengę mūšiui, ir nukovė du brolius, vieną broliuką ir daug ginklanešių.
-    165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
-    Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
-    prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
-    jie bematant neatiduosią jam pilies.
+    Po to priėjo Torunę ir sudegino
+    ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę
+    prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
+    atkakliai gynėsi.
   citata_rodoma: "Po to priėjo Torunę ir sudegino\nligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę\nprie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai\natkakliai gynėsi."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -625,7 +600,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
     - t-016
 
 - id: c-159562
@@ -719,10 +693,9 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas. Berlyno karališkosios
-    bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
-    Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
-    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.
+    Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus
+    bibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,
+    daugelyje vietų tekstui grąžinusio pirminę prasmę.
   citata_rodoma: "Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus\nbibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,\ndaugelyje vietų tekstui grąžinusio pirminę prasmę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -807,16 +780,11 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pasitarę visi nusprendė ten jį
-    užpulti ir iš Kulmo pasiuntė 10 raitelių, turėjusių neduoti ramybės priešo kariuomenei;
-    susidūrę su 20 priešo vyrų, jie nukovė vieną karį, o kiti 19, išvydę brolių vėliavą, pabėgo;
-    bėgliams parsiradus Sventopelko kariuomenėje, išsibėgiojo visi, išsigelbėjo kurie ne
-    kurie, pasiekdami pilį, visi kiti arba paskendo, arba paklojo galvas nuo kalavijo ašmenų.
-    Šitaip tą dieną broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų292. Dėkodami už
-    šią pergalę dievui ir džiūgaudami, broliai su dideliu grobiu sugrįžo namo.
-    54 (53) Apie vieną stebuklą
-    Tuo metu pasimirė kelyje, grįždamas į savo tėvynę, vienas kryžininkas iš Meiseno,
-    kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus.
+    Todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti  į vienuolyną, ir šis pasiuntė  į
+    Torunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko,
+    kas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių; neilgai
+    trukus pats atvykęs, buvo priimtas su didele pagarba, apsivilko Teutonų namų ordino
+    vienuolio apsiaustą, o brolius išgelbėjo nuo didelio vargo.
   citata_rodoma: "Todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti  į vienuolyną, ir šis pasiuntė  į\nTorunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko,\nkas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių; neilgai\ntrukus pats atvykęs, buvo priimtas su didele pagarba, apsivilko Teutonų namų ordino\nvienuolio apsiaustą, o brolius išgelbėjo nuo didelio vargo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

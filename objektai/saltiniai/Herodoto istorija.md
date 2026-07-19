@@ -115,24 +115,6 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
     - c-174802
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, nors jis ją laikė nepakankamai išdėstyta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    34
-    Skitijos geografija. Skitų įpročius, papročius ir religi­
-    ją iš dalies aprašė Herodotas, bet tai nelabai reikalinga
-    mūsų dalykui. Įdomesnė atrodo Skitijos geografija, nors
-    Herodoto
-    istorijoje
-    ji
-    nepakankamai
-    išdėstyta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-004
   santrauka: 'Teodoras Narbutas Herodoto pasakojime nurodė persų karaliaus kelią nuo Maetis ežero į žemyno gilumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -160,13 +142,15 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tad šis kraštas turėtų
-    būti Rogačiovo apylinkėse ir aukščiau. Buvo atkakliai
-    ieškoma tokio pavadinimo upės, bet nerasta; mes ma­
-    nome, kad tai turėtų būti dabartinė Desna, o Hipakyris
-    dabar vadinamas Seimo upe. Šios upės, susiliejančios
-    netoli Dnepro žiočių, iš tikrųjų išteka iš skirtingų kraštų;
-    tai sako ir Herodotas.
+    34
+    Skitijos geografija. Skitų įpročius, papročius ir religi­
+    ją iš dalies aprašė Herodotas, bet tai nelabai reikalinga
+    mūsų dalykui. Įdomesnė atrodo Skitijos geografija, nors
+    Herodoto
+    istorijoje
+    ji
+    nepakankamai
+    išdėstyta.
   citata_rodoma: "34\nSkitijos geografija. Skitų įpročius, papročius ir religi­\nją iš dalies aprašė Herodotas, bet tai nelabai reikalinga\nmūsų dalykui. Įdomesnė atrodo Skitijos geografija, nors\nHerodoto\nistorijoje\nji\nnepakankamai\nišdėstyta."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

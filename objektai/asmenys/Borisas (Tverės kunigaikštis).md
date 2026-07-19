@@ -10,6 +10,10 @@ datos:
   - '1434 m.'
 date_start: '1430'
 date_end: '1434'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,10 +21,6 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -124,6 +124,29 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+- c-004
+  santrauka: 'Kunigaikštis Borisas, Ginvilos sūnus ir Polocko įpėdinis, prie Berezinos upės įkūrė savo vardo miestą Borisovą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Savo įpėdiniu Polocke paliko savo sūnų Borisą",
+    ir šis kunigaikštis Borisas prie Berezinos upės įkūrė
+    savo vardo miestą ir pavadino jį Borisovu l2. Būda­
+    mas rusų tikėjimo, buvo labai pamaldus ir pastatydino
+    Polocke mūrinę šventosios Sofijos cerkvę l3; antrą —
+    šventojo Išganytojo nekaltų mergelių vienuolyną 14 prie
+    Polotos upės, pusę mylios aukščiau pilies; trečią —
+    Boriso ir Glebo cerkvę Belčičių vienuolyne l6.
+    Valdydamas Polocką, jis buvo maloningas savo val­
+    diniams ir jiems, savo valdiniams, dovanojo laisvių
+
+    bei teisę šaukti viečę, skambinti varpu ir valdytis, kaip
+    Didžiajame Naugarde ir Pskove.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-83575
@@ -202,14 +225,16 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   citata_originali: |
     Savo įpėdiniu Polocke paliko savo sūnų Borisą",
     ir šis kunigaikštis Borisas prie Berezinos upės įkūrė
-    savo vardo miestą ir pavadino jį Borisovu l2. Būda­
+    savo vardo miestą ir pavadino jį Borisovu l2 . Būda­
     mas rusų tikėjimo, buvo labai pamaldus ir pastatydino
     Polocke mūrinę šventosios Sofijos cerkvę l3; antrą —
-    šventojo Išganytojo nekaltų mergelių vienuolyną 14 prie
+    šventojo Išganytojo nekaltų mergelių vienuolyną 1 4  prie
     Polotos upės, pusę mylios aukščiau pilies; trečią —
-    Boriso ir Glebo cerkvę Belčičių vienuolyne l6.
+    Boriso ir Glebo cerkvę Belčičių vienuolyne l6 .
     Valdydamas Polocką, jis buvo maloningas savo val­
     diniams ir jiems, savo valdiniams, dovanojo laisvių
+
+    ## Puslapis 46
 
     bei teisę šaukti viečę, skambinti varpu ir valdytis, kaip
     Didžiajame Naugarde ir Pskove.

@@ -9,16 +9,16 @@ datos:
   - '1848 m.'
 date_start: '1799'
 date_end: '1848'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - asmuo
+amziai:
+  - 'XVIII'
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,6 +32,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Simonas Stanevičius
 
 ## Santrauka
@@ -72,22 +73,6 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
   pagrindžia:
     - c-172928
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'T. Narbuto papildymo komentare spėjama, kad Raseinių korespondentu galėjo būti Simonas Stanevičius (1799-1848).'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Paragrafas, kuriuo T. Narbutas papildė skyrių, rengdamas antrąjį
-    LTI leidimą (PEĮ. L. 104—105). Galima spėti, jog šio laiško au­
-    torius, t. y. Raseinių korespondentas, galėjo būti ir Simonas Sta­
-    nevičius
-    (1799—1848).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172928
@@ -120,11 +105,11 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Jeigu mėnulis nukristų ant saulės, tai bū­
-    tų taip pat, kai musė įkristų į sriubos lėkštę. Tačiau, jeigu jis
-    nukristų ant žemės, tai savo nuolaužomis užgriozdytų beveik ket­
-    virtadalį jos paviršiaus. Mėnulis yra rutulio formos kūnas, kaip
-    obuolys; ant jo yra dėmės, juoduliai, t. y. kaip ant obuolių būva.
+    Paragrafas, kuriuo T. Narbutas papildė skyrių, rengdamas antrąjį
+    LTI leidimą (PEĮ. L. 104—105). Galima spėti, jog šio laiško au­
+    torius, t. y. Raseinių korespondentas, galėjo būti ir Simonas Sta­
+    nevičius
+    (1799—1848).
   citata_rodoma: "Paragrafas, kuriuo T. Narbutas papildė skyrių, rengdamas antrąjį\nLTI leidimą (PEĮ. L. 104—105). Galima spėti, jog šio laiško au­\ntorius, t. y. Raseinių korespondentas, galėjo būti ir Simonas Sta­\nnevičius\n(1799—1848)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -78,20 +78,16 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pusę darbo padaro tasai, kas netrunka jo imtis —
+    Jie ir paprašė minėtąjį kunigaikštį pastatydinti
+    jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,
+    prisimindamas šiuos poeto žodžius:
 
-    sutelkė savo žmones ir prieš dabartinį Torunės miestą pastatė ant kalvos jiems pilį,
-    179  Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,
-    kas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą. Praleistame tekste nėra
-    jokios mokslinės informacijos.
+                   Pusę darbo padaro tasai, kas netrunka jo imtis —
 
-    vardu Fogelzangas180,— lotyniškai šitai reiškia Paukščių giesmė [Cantus avium], kurioje
-    broliai su keliais ginklanešiais, priešindamiesi gausybei pagonių, giedodavo liūdesio ir
-    sielvarto giesmę. Mat jie, palikę mieląją gimtinę, atsidūrė visai svetimame krašte, kur,
-    kaip ilgainiui paaiškėjo, turėjo metų metais vargą vargti be menkiausios vilties, kad
-    ketvirta ar šešta karta galėsianti grįžti į savo tėvų žemę. Jie atkeliavo iš derlingo, taikaus
-    ir ramaus krašto, o atsidūrė siaubingoje žemėje, negyvenamose dykrose, kur nuolatos
-    siautėjo karas.
+      sutelkė savo žmones ir prieš dabartinį Torunės miestą pastatė ant kalvos jiems pilį,
+
+      179 Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,
+    kas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą.
   citata_rodoma: "Jie ir paprašė minėtąjį kunigaikštį pastatydinti\njiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,\nprisimindamas šiuos poeto žodžius:\n\n               Pusę darbo padaro tasai, kas netrunka jo imtis —\n\n  sutelkė savo žmones ir prieš dabartinį Torunės miestą pastatė ant kalvos jiems pilį,\n\n  179 Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,\nkas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

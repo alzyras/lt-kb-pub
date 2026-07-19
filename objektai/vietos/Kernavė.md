@@ -16,14 +16,14 @@ datos:
   - '2026 m.'
 date_start: '1321'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -243,21 +243,21 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 <a id="claim-t-188721"></a>
 - t-004
   teiginys: "Narbutas Pajautą apibūdino kaip Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernavėje, dukterį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Aukurai: 0.83"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171612
+    - c-171610
 
 <a id="claim-t-188722"></a>
 - t-016
@@ -421,6 +421,95 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
 - susijęs iš Maišiagala: Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178817|Kryžiuočių ordinas]]: Lietuvių pasipriešinimas neatbaidė kryžiuočių nuo kasmetinių žygių iki Vilniaus, o 1384 m. jų antpuoliai siekė Kernavę.
+## Reikšmingi paminėjimai
+- c-009
+  santrauka: 'Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pagaliau juos, šiaip jau pasiruošusius kovoti, pa­
+    togi proga pastūmėjo į ryžtingą karą. Polovcai, veda­
+    mi kunigaikščio Sekalio, keliais iš eilės antpuoliais
+    kė Kijevo kunigaikščio Ja­
+    roslavo sūnų nesantarvė ir neapykanta: pasikvietę Bo­
+    leslovo Narsiojo, lenkų karaliaus, kariuomenę, jie vos
+    nesunaikino vieni kitų. Kernius ir Gimbutas nutarė ne­
+    praleisti šitokios progos: bendromis jėgomis sutelkė
+    stiprų Lietuvos ir Žemaitijos jaunuolių būrį, Kernius jį
+    nuvedė į Rusią, kuriai po visokeriopų nesėkmių rūpė­
+    jo kas kita, ir bematant už-
+    A tim a m a iš rusų
+    ėmė Breslaują, kuri vėliau
+    B ieslau ja. N u siau bia-
+    visam laikui pasiliko Retu­
+    mas P o lo ck a s
+    vių rankose.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-010
+  santrauka: 'Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Netekęs vilties, kad užkariaus pilį, be to, nenorė­
+    damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie­
+    ko nenuveikė, jis pasitraukė į Nemuno salas, esančias
+    už vienos mylios, ir pastatė čia naujas pilis. Dviejose
+    salose, Naujojoje ir Riterių, pavadintose Nojerverde-
+    riu ir Ritersverderiu, kryžiuo-
+    Stato L ie tu v o je паи-
+    čiai paliko savo įgulą, o tre­
+    jas pilis
+    čiojoje, vadinamoje Marien­
+    burgu, įkurdino savo karius
+    Vytautas. Šios įgulos nepaprastai kenkė aplinkiniam
+    kraštui: nesutikdamos pasipriešinimo, jos pridarydavo
+    daug žalos menkais, bet dažnais išpuoliais, rengiamais
+    nedidelių būrių. Šitokia padėtis paskatino Kernavės ku­
+    nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten
+    išvaryti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-012
+  santrauka: 'Narbutas Pajautą apibūdino kaip Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernavėje, dukterį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    nenustota jos garbinti. Strijkovskis pats sako: „Palangoje, prie
+    jūros, mačiau aukštą kalną, tos Birutės milžinkapį, kurį že­
+    maičiai bei kuršiai dar ir šiandien vadina šventos Birutės (Swis-
+    tos-Bimtos) kalnu ir dar iki šios dienos švenčia jos šventę ten,
+    toje vietoje, kur ir Romos katalikų kunigas atvažiuoja surink­
+    damas nemaža naudos iš žvakių ir aukų, nors nesuprantu, kaip
+    Dievas priima tas aukas, kadangi toji Birutė buvo stabmeldė“.
+    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
+    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
+    mėti ten visuomet stovi medinis kryžius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-013
+  santrauka: 'Pasak Narbuto perteikiamų padavimų, XIII a. didžioji šventykla kurį laiką buvusi Kernavėje, o vėliau Vilniuje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tikras dalykas yra tik tai, kad Arak-
+    so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip
+    tik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­
+    cijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­
+    sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
+    sas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
+    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-32122
@@ -621,23 +710,22 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pagaliau juos, šiaip jau pasiruošusius kovoti, pa­
-    togi proga pastūmėjo į ryžtingą karą. Polovcai, veda­
-    mi kunigaikščio Sekalio, keliais iš eilės antpuoliais
-    kė Kijevo kunigaikščio Ja­
-    roslavo sūnų nesantarvė ir neapykanta: pasikvietę Bo­
-    leslovo Narsiojo, lenkų karaliaus, kariuomenę, jie vos
-    nesunaikino vieni kitų. Kernius ir Gimbutas nutarė ne­
-    praleisti šitokios progos: bendromis jėgomis sutelkė
-    stiprų Lietuvos ir Žemaitijos jaunuolių būrį, Kernius jį
-    nuvedė į Rusią, kuriai po visokeriopų nesėkmių rūpė­
-    jo kas kita, ir bematant už-
-    A tim a m a iš rusų
-    ėmė Breslaują, kuri vėliau
-    B ieslau ja. N u siau bia-
-    visam laikui pasiliko Retu­
-    mas P o lo ck a s
-    vių rankose.
+    Todėl, norėdamas su­
+    rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
+    kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
+    64
+
+    ## Puslapis 63
+
+    padėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos
+    sostinę. Ši vietovė po šiai dienai išsaugojo vardą, gau­
+    dėj o dirbti pakrantėje laukus, rusai, su įtarimu žiūrėję
+    į naujuosius kaimynus, ėmėsi smurto ir ginklo. Šie
+    veiksmai priminė veikiau atkarų plėšikavimą nei gar­
+    bingą karą: nuolatiniais antpuoliais buvo siaubiami
+    naujakuriai;
+    Kernius bei Gimbutas dėjosi nematą
+    skriaudų, tačiau paslapčiomis ryžosi pulti Rusią.
   citata_rodoma: "Todėl, norėdamas su­\nrišti priešui rankas, įkūrė pirmą nausėdiją ant upės\nkranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos\n64\n\n## Puslapis 63\n\npadėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos\nsostinę. Ši vietovė po šiai dienai išsaugojo vardą, gau­\ndėj o dirbti pakrantėje laukus, rusai, su įtarimu žiūrėję\nį naujuosius kaimynus, ėmėsi smurto ir ginklo. Šie\nveiksmai priminė veikiau atkarų plėšikavimą nei gar­\nbingą karą: nuolatiniais antpuoliais buvo siaubiami\nnaujakuriai;\nKernius bei Gimbutas dėjosi nematą\nskriaudų, tačiau paslapčiomis ryžosi pulti Rusią."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -650,23 +738,21 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Netekęs vilties, kad užkariaus pilį, be to, nenorė­
-    damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie­
-    ko nenuveikė, jis pasitraukė į Nemuno salas, esančias
-    už vienos mylios, ir pastatė čia naujas pilis. Dviejose
-    salose, Naujojoje ir Riterių, pavadintose Nojerverde-
-    riu ir Ritersverderiu, kryžiuo-
-    Stato L ie tu v o je паи-
-    čiai paliko savo įgulą, o tre­
-    jas pilis
-    čiojoje, vadinamoje Marien­
-    burgu, įkurdino savo karius
-    Vytautas. Šios įgulos nepaprastai kenkė aplinkiniam
+    Šios įgulos nepaprastai kenkė aplinkiniam
     kraštui: nesutikdamos pasipriešinimo, jos pridarydavo
     daug žalos menkais, bet dažnais išpuoliais, rengiamais
     nedidelių būrių. Šitokia padėtis paskatino Kernavės ku­
     nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten
-    išvaryti.
+    išvaryti. Puldamas Ritersver-
+    A le k sa n d ra s V y g a n -
+    derį su trimis lenkų pėstinin-
+    das n e sė k m in g a i puo-
+    kų ir keliais lietuvių raitelių
+    ia pilis
+    būriais, kunigaikštis, be abe­
+    jonės, būtų netrukęs užimti
+    pilį, jeigu būtų parodęs daugiau ryžto ir nepasitraukęs,
+    kai gynėjai jau ketino pasiduoti.
   citata_rodoma: "Šios įgulos nepaprastai kenkė aplinkiniam\nkraštui: nesutikdamos pasipriešinimo, jos pridarydavo\ndaug žalos menkais, bet dažnais išpuoliais, rengiamais\nnedidelių būrių. Šitokia padėtis paskatino Kernavės ku­\nnigaikštį Aleksandrą Vygandą pamėginti priešą iš ten\nišvaryti. Puldamas Ritersver-\nA le k sa n d ra s V y g a n -\nderį su trimis lenkų pėstinin-\ndas n e sė k m in g a i puo-\nkų ir keliais lietuvių raitelių\nia pilis\nbūriais, kunigaikštis, be abe­\njonės, būtų netrukęs užimti\npilį, jeigu būtų parodęs daugiau ryžto ir nepasitraukęs,\nkai gynėjai jau ketino pasiduoti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -710,35 +796,39 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    nenustota jos garbinti. Strijkovskis pats sako: „Palangoje, prie
-    jūros, mačiau aukštą kalną, tos Birutės milžinkapį, kurį že­
-    maičiai bei kuršiai dar ir šiandien vadina šventos Birutės (Swis-
-    tos-Bimtos) kalnu ir dar iki šios dienos švenčia jos šventę ten,
-    toje vietoje, kur ir Romos katalikų kunigas atvažiuoja surink­
-    damas nemaža naudos iš žvakių ir aukų, nors nesuprantu, kaip
-    Dievas priima tas aukas, kadangi toji Birutė buvo stabmeldė“.
-    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
-    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
-    mėti ten visuomet stovi medinis kryžius.
+    Nereikia tapatinti Medziojnos
+    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
+    Laima.
+    154
+
+    ## Puslapis 154
+
+    Pajauta (Pojata)
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
+    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
+    šė paveldimą Kernavės kunigaikštystę.
   citata_rodoma: "Nereikia tapatinti Medziojnos\nsu Medžiojma, kurią laikėme medžiotojų deive, vadinama\nLaima.\n154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-171611
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tikras dalykas yra tik tai, kad Arak-
-    so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip
-    tik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­
-    cijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­
-    sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
-    sas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
-    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę.
+    To­
+    kie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­
+    niams persikėlus į Lietuvą, didžioji šventykla buvo įvairiose
+    vietose, vėliau Kernavėje, pagaliau Vilniuje, joje panašiai de­
+    gė šventoji ugnis.
+    4.
   citata_rodoma: "To­\nkie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­\nniams persikėlus į Lietuvą, didžioji šventykla buvo įvairiose\nvietose, vėliau Kernavėje, pagaliau Vilniuje, joje panašiai de­\ngė šventoji ugnis.\n4."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -767,7 +857,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-005
 
 - id: c-178845

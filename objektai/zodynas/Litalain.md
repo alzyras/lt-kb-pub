@@ -117,12 +117,9 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
 - susijęs iš [[objektai/grupes/Litalarai.md#claim-t-192987|Litalarai]]: Teodoras Narbutas neatmetė autoriaus nuomonės, kad litalarai buvo lietuvių-alanų tauta, galėjusi susidaryti iš lietuvių ir alanų mišinio.
 - susijęs iš Lietuva: Narbutas estų žodį Litalain siejo su Lietuva ir Ukmergės apskritimi, aiškindamas lietuvių bei kuršių ankstyvą gyvenimą jų žemėse.
 - susijęs iš Ukmergės apskritis: Narbuto teigimu, Peipaus ežero estai žodžiu „Litalain“ vadino Lietuvos dalį, kuri jo laiku sudarė Ukmergės apskritį.
-## Citatos
-
-- id: c-175052
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Tai, regis, galima įrodyti tuo, jog estai,
     gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
@@ -139,6 +136,30 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
     dyną, kuriame nerandame nieko, ką galima būtų vadinti
     panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
     tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+    - t-001
+    - t-004
+
+## Citatos
+
+- id: c-175052
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Taip pat mes neneigsime šio autoriaus nuomonės, kad buvusi lie-
+    tuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­
+    lėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net
+    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
+    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
+    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
+    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
+    ri dabar sudaro Ukmergės apskritį*.
   citata_rodoma: "Taip pat mes neneigsime šio autoriaus nuomonės, kad buvusi lie-\ntuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­\nlėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net\nir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-\nalanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,\ngyvenantys prie Peipaus ežero, dar ir šiandien lietuvius\nvadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­\nri dabar sudaro Ukmergės apskritį*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

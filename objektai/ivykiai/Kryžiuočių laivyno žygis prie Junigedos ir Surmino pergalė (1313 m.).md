@@ -109,37 +109,6 @@ Nenurodyta
     - c-168888
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Ragainės komtūras Verneris pasiūlė kryžiuočiams laivais pulti prie Nemuno ir kitų upių stovėjusias lietuvių pilis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Bisenės užpuolimas buvo nar­
-    siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
-    rių dalies netekęs priešas buvo priverstas pasitraukti
-    nieko nepešęs. Kadangi stip-
-    1313 m e ta i
-    riausios lietuvių pilys buvo
-    prie Nemuno bei kitų upių,
-    Verneris, Ragainės komtūras, patarė kryžiuočiams jas
-    vieną po kitos pulti laivais, įtikinėdamas, kad į van­
-    dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
-    prastai menkiau sutvirtinti ir lengviau prieinami. To­
-    dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
-    ma panašus į tvirtovę — su
-    P a sista tę la iv ų , k iy -
-    dantytais bortais, už kurių
-    žiu o č ia i p u o la  lietu -
-    krantą bei pylimą puolančius
-    v iu s
-    karius galima geriau apsau­
-    goti nuo iečių bei strėlių ir
-    geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
-    priešą, stovintį krante.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Kryžiuočiai su judama tvirtove ir parengtu laivynu patraukė prie Junigedos, kur audra beveik nustūmė didįjį laivą gynėjams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -171,29 +140,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Surminas po pergalės grįžo pas valdovą, tačiau mūšyje neteko brolio Goštauto ir kitų karių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Abi pusės stojo į atkaklų
-    mūšį. Smarkiausia ir sunkiausia kova vyko prie to di­
-    džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau
-    191
-
-    ## Puslapis 190
-
-    jis, nukirtus inkarų virves, buvo srovės užneštas ant
-    seklumos, kur vos nesudužo, čia jį galop lietuviai už­
-    ėmė ir sudegino. Surminas grįžo pas valdovą nugalė­
-    toju, visiems nešdamas džiaugsmą, o pats slėpdamas
-    širdyje liūdesį, nes šioje pergalingoje kovoje jis ne­
-    teko savo brolio Goštauto drauge su kitais narsiais
-    kariais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -202,7 +148,10 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kadangi stip-
+    Bisenės užpuolimas buvo nar­
+    siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
+    rių dalies netekęs priešas buvo priverstas pasitraukti
+    nieko nepešęs. Kadangi stip-
     1313 m e ta i
     riausios lietuvių pilys buvo
     prie Nemuno bei kitų upių,
@@ -214,18 +163,13 @@ Nenurodyta
     ma panašus į tvirtovę — su
     P a sista tę la iv ų , k iy -
     dantytais bortais, už kurių
-    žiu o č ia i p u o la lietu -
+    žiu o č ia i p u o la  lietu -
     krantą bei pylimą puolančius
     v iu s
     karius galima geriau apsau­
     goti nuo iečių bei strėlių ir
     geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
-    priešą, stovintį krante. Pirmiausia su šia judama tvir­
-    tove ir visu parengtu kovai laivynu patraukė prie Ju-
-    nigedos, kur tas didysis laivas, smarkios audros nu­
-    neštas prie pilies kranto, būtų beveik pats patekęs į
-    pilies gynėjų rankas, jeigu atplaukę kiti laivai ir upės
-    srovė nebūtų jo iš pavojaus išplėšę ir išgelbėję.
+    priešą, stovintį krante.
   citata_rodoma: "Bisenės užpuolimas buvo nar­\nsiai pilėnų atremtas; smarkiai sumuštas ir didelės ka­\nrių dalies netekęs priešas buvo priverstas pasitraukti\nnieko nepešęs. Kadangi stip-\n1313 m e ta i\nriausios lietuvių pilys buvo\nprie Nemuno bei kitų upių,\nVerneris, Ragainės komtūras, patarė kryžiuočiams jas\nvieną po kitos pulti laivais, įtikinėdamas, kad į van­\ndens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­\nprastai menkiau sutvirtinti ir lengviau prieinami. To­\ndėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­\nma panašus į tvirtovę — su\nP a sista tę la iv ų , k iy -\ndantytais bortais, už kurių\nžiu o č ia i p u o la  lietu -\nkrantą bei pylimą puolančius\nv iu s\nkarius galima geriau apsau­\ngoti nuo iečių bei strėlių ir\ngeriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į\npriešą, stovintį krante."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -281,30 +225,20 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
+    Abi pusės stojo į atkaklų
+    mūšį. Smarkiausia ir sunkiausia kova vyko prie to di­
+    džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau
+    191
+
+    ## Puslapis 190
+
     jis, nukirtus inkarų virves, buvo srovės užneštas ant
     seklumos, kur vos nesudužo, čia jį galop lietuviai už­
     ėmė ir sudegino. Surminas grįžo pas valdovą nugalė­
     toju, visiems nešdamas džiaugsmą, o pats slėpdamas
     širdyje liūdesį, nes šioje pergalingoje kovoje jis ne­
     teko savo brolio Goštauto drauge su kitais narsiais
-    kariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
-    sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
-    dininkų valsčių. Jeigu lietuviai, parodę tokį narsu­
-    mą, būtų turėję ten daugiau
-    1314 m e ta i
-    karių ir jėgų, tikrai būtų kry­
-    žiuočiai netekę visos stovyk­
-    los, mat penki kariai, nakties tamsoje prasigavę pro
-    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
-    priešų nužudę ir pasiplėšę
-    N e p a p ra sta
-    p e n k ių
-    grobio, kiek tik galėjo pen-
-    iie tu v ių n arsa
-    kiese pakelti, sveiki sugrįžo
-    pas savuosius, įvarydami kry­
-    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
-    būta baimės nei pavojaus.
+    kariais.
   citata_rodoma: "Abi pusės stojo į atkaklų\nmūšį. Smarkiausia ir sunkiausia kova vyko prie to di­\ndžiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau\n191\n\n## Puslapis 190\n\njis, nukirtus inkarų virves, buvo srovės užneštas ant\nseklumos, kur vos nesudužo, čia jį galop lietuviai už­\nėmė ir sudegino. Surminas grįžo pas valdovą nugalė­\ntoju, visiems nešdamas džiaugsmą, o pats slėpdamas\nširdyje liūdesį, nes šioje pergalingoje kovoje jis ne­\nteko savo brolio Goštauto drauge su kitais narsiais\nkariais."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

@@ -92,20 +92,10 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Nedaug laiko praėjus [ir jam pasitraukus], Ordos
-    didieji kunigaikščiai, niekaip nedrįsę supykdyti šlo­
-    vingąjį valdovą, didįjį kunigaikštį Vytautą, ir be jo
-    rankos išsirinkti sau chaną, nusiuntė pasiuntinius, pa­
-    garbą reikšdami ir prašydami iš jo chano. Ir jis davė
-    jiems kitą chaną, vardu Devlet-Berdi 9.
-    Kaip upė, tekėdama per visą šalį, pagirdo žmones
-    ir gyvulius, bet pati neišsenka, taip ir šlovingasis val­
-    dovas skiria Ordai daugybę chanų, o pas jį dar dau­
-    giau lieka. O mes grįžkime prie ankstesnio pasakojimo.
-    Šiam chanui Devlet-Berdi nedaug laiko pavaldžius
-    ir šalin pasitraukus, tie Ordos vyresnieji išgirdo, kad
-    šlovingasis valdovas yra netoli, aukščiau minėtoje Ki­
-    jevo pilyje.
+    O jam kunigaikštis
+    Jogaila buvo davęs savo ranką prie manęs, kad iš jo
+    tėviškės niekuomet neatims. Už tai kunigaikštis Jonas
+    jam davė auksinį diržą per mano rankas.
   citata_rodoma: "O jam kunigaikštis \nJogaila buvo davęs savo ranką prie manęs, kad iš jo \ntėviškės niekuomet neatims. Už tai kunigaikštis Jonas \njam davė auksinį diržą per mano rankas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

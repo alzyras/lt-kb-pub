@@ -78,10 +78,12 @@ Nenurodyta
     - c-172579
 - susijęs iš [[objektai/asmenys/Aurelijus Antoninas.md#claim-t-190084|Aurelijus Antoninas]]: Narbutas imperatoriaus Aurelijaus Antonino Heliogabalą lygina su Santvaro, vadinto Gabija, arba ugnies dievo stabu.
 - susijęs iš [[objektai/autoriai/Maksimas Tirėjietis.md#claim-t-190439|Maksimas Tirėjietis]]: Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Perkūno stabų pirminę formą aiškina kaip didžiulį ąžuolą arba neapdorotą ąžuolo gabalą, panašų į Maksimo Tirėjiečio aprašytus Jupiterio stabus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172578
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Perkūno stabai iš karto turėjo būti tokie, apie kokius kal­
     ba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­
@@ -92,28 +94,6 @@ Nenurodyta
     skirose nišose -  kitų dievų stabai. O šios šventyklos aprašyme
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
     buvęs puošnesnis už kitus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172578
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Todėl jo išvaizda, tai yra kūno sudėjimas, galėjo būti orien­
-    talistinis. Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­
-    suomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę
-    iš Rytų. Tokia buvo ir pono Kosakovskio nuomonė: tai buvęs
-    Kauno miesto dievas-globėjas, apie ką byloja jo karūna. Trys
-    žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­
-    kančias upes: Nerį, Nemuną ir Nevėžį. Kad ir kaip ten būtų bu­
-    vę, Varšuvos draugijos nuomonei pritarė ne visi mokslininkai,
-    net pačioje Varšuvoje.
   citata_rodoma: "Perkūno stabai iš karto turėjo būti tokie, apie kokius kal­\nba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­\nbus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba­\nlas. Vis dėlto žinome, kad senovinėje Romovės šventykloje po\nanuo didžiuliu ir visada žaliuojančiu ąžuolu stovėjo trejetas\nstabų -  Perkūno, Atrimpo ir Pokliaus; šventyklos aptvaro at­\nskirose nišose -  kitų dievų stabai. O šios šventyklos aprašyme\nistorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris\nbuvęs puošnesnis už kitus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

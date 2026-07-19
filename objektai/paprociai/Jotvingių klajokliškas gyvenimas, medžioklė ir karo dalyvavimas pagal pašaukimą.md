@@ -83,27 +83,6 @@ Nenurodyta
   pagrindžia:
     - c-177268
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Vėliau dažniau matome jotvingių ryšius su lietuvių gentimis, su kuriomis jie nuo seno turėjo santykių, nes, gyvendami klajokliškai, turėjo daug naudos iš medžiok lės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    118
-    Vėliau dažniau matome jotvingių ryšius su lietuvių
-    gentimis, su kuriomis jie nuo seno turėjo santykių, nes,
-    gyvendami klajokliškai, turėjo daug naudos iš medžiok­
-    lės. Be to, kai būdavo pašaukiami, dalyvaudavo karuose.
-    Net ir turėdami Jaroslavo paskirtus rusų valdovus, kurie
-    vėliau tapo lyg ir savarankiškais kunigaikštukais, įvairiai
-    įkyrėjo kaimynams, ypač Drohičino kunigaikštukas siunti­
-    nėjo plėšikų gaujas, kurios neva be jo žinios puldinėjo
-    Mozūriją ir Lenkiją2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-175791
@@ -133,17 +112,16 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš Lenkijos istorijos žinome, jog, kai Kazimieras II
-    1193 metais, siekdamas užkirsti kelią puldinėjimams, su
-    kariuomene patraukė prieš rusų valdomus jotvingius, ypač
-    prieš minėtą Drohičino kunigaikštuką, atsitiko taip, kad
-    lenkai, su dideliais sunkumais prasiveržę iki Drohičino,
-    apgulė tvirtovę, kuri pasidavė. Tas kunigaikštukas pasi­
-    davė j nelaisvę ir išsilygo sau palankių sąlygų. Kariuo­
-    menė žygiavo toliau, tris dienas traukė neišvažiuojamais
-    keliais ir plačiomis dykromis, o ketvirtą dieną saulei pa­
-    tekant Plocko vyskupas, atlaikęs šv. Mišias, krikščioniš­
-    kai parengė kariuomenę kautynėms su pagonimis.
+    118
+    Vėliau dažniau matome jotvingių ryšius su lietuvių
+    gentimis, su kuriomis jie nuo seno turėjo santykių, nes,
+    gyvendami klajokliškai, turėjo daug naudos iš medžiok­
+    lės. Be to, kai būdavo pašaukiami, dalyvaudavo karuose.
+    Net ir turėdami Jaroslavo paskirtus rusų valdovus, kurie
+    vėliau tapo lyg ir savarankiškais kunigaikštukais, įvairiai
+    įkyrėjo kaimynams, ypač Drohičino kunigaikštukas siunti­
+    nėjo plėšikų gaujas, kurios neva be jo žinios puldinėjo
+    Mozūriją ir Lenkiją2.
   citata_rodoma: "118\nVėliau dažniau matome jotvingių ryšius su lietuvių\ngentimis, su kuriomis jie nuo seno turėjo santykių, nes,\ngyvendami klajokliškai, turėjo daug naudos iš medžiok­\nlės. Be to, kai būdavo pašaukiami, dalyvaudavo karuose.\nNet ir turėdami Jaroslavo paskirtus rusų valdovus, kurie\nvėliau tapo lyg ir savarankiškais kunigaikštukais, įvairiai\nįkyrėjo kaimynams, ypač Drohičino kunigaikštukas siunti­\nnėjo plėšikų gaujas, kurios neva be jo žinios puldinėjo\nMozūriją ir Lenkiją2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

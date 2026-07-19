@@ -7,13 +7,13 @@ datos:
   - '1414 m.'
 date_start: '1414'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -104,12 +104,9 @@ Nenurodyta
   pagrindžia:
     - c-13593
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05215|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Trakų Galvės ežero salos pilis tapo Vytauto Didžiojo pasididžiavimu.
-## Citatos
-
-- id: c-13593
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ar iš tikrųjų Vytauto epochai gali
     būti priskirtos pirmosios pabūklų liejyklos^5 ir bažnytinių varpų,
@@ -124,8 +121,24 @@ Nenurodyta
     **_pinigai,_** **Putnam 1959.**
     (^5) **Žr.** **_Artilerija, Lietuvos art. istorija_** **, LE, t. 1, 299-300 p.**
 
-
     ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
+    lebert de Lannoy.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-001
+
+## Citatos
+
+- id: c-13593
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės
+    ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil-
     lebert de Lannoy.
   citata_rodoma: "kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės\nežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil-\nlebert de Lannoy."
   statusas: verified

@@ -9,15 +9,15 @@ datos:
   - '1971 m.'
 date_start: '1957'
 date_end: '1971'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - redaktorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -86,21 +86,6 @@ Korsako ir J.
 - susijęs iš [[objektai/autoriai/R. Šarmaitis.md#claim-t-186450|R. Šarmaitis]]: R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
 - susijęs iš [[objektai/autoriai/Rimantas Jasas.md#claim-t-186453|Rimantas Jasas]]: Rimantas Jasas išvertė Bychovco kroniką ir parašė 1971 m. leidinio įvadą bei paaiškinimus.
 - susijęs iš Lietuvos metraštis, Bychovco kronika (1971 m.): 1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas.
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
-    *
-    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-169797
@@ -108,14 +93,11 @@ Korsako ir J.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Rankraštis neturėjo jokio pavadini­
-    mo. „Bychovco kronika" jis buvo pramintas XIX a.
-    pagal rankraščio savininką, Gardino gubernijos Volko-
-    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
-    vos metraščio" antraštė duota dėl nusistojusios jau lie­
-    tuvių tarybinėje istoriografijoje tradicijos vadinti
-    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
-    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
+    REDAKCINE KOMISIJA
+    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
+    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
+    *
+    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
   citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į\n*\nVertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

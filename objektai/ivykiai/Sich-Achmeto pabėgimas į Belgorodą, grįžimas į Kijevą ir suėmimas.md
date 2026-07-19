@@ -137,10 +137,9 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    С Петербург, 1884, р. 516).
     п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
     Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
-    masis gauti pagalbos Iš Turkijos sultono Bajareto II-jo. ( Kijevą
+    masis gauti pagalbos Iš T urkijos sultono Bajareto II-jo. ( Kijevą
     grižo 1503/1504 m. žiemą.
   citata_rodoma: "п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą \nBelgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­\nmasis gauti pagalbos Iš T urkijos sultono Bajareto II-jo. ( Kijevą \ngrižo 1503/1504 m. žiemą."
   statusas: verified

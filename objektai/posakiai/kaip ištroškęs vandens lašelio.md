@@ -67,8 +67,8 @@ Labai stipraus laukimo ar troškimo palyginimas.
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 10."
   citata_originali: |
     1846 m. Bychovco kronika, kurios, anot S. Daukanto,
-    visi seniai jau laukė, „kaip ištroškęs vandens lašelio" ,J,
-    išėjo atskiru leidiniu.10 Rankraščio tekstas jame buvo
+    visi seniai jau laukė, „kaip ištroškęs vandens lašelio" , J ,
+    išėjo atskiru leidiniu.1 0  Rankraščio tekstas jame buvo
     perteiktas be jokių taisymų, su rašybos, skyrybos klai­
     domis ir paraščių pastabomis.
   citata_rodoma: "1846 m. Bychovco kronika, kurios, anot S. Daukanto, \nvisi seniai jau laukė, „kaip ištroškęs vandens lašelio\" , J , \nišėjo atskiru leidiniu.1 0  Rankraščio tekstas jame buvo \nperteiktas be jokių taisymų, su rašybos, skyrybos klai­\ndomis ir paraščių pastabomis."

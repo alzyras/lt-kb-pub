@@ -10,8 +10,6 @@ datos:
   - '1258 m.'
 date_start: '1231'
 date_end: '1258'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +17,8 @@ tags:
   - pilis
   - vieta
   - dvaras
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -111,39 +111,6 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   pagrindžia:
     - c-177149
 
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas nurodo Hartknocho spėjimą, kad ten, kur stovėjo Senoji Torunė, anksčiau taip pat buvusi šventykla.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šventyklos aptvaro vi­
-    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
-    bai, -  anot Enėjo Silvijaus liudijimo.
-    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
-    taip pat buvusi šventykla.
-    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
-    to paties istoriko, priklausė šventyklos liekanoms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo las arba šventykla, savo viduryje turėjusi neapsakomo didumo ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai buvo 1258 metais“ .
-    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
-    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
-    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
-    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
-    toje vietoje įkūrė Senąją Torunę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-59266
@@ -187,15 +154,13 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    -R. J.)'°
-    provincijoje, iki šiol neištirtoje vietoje; anot Sarnickio", tai lies­
-    tų Kuršą. Kadangi istorikai šią šventyklą vadina ir Romove,
-    todėl reikėtų manyti, kad, žlugus senajai prūsų religijai, Ale-
-    po, paskutinio prūsų vyriausiojo žynio, įpėdinis iš pradžių gy­
-    veno prie šios šventyklos; su tuo sutinka ir Strijkovskis. Tačiau
-    pajūrio miestas, atkištas priešų puolimams, netrukus turėjo
-    būti sugriautas, kadangi mūsų istorikai tuojau pastebi kitą Lie­
-    tuvos Romovę prie Dubysos ir Nemuno santakos12.
+    Šventyklos aptvaro vi­
+    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
+    bai, -  anot Enėjo Silvijaus liudijimo.
+    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
+    taip pat buvusi šventykla.
+    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
+    to paties istoriko, priklausė šventyklos liekanoms.
   citata_rodoma: "Šventyklos aptvaro vi­\nduje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­\nbai, -  anot Enėjo Silvijaus liudijimo.\nTen, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,\ntaip pat buvusi šventykla.\nUpės (Oppen) kaime augo storiausias ąžuolas, kuris, anot\nto paties istoriko, priklausė šventyklos liekanoms."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -210,14 +175,12 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
-    prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­
-    nasi, skersmuo buvo beveik devynios uolektys!); paliudyti tai
-    ir išduoti matų pažymėjimą gali gerbiamoji Vėluvos miesto
-    taryba; aš pats turiu šito įrodym iĮ su tos tarybos antspaudu.
-    Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
-    jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
-    išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
+    Tai buvo 1258 metais“ .
+    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
+    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
+    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
+    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
+    toje vietoje įkūrė Senąją Torunę.
   citata_rodoma: "Tai buvo 1258 metais“ .\nDybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­\nlas arba šventykla, savo viduryje turėjusi neapsakomo didumo\nąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai\npaėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,\ntoje vietoje įkūrė Senąją Torunę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -46,10 +46,7 @@ Dusburgietis teigia, kad 14 Mažiulis V.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    tarmė) turėjusi ypatybių, kurios ją siejusios su prūsų kalba labiau negu su lietuvių20.
-    Taip pagrindiniais bruožais atrodo prūsų, jotvingių ir jų giminaičių lietuvių tarpusavio
-    santykiai kalbos ir kultūros duomenų požiūriu. Nežiūrint kai kurių skirtumų, išryškėja
-    čia kalbos, materialinės ir dvasinės kultūros, socialinės santvarkos bendrybės.
+    14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.
   citata_rodoma: "14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

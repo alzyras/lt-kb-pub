@@ -113,21 +113,6 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Augustas Liudvigas Šleceris rašė, kad prūsai prieš tūkstantį metų kavalerija nugalėdavo savo užpuolikus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
-    84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
-    vo žemesnio išsivystymo lygio todėl, kad nežinojo raitos
-    medžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­
-    limos Siaurės genčių, jau prieš 1000 metų nugalėdavę
-    savo užpuolikus kavalerija“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -136,15 +121,12 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Už tai jam esąs
-    dėkingas skaitytojas, bet ne kritikas. Faktus reikią
-    skirti nuo rašytojo išmonės, blaivios dokumentų kal­
-    bos negalima puošti autoriaus .vaizduote. Jo rašymo
-    būdas senoviškas, siekiąs bet kokia kaina iš įvykių ir
-    asmenų sudaryti siužetą.
-    A, L. Šleceris atmetė legendinę Lietuvos istorijos
-    dalį, replikuodamas: kol lietuviai neturėję savo vals­
-    tybės, tol jie neturėję ir savo istorijos.
+    Vieną knygą jis
+    skyrė Lietuvos, Kuršo ir Livonijos istorijai, o kitą —
+    vien Lietuvai, kaip buvusiai savarankiškai valstybei
+    (A. L. Schlozer. Geschichte von Littauen, als einem
+    eigenen Grossfūrstenthume, bis zum J. 1569. Gottin­
+    gen, 1776),
   citata_rodoma: "Vieną knygą jis\nskyrė Lietuvos, Kuršo ir Livonijos istorijai, o kitą —\nvien Lietuvai, kaip buvusiai savarankiškai valstybei\n(A. L. Schlozer. Geschichte von Littauen, als einem\neigenen Grossfūrstenthume, bis zum J. 1569. Gottin­\ngen, 1776),"
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -159,14 +141,12 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Dritter Band. S.
+    Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
     84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
     vo žemesnio išsivystymo lygio todėl, kad nežinojo raitos
     medžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­
     limos Siaurės genčių, jau prieš 1000 metų nugalėdavę
     savo užpuolikus kavalerija“.
-    Abejoju, ar raitos medžioklės išmokė juos to meno,
-    nes, gyvenant tarp miškų ir pelkių, sunku joti arkliais į
   citata_rodoma: "Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.\n84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­\nvo žemesnio išsivystymo lygio todėl, kad nežinojo raitos\nmedžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­\nlimos Siaurės genčių, jau prieš 1000 metų nugalėdavę\nsavo užpuolikus kavalerija“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

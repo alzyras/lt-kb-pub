@@ -27,60 +27,6 @@ media_all_json: |-
 
 Narbutas rašo, kad Gutštato kanauninkas Johanas Leo rėmėsi vyskupo Kristijono kronika ir kitais ankstyvais šaltiniais.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Gutštato kanauninkas Johanas Leo rėmėsi vyskupo Kristijono kronika ir kitais ankstyvais šaltiniais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
-    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
-    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
-    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
-    Davido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi
-    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
-    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
-    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
-    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
-    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
-    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
-    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
-    2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173045
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    lietuviai naudojosi tomis raidėmis. Gali būti, kad kam nors
-    pasitaikys rasti pinigą arba metalo gabaliuką su užrašu to rai­
-    dyno raidėmis; man net pasakojo, kad Lietuvoje kai kur yra
-    akmenų su iškaltomis nežinomo pavidalo raidėmis, o tos galė­
-    tų pasirodyti esančios biarmiškos. Vieną iš tokių užrašų, per­
-    pieštą Žemaitijoje nuo akmens, turėjau rankose; jame buvo
-    deramai išbrėžtos kelios biarmiškos raidės, tačiau, matyt, ne­
-    mokšiškai kopijuojant, kiti ženklai buvo sugadinti, neįmano­
-    ma buvo padaryti kokią nors išvadą, nebent įrodymą, kad gali
-    pasitaikyti atradimų, liudijančių, jog pas mus Biarmijos raidy­
-    nas buvo plačiau pažįstamas. Tiesa, ši nuomonė gali atrodyti
-    nauja, kadangi Rusijos rašytojai tą raidyną laiko XI amžiaus
-    kūriniu, tačiau mums reikėtų turėti daugiau tyrimų, o tuomet
-    galbūt įtikintume savo naudai.
-  citata_rodoma: "Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­\nkupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad\nKaraliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­\nninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko\nDavido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi\nPretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-\nbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­\nmus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo\nKristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­\nba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­\nba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­\nrokai išsamesniais paaiškinimais negu Simonas Grunau17.\n2."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-190162"></a>
@@ -103,3 +49,31 @@ Narbutas rašo, kad Gutštato kanauninkas Johanas Leo rėmėsi vyskupo Kristijon
   pagrindžia:
     - c-173045
 - susijęs iš [[objektai/autoriai/Pretorijus.md#claim-t-190333|Pretorijus]]: Narbutas teigė, kad Pretorijus, Johanas Leo ir Flenenbergeris rėmėsi vyskupo Kristijono kronika ir ankstyvesniais už Dusburgietį šaltiniais.
+## Citatos
+
+- id: c-173045
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
+    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
+    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
+    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
+    Davido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi
+    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
+    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
+    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
+    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
+    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
+    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
+    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
+    2.
+  citata_rodoma: "Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­\nkupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad\nKaraliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­\nninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko\nDavido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi\nPretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-\nbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­\nmus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo\nKristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­\nba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­\nba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­\nrokai išsamesniais paaiškinimais negu Simonas Grunau17.\n2."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

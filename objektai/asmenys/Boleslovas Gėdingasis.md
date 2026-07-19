@@ -7,15 +7,15 @@ datos:
   - '1253 m.'
 date_start: '1253'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -81,22 +81,6 @@ media_all_json: |-
   pagrindžia:
     - c-174081
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ziemovitas
-    valdė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­
-    bėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime
-    jotvingius". Be to, pagalbą atsiuntė taip pat ir Boleslovas
-    (Gėdingasis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174080
@@ -132,12 +116,11 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vakarop atvyko pasiuntiniai, vadovaujami tokio Ne-
-    biasto, kuris visos jotvingių tautos vardu prašė Danie­
-    liaus, kad šis taikiai išeitų iŠ jų žemės ir atsisakytų bend­
-    radarbiauti su lenkais. Danielius nesutiko. Naktį jotvin­
-    giai užpuolė tik lenkus, o rusinu —■ ne. Priešinamasi buvo
-    atkakliai, žiauriai, nuodėguliai krito kaip žaibai.
+    Ziemovitas
+    valdė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­
+    bėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime
+    jotvingius". Be to, pagalbą atsiuntė taip pat ir Boleslovas
+    (Gėdingasis).
   citata_rodoma: "Ziemovitas\nvaldė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­\nbėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime\njotvingius\". Be to, pagalbą atsiuntė taip pat ir Boleslovas\n(Gėdingasis)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

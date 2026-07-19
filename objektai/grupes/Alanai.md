@@ -168,12 +168,10 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   pagrindžia:
     - c-176039
 
-## Citatos
-
-- id: c-172352
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kildino ją iš žodžio, reiškiančio mūšį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     1809 metais Marijampolės apskrityje, netoli nuo kairiojo
     Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
@@ -186,6 +184,43 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
     11 colių diametro“.
     To žiedo puošyba, kurią aš kuo tiksliausiai perpiešiau, pa­
     rodyta I lentelės 1-ajame piešinyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Narbuto pasakojime 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Karingoms, nesvetingų italų pavydo ir Oresto griež­
+    tumo išgąsdintoms gentims nieko daugiau nereikėjo; 476
+    metų pradžioje visi alanai, turcilingai, gepidai, skiriai,
+    herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
+    naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
+    mas gausius būrius. Orestas, nedrįsęs atvirai pasiprie­
+    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
+    laikoma Italijos sostine. Odoakro kariuomenės apgultas
+    miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
+    tas; Orestas žuvo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-172352
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Taip galima paaiškinti tą mitologinį terminą, ir jis reikš
+    „kaulinis arės“. Be abejo, senovės tautos, dar menkai išmany-
+    damos apie metalus, vietoj kertamųjų karo ginklų vartojo ašt­
+    rius kaulus. O graikų ir alanų arės reikšmė sutampa su Marsu,
+    nuo žodžio arės -  mūšis.
   citata_rodoma: "Taip galima paaiškinti tą mitologinį terminą, ir jis reikš\n„kaulinis arės“. Be abejo, senovės tautos, dar menkai išmany-\ndamos apie metalus, vietoj kertamųjų karo ginklų vartojo ašt­\nrius kaulus. O graikų ir alanų arės reikšmė sutampa su Marsu,\nnuo žodžio arės -  mūšis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -310,16 +345,19 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
+    šios temos pagrindą.
+    303
+
+    ## Puslapis 314
+
+    317
     Karingoms, nesvetingų italų pavydo ir Oresto griež­
     tumo išgąsdintoms gentims nieko daugiau nereikėjo; 476
     metų pradžioje visi alanai, turcilingai, gepidai, skiriai,
     herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
     naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
-    mas gausius būrius. Orestas, nedrįsęs atvirai pasiprie­
-    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
-    laikoma Italijos sostine. Odoakro kariuomenės apgultas
-    miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
-    tas; Orestas žuvo.
+    mas gausius būrius.
   citata_rodoma: "1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro\nšios temos pagrindą.\n303\n\n## Puslapis 314\n\n317\nKaringoms, nesvetingų italų pavydo ir Oresto griež­\ntumo išgąsdintoms gentims nieko daugiau nereikėjo; 476\nmetų pradžioje visi alanai, turcilingai, gepidai, skiriai,\nherulai paskelbė Odoakrą savo vadu jr karaliumi. Sis\nnaujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­\nmas gausius būrius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

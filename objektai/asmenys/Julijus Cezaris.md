@@ -137,31 +137,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Dusburgietis Julijų Cezarį įtraukia į senųjų kovotojų prieš prūsus genealogiją.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgietis bando pateikti savotišką
-    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
-    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
-    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Narbutas rašo, kad Julijaus Cezario laikais lietuvių vardas buvo gerai žinomas, ir šį teiginį sieja su numizmatiniais radiniais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Julijaus Cezario laikais lietuvių var­
-    das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza
-    Wolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -170,14 +145,10 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Cezario vardas tapo pirmųjų Romos imperatorių garbės vardu, nuo II a. virto sosto
-    įpėdinių, vėliau — Romos imperatorių titulu. Romos imperatorius Gajus Julijus Cezaris
-    Germanikas, pramintas Kaligula, valdė 37—41 m. Plinijus Vyresnysis (23—79 m.) pateikia
-    žinių, kad  Nerono viešpatavimo metais (54—68 m.) gladiatorių kautynių organizatorius
-    Julijus politiniais, gal ir kariniais tikslais surengęs žygį, vadovaujamą romėnų raitelio,
-    kuris parvežęs daugybę gintaro. Manoma, kad tuomet (t. y. 7-ame m. e. dešimtmetyje)
-    romėnai pirmą kartą tiesiogiai pasiekę Baltijos pajūrį tarp Vyslos ir Nemuno žiočių bei
-    Sembą (Plinius C. Secundus.
+    Šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis
+
+      176 Gajus Julijus Cezaris (102 ar 100—44 m. pr. m. e.) —Romos valstybės veikėjas,
+    karvedys, rašytojas.
   citata_rodoma: "Šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis\n\n  176 Gajus Julijus Cezaris (102 ar 100—44 m. pr. m. e.) —Romos valstybės veikėjas,\nkarvedys, rašytojas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -193,13 +164,10 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dusburgietis, rašydamas apie lietuvių
-    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
-    prieš Lietuvą (III, 343—346, 357—358).
-    Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo
-    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
-    Prūsijoje pagrindu (II, 5, 6). Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
-    Dusburgietis vadina išdavikais.
+    Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“.
   citata_rodoma: "Dusburgietis bando pateikti savotišką\nkarų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus\nCezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei\nDobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -236,13 +204,9 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šioje srityje nuo seniausių laikų gyveno gentys, ku­
-    rias minėjo senovės geografai: stavanai, skiriat, hiriai,
-    vinidai, arba žemaičiai, neromai, naskiai, igelonai. Kiek­
-    viena jų gyveno atskiroje žemėje, nors negalime apra­
-    šyti šių žemių ribų, tačiau, apskritai pažymėję jas žemė­
-    lapyje, pereisime prie detalaus kiekvienos genties apra­
-    šymo.
+    Julijaus Cezario laikais lietuvių var­
+    das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza
+    Wolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*.
   citata_rodoma: "Julijaus Cezario laikais lietuvių var­\ndas buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza\nWolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

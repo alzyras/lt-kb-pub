@@ -13,15 +13,15 @@ datos:
   - '1264 m.'
 date_start: '1260'
 date_end: '1264'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '5'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ATraniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg'
@@ -139,22 +139,15 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 <a id="claim-t-184846"></a>
 - t-008
   teiginys: "Treniota apžiūrėjo lietuvių karius, kvietė sąjungininkų pulkus iš šiaurinės Rusios ir ilgai dvejojo, kur vesti kariuomenę."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krymas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Treniota: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krymas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Treniota\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-168207
+    - c-178794
 
 <a id="claim-t-184848"></a>
 - t-010
@@ -291,12 +284,10 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Vysla: Treniotos vadovaujami žemaičiai žygiuose Prūsuose pasiekdavo net Vyslą.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184685|Daumantas (kunigaikštis, XV a.)]]: Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.
-## Citatos
-
-- id: c-85944
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
     pilies bei miesto sugriovimą
@@ -308,6 +299,64 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
     atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
     neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais ir kitais daiktais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: '1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
+    sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
+    1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
+    aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą. Ypač glaudžiai
+    lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių
+    įėjo į Mindaugo valstybės sudėtį31.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Treniota apžiūrėjo lietuvių karius, kvietė sąjungininkų pulkus iš šiaurinės Rusios ir ilgai dvejojo, kur vesti kariuomenę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pirmiausia jis ap­
+    žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš
+    šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.
+    Prikalbino taip pat stoti į karą prieš bendrą priešą
+    rusų kunigaikščius: Kijevo — Sviatoslavą, Drucko —
+    Simeoną, Lucko bei Volynės — Dovydą, Utenį irgi
+    įspėjo apie pavojų, tačiau šis, pats įsivėlęs į karą su
+    Livonijos ordinu, nesuteikė beveik jokios pagalbos.
+    Sutelkęs kariuomenę, Treniota ilgai dvejojo, kur ją
+    vesti. Skitų pulkai, pasklidę į visas puses, smarkiai
+    siaubė Rusią; štai todėl, numatydamas įvairialypį pavo­
+    jų, draskomas prieštaringų jausmų, jis nežinojo, ko
+    imtis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-85944
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    160 (155). Apie Birgelavos pilies sugriovimą
+
+       Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas,
+    subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo
+    juos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias
+    žemes nusiaubė, grobdamas ir degindamas.
   citata_rodoma: "160 (155). Apie Birgelavos pilies sugriovimą\n\n   Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas,\nsubūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo\njuos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias\nžemes nusiaubė, grobdamas ir degindamas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -383,14 +432,10 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
-    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
-    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
-    sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
-    1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
-    aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą. Ypač glaudžiai
-    lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių
-    įėjo į Mindaugo valstybės sudėtį31.
+    Priešiškuose lietuviams
+    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160).
   citata_rodoma: "Priešiškuose lietuviams\nšaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo\nmetu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė\nOrdino užnugarį pavyslyje (III, 160)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -405,28 +450,22 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pirmiausia jis ap­
-    žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš
-    šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.
-    Prikalbino taip pat stoti į karą prieš bendrą priešą
-    rusų kunigaikščius: Kijevo — Sviatoslavą, Drucko —
-    Simeoną, Lucko bei Volynės — Dovydą, Utenį irgi
-    įspėjo apie pavojų, tačiau šis, pats įsivėlęs į karą su
-    Livonijos ordinu, nesuteikė beveik jokios pagalbos.
-    Sutelkęs kariuomenę, Treniota ilgai dvejojo, kur ją
-    vesti. Skitų pulkai, pasklidę į visas puses, smarkiai
-    siaubė Rusią; štai todėl, numatydamas įvairialypį pavo­
-    jų, draskomas prieštaringų jausmų, jis nežinojo, ko
-    imtis.
+    Kad kerštas būtų kuo didesnis, ėmė visomis išga­
+    lėmis rengtis karui: iš visos Skitijos jis surinko kur
+    kas didesnę kariuomenę, nei kada anksčiau buvo su­
+    renkama: sutelkė didžiules Užvolgio, Nogajaus, Kaza­
+    nės, Krymo ordas. Treniota negaišdamas griebėsi gink­
+    lo: jis nenorėjo nusileisti tėvui nei narsa, nei sėkme.
+    Jis sakėsi laikąs laimingu ženklu, kad sūnus vėl išve­
+    sianti į kovos lauką ta pati priežastis, kuri neseniai tė­
+    vus paskatinusi pulti vienam kitą.
   citata_rodoma: "Kad kerštas būtų kuo didesnis, ėmė visomis išga­\nlėmis rengtis karui: iš visos Skitijos jis surinko kur\nkas didesnę kariuomenę, nei kada anksčiau buvo su­\nrenkama: sutelkė didžiules Užvolgio, Nogajaus, Kaza­\nnės, Krymo ordas. Treniota negaišdamas griebėsi gink­\nlo: jis nenorėjo nusileisti tėvui nei narsa, nei sėkme.\nJis sakėsi laikąs laimingu ženklu, kad sūnus vėl išve­\nsianti į kovos lauką ta pati priežastis, kuri neseniai tė­\nvus paskatinusi pulti vienam kitą."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
-
 - id: c-168209
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -512,6 +551,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-008
     - t-015
 
 - id: c-178952

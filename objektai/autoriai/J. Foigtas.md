@@ -40,14 +40,21 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 <a id="claim-t-64625"></a>
 - t-001
   teiginys: "J. Foigtas XIX a. trečiajame dešimtmetyje ėmėsi moksliškai tirti Dusburgiečio kroniką."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> K. Hartknochas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Foigtas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "K. Hartknochas: mention_match, author, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Foigtas\" parinktas kaip owner_note_path. Targetas \"K. Hartknochas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1679 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia J. Foigto vaidmenį tyrinėjant kroniką."
   pagrindžia:
-    - c-65303
+    - c-65302
 
 <a id="claim-t-64627"></a>
 - t-002
@@ -61,15 +68,22 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 <a id="claim-t-188412"></a>
 - t-004
   teiginys: "Narbutas rašo, kad Foigtas legendą apie vyriausiuosius žynius laikė tuščiagarbio vienuolio išmone."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Foigtas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Foigtas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Foigtas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Foigtas\" parinktas kaip owner_note_path. Targetas \"Foigtas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-179116
+    - c-171302
 
 <a id="claim-t-188413"></a>
 - t-005
@@ -208,9 +222,215 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-179260
 
 ## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Teodoras Narbutas poną Foigtą vadino įžymiu autoriumi, kuris darbštumu ir talentais atskleidė kryžiuočių dokumentų bei kronikų turtingumą.'
+- c-001
+  santrauka: 'J. Foigtas XIX a. trečiajame dešimtmetyje ėmėsi moksliškai tirti Dusburgiečio kroniką.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum
+    Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas
+    XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais)85.
+    Pridėta platus įvadas ir komentarai, tiesa, atskleidžiantys visų pirma Ordino istoriją;
+    baltistiniai, lituanistiniai faktai juose paliesti žymiai mažiau ir mūsų negali patenkinti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'J. Foigtas parašė veikalą „Geschichte Preussens“.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Lietuvos istorijos momentus87. Kronika įvertinta ir lietuvių tarybinėje istoriografijoje88.
+    Liaudies Lenkijoje pasirodžiusiame specialiai Dusburgiečio kronikai skirtame M.
+    Poliakuvnos darbe išsamiai išanalizuoti kronikos šaltiniai, be kita ko, žodinė tradicija
+    ir paties kronikininko stebėjimai, teologiniai ir politiniai šio kūrinio uždaviniai ir kt.
+    klausimai89.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Narbutas Foigto „Geschichte Preussens“ nurodo kaip veikalą, kuriame iš Prūsijos kronikų išrašyti prūsiški deivių vardai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    425
+
+    ## Puslapis 425
+
+    III priedas
+    Apie deives
+    Išspausdinus pirmosios knygos antrojo skyriaus lankus, pa­
+    stebėjome, kad kai kuriuose straipsniuose apie deives praleis­
+    ti vardai, kuriais jas vadino prūsai; jų yra Prūsijos kronikose,
+    ir iš ten išrašyti Foigto veikale (Geschichte Preussens. -  B. I. -
+    S. 594). Taigi čia dedame tą papildymą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Narbutas rašo, kad Foigtas legendą apie vyriausiuosius žynius laikė tuščiagarbio vienuolio išmone.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    būti tariama Mergo; Henenbergerio Ronis yra Romais - visiš­
+    kai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­
+    tuvoje daugelyje vietovardžių - Balčiai (Bolcie), Baltininkai
+    (Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas
+    visiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,
+    Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
+    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
+    tuva kilties ir vienos genties broliai?
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Johanas Foigtas buvo Karaliaučiaus universiteto profesorius ir daugiatomės „Prūsijos istorijos“ autorius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šiuos savo taisymus
+    T. Narbutas aiškino tuo, kad ankstesnis, tai yra 1817
+    metų, vokiško teksto šifruotojas datas klaidingai
+    perskaitęs (Narbutt T. Dzieje. - T. I. - S. 229. - Przy-
+    pis 1), bet tuo sunku patikėti, nes J. F. R. (Rivijaus)
+    kronikos rankraštyje bent jau metų datos yra visiš­
+    kai aiškios, lengvai įskaitomos (Rimanto Jaso pa­
+    aiškinimas).
+    P. 273* - Išnaša, kuria autorius papildė paragrafą, rengda­
+    mas antrąjį LTI leidimą (PEĮ.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-008
+  santrauka: 'Teodoras Narbutas IV priede pateikė Foigto surinktas žinias apie senovės Prūsijos provincijas, kokias jas XIII a. pradžioje rado kryžiuočiai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    342
+
+    ## Puslapis 353
+
+    *■ *  *
+    IV priedas
+    S e n o v ė s  P rū sijo s
+    g e o g r a fija
+    Ištrauka iš Foigto
+    (Gesch. Preuss. B. I. S. 476—510)
+    Nors aprašėme atskiras senovės Prūsijos provincijas,
+    tačiau, kadangi puikus šios tautos istorijos išmanymas
+    padeda geriau pažinti tautos istoriją, ne pro šalį bus pa­
+    teikti čia geografinius, statistinius ir istorinius visų pro­
+    vincijų aprašymus, kai jas XIII amžiaus pradžioje rado
+    kryžiuočiai, bent tam, kad supažindintume mūsų skaity­
+    tojus su tomis žiniomis, kurias surinko mokslininkas is­
+    torikas ponas Foigtas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-010
+  santrauka: 'Teodoras Narbutas Foigto tvirtovės vietos tyrimą laikė kiek klaidingu ir tvirtovę siejo su sena piliaviete prie Pilkalnio kaimo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Bet panašiau
+    į tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į
+    pietryčius nuo Kraupiškių kaimo, netoli Įsros upės, kur
+    esama tvirtovės pėdsakų ant kalno prie Ząsupėnų kaimo;
+    tai labiau primena šį pavadinimą, nors ši vieta, mūsų
+    nuomone, priklauso Nadruvai. Pono Foigto tyrimas yra
+    kiek klaidingas. Aš pats lankiausi čia, tad aprašau tiks­
+    liau: važiuojant iš Gumbinės medžiais apsodintu vieš­
+    keliu per Brakupėnus ir Maltviškės į Ragainę, per pusę
+    prūsų mylios iki Maltviškių, iš Dubinu kaimo nesikeliant
+    per Eimenio upelį, važiuojama kairiąja šio upelio pakran­
+    te ir tuojau prie Pilkalnio kaimo galima pastebėti seną
+    piliavietę; nuo čia už kelių šimtų sieksnių yra Ząsupėnų
+    kaimas, prie kurio nėra nieko, kas primintų tvirtovę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-65302
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83.
+  citata_rodoma: "Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
+
+- id: c-65303
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    83 Voigt J. Geschichte Preussens, B. 3, S. 603—626.
+  citata_rodoma: "83 Voigt J. Geschichte Preussens, B. 3, S. 603—626."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-171302
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
+    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
+    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
+    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
+    argumentų, vien kaip savo paties abejonę.
+  citata_rodoma: "Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­\nda apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­\nnuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra\npaimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas\nargumentų, vien kaip savo paties abejonę."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-171303
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    P. 258** -  Johano Foigto -  Karaliaučiaus universiteto profe­
+    soriaus, istoriko, kryžiuočių Slaptojo archyvo tyri­
+    nėtojo, parašiusio daugiatomę „Prūsijos istoriją“
+    {Voigt Johann. Geschichte Preussens. -  B. I-IX. -
+    Königsberg, 1827-1839) veikalai buvo vieni daž­
+    niausiai cituojamų darbų T. Narbuto LTI.
+  citata_rodoma: "P. 258** -  Johano Foigto -  Karaliaučiaus universiteto profe­\nsoriaus, istoriko, kryžiuočių Slaptojo archyvo tyri­\nnėtojo, parašiusio daugiatomę „Prūsijos istoriją“\n{Voigt Johann. Geschichte Preussens. -  B. I-IX. -\nKönigsberg, 1827-1839) veikalai buvo vieni daž­\nniausiai cituojamų darbų T. Narbuto LTI."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-173609
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Mokytos plunksnos dirbo ir dabar
     darbuojas i prie jų istorijos: Kocebus* parašė senovės
@@ -230,14 +450,17 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     Be to, Rusijos valstybės vakarinėse vokiečių gubernijose
     steigiasi draugijos, pluša mokslininkai, žadėdami naujų
     šiaurinių kraštų istorijos vaisių.
-  citata_rodoma: ''
+  citata_rodoma: "Mokytos plunksnos dirbo ir dabar\ndarbuojas i prie jų istorijos: Kocebus* parašė senovės\nPrūsų istoriją, pelniusią didelį pripažinimą; mokslingasis\nponas Foi'gtas** baigia išleisti paskutinius pilnos tos\npačios istorijos tomus, kurių bus astuoni; šis visiškai už­\nbaigtas veikalas savo verte pranoksta visus lig tol žino­\nmus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­\nnikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie\nšaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­\nnovės tyrėjai netgi padarė išsamiai ir tvarkingai surink­\ntų, reikalingų ištraukų atsargas, o ponas Foigtas pats\nnepaprastu savo darbštumu, genialumu ir talentais at­\nskleidė jų turtingumą ir parodė retą jų panaudojimo pa­\nvyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų\nir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.\nBe to, Rusijos valstybės vakarinėse vokiečių gubernijose\nsteigiasi draugijos, pluša mokslininkai, žadėdami naujų\nšiaurinių kraštų istorijos vaisių."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-007
-  santrauka: 'Foigto ištraukoje teigiama, kad Aistmarės išsiplėtė į rytus, o tarp senos Baigos pilies ir Piliavos anksčiau buvo gyvenama sausuma.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- id: c-173610
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     333
 
@@ -259,189 +482,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     ir Piliavos miesto viską dengia marių vandenys, anks­
     tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
     nėra naujas teiginys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-010
-  santrauka: 'Teodoras Narbutas Foigto tvirtovės vietos tyrimą laikė kiek klaidingu ir tvirtovę siejo su sena piliaviete prie Pilkalnio kaimo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Bet panašiau
-    į tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į
-    pietryčius nuo Kraupiškių kaimo, netoli Įsros upės, kur
-    esama tvirtovės pėdsakų ant kalno prie Ząsupėnų kaimo;
-    tai labiau primena šį pavadinimą, nors ši vieta, mūsų
-    nuomone, priklauso Nadruvai. Pono Foigto tyrimas yra
-    kiek klaidingas. Aš pats lankiausi čia, tad aprašau tiks­
-    liau: važiuojant iš Gumbinės medžiais apsodintu vieš­
-    keliu per Brakupėnus ir Maltviškės į Ragainę, per pusę
-    prūsų mylios iki Maltviškių, iš Dubinu kaimo nesikeliant
-    per Eimenio upelį, važiuojama kairiąja šio upelio pakran­
-    te ir tuojau prie Pilkalnio kaimo galima pastebėti seną
-    piliavietę; nuo čia už kelių šimtų sieksnių yra Ząsupėnų
-    kaimas, prie kurio nėra nieko, kas primintų tvirtovę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-011
-  santrauka: 'Nagrinėdamas Tacito geografiją, J. Foigtas nustatė Narbuto aptariamos Estijos padėtį kaimyninių kraštų atžvilgiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Siame gana aiš­
-    kiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad
-    jis turėjo žinių apie lietuvių tautą1, kurią stengėsi apra­
-    šyti vadindamas estais. Išnagrinėjęs Tacito geografiją,
-    naujųjų laikų prūsų istorikas nustatė šią Estijos padėtį
-    kaimyninių kraštų atžvilgiu2 3. Į Vakarus nuo dešiniojo
-    1 Thunmann.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-65302
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum
-    Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas
-    XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais)85.
-    Pridėta platus įvadas ir komentarai, tiesa, atskleidžiantys visų pirma Ordino istoriją;
-    baltistiniai, lituanistiniai faktai juose paliesti žymiai mažiau ir mūsų negali patenkinti.
-  citata_rodoma: "Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
-- id: c-65303
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Lietuvos istorijos momentus87. Kronika įvertinta ir lietuvių tarybinėje istoriografijoje88.
-    Liaudies Lenkijoje pasirodžiusiame specialiai Dusburgiečio kronikai skirtame M.
-    Poliakuvnos darbe išsamiai išanalizuoti kronikos šaltiniai, be kita ko, žodinė tradicija
-    ir paties kronikininko stebėjimai, teologiniai ir politiniai šio kūrinio uždaviniai ir kt.
-    klausimai89.
-  citata_rodoma: "83 Voigt J. Geschichte Preussens, B. 3, S. 603—626."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-171302
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    būti tariama Mergo; Henenbergerio Ronis yra Romais - visiš­
-    kai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­
-    tuvoje daugelyje vietovardžių - Balčiai (Bolcie), Baltininkai
-    (Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas
-    visiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,
-    Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
-    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
-    tuva kilties ir vienos genties broliai?
-  citata_rodoma: "Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­\nda apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­\nnuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra\npaimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas\nargumentų, vien kaip savo paties abejonę."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-171303
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šiuos savo taisymus
-    T. Narbutas aiškino tuo, kad ankstesnis, tai yra 1817
-    metų, vokiško teksto šifruotojas datas klaidingai
-    perskaitęs (Narbutt T. Dzieje. - T. I. - S. 229. - Przy-
-    pis 1), bet tuo sunku patikėti, nes J. F. R. (Rivijaus)
-    kronikos rankraštyje bent jau metų datos yra visiš­
-    kai aiškios, lengvai įskaitomos (Rimanto Jaso pa­
-    aiškinimas).
-    P. 273* - Išnaša, kuria autorius papildė paragrafą, rengda­
-    mas antrąjį LTI leidimą (PEĮ.
-  citata_rodoma: "P. 258** -  Johano Foigto -  Karaliaučiaus universiteto profe­\nsoriaus, istoriko, kryžiuočių Slaptojo archyvo tyri­\nnėtojo, parašiusio daugiatomę „Prūsijos istoriją“\n{Voigt Johann. Geschichte Preussens. -  B. I-IX. -\nKönigsberg, 1827-1839) veikalai buvo vieni daž­\nniausiai cituojamų darbų T. Narbuto LTI."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
-- id: c-173609
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Be to, Rusijos valstybės vakarinėse vokiečių gubernijose
-    steigiasi draugijos, pluša mokslininkai, žadėdami naujų
-    šiaurinių kraštų istorijos vaisių. Taip pat dar daug rei­
-    kia nuveikti tiriant lietuvių tautos istoriją, ypač epochas,
-    esančias arčiau lopšio, visų pirma dėl stygiaus atskleistų
-    paminklų, kurie galėtų padėti tyrėjui. Todėl vieni tiesiog
-    priimdavo kronikininkų geriau išdėstytas išvadas apie
-    tautos ištakas, kiti, priblokšti tų išvadų netailklumo, siūlė
-    vargais negalais suregztas savąsias, o dar kiti su tikrai
-    pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
-    mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
-    tuvos istoriją toliau XIII amžiaus1. Juk senesnės kroni­
-    kininkų žinios apie lietuvių gentis nepagrįstai laikytos
-    išmone: jie sėmėsi žinių iš dabar pražuvusių kronikų, ku­
-    rių padavimai ir senovės šaltinių liekanos buvo ne tokie
-    seni. O tai, kad jose būta ne vien pasakų, kas dieną įti­
-    kina vis nauji atradimai; pats puikus lietuvių kalbos ži­
-    novas ir savo surinktų giesmių leidėjas ponas Rėza***,
-    kurio šviesa tiek daug pasinaudojome ankstesniame to-
-    1 Hlebovičiaus „Vytauto gyvenimas“.
-  citata_rodoma: "Mokytos plunksnos dirbo ir dabar\ndarbuojas i prie jų istorijos: Kocebus* parašė senovės\nPrūsų istoriją, pelniusią didelį pripažinimą; mokslingasis\nponas Foi'gtas** baigia išleisti paskutinius pilnos tos\npačios istorijos tomus, kurių bus astuoni; šis visiškai už­\nbaigtas veikalas savo verte pranoksta visus lig tol žino­\nmus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­\nnikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie\nšaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­\nnovės tyrėjai netgi padarė išsamiai ir tvarkingai surink­\ntų, reikalingų ištraukų atsargas, o ponas Foigtas pats\nnepaprastu savo darbštumu, genialumu ir talentais at­\nskleidė jų turtingumą ir parodė retą jų panaudojimo pa­\nvyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų\nir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.\nBe to, Rusijos valstybės vakarinėse vokiečių gubernijose\nsteigiasi draugijos, pluša mokslininkai, žadėdami naujų\nšiaurinių kraštų istorijos vaisių."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-173610
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    * * *
-    III priedas
-    A p ie d in g u s į
-    Vitiem dijos k ra štą
-    Ištrauka iš Foigto
-    (Gesch. Preuss. B. I. S. 677)
-    Tai,
-    kad
-    Aistmarės1
-    gerokai
-    išplėtė savo
-    plotą,
-    ypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies
-    ir Piliavos miesto viską dengia marių vandenys, anks­
-    tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
-    nėra naujas teiginys. Dar kronikininkas Lukas Davidas
-    (t. IT.
   citata_rodoma: "333\n\n## Puslapis 344\n\n*  *  *\nIII priedas\nA p ie  d in g u s į\nVitiem dijos k ra štą\nIštrauka iš Foigto\n(Gesch. Preuss. B. I. S. 677)\nTai,\nkad\nAistmarės1\ngerokai\nišplėtė savo\nplotą,\nypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies\nir Piliavos miesto viską dengia marių vandenys, anks­\ntesniais laikais buvo gyvenama sausuma, jokiais požiūriais\nnėra naujas teiginys."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -504,17 +544,13 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Apie estus nėra žinių nuo Tacito
-    laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
-    tijos jūros pakrančių gyventojais, kurie prekiavo gintaru
-    ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,
-    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
-    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
-    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
-    riko įtaką Europos vakaruose gyvenančioms tautoms ir
-    gentims, sako: „Turbūt tas pats karalius Germanarikas
-    savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
-    kraštą ir pavergė estų tautą“4.
+    Siame gana aiš­
+    kiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad
+    jis turėjo žinių apie lietuvių tautą1, kurią stengėsi apra­
+    šyti vadindamas estais. Išnagrinėjęs Tacito geografiją,
+    naujųjų laikų prūsų istorikas nustatė šią Estijos padėtį
+    kaimyninių kraštų atžvilgiu2 3. Į Vakarus nuo dešiniojo
+    1 Thunmann.
   citata_rodoma: "Siame gana aiš­\nkiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad\njis turėjo žinių apie lietuvių tautą1, kurią stengėsi apra­\nšyti vadindamas estais. Išnagrinėjęs Tacito geografiją,\nnaujųjų laikų prūsų istorikas nustatė šią Estijos padėtį\nkaimyninių kraštų atžvilgiu2 3. Į Vakarus nuo dešiniojo\n1 Thunmann."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -546,7 +582,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-012
 
 - id: c-179259

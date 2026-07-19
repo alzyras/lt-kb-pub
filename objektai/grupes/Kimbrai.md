@@ -114,49 +114,6 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
 - susijęs iš M. Strijkovskio kronika: Teodoras Narbutas rašo, kad Strijkovskis savo kronikoje rėmėsi istoriniais šaltiniais, kuriais patvirtino aptariamą pasakojimą.
 - susijęs iš Ilyrija: Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakrančių į Ilyriją, kur jie prie Nortbėjos kariavo su romėnais.
 - susijęs iš Karaliaučius: Narbutas rašo, kad Strijkovskis, būdamas Karaliaučiuje, tikriausiai turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    49
-
-    ## Puslapis 47
-
-    krantų buvusios salos, dalis sausumos nusileido arba vir­
-    to kyšuliais, upių žiotys pakeitė savo kryptis, užtvino pa­
-    krantės ir atsirado šiuos pokyčius lydinčių aplinkybių1.
-    Savaime suprantama, tokia didžiulė nelaimė turėjusi iš­
-    stumti tuometinius Baltijos jūros pakrančių gyventojus,
-    kurie buvo kimbrai, iš jų gyvenamųjų vietų. Tai ir pri­
-    vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net
-    Ilyrijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Narbutas, remdamasis Herodotu ir senovės tyrinėtojais, kimbrus laiko kadaise Prūsijoje viešėjusia gentimi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    51
-
-    ## Puslapis 49
-
-    sykį sakė, jog šio istoriko tikroviškumas yra tikrai isto­
-    rinis. Mes, sekdami Herodoto žodžiais ir remdamiesi se­
-    novės tyrinėtojų išvadomis, laikome kimbrus kitados Prū­
-    sijoje viešėjusia gentimi, net galėjusia palikti savo kal­
-    bos ir susigiminiavimo su pirmykščiais mūsų Baltijos jū­
-    ros pakrančių gyventojais paminklų. Savo pavadinimą
-    jie įamžino iki šiol išlikusiose pavardėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-175702
@@ -187,21 +144,18 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai, kad įvai­
-    riose Prūsų krašto dalyse ir visoje pakrantėje net iki
-    Dauguvos ir toliau daug kartų būta geografinių-fizinių
-    pokyčių, pasakoja padavimai ir rodo faktai: pradingo sa­
-    los arba jos susijungė su sausuma, kitos sausumos dalys
-    atitrūko ir nuskendo. Vienur krantai nusileido, kitur —
-    pakilo. Jūra retsykiais išmeta likučių vynuogienojų, ki­
-    tados gal augusių netoli buvusiose salose; kitur, gana
-    toli nuo jūros, po sąnašų žemės sluoksniu aptinkama in­
-    karų ir laivų liekanų; daugelyje vietų prie jūros po ge­
-    ležies dalelių prisodrintu smėlio sluoksniu pasitaiko juo­
-    do augalinio dirvožemio, o jame esti didžiulių, iki 80
-    pėdų ilgio, medžių be šerdžių, šakų, ataugų, rievių, ro­
-    dančių augalų amžių, iš dalies prisisunkusių sieros rūgš­
-    ties, bet nesuakmenėjusių.
+    49
+
+    ## Puslapis 47
+
+    krantų buvusios salos, dalis sausumos nusileido arba vir­
+    to kyšuliais, upių žiotys pakeitė savo kryptis, užtvino pa­
+    krantės ir atsirado šiuos pokyčius lydinčių aplinkybių1.
+    Savaime suprantama, tokia didžiulė nelaimė turėjusi iš­
+    stumti tuometinius Baltijos jūros pakrančių gyventojus,
+    kurie buvo kimbrai, iš jų gyvenamųjų vietų. Tai ir pri­
+    vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net
+    Ilyrijoje.
   citata_rodoma: "49\n\n## Puslapis 47\n\nkrantų buvusios salos, dalis sausumos nusileido arba vir­\nto kyšuliais, upių žiotys pakeitė savo kryptis, užtvino pa­\nkrantės ir atsirado šiuos pokyčius lydinčių aplinkybių1.\nSavaime suprantama, tokia didžiulė nelaimė turėjusi iš­\nstumti tuometinius Baltijos jūros pakrančių gyventojus,\nkurie buvo kimbrai, iš jų gyvenamųjų vietų. Tai ir pri­\nvertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net\nIlyrijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -216,20 +170,20 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Italijoje, netoli Veronos, slėnyje tarp
-    Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių
-    senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa­
-    garsėjo pergale prieš konsulą Scipioną 169 metais prieš
-    Kristaus gimimą. Švedų autorius Biorntelis (Bornthel)
-    mano dabar esant iki 60 000 jų gyventojų. Tai lyg ir la­
-    bai besiskiriantys nuo kitų tenykščių gyventojų žmonės,
-    išsaugoję daug smulkmenų, įrodančių jų seną kilmę. Ve­
-    necijos senatorius Morosinis turi knygą, aiškinančią jų
-    kalbą ir kilmę1.
+    51
+
+    ## Puslapis 49
+
+    sykį sakė, jog šio istoriko tikroviškumas yra tikrai isto­
+    rinis. Mes, sekdami Herodoto žodžiais ir remdamiesi se­
+    novės tyrinėtojų išvadomis, laikome kimbrus kitados Prū­
+    sijoje viešėjusia gentimi, net galėjusia palikti savo kal­
+    bos ir susigiminiavimo su pirmykščiais mūsų Baltijos jū­
+    ros pakrančių gyventojais paminklų. Savo pavadinimą
+    jie įamžino iki šiol išlikusiose pavardėse.
   citata_rodoma: "51\n\n## Puslapis 49\n\nsykį sakė, jog šio istoriko tikroviškumas yra tikrai isto­\nrinis. Mes, sekdami Herodoto žodžiais ir remdamiesi se­\nnovės tyrinėtojų išvadomis, laikome kimbrus kitados Prū­\nsijoje viešėjusia gentimi, net galėjusia palikti savo kal­\nbos ir susigiminiavimo su pirmykščiais mūsų Baltijos jū­\nros pakrančių gyventojais paminklų. Savo pavadinimą\njie įamžino iki šiol išlikusiose pavardėse."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

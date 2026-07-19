@@ -87,6 +87,32 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas.md#claim-t-185510|Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]: Po derybų Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
 - susijęs iš Krėva: Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį liepė nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
 - susijęs iš Krėva: Kojelavičiaus pasakojime sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau buvo atvykę į Krėvą.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai
+    jį vežė iš Vilniaus į Krėvą, jam rodė karališką pagar­
+    bą; čia irgi buvo laikomas nelyginant karalius, tik
+    nuolatos saugomas budrios sargybos, kuri neleido nei
+    su artimaisiais pasimatyti, nei su kuo pasikalbėti. Lais­
+    vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­
+    va valia nutarusi dalytis su vyru likimo užkrautais var­
+    gais, čia jį ir palydėjo su dviem mergaitėmis. Ši
+    aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
+    vę: dažnai juk likimą lemia menkų menkiausios prie­
+    žastys. Vienas sargybinis kar­
+    tą įspėjo Oną, jog Vytautui
+    gresianti mirtis, pridurdamas,
+    kad Jogailos siųsti budeliai
+    jau atvyko į Krėvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-168741
@@ -131,21 +157,19 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai
-    jį vežė iš Vilniaus į Krėvą, jam rodė karališką pagar­
-    bą; čia irgi buvo laikomas nelyginant karalius, tik
-    nuolatos saugomas budrios sargybos, kuri neleido nei
-    su artimaisiais pasimatyti, nei su kuo pasikalbėti. Lais­
-    vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­
-    va valia nutarusi dalytis su vyru likimo užkrautais var­
-    gais, čia jį ir palydėjo su dviem mergaitėmis. Ši
+    Ši
     aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
     vę: dažnai juk likimą lemia menkų menkiausios prie­
     žastys. Vienas sargybinis kar­
     tą įspėjo Oną, jog Vytautui
     gresianti mirtis, pridurdamas,
     kad Jogailos siųsti budeliai
-    jau atvyko į Krėvą.
+    jau atvyko į Krėvą. Žmona
+    apie viską pranešė vyrui ir
+    patarė apsirengus merginos drabužiais apgauti sargy­
+    binius ir pasprukti iš priešo rankų ir nuo tikros mir­
+    ties: draugai jau, girdi, parūpinę visko, kas reikalinga
+    bėgliui.
   citata_rodoma: "Ši\naplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­\nvę: dažnai juk likimą lemia menkų menkiausios prie­\nžastys. Vienas sargybinis kar­\ntą įspėjo Oną, jog Vytautui\ngresianti mirtis, pridurdamas,\nkad Jogailos siųsti budeliai\njau atvyko į Krėvą. Žmona\napie viską pranešė vyrui ir\npatarė apsirengus merginos drabužiais apgauti sargy­\nbinius ir pasprukti iš priešo rankų ir nuo tikros mir­\nties: draugai jau, girdi, parūpinę visko, kas reikalinga\nbėgliui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

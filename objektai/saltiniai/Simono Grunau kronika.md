@@ -10,13 +10,13 @@ datos:
   - '1699 m.'
 date_start: '1500'
 date_end: '1699'
-amziai:
-  - 'XV'
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XV'
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Simono Grunau kronika
 
 ## Santrauka
@@ -89,7 +90,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 <a id="claim-t-193060"></a>
 - t-008
   teiginys: "Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Prūsija: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -145,39 +146,29 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     - c-175826
 
 ## Reikšmingi paminėjimai
-- c-002
+- c-005
+  santrauka: 'Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Grunau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui, taip pat turėdami omenyje kronikininkams būdingus trūku mus, negalime neginti Grunau15.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
-    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
+    432
+
+    ## Puslapis 432
+
+    tinių lobį ir ne bet kokiais motyvais sugundomas pataikauti
+    net tiems, kurių valdomas gyveno ir kurių paramos sulauk­
+    davo.
+    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
+    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
+    taip pat turėdami omenyje kronikininkams būdingus trūku­
+    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
+    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
+    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
+    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
-    žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
-    ninkų pranešimais ir savo paties duomenimis. Kronikininkas
-    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
-    patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
-    kūnui, kad tos apeigos neišduosiąs vyskupui.
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-175825
@@ -243,14 +234,12 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    lietuvių liudijimo būdas su užkeikimu arba priesaika. Žino­
-    mai gero elgesio ir pasitikėjimo vertas liudytojas dėdavo savo
-    kepurę ant stalo priešais teisėją ir sakydavo: „Kaip aš tą kepu­
-    rę atiduodu į tavo rankas, taip esu pasirengęs atiduoti savo
-    galvą, laiduodamas, kad mano liudijimas yra sąžiningas“. Šie
-    paprasti žodžiai, kupini nuoširdaus išpažinimo ir ryžtingai ra­
-    ginantys pasitikėti, yra senųjų lietuvių būdo bruožas; jiems liu­
-    dytojo sąžiningumas buvo ne žaislas.
+    Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
+    žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
+    ninkų pranešimais ir savo paties duomenimis. Kronikininkas
+    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
+    patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
+    kūnui, kad tos apeigos neišduosiąs vyskupui.
   citata_rodoma: "Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­\nžintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­\nninkų pranešimais ir savo paties duomenimis. Kronikininkas\nGrunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai\npatekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­\nkūnui, kad tos apeigos neišduosiąs vyskupui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

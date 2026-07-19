@@ -61,10 +61,12 @@ Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui. Narbutas kriti
   pagrindžia:
     - c-173257
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-173256
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
     herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­
@@ -74,31 +76,6 @@ Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui. Narbutas kriti
     kė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu
     šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
     nomas ir Neseckiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173256
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Apžiūrėkime kai kuriuos, perpieštus iš senovinių dokumen­
-    tų. O kadangi kiekvienoje sutartyje būdavo rašoma, kas pri­
-    dėjo savo antspaudą arba kas pasirašė prie antspaudo, iš to
-    galima šį tą spėti apie taip besivadinančios giminės fetišą arba
-    sužinoti jos lietuvišką herbą.
-    IV
-    lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;
-    iš jų a prispaudė Čeplė (Czapla) 1541 metais; b - Valatkevi-
-    čius (Wotodkiewicz) 1513 metais; c - Skiparas (Skipor) 1483
-    metais; d - Pašičius (Paszyc) 1510 metais; e - Stecevičius (Ste-
-    cewicz) 1609 m etais;/- Zubas (Zub) 1480 metais; g - Rekstys
-    (Rexč) 1481 metais;/?
   citata_rodoma: "Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų\nherbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­\nsų heraldikos specialistus lenkus visuomet užgula didelis rū­\n10\nŽinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­\nkė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu\nšaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­\nnomas ir Neseckiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

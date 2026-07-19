@@ -27,48 +27,6 @@ media_all_json: |-
 
 Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis Hadingas maldavęs pagalbos per jūros audrą.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis Hadingas maldavęs pagalbos per jūros audrą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Skaityk apie jį žemiau,
-    straipsnyje „Žyniai“.
-    Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
-    pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­
-    ralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs
-    daug laivų, maldavo jo malonės juodosiomis aukomis, ką se­
-    novės švedai vadinoFroblosk, auka dievui Fra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172181
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Poklius viešai pasi­
-    rodydavo namuose; tai būdavo tikra dievų rūstybės, būsimų
-    namų bei gyventojų vargų ir nelaimių pranašystė. Dievui apsi­
-    reiškus antrą kartą, reikėdavo atnašauti dvigubą išperkamąją
-    auką. Jeigu to neužtekdavo, Poklius siaubingiausiu būdu pa­
-    sirodydavo trečią kartą. Tuomet kildavo neapsakomas išgąs­
-    tis, nepaprasta baimė dėl greito rūstaus dievų keršto apimda­
-    vo šeimininką, namiškius ir kaimynus.
-  citata_rodoma: "Skaityk apie jį žemiau,\nstraipsnyje „Žyniai“.\nTą patį dievą skandinavai vadina Pro, taip pat Dievų satra­\npu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­\nralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs\ndaug laivų, maldavo jo malonės juodosiomis aukomis, ką se­\nnovės švedai vadinoFroblosk, auka dievui Fra."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189293"></a>
@@ -90,3 +48,26 @@ Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172181
+
+## Citatos
+
+- id: c-172181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Skaityk apie jį žemiau,
+    straipsnyje „Žyniai“.
+    Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
+    pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­
+    ralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs
+    daug laivų, maldavo jo malonės juodosiomis aukomis, ką se­
+    novės švedai vadinoFroblosk, auka dievui Fra.
+  citata_rodoma: "Skaityk apie jį žemiau,\nstraipsnyje „Žyniai“.\nTą patį dievą skandinavai vadina Pro, taip pat Dievų satra­\npu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­\nralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs\ndaug laivų, maldavo jo malonės juodosiomis aukomis, ką se­\nnovės švedai vadinoFroblosk, auka dievui Fra."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

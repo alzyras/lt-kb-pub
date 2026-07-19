@@ -73,16 +73,6 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   pagrindžia:
     - c-177632
 
-<a id="claim-t-195267"></a>
-- t-003
-  teiginys: "Mikelio veikla pasakojime siejama su 1858 m. blaivybės metais."
-  atnaujinta: "2026-07-12 01:06"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177630
-
 ## Citatos
 
 - id: c-177630
@@ -91,33 +81,21 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   puslapiai: "p. 40 (PDF 38)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 40 (PDF 38)."
   citata_originali: |
-    Skolas atsiimdavo pabiraudamas, vadinasi, Mikelis pas sko­
-    lininką ateidavo vežant rugius ir prisišluodavo iš klojimo pabirų. Deg­
-    tinės nelaikė, nes jos nieks negėrė.
-    Buvo tai blaivybės metai, paskelb­
-    ti vyskupo Motiejaus Valančiaus, tai 1858 metai.
+    Buvo tai blaivybės metai, paskelb­ti vyskupo Motiejaus Valančiaus, tai 1858 metai.
   citata_rodoma: "Buvo tai blaivybės metai, paskelb­ti vyskupo Motiejaus Valančiaus, tai 1858 metai."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-177631
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 40 (PDF 38)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 40 (PDF 38)."
   citata_originali: |
-    Mikelis nuomos mokėjo dešimtį rublių ir atbuvinėjo de­
-    šimtį dienų, samdydamas našlę Rudokienę, mokėdamas po penkioliką
-    kapeikų (po auksiną) dienai.
-    Sulyginus su Juškos mokesčiu, Mikelis
-    už butą mokėjo daugiau kaip antra tiek.
-    Jo verslas buvo nešioti sil­
-    kes ir buikas po aplinkinius kaimus.
+    Jo verslas buvo nešioti sil­kes ir buikas po aplinkinius kaimus.
   citata_rodoma: "Jo verslas buvo nešioti sil­kes ir buikas po aplinkinius kaimus."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
@@ -133,12 +111,7 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   puslapiai: "p. 40 (PDF 38)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 40 (PDF 38)."
   citata_originali: |
-    Svarbiam reikalui esant laiškus siųsdavo per
-    pažįstamą žmogų.
-    Tai pasitaikydavo retai.
-    Antras nuomininkas buvo žydas, Mikelis,
-    jis turėjo pačią ir ne­
-    maža vaikų.
+    Antras nuomininkas buvo žydas, Mikelis, jis turėjo pačią ir ne­maža vaikų.
   citata_rodoma: "Antras nuomininkas buvo žydas, Mikelis, jis turėjo pačią ir ne­maža vaikų."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"

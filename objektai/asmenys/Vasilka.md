@@ -9,15 +9,15 @@ datos:
   - '1247 m.'
 date_start: '1247'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,30 +50,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169530
-
-<a id="claim-t-190995"></a>
-- t-002
-  teiginys: "1247 m. kunigaikštis Vasilka prie Drohičino pasivijo jotvingius ir, Narbuto pasakojimu, kruviname mūšyje iškovojo pergalę."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Jotvingiai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasilka: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kontekstas nurodo mūšį su jotvingiais, kuriame Vasilka laimėjo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Vasilka kariavo prieš Jotvingiai (0.90)"
-  temporaliniai_duomenys: "mūšio data: 1247 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vasilka kariavo prieš Jotvingiai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas iki Vasilkos veiksmo, vietos, datos ir rezultato, pašalinant perteklinį maršruto aprašymą. Pergalės vertinimas paliktas su Narbuto pasakojimo atribucija."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-173877
 
 <a id="claim-t-190996"></a>
 - t-003
@@ -141,6 +117,34 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - susijęs iš Haličas: Po pergalės prie Drohičino kunigaikštis Vasilka daug belaisvių jotvingių pasiuntė į Haličą savo broliui.
 - susijęs iš Prūsija: Narbutas rašo, kad 1253 metų pradžioje kryžiuočiai, sustiprinę saugumą nuo Vyslos pusės, ėmė siekti užkariauti Prūsiją.
 - susijęs iš Voluinės Vladimiras: 1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino.
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Neilgai trukus, Vladimiro kunigaikštis Levas atsiun tė savo broliui Vasilkai [žinią], kad norįs su juo pasi matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat pas juos atvažiuotų pasitarti.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir įsakė savo sūnui, kad po jo mirties visi Lietuvos
+    kunigaikščiai ir žymiausi bajorai būtų deginami toje
+    vietoje, kur jis bus sudegintas, ir kad jau niekur kitur
+    mirusiųjų palaikai nebūtų deginami, tiktai ten, nes iki
+    tol mirusiųjų kūnus degindavo toje vietoje, kur kas
+    būdavo miręs. Davęs tais žodžiais paliepimą savo sū­
+    nui Skirmantui, didysis kunigaikštis Šventaragis ir
+    mirė.
+    Po savo tėvo valdyti Didžiąją Lietuvos ir Žemaičių
+    ir Rusų Kunigaikštystę liko didysis kunigaikštis Skir­
+    mantas.
+    Ir pagal savo tėvo įsakymą toje vietoje, Vilnios
+    žiotyse, kur ji įteka į Nerį, įtaisė ugniavietę, ir ten sa­
+    vo tėvo kūną sudegino, ir jo žirgą, ant kurio jodinėda­
+    vo, ir jo drabužius, kuriais vilkėdavo, ir jo mylimą
+    vergą, kuriam jis buvo malonus, ir sakalą, ir jo kurtą
+    sudegino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169530
@@ -200,7 +204,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-008
 
 - id: c-173878
@@ -228,23 +231,16 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir įsakė savo sūnui, kad po jo mirties visi Lietuvos
-    kunigaikščiai ir žymiausi bajorai būtų deginami toje
-    vietoje, kur jis bus sudegintas, ir kad jau niekur kitur
-    mirusiųjų palaikai nebūtų deginami, tiktai ten, nes iki
-    tol mirusiųjų kūnus degindavo toje vietoje, kur kas
-    būdavo miręs. Davęs tais žodžiais paliepimą savo sū­
-    nui Skirmantui, didysis kunigaikštis Šventaragis ir
-    mirė.
-    Po savo tėvo valdyti Didžiąją Lietuvos ir Žemaičių
-    ir Rusų Kunigaikštystę liko didysis kunigaikštis Skir­
-    mantas.
-    Ir pagal savo tėvo įsakymą toje vietoje, Vilnios
-    žiotyse, kur ji įteka į Nerį, įtaisė ugniavietę, ir ten sa­
-    vo tėvo kūną sudegino, ir jo žirgą, ant kurio jodinėda­
-    vo, ir jo drabužius, kuriais vilkėdavo, ir jo mylimą
-    vergą, kuriam jis buvo malonus, ir sakalą, ir jo kurtą
-    sudegino.
+    Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­
+    tė savo broliui Vasilkai [žinią], kad norįs su juo pasi­
+    matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat
+    pas juos atvažiuotų pasitarti.
+    Ir Haličo kunigaikštis Vasilka kvietė Vaišvilką,
+    kad jis ten pat pas juos atvyktų ir susitiktų su jais.
+    Vaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­
+    taikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo
+    jam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro
+    miestą, pasitikėdamas Vasilkos ir Švarno žodžiu.
   citata_rodoma: "Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­\ntė savo broliui Vasilkai [žinią], kad norįs su juo pasi­\nmatyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat \npas juos atvažiuotų pasitarti.\nIr Haličo kunigaikštis Vasilka kvietė Vaišvilką, \nkad jis ten pat pas juos atvyktų ir susitiktų su jais. \nVaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­\ntaikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo \njam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro \nmiestą, pasitikėdamas Vasilkos ir Švarno žodžiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -255,5 +251,5 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     - t-004
 
 ## Ryšiai
-- Vasilka siuntė į [[objektai/vietos/Haličas]]
+- Vasilka siuntė į Haličas
 - Vasilka kariavo prieš [[objektai/grupes/Jotvingiai]]

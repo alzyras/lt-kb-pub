@@ -7,14 +7,14 @@ datos:
   - '1604 m.'
 date_start: '1604'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,46 +33,6 @@ media_all_json: |-
 ## Santrauka
 
 Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko piešiniu.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko piešiniu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Gal tai fetišas Regie-
-    ziowan, kurį Lasickis priskiria Kęsgailų giminei.
-    IV
-    lentelė, 20-asis piešinys. Driežiukas; antspaudą pridėjo
-    Bičkus (Byczek) 1604 metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173110
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    IV lentelė, 32-asis piešinys. Lygiakraščiame šešiakampyje
-    apskritimas, kuriame pavaizduotas kažkoks trišakis augalas;
-    šakų galuose lyg vynuogių lapai ar panašios Į gvazdikus gėlės.
-    Šešiakampio kampuose yra aiškios runos - venediškos arba
-    turinčios vaizduoti Užvyslio slavus, anot žinovų, reiškiančios
-    B. A. M. K. E. Z. Nežinia, kas prispaudė tą antspaudą; jis bu­
-    vo pridėtas prie testamento ir yra tarp penketo kitų su lenkiš­
-    kais herbais; dokumentas yra iš 1630 metų.
-  citata_rodoma: "Gal tai fetišas Regie-\nziowan, kurį Lasickis priskiria Kęsgailų giminei.\nIV\nlentelė, 20-asis piešinys. Driežiukas; antspaudą pridėjo\nBičkus (Byczek) 1604 metais."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -95,3 +55,24 @@ Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko pieš
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173110
+
+## Citatos
+
+- id: c-173110
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Gal tai fetišas Regie-
+    ziowan, kurį Lasickis priskiria Kęsgailų giminei.
+    IV
+    lentelė, 20-asis piešinys. Driežiukas; antspaudą pridėjo
+    Bičkus (Byczek) 1604 metais.
+  citata_rodoma: "Gal tai fetišas Regie-\nziowan, kurį Lasickis priskiria Kęsgailų giminei.\nIV\nlentelė, 20-asis piešinys. Driežiukas; antspaudą pridėjo\nBičkus (Byczek) 1604 metais."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

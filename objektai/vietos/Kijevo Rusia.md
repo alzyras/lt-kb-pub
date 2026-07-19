@@ -11,15 +11,15 @@ datos:
   - '1387 m.'
 date_start: '1183'
 date_end: '1387'
-amziai:
-  - 'XII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - valstybė
   - kraštas
   - vieta
+amziai:
+  - 'XII'
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -297,7 +297,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 <a id="claim-t-185126"></a>
 - t-021
   teiginys: "Kojelavičius artimesne tiesai laikė nuomonę, kad Vytautas pradėjo karą su skitais rūpindamasis apginti Rusią."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -311,7 +311,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Vytautas pradėjo karą rūpindamasis apginti Rusią."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168485
     - c-168487
 - susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
@@ -351,51 +350,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176283|Algirdas (Lietuvos valdovas)]]: Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176292|Algirdas (Lietuvos valdovas)]]: Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.
-## Reikšmingi paminėjimai
-- c-008
-  santrauka: 'Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Grėsminga tebuvo šiaurė, tačiau
-    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
-    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
-    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
-    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
-    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
-    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
-    tas, norėdamas išdildyti pri-
-    S k irm a n ta s su m u ša
-    siminimus apie pralaimėjimą,
-    sk itu s
-    patirtą prieš keletą metų;
-    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
-    pareikalauti iš Rusios duoklės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-010
-  santrauka: 'Kojelavičius artimesne tiesai laikė nuomonę, kad Vytautas pradėjo karą su skitais rūpindamasis apginti Rusią.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Gerai žinau, kad, pasak kurių ne kurių metrašti­
-    ninkų, Vytautas ėmęsis tokio drąsaus sumanymo dėl to,
-    kad troško išgarsėti ir išplėsti savo valdžią. Vis dėlto
-    garbės jausmą jis puikiausiai galėjo patenkinti karuo­
-    se su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos
-    tie, kurie sako, kad jis pradėjo karą su skitais, rūpin­
-    damasis apginti Rusią. Mat Tamerlanas, nuniokojęs
-    didelę pasaulio dalį ir sutriuškinęs turko Bajazito ga­
-    lybę, sukėlė visose karalystėse didžiulį siaubą, pirmiau­
-    sia jis įvarė baimės kaimyninei Rusiai, ne kartą paty­
-    rusiai pražūtingą skitų jėgą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-26798
@@ -575,19 +529,20 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Skirmantas, kuo grei­
-    čiausiai sutraukęs didžiulę kariuomenę, kurią sudarė
-    rusai, šioje Neries pusėje gyvenantys lietuviai, be to,
-    Kukovaičio atsiųsti Užnerio lietuviai, pasiuntiniams
-    surengė kuo šauniausią puotą; po ilgų vaišių, kai šie
-    jau ketino keliauti atgal, Skirmantas įsakė visiems nu­
-    pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
-    pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
-    tuviams kalbėję apie duoklę. Jeigu jie turi kokią teisę
-    į Rusios dalį, pavaldžią Lietuvai, tegu nuo šiol siekia
-    jos ginklais, o ne per pasiuntinius. Tegu jie žino, kad
-    į šitokį pasiuntinių pareiškimą lietuviai negali duoti
-    kitokio atsakymo nei tas, kurį dabar davė".
+    Grėsminga tebuvo šiaurė, tačiau
+    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
+    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
+    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
+    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
+    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
+    tas, norėdamas išdildyti pri-
+    S k irm a n ta s su m u ša
+    siminimus apie pralaimėjimą,
+    sk itu s
+    patirtą prieš keletą metų;
+    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
+    pareikalauti iš Rusios duoklės.
   citata_rodoma: "Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią. Karą prieš Skirmantą susimanė rengti Balakla-\njus, naujas Užvolgio skitų kunigaikštis, galimas daib-\ntas, norėdamas išdildyti pri-\nS k irm a n ta s su m u ša\nsiminimus apie pralaimėjimą,\nsk itu s\npatirtą prieš keletą metų;\nteisėtos priežasties, jis išleido pasiuntinius, turėjusius\npareikalauti iš Rusios duoklės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -596,7 +551,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-019
-    - t-021
 
 - id: c-168486
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -635,26 +589,17 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Smolenskas jau Vytauto rankose, nei suprastų, kad Vy­
-    tautas, jausdamasis nuskriaustas, galvoja keršyti.
-    Gyvenančių
-    už
-    Volgos
-    K a r o su s k ita is p ro -
-    skitų tautų garsusis vadas,
-    g a a p g a u n a G lė b ą
-    lotyniškai vadinamas Tamer-
-    lanu
-    (rusų — Timurkutjenu,
-    skitų — Timurkutluku, maskvėnų — Timurakšaku, t. y.
-    Langu, arba Šlubuoju kalaviju), išvijo iš tėvo valdų
-    Tochtamyšą, kitą skitų valdovą, sutriuškinęs šį kovoje.
-    Tochtamyšas su žymiausiais didikais, kuriuos vadina
-    emyrais, arba ulanais, pabėgo pas Vytautą ir be didelio
-    vargo įkalbėjo jam padėti susigrąžinti prosenelių kara­
-    lystę. Gerai žinau, kad, pasak kurių ne kurių metrašti­
+    Gerai žinau, kad, pasak kurių ne kurių metrašti­
     ninkų, Vytautas ėmęsis tokio drąsaus sumanymo dėl to,
-    kad troško išgarsėti ir išplėsti savo valdžią.
+    kad troško išgarsėti ir išplėsti savo valdžią. Vis dėlto
+    garbės jausmą jis puikiausiai galėjo patenkinti karuo­
+    se su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos
+    tie, kurie sako, kad jis pradėjo karą su skitais, rūpin­
+    damasis apginti Rusią. Mat Tamerlanas, nuniokojęs
+    didelę pasaulio dalį ir sutriuškinęs turko Bajazito ga­
+    lybę, sukėlė visose karalystėse didžiulį siaubą, pirmiau­
+    sia jis įvarė baimės kaimyninei Rusiai, ne kartą paty­
+    rusiai pražūtingą skitų jėgą.
   citata_rodoma: "Gerai žinau, kad, pasak kurių ne kurių metrašti­\nninkų, Vytautas ėmęsis tokio drąsaus sumanymo dėl to,\nkad troško išgarsėti ir išplėsti savo valdžią. Vis dėlto\ngarbės jausmą jis puikiausiai galėjo patenkinti karuo­\nse su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos\ntie, kurie sako, kad jis pradėjo karą su skitais, rūpin­\ndamasis apginti Rusią. Mat Tamerlanas, nuniokojęs\ndidelę pasaulio dalį ir sutriuškinęs turko Bajazito ga­\nlybę, sukėlė visose karalystėse didžiulį siaubą, pirmiau­\nsia jis įvarė baimės kaimyninei Rusiai, ne kartą paty­\nrusiai pražūtingą skitų jėgą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

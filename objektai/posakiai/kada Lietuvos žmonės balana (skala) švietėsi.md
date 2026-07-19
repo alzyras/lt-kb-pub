@@ -68,23 +68,12 @@ Apibendrinanti senosios Lietuvos buities formulė.
   citata_rodoma: "liudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi, vj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo, daug meldėsi, daug dirbo, daug gėrė ir lėbavo."
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
-<a id="claim-t-195411"></a>
-- t-001
-  teiginys: "Autorius senąją gadynę nusako įsimintina apibendrinančia formule."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177832
 - susijęs iš [[objektai/paprociai/Senosios gadynės kasdienybė.md#claim-t-195611|Senosios gadynės kasdienybė]]: Toje pačioje gadynėje žmonės daug dainavo, meldėsi, dirbo, gėrė ir lėbavo.
 - susijęs iš [[objektai/paprociai/Senosios gadynės kasdienybė.md#claim-t-195612|Senosios gadynės kasdienybė]]: Senojoje gadynėje Lietuvos žmonės švietėsi balanomis, avėjo vyžomis, kūlė spragilu ir gyveno dūminėse grįčiose.
 - susijęs iš [[objektai/zodynas/Balana.md#claim-t-195450|Balana]]: Balana šiame šaltinyje reiškia apšvietimo priemonę, aiškinamą variantu `skala`.

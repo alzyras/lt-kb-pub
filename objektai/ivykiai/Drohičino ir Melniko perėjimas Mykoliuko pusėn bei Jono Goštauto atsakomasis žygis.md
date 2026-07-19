@@ -145,7 +145,7 @@ Nenurodyta
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
+    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
     to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
     tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
     pabėgo į Mazoviją, nusprendė su tais miestais pereiti
@@ -153,12 +153,6 @@ Nenurodyta
     daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
     Kunigaikštystės. Ir su visais tais miestais prisijungė
     prie Mazovijos ir ėmė tarnauti Mykoliukui
-    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
-    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
-    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
-    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
-    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
-    vo mažametis.
   citata_rodoma: "Būnant Kazimierui Vilniuje, Drohičino ir Melniko\nseniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis\npabėgo į Mazoviją, nusprendė su tais miestais pereiti\nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo\ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios\nKunigaikštystės. Ir su visais tais miestais prisijungė\nprie Mazovijos ir ėmė tarnauti Mykoliukui"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

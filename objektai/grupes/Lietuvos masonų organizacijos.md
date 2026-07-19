@@ -7,13 +7,13 @@ datos:
   - '1817 m.'
 date_start: '1817'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - organizacija
   - grupe
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -82,9 +82,12 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   pagrindžia:
     - c-171055
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-170858
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Europos istorikų -
     Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
@@ -93,27 +96,6 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
     luoti masonų organizacijose. Lietuvos istorijos ir etnografijos
     muziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­
     butas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-170858
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šių peri­
-    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
-    Marcinovskis taip pat priklausė masonų organizacijai. 1817 m.
-    „Dziennik Wilenski“ buvo įkurtas skyrelis „Lietuvių senovės
-    tyrimai“, kuriame kartkarčiais pasirodydavo T. Narbuto
-    straipsnių.
-    T. Narbuto darbštumas ir interesų įvairovė stebina šiuo­
-    laikinį žmogų.
   citata_rodoma: "Europos istorikų -\nVilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro\nVilhelmo Gizo, Johano Miulerio -  darbus.\nVisuomenės švietimo ir ugdymo uždaviniai buvo suformu­\nluoti masonų organizacijose. Lietuvos istorijos ir etnografijos\nmuziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­\nbutas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

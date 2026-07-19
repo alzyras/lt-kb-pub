@@ -49,10 +49,12 @@ Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologi
   pagrindžia:
     - c-171851
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologinį pasakojimą apie Krūminę ir jos dukterį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-171851
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pats pavadinimas, iš­
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
@@ -61,27 +63,6 @@ Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologi
     švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
     dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
     nepaprasto grožio vienatinę dukterį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-171851
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Užtat išmoko dirbti žemę ir gauti naudos iš
-    pasėtų įvairių javų, kurių sėklų buvo atsivežusi. Nuo to ji ėmė
-    mokyti žemdirbystės meno vargšus žmones, kurie maitinosi
-    laukiniais gamtos vaisiais. Iškirtus lydymui vieną mišką, ka­
-    daise pilną drakonų siaubūnų (Siaubimas), jame buvo suras­
-    tas akmuo, ant kurio Lemtis savo pirštu buvo užrašiusi kara­
-    lienės Krūminės dukters likimą, kurį jai skyrė dievai prieš daug
-    daug amžių.
   citata_rodoma: "Pats pavadinimas, iš­\nreikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­\nkovskis, o deivei.\nApie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­\nšvenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­\ndangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo\nnepaprasto grožio vienatinę dukterį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

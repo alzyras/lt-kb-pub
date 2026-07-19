@@ -12,15 +12,15 @@ datos:
   - '1396 m.'
 date_start: '1396'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigas
   - asmuo
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -159,60 +159,9 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
 ## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijoje sienoje rasta įmūryta cinkinė Veneros statulėlė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šio atradimo smulkmenas
-    man papasakojo gerbiamas profesorius ponas Laurinavičius „Rei­
-    kėtų priminti ir tai, — rašoma jo laiške, —- jog amžiną atilsį ku­
-    nigas Franckevičius, buvęs Kauno klebonas (klebonavęs maždaug
-    prieš amžiną atilsį kunjigą] Pucilovskį) savo dienoraštyje (jis
-    ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš, norėdamas
-    462
-
-    ## Puslapis 472
-
-    savo bute, klebonijoje, pasidaryti sandėliuką, prieš išvykdamas į
-    Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iškirsti angą ir
-    ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą sluoksnių plytų,
-    aptiko kadaise įmūrytą cinkinę deivės Veneros statulėlę, kurią nu­
-    nešė kunigui vikarui Mingailai. Kunigas vikaras, skrupulas, ne­
-    laukdamas mano sugrįžimo, įsakė tą antiką sudaužyti ir nucin-
-    kuoti prikaistuvus bei puodus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-## Citatos
-
-- id: c-83771
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Aktuota
-    ir duota Vilniuje, Švč. Mergelės Ma­
-    rijos Apsivalymo dienoje, Viešp. me­
-    tais 1396. Dalyvaujant garbingiems
-    ir narsiems vyrams Mingailai, Goš­
-    tautui; Vilniaus vaivadai Manvydui
-    bei mūsų dvaro maršalkoms Čupur-
-    vai ir Milonui bei daugeliui kitų, ver­
-    tų pasitikėjimo].
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-168151
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+- c-002
+  santrauka: 'Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neilgai šia pergale džiaugėsi Mingai­
     la tais pačiais metais jis mirė, įpėdiniais palikdamas
@@ -246,6 +195,78 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     savo krašte ką rusams duoti,
     kuri versdavosi tik žemės
     darbu, dabar štai ketino įsi-
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijoje sienoje rasta įmūryta cinkinė Veneros statulėlė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Šio atradimo smulkmenas
+    man papasakojo gerbiamas profesorius ponas Laurinavičius „Rei­
+    kėtų priminti ir tai, — rašoma jo laiške, —- jog amžiną atilsį ku­
+    nigas Franckevičius, buvęs Kauno klebonas (klebonavęs maždaug
+    prieš amžiną atilsį kunjigą] Pucilovskį) savo dienoraštyje (jis
+    ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš, norėdamas
+    462
+
+    ## Puslapis 472
+
+    savo bute, klebonijoje, pasidaryti sandėliuką, prieš išvykdamas į
+    Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iškirsti angą ir
+    ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą sluoksnių plytų,
+    aptiko kadaise įmūrytą cinkinę deivės Veneros statulėlę, kurią nu­
+    nešė kunigui vikarui Mingailai. Kunigas vikaras, skrupulas, ne­
+    laukdamas mano sugrįžimo, įsakė tą antiką sudaužyti ir nucin-
+    kuoti prikaistuvus bei puodus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-83771
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Aktuota
+    ir duota Vilniuje, Švč. Mergelės Ma­
+    rijos Apsivalymo dienoje, Viešp. me­
+    tais 1396. Dalyvaujant garbingiems
+    ir narsiems vyrams Mingailai, Goš­
+    tautui; Vilniaus vaivadai Manvydui
+    bei mūsų dvaro maršalkoms Čupur-
+    vai ir Milonui bei daugeliui kitų, ver­
+    tų pasitikėjimo].
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-168151
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Arčiausiai puolančiųjų plytėjo Min-
+    gailos valdinių žemės: norėdamas atkeršyta už jų nu­
+    siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai
+    jas užėmė, šiek tiek anksčiau su kariuomene patraukę
+    ligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­
+    siai užpuolęs palaidą minią, narsią vien dėl gausumo,
+    o visai nemokančią kariauti, vienu smūgiu privertė
+    sprukti ir iš kovos lauko, ir iš stovyklos. Po to, lipte
+    lipdamas bėgantiems ant kulnų, mikliai išnaudojo per-
+    pergalingą kariuomenę atvedė prie Polocko sienų, kur
+    pabėgę priešai buvo perkėlę karo veiksmus.
   citata_rodoma: "Arčiausiai puolančiųjų plytėjo Min-\ngailos valdinių žemės: norėdamas atkeršyta už jų nu­\nsiaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai\njas užėmė, šiek tiek anksčiau su kariuomene patraukę\nligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­\nsiai užpuolęs palaidą minią, narsią vien dėl gausumo,\no visai nemokančią kariauti, vienu smūgiu privertė\nsprukti ir iš kovos lauko, ir iš stovyklos. Po to, lipte\nlipdamas bėgantiems ant kulnų, mikliai išnaudojo per-\npergalingą kariuomenę atvedė prie Polocko sienų, kur\npabėgę priešai buvo perkėlę karo veiksmus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

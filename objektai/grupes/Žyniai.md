@@ -192,10 +192,12 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - susijęs iš [[objektai/zodynas/Krivis Krewe Kriwe.md#claim-t-189198|Krivis Krewe Kriwe]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
 - susijęs iš [[objektai/zodynas/Užuotas ąžuolas.md#claim-t-189121|Užuotas ąžuolas]]: Narbutas spėjo, kad senovės žyniai galėjo dirbtinai apauginti šventąjį ąžuolą amalu, kad jo vainikas žaliuotų ir žiemą.
 - susijęs iš [[objektai/zodynas/Žvaigždininkas Zwajždinikas.md#claim-t-189352|Žvaigždininkas Zwajždinikas]]: Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždžių ir liaudies padavimuose prilygina juodaknygininkui.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172285
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jeronimas įtikino, kad tai apgavystė, sugriovė
     šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
@@ -208,32 +210,6 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
     gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
     tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
     no paviete, kur lietuviai gyvena, ir Trakų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172285
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    akimirką, užsimojęs kirviu į medį milžiną, minios padedamas,
-    su didžiausiu trenksmu nuvertė jį ir iškirto visą giraitę. Tame
-    krašte buvo daug vienodai garbinamų giraičių; kai tik Jeroni­
-    mas susiruošdavo jas kirsti, nesuskaičiuojamos verkiančių ir
-    aimanuojančių moterų minios atbėgdavo skųstis Vytautui, kad
-    kertami šventi miškai ir iš dievų atimamas prieglobstis. Žmo­
-    nės melsdavę jų dieviškosios pagalbos, kai iškildavęs reikalas,
-    o dabar nežiną, kurioje vietoje ieškoti dievo. Tas pats Jeroni­
-    mas, svetimšalis, trokštąs išnaikinti šventyklas, orakulus ir dievų
-    stabus, per ką dievai paprastai bendraudavę su žmonėmis, įve­
-    dęs kažkokias naujas paslaptis, o protėvių papročius norįs iš­
-    guiti, todėl jie prašydavo ir maldaudavo, kad neleistų naikinti
-    protėvių tikėjimo.
   citata_rodoma: "Jeronimas įtikino, kad tai apgavystė, sugriovė\nšventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­\nliaudamas toliau, atrado saulės garbintojus; jie ypač garbino\ndidžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­\nmas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,\nkadangi vienas galingas karalius pagrobęs ją laikė uždarytą\ntvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo\ndidžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­\ngaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­\ntystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­\nno paviete, kur lietuviai gyvena, ir Trakų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

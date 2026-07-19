@@ -7,12 +7,12 @@ datos:
   - '1929 m.'
 date_start: '1929'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,38 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad schmid B.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'B. Schmido „Die Gründung der Marienburg“ paskelbtas „Altpreussische Forschungen“ 1929 m. antrajame sąsiuvinyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
-    i. Pr., 1929, Heft 2, S. 191—200.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61919
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906.
-    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
-    1925.
-  citata_rodoma: "Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg\ni. Pr., 1929, Heft 2, S. 191—200."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-61287"></a>
@@ -77,3 +45,21 @@ Dusburgietis teigia, kad schmid B.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidinį, metus ir sąsiuvinį."
   pagrindžia:
     - c-61919
+
+## Citatos
+
+- id: c-61919
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
+    i. Pr., 1929, Heft 2, S. 191—200.
+  citata_rodoma: "Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg\ni. Pr., 1929, Heft 2, S. 191—200."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

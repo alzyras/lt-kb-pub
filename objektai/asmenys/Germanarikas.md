@@ -102,41 +102,6 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
 - susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190740|Jordanas]]: Jordanas, gotų istorikas, minėjo estus kaip jūros pakrantėje gyvenusią tautą ir rėmėsi Kasiodoru arba jį perdirbinėjo.
 - susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-190787|Prokopijus]]: Narbutas rašo, kad Prokopijus estus mini kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos.
 - susijęs iš [[objektai/grupes/Estai.md#claim-t-192379|Estai]]: Narbutas rašė, kad nuo Tacito iki Teodoriko Didžiojo apie estus nėra žinių.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų karalystės pamatus, jei nebūtų sutrukdęs hunų įsiveržimas į Europą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ta­
-    čiau jos nesutarė ir nesiekė įtvirtinti vieningą valstybę.
-    Vienas iš gotų karalių, Germanarikas, labiausiai išplėtęs
-    savo valdžią, gal ir būtų padėjęs gotų karalystės pama­
-    tus, jei to nebūtų sutrukdęs hunų įsiveržimas į Europą.
-    1 Lelemel.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Narbutas pažymi, kad Jordanas, vardydamas Germanariko valdomas gentis nuo Juodosios iki Baltijos jūros, jotvingių nemini.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tikriausiai III amžiaus
-    pabaigoje jie persikėlė į Vakarus, į Palenkės girias. Jor­
-    danas, vardydamas įvairių genčių tautas, kurias valdė
-    gotai Germanariko valdymo laikais, gyvenusias nuo Juo­
-    dosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,
-    Bugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,
-    kurie turėjo gyventi šalia tos teritorijos ribų.
-    Užrašu, kuris paaiškina labai svarbų dalyką jotvingių
-    istorijoje, negalime visiškai tikėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174030
@@ -144,17 +109,12 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Istorijos vėl pradeda aprašinėti karines pergales
-    ostgotų, vestgotų ir jų sąjungininkų, iš dalies išlaisvintų
-    iš hunų priklausomybės, iš dalies išeinančių iš savo slėp­
-    tuvių imperijoje ir ateinančių į Pietų Europą iš gimtų
-    gyvenamųjų vietovių. Vėl suspindo gotų šlovės žvaigždė,
-    valdant karaliui Teodorikui Didžiajam, kuris užkariavo
-    Romą ir visą Italiją, sudrebino visą Vakarų Europą ir tu­
-    rėjo įtaką Siaurės Vakarų kraštams. Po šio valdovo mir­
-    ties gotų galybė ėmė smukti; įvairios smulkios jų dalys,
-    krikščionybės švelniai laiminamos, virto šių laikų Euro­
-    pos tautomis, pamažu atsikratančiomis barbariškumo.
+    Ta­
+    čiau jos nesutarė ir nesiekė įtvirtinti vieningą valstybę.
+    Vienas iš gotų karalių, Germanarikas, labiausiai išplėtęs
+    savo valdžią, gal ir būtų padėjęs gotų karalystės pama­
+    tus, jei to nebūtų sutrukdęs hunų įsiveržimas į Europą.
+    1 Lelemel.
   citata_rodoma: "Ta­\nčiau jos nesutarė ir nesiekė įtvirtinti vieningą valstybę.\nVienas iš gotų karalių, Germanarikas, labiausiai išplėtęs\nsavo valdžią, gal ir būtų padėjęs gotų karalystės pama­\ntus, jei to nebūtų sutrukdęs hunų įsiveržimas į Europą.\n1 Lelemel."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -194,20 +154,15 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Juk
-    žinoma, jog barbarų tautos, kovodamos su graikais, turėjo
-    įprotį imti į nelaisvę graikų meistrus, kurie pas juos dirb­
-    davo tai, ko nesugebėjo jų tautiečiai. Galbūt, norėdami
-    pagerbti savo valdovą, ir padovanojo jam tą taurę, ku­
-    rią kažkoks graikas nukalė iš aukso, atimto iš jo paties tė­
-    vynainių.
-    Bendrais bruožais jotvingių kilmę galėtume apibrėžti
-    tokiais žodžiais: sarmatai arba kuri nors kita tauta, pa­
-    sivadinusi jotvingiais, prieš daugelį amžių (galbūt hunų
-    užkariavimų metu) turėjo susijungti su kažkokia lietuvių
-    atšaka, be to, tokia galinga, jog ir pati sulietuvėjo; iš to
-    susijungimo ir turėjo atsirasti jotvingiai, t. y. tos tautos
-    atšaka, išsibarsčiusi tarp Polesės pelkių*.
+    Tikriausiai III amžiaus
+    pabaigoje jie persikėlė į Vakarus, į Palenkės girias. Jor­
+    danas, vardydamas įvairių genčių tautas, kurias valdė
+    gotai Germanariko valdymo laikais, gyvenusias nuo Juo­
+    dosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,
+    Bugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,
+    kurie turėjo gyventi šalia tos teritorijos ribų.
+    Užrašu, kuris paaiškina labai svarbų dalyką jotvingių
+    istorijoje, negalime visiškai tikėti.
   citata_rodoma: "Tikriausiai III amžiaus\npabaigoje jie persikėlė į Vakarus, į Palenkės girias. Jor­\ndanas, vardydamas įvairių genčių tautas, kurias valdė\ngotai Germanariko valdymo laikais, gyvenusias nuo Juo­\ndosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,\nBugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,\nkurie turėjo gyventi šalia tos teritorijos ribų.\nUžrašu, kuris paaiškina labai svarbų dalyką jotvingių\nistorijoje, negalime visiškai tikėti."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -73,10 +73,11 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 <a id="claim-t-70426"></a>
 - t-005
   teiginys: "`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
+    - c-09781
     - c-09782
 - susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07730|perveiza]]: Perveizos metu netinkamai pasirengęs arba neatvykęs žemlionis buvo išbraukiamas iš reistro ir vėl turėjo mokėti duoklę.
 ## Reikšmingi paminėjimai
@@ -114,6 +115,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+    - t-005
 
 - id: c-09782
   autorius: "Simonas Daukantas"

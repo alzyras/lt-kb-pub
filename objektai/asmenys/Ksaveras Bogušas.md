@@ -165,28 +165,45 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-173800
 
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Teodoro Narbuto pasakojime Ksaveras Bogušas Etiko „Kosmografija“ grindė išsamius įrodymus apie estus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- c-001
+  santrauka: 'Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagaubiu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Daug kartų autoriai, kurie ra­
-    šė apie šias šalis ir tautas, nesigilindami į konkrečius pa­
-    vadinimus arba nemokėdami jų išreikšti, vienu „estų“ ir
-    „Estijos“ terminu vadindavo visiškai skirtingas gentis
-    91
+    108
 
-    ## Puslapis 89
+    ## Puslapis 108
 
-    ir kraštus. Taigi ir lietuvių gentys, gyvenusios šiose že­
-    mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-
-    šas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­
-    fija“1, tačiau privalome plačiau aprašyti estus.
+    Taip pat padavimuose minimi milžinai -  žmogėdros, kurie
+    gyvenę tarp didelių pelkių, prie vieno ežero, ir ten kalę geležį.
+    Ksaveras Bogušas savo studijoje, 145 puslapyje, Vulkaną
+    lietuviškai vadina Jagaubis. Šį vardą jis bus paėmęs iš kokios
+    dainos ar padavimo, -  taigi šis dievas buvo žinomas net keliais
+    vardais.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- c-009
+  santrauka: 'Skaityk kunigo Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę, taip pat Sirvydo žodyną.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Visiems javams ir žemės ūkio padargams įvardyti yra
+    savi lietuviški žodžiai15.
+    15
+    Skaityk kunigo Ksavero Bogušo studiją apie lietuvių tautos ir
+    kalbos kilmę, taip pat Sirvydo žodyną.
+    137
 
+    ## Puslapis 137
+
+    Nijolė ĮNijota)
+    Pragaro karalienė, Pokliaus žmona, Krūminės duktė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-172884
@@ -235,18 +252,18 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vėliau kalbėsime apie šio astronomo
-    keliones, o dabar pasakysime tik tiek, jog visas jo apra­
-    šymas yra toks aiškus ir raiškus, kad nedera abejoti: tuo­
-    metiniai Prūsijos gyventojai nesivadino estais. Jie rinko
-    gintarą Abalo saloje; jį pardavinėjo gotonai. Ši kelionė
-    įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų
-    net iki Tacito senovės autoriai niekur nemini Estijos, nors
-    kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Pli-
-    nijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis
-    aprašymais, estų nemini. Matyt, priežastis yra ta, kad
-    tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
-    būtų sieti šį pavadinimą.
+    Daug kartų autoriai, kurie ra­
+    šė apie šias šalis ir tautas, nesigilindami į konkrečius pa­
+    vadinimus arba nemokėdami jų išreikšti, vienu „estų“ ir
+    „Estijos“ terminu vadindavo visiškai skirtingas gentis
+    91
+
+    ## Puslapis 89
+
+    ir kraštus. Taigi ir lietuvių gentys, gyvenusios šiose že­
+    mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-
+    šas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­
+    fija“1, tačiau privalome plačiau aprašyti estus.
   citata_rodoma: "Daug kartų autoriai, kurie ra­\nšė apie šias šalis ir tautas, nesigilindami į konkrečius pa­\nvadinimus arba nemokėdami jų išreikšti, vienu „estų“ ir\n„Estijos“ terminu vadindavo visiškai skirtingas gentis\n91\n\n## Puslapis 89\n\nir kraštus. Taigi ir lietuvių gentys, gyvenusios šiose že­\nmėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-\nšas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­\nfija“1, tačiau privalome plačiau aprašyti estus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

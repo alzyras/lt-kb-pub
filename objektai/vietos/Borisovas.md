@@ -9,13 +9,13 @@ datos:
   - '1500 m.'
 date_start: '1500'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -119,29 +119,6 @@ media_all_json: |-
 - susijęs iš Nemunas: Narbuto pasakojime vilkų tauta nuo Neries žiočių dešiniuoju Nemuno krantu pasiekė Dubysą.
 - susijęs iš Pripetė: Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių.
 - susijęs iš Minskas: Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ga­
-    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
-    kis tūkstančius algininkų bei didikų kariaunas ir ka­
-    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
-    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
-    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
-    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
-    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
-    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
-    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
-    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
-    kiojo karalius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-105319
@@ -229,29 +206,18 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Su šiais pagalbinin­
-    kais Mykolas privertė jam paklusti kunigaikščius Druč­
-    kius ir Mstislavlio kunigaikštį Mykolą Lengvenaitį,
-    užėmė Gomelį, Kryčevą, Oršą bei apylinkes ir įkurdi­
-    no ten maskvėnų įgulas, užkariavo didelę Baltarusi­
-    jos, Seversko žemės ir Polesės dalį ir vėl patraukė į
-    Slucką, manydamas, jog Anastazija nesipriešins palauž­
-    ta baimės ir gandų apie jo karių sėkmingus žygius. Iš
-    arti patyręs, jog viskas klostosi visai kitaip, nei tikė­
-    josi, jis pasiuntė niokotojus net ligi pat Vilniaus, o
-    pats su likusia kariuomene patraukė į Naugarduką.
-    Toliau skverbtis nedrįso sužinojęs, jog atžygiuoja ka­
-    raliaus kariuomenė. Pasiun-
-    P erein a
-    į
-    M a sk v o s
-    tęs į Maskvos kunigaikštys-
-    k u n ig a ik š ty s tę
-    tę brolį Vosylių su visais
-    globotiniais, jų žmonomis bei
-    vaikais ir visomis brangenybėmis, pats, kurį metą už­
-    trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
-    savuosius.
+    Ga­
+    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
+    kis tūkstančius algininkų bei didikų kariaunas ir ka­
+    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
+    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
+    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
+    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
+    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
+    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
+    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
+    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
+    kiojo karalius.
   citata_rodoma: "Ga­\nvęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­\nkis tūkstančius algininkų bei didikų kariaunas ir ka­\nrališkąsias vėliavas, o netrukus ir pats skubiai patrau­\nkė paskui išsiųstąją kariuomenę sutelkęs pašauktinių\nbajorų jėgas ir valstybės viduje įsikūrusių skitų bū­\nrius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių. Jį atsitraukiantį atkakliai perse­\nkiojo karalius."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

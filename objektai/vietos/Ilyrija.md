@@ -7,13 +7,13 @@ datos:
   - '1190 m.'
 date_start: '1190'
 date_end: ''
-amziai:
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
+amziai:
+  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -77,24 +77,6 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190926|Motiejus Strijkovskis]]: Narbutas aiškina, kad Strijkovskis kimbrų pasitraukimą nuo Baltijos į Ilyriją datavo 190 metais prieš Kristaus gimimą.
 - susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192933|Kimbrai]]: Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus.
 - susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192933|Kimbrai]]: Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbuto aiškinimu, baimė dėl skitų ar po Skitų karalystės žlugimo judėjusių genčių vertė šią grupę trauktis ir įsikurti Ilyrijoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai ir pri­
-    vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net
-    Ilyrijoje. Jie nei grįžo į Rytus, iš kur atkeliavo, nei su­
-    stojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk­
-    tis į Rytus, neabejotinai buvo priversti brautis kitapus
-    Karpatų. Tai daryti skatino skitu arba genčių, judėjusių
-    po Skitų karalystės žlugimo, baimė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-175611
@@ -131,18 +113,13 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vienur krantai nusileido, kitur —
-    pakilo. Jūra retsykiais išmeta likučių vynuogienojų, ki­
-    tados gal augusių netoli buvusiose salose; kitur, gana
-    toli nuo jūros, po sąnašų žemės sluoksniu aptinkama in­
-    karų ir laivų liekanų; daugelyje vietų prie jūros po ge­
-    ležies dalelių prisodrintu smėlio sluoksniu pasitaiko juo­
-    do augalinio dirvožemio, o jame esti didžiulių, iki 80
-    pėdų ilgio, medžių be šerdžių, šakų, ataugų, rievių, ro­
-    dančių augalų amžių, iš dalies prisisunkusių sieros rūgš­
-    ties, bet nesuakmenėjusių. Tų medžių kilmės tyrinėtojas
-    dar neatskleidė, bet iš pirmo žvilgsnio ir neįsigilinus jie
-    laikomi geologiniais dariniais, imituojančiais medžius.
+    Tai ir pri­
+    vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net
+    Ilyrijoje. Jie nei grįžo į Rytus, iš kur atkeliavo, nei su­
+    stojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk­
+    tis į Rytus, neabejotinai buvo priversti brautis kitapus
+    Karpatų. Tai daryti skatino skitu arba genčių, judėjusių
+    po Skitų karalystės žlugimo, baimė.
   citata_rodoma: "Tai ir pri­\nvertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net\nIlyrijoje. Jie nei grįžo į Rytus, iš kur atkeliavo, nei su­\nstojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk­\ntis į Rytus, neabejotinai buvo priversti brautis kitapus\nKarpatų. Tai daryti skatino skitu arba genčių, judėjusių\npo Skitų karalystės žlugimo, baimė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

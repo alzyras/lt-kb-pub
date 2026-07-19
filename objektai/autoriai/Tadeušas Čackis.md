@@ -79,22 +79,6 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
   pagrindžia:
     - c-179139
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Senoji Palanga buvo išsidėsčiusi kalvos, va­
-    dinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­
-    langos sunešė jūra, įrodo Čackis31 32. Vėlgi, kad švedai, rygiečių
-    prašomi, 1701 metais visai užvertė Palangos uostą akmenimis
-    ir griuvenomis, liudija Zaluskis’2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-173203
@@ -102,16 +86,11 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mykolas Lietuvis pasa­
-    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
-    mas išliko kaip žalčių laikymas1.
-    Kaunis (Kaunis)
-    Meilės dievaitis, deivės Mildos sūnus, lietuvių Kupidonas.
-    Kitaip vadinosi Pizio.
-    Iš pasakojimų, surinktų Kauno apylinkėse, aiškėja, kaip
-    jau anksčiau matėme straipsnyje „Milda“, kad buvo tam tikra
-    rūšis kerėtojų, arba meilės deivės žynių, vadintų mildaunin-
-    kais, kurie padėdavo žmonėms meilės reikaluose.
+    Senoji Palanga buvo išsidėsčiusi kalvos, va­
+    dinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­
+    langos sunešė jūra, įrodo Čackis31 32. Vėlgi, kad švedai, rygiečių
+    prašomi, 1701 metais visai užvertė Palangos uostą akmenimis
+    ir griuvenomis, liudija Zaluskis’2.
   citata_rodoma: "Senoji Palanga buvo išsidėsčiusi kalvos, va­\ndinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­\nlangos sunešė jūra, įrodo Čackis31 32. Vėlgi, kad švedai, rygiečių\nprašomi, 1701 metais visai užvertė Palangos uostą akmenimis\nir griuvenomis, liudija Zaluskis’2."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

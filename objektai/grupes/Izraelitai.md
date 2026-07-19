@@ -62,23 +62,6 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   pagrindžia:
     - c-176966
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Iš mitolo gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir Jeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju piter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šiuos pavadinimus, ypač Jeou, verta paaiškinti. Iš mitolo­
-    gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir
-    Jeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju­
-    piter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei.
-    Senovės lietuvių kalboje Kun, Kungs, Kunigas reiškia tą, ką
-    senovės romėnų Dominus, aukščiausiasis viešpats.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172378
@@ -106,14 +89,12 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vla­
-    dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul­
-    tą Didžiajame Naugarde. O tai aiškiai rodo, kad seniau slavai
-    rusinai negarbino Jupiterio su tokiomis iškilmėmis ir, aišku,
-    jis buvo garbinamas ne Perūno vardu.
-    Kai pasigirsdavo griaustinis, senovės prūsai, pasak Henen-
-    bergerio, prašydavo griaustinio dievo paprastai tokiais žodžiais:
-    Dewe Periamas absolo mus!
+    Šiuos pavadinimus, ypač Jeou, verta paaiškinti. Iš mitolo­
+    gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir
+    Jeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju­
+    piter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei.
+    Senovės lietuvių kalboje Kun, Kungs, Kunigas reiškia tą, ką
+    senovės romėnų Dominus, aukščiausiasis viešpats.
   citata_rodoma: "Šiuos pavadinimus, ypač Jeou, verta paaiškinti. Iš mitolo­\ngų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir\nJeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju­\npiter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei.\nSenovės lietuvių kalboje Kun, Kungs, Kunigas reiškia tą, ką\nsenovės romėnų Dominus, aukščiausiasis viešpats."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

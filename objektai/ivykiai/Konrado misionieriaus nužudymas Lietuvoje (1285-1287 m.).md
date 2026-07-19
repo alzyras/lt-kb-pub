@@ -8,13 +8,13 @@ datos:
   - '1287 m.'
 date_start: '1285'
 date_end: '1287'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinis-įvykis
   - ivykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,23 +72,6 @@ Nenurodyta
   pagrindžia:
     - c-62892
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1285 m. Vokietijos kunigas Konradas persikėlė į Lietuvą atversti stabmeldžių, o po dvejų metų lietuviai jį nužudė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių
-                                              atversti
-
-      1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė  į Lietuvos kraštą
-    atversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė. Toje vietoje,
-    kur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-62892
@@ -96,15 +79,12 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Todėl ir tas, kuris per šešias dienas vienu žodžiu viską sukūrė,
-    daugiau nei 33 metus pasaulyje triūsė, nes troško atpirkti nuodėmę. Šitai ir yra vienui
-    vienas dalykas, kuris jam nepatinka, kuris žeidžia jo didybę, kuris žadina jo — tokio
-    švelnaus ir malonaus — rūstį, šitai yra tas dalykas, kuris iš angelo padaro velnią, iš
-    laisvojo — vergą, iš sveikojo — paliegėlį ir galadienį, iš laimingojo— pavargėlį, iš piliečio
-    — užguitą tremtinį, iš dievo sūnų — velnio sūnus, šitai yra tas dalykas, kuris niekada
-    nepalieka be bausmės. Todėl, pasvėręs nuodėmes nedorųjų žmonių, kurie visokeriopai
-    teršė piktadarystėmis šventąją žemę, pavirto, jų sukurstytas, žiauruoliu jis, tas, kuris iš
-    prigimties yra meilus ir švelnus.
+    Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių
+                                              atversti
+
+      1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė  į Lietuvos kraštą
+    atversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė. Toje vietoje,
+    kur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes.
   citata_rodoma: "Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių\n                                          atversti\n\n  1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė  į Lietuvos kraštą\natversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė. Toje vietoje,\nkur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

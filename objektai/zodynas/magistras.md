@@ -65,18 +65,6 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
   pagrindžia:
     - c-159335
 
-<a id="claim-t-193382"></a>
-- t-004
-  teiginys: "Dėl to visi pradėjo atvirai niekinti senuosius magistrų, maršalų, komtūrų titulus ir galvoti apie valstybinės santvarkos pakei timą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-176107
-
 <a id="claim-t-196381"></a>
 - t-005
   teiginys: "Kojelavičius magistru vadina vadą, kuris Vokietijoje pasisamdė dešimt tūkstančių algininkų ir įsiveržė į karaliui priklausiusias Prūsijos apygardas."
@@ -848,5 +836,4 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-005

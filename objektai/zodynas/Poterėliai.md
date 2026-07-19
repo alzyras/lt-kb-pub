@@ -50,18 +50,6 @@ Poterėliai šiame šaltinyje reiškia trumpų poterių kalbėjimu paremtą elge
 
 Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
 
-## Teiginiai
-
-<a id="claim-t-195645"></a>
-- t-001
-  teiginys: "Poterėliais galima verstis kaip elgetavimo būdu."
-  atnaujinta: "2026-07-12 08:53"
-  sprendimo_priezastis: "gap::vocabulary::repair"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178046
-
 ## Citatos
 
 - id: c-178046
@@ -77,12 +65,10 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
   citata_rodoma: "Liko žmona ir auganti duktė, \n—— kurios buvo pratusios gerai gyventi ir nieko neveikti. Taigi pamė­\ngino verstis poterėliais ir terbele. Įėjusi pas kiekvieną ūkininką trum­\npai paverkia, skųsdamasi savo našlaityste."
   statusas: verified
   atnaujinta: "2026-07-12 08:53"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-178047
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

@@ -12,16 +12,16 @@ datos:
   - '1385 m.'
 date_start: '1340'
 date_end: '1385'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - valdovas
   - kunigaikštis
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '20'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Lubart._%D0%9B%D1%8E%D0%B1%D0%B0%D1%80%D1%82_%281366%2C_1930%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ALubart._%D0%9B%D1%8E%D0%B1%D0%B0%D1%80%D1%82_%281366%2C_1930%29.jpg'
@@ -367,6 +367,36 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 - susijęs iš Volinija: Liubartas turėjo savo dalį Volinijoje ir galėjo reikšti pretenzijas į kitas Haličo-Vladimiro žemes.
 - susijęs iš Volinija: Liubartas, padedamas brolių, apgynė Voliniją Lietuvos Didžiajai Kunigaikštijai.
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    O pats Lietuvos valdovas nebuvo joks
+    krikščionybės priešas. Jo paties dvare sukinėjosi ir turėjo įtakos
+    pranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­
+    rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
+    čiatikių srityse, priėmė jų tikėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kai Boleslovas-Jurgis 1340 m. buvo bajorų nunuodytas,
+    Kazimieras taikstėsi užimti Haličą-Voliniją. Lenkams rūpėjo, be
+    kitko, per Raudonąją Rusią ir Padoliją artėti link Juodosios Juros.
+    Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liu­
+    bartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties
+    (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-06238
@@ -374,11 +404,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    O pats Lietuvos valdovas nebuvo joks
-    krikščionybės priešas. Jo paties dvare sukinėjosi ir turėjo įtakos
-    pranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­
-    rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
-    čiatikių srityse, priėmė jų tikėjimą.
+    Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą.
   citata_rodoma: "Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
@@ -393,12 +419,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Kai Boleslovas-Jurgis 1340 m. buvo bajorų nunuodytas,
-    Kazimieras taikstėsi užimti Haličą-Voliniją. Lenkams rūpėjo, be
-    kitko, per Raudonąją Rusią ir Padoliją artėti link Juodosios Juros.
-    Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liu­
-    bartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties
-    (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
+    Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
   citata_rodoma: "Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"

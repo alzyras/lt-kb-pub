@@ -38,15 +38,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 
 ## Teiginiai
 
-<a id="claim-t-07660"></a>
-- t-004
-  teiginys: "Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09593
-
 <a id="claim-t-07661"></a>
 - t-003
   teiginys: "Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos."
@@ -79,12 +70,10 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   citata_rodoma: "Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką paregėjęs, tą turi padirbti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-09594
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

@@ -10,15 +10,15 @@ datos:
   - '1646 m.'
 date_start: '1618'
 date_end: '1646'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -179,59 +179,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   pagrindžia:
     - c-174817
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas nurodo, kad Kojalavičius mini XV a. lenkiškus grašius piorunkas ir skiria juos nuo Lietuvoje žinotų perunų arba perkūnų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vadinasi, bu­
-    vo tik Jupiteris, turėjęs antrąją ypatybę*.
-    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
-    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
-    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
-    se buvo žinomi Lietuvoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Narbutas vertina, kad Albertas Vijūkas-Kojalavičius lotyniškoje lietuvių istorijoje tik sudėjo Strijkovskio veikalą į istorinius rėmus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Latvių, arba
-    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
-    randa nemažai vertingų tautos istorijos perlų. Jėzuitas
-    Kojai avičius*** parašė lietuvių istoriją lotynų kalba; jis
-    apsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius
-    rėmus, ne visuomet taikliai taisydamas jo spragas.
-    6
-    Nuo to meto nieko iš šio dalyko neišėjo ištisai: mė­
-    ginimai, nedidelės žinutės, studijos, prielaidų fragmentai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­
-    da XII amžiuje išsivedė su savimi lietuvių genčių kolo­
-    nistus, nuo seno gyvenusius prie Rosės upės.
-    101
-    Si nuomonė darosi vis panašesnė į tiesą, kai Kojala-
-    vičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­
-    do istoriją, aprašančią pagalbą totorių vado Mamajaus,
-    kuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą
-    Beloserka. Mamajus puldinėjo XIV amžiaus viduryje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-21550
@@ -265,12 +212,12 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    jas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo
-    paties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su
-    užrašais nepažįstamu raštu, kartais lotyniškomis raidėmis.
-    Jis sako (7 lapas, antroji pusė): „Prūsijoje ir gretimuose kraš­
-    tuose kapuose ir žemėje buvo randamos auksinės bei sidabri­
-    nės monetos su nežinomais atvaizdais, herbais ir užrašais.
+    Vadinasi, bu­
+    vo tik Jupiteris, turėjęs antrąją ypatybę*.
+    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
+    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
+    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
+    se buvo žinomi Lietuvoje.
   citata_rodoma: "Vadinasi, bu­\nvo tik Jupiteris, turėjęs antrąją ypatybę*.\nŽinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti\npiorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos\nnuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­\nse buvo žinomi Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -309,23 +256,15 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    mingiau susiję su vokiečių tauta, turi .pilnesnius ir geres­
-    nius už mus savo istorijų aprašymus; jų kronikininkų
-    skaičius yra ženklus. Mokytos plunksnos dirbo ir dabar
-    darbuojas i prie jų istorijos: Kocebus* parašė senovės
-    Prūsų istoriją, pelniusią didelį pripažinimą; mokslingasis
-    ponas Foi'gtas** baigia išleisti paskutinius pilnos tos
-    pačios istorijos tomus, kurių bus astuoni; šis visiškai už­
-    baigtas veikalas savo verte pranoksta visus lig tol žino­
-    mus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­
-    nikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie
-    šaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­
-    novės tyrėjai netgi padarė išsamiai ir tvarkingai surink­
-    tų, reikalingų ištraukų atsargas, o ponas Foigtas pats
-    nepaprastu savo darbštumu, genialumu ir talentais at­
-    skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
-    vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
-    ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
+    Latvių, arba
+    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
+    randa nemažai vertingų tautos istorijos perlų. Jėzuitas
+    Kojai avičius*** parašė lietuvių istoriją lotynų kalba; jis
+    apsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius
+    rėmus, ne visuomet taikliai taisydamas jo spragas.
+    6
+    Nuo to meto nieko iš šio dalyko neišėjo ištisai: mė­
+    ginimai, nedidelės žinutės, studijos, prielaidų fragmentai.
   citata_rodoma: "Latvių, arba\nLivonijos, autoriai pas naujesnius senovės tyrinėtojus at­\nranda nemažai vertingų tautos istorijos perlų. Jėzuitas\nKojai avičius*** parašė lietuvių istoriją lotynų kalba; jis\napsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius\nrėmus, ne visuomet taikliai taisydamas jo spragas.\n6\nNuo to meto nieko iš šio dalyko neišėjo ištisai: mė­\nginimai, nedidelės žinutės, studijos, prielaidų fragmentai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -361,15 +300,15 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tyrimai visiškai neatsako į šiuos
-    klausimus teigiamai, nes nėra įrodymų, kad Mamajus
-    buvo nužygiavęs į šią Ukrainos dalį. Be to, kyla ir dar
-    kitų klausimų: ar Charoboe ordos pečenegai, prisijungę
-    prie poloviečių ir atsikėlę į žemes kitapus Dono, neįkūrė
-    ten miesto ir nepavadino jo taip pat panašiai Belotzeba.
-    Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
-    kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
-    simus pateiks kiti tyrinėjimai.
+    Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­
+    da XII amžiuje išsivedė su savimi lietuvių genčių kolo­
+    nistus, nuo seno gyvenusius prie Rosės upės.
+    101
+    Si nuomonė darosi vis panašesnė į tiesą, kai Kojala-
+    vičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­
+    do istoriją, aprašančią pagalbą totorių vado Mamajaus,
+    kuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą
+    Beloserka. Mamajus puldinėjo XIV amžiaus viduryje.
   citata_rodoma: "Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­\nda XII amžiuje išsivedė su savimi lietuvių genčių kolo­\nnistus, nuo seno gyvenusius prie Rosės upės.\n101\nSi nuomonė darosi vis panašesnė į tiesą, kai Kojala-\nvičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­\ndo istoriją, aprašančią pagalbą totorių vado Mamajaus,\nkuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą\nBeloserka. Mamajus puldinėjo XIV amžiaus viduryje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

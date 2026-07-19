@@ -23,6 +23,9 @@ datos:
   - '1550 m.'
 date_start: '1160'
 date_end: '1550'
+amziai:
+  - 'XII'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,9 +33,6 @@ tags:
   - kunigaikštis
   - miestas
   - vieta
-amziai:
-  - 'XII'
-  - 'XVI'
 media_total_count: '15'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AKrakow_intages_1655_SP261.jpg'
@@ -1636,6 +1636,47 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01875|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173209|Petras Goštautas]]: Pasak Grzybowskio, Petras Goštautas Krokuvoje tapo pranciškonu, apsigyveno Vilniuje ir vertė miestiečius į krikščionybę.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186771|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d.
+## Reikšmingi paminėjimai
+- c-044
+  santrauka: 'Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Len­
+    kijoje kiekvienas žmogus pats rūpinasi savo šeimos
+    turtu: niekas neverčiamas traukti į karo žygį iš tėvy­
+    nės, vieni valstybėje verčiasi žemdirbyste, amatais bei
+    prekyba, kiti garbina dievą, sprendžia teismuose by­
+    las, rūpinasi pilių apsauga ir tarnauja didikams, žodžiu,
+    kiekvienas gyvena taip, kaip
+    L ie tu v o s d id ik a i m ė-
+    nori".
+    g in a
+    s u s ita ik y ti
+    su
+    Šich Achmetui visa ko
+    k a ra liu m i
+    prižadėjus, Lietuvos didikai,
+    kuriuos Breste karalius buvo
+    pašalinęs iš senato, Radomo seime, nė nepradėjus svar­
+    styti kitų reikalų, stengėsi lenkų remiami pašalinti vi­
+    sus esamus nesutarimus tarp karaliaus ir senato. Ka­
+    ralius viešai lenkams pasižadėjo, kad iš pagarbos jiems
+    padarys taip, kaip jie reikalauja, tačiau sakėsi neno­
+    rįs Lenkijoje nieko spręsti, o visą reikalą ketinąs per­
+    duoti lietuvių seimui. Tada lietuvių senato pirminin­
+    kas, Vilniaus vyskupas Vaitiekus Taboras, pakilęs iš
+    vietos, ir kreipėsi į karalių paprasta, bet nelyginant
+    kažkokio dangaus įkvėpimo kupina kalba: „Kažko­
+    kiems pasipūtėliams klastingai sukursčius prieš mus,
+    nieko pikta nepadariusius, tavo širdį, ligi šiol kentėme
+    tavo rūstį taip, kaip ir dera valdiniams, klausantiems
+    savo valdovo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-24211
@@ -2672,36 +2713,14 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Len­
-    kijoje kiekvienas žmogus pats rūpinasi savo šeimos
-    turtu: niekas neverčiamas traukti į karo žygį iš tėvy­
-    nės, vieni valstybėje verčiasi žemdirbyste, amatais bei
-    prekyba, kiti garbina dievą, sprendžia teismuose by­
-    las, rūpinasi pilių apsauga ir tarnauja didikams, žodžiu,
-    kiekvienas gyvena taip, kaip
-    L ie tu v o s d id ik a i m ė-
-    nori".
-    g in a
-    s u s ita ik y ti
-    su
-    Šich Achmetui visa ko
-    k a ra liu m i
-    prižadėjus, Lietuvos didikai,
-    kuriuos Breste karalius buvo
-    pašalinęs iš senato, Radomo seime, nė nepradėjus svar­
-    styti kitų reikalų, stengėsi lenkų remiami pašalinti vi­
-    sus esamus nesutarimus tarp karaliaus ir senato. Ka­
-    ralius viešai lenkams pasižadėjo, kad iš pagarbos jiems
-    padarys taip, kaip jie reikalauja, tačiau sakėsi neno­
-    rįs Lenkijoje nieko spręsti, o visą reikalą ketinąs per­
-    duoti lietuvių seimui. Tada lietuvių senato pirminin­
-    kas, Vilniaus vyskupas Vaitiekus Taboras, pakilęs iš
-    vietos, ir kreipėsi į karalių paprasta, bet nelyginant
-    kažkokio dangaus įkvėpimo kupina kalba: „Kažko­
-    kiems pasipūtėliams klastingai sukursčius prieš mus,
-    nieko pikta nepadariusius, tavo širdį, ligi šiol kentėme
-    tavo rūstį taip, kaip ir dera valdiniams, klausantiems
-    savo valdovo.
+    Gal priepuolį sukėlė
+    per didelis pyktis, išsiliejus
+    tulžiai, bet žmonės jį išsiaiškino kaip blogą ženklą,
+    kaip dievo kerštą. Dėl karaliaus ligos seimas buvo pa­
+    leistas, kadangi vargu ar ką galima buvo benuveikti.
+    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
+    metas, valdovo valia turėjęs būti Trakuose vaišingai
+    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
   citata_rodoma: "Gal priepuolį sukėlė\nper didelis pyktis, išsiliejus\ntulžiai, bet žmonės jį išsiaiškino kaip blogą ženklą,\nkaip dievo kerštą. Dėl karaliaus ligos seimas buvo pa­\nleistas, kadangi vargu ar ką galima buvo benuveikti.\nSusirgęs karalius nuvežamas į Krokuvą, o Šich Ach-\nmetas, valdovo valia turėjęs būti Trakuose vaišingai\npriimtas, sugrįžo į Lietuvą garbingos palydos apsuptas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

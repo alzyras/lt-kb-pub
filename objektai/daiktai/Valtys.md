@@ -165,23 +165,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Narbuto pasakojime po rusų jūros pajėgų sutriuškinimo nugalėtojai įplaukę į įlanką turėjo brautis pro sudužusias valtis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Danai, atplaukę su
-    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
-    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
-    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
-    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
-    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
-    Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
-    rios, turėjusi prie Rasytės susisiekimą su jūra.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -273,14 +256,14 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Danai, atplaukę su
+    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
+    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
+    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
+    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
     Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
-    rios, turėjusi prie Rasytės susisiekimą su jūra. Pasakoji­
-    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
-    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
-    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
-    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
-    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
-    Onevu, perėjimą į priešo pusę. Karalius Frotonas užėmė
+    rios, turėjusi prie Rasytės susisiekimą su jūra.
   citata_rodoma: "Danai, atplaukę su\nnedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas\nrusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,\njog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­\nveik iš naujo grumtis su sudužusiomis valtimis ir plūdu­\nriuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.\nToji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­\nrios, turėjusi prie Rasytės susisiekimą su jūra."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

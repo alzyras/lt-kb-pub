@@ -60,10 +60,12 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
   pagrindžia:
     - c-179289
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174655
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ant­
     ra vertus, beveik visoje Siaurės Europoje tai šen, tai ten
@@ -72,31 +74,6 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
     sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
     čius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra
     retenybė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174655
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    In­
-    formaciją apie
-    ukrainiečių pilkapius skaitytojas
-    ras
-    veikale, kurį kruopščiai ir moksliškai parašė M. Gra-
-    bovskis1. Sis darbas tikriausiai yra vienas žymiau­
-    sių ir dėl jame išdėstytų naujų faktų, ir dėl apimties. Ant­
-    ra vertus, beveik visoje Siaurės Europoje tai šen, tai ten
-    randami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir
-    Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
-    sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
-    čius3.
   citata_rodoma: "Ant­\nra vertus, beveik visoje Siaurės Europoje tai šen, tai ten\nrandami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir\nEstijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­\nsioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­\nčius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra\nretenybė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

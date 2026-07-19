@@ -162,6 +162,47 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
 - susijęs iš [[objektai/zodynas/politinė tauta lietuvių nacija.md#claim-t-22247|politinė tauta lietuvių nacija]]: Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192076|Valtys]]: Apie 880 m. iš Danijos išvaryti tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
 - susijęs iš [[objektai/grupes/Kentauro herbo dinastija.md#claim-t-198583|Kentauro herbo dinastija]]: Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Tolimesnioji Lietuvos istorija, pradedant Gedimino
+    sūnų išvardijimu, Platesniajame sąvade dėstoma pagal
+    Trumpojo sąvado antrąją, XV a. pabaigoje kilusią re­
+    dakciją. Prijungiant naujai parašytąją legendinę Lie­
+    tuvos istoriją prie nurašytos Trumpojo sąvado sudėti­
+    nės dalies — Vytauto laikus aprašančio „Didžiųjų Lie­
+    tuvos kunigaikščių metraščio", buvo visiškai perdirbta
+    ir šito šaltinio pradžia. Būtent, po Gedimino sūnų iš­
+    vardijimo, kuriuo Trumpajame sąvade prasideda „Di­
+    džiųjų Lietuvos kunigaikščių metraštis", Platesniajame
+    sąvade įdėtas padavimas apie Gedimino sūnų Kęstutį,
+    jo žmoną Birutę ir apie jų sūnaus Vytauto gimimą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Prie Seredžiaus, žemiau Dubysos žiočių, esantis apvalus kalnas su senos piliavietės liekana vadintas Palemono kalnu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
+    užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę­
+    sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir
+    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
+    kraštams.
+    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
+    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
+    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
+    turėjo keletą tokių auksinių monetų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-170431
@@ -195,18 +236,11 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Tolimesnioji Lietuvos istorija, pradedant Gedimino
-    sūnų išvardijimu, Platesniajame sąvade dėstoma pagal
-    Trumpojo sąvado antrąją, XV a. pabaigoje kilusią re­
-    dakciją. Prijungiant naujai parašytąją legendinę Lie­
-    tuvos istoriją prie nurašytos Trumpojo sąvado sudėti­
-    nės dalies — Vytauto laikus aprašančio „Didžiųjų Lie­
-    tuvos kunigaikščių metraščio", buvo visiškai perdirbta
-    ir šito šaltinio pradžia. Būtent, po Gedimino sūnų iš­
-    vardijimo, kuriuo Trumpajame sąvade prasideda „Di­
-    džiųjų Lietuvos kunigaikščių metraštis", Platesniajame
-    sąvade įdėtas padavimas apie Gedimino sūnų Kęstutį,
-    jo žmoną Birutę ir apie jų sūnaus Vytauto gimimą.
+    Gelbėda­
+    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
+    dovaujamų imperatoriaus Nerono giminaičio Palemono,
+    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
+    tos ir valstybės pradininkais.
   citata_rodoma: "Gelbėda­\nmiesi nuo jo persekiojimo, dalis romėnų „bajorų\", va­\ndovaujamų imperatoriaus Nerono giminaičio Palemono, \npabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­\ntos ir valstybės pradininkais."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -265,15 +299,15 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
-    užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę­
-    sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir
-    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
-    kraštams.
-    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
-    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
-    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
-    turėjo keletą tokių auksinių monetų.
+    Prie Sredniko miestelio, lie­
+    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
+    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
+    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
+    lemonu Kalnas).
+    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
+    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
+    Tęsdami šią istoriją, išdėstysime mūsų duomenis apie jį,
+    arba apie tapataus vardo valdovą, gyvenusį toje epochoje.
   citata_rodoma: "Prie Sredniko miestelio, lie­\ntuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo\nkitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-\ntės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­\nlemonu Kalnas).\nKaimiečiai net žino pasakojimų, vaizduojančių tą žmogų\nsudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).\nTęsdami šią istoriją, išdėstysime mūsų duomenis apie jį,\narba apie tapataus vardo valdovą, gyvenusį toje epochoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

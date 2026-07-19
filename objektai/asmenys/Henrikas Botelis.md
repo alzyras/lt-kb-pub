@@ -112,20 +112,6 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
-    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
-    kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi. Šitokia sutartis nepatiko
-    dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,
-    pasikliovus viešpačiu, drąsiai stoti į kovą.
-  citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -134,13 +120,11 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vienas brolis štai šitaip mirė kankinio mirtimi: prūsai jį gyvą pririšo už
-    rankų prie medžio ir, išpjovę jam iš pilvo bambą, ant kurios laikosi žarnos, prikalė ją prie
-    medžio ir, smarkiai mušdami, privertė vaikščioti aplink medį, kol visos žarnos susivijo
-    apie kamieną ir jis atidavė dievui dvasią, neišsižadėdamas tikrojo tikėjimo. Vartyk
-    nevartęs visus šventųjų kankinių gyvenimo aprašus, niekur neužtiksi, kad kas būtų
-    šitaip nukankintas. Netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs visokių kankinimo
-    būdų, šitokio nesugalvojo. Iš tiesų šitai būta nepaprasto ir pasaulyje negirdėto būdo309.
+    581), bet čia — jau ne Notangos teritorija.
+
+    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
+    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
+    kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi.
   citata_rodoma: "581), bet čia — jau ne Notangos teritorija.\n\nKadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.\nJie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,\nkurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -191,13 +175,11 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vartyk
-    nevartęs visus šventųjų kankinių gyvenimo aprašus, niekur neužtiksi, kad kas būtų
-    šitaip nukankintas. Netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs visokių kankinimo
-    būdų, šitokio nesugalvojo. Iš tiesų šitai būta nepaprasto ir pasaulyje negirdėto būdo309.
-    Štai kaip viešpats kalaviju išskyrė savo tautą, kurios kraują netikėliai liejo nelyginant
-    vandenį po visą žemę, ir nebuvo matyti, kas juos laidos, o jų kūnai bus palikti žemės
-    žvėrims!
+    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
+    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
+    kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi. Šitokia sutartis nepatiko
+    dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,
+    pasikliovus viešpačiu, drąsiai stoti į kovą.
   citata_rodoma: "Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.\nJie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,\nkurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi. Šitokia sutartis nepatiko\ndievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,\npasikliovus viešpačiu, drąsiai stoti į kovą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -13,6 +13,9 @@ datos:
   - '1795 m.'
 date_start: '1386'
 date_end: '1795'
+amziai:
+  - 'XIV'
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,9 +23,6 @@ tags:
   - ivykis
   - valdovas
   - seimas
-amziai:
-  - 'XIV'
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -154,18 +154,11 @@ Nenurodyta
 <a id="claim-t-169847"></a>
 - t-005
   teiginys: "Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liublino unija (1569 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Liublinas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublino unija (1569 m.)\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-154529
+    - c-154525
 
 <a id="claim-t-169848"></a>
 - t-011
@@ -308,6 +301,27 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80779|Abiejų Tautų Respublika]]: 1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką, vadinamą originaliu valstybių junginiu ir kartais laikomą Europos Sąjungos pirmtaku.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178841|Kryžiuočių ordinas]]: 1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną.
 - susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
+## Reikšmingi paminėjimai
+- c-011
+  santrauka: 'Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
+    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
+    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
+    nuvertinimo priežastis - istoriko politinės simpatijos LDK ir
+    lietuvių tautai. T. Narbutas - tipiškas gente lituanus, natione
+    polonus lietuvis bajoras. Ksavero Bogušo, Ignoto Onacevičiaus,
+    Adomo Honorijaus Kirkoro ir jo kultūrinio būrelio kūryba ir
+    veikla bandė parodyti LDK žemių istoriją, joje gyvenančių tau­
+    tybių kultūrinę įvairovę ir paliudyti neginčijamą teisę bent į
+    6 Jonynas I. Istorijos baruose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-154525
@@ -330,6 +344,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-011
 
 - id: c-154526
@@ -399,12 +414,10 @@ Nenurodyta
   citata_rodoma: "Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo-\nvų pripažinti Lietuvos antspaudus. Taigi J. J. Chodkevičius surado išeities \nkelius ten, kur, atrodė, jų nėra."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-154532
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -551,16 +564,11 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
-    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
-    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
-    nuvertinimo priežastis - istoriko politinės simpatijos LDK ir
-    lietuvių tautai. T. Narbutas - tipiškas gente lituanus, natione
-    polonus lietuvis bajoras. Ksavero Bogušo, Ignoto Onacevičiaus,
-    Adomo Honorijaus Kirkoro ir jo kultūrinio būrelio kūryba ir
-    veikla bandė parodyti LDK žemių istoriją, joje gyvenančių tau­
-    tybių kultūrinę įvairovę ir paliudyti neginčijamą teisę bent į
-    6 Jonynas I. Istorijos baruose.
+    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
+    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
+    savarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­
+    mas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­
+    litiniams įvykiams ir pagal juos suskirstė veikalo turinį6.
   citata_rodoma: "LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­\ndą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai\nsavarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­\nmas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­\nlitiniams įvykiams ir pagal juos suskirstė veikalo turinį6."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

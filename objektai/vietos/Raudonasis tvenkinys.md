@@ -42,6 +42,36 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
     - c-170343
 
 ## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
+    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
+    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
+    ir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs
+    turėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­
+    dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
+    patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
+    sų žemę pasiglemžti. Mūsų tėvas šitą tikrai patyrė
+    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
+    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
+    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
+    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
+    ir iždą, ir žirgyną, viską tą jis paėmė.
+    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
+    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
+    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
+    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
+    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
+    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
+    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
+    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
+    Vitebske.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -68,28 +98,9 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
-    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
-    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
-    ir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs
-    turėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­
-    dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
-    patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
-    sų žemę pasiglemžti. Mūsų tėvas šitą tikrai patyrė
-    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
-    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
-    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
-    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
-    ir iždą, ir žirgyną, viską tą jis paėmė.
-    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
-    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
-    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
-    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
-    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
-    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
-    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
-    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
-    Vitebske.
+    Paskui Lietuvos kariuomenė
+    pasidarė abipus Raudonojo tvenkinio užtvankos du
+    perėjimus per upę.
   citata_rodoma: "Paskui Lietuvos kariuomenė\npasidarė abipus Raudonojo tvenkinio užtvankos du\nperėjimus per upę."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

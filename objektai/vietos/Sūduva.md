@@ -447,28 +447,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-008
-  santrauka: 'Narbutas Sūduvą vaizdavo kaip provinciją, turėjusią daug įtvirtintų pilių, kur gyveno buvę savarankiški valdovai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sūduva turėjo gana
-    daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
-    giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
-    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
-    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
-    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
-    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
-    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
-    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
-    geografas taip pat žinojo vieną sudinų koloniją, buvusią
-    germanų markomanų genties kaimynystėje, dabar Pra­
-    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
-    iš prūsų Sūduvos kažkokia užklydusi genties dalis4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-009
   santrauka: 'Narbutas spėjo, kad Sūduvos šiaurinė siena buvo Pisos upė, skyrusi ją nuo Salavijos ir Nadruvos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -636,7 +614,9 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kryžiuočiams val­
+    Sūduva turėjo gana
+    daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
+    giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
     dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
     apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
     vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
@@ -646,14 +626,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     geografas taip pat žinojo vieną sudinų koloniją, buvusią
     germanų markomanų genties kaimynystėje, dabar Pra­
     hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
-    iš prūsų Sūduvos kažkokia užklydusi genties dalis4. Ne
-    kartą provincijoje prisiglausdavo nuo lenkų ir lietuvių
-    ginklų bėgantys jotvingiai. Rytuose ji ribojosi su Sudar­
-    gą, pietuose — su jotvingių Polese, vakaruose — su Ga­
-    linda ir Barta, o šiaurėje — su Barta ir Nadruva.
-    1 Kiti teigia, kad iš žodžio S žudąs, išmatos, pelkės, nes seniau
-    žemė ten buvusi labai pelkėta; bet išmanančiam kalbą ir papročius šis
-    spėjimas yra visiškai nepriimtinas.
+    iš prūsų Sūduvos kažkokia užklydusi genties dalis4.
   citata_rodoma: "Sūduva turėjo gana\ndaug įtvirtintų pilių, kur gyveno šioje provincijoje dau­\ngiausia buvusių savarankiškų valdovų. Kryžiuočiams val­\ndant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;\napie ją žinome tik iš Dusburgo paminėto jos valsčiaus,\nvadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir\nRaigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie\nšią, toje pačioje vietoje esančią provinciją, be to, neabe­\njotina, kad nuo seno ten gyveno ir lietuviui Tas pats\ngeografas taip pat žinojo vieną sudinų koloniją, buvusią\ngermanų markomanų genties kaimynystėje, dabar Pra­\nhos apskritis (Čekija), prie Vltavos upės; tai galėjo būti\niš prūsų Sūduvos kažkokia užklydusi genties dalis4."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

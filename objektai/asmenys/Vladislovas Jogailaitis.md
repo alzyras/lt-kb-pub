@@ -8,6 +8,10 @@ datos:
   - '1435 m.'
 date_start: '1435'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,10 +19,6 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '39'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Vladislaus_I_%28Chronica_Hungarorum%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVladislaus_I_%28Chronica_Hungarorum%29.jpg'
@@ -150,6 +150,63 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178806
+
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pasiuntiniai prašė, kad su tokiu
+    pat įkarščiu, su kuriuo neseniai atkalbinėjo Aleksandrą
+    nekariauti prieš Steponą, dabar padėtų karaliui Jonui
+    bei didžiajam kunigaikščiui Aleksandrui, pasiryžusiems
+    pradėti karą prieš turkus ir paremti Steponą, ypač dėl
+    to, kad to reikalauja ne tik pavienių asmenų susitarimai,
+    bet ir viso krikščionių pasaulio bendras reikalas. Iva­
+    nas, patvirtinęs, kad nieku būdu nepatiksiąs bėdoje Ste­
+    pono, pridūrė, kad neturįs kol kas jokių žinių apie Ste­
+    ponui gresiantį pavojų ir todėl ketinąs ateiti į pagalbą
+    tik tada, kai šis pats jos paprašysiąs. Kalbėdamas dėl
+    akių gražius žodžius, širdyje galvojo apie karą prieš
+    <
+    Lietuvą pasiryžęs pasipelnyti
+    1499 m eta i
+    iš svetimos nelaimės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ost­
+    rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo
+    aukščiausiajam, pastatydamas didelį Nedalomosios tre-
+    jybės vienuolyną ir jį paskirdamas vienuoliams, kurie,
+    6 3 4
+    I
+
+    laikydamiesi rusų apeigų, paklūsta Romos popiežiui.
+    Karalius bei karalienė, iškilmingai Vilniuje per mišias
+    padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­
+    mos popiežiui kaip dovaną keturiolika į nelaisvę pa­
+    imtų maskvėnų — pačių žymiausiųjų didikų. Tačiau
+    imperatorius Maksimilijonas netoli Halės jėga juos at­
+    ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal
+    į Maskvą. Be abejo, šitai jis
+    Im p e ra to riu s
+    M a k si-
+    padarė dėl savo senos drau-
+    m ili jo n a s
+    išsiža d a
+    gystės su Vasilijumi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -286,22 +343,15 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pasiuntiniai prašė, kad su tokiu
-    pat įkarščiu, su kuriuo neseniai atkalbinėjo Aleksandrą
-    nekariauti prieš Steponą, dabar padėtų karaliui Jonui
-    bei didžiajam kunigaikščiui Aleksandrui, pasiryžusiems
-    pradėti karą prieš turkus ir paremti Steponą, ypač dėl
-    to, kad to reikalauja ne tik pavienių asmenų susitarimai,
-    bet ir viso krikščionių pasaulio bendras reikalas. Iva­
-    nas, patvirtinęs, kad nieku būdu nepatiksiąs bėdoje Ste­
-    pono, pridūrė, kad neturįs kol kas jokių žinių apie Ste­
-    ponui gresiantį pavojų ir todėl ketinąs ateiti į pagalbą
-    tik tada, kai šis pats jos paprašysiąs. Kalbėdamas dėl
-    akių gražius žodžius, širdyje galvojo apie karą prieš
-    <
-    Lietuvą pasiryžęs pasipelnyti
-    1499 m eta i
-    iš svetimos nelaimės.
+    Po to Lietuvos Didžiosios Kunigaikštystės
+    vardu sudarė taiką su Steponu, Valachijos valdovu,
+    bei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,
+    Vengrijos karaliaus, pastangomis lenkai, vengrai, če­
+    kai, lietuviai ir valachai sudarė sutartis, kuriomis ne
+    tik valdovai, bet ir visos jų karalystės bei žemės pa­
+    žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
+    Dievobaimingas Aleksandro įstangas sužlugdė klas­
+    tingos Ivano pinklės.
   citata_rodoma: "Po to Lietuvos Didžiosios Kunigaikštystės\nvardu sudarė taiką su Steponu, Valachijos valdovu,\nbei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,\nVengrijos karaliaus, pastangomis lenkai, vengrai, če­\nkai, lietuviai ir valachai sudarė sutartis, kuriomis ne\ntik valdovai, bet ir visos jų karalystės bei žemės pa­\nžadėjo viena kitą ginti, kai prasidės karas prieš turkus.\nDievobaimingas Aleksandro įstangas sužlugdė klas­\ntingos Ivano pinklės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -316,27 +366,20 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ost­
-    rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo
-    aukščiausiajam, pastatydamas didelį Nedalomosios tre-
-    jybės vienuolyną ir jį paskirdamas vienuoliams, kurie,
-    6 3 4
-    I
+    Kiekvienas apsistojo
+    635
 
-    laikydamiesi rusų apeigų, paklūsta Romos popiežiui.
-    Karalius bei karalienė, iškilmingai Vilniuje per mišias
-    padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­
-    mos popiežiui kaip dovaną keturiolika į nelaisvę pa­
-    imtų maskvėnų — pačių žymiausiųjų didikų. Tačiau
-    imperatorius Maksimilijonas netoli Halės jėga juos at­
-    ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal
-    į Maskvą. Be abejo, šitai jis
-    Im p e ra to riu s
-    M a k si-
-    padarė dėl savo senos drau-
-    m ili jo n a s
-    išsiža d a
-    gystės su Vasilijumi.
+    ## Puslapis 634
+
+    skirtingame miestelyje, o dideliame lauke, esančiame
+    tarp tų miestelių, augo lapuotas medis, kurio pavėsy­
+    je iš tiesų rodėsi labai patogu susitikti valdovams.
+    Imperatorius, karalius Vladislovas bei jo duktė Ona at­
+    važiavo važiuoti, o Žygimantas ir Liudvikas raiti at­
+    jojo. Anksčiau, nei visi pasisveikino, paspausdami vie­
+    ni kitiems rankas, Liudvikas pagerbė Maksimilijoną
+    kaip tėvą ir valdovą, nes Čekijos karalystė priklausė
+    Romos imperijai.
   citata_rodoma: "Kiekvienas apsistojo\n635\n\n## Puslapis 634\n\nskirtingame miestelyje, o dideliame lauke, esančiame\ntarp tų miestelių, augo lapuotas medis, kurio pavėsy­\nje iš tiesų rodėsi labai patogu susitikti valdovams.\nImperatorius, karalius Vladislovas bei jo duktė Ona at­\nvažiavo važiuoti, o Žygimantas ir Liudvikas raiti at­\njojo. Anksčiau, nei visi pasisveikino, paspausdami vie­\nni kitiems rankas, Liudvikas pagerbė Maksimilijoną\nkaip tėvą ir valdovą, nes Čekijos karalystė priklausė\nRomos imperijai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

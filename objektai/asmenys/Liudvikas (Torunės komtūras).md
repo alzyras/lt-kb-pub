@@ -68,6 +68,30 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
   pagrindžia:
     - c-169426
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos kaip priešams.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Stanislovo katedroje
+    Vilniuje paskelbė susirinku­
+    siems žmonėms popiežiaus raštą, kuriuo Žygimantas bei
+    visi Lietuvos Didžiosios Kunigaikštystės gyventojai
+    buvo atleidžiami nuo priesaikos, prieš metus duotos
+    Boleslovui. Tada Žygimantas pagal senus papročius
+    buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
+    keltas į sostą, į dešinę jam įteikiant apnuogintą ka­
+    laviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių
+    didžiai susikrimto Liudvikas, Toninės komtūras, kuris
+    su trimis savo draugais, kryžiuočių ordino riteriais, gy­
+    veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
+    tikrųjų uoliai eidamas žvalgo pareigas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169424
@@ -102,19 +126,11 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Stanislovo katedroje
-    Vilniuje paskelbė susirinku­
-    siems žmonėms popiežiaus raštą, kuriuo Žygimantas bei
-    visi Lietuvos Didžiosios Kunigaikštystės gyventojai
-    buvo atleidžiami nuo priesaikos, prieš metus duotos
-    Boleslovui. Tada Žygimantas pagal senus papročius
-    buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
-    keltas į sostą, į dešinę jam įteikiant apnuogintą ka­
-    laviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių
-    didžiai susikrimto Liudvikas, Toninės komtūras, kuris
-    su trimis savo draugais, kryžiuočių ordino riteriais, gy­
-    veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
-    tikrųjų uoliai eidamas žvalgo pareigas.
+    Vis dėlto lėmė ne jo, o blaiviau galvojan­
+    čių žmonių nuomonė. Valstybės ištarme buvo įsakyta
+    Liudvikui kaip priešui kartu su savo draugais kuo
+    greičiausiai išsinešdinti iš Lietuvos. Turėjo tylėti ir
+    Jurgis, nenorėdamas patirti didesnių nemalonumų.
   citata_rodoma: "Vis dėlto lėmė ne jo, o blaiviau galvojan­\nčių žmonių nuomonė. Valstybės ištarme buvo įsakyta\nLiudvikui kaip priešui kartu su savo draugais kuo\ngreičiausiai išsinešdinti iš Lietuvos. Turėjo tylėti ir\nJurgis, nenorėdamas patirti didesnių nemalonumų."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

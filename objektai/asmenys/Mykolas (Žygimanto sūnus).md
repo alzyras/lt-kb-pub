@@ -9,16 +9,16 @@ datos:
   - '1448 m.'
 date_start: '1440'
 date_end: '1448'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - pilis
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -131,17 +131,61 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   pagrindžia:
     - c-168158
 
-<a id="claim-t-196568"></a>
-- t-011
-  teiginys: "Mykolas (Žygimanto sūnus) nieko n eg alįs nutarti be L ietuvos sen ato žinios ir p ritarim o ."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168159
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat perdaug gerai
+    visi žinojo sutartį, neseniai atnaujintą su Vladislovu:
+    pagal ją, mirus Žygimantui, karalius Vladislovas pavel­
+    di valdžią. Štai todėl Kazimieras, pasak Lietuvos istori­
+    kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš San-
+    domiro į Brestą. Tuo tarpu lenkų istorikai teigia, jog
+    lenkai susitarę su pasiuntiniais, kad Kazimieras keliau­
+    siąs į Lietuvą ir ją brolio vardu valdysiąs, tačiau nie­
+    kad nesisavinsiąs Lietuvos didžiojo kunigaikščio titulo.
+    Ar vienaip, ar kitaip ten buvo, abejonių nekelia vienas
+    dalykas: jeigu Kazimieras nebūtų paskubėjęs, būtų nu­
+    kentėję ir karalius, ir susitarimai, mat kitos grupuotės
+    vadovas būtų ginklu pasigrobęs valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: '1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Š tai dėl to ir lenkai, ir lie­
+    tuviai pradėjo šnairuoti į karalių: lenkai manė, jog
+    skitai įsiveržė į Podolę dėl
+    L en k a i
+    ir
+    lie tu v ia i
+    to, kad sudarė kokius slaptus
+    p r a d e d a įta rin ėti ka-
+    susitarimus su karaliumi, o
+    ralių
+    lietuviai B učackio elgesį aiš­
+    k in o si karaliaus neapdairu­
+    mu. L enkai pirmieji atvirai jį užsipuolė, reik alau d am i
+    su šau k ti luom us į Piotrkovo seim ą. T am e seim e jie v i­
+    saip rag in o k a ra lių n iek o n ed a ry ti B učackui, atėm u siam
+    iš lietuvių Chmelniką ir M edžibožą, be to, neatiduoti
+    u žg ro b tų P odolės žem ių lietu v iam s, o su siru o šu s iš L en­
+    k ijo s į L ietuvą, n iek u b ū d u n esu g a lv o ti leistis į k elią
+    be lenkų senatorių. Karalius į tai atsakė, jo g nė v ie ­
+    nam len k u i n e k e tin ą s atsa k y ti teisės b ū ti jo palydovu,
+    bet tokiu svarbiu L ietu v ai reikalu jis nieko n eg alįs nu­
+    tarti be L ietuvos sen ato žinios ir p ritarim o .
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-006
 
 ## Citatos
 
@@ -199,19 +243,24 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat perdaug gerai
-    visi žinojo sutartį, neseniai atnaujintą su Vladislovu:
-    pagal ją, mirus Žygimantui, karalius Vladislovas pavel­
-    di valdžią. Štai todėl Kazimieras, pasak Lietuvos istori­
-    kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš San-
-    domiro į Brestą. Tuo tarpu lenkų istorikai teigia, jog
-    lenkai susitarę su pasiuntiniais, kad Kazimieras keliau­
-    siąs į Lietuvą ir ją brolio vardu valdysiąs, tačiau nie­
-    kad nesisavinsiąs Lietuvos didžiojo kunigaikščio titulo.
-    Ar vienaip, ar kitaip ten buvo, abejonių nekelia vienas
-    dalykas: jeigu Kazimieras nebūtų paskubėjęs, būtų nu­
-    kentėję ir karalius, ir susitarimai, mat kitos grupuotės
-    vadovas būtų ginklu pasigrobęs valdžią.
+    Boleslovas, bijodamas, kad prieš jį nebūtų imtasi
+    kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją. Tuo
+    46 9
+
+    ## Puslapis 468
+
+    tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­
+    siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,
+    paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
+    tais raitelių. Netikėtai miš-
+    A tle id ž ia
+    n e tik ė ta i
+    kuose netoli Rūdninkų mies-
+    p a k e lė je
+    s u tik ta m
+    telio jis užšoko ant Kazimiero
+    M y k o lu i
+    palydos.
   citata_rodoma: "Boleslovas, bijodamas, kad prieš jį nebūtų imtasi\nkokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją. Tuo\n46 9\n\n## Puslapis 468\n\ntarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­\nsiais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,\npaliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­\ntais raitelių. Netikėtai miš-\nA tle id ž ia\nn e tik ė ta i\nkuose netoli Rūdninkų mies-\np a k e lė je\ns u tik ta m\ntelio jis užšoko ant Kazimiero\nM y k o lu i\npalydos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -258,28 +307,31 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Š tai dėl to ir lenkai, ir lie­
-    tuviai pradėjo šnairuoti į karalių: lenkai manė, jog
-    skitai įsiveržė į Podolę dėl
-    L en k a i
-    ir
-    lie tu v ia i
-    to, kad sudarė kokius slaptus
-    p r a d e d a įta rin ėti ka-
-    susitarimus su karaliumi, o
-    ralių
-    lietuviai B učackio elgesį aiš­
-    k in o si karaliaus neapdairu­
-    mu. L enkai pirmieji atvirai jį užsipuolė, reik alau d am i
-    su šau k ti luom us į Piotrkovo seim ą. T am e seim e jie v i­
-    saip rag in o k a ra lių n iek o n ed a ry ti B učackui, atėm u siam
-    iš lietuvių Chmelniką ir M edžibožą, be to, neatiduoti
-    u žg ro b tų P odolės žem ių lietu v iam s, o su siru o šu s iš L en­
-    k ijo s į L ietuvą, n iek u b ū d u n esu g a lv o ti leistis į k elią
-    be lenkų senatorių. Karalius į tai atsakė, jo g nė v ie ­
-    nam len k u i n e k e tin ą s atsa k y ti teisės b ū ti jo palydovu,
-    bet tokiu svarbiu L ietu v ai reikalu jis nieko n eg alįs nu­
-    tarti be L ietuvos sen ato žinios ir p ritarim o .
+    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
+    gužės pabaigoje, Mykolas su
+    1448 m e ta i
+    sk itais įsiv eržė į Severską ir,
+    Sum u ša M y k o lą  Se-
+    sum ušęs greitosiom is sutelk-
+    v e r s k e
+    tas jėg as, jam  p asto ju sias k e ­
+    lią, p aėm ė Brianską, Naugar-
+    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
+    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
+    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
+    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
+    žemių. Niekur neberasdamas užtarėjų, M ykolas pasp­
+    ruko į Maskvą, kur, priim-
+    M y k o lo  m irtis
+    tas į vienuolyną, kurį m etą
+    čia gyv en o  kaip paprastas
+    488
+
+    ## Puslapis 487
+
+    žmogus, o galop ir galą gavo, vienuolyno igumenui da­
+    vus apnuodytos duonos, kurią krikščionys paprastai var­
+    toja šventajai mišių aukai.
   citata_rodoma: "K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­\ngužės pabaigoje, Mykolas su\n1448 m e ta i\nsk itais įsiv eržė į Severską ir,\nSum u ša M y k o lą  Se-\nsum ušęs greitosiom is sutelk-\nv e r s k e\ntas jėg as, jam  p asto ju sias k e ­\nlią, p aėm ė Brianską, Naugar-\ndą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,\ndar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė\nį Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį\nkarą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų\nžemių. Niekur neberasdamas užtarėjų, M ykolas pasp­\nruko į Maskvą, kur, priim-\nM y k o lo  m irtis\ntas į vienuolyną, kurį m etą\nčia gyv en o  kaip paprastas\n488\n\n## Puslapis 487\n\nžmogus, o galop ir galą gavo, vienuolyno igumenui da­\nvus apnuodytos duonos, kurią krikščionys paprastai var­\ntoja šventajai mišių aukai."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -288,10 +340,9 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
-    - t-011
 
 ## Ryšiai
 - Rėmė Mykolą (Žygimanto sūnus): [[objektai/grupes/Žemaičiai]]
-- Mykolas (Žygimanto sūnus) keliavo į [[objektai/vietos/Mazovija]]
-- Mykolas (Žygimanto sūnus) puolė [[objektai/vietos/Severskas]]
+- Mykolas (Žygimanto sūnus) keliavo į Mazovija
+- Mykolas (Žygimanto sūnus) puolė Severskas
 - Mykolas (Žygimanto sūnus) kariavo prieš [[objektai/asmenys/Švitrigaila]]

@@ -113,7 +113,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 <a id="claim-t-190870"></a>
 - t-005
   teiginys: "Herodotas rašė, kad nuo Dnepro žiočių iki gerų krašto reikia plaukti 40 dienų, o Lelevelis tai siejo su maždaug 4000 stadijų."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:13"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -468,24 +468,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173763
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Herodotas rašė, kad tisagetai gyveno toliau į šiaurę už gelonų gyvenamą kraštą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pirmykštėje žmonių visuomenėje tautos sun­
-    kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
-    žmones, o gentainių pagalbą ir abipusę draugystę labai
-    brangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­
-    meninio gyvenimo kūdikystės lygio ir atrastų mūsų am­
-    žiais. Minėtų pelazgų palikuonių turėjo būti ant kai­
-    riojo Dono vidurupio kranto. Tai mini ir Herodotas*,
-    teigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų
-    gyvenamo krašto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-015
   santrauka: 'Narbutas nurodė, kad seniausios žinios apie Meotų jūrą randamos Herodoto darbuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -504,30 +486,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-016
-  santrauka: 'Narbutas teigė, kad Herodoto aprašymuose yra neaiškių vietų, kurias reikia nagrinėti skirtingų laikų dvasia.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Maždaug
-    500 metais prieš Kristaus gimimą klestėjo prekyba tarp
-    helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
-    Pameotidės gyventojai2. Herodoto aprašymuose yra ne­
-    mažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa­
-    nagrinėsime jas dabartinių ir praėjusių laikų dvasia.
-    Tai ir yra tikslas, kurio mes dar siekiame ir nuo kurio vis
-    labiau tolsime, kol liausimės praėjusio pasaulio dalykus
-    atkakliai ir su išankstine nuostata matuoti mūsų šiandie­
-    nos masteliais. Kritikuodami Herodoto patiklumą, taisy­
-    sime jo geografines klaidas ir tiesas, t. y. visuomet žvelg­
-    sime iš atitinkamos vėlesnių laikų pozicijos, mažų ma­
-    žiausiai neatsižvelgdami į išorinį žodžių pavidalą, jų
-    reikšmės ir minčių atitikimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 - c-017
   santrauka: 'Narbutas aiškino, kad Homero ir Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai matematiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -558,14 +516,12 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tai iš tikrųjų ir yra
-    graikų mitologijos Trejybė.
-    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
-    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
-    Indų trejybė - Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
-    Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
-    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
-    slavų Tryzną.
+    E Noelis mano, kad Kabi­
+    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
+    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
+    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
+    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
+    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
   citata_rodoma: "E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-\nmotrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir\nįvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­\nsiausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -601,15 +557,15 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tikėtina, kad jie
-    galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdynų.
-    Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,
-    mums artimą gentį, tad remkimės tik moksliniu ir kruopš­
-    čiai parašytu pono Riterio** veikalu1. Jame sakoma, kad
-    kolchai giminiavosi su indais, arba kitados iš Indostano
-    kilusiomis gentimis. Dievus garbino senovės Indijos bu­
-    dizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su­
-    siformavusiai budinu genčiai, kuri įsikūrė prie Dono.
+    Pirmykštėje žmonių visuomenėje tautos sun­
+    kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
+    žmones, o gentainių pagalbą ir abipusę draugystę labai
+    brangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­
+    meninio gyvenimo kūdikystės lygio ir atrastų mūsų am­
+    žiais. Minėtų pelazgų palikuonių turėjo būti ant kai­
+    riojo Dono vidurupio kranto. Tai mini ir Herodotas*,
+    teigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų
+    gyvenamo krašto.
   citata_rodoma: "Pirmykštėje žmonių visuomenėje tautos sun­\nkiai pakęsdavo šalia savęs svetimos giminės ir kalbos\nžmones, o gentainių pagalbą ir abipusę draugystę labai\nbrangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­\nmeninio gyvenimo kūdikystės lygio ir atrastų mūsų am­\nžiais. Minėtų pelazgų palikuonių turėjo būti ant kai­\nriojo Dono vidurupio kranto. Tai mini ir Herodotas*,\nteigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų\ngyvenamo krašto."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -874,7 +830,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    metais prieš Kristaus gimimą klestėjo prekyba tarp
+    Maždaug
+    500 metais prieš Kristaus gimimą klestėjo prekyba tarp
     helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
     Pameotidės gyventojai2. Herodoto aprašymuose yra ne­
     mažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa­
@@ -955,27 +912,17 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    VI priedas
-    Apie lietuvių kalbą
-    Aprašius religiją, papročius, prietarus ir daugelį kitų smul­
-    kesnių dalykų, susijusių su lietuvių tautos gyvenimu senovėje,
-    baigiant šį senovės istorijos tomą, dera pakalbėti apie lietuvių
-    kalbą tam, kad labiau priartėtume prie tų tyrimo objektų, iš
-    kurių būtų galima išvesti tautos istorijos pradžią: jos kilmę,
-    protėvių klajones iš vienos stovyklos į kitą, pastovų apsigyve­
-    nimą, giminystę su kitomis tautomis ir pagausėjimą slenkant
-    amžiams. Ne be pagrindo tyrėjai sugalvojo susekti seniausią
-    tautų istoriją iš jų gimtosios kalbos, nes rezultatas dažniausiai
-    apvainikuodavo jų pastangas visiškai naujais, iki šiol visiškai
-    nežinomais ir visiškai tikrais atradimais. Nesigilinsime į tų at­
-    radimų smulkmenas, kaip teko su jais padirbėti; neturime nė
-    tikslo mėgdžioti etimologinius išvedžiojimus, kaip tik gana pa­
-    plitusius, kadangi visam laikui pasirinkome savo pačių atrastą
-    kelią, kuriame neturi būti vietos etimologinėms išmonėms, pri­
-    temptoms daiktų ir žodžių panašybėmis, išskyrus tik tas, ku­
-    rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
-    daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
-    tymo.
+    Matoma, kad jie apsigyveno toli­
+    muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
+    ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
+    kios varginančios ir ilgos žiemos. Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę.
   citata_rodoma: "Matoma, kad jie apsigyveno toli­\nmuose Siaurės Europos rytuose seniausiai, kai tik slavų gen­\nties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­\nkios varginančios ir ilgos žiemos. Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -1056,4 +1003,4 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - t-026
 
 ## Ryšiai
-- Herodotas keliavo į [[objektai/vietos/Skitija]]
+- Herodotas keliavo į Skitija

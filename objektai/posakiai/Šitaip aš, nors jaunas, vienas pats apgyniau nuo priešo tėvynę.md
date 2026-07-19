@@ -72,7 +72,7 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
     mantui II. („Šitaip aš, nors jaunas, vienas pats apgy­
     niau nuo priešo [M. Glinskio] tėvynę, nesant ne tik
     valdovo, mano šviesiausiojo karaliaus, bet ir visų jį
-    pavaduojančių pareigūnų.")60
+    pavaduojančių pareigūnų.")6 0
     Neabejotiną A. Goštauto memorialo ryšį su By­
     chovco kronika rodo toji memorialo vieta, kur A. Goš­
     tautas trumpai išdėsto savo protėvių nuopelnus Lietu­

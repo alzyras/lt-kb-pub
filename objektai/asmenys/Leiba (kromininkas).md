@@ -127,11 +127,7 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
   puslapiai: "p. 163 (PDF 161)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 163 (PDF 161)."
   citata_originali: |
-    Leibienė išėjo gy­
-    venti į Panevėžį ir kromo nebenešiojo. Sakydavo: „Leibienė į gerus
-    išėjo“ .
-    Leiba gyvendavo su kaimynais santaikoje: visiems nusilenkda­
-    vo, niekam neužkliūdavo.
+    Leiba gyvendavo su kaimynais santaikoje: visiems nusilenkdavo, niekam neužkliūdavo.
   citata_rodoma: "Leiba gyvendavo su kaimynais santaikoje: visiems nusilenkdavo, niekam neužkliūdavo."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"

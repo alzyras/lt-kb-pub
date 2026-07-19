@@ -48,11 +48,18 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 <a id="claim-t-60065"></a>
 - t-001
   teiginys: "Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sarkis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sarkis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60696
+    - c-60697
 
 <a id="claim-t-60066"></a>
 - t-002
@@ -110,27 +117,27 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-001
 
 - id: c-60697
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    sugalvojo klastingai išduoti ir, prisidengus gerumo kauke, juos apgauti. Jis pasiuntė
-    savo žygūnus pas Klaipėdos komtūrą, nuolankiai ir pamaldžiai jį prašydamas atžygiuoti
-    su savo ginklanešiais ir jį, norintį su visais namais ir šeimyna išsižadėti stabmeldystės
-    ir priimti krikšto malonę, smurtu išsivesti, nes jis išvengsiąs netikėlių rankų tada, kai
-    atsidursiąs galingo žmogaus globoje. Komtūras, išgirdęs šitokias pasiuntinių kalbas,
-    labai nudžiugo; nors ir dvejodamas, bet vildamasis laimėti šitiek sielų, jis leidosi iš
-    meilės dievui prikalbinamas imtis šitokio pavojingo ir abejotino sumanymo.
+    Apie tai, kaip norėta išduoti brolius
+
+      Gyveno vienas  galingas  skalvių  vyras, vardu  Sarkis,  pilininkas Sarkų  pilies473,
+    šitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės
+    pasienyje474. Neturėdamas pakankamai  karių, su  kuriais  galėtų smogti  broliams,
+      471 Turima galvoje Skalvos žemės   į pietus nuo Nemuno.
   citata_rodoma: "Apie tai, kaip norėta išduoti brolius\n\n  Gyveno vienas  galingas  skalvių  vyras, vardu  Sarkis,  pilininkas Sarkų  pilies473,\nšitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės\npasienyje474. Neturėdamas pakankamai  karių, su  kuriais  galėtų smogti  broliams,\n  471 Turima galvoje Skalvos žemės   į pietus nuo Nemuno."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-60698
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

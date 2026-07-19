@@ -99,25 +99,6 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
   pagrindžia:
     - c-175345
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas Pamedės pavadinimą kildina iš lietuviško žodžio „Meže“, reiškiančio ribą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nuo seno čia gyvenę
-    žmonės žuvo kariaudami su slavais arba pasitraukė į
-    krašto gilumą; taigi rašytinių istorijos duomenų beveik
-    nėra, vadinasi, nėra ir tikslių žinių.
-    257
-    Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
-    ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
-    sėje su svetimais kraštais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-175066
@@ -144,14 +125,14 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pavadinimas kilęs iš lietuviš­
+    Nuo seno čia gyvenę
+    žmonės žuvo kariaudami su slavais arba pasitraukė į
+    krašto gilumą; taigi rašytinių istorijos duomenų beveik
+    nėra, vadinasi, nėra ir tikslių žinių.
+    257
+    Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
     ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
-    sėje su svetimais kraštais. Čia buvo senovinės Grevožės,
-    Probuto ir kitos pilys. Rytuose ji ribojosi su Pagude ir
-    Hokerlandija, pietuose — su Ruimu, vakaruose Vysla
-    skyrė nuo Pamario, o šiaurėje buvo Baltijos jūra. Čia
-    gyvenę žmonės buvo karingi, kupini normaniškos dva­
-    sios; Pamedėje gyveno daug garbingų šeimų.
+    sėje su svetimais kraštais.
   citata_rodoma: "Nuo seno čia gyvenę\nžmonės žuvo kariaudami su slavais arba pasitraukė į\nkrašto gilumą; taigi rašytinių istorijos duomenų beveik\nnėra, vadinasi, nėra ir tikslių žinių.\n257\nPamedė (Pomezania). Pavadinimas kilęs iš lietuviš­\nko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­\nsėje su svetimais kraštais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

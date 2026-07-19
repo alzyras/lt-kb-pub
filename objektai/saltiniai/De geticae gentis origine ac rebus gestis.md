@@ -97,28 +97,6 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   pagrindžia:
     - c-179288
 
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas, remdamasis Jordanu, skirius vaizdavo kaip gotų kaimynus, iš pradžių taikiai gyvenusius ir labiau linkusius į žemdirbystę negu kariavimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šių karingų
-    plėšikų būriai, savaime suprantama, negalėjo ilgai gy­
-    venti taikiai ir, kai kaimynystėje nebuvo ko plėšti, ėmė
-    vaidytis ir kariauti tarpusavyje. Tas pats istorikas Jorda­
-    nas, pasakodamas apie gotų kivirčus, pirmiausia mini
-    skirius, iš pradžių taikiai gyvenusius su kitomis gotų
-    gentimis; jie labiau linko į žemdirbystę ir namų verslus
-    negu į kariavimą. Tačiau atsitiko taip, kad svebų kara­
-    liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių
-    bendrininkai, kažin kokio pavydo šiai pagrindinei tautai
-    paskatinti, ėmė maištauti ir sukėlė pilietinį karą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-84393
@@ -183,18 +161,17 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tas pats istorikas Jorda­
+    Šių karingų
+    plėšikų būriai, savaime suprantama, negalėjo ilgai gy­
+    venti taikiai ir, kai kaimynystėje nebuvo ko plėšti, ėmė
+    vaidytis ir kariauti tarpusavyje. Tas pats istorikas Jorda­
     nas, pasakodamas apie gotų kivirčus, pirmiausia mini
     skirius, iš pradžių taikiai gyvenusius su kitomis gotų
     gentimis; jie labiau linko į žemdirbystę ir namų verslus
     negu į kariavimą. Tačiau atsitiko taip, kad svebų kara­
     liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių
     bendrininkai, kažin kokio pavydo šiai pagrindinei tautai
-    paskatinti, ėmė maištauti ir sukėlė pilietinį karą. Jie pir­
-    miausia sukurstė skirius nusimesti gotų priespaudą kaip
-    tik tuo metu, kai jau atvirai kovojo su jais susikivirčiję
-    kvadai. Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
-    su sukilėliais ir išvien su jais puolė gotus.
+    paskatinti, ėmė maištauti ir sukėlė pilietinį karą.
   citata_rodoma: "Šių karingų\nplėšikų būriai, savaime suprantama, negalėjo ilgai gy­\nventi taikiai ir, kai kaimynystėje nebuvo ko plėšti, ėmė\nvaidytis ir kariauti tarpusavyje. Tas pats istorikas Jorda­\nnas, pasakodamas apie gotų kivirčus, pirmiausia mini\nskirius, iš pradžių taikiai gyvenusius su kitomis gotų\ngentimis; jie labiau linko į žemdirbystę ir namų verslus\nnegu į kariavimą. Tačiau atsitiko taip, kad svebų kara­\nliukai Hunimundas ir Alarikas, gotų plėšikiškų žygių\nbendrininkai, kažin kokio pavydo šiai pagrindinei tautai\npaskatinti, ėmė maištauti ir sukėlė pilietinį karą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

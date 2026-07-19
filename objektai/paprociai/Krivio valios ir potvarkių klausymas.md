@@ -64,10 +64,12 @@ Nenurodyta
   pagrindžia:
     - c-172807
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas aiškina, kad Dusburgietis galėjo perdėti Nadruvos krivio valdžią, tačiau tai nepaneigia krivio institucijos buvimo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172807
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Sutikime trumpam
     su šiuo priekaištu ir pripažinkime, kad Dusburgietis suklydo
@@ -80,31 +82,6 @@ Nenurodyta
     paskutiniais stabmeldystės amžiais Romovių būta ne vienoje
     vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie
     vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172807
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Ar nebuvo kiekvienam svetim­
-    šaliui uždrausta įžengti į dievams skirtas vietas grasinant mir­
-    ties bausme? Ar svetimšalis, prekiaudamas krašte, matydavo
-    vyriausiąjį žynį, kuris net tautiečiams retai pasirodydavo, o nuo­
-    lat slėpdavosi šventovių slėptuvėse? Kas iš tikrųjų krivį įsivaiz­
-    duoja kaip Šiaurės popiežių, Kas Dusburgiečio palyginimą pri­
-    ima už gryną pinigą, taip pat kas vyriausiąjį prūsų žynį laiko
-    Baltijos jūros pakrantės šalių visagaliu valdovu, tas, žinoma,
-    turi gerokai stebėtis, kodėl kronikininkai apie jį nekalba; tas
-    pat turi kelti nerimą ir abejonę dėl visos to dalyko esmės. Ta­
-    čiau tam, kuriam žinoma, kokios reikšmės krivio pareigos tu­
-    rėjo Prūsijoje gyvenant tiems kronikininkams, kaip dažnai jo
   citata_rodoma: "Sutikime trumpam\nsu šiuo priekaištu ir pripažinkime, kad Dusburgietis suklydo\nir per daug išplėtė vyriausiojo žynio valdžią. Tačiau ar klaida\nkokiame nors dalyke arba jo nesupratimas paneigia dalyko tik­\nrumą? O gal dėl to nebuvo jokio krivio, kad Dusburgietis per­\ndėjo jo valdžią? Mes jau anksčiau parodėme, kad kronikinin­\nkas kaip reikiant nežinojo, koks buvo krivio laipsnis, rangas,\nvaldžios ribos. Jau mes mūsų istorijos tyrimais įrodėme, kad\npaskutiniais stabmeldystės amžiais Romovių būta ne vienoje\nvietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie\nvieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

@@ -9,12 +9,12 @@ datos:
   - '1900 m.'
 date_start: '1801'
 date_end: '1900'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,39 +33,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad toppen M.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Toppeno „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“ išleista Berlyne 1853 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
-    Schütz.—Berlin, 1853.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61952
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Иванов В. В., Топоров В. Н. Исследования в области славянских древностей:
-    Лексические и фразеологические вопросы реконструкции текстов. — М., 1974.
-    Иванов В. В., Топоров В. Н. Мифологические географические названия как
-    источник для реконструкции этногенеза и древнейшей истории славян.
-  citata_rodoma: "Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.\nSchütz.—Berlin, 1853."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -87,3 +54,21 @@ Dusburgietis teigia, kad toppen M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia šaltinio pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61952
+
+## Citatos
+
+- id: c-61952
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
+    Schütz.—Berlin, 1853.
+  citata_rodoma: "Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.\nSchütz.—Berlin, 1853."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

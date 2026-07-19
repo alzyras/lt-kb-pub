@@ -9,14 +9,14 @@ datos:
   - '1919 m.'
 date_start: '1457'
 date_end: '1919'
-amziai:
-  - 'XV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
+amziai:
+  - 'XV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -78,19 +78,6 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   pagrindžia:
     - c-170274
 - susijęs iš Daugai: Lietuvos kariuomenei puolant Vilniaus link pavyko iš bolševikų išvaduoti tik Daugus ir Žąslius.
-## Reikšmingi paminėjimai
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš-
-    laulul (Русская историческая библиотека, т. 27, 1970. p. 34).
-    3 3  Utcnls patikimuose šaltiniuose nepaliudytas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-170274
@@ -120,15 +107,9 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    10 Volkovyskas — BTSR miestas (prie aukštutinio Nemuno in­
-    tako
-    Volkovljos. apie 170 km Į pietus nuo Vilniaus, buvusioje
-    jotvingių žemėje).
-    XII a. buvo rusų Naugarduko kunigaikštystės
-    sudėtyje ir drauge su ja Mindaugo įjungtas | Lietuvos valstybę.
-    Minimas čia Volkovysko puolimas buvo 1249 ar 1250 m.
-    11 Slonimas — BTSR miestas (| pietus nuo aukštutinio Nemuno,
-    prie Nemuno intako Sčaros. apie 60 km j rytus nuo Volkovysko).
+    1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš-
+    laulul (Русская историческая библиотека, т. 27, 1970. p. 34).
+    3 3  Utcnls patikimuose šaltiniuose nepaliudytas.
   citata_rodoma: "1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš- \nlaulul (Русская историческая библиотека, т. 27, 1970. p. 34).\n3 3  Utcnls patikimuose šaltiniuose nepaliudytas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

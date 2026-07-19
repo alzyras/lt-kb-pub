@@ -7,13 +7,13 @@ datos:
   - '1710 m.'
 date_start: '1710'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinis-įvykis
   - ivykis
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,6 +90,29 @@ Nenurodyta
   pagrindžia:
     - c-174905
 
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tai buvo akivaizdus aukojimo puotų li­
+    kutis. Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tik­
+    riausiai pristatydavo Izraelio sūnūs ir kurie tais laikais labiau iš­
+    plito, Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir
+    visiškai likviduoti tą paprotį'. Bet jis išliko iki XVII amžiaus pra­
+    džios, nes Vilniaus vyskupas Bžostovskis dar 1710 metais tą pa­
+    protį
+    matė
+    ir
+    griežtai
+    jį
+    uždraudė2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
 ## Citatos
 
 - id: c-174905
@@ -97,9 +120,7 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai buvo akivaizdus aukojimo puotų li­
-    kutis. Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tik­
-    riausiai pristatydavo Izraelio sūnūs ir kurie tais laikais labiau iš­
+    Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais labiau iš­
     plito, Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir
     visiškai likviduoti tą paprotį'. Bet jis išliko iki XVII amžiaus pra­
     džios, nes Vilniaus vyskupas Bžostovskis dar 1710 metais tą pa­

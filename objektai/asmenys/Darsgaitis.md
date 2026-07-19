@@ -76,22 +76,9 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Prūsijos kronikininkai išvardija tokias vaidilų pareigas :
-    atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan­
-    čių jam dalykų; šviesti žmones, mokant, kaip jie pagal dievų
-    įsakymus privalo elgtis laikinajame gyvenime; melstis, idant
-    permaldautų dievus, o tuo tikslu per naktinius pasirodymus
-    maloniai aiškinti žyniams savo valią; laiminti žmones ir linkėti
-    jiems visokeriopos gerovės; pagaliau abejotinais atvejais arba
-    jeigu nutikdavo kokia nelaimė, padėti nelaimingajam ir nura­
-    minti jį apreiškus dievų valią. Svarbiausios jų funkcijos buvo
-    tokios: privalėjo uoliai stebėti saulės ir mėnulio judėjimą, idant
-    galėtų prideramai suskirstyti laiką ir pažymėti švenčių dienas,
-    suskirstyti metų laikus pagal žemės darbus ir iš anksto praneš-
-    ti juos ateinant ; šaukti ir suburti į krūvą žmones, jeigu jam
-    reikėdavo paskelbti kokius nors dalykus dievų vardu. Vaidilos
-    dažnai sukeldavo visus žmones į karą su dievų priešu; tuo klau-
-    simu, jų žodžiais tariant, jie žinodavę apreikštą dievų valią.
+    Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
+    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
+    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
   citata_rodoma: "Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227\nmetais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­\nmenę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

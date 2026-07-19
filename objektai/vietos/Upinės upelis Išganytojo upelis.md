@@ -123,19 +123,6 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-- c-003
-  santrauka: 'Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės kerus ant Upinės kaupo buvo pastatyta koplyčia.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kai Vilkijos seniūnas Zabiela uždraudė tuos
-    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
-    šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
-    ris dėl to iki šiol neprarado gydomojo poveikio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -184,11 +171,10 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    vės dėka. Pagaliau reikia prisiminti, kad graikų antika teigė,
-    jog gilės buvusios pirmasis žmonių maistas.
-    Visos šios trys pastabos aiškiai įtikina, kad lietuvių mitolo­
-    gija rėmėsi graikų mitologija, kadangi net menkose smulkme­
-    nose randamos apčiuopiamos panašybės.
+    Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
+    šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
+    ris dėl to iki šiol neprarado gydomojo poveikio.
   citata_rodoma: "Kai Vilkijos seniūnas Zabiela uždraudė tuos\nkerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,\nšv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­\nris dėl to iki šiol neprarado gydomojo poveikio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

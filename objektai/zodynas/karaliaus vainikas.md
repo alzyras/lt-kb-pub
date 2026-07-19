@@ -8,13 +8,13 @@ datos:
   - '1420 m.'
 date_start: '1419'
 date_end: '1420'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -86,12 +86,10 @@ media_all_json: |-
   pagrindžia:
     - c-168710
 
-## Citatos
-
-- id: c-168710
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po šių žygių garsas apie Vytauto pergales pasklido
     tarpu imperatorius Zigmantas
@@ -114,17 +112,17 @@ media_all_json: |-
     karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
     myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
     prieš imperatoriaus galybę.
-  citata_rodoma: "Jogaila\n1419 m e ta i \nir Vytautas, įsitikinę, jog len­\nkų reikalavimai teisėti, neat­\nmetė šitokios galimybės ginčui išspręsti. Kai paaiškėjo, \nkad imperatoriaus sprendimai nesiremia teisingumu, \nkad jo skelbiamos ištarmės pažeidžia net moralės nor­\nmas, jie atsisakė jo tarpinin-\n1420 m e ta i \nkavimo ir pasiryžo ginklu įro-\nkilusių tikybinių nesutarimų čekai atsisakė klausyti \nRomos bažnyčios, pradėjo atvirai maištauti prieš savo \nkaralių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­\nmyninėse šalyse jėgų, kuriomis galėtų remtis kovoje \nprieš imperatoriaus galybę. Žinodami, kad pastarojo\nČ ek a i siūlo karaliaus \nv a in ik ą \nJog a ila i \nir \nV y ta u tu i\nšiaurėje bei rytuose ir paska­\ntino kaimynus čekus, atsikra­\nčius teisėto valdovo valdžios, \npasisiūlyti į valdinius."
-  statusas: verified
-  atnaujinta: "2026-07-13 01:17"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-004
+  statusas: verified
+- t-003
+    - t-005
 
-- id: c-168711
+## Citatos
+
+- id: c-168710
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
@@ -153,6 +151,27 @@ media_all_json: |-
     tino kaimynus čekus, atsikra­
     čius teisėto valdovo valdžios,
     pasisiūlyti į valdinius.
+  citata_rodoma: "Jogaila\n1419 m e ta i \nir Vytautas, įsitikinę, jog len­\nkų reikalavimai teisėti, neat­\nmetė šitokios galimybės ginčui išspręsti. Kai paaiškėjo, \nkad imperatoriaus sprendimai nesiremia teisingumu, \nkad jo skelbiamos ištarmės pažeidžia net moralės nor­\nmas, jie atsisakė jo tarpinin-\n1420 m e ta i \nkavimo ir pasiryžo ginklu įro-\nkilusių tikybinių nesutarimų čekai atsisakė klausyti \nRomos bažnyčios, pradėjo atvirai maištauti prieš savo \nkaralių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­\nmyninėse šalyse jėgų, kuriomis galėtų remtis kovoje \nprieš imperatoriaus galybę. Žinodami, kad pastarojo\nČ ek a i siūlo karaliaus \nv a in ik ą \nJog a ila i \nir \nV y ta u tu i\nšiaurėje bei rytuose ir paska­\ntino kaimynus čekus, atsikra­\nčius teisėto valdovo valdžios, \npasisiūlyti į valdinius."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-004
+
+- id: c-168711
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Panašų atsakymą gavo jie ir iš
+    Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
+    manydami, jog troškimas gauti karaliaus vainiką įveiks
+    kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
+    gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
+    dis.
   citata_rodoma: "Panašų atsakymą gavo jie ir iš\nVytauto. Tačiau čekai neišsižadėjo savo sumanymo,\nmanydami, jog troškimas gauti karaliaus vainiką įveiks\nkiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­\ngūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­\ndis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

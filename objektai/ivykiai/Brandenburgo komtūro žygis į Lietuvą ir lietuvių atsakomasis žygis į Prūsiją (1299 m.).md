@@ -8,13 +8,13 @@ datos:
   - '1300 m.'
 date_start: '1299'
 date_end: '1300'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -115,12 +115,10 @@ Nenurodyta
   pagrindžia:
     - c-168918
 
-## Citatos
-
-- id: c-168916
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1299 m. Brandenburgo komtūras Kanonas įsibrovė į Lietuvą ir sudegino namus Junigedos bei Pieštvės papiliuose.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kanonas,
     1299 m e ta i
@@ -139,6 +137,35 @@ Nenurodyta
     braunasi į Notangą (mat ši buvo arčiausiai); tada sku­
     biai patraukė su būriu į šalį ir, parinkęs gerą vietą
     pasaloms, pradėjo laukti jų pasirodant.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168916
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kur kas didesnės sėkmės kitais metais susilaukė šeši
+    178
+
+    ## Puslapis 177
+
+    šimtai
+    raitelių.
+    Kanonas,
+    1299 m e ta i
+    Brandenburgo komtūras, su
+    nemaža kariuomene įsibro­
+    vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos
+    bei Pieštvės papilyse namus, o po to, papildęs kariuo­
+    menę stipriu Ragainės būriu, nugabeno ją laivais į
+    krašto gilumą. Pasroviui atskubėjo lietuviai ir, praradę
+    tik vieną saviškį, privertė priešą pasukti atgal.
   citata_rodoma: "Kur kas didesnės sėkmės kitais metais susilaukė šeši\n178\n\n## Puslapis 177\n\nšimtai\nraitelių.\nKanonas,\n1299 m e ta i\nBrandenburgo komtūras, su\nnemaža kariuomene įsibro­\nvęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos\nbei Pieštvės papilyse namus, o po to, papildęs kariuo­\nmenę stipriu Ragainės būriu, nugabeno ją laivais į\nkrašto gilumą. Pasroviui atskubėjo lietuviai ir, praradę\ntik vieną saviškį, privertė priešą pasukti atgal."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

@@ -9,15 +9,15 @@ datos:
   - '1317 m.'
 date_start: '1308'
 date_end: '1317'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karvedys
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -113,12 +113,10 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
 - susijęs iš Pagraudė: Sunaikinus Christmemelio įgulą, kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
 - susijęs iš Semba: Žemaičiai, Mansto ir Sudargo vedami, su penkių tūkstančių vyrų kariuomene smarkiai nusiaubė Sembos žemę.
 - susijęs iš [[objektai/zodynas/ariergardas.md#claim-t-185353|ariergardas]]: Maustas, Sudargas ir Masius puldinėjo atsitraukiančios kryžiuočių kariuomenės ariergardą, siekdami laimėti laiko lietuvių ir žemaičių pajėgoms.
-## Citatos
-
-- id: c-60842
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu lietuviai savo dievams kaip auką sudegino
     brolį Gerhardą, pravarde Rudė, Sembos fogtą, apvilktą šarvais ir užsodintą ant savo
@@ -127,6 +125,23 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
     1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus
     gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties
     nė karto neišėjęs už šios pilies sienų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-60842
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Kronikoje Sudargas, kaip lietuvių karo vadas,
+    figūruoja 1308—1317 m. įvykių aprašyme (III, 303, 311, 332). Jis kovojo prieš Ordiną,
+    kai kryžiuočiai puolė Pagraudę, todėl laikomas Pagraudės gyventoju (Łowmiański H.,
+    Studja..., 2, p. 186).
   citata_rodoma: "Kronikoje Sudargas, kaip lietuvių karo vadas,\nfigūruoja 1308—1317 m. įvykių aprašyme (III, 303, 311, 332). Jis kovojo prieš Ordiną,\nkai kryžiuočiai puolė Pagraudę, todėl laikomas Pagraudės gyventoju (Łowmiański H.,\nStudja..., 2, p. 186)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

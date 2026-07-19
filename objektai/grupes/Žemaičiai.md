@@ -18,15 +18,15 @@ datos:
   - '1930 m.'
 date_start: '1236'
 date_end: '1930'
+amziai:
+  - 'XIII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - kariuomenė
   - ordinas
-amziai:
-  - 'XIII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -652,7 +652,7 @@ media_all_json: |-
 <a id="claim-t-184595"></a>
 - t-095
   teiginys: "Kryžiuočių magistras Henrikas reikalavo Germanto priesaikos, kad lietuviai ir žemaičiai nesikiš į prūsų karą."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-19 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -672,6 +672,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-167956
+    - c-167957
 
 <a id="claim-t-184596"></a>
 - t-096
@@ -696,7 +697,7 @@ media_all_json: |-
 <a id="claim-t-184597"></a>
 - t-097
   teiginys: "Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -710,7 +711,6 @@ media_all_json: |-
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičiai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-167956
     - c-167958
 
 <a id="claim-t-187753"></a>
@@ -736,7 +736,7 @@ media_all_json: |-
 <a id="claim-t-187756"></a>
 - t-057
   teiginys: "Lietuvos metraštyje žemaičiai Palangoje nuo kopų akmenimis sumušė prieš juos sutelktą Prūsijos ir Livonijos vokiečių kariuomenę."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -813,7 +813,7 @@ media_all_json: |-
 <a id="claim-t-196130"></a>
 - t-102
   teiginys: "Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu ir reikalavo priesaikos, kad lietuviai bei žemaičiai nesikiš į prūsų karą."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-19 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -822,6 +822,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-167956
+    - c-167957
 
 <a id="claim-t-196131"></a>
 - t-103
@@ -933,7 +934,7 @@ media_all_json: |-
 <a id="claim-t-199157"></a>
 - t-063
   teiginys: "Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -968,7 +969,7 @@ media_all_json: |-
 <a id="claim-t-199162"></a>
 - t-005
   teiginys: "Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių siejo su atsargiu elgesiu su ugnimi ir teigė, kad Žemaičiuose jis buvo dievinamas „Dims tipo“ vardu."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1035,7 +1036,7 @@ media_all_json: |-
 <a id="claim-t-199168"></a>
 - t-008
   teiginys: "1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1115,7 +1116,7 @@ media_all_json: |-
 <a id="claim-t-199177"></a>
 - t-010
   teiginys: "Narbutas žemaičių liaudies procesijų paprotį gultis veidu į žemę po brolijų altorėliais aiškino kaip senųjų stabmeldiškų apeigų tąsą."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1211,7 +1212,7 @@ media_all_json: |-
 <a id="claim-t-199190"></a>
 - t-015
   teiginys: "Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
   semantiniai_rysiai: "[[objektai/grupes/Žemaičiai|Žemaičiai]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
@@ -1279,14 +1280,15 @@ media_all_json: |-
 <a id="claim-t-199200"></a>
 - t-062
   teiginys: "Yra padavimas, jog Žemaičiuose buvę septynios deivės par kos."
-  atnaujinta: "2026-07-19 17:45"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-181614
+    - c-171258
+    - c-181600
 
 <a id="claim-t-199208"></a>
 - t-068
@@ -1559,6 +1561,305 @@ media_all_json: |-
 - susijęs iš Užnerio žemė: Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių.
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
 - susijęs iš [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.).md#claim-t-185683|Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]: Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo.
+## Reikšmingi paminėjimai
+- c-032
+  santrauka: 'Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Prie Jaseldos upės
+    abi šalys stojo į įnirtingą mūšį, Mstislavas, sumuš­
+    tas, praradęs kariuomenę, vos gyvas
+    paspruko iš
+    kovos
+    lauko į Lucką. Tuo tarpu Skirmantas
+    po
+    šios
+    pergalės ta pačia proga iš rusų atėmė
+    Pin­
+    ską ir Turovą;
+    džiūgaudamas dėl pergalės ir dėl
+    atimtų iš priešų žemių, pa-
+    L ie tu v ia i iš rusų a ti-
+    siuntė atgal Zivinbudui Kū­
+    ma P in ską
+    kovaitį ir jo karius apdova­
+    nojo puikiomis dovanomis.
+    Šis buvo ne tik visiškai nukaršęs bei pasilpęs, jis nyk­
+    te nyko ligos kamuojamas, tačiau kai išgirdo, jog prie­
+    šas įveiktas, ir kai išvydo nugalėtoją sūnų, gerokai at­
+    sigavo jo dvasia, bepaliekanti kūną; baigdamas gy­
+    venimą, jis deramu laiku perdavė valdžią sūnui, kurį
+    po pergalės triumfuojantį matė savo akimis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-034
+  santrauka: 'Utenio sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus ir privertė priešą ginti savo kraštą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šiapus Neries vieš­
+    as
+
+    patavo Lietuvoje vietoje ne-
+    T ren io to s k a ra s su
+    seniai mirusio Skirmanto šio
+    sk ita is ir p e rg a lė
+    sūnus Treniota. Vos prade­
+    dančią įsigalėti jo valdžią
+    užgriuvo sunkus karas. Skitų kunigaikštis Kurdas troš­
+    ko arba pataisyti reikalus, arba atkeršyti už tėvą Ba-
+    laklajų, lietuvių per ankstesnį žygį nukautą kovos lau­
+    ke. Kad kerštas būtų kuo didesnis, ėmė visomis išga­
+    lėmis rengtis karui: iš visos Skitijos jis surinko kur
+    kas didesnę kariuomenę, nei kada anksčiau buvo su­
+    renkama: sutelkė didžiules Užvolgio, Nogajaus, Kaza­
+    nės, Krymo ordas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-035
+  santrauka: 'Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat tuo
+    metu
+    prie Dnepro Briansko kunigaikštis buvo sukėlęs nedi­
+    delį maištą: Mindaugas įsakė Daumantui traukti prieš
+    jį su kariuomene; Daumantas negaišdamas paskatino
+    Treniotą nepraleisti progos: dabar pagaliau atėjęs lai­
+    kas veikti, kai jo rankose kariuomenė. Taigi sutartą
+    dieną Treniota slaptai atvedė kariuomenę iš Žemaitijos,
+    o Daumantas iš Rusios9 ir gūdžią naktį įsiveržė į
+    karaliaus rūmus. Kai buvo suimti vartų sargybiniai,
+    žudikai, pasiųsti į miegamąjį, pribaigė valdovą lovo­
+    je.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-038
+  santrauka: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
+    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
+    ir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­
+    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
+    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
+    valdovu, jo broliui Trobiui
+    patikėta Žemaitija su ta są­
+    lyga, kad jis bus pavaldus
+    Lietuvos didžiajam kunigaik­
+    ščiui. Rūmų maršalas, para­
+    ginęs vieną bei kitą siekti ir
+    karo, ir taikos metu tokios pat santarvės bei šlovės,
+    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
+    bei lazdą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-107
+
+- c-042
+  santrauka: 'Lietuvos metraštis aiškina, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami būti vokiečių valdžioje.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Sekančią žiemą6 išsiuntė savo pasiuntinius pas
+    krikščionių imperatorių, ir pas Danijos karalių, Pama­
+    rio kunigaikščius, Silezijos ir vokiečių kunigaikščius,
+    ir pas savo žentą, Maskvos didįjį kunigaikštį, ir pas
+    Tverės didįjį kunigaikštį, ir pas Riazanės didįjį kuni­
+    gaikštį, ir pas Perekopo chaną, ir pas Moldavijos vai­
+    vadą, ir pas krikščionių valdovus, visus kviesdamas
+    pas save.
+    6 Lietuvos metraštis
+    i ! 3
+
+    Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im­
+    peratorius, buvęs tuo metu Vengrijos ir Čekijos kara­
+    liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir
+    Danijos karalius8, ir Perekopo chanas9, ir Riazanės
+    didysis kunigaikštis l0, ir Maskvos didysis kunigaikš­
+    tis", Vytauto žentas, ir Tverės didysis kunigaikštis
+    Borisas Aleksandrovičius'2, ir Prūsijos bei Livonijos
+    magistras l3, ir Odojevo u, ir Peremišlio l5, ir Novosi-
+    lės 16 kunigaikščiai, ir Moldavijos vaivada 17, ir graikų
+    imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
+    Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
+    čiai ir ponai, ir daug įvairių svečių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-043
+  santrauka: 'Lietuvos metraštyje žemaičiai Palangoje nuo kopų akmenimis sumušė prieš juos sutelktą Prūsijos ir Livonijos vokiečių kariuomenę.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im­
+    peratorius, buvęs tuo metu Vengrijos ir Čekijos kara­
+    liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir
+    Danijos karalius8, ir Perekopo chanas9, ir Riazanės
+    didysis kunigaikštis l0, ir Maskvos didysis kunigaikš­
+    tis", Vytauto žentas, ir Tverės didysis kunigaikštis
+    Borisas Aleksandrovičius'2, ir Prūsijos bei Livonijos
+    magistras l3, ir Odojevo u, ir Peremišlio l5, ir Novosi-
+    lės 16 kunigaikščiai, ir Moldavijos vaivada 17, ir graikų
+    imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
+    Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
+    čiai ir ponai, ir daug įvairių svečių.
+    Kai tie svečiai viešėjo pas didįjį kunigaikštį Vytau­
+    tą ir didysis kunigaikštis Vytautas visus juos gausiai
+    vaišino, kasdien vaišėms išeidavo septyni šimtai stati­
+    nių midaus, neskaitant muskatelio, ir vynų, ir malvazi-
+    jos, ir įvairių kitų gėrimų; septyni šimtai telyčių, sep­
+    tyni šimtai avinų ir paršų, po šešias dešimtis stumbrų,
+    po šimtą briedžių, neskaitant įvairios kitos žvėrienos
+    ir daugelio kitų mėsiškų ir naminių patiekalų20.
+    Ir vaišino didysis kunigaikštis Vytautas tuos sve­
+    čius septynias savaites21.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-044
+  santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis nujojo į Žemaičius ieškoti pagalbos ir su žemaičiais atėjo prie Trakų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Geras darbas valdovo paslaptį saugoti; dar geres­
+    nis — apie didžiojo valdovo darbus kalbėti.
+    Noriu jums papasakoti apie didįjį kunigaikštį Vy­
+    tautą, Lietuvos ir Rusų ir daugelio kitų šalių valdovą.
+    Nes yra parašyta: „Broliai, dievo bijokite, o valdovą
+    šlovinkite." Taip ir aš noriu jums pasekti apie tą šlo­
+    vingąjį valdovą. Bet didžiojo valdovo darbai nei žodžiu
+    neapsakomi, nei plunksna neaprašomi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-047
+  santrauka: 'Narbutas mini pajūrio žemaičių dainą, kurioje apverkiami jūreiviai, esą pagrobti paaukoti audrai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tuomet kildavo neapsakomas išgąs­
+    tis, nepaprasta baimė dėl greito rūstaus dievų keršto apimda­
+    vo šeimininką, namiškius ir kaimynus. Reikėdavo jam tuoj pat
+    užbėgti už akių, skubėti pas žymų žynį, kokį nors krivio arti­
+    mą, arba pas patį Krivių Krivaitį. Šis apreikšdavo dievų valią,
+    išaiškindavo, ko jie trokšta. Kadangi visuomet būtinai turėda­
+    vo būti aukojamas žmonių kraujas, todėl žynys įvardindavo
+    žmogų, kurį reikėdavo atnašauti kaip auką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-048
+  santrauka: 'Yra padavimas, jog Žemaičiuose buvę septynios deivės par kos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Jeigu tose
+    vietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­
+    rytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo
+    akmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba
+    elipsės formą. Gerbėjai jas galėdavo stebėti iš tam tikro atstumo,
+    bet vargas tam, kuris išdrįsdavo prisiartinti - jos be pasigailėji­
+    mo nužudydavo kiekvieną, kuris įžeisdavo jų garbę. Ir šiandien
+    Žemaitijoje paprasta liaudis dainuoja dainas, turinčias kažkokį
+    ryšį su tuo deivių verpėjų arba audėjų garbinimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-049
+  santrauka: 'Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Ragana (Ragana)
+    Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei­
+    vės, globojančios tam tikrus medžius, augančius savaime arba
+    kieno nors persodintus. Tokie medžiai yra užkerėti, tad pavo­
+    jinga juos liesti.
+    Kiekviena ragana turėjo savo medį, kurį globojo stengda­
+    masi padalyti viską, kad jis būtų sveikas ir augtų. Žmonėms,
+    kurie jai tuo tikslu būtų padėję, ji galėjo suteikti tūkstantį pa­
+    slaugų ir malonumų. Priešingai, tam, kuris norėjo savavališ­
+    kai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­
+    kų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti
+    neišgydomomis ligomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-050
+  santrauka: 'Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių siejo su atsargiu elgesiu su ugnimi ir teigė, kad Žemaičiuose jis buvo dievinamas „Dims tipo“ vardu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Taip pa­
+    sėdi kurį laiką, tarytum dar kažką apmąstydami. Šio senovinio
+    papročio buvo laikomasi net bajorų ir ponų namuose; be pri­
+    deramo dievybės pagerbimo ir atsidavimo jos globai, jis turi
+    dar ir tokį tikslą: ramaus apmąstymo valandėlę prieš išsiski­
+    riant kiekvienas turi progą prisiminti, ar prieš išvažiuodamas
+    ko nepraleido arba neužmiršo patvarkyti ką nors svarbaus na­
+    muose arba kelionei, nes išvažiavus ne laikas apie tai galvoti.
+    O
+    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
+    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
+    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
+    būtų priskirta nelaimingam jo perėjimui per kelią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-051
+  santrauka: 'Narbutas rašė, kad žemaičiai religijos pasikeitimą aiškino krikščionių užgesinta amžinąja ugnimi, dėl kurios Perkūnas sušals, o dievai užmigs.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pa­
+    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
+    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
+    pačiu šventu vardu Ross. Šitaip galindų tauta turėjo Rosės * 5
+    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
+    likti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį
+    seniausius budizmo principus, pastebėjo Kašmiro žemumoje*.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-054
+  santrauka: 'Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daug kaimiečių nepažino krikščioniško tikėjimo tiesų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
+    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
+    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
+    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
+    jų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­
+    damas įsitikinau1 2.
+    Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
+    matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­
+    čių pilkapi ų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-00356
@@ -2351,30 +2652,30 @@ media_all_json: |-
   puslapiai: "PDF 83"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 83."
   citata_originali: |
-    Prie Jaseldos upės
-    abi šalys stojo į įnirtingą mūšį, Mstislavas, sumuš­
-    tas, praradęs kariuomenę, vos gyvas
-    paspruko iš
-    kovos
-    lauko į Lucką. Tuo tarpu Skirmantas
-    po
-    šios
-    pergalės ta pačia proga iš rusų atėmė
-    Pin­
-    ską ir Turovą;
-    džiūgaudamas dėl pergalės ir dėl
-    atimtų iš priešų žemių, pa-
-    L ie tu v ia i iš rusų a ti-
-    siuntė atgal Zivinbudui Kū­
-    ma P in ską
-    kovaitį ir jo karius apdova­
-    nojo puikiomis dovanomis.
-    Šis buvo ne tik visiškai nukaršęs bei pasilpęs, jis nyk­
-    te nyko ligos kamuojamas, tačiau kai išgirdo, jog prie­
-    šas įveiktas, ir kai išvydo nugalėtoją sūnų, gerokai at­
-    sigavo jo dvasia, bepaliekanti kūną; baigdamas gy­
-    venimą, jis deramu laiku perdavė valdžią sūnui, kurį
-    po pergalės triumfuojantį matė savo akimis.
+    Skir­
+    mantas, norėdamas kuo greičiausiai atremti pavojų,
+    paprašė Živinbudą karinės paramos, kurią ir gavo: mat
+    jis dvejojo, ar galima pasikliauti naugardukiečiais,
+    kuriuos meilė savo tautai
+    S k irm a n to
+    k a ra s
+    su
+    lengvai galėjo pastūmėti į
+    ru sais ir p e rg a lė
+    išdavystę.
+    Živinbudas
+    pa­
+    siuntė savo sūnų Kukovai-
+    tį su rinktine lietuvių bei žemaičių kariauna. Mstisla­
+    vas
+    Bresto
+    apylinkėse
+    jau siaubė
+    kaimus,
+    žudė
+    žemdirbius, ketindamas pradėti karą, tačiau, išgirdęs
+    apie artėjantį Skirmantą, buvo priverstas sutraukti
+    savo pulkus iš kaimų į stovyklą.
   citata_rodoma: "Skir­\nmantas, norėdamas kuo greičiausiai atremti pavojų,\npaprašė Živinbudą karinės paramos, kurią ir gavo: mat\njis dvejojo, ar galima pasikliauti naugardukiečiais,\nkuriuos meilė savo tautai\nS k irm a n to\nk a ra s\nsu\nlengvai galėjo pastūmėti į\nru sais ir p e rg a lė\nišdavystę.\nŽivinbudas\npa­\nsiuntė savo sūnų Kukovai-\ntį su rinktine lietuvių bei žemaičių kariauna. Mstisla­\nvas\nBresto\napylinkėse\njau siaubė\nkaimus,\nžudė\nžemdirbius, ketindamas pradėti karą, tačiau, išgirdęs\napie artėjantį Skirmantą, buvo priverstas sutraukti\nsavo pulkus iš kaimų į stovyklą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -2417,23 +2718,20 @@ media_all_json: |-
   puslapiai: "PDF 87-88"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 87-88."
   citata_originali: |
-    Šiapus Neries vieš­
-    as
-
-    patavo Lietuvoje vietoje ne-
-    T ren io to s k a ra s su
-    seniai mirusio Skirmanto šio
-    sk ita is ir p e rg a lė
-    sūnus Treniota. Vos prade­
-    dančią įsigalėti jo valdžią
-    užgriuvo sunkus karas. Skitų kunigaikštis Kurdas troš­
-    ko arba pataisyti reikalus, arba atkeršyti už tėvą Ba-
-    laklajų, lietuvių per ankstesnį žygį nukautą kovos lau­
-    ke. Kad kerštas būtų kuo didesnis, ėmė visomis išga­
-    lėmis rengtis karui: iš visos Skitijos jis surinko kur
-    kas didesnę kariuomenę, nei kada anksčiau buvo su­
-    renkama: sutelkė didžiules Užvolgio, Nogajaus, Kaza­
-    nės, Krymo ordas.
+    Kitais metais
+    Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
+    tik savo šalyje priešintis Li-
+    L en kai k v ie č ia  iš V o -
+    vonijos riteriams, dabar lie-
+    k ie tijo s  į P rū siją  k r y -
+    tuviai buvo nusiųsti pulti
+    žiu o č iu s
+    priešų žemių. Sutelkus di­
+    džiulę
+    kuršių ir žemaičių
+    kariuomenę, buvo nusiaubti dideli Livonijos plotai. Ši­
+    taip Utenis privertė priešą liautis puldinėjus Žemaiti­
+    ją ir ginti savo kraštą.
   citata_rodoma: "Kitais metais\nUtenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę\ntik savo šalyje priešintis Li-\nL en kai k v ie č ia  iš V o -\nvonijos riteriams, dabar lie-\nk ie tijo s  į P rū siją  k r y -\ntuviai buvo nusiųsti pulti\nžiu o č iu s\npriešų žemių. Sutelkus di­\ndžiulę\nkuršių ir žemaičių\nkariuomenę, buvo nusiaubti dideli Livonijos plotai. Ši­\ntaip Utenis privertė priešą liautis puldinėjus Žemaiti­\nją ir ginti savo kraštą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -2447,18 +2745,14 @@ media_all_json: |-
   puslapiai: "PDF 108"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 108."
   citata_originali: |
-    Mat tuo
-    metu
-    prie Dnepro Briansko kunigaikštis buvo sukėlęs nedi­
-    delį maištą: Mindaugas įsakė Daumantui traukti prieš
-    jį su kariuomene; Daumantas negaišdamas paskatino
-    Treniotą nepraleisti progos: dabar pagaliau atėjęs lai­
-    kas veikti, kai jo rankose kariuomenė. Taigi sutartą
-    dieną Treniota slaptai atvedė kariuomenę iš Žemaitijos,
-    o Daumantas iš Rusios9 ir gūdžią naktį įsiveržė į
-    karaliaus rūmus. Kai buvo suimti vartų sargybiniai,
-    žudikai, pasiųsti į miegamąjį, pribaigė valdovą lovo­
-    je.
+    Niekada prie jo
+    nebūsią galima lengviau prieiti, kaip tada, kai, išren­
+    gęs į Mažo vi ją geriausiuosius pulkus, pats liksiąs be
+    apsaugos. Jeigu prireiksią jėgos, Treniotai į pagalbą
+    atskubėsianti jam atsidavusi žemaičių kariuomenė, be
+    to, ir jis pats laiku atsirasiąs su naugardukiečių ka­
+    riais. Neilgai atsilaikė tiems kurstymams Treniotos
+    širdis, iš prigimties pati linkusi į garbę.
   citata_rodoma: "Niekada prie jo\nnebūsią galima lengviau prieiti, kaip tada, kai, išren­\ngęs į Mažo vi ją geriausiuosius pulkus, pats liksiąs be\napsaugos. Jeigu prireiksią jėgos, Treniotai į pagalbą\natskubėsianti jam atsidavusi žemaičių kariuomenė, be\nto, ir jis pats laiku atsirasiąs su naugardukiečių ka­\nriais. Neilgai atsilaikė tiems kurstymams Treniotos\nširdis, iš prigimties pati linkusi į garbę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -2507,7 +2801,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-095
-    - t-097
     - t-102
     - t-103
 
@@ -2542,7 +2835,9 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-093
+    - t-095
     - t-096
+    - t-102
 
 - id: c-167958
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2550,20 +2845,16 @@ media_all_json: |-
   puslapiai: "PDF 131"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
+    Vis dėl­
+    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
+    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
+    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
+    sako Livonijos metraštis, žemaičiai ir lietuviai prie
+    Eželio ant ledo kovojo su Livonijos magistru Otonu,
+    magistras žuvo su penkiasdešimčia šio ordino brolių.
     Tokio pat likimo susilaukė jo įpėdinis Andrius fon
     Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­
-    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
-    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
-    valdovu, jo broliui Trobiui
-    patikėta Žemaitija su ta są­
-    lyga, kad jis bus pavaldus
-    Lietuvos didžiajam kunigaik­
-    ščiui. Rūmų maršalas, para­
-    ginęs vieną bei kitą siekti ir
-    karo, ir taikos metu tokios pat santarvės bei šlovės,
-    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
-    bei lazdą.
+    ir žuvo.
   citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2644,29 +2935,13 @@ media_all_json: |-
   puslapiai: "PDF 108-109"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 108-109."
   citata_originali: |
-    Sekančią žiemą6 išsiuntė savo pasiuntinius pas
-    krikščionių imperatorių, ir pas Danijos karalių, Pama­
-    rio kunigaikščius, Silezijos ir vokiečių kunigaikščius,
-    ir pas savo žentą, Maskvos didįjį kunigaikštį, ir pas
-    Tverės didįjį kunigaikštį, ir pas Riazanės didįjį kuni­
-    gaikštį, ir pas Perekopo chaną, ir pas Moldavijos vai­
-    vadą, ir pas krikščionių valdovus, visus kviesdamas
-    pas save.
-    6 Lietuvos metraštis
-    i ! 3
-
-    Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im­
-    peratorius, buvęs tuo metu Vengrijos ir Čekijos kara­
-    liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir
-    Danijos karalius8, ir Perekopo chanas9, ir Riazanės
-    didysis kunigaikštis l0, ir Maskvos didysis kunigaikš­
-    tis", Vytauto žentas, ir Tverės didysis kunigaikštis
-    Borisas Aleksandrovičius'2, ir Prūsijos bei Livonijos
-    magistras l3, ir Odojevo u, ir Peremišlio l5, ir Novosi-
-    lės 16 kunigaikščiai, ir Moldavijos vaivada 17, ir graikų
-    imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
-    Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
-    čiai ir ponai, ir daug įvairių svečių.
+    Ir išvažinėjo savo keliais.
+    Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
+    vietininkus, nebenorėdami daugiau būti vokiečių val­
+    džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 .
   citata_rodoma: "Ir išvažinėjo savo keliais.\nSekančią vasarą žemaičiai išžudė Prūsijos vokiečių \nvietininkus, nebenorėdami daugiau būti vokiečių val­\ndžioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2680,28 +2955,14 @@ media_all_json: |-
   puslapiai: "PDF 109"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 109."
   citata_originali: |
-    Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im­
-    peratorius, buvęs tuo metu Vengrijos ir Čekijos kara­
-    liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir
-    Danijos karalius8, ir Perekopo chanas9, ir Riazanės
-    didysis kunigaikštis l0, ir Maskvos didysis kunigaikš­
-    tis", Vytauto žentas, ir Tverės didysis kunigaikštis
-    Borisas Aleksandrovičius'2, ir Prūsijos bei Livonijos
-    magistras l3, ir Odojevo u, ir Peremišlio l5, ir Novosi-
-    lės 16 kunigaikščiai, ir Moldavijos vaivada 17, ir graikų
-    imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
-    Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
-    čiai ir ponai, ir daug įvairių svečių.
-    Kai tie svečiai viešėjo pas didįjį kunigaikštį Vytau­
-    tą ir didysis kunigaikštis Vytautas visus juos gausiai
-    vaišino, kasdien vaišėms išeidavo septyni šimtai stati­
-    nių midaus, neskaitant muskatelio, ir vynų, ir malvazi-
-    jos, ir įvairių kitų gėrimų; septyni šimtai telyčių, sep­
-    tyni šimtai avinų ir paršų, po šešias dešimtis stumbrų,
-    po šimtą briedžių, neskaitant įvairios kitos žvėrienos
-    ir daugelio kitų mėsiškų ir naminių patiekalų20.
-    Ir vaišino didysis kunigaikštis Vytautas tuos sve­
-    čius septynias savaites21.
+    Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­
+    kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­
+    gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­
+    kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų
+    valdovu. Ir Vytautas juos priėmė savo globon 6 .
   citata_rodoma: "Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­\nkiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­\ngu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­\nkam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų \nvaldovu. Ir Vytautas juos priėmė savo globon 6 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2717,14 +2978,16 @@ media_all_json: |-
   puslapiai: "PDF 177"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 177."
   citata_originali: |
-    Geras darbas valdovo paslaptį saugoti; dar geres­
-    nis — apie didžiojo valdovo darbus kalbėti.
-    Noriu jums papasakoti apie didįjį kunigaikštį Vy­
-    tautą, Lietuvos ir Rusų ir daugelio kitų šalių valdovą.
-    Nes yra parašyta: „Broliai, dievo bijokite, o valdovą
-    šlovinkite." Taip ir aš noriu jums pasekti apie tą šlo­
-    vingąjį valdovą. Bet didžiojo valdovo darbai nei žodžiu
-    neapsakomi, nei plunksna neaprašomi.
+    180
+
+    ## Puslapis 174
+
+    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
+    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
+    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
+    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
+    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
+    čiu Kęstučiu.
   citata_rodoma: "180\n\n## Puslapis 174\n\nMūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­\ngaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­\nnigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas \ngauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie \nTrakų, aš pats irgi buvau ten su savo tėvu kunigaikš­\nčiu Kęstučiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -2782,14 +3045,13 @@ media_all_json: |-
   puslapiai: "PDF 106"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 106."
   citata_originali: |
-    Tuomet kildavo neapsakomas išgąs­
-    tis, nepaprasta baimė dėl greito rūstaus dievų keršto apimda­
-    vo šeimininką, namiškius ir kaimynus. Reikėdavo jam tuoj pat
-    užbėgti už akių, skubėti pas žymų žynį, kokį nors krivio arti­
-    mą, arba pas patį Krivių Krivaitį. Šis apreikšdavo dievų valią,
-    išaiškindavo, ko jie trokšta. Kadangi visuomet būtinai turėda­
-    vo būti aukojamas žmonių kraujas, todėl žynys įvardindavo
-    žmogų, kurį reikėdavo atnašauti kaip auką.
+    Valdant Hote-
+    riui, Balderis pakeitė ją žmonių auka (Eddy). Esama dainos,
+    iki šiol pajūrio žemaičių tebedainuojamos, kurioje dainuojan­
+    tis apverkia žuvusius jūreivius, pagrobtus paaukoti audrai, Ju-
+    dime. Juos laukinių žmonių rankos nužudžiusios kaip juodus
+    gyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­
+    ta atnašauti audrų dievui.
   citata_rodoma: "Valdant Hote-\nriui, Balderis pakeitė ją žmonių auka (Eddy). Esama dainos,\niki šiol pajūrio žemaičių tebedainuojamos, kurioje dainuojan­\ntis apverkia žuvusius jūreivius, pagrobtus paaukoti audrai, Ju-\ndime. Juos laukinių žmonių rankos nužudžiusios kaip juodus\ngyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­\nta atnašauti audrų dievui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2805,40 +3067,36 @@ media_all_json: |-
   puslapiai: "PDF 142"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 142."
   citata_originali: |
-    Jeigu tose
-    vietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­
-    rytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo
-    akmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba
-    elipsės formą. Gerbėjai jas galėdavo stebėti iš tam tikro atstumo,
-    bet vargas tam, kuris išdrįsdavo prisiartinti - jos be pasigailėji­
-    mo nužudydavo kiekvieną, kuris įžeisdavo jų garbę. Ir šiandien
-    Žemaitijoje paprasta liaudis dainuoja dainas, turinčias kažkokį
-    ryšį su tuo deivių verpėjų arba audėjų garbinimu.
+    Yra padavimas, jog Žemaičiuose buvę septynios deivės par­
+    kos. Jas vadino Deivėmis Valdytojomis (Dejwe-Walditoje). Pir­
+    moji verpdavo žmogaus gyvenimą kuodeliu, gautu iš Ukapirmo;
+    ji buvo vadinama Verpėja (Werpentie).
   citata_rodoma: "Yra padavimas, jog Žemaičiuose buvę septynios deivės par­\nkos. Jas vadino Deivėmis Valdytojomis (Dejwe-Walditoje). Pir­\nmoji verpdavo žmogaus gyvenimą kuodeliu, gautu iš Ukapirmo;\nji buvo vadinama Verpėja (Werpentie)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-062
+
 - id: c-171259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 153"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
   citata_originali: |
-    Ragana (Ragana)
-    Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei­
-    vės, globojančios tam tikrus medžius, augančius savaime arba
-    kieno nors persodintus. Tokie medžiai yra užkerėti, tad pavo­
-    jinga juos liesti.
-    Kiekviena ragana turėjo savo medį, kurį globojo stengda­
-    masi padalyti viską, kad jis būtų sveikas ir augtų. Žmonėms,
-    kurie jai tuo tikslu būtų padėję, ji galėjo suteikti tūkstantį pa­
-    slaugų ir malonumų. Priešingai, tam, kuris norėjo savavališ­
-    kai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­
-    kų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti
-    neišgydomomis ligomis.
+    Čeltyčios (Czeltice)
+    Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių
+    vaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­
+    152
+
+    ## Puslapis 152
+
+    taro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­
+    liodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­
+    met iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo
+    Jūratė .
   citata_rodoma: "Čeltyčios (Czeltice)\nTai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių\nvaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­\n152\n\n## Puslapis 152\n\ntaro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­\nliodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­\nmet iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo\nJūratė ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2854,19 +3112,11 @@ media_all_json: |-
   puslapiai: "PDF 163"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
   citata_originali: |
-    Taip pa­
-    sėdi kurį laiką, tarytum dar kažką apmąstydami. Šio senovinio
-    papročio buvo laikomasi net bajorų ir ponų namuose; be pri­
-    deramo dievybės pagerbimo ir atsidavimo jos globai, jis turi
-    dar ir tokį tikslą: ramaus apmąstymo valandėlę prieš išsiski­
-    riant kiekvienas turi progą prisiminti, ar prieš išvažiuodamas
-    ko nepraleido arba neužmiršo patvarkyti ką nors svarbaus na­
-    muose arba kelionei, nes išvažiavus ne laikas apie tai galvoti.
-    O
-    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
-    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
-    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
-    būtų priskirta nelaimingam jo perėjimui per kelią.
+    Trotytojas kibirkščių (Trotitas-Kirbixtu)
+    Pasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats
+    pavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo
+    dievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­
+    pei*.
   citata_rodoma: "Trotytojas kibirkščių (Trotitas-Kirbixtu)\nPasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats\npavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo\ndievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­\npei*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2882,13 +3132,12 @@ media_all_json: |-
   puslapiai: "PDF 226"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
   citata_originali: |
-    Pa­
-    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
-    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
-    pačiu šventu vardu Ross. Šitaip galindų tauta turėjo Rosės * 5
-    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
-    likti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį
-    seniausius budizmo principus, pastebėjo Kašmiro žemumoje*.
+    Žyniai iš jų burdavo. Žemaičiai
+    manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
+    užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
+    užgesino .
+    Kaip mano Naruševičius', slavai taip pat žinojo panašią
+    ugnį, vadintą Zwicz.
   citata_rodoma: "Žyniai iš jų burdavo. Žemaičiai\nmanė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai\nužmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį\nužgesino .\nKaip mano Naruševičius', slavai taip pat žinojo panašią\nugnį, vadintą Zwicz."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2945,15 +3194,13 @@ media_all_json: |-
   puslapiai: "PDF 371"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
   citata_originali: |
-    Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
-    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
-    jų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­
-    damas įsitikinau1 2.
-    Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
-    matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­
-    čių pilkapi ų.
+    Taip jų mokslas rado mora­
+    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis.
   citata_rodoma: "Taip jų mokslas rado mora­\nlinę atramą. Po ketverto metų Žemaičių vyskupas Melchioras\nGiedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­\nmiečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­\nniško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­\nkai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir\nkunigas Jeronimas Kninskis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2995,29 +3242,13 @@ media_all_json: |-
   puslapiai: "PDF 108-109"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 108-109."
   citata_originali: |
-    Sekančią žiemą6 išsiuntė savo pasiuntinius pas
-    krikščionių imperatorių, ir pas Danijos karalių, Pama­
-    rio kunigaikščius, Silezijos ir vokiečių kunigaikščius,
-    ir pas savo žentą, Maskvos didįjį kunigaikštį, ir pas
-    Tverės didįjį kunigaikštį, ir pas Riazanės didįjį kuni­
-    gaikštį, ir pas Perekopo chaną, ir pas Moldavijos vai­
-    vadą, ir pas krikščionių valdovus, visus kviesdamas
-    pas save.
-    6 Lietuvos metraštis
-    i ! 3
-
-    Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im­
-    peratorius, buvęs tuo metu Vengrijos ir Čekijos kara­
-    liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir
-    Danijos karalius8, ir Perekopo chanas9, ir Riazanės
-    didysis kunigaikštis l0, ir Maskvos didysis kunigaikš­
-    tis", Vytauto žentas, ir Tverės didysis kunigaikštis
-    Borisas Aleksandrovičius'2, ir Prūsijos bei Livonijos
-    magistras l3, ir Odojevo u, ir Peremišlio l5, ir Novosi-
-    lės 16 kunigaikščiai, ir Moldavijos vaivada 17, ir graikų
-    imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
-    Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
-    čiai ir ponai, ir daug įvairių svečių.
+    Ir išvažinėjo savo keliais.
+    Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
+    vietininkus, nebenorėdami daugiau būti vokiečių val­
+    džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 .
   citata_rodoma: "Ir išvažinėjo savo keliais.\nSekančią vasarą žemaičiai išžudė Prūsijos vokiečių \nvietininkus, nebenorėdami daugiau būti vokiečių val­\ndžioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -3259,28 +3490,14 @@ media_all_json: |-
   puslapiai: "PDF 109"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 109."
   citata_originali: |
-    Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im­
-    peratorius, buvęs tuo metu Vengrijos ir Čekijos kara­
-    liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir
-    Danijos karalius8, ir Perekopo chanas9, ir Riazanės
-    didysis kunigaikštis l0, ir Maskvos didysis kunigaikš­
-    tis", Vytauto žentas, ir Tverės didysis kunigaikštis
-    Borisas Aleksandrovičius'2, ir Prūsijos bei Livonijos
-    magistras l3, ir Odojevo u, ir Peremišlio l5, ir Novosi-
-    lės 16 kunigaikščiai, ir Moldavijos vaivada 17, ir graikų
-    imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
-    Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
-    čiai ir ponai, ir daug įvairių svečių.
-    Kai tie svečiai viešėjo pas didįjį kunigaikštį Vytau­
-    tą ir didysis kunigaikštis Vytautas visus juos gausiai
-    vaišino, kasdien vaišėms išeidavo septyni šimtai stati­
-    nių midaus, neskaitant muskatelio, ir vynų, ir malvazi-
-    jos, ir įvairių kitų gėrimų; septyni šimtai telyčių, sep­
-    tyni šimtai avinų ir paršų, po šešias dešimtis stumbrų,
-    po šimtą briedžių, neskaitant įvairios kitos žvėrienos
-    ir daugelio kitų mėsiškų ir naminių patiekalų20.
-    Ir vaišino didysis kunigaikštis Vytautas tuos sve­
-    čius septynias savaites21.
+    Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­
+    kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­
+    gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­
+    kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų
+    valdovu. Ir Vytautas juos priėmė savo globon 6 .
   citata_rodoma: "Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­\nkiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­\ngu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­\nkam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų \nvaldovu. Ir Vytautas juos priėmė savo globon 6 ."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -3837,19 +4054,11 @@ media_all_json: |-
   puslapiai: "PDF 163"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
   citata_originali: |
-    Taip pa­
-    sėdi kurį laiką, tarytum dar kažką apmąstydami. Šio senovinio
-    papročio buvo laikomasi net bajorų ir ponų namuose; be pri­
-    deramo dievybės pagerbimo ir atsidavimo jos globai, jis turi
-    dar ir tokį tikslą: ramaus apmąstymo valandėlę prieš išsiski­
-    riant kiekvienas turi progą prisiminti, ar prieš išvažiuodamas
-    ko nepraleido arba neužmiršo patvarkyti ką nors svarbaus na­
-    muose arba kelionei, nes išvažiavus ne laikas apie tai galvoti.
-    O
-    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
-    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
-    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
-    būtų priskirta nelaimingam jo perėjimui per kelią.
+    Trotytojas kibirkščių (Trotitas-Kirbixtu)
+    Pasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats
+    pavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo
+    dievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­
+    pei*.
   citata_rodoma: "Trotytojas kibirkščių (Trotitas-Kirbixtu)\nPasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats\npavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo\ndievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­\npei*."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -3887,13 +4096,12 @@ media_all_json: |-
   puslapiai: "PDF 226"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
   citata_originali: |
-    Pa­
-    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
-    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
-    pačiu šventu vardu Ross. Šitaip galindų tauta turėjo Rosės * 5
-    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
-    likti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį
-    seniausius budizmo principus, pastebėjo Kašmiro žemumoje*.
+    Žyniai iš jų burdavo. Žemaičiai
+    manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
+    užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
+    užgesino .
+    Kaip mano Naruševičius', slavai taip pat žinojo panašią
+    ugnį, vadintą Zwicz.
   citata_rodoma: "Žyniai iš jų burdavo. Žemaičiai\nmanė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai\nužmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį\nužgesino .\nKaip mano Naruševičius', slavai taip pat žinojo panašią\nugnį, vadintą Zwicz."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -4011,22 +4219,19 @@ media_all_json: |-
   puslapiai: "PDF 142"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 142."
   citata_originali: |
-    Jeigu tose
-    vietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­
-    rytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo
-    akmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba
-    elipsės formą. Gerbėjai jas galėdavo stebėti iš tam tikro atstumo,
-    bet vargas tam, kuris išdrįsdavo prisiartinti - jos be pasigailėji­
-    mo nužudydavo kiekvieną, kuris įžeisdavo jų garbę. Ir šiandien
-    Žemaitijoje paprasta liaudis dainuoja dainas, turinčias kažkokį
-    ryšį su tuo deivių verpėjų arba audėjų garbinimu.
+    Yra padavimas, jog Žemaičiuose buvę septynios deivės par­
+    kos. Jas vadino Deivėmis Valdytojomis (Dejwe-Walditoje). Pir­
+    moji verpdavo žmogaus gyvenimą kuodeliu, gautu iš Ukapirmo;
+    ji buvo vadinama Verpėja (Werpentie).
   citata_rodoma: "Yra padavimas, jog Žemaičiuose buvę septynios deivės par­\nkos. Jas vadino Deivėmis Valdytojomis (Dejwe-Walditoje). Pir­\nmoji verpdavo žmogaus gyvenimą kuodeliu, gautu iš Ukapirmo;\nji buvo vadinama Verpėja (Werpentie)."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-062
+
 - id: c-181601
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -4052,14 +4257,16 @@ media_all_json: |-
   puslapiai: "PDF 177"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 177."
   citata_originali: |
-    Geras darbas valdovo paslaptį saugoti; dar geres­
-    nis — apie didžiojo valdovo darbus kalbėti.
-    Noriu jums papasakoti apie didįjį kunigaikštį Vy­
-    tautą, Lietuvos ir Rusų ir daugelio kitų šalių valdovą.
-    Nes yra parašyta: „Broliai, dievo bijokite, o valdovą
-    šlovinkite." Taip ir aš noriu jums pasekti apie tą šlo­
-    vingąjį valdovą. Bet didžiojo valdovo darbai nei žodžiu
-    neapsakomi, nei plunksna neaprašomi.
+    180
+
+    ## Puslapis 174
+
+    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
+    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
+    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
+    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
+    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
+    čiu Kęstučiu.
   citata_rodoma: "180\n\n## Puslapis 174\n\nMūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­\ngaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­\nnigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas \ngauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie \nTrakų, aš pats irgi buvau ten su savo tėvu kunigaikš­\nčiu Kęstučiu."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -4296,15 +4503,13 @@ media_all_json: |-
   puslapiai: "PDF 371"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
   citata_originali: |
-    Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
-    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
-    jų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­
-    damas įsitikinau1 2.
-    Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
-    matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­
-    čių pilkapi ų.
+    Taip jų mokslas rado mora­
+    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis.
   citata_rodoma: "Taip jų mokslas rado mora­\nlinę atramą. Po ketverto metų Žemaičių vyskupas Melchioras\nGiedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­\nmiečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­\nniško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­\nkai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir\nkunigas Jeronimas Kninskis."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -4318,18 +4523,17 @@ media_all_json: |-
   puslapiai: "PDF 153"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
   citata_originali: |
-    Ragana (Ragana)
-    Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei­
-    vės, globojančios tam tikrus medžius, augančius savaime arba
-    kieno nors persodintus. Tokie medžiai yra užkerėti, tad pavo­
-    jinga juos liesti.
-    Kiekviena ragana turėjo savo medį, kurį globojo stengda­
-    masi padalyti viską, kad jis būtų sveikas ir augtų. Žmonėms,
-    kurie jai tuo tikslu būtų padėję, ji galėjo suteikti tūkstantį pa­
-    slaugų ir malonumų. Priešingai, tam, kuris norėjo savavališ­
-    kai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­
-    kų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti
-    neišgydomomis ligomis.
+    Čeltyčios (Czeltice)
+    Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių
+    vaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­
+    152
+
+    ## Puslapis 152
+
+    taro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­
+    liodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­
+    met iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo
+    Jūratė .
   citata_rodoma: "Čeltyčios (Czeltice)\nTai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių\nvaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­\n152\n\n## Puslapis 152\n\ntaro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­\nliodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­\nmet iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo\nJūratė ."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
@@ -4338,7 +4542,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-063
-    - t-062
 
 - id: c-181615
   autorius: "Petras Dusburgietis"
@@ -4545,10 +4748,10 @@ media_all_json: |-
 
 ## Ryšiai
 - Rėmė Žemaičiai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Žemaičiai puolė [[objektai/vietos/Klaipėda]], [[objektai/vietos/Klaipėda Memelis]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Kuršas]], [[objektai/vietos/Memelis]], [[objektai/vietos/Semba]], [[objektai/vietos/Skirsnemunė]]
-- Žemaičiai užėmė [[objektai/vietos/Klaipėda Memelis]]
-- Žemaičiai gynė [[objektai/vietos/Medvėgalis]], [[objektai/grupes/Pagudėnai]]
+- Žemaičiai puolė Klaipėda, Klaipėda Memelis, [[objektai/grupes/Kryžiuočių ordinas]], Kuršas, Memelis, Semba, Skirsnemunė
+- Žemaičiai užėmė Klaipėda Memelis
+- Žemaičiai gynė Medvėgalis, [[objektai/grupes/Pagudėnai]]
 - Žemaičiai dalyvavo mūšyje [[objektai/ivykiai/Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną]]
 - Žemaičiai sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Žemaičiai priklausė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]]
+- Žemaičiai priklausė Lietuva, [[objektai/grupes/Lietuviai]]
 - Žemaičiai rėmė [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]

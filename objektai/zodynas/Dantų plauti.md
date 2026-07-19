@@ -63,16 +63,6 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   pagrindžia:
     - c-178037
 
-<a id="claim-t-195635"></a>
-- t-001
-  teiginys: "„Dantų plauti“ vadinamas gavėnios pradžios paprotys."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178037
-
 ## Citatos
 
 - id: c-178036
@@ -98,18 +88,7 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   puslapiai: "p. 168 (PDF 166)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 168 (PDF 166)."
   citata_originali: |
-    Vakar nerimavo ir išdykavo jaunieji, o suaugę namus dabojo,
-    dėlto šiandien pirmieji liūdni ir nusiminę, seniai gi eina į gertuvę ar
-    pas kits kitą bonkelėmis degtinės nešini. Eina „dantų plauti“ . Ši pa­
-    reiga daroma lėtai ir
-    ramiai,
-    mažais
-    būreliais,
-    po
-    du
-    po
-    tris
-    žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
+    Ši pareiga daroma lėtai ir ramiai, mažais būreliais, po du po tris žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
   citata_rodoma: "Ši pareiga daroma lėtai ir ramiai, mažais būreliais, po du po tris žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
@@ -118,4 +97,3 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-001

@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1402'
 date_end: '2026'
-amziai:
-  - 'XV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - valstybė
+amziai:
+  - 'XV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -347,24 +347,6 @@ media_all_json: |-
 - susijęs iš Malburgas: Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais.
 - susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-183137|Jogailaičių dinastija]]: Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.
 - susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185468|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    N ei
-    pasiuntinybei, nei chanui nepagailėta g au sių  dovanų.
-    K azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi
-    b ea tsiv e rią k eliai į n a u ja s valdas. M at, m irus b ev aik iam
-    V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,
-    m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­
-    imti sau arb a k u riam  savo sūnui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-166282
@@ -435,23 +417,13 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pilies gynėjai, iš visų pusių apsupti,
-    mėgino prasiveržti, tačiau juos sumušė ir atstūmė; kai
-    nuo padegamųjų strėlių daugelyje vietų suliepsnojo
-    namai, jie, praradę bet kokią viltį, pasiūlius Ulrichui,
-    įgulos viršininkui, pasidavė
-    1467 m e ta i
-    karaliui. Choinicams kritus,
-    G im sta
-    k u n ig a ik štis
-    popiežiaus pasiuntinys
-    Ru-
-    Z y g im a n ta s
-    dolfas pasistengė, kad būtų
-    sudaryta taika.
-    Pirmąją sekančių metų dieną padaugėjo karaliui ir
-    įpėdinių, nes gimė Žygimantas16, ir rūpesčių, nes neži­
-    nojo, ar pavyks išlaikyti savo rankose Lietuvą.
+    N ei
+    pasiuntinybei, nei chanui nepagailėta g au sių  dovanų.
+    K azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi
+    b ea tsiv e rią k eliai į n a u ja s valdas. M at, m irus b ev aik iam
+    V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,
+    m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­
+    imti sau arb a k u riam  savo sūnui.
   citata_rodoma: "N ei\npasiuntinybei, nei chanui nepagailėta g au sių  dovanų.\nK azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi\nb ea tsiv e rią k eliai į n a u ja s valdas. M at, m irus b ev aik iam\nV ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,\nm anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­\nimti sau arb a k u riam  savo sūnui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

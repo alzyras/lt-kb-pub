@@ -52,9 +52,7 @@ Dusburgietis teigia, kad tautavičius A.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Г уревич Ф. Д. Древний Новогрудок. — Л., 1981.
-    Дельбрюк Г. История военного искусства в рамках политической истории. Т. 3.
-    Средневековье.
+    Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17.
   citata_rodoma: "Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -76,13 +76,7 @@ Nenurodyta
   puslapiai: "p. 66 (PDF 64)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 66 (PDF 64)."
   citata_originali: |
-    Klastymui parinkta beržinė šluota
-    su plonais lankšČiais ražiukais, kad tie ražiukai varytų varpas, o patys
-    sulinktų nuo grūdų.
-    Su klastykle nuvaro į šalį viską, kas grūduose
-    nereikalinga.
-    Pralėkusius pro grūdus sunkiuosius daiktus ir akme­
-    niukus irgi su klastykle suvaro į krūvą.
+    Pralėkusius pro grūdus sunkiuosius daiktus ir akmeniukus irgi su klastykle suvaro į krūvą.
   citata_rodoma: "Pralėkusius pro grūdus sunkiuosius daiktus ir akmeniukus irgi su klastykle suvaro į krūvą."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"

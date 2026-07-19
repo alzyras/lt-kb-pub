@@ -181,16 +181,18 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
-    dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
-    žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
-    mi, katinu ir gyvate ir nuskandinti Nemune. Pasirodė tas bajoras rai­
-    tas, šarvuotas, išvadavo mergelę ir liepė sutuokti su ja ant paties upės
-    kranto; tada abu apsikabinę šoko į vandenį ir dingo iš akių. Toje vie­
-    toje vanduo ėmęs virti ir suktis verpetu, ir dabar taip daro, tarytum
-    nelaimingosios poros vestuvių ženklam Kai kada naktį, šviečiant mė­
-    nuliui, ji išlipanti į krantą, dainuojanti dainą apie savo nuotykį ir mai­
-    tinanti kūdikį.
+    Latviuose tai buvo žynys ir pranašautojas. Paimdavo į
+    saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31
+    Vėjininkai (Wejones)
+    31
+    Šias penkias pranašautojų rūšis pateikia Pretorijus, remdama­
+    sis savais pastebėjimais, ką buvo matęs savo akimis.
+    299
+
+    ## Puslapis 299
+
+    teliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­
+    lykus, ypač apie pamestus daiktus.
   citata_rodoma: "Latviuose tai buvo žynys ir pranašautojas. Paimdavo į\nsaują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31\nVėjininkai (Wejones)\n31\nŠias penkias pranašautojų rūšis pateikia Pretorijus, remdama­\nsis savais pastebėjimais, ką buvo matęs savo akimis.\n299\n\n## Puslapis 299\n\nteliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­\nlykus, ypač apie pamestus daiktus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -205,21 +207,13 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Beveik nežinome tautos, kuri, būdama tamsi arba nepa­
-    žindama tikrojo tikėjimo, neturėtų savų pranašavimo būdų;
-    įvairios tautos jų prisigalvodavo įvairių. Alanai, senieji kai ku­
-    rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­
-    liai, burdavo, kaip sako istorija, iš karklo šakų, tam tikru būdu
-    sumaišytų; vėliau, traukdami vieną po kitos tam tikru nustaty­
-    tu laiku bei ištardami kažkokius žodžius ir kitaip burtininkų
-    mada vaipydamiesi, skaitydavo lemties knygą .
-    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
-    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
-    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
-    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
-    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
-    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
-    kaip tai pamatysime toliau.
+    Daugeliu požiūrių
+    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
+    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
+    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
+    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka.
   citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

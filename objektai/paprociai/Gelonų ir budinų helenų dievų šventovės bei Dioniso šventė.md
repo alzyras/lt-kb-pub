@@ -89,10 +89,12 @@ Nenurodyta
   pagrindžia:
     - c-179247
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Herodotu, rašo, kad budinų tvirtovėse stovėjo medinės helenų dievų šventyklos, altoriai ir koplytėlės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-175798
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     60
     Iš Herodoto žinome, kad budinai savo žemėje turėjo
@@ -104,31 +106,6 @@ Nenurodyta
     altoriai ir koplytėlės irgi buvo iš medžio. Ten kasmet bū­
     davo minimos Dioniso (Bacho) šventės ir vykdavo bak­
     chanalijos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-175798
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    61 *
-    Naujieji slavų senienų tyrinėtojai, kurių priekyje sto­
-    vi Maksimilijonas Osolinskis, budinus priskiria prie sla­
-    vų tautų. Jų įrodymai, paremti vien hipotezėmis, prielai­
-    domis, nepagrįstomis jokiu istoriniu faktu, neverti nei
-    diskusijos, nei pernelyg didelio pasitikėjimo, todėl turėtų
-    būti palikti kiekvieno nuožiūrai, ypač to, kuris moka ir
-    slavų kalbas, ir lietuvių kalbą, nes teiginio esmė glūdi
-    lingvistiniame tos tautos vardo panašume, žodžiuose, ras­
-    tuose vienoje ar kitoje kalboje.
-    Budtė — išminties, proto deivė. Lietuvių kalba Bu­
-    da — tai statinys.
   citata_rodoma: "60\nIš Herodoto žinome, kad budinai savo žemėje turėjo\npastatę medines tvirtoves. Viena jų buvo kvadratinė, kiek­\nvienas jos šonas turėjo 30 stadijų, t. y. buvo 3000 rusiš­\nkų sieksnių ilgio, ir vadinosi Gelonos. Jų tvirtovės buvo\nlabai didingos, jose taip pat stovėdavo medinės šventyk­\nlos, kuriose buvo helenų dievai, garbinami heleniškai,\naltoriai ir koplytėlės irgi buvo iš medžio. Ten kasmet bū­\ndavo minimos Dioniso (Bacho) šventės ir vykdavo bak­\nchanalijos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

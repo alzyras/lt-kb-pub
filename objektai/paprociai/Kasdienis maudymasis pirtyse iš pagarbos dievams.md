@@ -82,23 +82,6 @@ Nenurodyta
     - c-85403
     - c-85404
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį
-    ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,
-    pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje. Kitą
-    dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia
-    tesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
-    pirties tiesiog kęste nekenčia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-85403
@@ -126,13 +109,12 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
-    pirties tiesiog kęste nekenčia. Moterys ir vyrai pratę verpti, vieni — linus, kiti — vilnas,
-    211 Senovės paprotys reikalavo, kad jaunikis pinigais ar daiktais mokėtų jaunosios
-    tėvui, t. y. išpirktų žmoną. Galėjo tai būti praktikuojama ir XIII a., nes paprotys buvo
-    žinomas ir vėliau. XVI—XVIII a. dokumentai rodo, kad, imdamas į žmoną valstietę,
-    jaunikis turėjęs mokėti jaunosios feodalui tam tikrą mokestį, kuris buvęs vadinamas
-    kriena resp. krienu.
+    Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį
+    ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,
+    pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje. Kitą
+    dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia
+    tesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
+    pirties tiesiog kęste nekenčia.
   citata_rodoma: "Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį\nar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,\npirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje. Kitą\ndieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia\ntesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti\npirties tiesiog kęste nekenčia."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

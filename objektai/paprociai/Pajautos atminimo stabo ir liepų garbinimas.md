@@ -56,12 +56,10 @@ Nenurodyta
   pagrindžia:
     - c-176686
 
-## Citatos
-
-- id: c-176686
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Paskui tas stabas supuvo, ir toje vie loje išaugo liepos.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Danielius su Vasilka patraukė link Naugarduko, bet,
     pasitaręs su broliu Vasilka, pasiuntė jį į Volkovyską l0,
@@ -71,6 +69,23 @@ Nenurodyta
     vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
     čius, ir jie ilgai kariavo vieni su kitais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-176686
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O tą jos stabą garbino ir Pa­
+    jautą laikė deive. Paskui tas stabas supuvo, ir toje vie­
+    loje išaugo liepos. Tąsias liepas garbino ir iki mūsų
+    dienų jas tebedievina, minėdami tą Pajautą.
   citata_rodoma: "O tą jos stabą garbino ir Pa­\njautą laikė deive. Paskui tas stabas supuvo, ir toje vie­\nloje išaugo liepos. Tąsias liepas garbino ir iki mūsų \ndienų jas tebedievina, minėdami tą Pajautą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

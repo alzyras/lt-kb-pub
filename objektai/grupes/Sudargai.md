@@ -102,10 +102,12 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192232|revoliucija]]: Teodoro Narbuto teigimu, hunų antplūdžio sukelta revoliucija Dnepro ir Dunojaus tarpupyje lėmė daug pokyčių Europoje.
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192233|revoliucija]]: Teodoras Narbutas Dnepro ir Dunojaus tarpupyje prasidėjusią revoliuciją sieja su hunų antplūdžiu.
 - susijęs iš [[objektai/asmenys/Volfas.md#claim-t-191332|Volfas]]: Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo vadovauti sudargams arba vienai iš sąjunginių genčių.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais ir dviem Sudargais vadinamais miesteliais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-175699
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Anot Hartknocho, sudargų iš­
     ties būta, jų atminimas gyvas šios žemės padavimuose ir
@@ -118,14 +120,19 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
     Liubavo miestelio, teka iš pietų šiaurės link ir įteka į
     Šešupę jos kairiojoje pakrantėje, kiek aukščiau Naumies­
     čio.
-  citata_rodoma: ''
+  citata_rodoma: "Anot Hartknocho, sudargų iš­\nties būta, jų atminimas gyvas šios žemės padavimuose ir\nkai kuriuose vietovardžiuose2. Dar ir šiandien čia yra du\npiliavietėmis garsėjantys miesteliai, vadinami Sudargais:\nvienas Prūsijoje, prie Rausvės upės, antras — kairiojoje\nNemuno pakrantėje, šiek tiek žemiau Jurbarko. Siame\nsenoviniame krašte taip pat yra Rosės upė, iki mūsų die­\nnų išsaugojusi šį pavadinimą: ji prasideda į šiaurę nuo\nLiubavo miestelio, teka iš pietų šiaurės link ir įteka į\nŠešupę jos kairiojoje pakrantėje, kiek aukščiau Naumies­\nčio."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas rašo, kad skiriai su sudargais po gotų žygių kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandakoso.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  pagrindzia:
+    - t-001
+
+- id: c-175700
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     282
 
@@ -141,68 +148,6 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
     iki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­
     varginti, beveik be paliovos puldinėję imperijos žemes,
     ėmė mąstyti apie įsikūrimą vienoje vietoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-175699
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Dar ir šiandien čia yra du
-    piliavietėmis garsėjantys miesteliai, vadinami Sudargais:
-    vienas Prūsijoje, prie Rausvės upės, antras — kairiojoje
-    Nemuno pakrantėje, šiek tiek žemiau Jurbarko. Siame
-    senoviniame krašte taip pat yra Rosės upė, iki mūsų die­
-    nų išsaugojusi šį pavadinimą: ji prasideda į šiaurę nuo
-    Liubavo miestelio, teka iš pietų šiaurės link ir įteka į
-    Šešupę jos kairiojoje pakrantėje, kiek aukščiau Naumies­
-    čio. Šią žemę, ligi šiol nepažymėtą senovės Prūsijos že­
-    mėlapiuose, turime kiek aiškiau apibrėžti remdamiesi mū­
-    sų pačių topografinių tyrimų duomenimis. Į vakarus nuo
-    Piluponių kaimo iki Stalupėnų einanti linija toliau tęsiasi
-    Rausvės upe net iki jos žiočių Širvintoje, iš ten dabarti­
-    ne prūsų siena net iki jos susikirtimo su Nemunu prie
-    Smalininkų, iš Smalininkų Nemunu aukštyn net iki Du­
-    bysos žiočių, po to į rytus iki ten, kur Pilve įteka į Šešu­
-    pę, beveik tiesia linija, toliau aukštyn Šešupe net iki žy­
-    dų Kalvarijos ir nuo Kalvarijos tiesiai iki Piluponių kai­
-    mo.
-  citata_rodoma: "Anot Hartknocho, sudargų iš­\nties būta, jų atminimas gyvas šios žemės padavimuose ir\nkai kuriuose vietovardžiuose2. Dar ir šiandien čia yra du\npiliavietėmis garsėjantys miesteliai, vadinami Sudargais:\nvienas Prūsijoje, prie Rausvės upės, antras — kairiojoje\nNemuno pakrantėje, šiek tiek žemiau Jurbarko. Siame\nsenoviniame krašte taip pat yra Rosės upė, iki mūsų die­\nnų išsaugojusi šį pavadinimą: ji prasideda į šiaurę nuo\nLiubavo miestelio, teka iš pietų šiaurės link ir įteka į\nŠešupę jos kairiojoje pakrantėje, kiek aukščiau Naumies­\nčio."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-175700
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Būtent po
-    šių laikų ir skiriat su sudargais pradėjo kurtis mažojoje
-    Skitijoje, arba dešiniojoje Dnestro pakrantėje, ir žemu­
-    tinėje Mezijoje, arba arčiau Dunojaus žemupio, vadovau­
-    jami, gotų pavyzdžiu, vado ar karaliuko, vardu Kandak-
-    sas1 2. Tai vyko jau tuo metu, kai, IV amžiaus pradžioje
-    iki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­
-    varginti, beveik be paliovos puldinėję imperijos žemes,
-    ėmė mąstyti apie įsikūrimą vienoje vietoje. Šių karingų
-    plėšikų būriai, savaime suprantama, negalėjo ilgai gy­
-    venti taikiai ir, kai kaimynystėje nebuvo ko plėšti, ėmė
-    vaidytis ir kariauti tarpusavyje. Tas pats istorikas Jorda­
-    nas, pasakodamas apie gotų kivirčus, pirmiausia mini
-    skirius, iš pradžių taikiai gyvenusius su kitomis gotų
-    gentimis; jie labiau linko į žemdirbystę ir namų verslus
-    negu į kariavimą.
   citata_rodoma: "282\n\n## Puslapis 293\n\nklausiusių d akų; 245 metais gotai pradėjo grobuoniškus\nžygius į Romos imperijos kraštus ir miestus'. Būtent po\nšių laikų ir skiriat su sudargais pradėjo kurtis mažojoje\nSkitijoje, arba dešiniojoje Dnestro pakrantėje, ir žemu­\ntinėje Mezijoje, arba arčiau Dunojaus žemupio, vadovau­\njami, gotų pavyzdžiu, vado ar karaliuko, vardu Kandak-\nsas1 2. Tai vyko jau tuo metu, kai, IV amžiaus pradžioje\niki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­\nvarginti, beveik be paliovos puldinėję imperijos žemes,\nėmė mąstyti apie įsikūrimą vienoje vietoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

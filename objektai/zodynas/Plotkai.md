@@ -83,10 +83,8 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
   puslapiai: "p. 154 (PDF 152)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 154 (PDF 152)."
   citata_originali: |
-    „Plot-
-    kai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmo­
-    kesčio. Užmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių
-    gorčių.
+    „Plotkai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmokesčio.
+    Užmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių gorčių.
   citata_rodoma: "„Plotkai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmokesčio.\nUžmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių gorčių."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
@@ -102,11 +100,7 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
   puslapiai: "p. 154 (PDF 152)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 154 (PDF 152)."
   citata_originali: |
-    Šeimi­
-    ninkė prašneko: „Prašome prie vakarienės!“ Visi susiėjo už stalo į
-    savo vietas, stati pašnibždomis sukalbėjo „Tėve mūsų“ , persižegno­
-    jo ir susėdo. Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pu­
-    sę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
+    Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
   citata_rodoma: "Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"

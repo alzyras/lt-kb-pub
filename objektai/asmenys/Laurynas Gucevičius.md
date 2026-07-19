@@ -38,22 +38,6 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-19102"></a>
-- t-002
-  teiginys: "Laurynas Gucevičius laikomas vienu ryškiausių Lietuvos menininkų, susiejusių savo likimą su krašto likimu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Laurynas Gucevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laurynas Gucevičius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-21852
-
 <a id="claim-t-19103"></a>
 - t-001
   teiginys: "Laurynas Gucevičius buvo žymiausias Lietuvos klasicizmo kūrėjas ir 1782 m. pradėjo Vilniaus katedros, o 1786 m. Vilniaus rotušės rekonstrukciją."
@@ -140,12 +124,10 @@ media_all_json: |-
   citata_rodoma: "Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-171466
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

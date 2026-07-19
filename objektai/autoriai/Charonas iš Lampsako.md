@@ -6,12 +6,12 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-amziai:
-  - 'L'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'L'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -37,14 +37,14 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 <a id="claim-t-190252"></a>
 - t-001
   teiginys: "Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-173146
+    - c-173135
 
 <a id="claim-t-190254"></a>
 - t-002
@@ -233,23 +233,72 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-173146
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu.'
+- c-008
+  santrauka: 'Charonas iš Lampsako globojo ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus dirbinius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lietuvoje Ūla įteka į Merkį.
+    138
+
+    ## Puslapis 138
+
+    Alabatis (Alabatís)
+    Pasak Lasickio tyrimų, šios deivės buvo šaukiamasi dir­
+    bant linininkystės darbus.
+    Tai buvo Linų Izidė, to augalo vertės atradėja; ji globojo
+    ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus
+    dirbinius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-012
+  santrauka: 'Charonas iš Lampsako globojo Platelių valsčių, kuriame ir buvusi toji legendinė pilis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kirais (Kimis)
+    Dievaitis, saugantis vienos pilies, buvusios prie ežero, vyš­
+    nių medelius. Jo pagalbos, be abejo, prašyta norint pagausinti
+    vyšnių sodus. Į medį sviesdavo papjautus gaidžius, statydavo
+    ant jų uždegtas žvakes. Ypač jis globojo Platelių valsčių, ku­
+    riame ir buvusi toji legendinė pilis. Kadangi Lietuvoje yra ne
+    172
+
+    ## Puslapis 172
+
+    vieni Plateliai, gaila, kad Lasickis, kurio aprašymai visuomet
+    pernelyg trumpi, nieko daugiau nepapasakojo apie tą pilį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-173135
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasak Lasickio, jis buvo žinomas Aukštėjo Visagisčio (Aivc-
     lejas Wissagistis) vardu. Iš šio vardo prasmės pastebime, kad
     tas dievas reiškė tą patį, ką Antikos žmonėms Saturnas. Tas
     senovės mitas, primenantis labai reikšmingą Titanų šeimynos
     asmenį, negalėjo būti nežinomas lietuvių mitologijai.
-  citata_rodoma: ''
+  citata_rodoma: "Pasak Lasickio, jis buvo žinomas Aukštėjo Visagisčio (Aivc-\nlejas Wissagistis) vardu. Iš šio vardo prasmės pastebime, kad\ntas dievas reiškė tą patį, ką Antikos žmonėms Saturnas. Tas\nsenovės mitas, primenantis labai reikšmingą Titanų šeimynos\nasmenį, negalėjo būti nežinomas lietuvių mitologijai."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  pagrindzia:
+    - t-001
+
+- id: c-173137
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasak
     kronikininkų, jis dar vadinamas Szwintestix, Szwaixtiks*. Anot
@@ -260,68 +309,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     maldauja jos šitokiais žodžiais: „Gabija, dievaite, pakelk garą,
     neleisk kibirkščių ! “ (Gabie Diewajte, pakielk garu, nie lajsk kir-
     bvctu).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Charonas iš Lampsako sukeldavęs tą griausmą, kuris pasigirsta ore trenkus perkūnui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­
-    tų gongais.
-    Varpelis (WarpeJis)
-    Aido, sklindančio ore, dievaitis. Lasickis pasakoja, kad, se­
-    novės lietuvių nuomone, jis sukeldavęs tą griausmą, kuris pa­
-    sigirsta ore trenkus perkūnui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173135
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Šitą dievą žmogus pripažino
-    aukščiausiu visos gamtos viešpačiu ir davė jam Perkūno var­
-    dą.
-    Lietuvių genties tautos Perkūną garbino ko iškilmingiau­
-    siai, su reguliariomis apeigomis, jam buvo skirti miškeliai, su
-    tam tikru puošnumu įrengtos Šventyklos. Žyniai kasdien au­
-    kodavo jam aukas didelėse šventyklose, jo ženklu buvo pažy­
-    mėti vyriausiojo žynio Krivių Krivaičio nešiojami drabužiai.
-  citata_rodoma: "Pasak Lasickio, jis buvo žinomas Aukštėjo Visagisčio (Aivc-\nlejas Wissagistis) vardu. Iš šio vardo prasmės pastebime, kad\ntas dievas reiškė tą patį, ką Antikos žmonėms Saturnas. Tas\nsenovės mitas, primenantis labai reikšmingą Titanų šeimynos\nasmenį, negalėjo būti nežinomas lietuvių mitologijai."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-173137
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Lietuvių liaudies rugiapjūtės dainose yra po­
-    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
-    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
-    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
-    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
-    ponas Riteris savo Siaurės senovės tyrimuose15.
-    Kronikininkai mini Svaistiką (Szwajstix) arba Svaitestiksą
-    (Swajtestix) kaip šviesos dievą: lietuviškai tas žodis reiškia švie­
-    sos teikėją arba žadinančiąją šviesą, o tai atitinka senovės Fe­
-    bą.
-    „Lietuviams saulė, vadinama Sotuar, priklauso pirmosios
-    eilės dievams, sakytum, lyg pasaulio prikėlėja arba pasaulio
-    dvasia. Vis dėlto ši dievybė pas juos neturi atskirų šventyklų,
-    kaip tai buvo pas visus šiaurės stabmeldžius.
   citata_rodoma: "Pasak\nkronikininkų, jis dar vadinamas Szwintestix, Szwaixtiks*. Anot\nKsavero Bogušo, -  Jauczobobis B. Mūsų tyrimais, -  Lėlius (Lė­\ntus). Lasickis pažįstąjį Gabijos (Gabie) vardu ir pateikia tokių\nduomenų apie jį: „Kai vasara Šlapia ir sunku išdžiovinti javus\nlauke, juos džiovina jaujose ir, nusilenkdami deivei Gabijai,\nmaldauja jos šitokiais žodžiais: „Gabija, dievaite, pakelk garą,\nneleisk kibirkščių ! “ (Gabie Diewajte, pakielk garu, nie lajsk kir-\nbvctu)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -355,19 +342,12 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Niekas
-    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
-    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
-    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
-    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
-    sigauti.
-    Kaimiečiai iki šiol tebėra pamaldūs šiam dievaičiui, nors
-    dėl daugelio priežasčių beveik jau jį užmiršo ir savo tos rūšies
-    maldose turi galvoje tikrąjį Dievą; tas maldas kalba krikščio­
-    nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš
-    išeidami iš trobos, susėda ant suolo kartu su visais esančiais,
-    trumpai pasimeldžia ir patyli akis nukreipę į krosnį. Taip pa­
-    sėdi kurį laiką, tarytum dar kažką apmąstydami.
+    Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­
+    tų gongais.
+    Varpelis (WarpeJis)
+    Aido, sklindančio ore, dievaitis. Lasickis pasakoja, kad, se­
+    novės lietuvių nuomone, jis sukeldavęs tą griausmą, kuris pa­
+    sigirsta ore trenkus perkūnui.
   citata_rodoma: "Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­\ntų gongais.\nVarpelis (WarpeJis)\nAido, sklindančio ore, dievaitis. Lasickis pasakoja, kad, se­\nnovės lietuvių nuomone, jis sukeldavęs tą griausmą, kuris pa­\nsigirsta ore trenkus perkūnui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -395,7 +375,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-005
     - t-019

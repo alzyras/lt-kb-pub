@@ -89,27 +89,8 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šios genties pavadinimo, kaip teigia geriau­
-    sias šios kalbos mokovas Ksaveras Bogušas, šaknis yra
-    grynai lietuviška* 1, t. y. Giras, giria, Giralis, girelė. Lie-
-    tuvių-prūsų dialekte dar yra žodis Juhra, jūra2, be to,
-    taip pat ir latvių kalba3. Pagaliau čia neįrodinėsime, kad
-    iš hirių kilę herulai, ir nekartosime teiginių, kuriuos skai­
-    tytojas sužinos aprašytus šiame veikale4. Hirių kraštas
-    apytikriai vakaruose ribojosi su Baltijos jūra, šiaurėje —
-    su Žemaitija, rytuose — su Stavanija, o pietuose ■— su
-    Nemuno upe.
-    kiai, Girdutlawkie, Girėnai, Girany, Girdaičiai, Girdaycie, Giržadui,
-    Girzody, Girkai, Girki, Girdziogala, Girdziegola, Angiriai, Ongiry,
-    Vadžgirys, Woydzgiry, Lapgiris, Lapgirtj, Dungeriai, Dungiry, Juod-
-    giriai, Iudgiry, Raudgiriai, Raudgiry, Užgiriai, Užgiry, Pagiriai, Pa­
-    giry, Girtakolė, Girtokol, Girkalnis, Girkalnie,
-    Girkaliai,
-    Girkale,
-    Girininkai, Giriniki, Girmantiškės, Girmoncie, Giliogiris, Gilogiry, Ei-
-    girdai, Eygirdy, Eigirdžiai, Eygirdzie, Daugirdai, Dowgirdy, Negir-
-    biai, Negirby, Skauzgiriai, Szkowsgirdy, Vozgirdai, Wazgirdy, Viz­
-    girdai, Wizgirdy etc.
+    Lietuvių-prūsų dialekte dar yra žodis Juhra, jūra2, be to,
+    taip pat ir latvių kalba3.
   citata_rodoma: "Lietuvių-prūsų dialekte dar yra žodis Juhra, jūra2, be to,\ntaip pat ir latvių kalba3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

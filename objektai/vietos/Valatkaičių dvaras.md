@@ -57,9 +57,7 @@ Valatkaičių dvaras šiame šaltinyje yra dvaras.
   puslapiai: "p. 136 (PDF 134)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 136 (PDF 134)."
   citata_originali: |
-    Žinai, ponaiti, kad elgeta su šuni­
-    mis nesugyvena. Del jų elgeta turi nešioti lazdą ir rimbą. Valatkai-
-    čių dvare buvo žinomi pikti šunys.
+    Valatkai­čių dvare buvo žinomi pikti šunys.
   citata_rodoma: "Valatkai­čių dvare buvo žinomi pikti šunys."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"

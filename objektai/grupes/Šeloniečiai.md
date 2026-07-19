@@ -27,43 +27,6 @@ media_all_json: |-
 
 Narbutas rašo, kad Selonės apskrityje gyveno šeloniečių, arba Selonczycy, tauta, kurią jis siejo su žemgaliais.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Selonės apskrityje gyveno šeloniečių, arba Selonczycy, tauta, kurią jis siejo su žemgaliais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Iš tikrųjų lai buvo žemgalių gentys. Selonės
-    apskrity gyveno šeloniečių, Selonczycy, tauta — taip pat
-    žemgaliai'2.
-    281
-    Latvijos dalys.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-175763
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Agazirai, Agazziry. Senovės tyrinėto­
-    jai šią gentį priskiria prie lietuvių. Jordanas rašo: „Prie
-    Vyslos žiočių yra vidivarai, o už jų estai, su kuriais ri­
-    bojasi agazirai; tai labai karinga gentis, nesėjanti javų,
-    gyvenanti iš gyvulių auginimo ir medžioklės“3.
-  citata_rodoma: "Iš tikrųjų lai buvo žemgalių gentys. Selonės\napskrity gyveno šeloniečių, Selonczycy, tauta — taip pat\nžemgaliai'2.\n281\nLatvijos dalys."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-192993"></a>
@@ -86,3 +49,23 @@ Narbutas rašo, kad Selonės apskrityje gyveno šeloniečių, arba Selonczycy, t
   pagrindžia:
     - c-175763
 - susijęs iš [[objektai/grupes/Žemgaliai.md#claim-t-192967|Žemgaliai]]: Narbutas doblėnus, mechotėnus, kuršius ir tervitėnus laikė žemgalių gentimis, o Selonės apskrities šeloniečius taip pat priskyrė žemgaliams.
+## Citatos
+
+- id: c-175763
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Iš tikrųjų lai buvo žemgalių gentys. Selonės
+    apskrity gyveno šeloniečių, Selonczycy, tauta — taip pat
+    žemgaliai'2.
+    281
+    Latvijos dalys.
+  citata_rodoma: "Iš tikrųjų lai buvo žemgalių gentys. Selonės\napskrity gyveno šeloniečių, Selonczycy, tauta — taip pat\nžemgaliai'2.\n281\nLatvijos dalys."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

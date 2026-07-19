@@ -26,48 +26,6 @@ media_all_json: |-
 
 Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos apeigų paprotį, kiekviena tauta kitonišką.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos apeigų paprotį, kiekviena tauta kitonišką.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvoje gyveno garsi
-    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
-    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
-    apeigų paprotį, kiekviena tauta kitonišką.
-    Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
-    lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
-    kuriose vietose žmonos apverkdavo vyrus prie pačių kapų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173440
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­
-    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
-    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
-    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
-    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
-    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
-    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
-    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
-  citata_rodoma: "Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką.\nŽmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­\nlėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai\nkuriose vietose žmonos apverkdavo vyrus prie pačių kapų."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-190557"></a>
@@ -88,3 +46,26 @@ Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai,
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173440
+
+## Citatos
+
+- id: c-173440
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Lietuvoje gyveno garsi
+    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
+    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
+    apeigų paprotį, kiekviena tauta kitonišką.
+    Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
+    lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
+    kuriose vietose žmonos apverkdavo vyrus prie pačių kapų.
+  citata_rodoma: "Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką.\nŽmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­\nlėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai\nkuriose vietose žmonos apverkdavo vyrus prie pačių kapų."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

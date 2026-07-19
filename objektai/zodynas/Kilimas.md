@@ -41,11 +41,18 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 <a id="claim-t-70006"></a>
 - t-003
   teiginys: "`Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Balti vilnoniai marškiniai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kilimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Balti vilnoniai marškiniai: mention_match, thing, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kilimas\" parinktas kaip owner_note_path. Targetas \"Balti vilnoniai marškiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-09690
+    - c-09689
 
 <a id="claim-t-70007"></a>
 - t-004
@@ -118,6 +125,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-004
 
 - id: c-09690
@@ -150,5 +158,3 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003

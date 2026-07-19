@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # vėliava
 
 ## Santrauka
@@ -66,15 +67,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 <a id="claim-t-78914"></a>
 - t-007
   teiginys: "Dragūnų vėliavą sudarė 100-150 žmonių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44240
-
-<a id="claim-t-78915"></a>
-- t-010
-  teiginys: "Vėliavai vadovaudavo kapitonas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -271,7 +263,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-010
 
 - id: c-76016
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

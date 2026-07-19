@@ -7,13 +7,13 @@ datos:
   - '1750 m.'
 date_start: '1750'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
   - teisinė-praktika
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -82,6 +82,22 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatos informacija apie kaltinimą dėl nesumokėtos skolos. Tarnas ir jo vertinimas sąmoningai neįtraukti."
   pagrindžia:
     - c-184006
+
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  citata_originali: |
+    J. D. Lopacinskis
+    rašė, esą Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis „valgęs pietus pas
+    mus“ Antakalnyje, turėjo išvykti į kelionę nakvynei Paneriuose [30]. Laiškuose buvo
+    paminėti ir kiti Vilniuje vykę teismai. 1750 m. jis rašė, kad neįvardintas ponas Mstislavlio
+    vaivados [greičiausiai Jurgio Felicijono Sapiegos] tarnas buvo toks nediskretiškas, kad Vil-
+    niaus pilies teisme pateikė kaltinimą dėl nesumokėtos skolos prieš patį M. K. Sapiegą [11].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 

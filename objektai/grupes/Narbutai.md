@@ -7,13 +7,13 @@ datos:
   - '1784 m.'
 date_start: '1784'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - giminė
   - grupe
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -64,29 +64,14 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
   temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys apie Narbutų giminę ir atitinka citatos informaciją. Papildomos atribucijos nereikia, nes tai nėra legendinis ar vertinamasis teiginys."
   pagrindžia:
     - c-170860
-
-<a id="claim-t-197215"></a>
-- t-003
-  teiginys: "Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo prancūzų administracijoje."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-170860
 - susijęs iš [[objektai/asmenys/Boleslovas Narbutas.md#claim-t-188040|Boleslovas Narbutas]]: 1863 m. sukilimo metu Boleslovas, vienas iš Teodoro Narbuto sūnų, išėjo į miškus.
 - susijęs iš [[objektai/asmenys/Pranciškus Narbutas.md#claim-t-187904|Pranciškus Narbutas]]: 1863 m. sukilime Pranciškus Narbutas išėjo į miškus, o vėliau spėjo pasitraukti į užsienį.
 - susijęs iš [[objektai/ivykiai/Narbutų šeimos represavimas po 1863 m. sukilimo.md#claim-t-187970|Narbutų šeimos represavimas po 1863 m. sukilimo (sukilimas, XIX a.)]]: Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.
 - susijęs iš Šaurų dvaras: Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos paviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje.
 - susijęs iš [[objektai/daiktai/Šaurų dvaro muziejaus eksponatai.md#claim-t-189705|Šaurų dvaro muziejaus eksponatai]]: Rusijos valdžiai sekvestravus Šaurų dvarą, jo muziejaus eksponatai, knygos ir archyvai buvo suvežti į vieną Vilniaus bažnyčią.
-## Citatos
-
-- id: c-170860
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Sužeidimas netrukus at­
     siliepė sveikatai - jis apkurto. Napoleono žygio į Rusiją metu
@@ -96,6 +81,26 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
     Pirmieji T. Narbuto spausdinti darbai - tai užsienietiškų
     leidinių apžvalgos, eilėraščiai, vertimai Vilniaus laikraščiuo­
     se.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-170860
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Vi­
+    suomenės akyse jis tapo LTI autoriumi.
+    Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos pa­
+    viete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje3. Nar­
+    butai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose
+    minima nuo Horodlės unijos laikų.
   citata_rodoma: "Vi­\nsuomenės akyse jis tapo LTI autoriumi.\nTeodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos pa­\nviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje3. Nar­\nbutai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose\nminima nuo Horodlės unijos laikų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -104,4 +109,3 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003

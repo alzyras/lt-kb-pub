@@ -19,14 +19,14 @@ datos:
   - '1905 m.'
 date_start: '1253'
 date_end: '1905'
+amziai:
+  - 'XIII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
-amziai:
-  - 'XIII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -350,6 +350,24 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 - susijęs iš Lenkija: Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XVI a. viduryje sudarė uniją su Lenkijos Karalyste.
 - susijęs iš Žemaitija: 1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179079|Kryžiuočių ordinas]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija.
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo I a. po
+    Kristaus ji jau patenka į Romos ir kitų civilizacijų akiratį. Paprastai ma-
+    noma, kad iš šių proistorinių gelmių ateina tokios kultūrinės vertybės
+    kaip lietuvių kalba, tautosaka ir folkloras, taip pat lietuvių pagoniškoji
+    religija, nors šios išsikristalizavimas šiandien dažniausiai priskiriamas
+    jau valstybės kūrimosi laikams. Valstybė – Lietuvos Didžioji Kunigaikš-
+    tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-22547
@@ -465,13 +483,17 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Nuo I a. po
-    Kristaus ji jau patenka į Romos ir kitų civilizacijų akiratį. Paprastai ma-
-    noma, kad iš šių proistorinių gelmių ateina tokios kultūrinės vertybės
-    kaip lietuvių kalba, tautosaka ir folkloras, taip pat lietuvių pagoniškoji
-    religija, nors šios išsikristalizavimas šiandien dažniausiai priskiriamas
-    jau valstybės kūrimosi laikams. Valstybė – Lietuvos Didžioji Kunigaikš-
+    Valstybė – Lietuvos Didžioji Kunigaikš-
     tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net
+
+    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
+    17
+    suspėjo krikštytis, o 1253 m. – karūnuotis
+    karaliumi. Vis dėlto tai liko istorinis epi-
+    zodas, nors pagoniška valstybė pamažu
+    tapo regionine didvalstybe arba imperija,
+    užvaldžiusia didžiules stačiatikiškų žemių
+    (buvusios Kijevo Rusios) erdves.
   citata_rodoma: "Valstybė – Lietuvos Didžioji Kunigaikš-\ntija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net\n\nĮvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S\n17\nsuspėjo krikštytis, o 1253 m. – karūnuotis \nkaraliumi. Vis dėlto tai liko istorinis epi-\nzodas, nors pagoniška valstybė pamažu \ntapo regionine didvalstybe arba imperija, \nužvaldžiusia didžiules stačiatikiškų žemių \n(buvusios Kijevo Rusios) erdves."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"

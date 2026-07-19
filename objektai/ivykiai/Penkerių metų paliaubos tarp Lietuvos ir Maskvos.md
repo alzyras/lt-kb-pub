@@ -67,6 +67,33 @@ Nenurodyta
   pagrindžia:
     - c-176090
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Maskvos didikams atmetus siūlytas taikos sąlygas, Lietuvos legatai pradėjo derėtis dėl kitokių taikos formulių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šie ilgai
+    aiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­
+    džiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­
+    riomis kitados buvusi sudaryta sutartis tarp jo senelio
+    Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
+    6 4 9
+
+    buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
+    Vasiljevičius. Kadangi Maskvos didikai atkirto, kad ne­
+    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
+    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
+    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
+    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
+    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
+    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
+    susitarus dėl taikos, išvykti iš Maskvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-168994
@@ -110,6 +137,8 @@ Nenurodyta
     riomis kitados buvusi sudaryta sutartis tarp jo senelio
     Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
     6 4 9
+
+    ## Puslapis 648
 
     buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
     Vasiljevičius. Kadangi Maskvos didikai atkirto, kad ne­

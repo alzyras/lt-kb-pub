@@ -47,10 +47,12 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
   pagrindžia:
     - c-63921
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-63921
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Diewenns
     Dirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)
@@ -67,44 +69,6 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
     Dona
     Dorpatas
     Dortmundas
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-63921
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    vakariniai lietuviai
-    Liežas (Leodium, Lüttich, Liège)
-    Lindanisė žr. Revelis
-    Lioliai
-    Lionas
-    Lisske
-    Liškiava
-    Liubekas
-    Liuksemburgas
-    Liuneburgas (Vokietijoje)
-    Liutichas žr. Liežas
-    Liva, u.
-    Livonija
-    Livonijos ordinas
-    Ližiai
-    Lypa (Lipa, Lîpe; dab. Lipenekas)
-    Lyviai
-    Lochštetė žr. Laukstetai
-    Lotynai
-
-    Loza
-    Lubava (Lubovia, Lubaw), ž.
-    Lubava (Lubovia; Löbau, dab. Lubawa, Liubava), p., miestas
-    Luka
-    Lukas (Lick, vėliau Lyck, dab.
   citata_rodoma: "Diewenns\nDirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)\nDiunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)\nDyrų sodyba\nDnepras, u.\n   padneprė\nDobinas\nDobre Miasto žr. Gutštatas\nDobrynė, ž. kunigaikštystė\n     pilis, miestas\nDobrynės broliai (Dobrynės ordinas) žr. Kristaus karių ordinas\nDomijono šv. ordinas\nDona\nDorpatas\nDortmundas"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

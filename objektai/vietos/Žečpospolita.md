@@ -27,13 +27,6 @@ media_all_json: |-
 
 Pasak Kojelavičiaus cituojamo Petro Skargos, nuo krikščionybės atsimetę ar prie erezijų prisidėję asmenys silpnino monarcho valdžią ir griovė Žečpospolitą.
 
-## Teiginiai
-
-<a id="claim-t-193446"></a>
-- t-001
-  teiginys: "Pasak Kojelavičiaus cituojamo Petro Skargos, nuo krikščionybės atsimetę ar prie erezijų prisidėję asmenys silpnino monarcho valdžią ir griovė Žečpospolitą."
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 
 - c-001

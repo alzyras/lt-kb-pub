@@ -67,12 +67,10 @@ Nenurodyta
   pagrindžia:
     - c-170017
 
-## Citatos
-
-- id: c-170017
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvos metraštyje vienuolio rūbai minimi pasakojant apie apsivilkusį asmenį, kuris trejus metus išbuvo vienuolyne.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     O Treniota
     pradėjo kunigaikščiauti visoje Lietuvos ir Žemaičių že­
@@ -84,6 +82,21 @@ Nenurodyta
     tą nužudyti, o Treniota tą patį galvojo apie Tautvilą.
     Tautvilos bajoras, polockietis Prakapas, išdavė jo kės­
     lą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-170017
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­
+    lyne trejus metus.
   citata_rodoma: "Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­\nlyne trejus metus."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

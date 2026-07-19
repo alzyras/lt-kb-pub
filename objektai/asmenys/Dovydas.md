@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Dovydas
 
 ## Santrauka
@@ -51,26 +52,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   semantiniai_rysiai: "Dovydas surengė žygį į Dobrynė (0.91); Dovydas puolė Dobrynė (0.86); Lietuviai surengė žygį į Dobrynė (0.82)"
   pagrindžia:
     - c-78749
-
-<a id="claim-t-184693"></a>
-- t-005
-  teiginys: "Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Mazovija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dovydas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Dovydas siaubė Mazoviją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Dovydas puolė Mazovija (0.86)"
-  pagrindžia:
-    - c-168054
 
 <a id="claim-t-196443"></a>
 - t-007
@@ -238,7 +219,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-007
 
 - id: c-176531
@@ -346,6 +326,3 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
-
-## Ryšiai
-- Dovydas surengė žygį į [[objektai/vietos/Dobrynė]]

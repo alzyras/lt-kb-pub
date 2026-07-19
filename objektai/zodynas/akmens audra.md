@@ -96,21 +96,6 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
     - c-175107
 
 ## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ilgai nekalbėsime įrodinėdami, kad akmens audros ki­
-    lo iš Skandinavijos, nes tai jau anksčiau įrodė geologai,
-    ypač Hisingeris ir Geiingeno universiteto profesorius IJaus-
-    manas, kurio straipsnis buvo išspausdintas
-    ,,Dziennik
-    Wilenski" (J829. T. V). Sunku nustatyti tų sąnašų ribas
-    neturint smulkių tų vietovių tyrinėjimų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -137,21 +122,13 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vis
-    dėlto visat kas priklauso šiai iškasenų karalijai, yra kilę
-    iš Skandinavijos, t. y. Suomijos kalnų, kurie visiškai ski­
-    riasi nuo Pietuose ir Rytuose stūksančių masyvų.
-    Visi akmens luitai — ir tokie, kurių masė neleido jiems
-    būti išverstiems norago, t. y. nepajudinti iš savo pirmykš­
-    tės vietos, ir patys didžiausi, — visi guli ant pagrindo,
-    kuris atitinka jų svorio masės centrą, ir nesvarbu, ar jie
-    yra ant žemės paviršiaus, ar pripustytos žemės gilumoje.
     Ilgai nekalbėsime įrodinėdami, kad akmens audros ki­
     lo iš Skandinavijos, nes tai jau anksčiau įrodė geologai,
     ypač Hisingeris ir Geiingeno universiteto profesorius IJaus-
     manas, kurio straipsnis buvo išspausdintas
     ,,Dziennik
-    Wilenski" (J829.
+    Wilenski" (J829. T. V). Sunku nustatyti tų sąnašų ribas
+    neturint smulkių tų vietovių tyrinėjimų.
   citata_rodoma: "Ilgai nekalbėsime įrodinėdami, kad akmens audros ki­\nlo iš Skandinavijos, nes tai jau anksčiau įrodė geologai,\nypač Hisingeris ir Geiingeno universiteto profesorius IJaus-\nmanas, kurio straipsnis buvo išspausdintas\n,,Dziennik\nWilenski\" (J829. T. V). Sunku nustatyti tų sąnašų ribas\nneturint smulkių tų vietovių tyrinėjimų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

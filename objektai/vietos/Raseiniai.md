@@ -16,14 +16,14 @@ datos:
   - '1836 m.'
 date_start: '1322'
 date_end: '1836'
-amziai:
-  - 'XIV'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - dvaras
+amziai:
+  - 'XIV'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -306,20 +306,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
 - susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192189|Russ ir Ross]]: Narbuto aprašytoje dainelėje žodis Russ siejamas su gyvenimo gimtojoje sodyboje laime ir nauda.
-## Reikšmingi paminėjimai
-- c-008
-  santrauka: 'Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose parašytame laiške Narbutui patvirtino jo aptariamą teiginį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Taip tvirtina ponas Simo­
-    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
-    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-32377
@@ -483,14 +469,9 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pusdievio ir Nemuno vardo panašumas
-    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
-    kas šia upe keliavęs, bus davęs upei savo vardą. Lietuvoje
-    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
-    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
-    navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
-    kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
-    sūnus, iš Petro.
+    Taip tvirtina ponas Simo­
+    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
+    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
   citata_rodoma: "Taip tvirtina ponas Simo­\nnas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio\nautorius, man rašytame laiške (Raseiniai. -  1836.IV19)*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

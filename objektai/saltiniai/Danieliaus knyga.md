@@ -37,21 +37,6 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   pagrindžia:
     - c-61696
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgiečio kronikos pratarmėje cituojama Danieliaus knygos vieta apie Dievo ženklų ir stebuklų paskelbimą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pratarmė
-
-      „Aukščiausias dievas padarė manyje ženklų ir stebuklų. Taigi man patiko paskelbti jo
-    ženklus, nes jie dideli, ir jo stebuklus, nes galingi“ (Dan 3. 99—100), (Danielius III).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61696
@@ -59,15 +44,10 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Taigi man patiko paskelbti jo
+    Pratarmė
+
+      „Aukščiausias dievas padarė manyje ženklų ir stebuklų. Taigi man patiko paskelbti jo
     ženklus, nes jie dideli, ir jo stebuklus, nes galingi“ (Dan 3. 99—100), (Danielius III).
-     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
-    nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei
-    įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo kūnus,
-    nenorėdami tarnauti nė vienam dievui nei jo garbinti, išskyrus tą, kurį patys tikėjo, nors
-    ugnies liežuviai kilo per 49 uolektis virš krosnies ir sudegino kūrikus, o Danieliaus ir jo
-    bičiulių nė neužgavo ir nieko blogo jiems nepadarė, štai tada jis ir tarė: „Aukščiausias
-    dievas padarė manyje ženklų ir stebuklų“.
   citata_rodoma: "Pratarmė\n\n  „Aukščiausias dievas padarė manyje ženklų ir stebuklų. Taigi man patiko paskelbti jo\nženklus, nes jie dideli, ir jo stebuklus, nes galingi“ (Dan 3. 99—100), (Danielius III)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -66,6 +66,26 @@ media_all_json: |-
   pagrindžia:
     - c-176713
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir kai jo sūnus Ri­
+    mantas išaugo į savo metus, jo tėvas Traidenis atidavė
+    jį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­
+    dą pavadintą Lvovu 3, kad išmokytų rusų kalbos.
+    Gyvendamas pas kunigaikštį Levą, Rimantas išmo­
+    ko rusiškai kalbėti, ir jam patiko krikščionių tikėji­
+    mas. Priėmęs krikštą, jis suprato, kad šis gyvenimas
+    nieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu;
+    ir jam buvo duotas Lauro vardas4.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-176713
@@ -96,12 +116,12 @@ media_all_json: |-
     Ir kai jo sūnus Ri­
     mantas išaugo į savo metus, jo tėvas Traidenis atidavė
     jį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­
-    dą pavadintą Lvovu 3, kad išmokytų rusų kalbos.
+    dą pavadintą Lvovu 3 , kad išmokytų rusų kalbos.
     Gyvendamas pas kunigaikštį Levą, Rimantas išmo­
     ko rusiškai kalbėti, ir jam patiko krikščionių tikėji­
     mas. Priėmęs krikštą, jis suprato, kad šis gyvenimas
     nieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu;
-    ir jam buvo duotas Lauro vardas4.
+    ir jam buvo duotas Lauro vardas4 .
   citata_rodoma: "Ir kai jo sūnus Ri­\nmantas išaugo į savo metus, jo tėvas Traidenis atidavė \njį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­\ndą pavadintą Lvovu 3 , kad išmokytų rusų kalbos.\nGyvendamas pas kunigaikštį Levą, Rimantas išmo­\nko rusiškai kalbėti, ir jam patiko krikščionių tikėji­\nmas. Priėmęs krikštą, jis suprato, kad šis gyvenimas \nnieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu; \nir jam buvo duotas Lauro vardas4 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

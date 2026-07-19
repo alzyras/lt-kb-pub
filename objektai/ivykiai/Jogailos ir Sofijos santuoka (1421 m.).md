@@ -7,13 +7,13 @@ datos:
   - '1421 m.'
 date_start: '1421'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - socialinis-įvykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -79,12 +79,10 @@ Nenurodyta
   pagrindžia:
     - c-178563
 
-## Citatos
-
-- id: c-169066
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vytautas paragino Jogailą pasirinkti naują žmoną, o Jogaila jo paskatintas įsižiūrėjo Sofiją, Kijevo kunigaikščio Andriaus dukterį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Su-
     M e d in in k ų v y s k u p y s -
@@ -102,6 +100,27 @@ Nenurodyta
     rimavo dėl šitokios padėties, dėl kurios sielojasi valdo­
     vai, suvokdami niekam negalėsią užleisti tų aukštumų,
     į kurias iškėlė savo giminę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169066
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Štai todėl Vytautas ir ėmė raginti Jogailą neiš­
+    sižadėti vilties ir pasirinkti naują gyvenimo draugę.
+    Jogaila sutiko su Vytauto nuomone ir, jo paskatintas,
+    įsižiūrėjo Sofiją, Kijevo kunigaikščio Andriaus bei Vy­
+    tauto sesers dukterį., Daili, sveika ir jauna mergina iš­
+    pažino graikų tikėjimą ir prisilaikė rusų apeigų, dėl to
+    imta pagrįstai būgštauti, jog lenkai priešinsis šiai san­
+    tuokai.
   citata_rodoma: "Štai todėl Vytautas ir ėmė raginti Jogailą neiš­\nsižadėti vilties ir pasirinkti naują gyvenimo draugę.\nJogaila sutiko su Vytauto nuomone ir, jo paskatintas,\nįsižiūrėjo Sofiją, Kijevo kunigaikščio Andriaus bei Vy­\ntauto sesers dukterį., Daili, sveika ir jauna mergina iš­\npažino graikų tikėjimą ir prisilaikė rusų apeigų, dėl to\nimta pagrįstai būgštauti, jog lenkai priešinsis šiai san­\ntuokai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

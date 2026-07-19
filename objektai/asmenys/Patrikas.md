@@ -12,15 +12,15 @@ datos:
   - '1380 m.'
 date_start: '1348'
 date_end: '1380'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -144,6 +144,65 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - susijęs iš Gardinas: 1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę.
 - susijęs iš Skalvos žemė: 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites.
 - susijęs iš [[objektai/zodynas/lenkų tikėjimas.md#claim-t-187551|lenkų tikėjimas]]: Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Kojelavičiaus pasakojime Patrikas puolė gelbėti į priešų rankas patekusio tėvo Kęstučio, bet kryžiuotis Henrikas Hochbergas ietimi nutrenkė jį nuo žirgo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Daug valandų truko
+    žiauri, nė vienai šaliai pergalės nežadėjusi kova; ga­
+    lop vokiečiai, geriau apsiginklavę ir išsidėstę patoges­
+    nėje vietoje (mat kovojo gerai įtvirtintoje stovykloje)
+    nei lietuviai, paveržė iš jų pergalę. Kęstutį, kuris ban­
+    dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­
+    ką irstančioje rikiuotėje, galingais kalavijo smūgiais
+    atremdamas kiekvieną narsų priešą, nubloškė nuo žir­
+    go Henrikas Ekersbergas, riteris paauksuotais šarvais,
+    kuris smogė arkliui ietimi iš šono; netrukus apsuptas
+    subėgusiųjų, jis pateko į priešų rankas. Išvydo tėvui
+    gresiantį pavojų jo sūnus Patrikas ir nelyginant įgel­
+    tas (jis buvo tauraus būdo ir
+    S ū n au s
+    m eilė
+    tė v u i
+    labai mylėjo tėvą) pavarė
+    ir karių m e ilė v a d u i
+    žirgą link susigrūdusių prie­
+    šų, norėdamas pagelbėti tė­
+    vui; aklai kalaviju skindamasis kelią prie tėvo, jis
+    susilaukė bemaž tokio pat likimo: kryžiuotis Henri­
+    kas Hochbergas ietimi nutrenkė jį nuo žirgo. Jis iš pas­
+    kutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo
+    įveikti galybės priešų; tuo metu keli lietuvių būriai,
+    smogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-005
+
+- c-004
+  santrauka: 'Narbutas Patriką įvardija kaip vieną iš Kęstučio sūnų, gimusių iš žmonos, kurią Kęstutis, jo pasakojimu, vedė Naujuosiuose Trakuose.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
+    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
+    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
+    minimo ir garbinimo apeigos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-111009
@@ -191,11 +250,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Daug valandų truko
-    žiauri, nė vienai šaliai pergalės nežadėjusi kova; ga­
-    lop vokiečiai, geriau apsiginklavę ir išsidėstę patoges­
-    nėje vietoje (mat kovojo gerai įtvirtintoje stovykloje)
-    nei lietuviai, paveržė iš jų pergalę. Kęstutį, kuris ban­
+    Kęstutį, kuris ban­
     dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­
     ką irstančioje rikiuotėje, galingais kalavijo smūgiais
     atremdamas kiekvieną narsų priešą, nubloškė nuo žir­
@@ -208,7 +263,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     m eilė
     tė v u i
     labai mylėjo tėvą) pavarė
-    ir karių m e ilė v a d u i
+    ir karių  m e ilė v a d u i
     žirgą link susigrūdusių prie­
     šų, norėdamas pagelbėti tė­
     vui; aklai kalaviju skindamasis kelią prie tėvo, jis
@@ -217,6 +272,12 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     kutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo
     įveikti galybės priešų; tuo metu keli lietuvių būriai,
     smogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­
+    244
+
+    ## Puslapis 243
+
+    gaikštį ir išsigabeno iš mūšio lauko, neiškrikdami iš
+    rikiuotės.
   citata_rodoma: "Kęstutį, kuris ban­\ndė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­\nką irstančioje rikiuotėje, galingais kalavijo smūgiais\natremdamas kiekvieną narsų priešą, nubloškė nuo žir­\ngo Henrikas Ekersbergas, riteris paauksuotais šarvais,\nkuris smogė arkliui ietimi iš šono; netrukus apsuptas\nsubėgusiųjų, jis pateko į priešų rankas. Išvydo tėvui\ngresiantį pavojų jo sūnus Patrikas ir nelyginant įgel­\ntas (jis buvo tauraus būdo ir\nS ū n au s\nm eilė\ntė v u i\nlabai mylėjo tėvą) pavarė\nir karių  m e ilė v a d u i\nžirgą link susigrūdusių prie­\nšų, norėdamas pagelbėti tė­\nvui; aklai kalaviju skindamasis kelią prie tėvo, jis\nsusilaukė bemaž tokio pat likimo: kryžiuotis Henri­\nkas Hochbergas ietimi nutrenkė jį nuo žirgo. Jis iš pas­\nkutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo\nįveikti galybės priešų; tuo metu keli lietuvių būriai,\nsmogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­\n244\n\n## Puslapis 243\n\ngaikštį ir išsigabeno iš mūšio lauko, neiškrikdami iš\nrikiuotės."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -232,17 +293,15 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Au­
-    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
-    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
-    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
-    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
-    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
-    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
-    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
-    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
-    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
-    minimo ir garbinimo apeigos.
+    Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
+    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
+    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
   citata_rodoma: "Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,\nSigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­\nnė, būdama gyva, garsėjo savo kilniaširdiškumu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

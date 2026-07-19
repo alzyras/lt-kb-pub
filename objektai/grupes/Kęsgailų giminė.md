@@ -8,13 +8,13 @@ datos:
   - '1490 m.'
 date_start: '1490'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - giminė
   - grupe
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,10 +72,12 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   pagrindžia:
     - c-171114
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi bent 12 kartų.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+## Citatos
+
+- id: c-170719
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Trys iš jų priklau­
     so Bychovco kronikos autoriui. Žemaitijos istorijai pri­
@@ -84,29 +86,6 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
     12 atvejų). Tačiau iš viso Žemaitijos ir karų su kry­
     žiuočiais istorijai pažinti Bychovco kronika yra men­
     kas informatorius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-170719
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Didžiausias au­
-    toriaus rūpestis — išaukštinti savo valstybę, parodyti,
-    kokia ji buvo galinga praeityje. Tačiau tai konservaty­
-    vus patriotizmas: jo idealas praeityje. Tuo Bychovco
-    kronika ir skiriasi nuo Mykolo Lietuvio traktato „Apie
-    totorių, lietuvių ir maskvėnų papročius" (V., 1966).
-    Jo autorius taip pat nesibiaurėjo savo valstybės isto­
-    rija. bet teikiamais jos pavyzdžiais siekė kovoti su sa­
-    vo gyvenamojo laikotarpio visuomenės ir santvarkos
-    ydomis.
   citata_rodoma: "Trys iš jų priklau­\nso Bychovco kronikos autoriui. Žemaitijos istorijai pri­\nskirtina taip pat tai, kas joje pasakojama apie Žemaiti­\njos seniūnų Kęsgailų giminės atstovus (jie minimi bent \n12 atvejų). Tačiau iš viso Žemaitijos ir karų su kry­\nžiuočiais istorijai pažinti Bychovco kronika yra men­\nkas informatorius."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

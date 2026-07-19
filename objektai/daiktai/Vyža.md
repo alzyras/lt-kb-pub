@@ -94,14 +94,7 @@ Nenurodyta
   puslapiai: "p. 52 (PDF 50)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 52 (PDF 50)."
   citata_originali: |
-    Man tuo sykiu buvo išimtis.
-    Į mane piemens dėl dviejų priežasčių žiūrėjo geromis akimis: pirma,
-    užvakar, kai visi išvažiavo į Pašušvį, mudu su Praniuku juos priėmėme
-    į vyšnias, kurių jie iki sočiai prisivalgė; antra, netrukus prinoks sode
-    vaisiai, ir aš būsiu obuolių, kriaušių ir slyvų ponas, ko jie jau dabar
-    geidė.
-    Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vy­
-    žas pinti.
+    Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vyžas pinti.
   citata_rodoma: "Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vyžas pinti."
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
@@ -138,13 +131,7 @@ Nenurodyta
   puslapiai: "p. 54 (PDF 52)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 54 (PDF 52)."
   citata_originali: |
-    likęs vienas be Baltro, jis vėl negalėjo vyžos
-    pinti.
-    Baltras
-    atėjo
-    prievakary ir atnešė terboje žirnių anksčių.
-    Pertaisė Napaliuko dar­
-    bą ir padarė dailią, mažą vyžiukę.
+    Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę.
   citata_rodoma: "Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę."
   statusas: verified
   atnaujinta: "2026-07-12 11:56"

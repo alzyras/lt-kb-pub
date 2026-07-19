@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę
 
 ## Santrauka
@@ -91,19 +92,11 @@ Nenurodyta
 <a id="claim-t-89411"></a>
 - t-003
   teiginys: "Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Jeruzalė: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje vokiečiai minimi kaip Petro žygio dalyviai, kurie užėmė ir Jeruzalės miestą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vokiečiai užėmė Jeruzalė (0.74)"
   pagrindžia:
-    - c-85368
+    - c-85369
 
 ## Citatos
 
@@ -137,7 +130,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-85369
   autorius: "Petras Dusburgietis"
@@ -169,3 +161,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-003

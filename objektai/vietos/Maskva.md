@@ -26,14 +26,14 @@ datos:
   - '1609 m.'
 date_start: '1349'
 date_end: '1609'
+amziai:
+  - 'XIV'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - valstybė
-amziai:
-  - 'XIV'
-  - 'XVII'
 media_total_count: '10'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AUpper_Oka_Principalities_1462_ru.png'
@@ -392,19 +392,11 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177724"></a>
 - t-120
   teiginys: "Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vosylius I: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vosylius I: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vytauto globėjo vaidmuo Vosyliaus šeimos įpėdinio atžvilgiu rodo politinę paramą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Vosylius I (0.78); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Maskva (0.66)"
   pagrindžia:
-    - c-37537
+    - c-161582
 
 <a id="claim-t-177725"></a>
 - t-095
@@ -697,22 +689,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir pagrįstas šaltinio citata."
   pagrindžia:
     - c-43627
-
-<a id="claim-t-177745"></a>
-- t-111
-  teiginys: "Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-161585
 
 <a id="claim-t-177746"></a>
 - t-124
@@ -1269,22 +1245,21 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177787"></a>
 - t-007
   teiginys: "Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 19:43"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Smolenskas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Karolis Chodkevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Chodkevičius gynė Smolenską."
+  ryšio_patikimumas: "susije_su -> didžioji suirutė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "didžioji suirutė: mention_match, thing, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"didžioji suirutė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jonas Karolis Chodkevičius gynė Smolenskas (0.95)"
   temporaliniai_duomenys: "mūšio data: 1617-1618; mūšio data: 1618 m.; mūšio data: 1621 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Chodkevičiai“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Išplėstas asmens vardas ir išlaikytas citatos paremtas faktas."
   pagrindžia:
-    - c-161640
+    - c-161549
 
 <a id="claim-t-177788"></a>
 - t-069
@@ -1303,7 +1278,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161565
 
 <a id="claim-t-177789"></a>
-- t-008
+- t-111
   teiginys: "Vytautas laikė Maskvos metropolitų religinę viršenybę viena opiausių kliūčių savo valdžiai Lietuvoje stiprinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1440,7 +1415,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161576
 
 <a id="claim-t-177802"></a>
-- t-009
+- t-008
   teiginys: "Lenkų kariuomenė 1610 m., sumušusi rusus prie Klušino, užėmė Maskvą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -1510,7 +1485,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161612
 
 <a id="claim-t-177809"></a>
-- t-010
+- t-009
   teiginys: "Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1558,7 +1533,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161615
 
 <a id="claim-t-177813"></a>
-- t-011
+- t-010
   teiginys: "1611 m. Jonui Karoliui Chodkevičiui buvo pavesta deblokuoti Maskvoje apsuptą lenkų ir lietuvių įgulą, bet ji kapituliavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1612,7 +1587,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161593
 
 <a id="claim-t-183050"></a>
-- t-012
+- t-011
   teiginys: "Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta)."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -1670,7 +1645,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-168403
 
 <a id="claim-t-187607"></a>
-- t-013
+- t-012
   teiginys: "Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -2959,6 +2934,69 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20519|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
 - susijęs iš Helsinkio Baigiamasis aktas: Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.
 - susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
+## Reikšmingi paminėjimai
+- c-073
+  santrauka: 'Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat visai ne­
+    sileido į kalbas apie užimtų žemių grąžinimą, dar
+    daugiau — reikalavo atiduoti visą Rusią, sakydami, kad
+    Maskvos kunigaikštystės sienos turinčios eiti Berezinos
+    krantais. Karaliaus pasiuntiniai, įžeisti šitokios bepro­
+    tiškos puikybės, susitiko su pačiu didžiuoju kunigaikš­
+    čiu: pareiškė, kad veltui gaištamas laikas keliant to­
+    kius reikalavimus, kurie nė per sprindį nepriartina
+    susitaikymo dienos, ir pareikalavo, kad leistų jiems
+    grįžti namo, nes Maskvos didikų elgesys verčiąs abe­
+    joti, jog gali būti sudaryta taika. Tada maskvėnai šiek
+    tiek nusileido, begėdiškai vis dėlto nesiliaudami rei­
+    kalavę tų žemių, į kurias neturėjo jokių teisių ir dėl
+    kurių nieku gyvu negalima buvo nusileisti — būtent
+    Polocko ir Gomelio.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-074
+  santrauka: 'Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Žemaitijos istorija visai
+    nedomina Bychovco kronikos autoriaus. Tai rodo, kad
+    su Žemaitija jis betarpiškai nebuvo susijęs, bet, iš ki­
+    tos pusės, Žemaitija tuo metu nebuvo ir kokių nors
+    svarbių ¡vykių, pvz., karų arena.
+    Lietuvos valstybės santykiai su totorių ordomis dau­
+    giausia už.kliudomi legendinėje dalyje, kur visi mūšiai
+    baigiasi lietuvių pergalėmis, o taip pat Aleksandro vai-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-075
+  santrauka: 'Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iki
+    šiol to neįvyko, tačiau, pasak pranašavimo, kada nors ateis ta
+    diena, ir pasaulis nugrims tamsoje.
+    Vėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino
+    Svaistiką, arba Santvarą, kaip graikai - Apoloną.
+    Mėnuo (Menuo*)
+    Šis vardas visose lietuvių kalbos tarmėse yra vyriškos gi­
+    minės, todėl su juo buvo siejamas dievas, nors ir antrasis po
+    Saulės. Nakties karalius, laiko tarpsnių valdovas (laikas bu­
+    vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir
+    keičiantis pavidalą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-05665
@@ -3067,7 +3105,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-120
     - t-063
 
 - id: c-37540
@@ -3176,7 +3213,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-011
+    - t-010
 
 - id: c-43629
   sudarytojas: "Karolis Zikaras"
@@ -3202,7 +3239,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-057
-    - t-009
+    - t-008
 
 - id: c-46605
   redaktorius: "A. Šapoka"
@@ -3306,6 +3343,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+    - t-007
 
 - id: c-161550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3418,7 +3456,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-071
-    - t-008
+    - t-111
 
 - id: c-161554
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3629,7 +3667,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-161569
   autorius: "Michał Baliński"
@@ -3890,6 +3928,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-120
     - t-065
 
 - id: c-161583
@@ -3929,12 +3968,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   citata_rodoma: "Rusai iš Vilniaus į\nMaskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi\nį Stokholmą net akademijos biblioteką ir daugybę kitų kultū-\nros turtų. Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet\nvis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir\nšiandien."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-111
-
 - id: c-161586
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4526,7 +4563,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-056
-    - t-007
 
 - id: c-161642
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -4611,7 +4647,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-168400
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -4652,21 +4688,15 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat visai ne­
-    sileido į kalbas apie užimtų žemių grąžinimą, dar
-    daugiau — reikalavo atiduoti visą Rusią, sakydami, kad
-    Maskvos kunigaikštystės sienos turinčios eiti Berezinos
-    krantais. Karaliaus pasiuntiniai, įžeisti šitokios bepro­
-    tiškos puikybės, susitiko su pačiu didžiuoju kunigaikš­
-    čiu: pareiškė, kad veltui gaištamas laikas keliant to­
-    kius reikalavimus, kurie nė per sprindį nepriartina
-    susitaikymo dienos, ir pareikalavo, kad leistų jiems
-    grįžti namo, nes Maskvos didikų elgesys verčiąs abe­
-    joti, jog gali būti sudaryta taika. Tada maskvėnai šiek
-    tiek nusileido, begėdiškai vis dėlto nesiliaudami rei­
-    kalavę tų žemių, į kurias neturėjo jokių teisių ir dėl
-    kurių nieku gyvu negalima buvo nusileisti — būtent
-    Polocko ir Gomelio.
+    Susitikę su maskvėnais, karaliaus le­
+    gatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo
+    tarpu pasirašyti paliaubas pagal senąją formulę. Mask­
+    vėnai primygtinai reikalavo, kad legatai laišku pa­
+    klaustų karalių, kokia jo nuomonė šiuo klausimu, o
+    atsakymo palauktų Maskvoje. Galop abi šalys sutarė
+    penkerių metų paliaubas šitokiomis sąlygomis: kuni­
+    gaikštis Maskvos raštuose galėsiąs vadintis caru, tuo
+    tarpu legatai laikysis senosios formulės.
   citata_rodoma: "Susitikę su maskvėnais, karaliaus le­\ngatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo\ntarpu pasirašyti paliaubas pagal senąją formulę. Mask­\nvėnai primygtinai reikalavo, kad legatai laišku pa­\nklaustų karalių, kokia jo nuomonė šiuo klausimu, o\natsakymo palauktų Maskvoje. Galop abi šalys sutarė\npenkerių metų paliaubas šitokiomis sąlygomis: kuni­\ngaikštis Maskvos raštuose galėsiąs vadintis caru, tuo\ntarpu legatai laikysis senosios formulės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -4681,14 +4711,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Žemaitijos istorija visai
-    nedomina Bychovco kronikos autoriaus. Tai rodo, kad
-    su Žemaitija jis betarpiškai nebuvo susijęs, bet, iš ki­
-    tos pusės, Žemaitija tuo metu nebuvo ir kokių nors
-    svarbių ¡vykių, pvz., karų arena.
-    Lietuvos valstybės santykiai su totorių ordomis dau­
-    giausia už.kliudomi legendinėje dalyje, kur visi mūšiai
-    baigiasi lietuvių pergalėmis, o taip pat Aleksandro vai-
+    Kalbant apie LDK santykius su Rusų valstybe, labai
+    iškeliamas Vytauto pranašumas savo žento Vasilijaus,
+    Maskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­
+    garduko feodalinių respublikų atžvilgiu. XV a. pabai­
+    gos ir XVI a. pradžios karai su Maskvos didžiąja ku­
+    nigaikštyste vaizduojami, laikantis Lietuvos valstybi­
+    nių pozicijų.
   citata_rodoma: "Kalbant apie LDK santykius su Rusų valstybe, labai \niškeliamas Vytauto pranašumas savo žento Vasilijaus, \nMaskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­\ngarduko feodalinių respublikų atžvilgiu. XV a. pabai­\ngos ir XVI a. pradžios karai su Maskvos didžiąja ku­\nnigaikštyste vaizduojami, laikantis Lietuvos valstybi­\nnių pozicijų."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -4696,24 +4725,18 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-012
 
 - id: c-171659
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Iki
-    šiol to neįvyko, tačiau, pasak pranašavimo, kada nors ateis ta
-    diena, ir pasaulis nugrims tamsoje.
-    Vėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino
-    Svaistiką, arba Santvarą, kaip graikai - Apoloną.
-    Mėnuo (Menuo*)
-    Šis vardas visose lietuvių kalbos tarmėse yra vyriškos gi­
-    minės, todėl su juo buvo siejamas dievas, nors ir antrasis po
-    Saulės. Nakties karalius, laiko tarpsnių valdovas (laikas bu­
-    vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir
-    keičiantis pavidalą.
+    24
+    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
+    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
+    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
+    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
   citata_rodoma: "24\nBiblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-\nkidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,\npapasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip\ndievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -4834,5 +4857,5 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - Užėmė Maskvą: [[objektai/grupes/Lenkai]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Juozas Urbšys]]
 - Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Prekiavo su: [[objektai/vietos/Vilnius]]
+- Prekiavo su: Vilnius
 - Turėjo priklausinį: [[objektai/grupes/Maskvos pasiuntiniai]]

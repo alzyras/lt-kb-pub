@@ -90,8 +90,8 @@ Nenurodyta
     zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
     Lengvenį su didele kariuomene ir su Smolensko pajė­
     gomis; tie parsivarė daugybę belaisvių riazaniečių ir
-    su dideliu grobiu sugrįžo pas Vytautą (1396)13.
-    Tą pačią žiemą, pavasariop H, į Smolenską, pas savo
+    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
+    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
     tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
     vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
     gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­

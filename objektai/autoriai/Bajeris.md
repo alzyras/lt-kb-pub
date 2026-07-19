@@ -113,21 +113,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
     - c-179252
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Bajeris manė, kad Kulmo provincijos pavadinimas, svetimšalių taikytas ir kryžiuočių Prūsijai, vartotas gana seniai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sis Kulmo provincijos pavadinimas sve­
-    timšalių raštuose buvo taikomas ir visai Prūsijai, būtent
-    priklausančiai kryžiuočiams, kurie valdyti pradėjo nuo
-    Ruimo. Bajeris mano, kad šis pavadinimas buvo vartoja­
-    mas gana seniai3. Bet ir vėlesni istorikai kryžiuočių Prū­
-    siją vadino tuo pačiu vardu4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-003
   santrauka: 'Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įtraukti į „Monumentą Prussica“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -170,13 +155,12 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bet ir vėlesni istorikai kryžiuočių Prū­
-    siją vadino tuo pačiu vardu4. Dar kartais svetimšaliai
-    rašytojai prie šių pavadinimų pridėdavo Seirzbia, arba
-    Semland, arba tiesiog šiuo vienu pavadinimu, laikydami
-    garsesnę provinciją visu kraštu, vadindavo visgĮ Prūsiją5 6.
-    Lenkų rašytojai iš pat ¡pradžių prūsus lotyniškai vadinda­
-    vo Gethae5.
+    Sis Kulmo provincijos pavadinimas sve­
+    timšalių raštuose buvo taikomas ir visai Prūsijai, būtent
+    priklausančiai kryžiuočiams, kurie valdyti pradėjo nuo
+    Ruimo. Bajeris mano, kad šis pavadinimas buvo vartoja­
+    mas gana seniai3. Bet ir vėlesni istorikai kryžiuočių Prū­
+    siją vadino tuo pačiu vardu4.
   citata_rodoma: "Sis Kulmo provincijos pavadinimas sve­\ntimšalių raštuose buvo taikomas ir visai Prūsijai, būtent\npriklausančiai kryžiuočiams, kurie valdyti pradėjo nuo\nRuimo. Bajeris mano, kad šis pavadinimas buvo vartoja­\nmas gana seniai3. Bet ir vėlesni istorikai kryžiuočių Prū­\nsiją vadino tuo pačiu vardu4."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

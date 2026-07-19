@@ -80,21 +80,14 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
 <a id="claim-t-18999"></a>
 - t-003
   teiginys: "Joną Žemaitį-Vytautą kameroje lankė SSRS saugumo maršalas Lavrentijus Berija."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 19:43"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lavrentijus Berija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Žemaitis-Vytautas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lavrentijus Berija: mention_match, person, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Žemaitis-Vytautas\" parinktas kaip owner_note_path. Targetas \"Lavrentijus Berija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1951 m.; įvykio data: 1953 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-21758
+    - c-21756
 - susijęs iš [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.).md#claim-t-20551|Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]: Visos Lietuvos partizanų vadų suvažiavime Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.
 - susijęs iš [[objektai/grupes/Lietuvos gynybos pajėgos.md#claim-t-41027|Lietuvos gynybos pajėgos]]: 1949 m. vasarį Jonas Žemaitis-Vytautas buvo išrinktas LLKS tarybos prezidiumo pirmininku ir laikinai ėjo Lietuvos gynybos pajėgų vado pareigas.
 - susijęs iš [[objektai/grupes/Lietuvos laisvės kovos sąjūdis.md#claim-t-169728|Lietuvos laisvės kovos sąjūdis]]: LLKS Vasario 16-osios deklaracijoje numatyta atkurti Lietuvos valstybę kaip demokratinę respubliką.
@@ -133,6 +126,7 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-003
 
 - id: c-21757
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -188,5 +182,3 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003

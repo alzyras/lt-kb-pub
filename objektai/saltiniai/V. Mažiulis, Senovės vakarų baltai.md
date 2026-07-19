@@ -27,16 +27,6 @@ media_all_json: |-
 Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V.
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    19 Mažiulis V. Senovės vakarų baltai..., p. 7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -56,16 +46,7 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Nežiūrint kai kurių skirtumų, išryškėja
-    čia kalbos, materialinės ir dvasinės kultūros, socialinės santvarkos bendrybės. Visa tai
-    atsispindi ir bendroje prūsų bei lietuvių kovoje prieš katalikiškųjų vakarų ir Kryžiuočių
-    ordino agresiją.
-    Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje
-    prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių
-    pastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t. y.
-    vienijanti ne tik lietuvių, bet ir kitų baltų žemes, priglaudžianti jau užgrobtų baltų žemių
-    gyventojus) Lietuvos valstybė, kaip šį pažangų procesą kraujyje skandino užsienio feodalų
-    agresija.
+    19 Mažiulis V. Senovės vakarų baltai..., p. 7.
   citata_rodoma: "19 Mažiulis V. Senovės vakarų baltai..., p. 7."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -80,10 +61,8 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    tarmė) turėjusi ypatybių, kurios ją siejusios su prūsų kalba labiau negu su lietuvių20.
-    Taip pagrindiniais bruožais atrodo prūsų, jotvingių ir jų giminaičių lietuvių tarpusavio
-    santykiai kalbos ir kultūros duomenų požiūriu. Nežiūrint kai kurių skirtumų, išryškėja
-    čia kalbos, materialinės ir dvasinės kultūros, socialinės santvarkos bendrybės.
+    14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.
+    7; Lietuvininkai.
   citata_rodoma: "14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.\n7; Lietuvininkai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

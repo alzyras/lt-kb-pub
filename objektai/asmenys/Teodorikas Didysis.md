@@ -176,44 +176,34 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     - c-174040
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašo, kad po Tacito laikų žinios apie estus vėl pasirodo pasakojant apie Teodoriko Didžiojo ryšius su gintaro prekeiviais.'
+- c-006
+  santrauka: 'Teodoriko žygyje į Italiją dalyvavo kariai su šeimomis ir manta, taip pat įvairūs kolonistai, keliavę į Italijos kraštą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    80
-    Vėlesni padavimai. Apie estus nėra žinių nuo Tacito
-    laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
-    tijos jūros pakrančių gyventojais, kurie prekiavo gintaru
-    ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,
-    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
-    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
+    Tariamomis žygio priežastimis tapo
+    kerštas už padarytą rugiams skriaudą ir vykdymas įsa­
+    kymų Zenono, kuris tuomet buvo laikomas imperatoriumi
+    visos Romos valstybės, buvusios iki jos pasidalijimo į
+    Rytų ir Vakarų imperijas; kartu jis turėjo teisę savo nuo­
+    žiūra skirti vietininkus Italijoje ir nušalinti jam neįtin­
+    kančius.
+    326
+    Teodoriko žygyje dalyvavo gotų karaliaus pakviestos
+    didelės minios žmonių, tarsi skubėjusių įsikurti palaimin­
+    tame Italijos krašte; keliavo ne tik kariai su visa savo
+    manta, šeimomis ir pastogėmis, bet ir įvairūs kolonistai.
+    Paskui kariuomenę riedėjo specialiai padaryti dengti ve-
+    310
+
+    ## Puslapis 321
+
+    žiniai, galėję būti būstais, mašinos ir malūnai su visa
+    įranga.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-003
-  santrauka: 'Narbutas rašo, kad Teodorikas ir visi gotai buvo krikščionys, kaip ir Odoakras bei jo herulai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    202
-
-    ## Puslapis 200
-
-    niekas Europoje negarbino Kapitolijaus Jupiterio, o ro­
-    mėniška pagonybe bjaurėjosi patys stabmeldžiai, jei tokių
-    kur dar buvo užsilikę pietinėje Europoje, nes net ir romė­
-    nų, kaip išnaudotojų ir tautų naikintojų, vardas buvo ne­
-    apkenčiamas. Odoakras buvo krikščionis, ir jo herulams
-    buvo skelbiamas Kristaus mokslas, Teodorikas ir visi go­
-    ta i— taip pat. Tad iš kur tie herulai galėjo prisirinkti tiek
-    graikų, romėnų, indų dievų?
-  citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174034
@@ -245,17 +235,13 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Žinios apie šį bendrinį pa­
-    vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
-    ni estus, kalbėdamas apie karingus Odoakro vadovauja­
-    mus herulus, kilusius iš estų tautos. Sis istorikas gyveno
-    imperatoriaus Justiniano laikais, arba VI amžiuje. Po
-    trijų amžių Eginhartas**, Karolio Didžiojo biografas, apie
-    estus rašo taip: „Prie šios įlankos (Baltijos jūros) gy­
-    vena daug genčių, būtent danai ir švedai, taip pat tie,
-    kuriuos mes vadiname normanais, jos turi šiaurinę dalį
-    ir visas ten esančias salas; į pietus yra slavai ir estai
-    (Aisti vietoj Aesti), o už jų gyvena kitos tautos“6.
+    80
+    Vėlesni padavimai. Apie estus nėra žinių nuo Tacito
+    laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
+    tijos jūros pakrančių gyventojais, kurie prekiavo gintaru
+    ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,
+    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
+    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
   citata_rodoma: "80\nVėlesni padavimai. Apie estus nėra žinių nuo Tacito\nlaikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­\ntijos jūros pakrančių gyventojais, kurie prekiavo gintaru\nir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,\ndaugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­\njęs, mini estus, kurie taip pat gyveną jūros pakrantėje3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -270,31 +256,18 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Odoakras buvo krikščionis, ir jo herulams
+    202
+
+    ## Puslapis 200
+
+    niekas Europoje negarbino Kapitolijaus Jupiterio, o ro­
+    mėniška pagonybe bjaurėjosi patys stabmeldžiai, jei tokių
+    kur dar buvo užsilikę pietinėje Europoje, nes net ir romė­
+    nų, kaip išnaudotojų ir tautų naikintojų, vardas buvo ne­
+    apkenčiamas. Odoakras buvo krikščionis, ir jo herulams
     buvo skelbiamas Kristaus mokslas, Teodorikas ir visi go­
     ta i— taip pat. Tad iš kur tie herulai galėjo prisirinkti tiek
-    graikų, romėnų, indų dievų? Tie, kurie nežinojo nei pago­
-    niškų Graikijos ar Romos, nei Indijos? Pagaliau kaip
-    po Odoakro pralaimėjimo grįžtantys iš Italijos he­
-    rulai
-    galėjo
-    duoti
-    pradžią
-    lietuvių
-    tautai,
-    jei
-    pa­
-    tys buvo iš jų kilę, išėję iš tų pačių sodybų, kur
-    ir
-    šiandien
-    gyvena
-    jų
-    ainiai?
-    Bet
-    tai
-    nagrinėti
-    dar ne laikas, vėliau kalbėsime apie herulus ir tvir­
-    čiau pagrįsime mūsų prielaidas.
+    graikų, romėnų, indų dievų?
   citata_rodoma: "202\n\n## Puslapis 200\n\nniekas Europoje negarbino Kapitolijaus Jupiterio, o ro­\nmėniška pagonybe bjaurėjosi patys stabmeldžiai, jei tokių\nkur dar buvo užsilikę pietinėje Europoje, nes net ir romė­\nnų, kaip išnaudotojų ir tautų naikintojų, vardas buvo ne­\napkenčiamas. Odoakras buvo krikščionis, ir jo herulams\nbuvo skelbiamas Kristaus mokslas, Teodorikas ir visi go­\nta i— taip pat. Tad iš kur tie herulai galėjo prisirinkti tiek\ngraikų, romėnų, indų dievų?"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

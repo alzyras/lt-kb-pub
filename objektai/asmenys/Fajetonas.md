@@ -80,10 +80,12 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192446|Prūsai]]: Teodoras Narbutas rašo, kad prūsų Sembos pakrantėje ypač dažnai randama gintaro kilmę aiškinančių medžių liekanų.
 - susijęs iš Semba: Narbutas rašė, kad gintaro sakų kilmės pėdsakai ypač dažnai randami prūsų Sembos pakrantėje.
 - susijęs iš [[objektai/zodynas/gintaras.md#claim-t-192920|gintaras]]: Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų, kurių susidūrimo skeveldros sukėlė žemėje fizines revoliucijas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+## Citatos
+
+- id: c-174148
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Geriausiai šį ypatingą fenomeną pa­
     aiškina vokiečių astronomas ponas Radiolas1. Anot jo, ga­
@@ -93,31 +95,6 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
     kurios sunaikino žemynus ir sukėlė potvynius. Pasak kitos
     ir panašios į šią prielaidos, prie žemės buvęs antras mė­
     nulis, arba ¡palydovas, kuris buvo sunaikintas ir sprogo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-174148
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Krisdami jie pataikė į mūsų krašto vietoje
-    plytėjusios jūros įdubą, užpylė jos gelmes ir suformavo
-    žemynus, kurių sampiluose randama liekanų organinių
-    būtybių, ągzistavusių toje planetoje; mes laikome jas pri­
-    klausančiomis senajam ¡pasauliui. Mūsų akmenų panašu­
-    mas į Norvegų uolas gali būti atsitiktinis dėl to, kad bu­
-    vusios planetos uolos buvo panašios į anas. Kad ir kaip
-    ten būtų buvę, nors kiekvienas pats turi spręsti tai, kas
-    buvo pasakyta, negalime nuginčyti, jog iš fizinių revoliu­
-    cijų, kurias mūsų žemė ne vieną kartą patyrė, ypač išsi­
-    skyrė viena: tuomet labai nukentėjo uolienos ir jos buvo
-    nepaprastai suskaldytos.
   citata_rodoma: "Geriausiai šį ypatingą fenomeną pa­\naiškina vokiečių astronomas ponas Radiolas1. Anot jo, ga­\nna tolimais amžiais susidūrė dvi palyginti didelės pla­\nnetos, vadinamos H espera ir Fajetonu; jų skeveldros iš\ndalies nukrito žemėn ir sukėlė joje fizines revoliucijas,\nkurios sunaikino žemynus ir sukėlė potvynius. Pasak kitos\nir panašios į šią prielaidos, prie žemės buvęs antras mė­\nnulis, arba ¡palydovas, kuris buvo sunaikintas ir sprogo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

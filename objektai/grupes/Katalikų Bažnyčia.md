@@ -556,17 +556,13 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dusburgiečio kronika ir vaizduoja būtent tą sudėtingą laikotarpį, kai po įtemptų bendrų
+    Taigi vyko vieningos
+    tautybės45 bei baltiškosios Lietuvos valstybės formavimosi procesas46, kurį sustabdė
+    vokiečių ir kt. šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.
+      Dusburgiečio kronika ir vaizduoja būtent tą sudėtingą laikotarpį, kai po įtemptų bendrų
     kovų prieš agresiją iš Vakarų buvo pavergti vakariniai baltai, kai Ordinas toliau veržėsi
     į Žemaitiją ir Rytų Lietuvą ir tik milžiniškomis pastangomis ir aukomis buvo sulaikytas
-    prie Nemuno, virtusio pagrindine fronto linija. Agresoriaus interesams ginti parašytoje
-    kronikoje pavaizduotas prūsų ir lietuvių gyvenimas XIII—XIV a. bei jų išsivaduojamoji
-    kova yra Lietuvos istorijos sudėtinė dalis, pažangus reiškinys tarptautiniame
-    išsivaduojamajame judėjime, kovoje prieš agresyvias jėgas viduramžiais.
-    Epocha, kurioje rašė Petras iš Dusburgo
-    3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos
-    kare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
-    užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
+    prie Nemuno, virtusio pagrindine fronto linija.
   citata_rodoma: "Taigi vyko vieningos\ntautybės45 bei baltiškosios Lietuvos valstybės formavimosi procesas46, kurį sustabdė\nvokiečių ir kt. šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.\n  Dusburgiečio kronika ir vaizduoja būtent tą sudėtingą laikotarpį, kai po įtemptų bendrų\nkovų prieš agresiją iš Vakarų buvo pavergti vakariniai baltai, kai Ordinas toliau veržėsi\nį Žemaitiją ir Rytų Lietuvą ir tik milžiniškomis pastangomis ir aukomis buvo sulaikytas\nprie Nemuno, virtusio pagrindine fronto linija."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -826,22 +822,13 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
     Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
     daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
     jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
-    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos ir Lietuvos istorijos faktus
-    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
-    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
-    klausimai.
-    Prūsai ir Lietuva
-    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
-    vientisumas.
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: "Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus\nkaras prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,\nnušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš\nDusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.\nTarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti\ndaugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir\njo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

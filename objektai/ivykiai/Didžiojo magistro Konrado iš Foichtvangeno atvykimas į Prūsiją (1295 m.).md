@@ -7,12 +7,12 @@ datos:
   - '1295 m.'
 date_start: '1295'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,23 +71,6 @@ Nenurodyta
   pagrindžia:
     - c-62739
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
-    Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,
-    išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir
-    paguodė juos išmintingais žodžiais ir pamokymais.
-
-                 265 (258). Apie Kimelio pilies sunaikinimą 1296 metais
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-62739
@@ -95,17 +78,15 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šis,
-    bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino
-    pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
-    kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
-    268 (261) Apie penkių kaimų apiplėšimą
-    Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
-    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
-    269 (262). Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje
-    1297 viešpaties metais kilo begaliniai Rygos miestiečių ir Teutonų ordino brolių
-    kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
-    būtinybės verčiami, devynis kartus su jais stojo į kovą.
+    Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
+    Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,
+    išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir
+    paguodė juos išmintingais žodžiais ir pamokymais.
+
+
+
+
+                 265 (258). Apie Kimelio pilies sunaikinimą 1296 metais
   citata_rodoma: "Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į\nPrūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,\nišvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir\npaguodė juos išmintingais žodžiais ir pamokymais.\n\n\n\n\n             265 (258). Apie Kimelio pilies sunaikinimą 1296 metais"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

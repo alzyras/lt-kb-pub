@@ -102,14 +102,7 @@ Nenurodyta
   puslapiai: "p. 118 (PDF 116)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 118 (PDF 116)."
   citata_originali: |
-    Jau krai­
-    tis atskirtas, skrynia užrakinta, pagalvės ir duknos surištos į didelį
-    ryšulį — ir broliai prašomi išnešti skrynią ir įdėti ją į ratus.
-    Su bro­
-    liais ateina kraičvežiai ir visi svečiai.
-    Jaunoji kraičvežiams dovanoja
-    po naujai atrėžtą rankšluostį. Kraičvežiai, gavę po rankšluostį, per-
-    siriša juos per pečius.
+    Jau krai- tis atskirtas, skrynia užrakinta, pagalvės ir duknos surištos į didelį ryšulį — ir broliai prašomi išnešti skrynią ir įdėti ją į ratus. Su bro- liais ateina kraičvežiai ir visi svečiai. Jaunoji kraičvežiams dovanoja po naujai atrėžtą rankšluostį. Kraičvežiai, gavę po rankšluostį, per- siriša juos per pečius.
   citata_rodoma: "Jau krai- tis atskirtas, skrynia užrakinta, pagalvės ir duknos surištos į didelį ryšulį — ir broliai prašomi išnešti skrynią ir įdėti ją į ratus. Su bro- liais ateina kraičvežiai ir visi svečiai. Jaunoji kraičvežiams dovanoja po naujai atrėžtą rankšluostį. Kraičvežiai, gavę po rankšluostį, per- siriša juos per pečius."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"

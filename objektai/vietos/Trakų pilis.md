@@ -11,15 +11,15 @@ datos:
   - '2026 m.'
 date_start: '1382'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - valstybė
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -194,24 +194,6 @@ Trakų pilis.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86455|Arkikomtūras]]: Po taikos sutarties arkikomtūras su Ordino maršalu ir kitais aukštesniaisiais vokiečių riteriais buvo pakviestas į Vilniaus ir Trakų pilis.
 - susijęs iš Kernavė: XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.
 - susijęs iš Lietuva: Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietuva akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtėjo ekonomiškai.
-## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    MITOLOGIJOS PABAIGA. 13
-    13
-    Seniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo
-    senojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies
-    tyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­
-    niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
-    suteikęs mums tą žinią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-37767
@@ -347,34 +329,13 @@ Trakų pilis.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    retur (Šios klastingos tautos [gyvenamų žemių] viduryje, Nad-
-    ruvoje, buvo vieta, kurią vadino Romove, gavusi savo vardą
-    nuo Romos, o ten gyveno žmogus, vadinamas kriviu, kurį ger­
-    bė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę
-    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne
-    tik minėtosios gentys, bet ir lietuviai, ir kitos tautos, gyvenu­
-    sios Livonijos žemėje. Toks didelis buvo jo autoritetas, kad ne
-    tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo kri­
-    vūle ar kokiu kitu žinomu ženklu keliaudamas per šių netikė­
-    lių žemes, sulaukdavo didžios kunigaikščių, kilmingųjų bei pra­
-    stuomenės pagarbos). Nepradedami aiškinti šios Dusburgie-
-    čio kronikos vietos, pateiksime tą patį iš vėlesniojo jos perdir­
-    binio (rankraštis iš Slaptojo Karaliaučiaus archyvo), kur pasa­
-    kyta šitaip: In medio eorum fiât sita civitas Romowe, dicta a
-    Roma, in qua habitabat eorum nobilior, dictus Crive, quem pa­
-    gani pro Papa habebant, cui omnes non solum Pruteni, sed ei
-    Lithvani et Livonienses, veluti christiani Papae obediebant et
-    tantum venerabantur, quod etiam suos nuntios, qui ejus bacu­
-    lum aut signum aliquod portabant ab eo missum, principes etiam
-    et communis populus multo honore colebant et omnia praecep­
-    ta ejus firmiter servabant (Jų [žemės] viduryje buvo Romovės
-    miestas, gavęs vardą nuo Romos, kuriame gyveno kilminges-
-    nis iš jų, vadinamas kriviu, kurį stabmeldžiai laikė popiežiu­
-    mi, kurie visi - ne tik prūsai, bet ir lietuviai, ir livoniečiai -
-    klausė jo kaip krikščionys popiežiaus ir taip jį gerbė, kad netgi
-    jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
-    siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
-    sia pagarba ir griežtai vykdydavo visus jo nurodymus).
+    MITOLOGIJOS PABAIGA. 13
+    13
+    Seniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo
+    senojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies
+    tyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­
+    niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
+    suteikęs mums tą žinią.
   citata_rodoma: "MITOLOGIJOS PABAIGA. 13\n13\nSeniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo\nsenojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies\ntyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­\nniaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,\nsuteikęs mums tą žinią."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

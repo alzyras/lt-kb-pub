@@ -61,10 +61,12 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
   pagrindžia:
     - c-179129
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnimi priskyrė piromantijai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-173253
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Strijkovskis aiškiai
     tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
@@ -79,29 +81,6 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
     rijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­
     romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­
     je pusėje, praktikuodavo dar kitą piromantijos rūšį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-173253
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Si
-    maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
-    šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
-    rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
-    gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
-    ne. muskis. und man'. Dėl šios maldelės Lasickis pateikia anek­
-    dotišką žinią, kaip kaimietis, dangui grasinant audra arba liū­
-    timi, nusiėmęs kepurę, bėgiodavo po lauką, užsidėjęs ant pe­
-    čių lašinių paltį, ir šitaip maldėsi Perkūnui, bet, debesims išsi­
-    sklaidžius, lašinius pats suvalgydavo.
   citata_rodoma: "Strijkovskis aiškiai\ntvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės\nromėnai, kurie taip krikštydavosi per Palilėjų šventes deivės\nPalės garbei.\nBūrimus, darytus su ugnimi, uždegta šv. Jono Krikštytojo\nšventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-\n344\n\n## Puslapis 344\n\nrijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­\nromantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­\nje pusėje, praktikuodavo dar kitą piromantijos rūšį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

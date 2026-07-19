@@ -418,29 +418,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - susijęs iš Vilniaus pilys: 1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89431|Mūro sienos ir miesto sienos]]: 1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
-## Reikšmingi paminėjimai
-- c-014
-  santrauka: 'Mechmetas Girėjus nužygiavo iki Minsko, nuniokojo kraštą, sudegino miestą ir neapgulė pilies.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vaivada Goštautas, pilies seniūnas
-    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
-    taip nukamavo priešą, šaudydami iš patrankų bei reng­
-    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
-    lies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas
-    smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
-    sūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis
-    visur nuniokojo kraštą, sudegino miestą, o matydamas,
-    jog pilies nieku būdu greitai neužims, jos neapgulė,
-    bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko
-    ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
-    mo, ir sugrįžo atgal su didžiausiu grobiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-43646
@@ -785,23 +762,18 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
-    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
-    dar stipriau saugojo, ypač
-    K ry m o sk ita i n io k o -
-    dėl to, kad Krymo chanas
-    ja L ie tu v ą
-    Mengli Girėjus per pasiunti­
-    nius žadėjo karaliui taiką ir
-    pagalbą, jeigu šis neleis Šich Achmetui pasprukti. Ne­
-    rasdamas užtarėjų žemėje, Šich Achmetas kreipėsi mal­
-    domis į dangų, norėdamas, atgavęs aukščiausiojo ma­
-    lonę, atkeršyti jo padedamas už skriaudas. Išklausė
-    dangus varguolio maldų. Mengli Girėjaus kariai, veda­
-    mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­
-    los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
-    jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
-    jūčio viduryje užpuolė Slucką.
+    Vaivada Goštautas, pilies seniūnas
+    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
+    taip nukamavo priešą, šaudydami iš patrankų bei reng­
+    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
+    lies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas
+    smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
+    sūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis
+    visur nuniokojo kraštą, sudegino miestą, o matydamas,
+    jog pilies nieku būdu greitai neužims, jos neapgulė,
+    bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko
+    ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
+    mo, ir sugrįžo atgal su didžiausiu grobiu.
   citata_rodoma: "Vaivada Goštautas, pilies seniūnas\nMaskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai\ntaip nukamavo priešą, šaudydami iš patrankų bei reng­\ndami išpuolius, kad tas, nebesitikėdamas užkariauti pi­\nlies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas\nsmarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus\nsūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis\nvisur nuniokojo kraštą, sudegino miestą, o matydamas,\njog pilies nieku būdu greitai neužims, jos neapgulė,\nbet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko\nir Vitebsko žemes, niekur nesutikdamas pasipriešini­\nmo, ir sugrįžo atgal su didžiausiu grobiu."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

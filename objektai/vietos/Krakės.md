@@ -63,14 +63,7 @@ Krakės šiame šaltinyje yra miestelis ar gyvenvietė.
   puslapiai: "p. 64 (PDF 62)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 64 (PDF 62)."
   citata_originali: |
-    Menkiausią daiktą, kad ir vinį, rei­
-    kėjo iš štobos dirbti. Taigi geležiniai dirbiniai buvo sunkiai prieinami,
-    juos dirbdavos tik būtinam, reikalui.
-    Vieną sykį tėvas, parvažiavęs iš
-    Krakių, praneša didelę naujieną: krautuvėse atsiradę visokios geležies:
-    tekiniams, pasagoms, vinims,
-    grandims, net kubilams lankų, vis
-    kitokia geležis.
+    „Vieną sykį tėvas, parvažiavęs iš Krakių, praneša didelę naujieną: krautuvėse atsiradę visokios geležies:“
   citata_rodoma: "„Vieną sykį tėvas, parvažiavęs iš Krakių, praneša didelę naujieną: krautuvėse atsiradę visokios geležies:“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"

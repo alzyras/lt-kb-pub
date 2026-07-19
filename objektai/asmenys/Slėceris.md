@@ -186,24 +186,6 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192259|Krirsae]]: Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį.
 - susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192260|Krirsae]]: Narbutas nepripažįsta krivičių pavadinimo kildinimo iš sarmatų žodžio „Krirsae“.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip satrium ir lygino su lietuvišku žodžiu lihtars.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Skitai gintarą
-    vadino
-    sacrium.
-    Šio
-    žodžio
-    galūnė
-    sugraikinta.
-    Slėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­
-    riausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Narbuto vertinimu, Slėceris keliautojų sunkumus renkant žinias net apsišvietusiuose kraštuose teisingai priskyrė vaizdinių aiškinimo kliūtims.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -240,21 +222,6 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-005
-  santrauka: 'Slėceris kėlė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų išsivystymą galėjo riboti raitos medžioklės nežinojimas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
-    84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
-    vo žemesnio išsivystymo lygio todėl, kad nežinojo raitos
-    medžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­
-    limos Siaurės genčių, jau prieš 1000 metų nugalėdavę
-    savo užpuolikus kavalerija“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -263,15 +230,15 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kocebus teisingai vadina gintarą saulės akmeniu, se­
-    novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią
-    gaubia sunkiai atskleidžiamos uždangos4. Tačiau senovė­
-    je, jei atmesime tokias pasakas ir spėliones, pavyzdžiui,
-    kad jis susidaro iš lūšies šlapimo, ¡gintaru verkė Mulea-
-    įgrido paukščiai arba hiperborėjų Apolonas, būta apie jį
-    gana tikslių žinių. Bet ¡poetinis pasakojimas apie tuopomis
-    paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­
-    tėja prie tiesos.
+    Skitai gintarą
+    vadino
+    sacrium.
+    Šio
+    žodžio
+    galūnė
+    sugraikinta.
+    Slėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­
+    riausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*.
   citata_rodoma: "Skitai gintarą\nvadino\nsacrium.\nŠio\nžodžio\ngalūnė\nsugraikinta.\nSlėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­\nriausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -354,14 +321,12 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Dritter Band. S.
+    Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
     84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
     vo žemesnio išsivystymo lygio todėl, kad nežinojo raitos
     medžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­
     limos Siaurės genčių, jau prieš 1000 metų nugalėdavę
     savo užpuolikus kavalerija“.
-    Abejoju, ar raitos medžioklės išmokė juos to meno,
-    nes, gyvenant tarp miškų ir pelkių, sunku joti arkliais į
   citata_rodoma: "Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.\n84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­\nvo žemesnio išsivystymo lygio todėl, kad nežinojo raitos\nmedžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­\nlimos Siaurės genčių, jau prieš 1000 metų nugalėdavę\nsavo užpuolikus kavalerija“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

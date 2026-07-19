@@ -53,10 +53,8 @@ Dusburgietis teigia, kad de Vries Jan.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Пашуто В. Т.  Христбургский (Кишпорский) договор 1249 г. как исторический
-    источник. — Проблемы источниковедения, М., 1959, 7. с. 357—390.
-    Пашуто В. Т.  Образование Литовского государства — М., 1959.
-    Пашуто В. Т.  Гродно в Хронике Петра Дусбурга.
+    de Vries Jan. Altnordisches etymologisches Wörterbuch-Leiden, 1962.
+      Wróblewski R.
   citata_rodoma: "de Vries Jan. Altnordisches etymologisches Wörterbuch-Leiden, 1962.\n  Wróblewski R."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

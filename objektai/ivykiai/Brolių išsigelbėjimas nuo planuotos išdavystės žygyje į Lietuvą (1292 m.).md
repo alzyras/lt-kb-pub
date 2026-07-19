@@ -7,14 +7,14 @@ datos:
   - '1292 m.'
 date_start: '1292'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - žygis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -122,7 +122,7 @@ Nenurodyta
 <a id="claim-t-196938"></a>
 - t-006
   teiginys: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies, pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -130,13 +130,12 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63545
+    - c-63546
+    - c-63548
 
-## Citatos
-
-- id: c-63545
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
     dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
@@ -148,6 +147,29 @@ Nenurodyta
     dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,
     bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus
     apgins.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+    - t-005
+    - t-006
+
+## Citatos
+
+- id: c-63545
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai
+    rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę
+    ir patraukė prie lietuvių sienų. Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir
+    pasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite  į lietuvių žemę;
+    jie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu
+    tučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“. Brolis Henrikas atsakė: „Jeigu
+    taip yra, kaip sakai, patark mums, ką turime daryti, kad išvengtume pavojų“.
   citata_rodoma: "1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai\nrūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę\nir patraukė prie lietuvių sienų. Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir\npasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite  į lietuvių žemę;\njie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu\ntučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“. Brolis Henrikas atsakė: „Jeigu\ntaip yra, kaip sakai, patark mums, ką turime daryti, kad išvengtume pavojų“."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -180,6 +202,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-006
 
 - id: c-63547
   autorius: "Petras Dusburgietis"
@@ -228,3 +251,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-006

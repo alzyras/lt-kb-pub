@@ -66,9 +66,7 @@ Alaus pagyrimo formulė.
   puslapiai: "p. 152 (PDF 150)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 152 (PDF 150)."
   citata_originali: |
-    Dabar to alaus visiems valia gerti, ir svetimą žmogų neišleidžia ne­
-    davus paragauti. Atsigėręs kiekvienas pagiria: „Alus kaip pienas. Per
-    nosis muša“ .
+    Dabar to alaus visiems valia gerti, ir svetimą žmogų neišleidžia nedavus paragauti. Atsigėręs kiekvienas pagiria: „Alus kaip pienas. Per nosį muša“ .
   citata_rodoma: "Dabar to alaus visiems valia gerti, ir svetimą žmogų neišleidžia nedavus paragauti. Atsigėręs kiekvienas pagiria: „Alus kaip pienas. Per nosį muša“ ."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"

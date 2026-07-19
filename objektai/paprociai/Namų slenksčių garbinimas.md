@@ -89,23 +89,13 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    anga, pro kurią galima leistis į jūrą (Poniewaz znaczenie litew-
-    skiego namianowania o tem przekonywa: ktore znaczy: Nad Por-
-    tem. Port morski w litewskiej czystej mowie nazywa się Langas
-    mariu, okno morza, otwor, przez ktory možna pušcič się na mor-
-    ze). Vietoj šių sakinių turėtų būti: „Senoji Palanga buvo išsi­
-    dėsčiusi kalvos, vadinamos Olandiška Skrybėle, papėdėje“ (Stara
-    Poląga ležata u podnožu wzgorza zwanego Hollanderski Kape-
-    lusz)
-    (PE. L.
-    70—71).
-    43 /Ten pat,
-    (27)
-    išnaša/
-    Turimas omenyje T. Cackio (1765—1813) darbas (Czacki T. O
-    litewskich i polskich prawach, o ich ducbu, žrodlach, związku i
-    o rzeczach zawartych w pierwszem statucie dla Litwy 1529 roku
-    wydanem.
+    Mongolai labai garbino namų slenksčius: tas, kuris praeidamas pa-
+    liesdpvo juos koja, būdavo baudžiamas. Už tokį neatsargumą jų
+    krašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis
+    ir net grasinama mirtimi. Grafas Jonas Potockis tokį garbinimą
+    pastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),
+    bet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės
+    lietuvius1.
   citata_rodoma: "Mongolai labai garbino namų slenksčius: tas, kuris praeidamas pa-\nliesdpvo juos koja, būdavo baudžiamas. Už tokį neatsargumą jų\nkrašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis\nir net grasinama mirtimi. Grafas Jonas Potockis tokį garbinimą\npastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),\nbet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės\nlietuvius1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -118,19 +108,8 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vietoj šių sakinių turėtų būti: „Senoji Palanga buvo išsi­
-    dėsčiusi kalvos, vadinamos Olandiška Skrybėle, papėdėje“ (Stara
-    Poląga ležata u podnožu wzgorza zwanego Hollanderski Kape-
-    lusz)
-    (PE. L.
-    70—71).
-    43 /Ten pat,
-    (27)
-    išnaša/
-    Turimas omenyje T. Cackio (1765—1813) darbas (Czacki T. O
-    litewskich i polskich prawach, o ich ducbu, žrodlach, związku i
-    o rzeczach zawartych w pierwszem statucie dla Litwy 1529 roku
-    wydanem.
+    Senovės slavai specialiai darydavo žemas duris, kad
+    ateinantysis arba išeinantysis nusilenktų slenksčiui2.
   citata_rodoma: "Senovės slavai specialiai darydavo žemas duris, kad\nateinantysis arba išeinantysis nusilenktų slenksčiui2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

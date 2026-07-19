@@ -72,19 +72,7 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taigi
-    budinai turėtų būti protėviai dviejų tautų, kurios šian­
-    dien skiriasi ir savo kalba, ir religija, ir gyvenamąja te­
-    ritorija; šios tautos šiandien nebeturi beveik jokios gi­
-    minystės, išskyrus abiem bendrą užsiėmimą, t. y. pragy­
-    venimo šaltinį, — žemdirbystę. Galbūt todėl, kad ir bu-
-    dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
-    arba šį užsiėmimą perėmė iš gelonų, pačioje susiliejimo
-    su pastaraisiais pradžioje. Safaržykas žengė dar toliau1,
-    nes senovės lietuvius visiškai sugiminiavo su slavais,
-    šiandienius šių abiejų tautų skirtumus priskirdamas liki­
-    mui, kurio dėka jos patekdavo tai į germanų, tai į finų
-    valdžią, ir lietuvių kalba vis labiau tolo nuo slavų.
+    Budtė — išminties, proto deivė.
   citata_rodoma: "Budtė — išminties, proto deivė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

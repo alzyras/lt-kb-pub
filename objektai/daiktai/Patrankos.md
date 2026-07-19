@@ -138,11 +138,11 @@ Nenurodyta
 <a id="claim-t-176203"></a>
 - t-018
   teiginys: "Patrankos keldavo daug triukšmo, bet duodavo mažai naudos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-36744
+    - c-14335
 
 <a id="claim-t-176204"></a>
 - t-016
@@ -235,6 +235,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
+    - t-018
 
 - id: c-14337
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -298,7 +299,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
     - t-016
 
 - id: c-36745

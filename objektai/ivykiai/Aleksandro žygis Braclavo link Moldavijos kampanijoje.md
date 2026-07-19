@@ -7,13 +7,13 @@ datos:
   - '1497 m.'
 date_start: '1497'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -87,12 +87,9 @@ Nenurodyta
   pagrindžia:
     - c-178905
 
-## Citatos
-
-- id: c-169913
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Paskui abi šalys su visais
     savo Tarybų ponais suvažiavo į Parčevą 6 dalyvauti sei­
@@ -112,6 +109,33 @@ Nenurodyta
     tu ir slapta nuo visų savo Tarybų ponų buvo nutarę,
     kad didysis kunigaikštis Aleksandras žygiuos j Molda­
     vijos žemę per Braclavą. link Sorokos “, o karalius
+    Olbrachtas — iš kito šono.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169913
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Septyni tūkstančiai penktaisiais metais nuo pasaulio
+    sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
+    tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
+    ralius Olbrachas sutelkė galybę savo kariuomenės ir
+    su visomis Lenkijos karalystės jėgomis, su paruoštais
+    žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
+    Steponą l0 .
+
+    O didysis kunigaikštis Aleksandras tame Parčevo
+    seime buvo kalbėjęs su savo broliu karaliumi Olbrach-
+    tu ir slapta nuo visų savo Tarybų ponų buvo nutarę,
+    kad didysis kunigaikštis Aleksandras žygiuos j Molda­
+    vijos žemę per Braclavą. link Sorokos “ , o karalius
     Olbrachtas — iš kito šono.
   citata_rodoma: "Septyni tūkstančiai penktaisiais metais nuo pasaulio \nsutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­\ntai devyniasdešimt septintųjų metų vasarą Lenkijos ka­\nralius Olbrachas sutelkė galybę savo kariuomenės ir \nsu visomis Lenkijos karalystės jėgomis, su paruoštais \nžirgais ir ginklais išžygiavo prieš Moldavijos vaivadą \nSteponą l0 .\n\nO didysis kunigaikštis Aleksandras tame Parčevo \nseime buvo kalbėjęs su savo broliu karaliumi Olbrach- \ntu ir slapta nuo visų savo Tarybų ponų buvo nutarę, \nkad didysis kunigaikštis Aleksandras žygiuos j Molda­\nvijos žemę per Braclavą. link Sorokos “ , o karalius \nOlbrachtas — iš kito šono."
   statusas: verified

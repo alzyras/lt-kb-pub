@@ -229,62 +229,72 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   santrauka: 'Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Neimdami į rankas kir-
-    paliaubų są ly g a
-    vių, pjūklais kariai prisipjo­
-    vė medžių ir taip žvaliai bei
-    5 67
-
-    ## Puslapis 566
-
-    išmoningai užtaisė rąstais visus sienų plyšius, kad Še-
-    miačičiai rytą suprato nieku būdu negalėsią užimti pi­
-    lies. Praradę viltį užkariauti Smolenską, jie savo jėgas
-    patraukė prie Mstislavlio, bet ir čia nesusilaukė dides­
-    nės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­
-    garsėjęs karvedys, kuriam buvo patikėtas miestas ir
-    apygarda, sėkmingai atrėmė antpuolį.
+    _______
+    prie
+    Smolensko
+    M ik a lo ju s
+    G leb a vi-
+    sienų, įnirtingai ir vienas, ir
+    čius n arsiai g in a
+    kitas stengdamasis pakreipti
+    įvykius savo tėvo naudai,
+    tačiau Mikalojui sekėsi kur kas geriau nei Dimitrijui.
+    Mat pastarasis, netekęs galybės karių, negarbingai pa­
+    liko žygį neužbaigtą ir toliau apgulai vadovauti įsakė
+    kunigaikščiams Šemiačičiams. Kas be ko, visada klas­
+    tūnui maudžia širdį, kad ne visi į jį panašūs, štai to­
+    dėl tada taip stengėsi bei niršo maištininkai Šemiači-
+    čiai, matydami, jog jų kaimynystėje buvusios pilys li­
+    ko ištikimos Aleksandrui, nelyginant priekaištaudamos
+    jiems dėl išdavystės. Kai priešas puolė su didžiausiu
+    įniršiu, gynėjai turėjo rodyti ne tik nepaprastą narsą,
+    bet ir klusnumą.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-005
   santrauka: 'Lietuvos metraštis vaizduoja, kad Gavėnios metu Svetoslavas su Smolensko bajorais patraukė į Mstislavlį ir ten praliejo daug krikščioniško kraujo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­
-    lių sugrįžo, iš kur atėję.
-    Tą pačią žiemą, Gavėnios metu, Svetoslavas su Smo­
-    lensko bajorais ėmė tartis dėl krikščionių kraujo pra­
-    liejimo ir patraukė į Mstislavlio miestą8 . Sustoję prie
-
-    ## Puslapis 89
-
-    Mstislavlio, pradėjo šturmuoti miestą ir daužyti iš pa­
-    trankų, o savo karius paleido po Mstislavlio žemų ir
-    praliejo daug krikščioniško kraujo.
+    Tada jis ėmė tartis su daugeliu lietuvių kuni­
+    gaikščių ir didikų, ir kai Skirgaila buvo išvykęs į Po­
+    locką 3, didysis kunigaikštis Vytautas atvyko prie Vil­
+    niaus, norėdamas jį užimti4. Jo didžioji kunigaikštie­
+    nė Ona6 tuo metu buvo Gardine. Bet vilniečiai tada
+    jam nepasidavė, kadangi buvo prisiekę karaliui Jogai­
+    lai ir Skirgailai. O jis, tuokart Vilniaus nepaėmęs 6, su
+    savo kunigaikštiene, su visais kunigaikščiais7, dauge­
+    liu savo bajorų perėjo pas [Prūsijos) magistrą8 ir iš
+    ten, vokiečių padedamas, pradėjo atsikariauti Lietuvos
+    žemę, ir jau buvo užėmęs pusę Lietuvos žemės ligi Ne­
+    ries upės 9, ir Polocko miestas jam pasidavė l0.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-006
   santrauka: 'Lietuvos metraščio pasakojime kunigaikštis Svetoslavas stovėjo prie Mstislavlio ir šaudė į miestą iš patrankų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    Žygiuokime prieš jį,
-    pasitikėdami dievu ir krikščionių galybe."
-    Ir atžygiavo prie Mstislavlio. O kunigaikštis Sveto­
-    slavas, kuris stovėjo prie miesto ir šaudė į Mstislavlį
-    iš patrankų, išgirdo Didžiosios Savaitės 1 1  penktadienį,
-    kad prieš jį ateina su broliais didysis kunigaikštis Skir­
-    gaila IJ.
+    Ir dievas padėjo didžiajam kunigaikš­
+    čiui Vytautui u, ir jis Lietuvos kariuomenę sumušė vi­
+    siškai. o kiti išbėgiojo ir daugybė jų buvo nukauta.
+    Daugelį kitų kunigaikščių ir bajorų paėmė gyvus: ku­
+    nigaikštį Simoną, Jaunučio sūnų IS, Smolensko kuni­
+    gaikštį Glėbą, Svetoslavo sūnų l6, kunigaikštį Glėbą,
+    Konstantino sūnų l7, kunigaikštį Joną Tetą1*, Levą Plak-
+    sičių '9, ir paėmė daugelį kitų kunigaikščių.
+    Kunigaikštis Vytautas su visomis pajėgomis vėl iš­
+    žygiavo ir apgulė Vilniaus miestą, ir pradėjo šturmuoti
+    Kreivąją pilį bei šaudyti iš patrankų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -346,26 +356,21 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    _______
-    prie
-    Smolensko
-    M ik a lo ju s
-    G leb a vi-
-    sienų, įnirtingai ir vienas, ir
-    čius n arsiai g in a
-    kitas stengdamasis pakreipti
-    įvykius savo tėvo naudai,
-    tačiau Mikalojui sekėsi kur kas geriau nei Dimitrijui.
-    Mat pastarasis, netekęs galybės karių, negarbingai pa­
-    liko žygį neužbaigtą ir toliau apgulai vadovauti įsakė
-    kunigaikščiams Šemiačičiams. Kas be ko, visada klas­
-    tūnui maudžia širdį, kad ne visi į jį panašūs, štai to­
-    dėl tada taip stengėsi bei niršo maištininkai Šemiači-
-    čiai, matydami, jog jų kaimynystėje buvusios pilys li­
-    ko ištikimos Aleksandrui, nelyginant priekaištaudamos
-    jiems dėl išdavystės. Kai priešas puolė su didžiausiu
-    įniršiu, gynėjai turėjo rodyti ne tik nepaprastą narsą,
-    bet ir klusnumą.
+    Neimdami į rankas kir-
+    paliaubų są ly g a
+    vių, pjūklais kariai prisipjo­
+    vė medžių ir taip žvaliai bei
+    5 67
+
+    ## Puslapis 566
+
+    išmoningai užtaisė rąstais visus sienų plyšius, kad Še-
+    miačičiai rytą suprato nieku būdu negalėsią užimti pi­
+    lies. Praradę viltį užkariauti Smolenską, jie savo jėgas
+    patraukė prie Mstislavlio, bet ir čia nesusilaukė dides­
+    nės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­
+    garsėjęs karvedys, kuriam buvo patikėtas miestas ir
+    apygarda, sėkmingai atrėmė antpuolį.
   citata_rodoma: "Neimdami į rankas kir-\npaliaubų są ly g a\nvių, pjūklais kariai prisipjo­\nvė medžių ir taip žvaliai bei\n5 67\n\n## Puslapis 566\n\nišmoningai užtaisė rąstais visus sienų plyšius, kad Še-\nmiačičiai rytą suprato nieku būdu negalėsią užimti pi­\nlies. Praradę viltį užkariauti Smolenską, jie savo jėgas\npatraukė prie Mstislavlio, bet ir čia nesusilaukė dides­\nnės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­\ngarsėjęs karvedys, kuriam buvo patikėtas miestas ir\napygarda, sėkmingai atrėmė antpuolį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -380,18 +385,17 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Tada jis ėmė tartis su daugeliu lietuvių kuni­
-    gaikščių ir didikų, ir kai Skirgaila buvo išvykęs į Po­
-    locką 3, didysis kunigaikštis Vytautas atvyko prie Vil­
-    niaus, norėdamas jį užimti4. Jo didžioji kunigaikštie­
-    nė Ona6 tuo metu buvo Gardine. Bet vilniečiai tada
-    jam nepasidavė, kadangi buvo prisiekę karaliui Jogai­
-    lai ir Skirgailai. O jis, tuokart Vilniaus nepaėmęs 6, su
-    savo kunigaikštiene, su visais kunigaikščiais7, dauge­
-    liu savo bajorų perėjo pas [Prūsijos) magistrą8 ir iš
-    ten, vokiečių padedamas, pradėjo atsikariauti Lietuvos
-    žemę, ir jau buvo užėmęs pusę Lietuvos žemės ligi Ne­
-    ries upės 9, ir Polocko miestas jam pasidavė l0.
+    Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­
+    lių sugrįžo, iš kur atėję.
+    Tą pačią žiemą, Gavėnios metu, Svetoslavas su Smo­
+    lensko bajorais ėmė tartis dėl krikščionių kraujo pra­
+    liejimo ir patraukė į Mstislavlio miestą8 . Sustoję prie
+
+    ## Puslapis 89
+
+    Mstislavlio, pradėjo šturmuoti miestą ir daužyti iš pa­
+    trankų, o savo karius paleido po Mstislavlio žemų ir
+    praliejo daug krikščioniško kraujo.
   citata_rodoma: "Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­\nlių sugrįžo, iš kur atėję.\nTą pačią žiemą, Gavėnios metu, Svetoslavas su Smo­\nlensko bajorais ėmė tartis dėl krikščionių kraujo pra­\nliejimo ir patraukė į Mstislavlio miestą8 . Sustoję prie\n\n## Puslapis 89\n\nMstislavlio, pradėjo šturmuoti miestą ir daužyti iš pa­\ntrankų, o savo karius paleido po Mstislavlio žemų ir \npraliejo daug krikščioniško kraujo."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -406,17 +410,13 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir dievas padėjo didžiajam kunigaikš­
-    čiui Vytautui u, ir jis Lietuvos kariuomenę sumušė vi­
-    siškai. o kiti išbėgiojo ir daugybė jų buvo nukauta.
-    Daugelį kitų kunigaikščių ir bajorų paėmė gyvus: ku­
-    nigaikštį Simoną, Jaunučio sūnų IS, Smolensko kuni­
-    gaikštį Glėbą, Svetoslavo sūnų l6, kunigaikštį Glėbą,
-    Konstantino sūnų l7, kunigaikštį Joną Tetą1*, Levą Plak-
-    sičių '9, ir paėmė daugelį kitų kunigaikščių.
-    Kunigaikštis Vytautas su visomis pajėgomis vėl iš­
-    žygiavo ir apgulė Vilniaus miestą, ir pradėjo šturmuoti
-    Kreivąją pilį bei šaudyti iš patrankų.
+    Žygiuokime prieš jį,
+    pasitikėdami dievu ir krikščionių galybe."
+    Ir atžygiavo prie Mstislavlio. O kunigaikštis Sveto­
+    slavas, kuris stovėjo prie miesto ir šaudė į Mstislavlį
+    iš patrankų, išgirdo Didžiosios Savaitės 1 1  penktadienį,
+    kad prieš jį ateina su broliais didysis kunigaikštis Skir­
+    gaila IJ.
   citata_rodoma: "Žygiuokime prieš jį, \npasitikėdami dievu ir krikščionių galybe.\"\nIr atžygiavo prie Mstislavlio. O kunigaikštis Sveto­\nslavas, kuris stovėjo prie miesto ir šaudė į Mstislavlį \niš patrankų, išgirdo Didžiosios Savaitės 1 1  penktadienį, \nkad prieš jį ateina su broliais didysis kunigaikštis Skir­\ngaila IJ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

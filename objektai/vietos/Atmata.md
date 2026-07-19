@@ -49,18 +49,9 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Uljanovas)
-    Kraupiškiemiai
-    Kreivėnai
-    Kreiviai (Kryvos k.)
-    Kreivoji pilis
-    Kresmena (Crasima, Crasim; Krismence, Cresmen) v.
-    Kristaus karių ordinas, Dobrynės broliai
-    Kristaus karių ordinas Livonijos žemėje
-    Kristburgas Senasis (*Kirsapilis, Kirsa, Kirsberg, Kirsburg; Cristburgk, Cristburc;
-    Christburg, Aldinkirsburg, Kirseburg ir pan., vėliau Alt Christburg, dab. Stary Dzierzgoń)
-    Kristburgas Naujasis (Kirsburg, Cristburg, Christiborc ir pan. prūsų Zirgūnos vietoje;
-    Christburgas, dab.
+    Atlanto vandenynas
+    Atmata, u.
+    Atrebatas (dab.
   citata_rodoma: "Atlanto vandenynas\nAtmata, u.\nAtrebatas (dab."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

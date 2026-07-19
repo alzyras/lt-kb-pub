@@ -7,13 +7,13 @@ datos:
   - '1345 m.'
 date_start: '1345'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -126,12 +126,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-## Citatos
-
-- id: c-170453
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-002
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Vėliau, išmirus Palemono
     įpėdiniams ir sekančios Kentauro herbo dinastijos ku­
@@ -141,6 +137,25 @@ Nenurodyta
     gendine. Todėl ir pradinė Platesniojo sąvado teksto
     dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks­
     lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le­
+    gendine.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+
+## Citatos
+
+- id: c-170453
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Mokslinėje literatūroje toji istorija vadinama le-
+    gendine. Todėl ir pradinė Platesniojo sąvado teksto
+    dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks-
+    lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le-
     gendine.
   citata_rodoma: "Mokslinėje literatūroje toji istorija vadinama le-\ngendine. Todėl ir pradinė Platesniojo sąvado teksto \ndalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks-\nlo prieš brolį Jaunutį (1345 m.) taip pat vadinama le-\ngendine."
   statusas: verified

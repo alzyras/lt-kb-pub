@@ -145,6 +145,30 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
 - susijęs iš Podolė: 1621 m. liepos 14 d. LDK kariuomenė atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.
 ## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Vytautas už keturiasdešimt tūkstančių florinų atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kunigaikštį Teodorą su šeimy­
+    na išgabeno į Vilnių. Po šio
+    Su len k a is tariasi d ė l
+    žygio smarkiai sunerimo len-
+    P o d o lės v a ld y m o
+    kai, būgštaudami, kad Vytau­
+    to pergalės nepaverstų nie­
+    kais jų senų ketinimų valdyti Podolę, ypač dėl to, kad
+    Vytautas, gerai prisimindamas karus, kuriuos vedė Al­
+    girdo vadovaujami lietuviai, vydami iš Podolės skitus,
+    neslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip
+    karo laimikį, atitekusį po pergalingo karo, bet ir kaip
+    seną, teisėtai jam priklausančią valdą. Jogaila visaip
+    stengėsi susitarti su Vytautu, kad šis nesipriešintų len­
+    kų įsitvirtinimui šiose žemėse.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: 'Moldavijos vaivada Steponas su turkų paša Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir net Tarnovo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -162,6 +186,7 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+
 ## Citatos
 
 - id: c-82054
@@ -228,21 +253,19 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kunigaikštį Teodorą su šeimy­
-    na išgabeno į Vilnių. Po šio
-    Su len k a is tariasi d ė l
-    žygio smarkiai sunerimo len-
-    P o d o lės v a ld y m o
-    kai, būgštaudami, kad Vytau­
-    to pergalės nepaverstų nie­
-    kais jų senų ketinimų valdyti Podolę, ypač dėl to, kad
-    Vytautas, gerai prisimindamas karus, kuriuos vedė Al­
-    girdo vadovaujami lietuviai, vydami iš Podolės skitus,
-    neslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip
-    karo laimikį, atitekusį po pergalingo karo, bet ir kaip
-    seną, teisėtai jam priklausančią valdą. Jogaila visaip
-    stengėsi susitarti su Vytautu, kad šis nesipriešintų len­
-    kų įsitvirtinimui šiose žemėse.
+    Veikiau norėdamas len­
+    kus labiau palenkti į karalių, Vytautas galop sutiko nu­
+    sileisti, bet pareikalavo kaip atlyginimo keturiasdešimt
+    tūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-
+    346
+
+    ## Puslapis 345
+
+    gi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,
+    Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­
+    gų, atidavė karalystei ir karaliui Kamenecą, Smotričių,
+    Skalą, Červonogradą. Vėliau šių valdų vietininku kara­
+    lius laikinai buvo paskyręs Spiteką.
   citata_rodoma: "Veikiau norėdamas len­\nkus labiau palenkti į karalių, Vytautas galop sutiko nu­\nsileisti, bet pareikalavo kaip atlyginimo keturiasdešimt\ntūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-\n346\n\n## Puslapis 345\n\ngi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,\nSpitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­\ngų, atidavė karalystei ir karaliui Kamenecą, Smotričių,\nSkalą, Červonogradą. Vėliau šių valdų vietininku kara­\nlius laikinai buvo paskyręs Spiteką."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

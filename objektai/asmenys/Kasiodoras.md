@@ -64,21 +64,6 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
   pagrindžia:
     - c-177310
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Kasiodoro raštų rinkinyje (Variarum. Lib.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie
-    tai
-    šiame veikale dar bus
-    kalbama vėliau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-174170
@@ -110,15 +95,10 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ado­
-    mas Bremenietis* žinojo tą pačią Estiją. Aprašinėdamas
-    prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
-    diškų kaprizų vadina salomis, jis rašo: „Taip pat mums
-    pasakojo, kad toje jūroje esama daug kitų salų, kurių
-    viena
-    didžiulė vadinasi Estlandija1. Čia neminėsime
-    skandinavų keliautojo Vulfstano pasakojimo apie Estiją;
-    čia jis apsilankė IX amžiaus antrojoje pusėje.
+    2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie
+    tai
+    šiame veikale dar bus
+    kalbama vėliau.
   citata_rodoma: "2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie\ntai\nšiame veikale dar bus\nkalbama vėliau."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

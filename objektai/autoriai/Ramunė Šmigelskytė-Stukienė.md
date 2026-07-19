@@ -7,15 +7,15 @@ datos:
   - '2014 m.'
 date_start: '2014'
 date_end: ''
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - redaktorius
-amziai:
-  - 'XXI'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,6 +57,18 @@ Bibliografijoje Ramunė Šmigelskytė-Stukienė nurodyta kaip tomo „XVIII amž
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183991
+
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  citata_originali: |
+    XVIII amžiaus studijos. LDK: tarp tradicijų ir naujovių. Sudarytoja: Ramunė
+    Šmigelskytė-Stukienė, Vilnius: Lietuvos istorijos institutas, 2014, t. 1, p. 184–199.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 

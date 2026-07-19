@@ -7,13 +7,13 @@ datos:
   - '1818 m.'
 date_start: '1818'
 date_end: ''
+amziai:
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - simbolis
-amziai:
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -81,12 +81,10 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
   pagrindžia:
     - c-174929
 
-## Citatos
-
-- id: c-174929
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Kaune 1818 m. rastą bronzinę statulėlę apibūdina kaip sukryžiuotomis kojomis būtybę su miesto vaizdu ant galvos ir trimis žuvimis rankoje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Iš grafo Mykolo
     Kosakovskio, buvusio Lietuvos Didžiosios Kunigaikštystės lauko
@@ -98,6 +96,27 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
     bronzinę apie šešių colių aukščio statulėlę, vaizduojančią sukry­
     žiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,
     t. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu­
+    vis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-174929
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Kai 1818 metais Kaune buvo statoma mui-
+    tinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio
+    muro, visų vadinamo Perkūno namais. Magistrato valdininkas Pu-
+    lokolovskis, valydamas tuos griuvėsius, rado ten kadaise įmūrytą
+    bronzinę apie šešių colių aukščio statulėlę, vaizduojančią sukry-
+    žiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,
+    t. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu-
     vis.
   citata_rodoma: "Kai 1818 metais Kaune buvo statoma mui-\ntinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio\nmuro, visų vadinamo Perkūno namais. Magistrato valdininkas Pu-\nlokolovskis, valydamas tuos griuvėsius, rado ten kadaise įmūrytą\nbronzinę apie šešių colių aukščio statulėlę, vaizduojančią sukry-\nžiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,\nt. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu-\nvis."
   statusas: verified

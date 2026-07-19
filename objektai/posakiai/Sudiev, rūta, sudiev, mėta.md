@@ -69,10 +69,8 @@ Vestuvinė atsisveikinimo formulė su mergystės simboliais ir jaunomis dienomis
   puslapiai: "p. 120 (PDF 118)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 120 (PDF 118)."
   citata_originali: |
-    „Sudiev, rūta, sudiev, mėta, sudiev, leli­
-    jėle, sudiev mano jaunos dienos!
-    Šokit, šokėjėliai, griežkit griežėjė-
-    liai!
+    „Sudiev, rūta, sudiev, mėta, sudiev, lelijėle, sudiev mano jaunos dienos!
+    Šokit, šokėjėliai, griežkit griežėjėliai!
     Gana manęs vienos į vargą įpuolus“ .
   citata_rodoma: "„Sudiev, rūta, sudiev, mėta, sudiev, lelijėle, sudiev mano jaunos dienos!\nŠokit, šokėjėliai, griežkit griežėjėliai!\nGana manęs vienos į vargą įpuolus“ ."
   statusas: verified

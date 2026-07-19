@@ -100,10 +100,12 @@ Nenurodyta
 - susijęs iš Žemutinė Saksonija: Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašiais į rastus Lietuvos, Pamario ir lužitėnų kraštuose.
 - susijęs iš [[objektai/zodynas/Plikasis kalnas Lyse góry.md#claim-t-189172|Plikasis kalnas Lyse góry]]: Narbutas rašė, kad lietuviai turėjo dievams skirtų kalnų, tačiau tikrai lietuviškuose pasakojimuose Plikasis kalnas neminimas.
 - susijęs iš [[objektai/paprociai/Žynių laikini ir pastovūs aukurai miškuose, prie vandenų ir turgavietėse.md#claim-t-189959|Žynių laikini ir pastovūs aukurai miškuose, prie vandenų ir turgavietėse]]: Narbutas rašo, kad žemesnės kategorijos žyniai miškuose, prie vandenų ir turgavietėse įsirengdavo laikinus ar pastovius aukurus aukoms.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas aukurus aprašo kaip pakilesnes vietas atviroje aikštėje, miškuose arba bestogėje šventykloje su pusės žmogaus ūgio ugniaviete.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172589
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Aukurai, ragai (Roha)21 2
     Senovės žmonių aukurai -  tai tam tikro aukščio pakiles­
@@ -115,46 +117,6 @@ Nenurodyta
     skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
     prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
     kai kuriuos, buvusius Perkūno šventyklose.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų
-    dievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų
-    deivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo
-    Perkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­
-    los“.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172589
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Luno Heliogabalo stabas, kurį
-    Aurelijus Antoninas pastatė Romoje, ant Kapitolijaus kalno,
-    buvo didžiulis juodas akmuo, apie kurį manyta, kad jis nukri­
-    tęs iš dangaus (akmuo - meteoritas).
-    Vėlgi buvo dievybių, kurioms nekūrė nei stabų, nei atvaiz­
-    dų; dažnai dievo vardas, parašytas ant lentos arba iškaltas ak­
-    menyje, atstodavo jų atvaizdą. Kartais adoracijos objektas bū­
-    davo austinė uždanga, pakabinta šventykloje priešais kokį nors
-    sienos įdubimą; dažniausiai tai būdavo slaptosiose šventyklo­
-    se. Iš antikinės istorijos taip pat žinome, kad Gadžio mieste,
-    dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
-    šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
-    jokios statulos, net paties Heraklio.
   citata_rodoma: "Aukurai, ragai (Roha)21 2\nSenovės žmonių aukurai -  tai tam tikro aukščio pakiles­\nnės vietos atviroje aikštėje, miškuose arba šventykloje, netu­\nrinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­\nvo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -169,16 +131,11 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kartais adoracijos objektas bū­
-    davo austinė uždanga, pakabinta šventykloje priešais kokį nors
-    sienos įdubimą; dažniausiai tai būdavo slaptosiose šventyklo­
-    se. Iš antikinės istorijos taip pat žinome, kad Gadžio mieste,
-    dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
-    šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
-    jokios statulos, net paties Heraklio.
-    Lietuvių stabų dievai, be abejo, turėjo būti daugiausia tos
-    seniausios mados; daugumas dievų, deivių ir dievaičių net ne­
-    turėjo jokių stabų.
+    Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų
+    dievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų
+    deivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo
+    Perkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­
+    los“.
   citata_rodoma: "Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų\ndievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų\ndeivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo\nPerkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­\nlos“."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

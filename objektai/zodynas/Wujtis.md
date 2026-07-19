@@ -27,50 +27,6 @@ media_all_json: |-
 
 Narbutas aiškino Wujtis kaip „viršininką“ ir laikė jį Vaidevučio vardo dalimi.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas aiškino Wujtis kaip „viršininką“ ir laikė jį Vaidevučio vardo dalimi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
-    Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­
-    devučio (Wejdawutis) šiek tiek klysta kildindami jį tiesiai iš Wujtis.
-    Sis vardas susideda iš Wejdas (stabas arba veidas, atvaizdas) ir Wujtis
-    (viršininkas). Tad išeitų, kad tai stabų viršininkas, pirmasis jų saugo­
-    tojas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172234
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Kai žmonės, atsi­
-    liepdami į tokį pamokslą, su verksmu ir riksmu išpažindavo
-    savo nuodėmes ir išsakydavo nuoširdžią atgailą, krivis guos­
-    davo žadėdamas dievų malonę. O kad būtų labiau tuo įsitiki­
-    nę, sakydavo jiems, kad jis pats norįs už jų nuodėmes pasiau­
-    koti ir kankinio mirtimi už juos atsilyginti. Pagaliau liepdavo
-    uždegti laužą ir savanoriškai sudegdavo už žmones“.
-    Mirus senajam vyriausiajam žyniui, vaidilos labai slaptai
-    išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
-    nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
-    iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo.
-  citata_rodoma: "10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir\nPruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­\ndevučio (Wejdawutis) šiek tiek klysta kildindami jį tiesiai iš Wujtis.\nSis vardas susideda iš Wejdas (stabas arba veidas, atvaizdas) ir Wujtis\n(viršininkas). Tad išeitų, kad tai stabų viršininkas, pirmasis jų saugo­\ntojas."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-189347"></a>
@@ -95,3 +51,24 @@ Narbutas aiškino Wujtis kaip „viršininką“ ir laikė jį Vaidevučio vardo
 - susijęs iš [[objektai/zodynas/Vaidevutis Wejdawutis.md#claim-t-189255|Vaidevutis Wejdawutis]]: Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškindamas jį kaip stabų viršininko arba pirmojo jų saugotojo vardą.
 - susijęs iš [[objektai/zodynas/Prulis.md#claim-t-189320|Prulis]]: Narbutas perteikė kronikininkų aiškinimą, kad Bruteno arba Pruteno vardas kilęs iš senojo prūsų žodžio „Prulis“, reiškusio išminčių.
 - susijęs iš [[objektai/zodynas/Wejdas.md#claim-t-189346|Wejdas]]: Narbutas aiškino Wejdas kaip „stabą arba veidą, atvaizdą“ ir laikė jį Vaidevučio vardo dalimi.
+## Citatos
+
+- id: c-172234
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
+    Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­
+    devučio (Wejdawutis) šiek tiek klysta kildindami jį tiesiai iš Wujtis.
+    Sis vardas susideda iš Wejdas (stabas arba veidas, atvaizdas) ir Wujtis
+    (viršininkas). Tad išeitų, kad tai stabų viršininkas, pirmasis jų saugo­
+    tojas.
+  citata_rodoma: "10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir\nPruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­\ndevučio (Wejdawutis) šiek tiek klysta kildindami jį tiesiai iš Wujtis.\nSis vardas susideda iš Wejdas (stabas arba veidas, atvaizdas) ir Wujtis\n(viršininkas). Tad išeitų, kad tai stabų viršininkas, pirmasis jų saugo­\ntojas."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

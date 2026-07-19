@@ -135,6 +135,67 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
 - susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
 - susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Daugirdas, turėjęs galy-
+    k u s
+    bę turtų ir šalininkų, gražia
+    kalba netruko Įrodyti luo­
+    mams savo nekaltumą, ir vėliau niekas jam daugiau ne­
+    drįso prikaišioti šio nusikaltimo; norėdamas parodyti,
+    jog visai nieko bendra neturėjęs su sąmokslininkais, jis
+    smarkiai užsipuolė Leliušą, kam šis, girdi, leidęs nužu­
+    dyti valdovą jam pavaldžioje pilyje. Vis dėlto Leliušui
+    4 72
+
+    nepritaikė jokios rimtesnės nuobaudos, tik jį pašalino
+    iš senato, o Trakų vaivadiją perdavė Goštautui. Joną,
+    Čartorysko kunigaikštį, pasmerkė už akių ir atėmė iš
+    jo valdas, tačiau ne dėl to, kad senatas ir kunigaikštis
+    norėjo jam keršyti už Žygimantą, o todėl, kad ant jo
+    pyko, nes Čartoriskis išdidžiai atsisakė perduoti valsty­
+    bės iždui pasigrobtą turtą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+
+- c-003
+  santrauka: 'Ir jų dar nebuvo suvažiavusių, nes kai kurie buvo tolimuose Didžiosios Kunigaikštystės miestuose, srityse: 2emaičių seniūnas Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske, nes jis tuo metu buvo Smolensko vietininku.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­
+    je 3 pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko
+    iš Trakų pilies, skubėdamas į Mazoviją,4 pas savo te­
+    tą, Mazovijos kunigaikštienę Jonušienę, kadangi ji bu­
+    vo tikra jo tėvo sesuo5, kunigaikštienės Boleslovienės
+    pamotė6. Važiuodamas per Rūdininkų girią7, jis toje
+    girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
+    ir žemai nusilenkė didžiajam kunigaikščiui Kazimierui,
+    ir ėmė prašyti malonės; kunigaikštis Kazimieras paža­
+    dėjo suteiksiąs jam savo malonę ir paliksiąs jam jo
+    tėvoniją 7.
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
+    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-005
   santrauka: 'Lietuvos metraštis pasakoja, kad Jonas Goštautas Kazimiero įsakymu ginklu įveikė atsiskyrusius miestus ir grąžino juos Didžiajai Kunigaikštystei.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -165,6 +226,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 ## Citatos
 
 - id: c-169341
@@ -182,6 +244,8 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     smarkiai užsipuolė Leliušą, kam šis, girdi, leidęs nužu­
     dyti valdovą jam pavaldžioje pilyje. Vis dėlto Leliušui
     4 72
+
+    ## Puslapis 471
 
     nepritaikė jokios rimtesnės nuobaudos, tik jį pašalino
     iš senato, o Trakų vaivadiją perdavė Goštautui. Joną,
@@ -224,29 +288,25 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­
-    je 3 pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko
-    iš Trakų pilies, skubėdamas į Mazoviją,4 pas savo te­
-    tą, Mazovijos kunigaikštienę Jonušienę, kadangi ji bu­
-    vo tikra jo tėvo sesuo5, kunigaikštienės Boleslovienės
-    pamotė6. Važiuodamas per Rūdininkų girią7, jis toje
-    girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
-    ir žemai nusilenkė didžiajam kunigaikščiui Kazimierui,
-    ir ėmė prašyti malonės; kunigaikštis Kazimieras paža­
-    dėjo suteiksiąs jam savo malonę ir paliksiąs jam jo
-    tėvoniją 7.
-    O paskui didysis kunigaikštis Kazimieras atvyko
-    į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
-    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
-    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
-    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
-    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
-    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
-    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
-    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
-    Kunigaikštystės.
+    APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS
+    DIDŽIUOJU KUNIGAIKŠČIU
+    O Didžiosios Kunigaikštystės Ponų Taryba apie visa
+    tai nieko nežinojo 1  — nei apie kunigaikščio Žygimanto
+    126
+
+    ## Puslapis 122
+
+    kėslus, nei apie Vilniaus ir Trakų vaivadų sąmokslų,
+    nes kunigaikštis Žygimantas, rašydamas raštus visoms
+    žemėms ir tolimiausiems miestams bei visiems didi­
+    kams, niekuo neišdavė savo pykčio. Ir jų dar nebuvo
+    suvažiavusių, nes kai kurie buvo tolimuose Didžiosios
+    Kunigaikštystės miestuose, srityse: 2emaičių seniūnas
+    Kęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske,
+    nes jis tuo metu buvo Smolensko vietininku. Didysis
+    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
+    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
+    lenską jo vieton nusiuntė Andrių Sakavičių * .
   citata_rodoma: "APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS \nDIDŽIUOJU KUNIGAIKŠČIU\nO Didžiosios Kunigaikštystės Ponų Taryba apie visa \ntai nieko nežinojo 1  — nei apie kunigaikščio Žygimanto\n126\n\n## Puslapis 122\n\nkėslus, nei apie Vilniaus ir Trakų vaivadų sąmokslų, \nnes kunigaikštis Žygimantas, rašydamas raštus visoms \nžemėms ir tolimiausiems miestams bei visiems didi­\nkams, niekuo neišdavė savo pykčio. Ir jų dar nebuvo \nsuvažiavusių, nes kai kurie buvo tolimuose Didžiosios \nKunigaikštystės miestuose, srityse: 2emaičių seniūnas \nKęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske, \nnes jis tuo metu buvo Smolensko vietininku. Didysis \nkunigaikštis Žygimantas rašė ir jam, kad skirtu laiku \natvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­\nlenską jo vieton nusiuntė Andrių Sakavičių * ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"

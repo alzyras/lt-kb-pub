@@ -8,14 +8,14 @@ datos:
   - '1684 m.'
 date_start: '1664'
 date_end: '1684'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -91,19 +91,6 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   pagrindžia:
     - c-61298
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    385 D.— Wiclantsort, Jer.— Witlandisort. Turbūt Vitlando galas, t. y. Sembos pusiasalio
-    pietvakarių kampas (Тоерреn M., Historisch.., p. 21).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-61297
@@ -133,11 +120,8 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    karais kamuojamas, jis, visiškai pritrūkęs maisto, sudegino pilį ir su visais savo namais
-    bei šeimyna pėsčias atvyko pas Karaliaučiaus brolius.
-    114 (109). Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
-    Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu
-    Vaistotpilis389.
+    385 D.— Wiclantsort, Jer.— Witlandisort. Turbūt Vitlando galas, t. y. Sembos pusiasalio
+    pietvakarių kampas (Тоерреn M., Historisch.., p. 21).
   citata_rodoma: "385 D.— Wiclantsort, Jer.— Witlandisort. Turbūt Vitlando galas, t. y. Sembos pusiasalio\npietvakarių kampas (Тоерреn M., Historisch.., p. 21)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -89,39 +89,6 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 - susijęs iš Mintauja: Etmonas, iždininkas ir maršalas, paskleidę gandą apie kelionę į Drują bei Bychovo tvirtovę, iš tikrųjų traukėsi į Bauskę ir Mintaują.
 - susijęs iš Vilnius: Sapiegas persekiojęs respublikonų kariuomenės dalinys įžengė į Vilnių, kai Sapiegos jau buvo išvykę iš miesto.
 - susijęs iš Vilnius: Sapiegų etmonas, iždininkas ir maršalas vakare pasiekė Vilnių ir svarbiausias rūmų vertybes suvežė į dominikonų vienuolyną.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Seimo darbe dalyvavo ir ordino magistras Ket-
-    leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
-    kunigaikščio Mikalojaus Radvilos paraginti, nusprendė,
-    kad Livonija sudaranti su Lietuva sąjungą ir pereinanti
-    į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
-    čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
-    7 0 3
-
-    ## Puslapis 702
-
-    iždo padarytas išlaidas, Livo-
-    S u la rties są ly g o s
-    nijos riterių ordinas atiduo­
-    dąs
-    Lietuvai visas
-    žemes
-    abiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-
-    klės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­
-    pilio, Sėlpilio pilis su apylinkėmis. Sutelktomis jėgomis
-    užbaigus karą ir sutarus taiką, Livonija turėsianti teisę
-    tas žemes išpirkti užmokėjusi Lietuvos pinigais šešis
-    šimtus tūkstančių florinų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-79575
@@ -164,6 +131,8 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
     į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
     čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
     7 0 3
+
+    ## Puslapis 702
 
     iždo padarytas išlaidas, Livo-
     S u la rties są ly g o s

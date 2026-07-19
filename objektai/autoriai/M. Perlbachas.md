@@ -137,12 +137,9 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šiuo metu žinomas dokumentas, rodantis, kad 1327 m. gruodžio
-    mėn. kunigas brolis Petras tikrai gyvenęs Karaliaučiuje63. Tyrinėtojai siejo Dusburgietį
-    iš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,
-    didžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs
-    pasirodyti Prūsijoje ir kiek vėliau, kai Ordino sostinė buvusi perkelta į Marienburgą
-    (1309 m.) (M. Poliakuvna).
+    Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m. veikale randasi daugiau
+    detalių, tikslesnių datų, todėl kartais tvirtinama (M. Perlbachas), jog nuo tada Dusburgietis
+    jau gyvenęs Prūsijoje.
   citata_rodoma: "Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m. veikale randasi daugiau\ndetalių, tikslesnių datų, todėl kartais tvirtinama (M. Perlbachas), jog nuo tada Dusburgietis\njau gyvenęs Prūsijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"

@@ -56,10 +56,12 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190640|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis alyvą laikė svarbiausiu iš šventųjų medžių, siejamų su Pušaičiu ir barstukais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179247|Lietuviai]]: Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo aiškiai lietuviška ir nebesutapatinama su Lenkija ar Rusija.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190575|Lietuviai]]: Narbutas, remdamasis Strijkovskiu, rašė, kad lietuvių maldose šauktasi Pušaičio ir barstukų, o medžio šešėliui priskirtas gydomasis poveikis.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų vargšų gynėją ir barstukais vadinamų nykštukų vyriausiąjį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+## Citatos
+
+- id: c-172132
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pušaitis (Puschajtis)
     Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
@@ -70,26 +72,6 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
     ## Puslapis 179
 
     po alyvų krūmais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-172132
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
-    pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
-    teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
-    kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
-    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
-    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
-    garbinamas Pušaitis ir barstukai18“.
   citata_rodoma: "Pušaitis (Puschajtis)\nPožemio dievaitis, engiamų vargšų gynėjas, nykštukų,\nvadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16\n16 Stender, Lettische Grammatik.\n179\n\n## Puslapis 179\n\npo alyvų krūmais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

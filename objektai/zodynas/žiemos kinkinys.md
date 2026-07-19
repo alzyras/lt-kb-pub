@@ -84,12 +84,9 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
   pagrindžia:
     - c-175353
 
-## Citatos
-
-- id: c-175054
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Tačiau prieš toliau aprašinėdami visos tautos kelionę,
     beveik pranokstančią ¡tikėtinumą, ir mes, pripratę prie
@@ -106,6 +103,24 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
     muoju atveju pakako turėti šiokią tokią valtį, o antruo­
     ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
     kryptimi galima būtų keliauti, nes taip lengviausia pa­
+    tenkinti gyvenimo poreikius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-001
+
+## Citatos
+
+- id: c-175054
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    pirmuoju atveju pakako turėti šiokią tokią valtį, o antruo-
+    ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
+    kryptimi galima būtų keliauti, nes taip lengviausia pa-
     tenkinti gyvenimo poreikius.
   citata_rodoma: "pirmuoju atveju pakako turėti šiokią tokią valtį, o antruo-\nju — žiemos kinkinį, kad pasroviui arba tų vandens kelių\nkryptimi galima būtų keliauti, nes taip lengviausia pa-\ntenkinti gyvenimo poreikius."
   statusas: verified

@@ -63,16 +63,6 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   pagrindžia:
     - c-178020
 
-<a id="claim-t-195618"></a>
-- t-002
-  teiginys: "Magaryčios šiame šaltinyje priskiriamos prie mažųjų pokylių."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178020
-
 ## Citatos
 
 - id: c-178019
@@ -81,13 +71,7 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   puslapiai: "p. 83 (PDF 81)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 83 (PDF 81)."
   citata_originali: |
-    Ogi per atlaidus kaip galima nepaprašyti gimines, iš kitų parapijų at­
-    važiavusias į mūsų bažnyčią, juk visi senai matyti.
-    Tai didieji poky­
-    liai.
-    Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skoli­
-    nimas, grąžinimas skolos, samdymas darbininko, atleidimas, magary­
-    čios ir daugybė kitų.
+    Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skolinimas, grąžinimas skolos, samdymas darbininko, atleidimas, magaryčios ir daugybė kitų.
   citata_rodoma: "Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skolinimas, grąžinimas skolos, samdymas darbininko, atleidimas, magaryčios ir daugybė kitų."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
@@ -116,4 +100,3 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

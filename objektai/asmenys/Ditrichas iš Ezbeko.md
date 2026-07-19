@@ -58,15 +58,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   pagrindžia:
     - c-60738
 
-<a id="claim-t-60107"></a>
-- t-002
-  teiginys: "Ditrichas iš Ezbeko žuvo laivų mūšyje, kuriame lietuviai neteko 70 prityrusių karių."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60738
-
 <a id="claim-t-197067"></a>
 - t-003
   teiginys: "Ditrichas iš Ezbeko atskleidė visas šios atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus."
@@ -121,7 +112,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-60739
   autorius: "Petras Dusburgietis"
@@ -147,5 +137,5 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
     - t-003
 
 ## Ryšiai
-- Ditrichas iš Ezbeko gynė [[objektai/vietos/Ragainė]]
-- Ditrichas iš Ezbeko siuntė į [[objektai/vietos/Ragainė]]
+- Ditrichas iš Ezbeko gynė Ragainė
+- Ditrichas iš Ezbeko siuntė į Ragainė

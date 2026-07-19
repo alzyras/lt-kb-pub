@@ -272,7 +272,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-176275"></a>
 - t-041
   teiginys: "1440 m. privilegijoje Vilniaus miestiečių laisva prekyba be muito vadinta Algirdo ir jo įpėdinių suteiktos laisvės atnaujinimu."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -386,7 +386,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-176284"></a>
 - t-048
   teiginys: "1440 m. privilegijoje Vilniui atnaujintos senos laisvės, suteiktos Algirdo ir jo įpėdinių."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -444,7 +444,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-176289"></a>
 - t-045
   teiginys: "Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Vilnius: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -546,7 +546,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-176298"></a>
 - t-018
   teiginys: "Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karūna: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -619,7 +619,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-176302"></a>
 - t-040
   teiginys: "Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Maskva: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -841,19 +841,27 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-184669"></a>
 - t-065
   teiginys: "Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzkariavo -> Kijevas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Algirdas peržengė Kijevo kunigaikštystės sienas, sumušė svetimšalius ir išstūmė juos iš šių žemių."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užkariavo Kijevas (0.78); Algirdas (Lietuvos valdovas) užkariavo Volynė (0.78)"
   pagrindžia:
-    - c-168025
+    - c-168030
 
 <a id="claim-t-184670"></a>
 - t-066
   teiginys: "Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -953,7 +961,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-196417"></a>
 - t-077
   teiginys: "Apvalęs Podolę nuo totorių, Algirdas atidavė šį kraštą savo giminaičiams, brolio Karijoto sūnums — Aleksandrui, Konstantinui, Teodorui ir Jurgiui, iš ku rių buvo susilaukęs pagalbos per šį karą."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -962,6 +970,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-178673
     - c-168025
+    - c-168030
 
 <a id="claim-t-196418"></a>
 - t-078
@@ -1121,7 +1130,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-197988"></a>
 - t-007
   teiginys: "Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1219,7 +1228,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-198008"></a>
 - t-054
   teiginys: "Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 20:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2739,7 +2748,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-060
-    - t-065
     - t-066
     - t-077
 
@@ -2857,11 +2865,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   puslapiai: "PDF 247"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 247."
   citata_originali: |
-    Tačiau kry­
-    žiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai
-    pasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk­
-    dantį bėgti. Kurį laiką Kęstutis laikėsi ramiai, tačiau
-    žemėmis. Kryžiuočiai, vedami Sembos fogto, savo ruož­
+    Kryžiuočiai, vedami Sembos fogto, savo ruož­
     tu, negalėdami pasivyti traukiančio namo Kęstučio, nu­
     siaubė Ariogalos žemes. Kai Algirdas bei Aleksandras
     Karijotaitis su keliomis žygio voromis padalyta kariuo­
@@ -2869,7 +2873,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     griovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų
     miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
     gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
-    tus.
+    tus. Šitaip praėjo ir kiti metai, pakaitomis vieniems
+    kitus puldinėjant.
   citata_rodoma: "Kryžiuočiai, vedami Sembos fogto, savo ruož­\ntu, negalėdami pasivyti traukiančio namo Kęstučio, nu­\nsiaubė Ariogalos žemes. Kai Algirdas bei Aleksandras\nKarijotaitis su keliomis žygio voromis padalyta kariuo­\nmene iš karto nuniokojo daugelį Prūsijos vietų ir, su­\ngriovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų\nmiestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­\ngistras irgi sėkmingai nusiaubė didelius Lietuvos plo­\ntus. Šitaip praėjo ir kiti metai, pakaitomis vieniems\nkitus puldinėjant."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
@@ -2887,59 +2892,52 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   puslapiai: "PDF 487"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 487."
   citata_originali: |
-    Be to, turinti būti sugrąžinta Podolė, kurią Lie­
-    tuvos kunigaikščių ginklas išvadavęs iš skitų vergovės.
-    Lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto
-    laikais sudaryti susitarimai, be to, vėliau, Žygimanto
-    laikais, paskelbti potvarkiai iš viso negalį būti keičiami,
-    nes jų teisėtumas nekeliąs jokių abejonių, antra vertus,
-    nieku būdu negalima liesti ir keisti ištarmių, daugel
-    kartų patvirtintų abiejų tautų didikų bei valdovų prie­
-    saikomis, antspaudais bei parašais. Podolė atitekusi Len­
-    kijos karalystei ne dėl to, kad jie atplėšė ją nuo Lie­
-    tuvos, kuri į ją neturinti jokių teisių, bet todėl, kad
-    ją kadaise užėmė karalius Kazimieras Didysis, iš dalies
-    remdamasis ginklo, iš dalies — paveldėjimo teisėmis, ir
-    pavertė Lenkijos sritimi bei Lenkijos karalių nuosavy­
-    be.
+    Algirdas, Lietuvos didysis kuni­
+    gaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių
+    sienas, pirmas sumušęs svetimšalius ir juos išstūmęs iš
+    šių žemių, po to padalijęs brolio Karijoto sūnums kraš­
+    tą; šie čia pastatę Smotričiaus, Bakotos, Kameneco ir
+    kitas pilis
+    ir jas sutvirtinę, nesigailėdami didelių iš­
+    laidų. Mirus Konstantinui Karijotaičiui, Podolės kuni­
+    gaikščiui, į jo vietą Algirdas paskyręs Teodorą, jo brolį.
+    Kadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš­
+    čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val­
+    da, paskirdamas vietininku Goštautą.
   citata_rodoma: "Algirdas, Lietuvos didysis kuni­\ngaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių\nsienas, pirmas sumušęs svetimšalius ir juos išstūmęs iš\nšių žemių, po to padalijęs brolio Karijoto sūnums kraš­\ntą; šie čia pastatę Smotričiaus, Bakotos, Kameneco ir\nkitas pilis\nir jas sutvirtinę, nesigailėdami didelių iš­\nlaidų. Mirus Konstantinui Karijotaičiui, Podolės kuni­\ngaikščiui, į jo vietą Algirdas paskyręs Teodorą, jo brolį.\nKadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš­\nčiui, pastarasis jį sumušęs, o Podolę pavertęs savo val­\nda, paskirdamas vietininku Goštautą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-065
+    - t-077
+
 - id: c-168031
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 509"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 509."
   citata_originali: |
-    Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
-    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
-    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
-    nas Goštautas. Antra vertus, karalius irgi labiau nei
-    kitados stengėsi išlaikyti sa-
-    1460 m e ta i
-    vo rankose Lietuvą, nes su­
-    silaukė jau kelių palikuonių
-    (mat šiek tiek anksčiau gimė trečias sūnus Jonas Ol-
-    brachtas, o šiais metais ir ketvirtas — Aleksandras), to­
-    dėl visaip baudėsi Bresto seime nukreipti nuo Podolės
-    didikų užmojus. Kadangi skausmas dėl patirtos skriau­
-    dos, tai yra dėl atimtų žemių, tebuvo tik sušvelnėjus,
-    karaliaus akivaizdoje jie, tiesa, nerodė ypatingo įkar­
-    ščio, tačiau, jam išvykus, vėl
-    K araliui p a v y k s ta n u-
-    ryžtingai rengdavosi karui ir
-    ram inti
-    griebdavosi ginklų. Štai to­
-    dėl karalius, nusprendęs, jog
-    nėra jokio reikalo malšinti nuolatos stiprėjančio sopu­
-    lio kad ir stipriomis, bet laikinomis priemonėmis, o rei­
-    kia ieškoti tokių vaistų, kurie visiems laikams išgydy­
-    tų negalę, sušaukė, susiruošęs traukti į Prūsiją, Vilniuje
-    lietuvių seimą.
+    Kas be ko, jie visi neišpasakytai trokštą, kad
+    karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
+    511
+
+    ## Puslapis 510
+
+    n es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad
+    karalius ilgam  atitrūktų nuo jų valstybės reikalų. Štai
+    to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­
+    d a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,
+    Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais
+    Algirdo proanūkį. Karalius, g erai žinodamas, kiek rū­
+    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
+    nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
+    gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
+    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
+    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
+    sumanymus, g an a tolim us jų reikalavimams.
   citata_rodoma: "Kas be ko, jie visi neišpasakytai trokštą, kad\nkaralius asmeniškai juos valdytų, tačiau jie to nesitiki,\n511\n\n## Puslapis 510\n\nn es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad\nkaralius ilgam  atitrūktų nuo jų valstybės reikalų. Štai\nto d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­\nd a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,\nSlucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais\nAlgirdo proanūkį. Karalius, g erai žinodamas, kiek rū­\npesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,\nnutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko\ngero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­\nrai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­\nsakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s\nsumanymus, g an a tolim us jų reikalavimams."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -2953,14 +2951,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   puslapiai: "PDF 215"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
-    Kartą, kai Vitolfas puotavo pas vieną karalių,
-    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
-    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
-    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
-    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
-    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
-    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
-    nugalėjo ir paėmė nesuskaičiuojamus turtus.
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
   citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -2976,17 +2973,15 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   puslapiai: "PDF 274"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 274."
   citata_originali: |
-    Tai davė jiems dingstį pasista­
-    tydinti pilį, nes Kernavė buvo visiškai sunaikinta. O kadangi
-    duoklės susidėjo daugiausia iš miško gėrybių, nes dirbamos
-    žemės dirvonavo trūkstant išblaškytų ir už Neries pabėgusių
-    žmonių, todėl valdovų ir krašto gyventojų verslas buvo lauki­
-    nių žvėrių medžioklė. Dėl šios priežasties ir tuo metu atsirado
-    Trakų pavadinimas. Vėliau Lietuvos kunigaikščiai, išstūmę ru­
-    sinus iš tos krašto dalies, pasilaikė tą pilį; tenai žmonės, taikiai
-    ir laisvai gyvendami, ilgai džiaugėsi palaiminga būtimi; šito
-    liudytojai buvo miestas, pilis ir šventyklos, garsėjusios labai
-    gražiais ir nuostabą keliančiais pastatais.
+    Viena tokia buvo Didžiojoje
+    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
+    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
+    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
+    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
+    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
+    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
+    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
+    dyklos vietoje įkūrė cerkvę su šventiku.
   citata_rodoma: "Viena tokia buvo Didžiojoje\ngatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių\nkunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.\nMaldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­\nko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­\nvei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.\nŠi pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­\ntos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­\ndyklos vietoje įkūrė cerkvę su šventiku."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -3739,17 +3734,15 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   puslapiai: "PDF 274"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 274."
   citata_originali: |
-    Tai davė jiems dingstį pasista­
-    tydinti pilį, nes Kernavė buvo visiškai sunaikinta. O kadangi
-    duoklės susidėjo daugiausia iš miško gėrybių, nes dirbamos
-    žemės dirvonavo trūkstant išblaškytų ir už Neries pabėgusių
-    žmonių, todėl valdovų ir krašto gyventojų verslas buvo lauki­
-    nių žvėrių medžioklė. Dėl šios priežasties ir tuo metu atsirado
-    Trakų pavadinimas. Vėliau Lietuvos kunigaikščiai, išstūmę ru­
-    sinus iš tos krašto dalies, pasilaikė tą pilį; tenai žmonės, taikiai
-    ir laisvai gyvendami, ilgai džiaugėsi palaiminga būtimi; šito
-    liudytojai buvo miestas, pilis ir šventyklos, garsėjusios labai
-    gražiais ir nuostabą keliančiais pastatais.
+    Viena tokia buvo Didžiojoje
+    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
+    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
+    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
+    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
+    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
+    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
+    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
+    dyklos vietoje įkūrė cerkvę su šventiku.
   citata_rodoma: "Viena tokia buvo Didžiojoje\ngatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių\nkunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.\nMaldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­\nko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­\nvei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.\nŠi pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­\ntos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­\ndyklos vietoje įkūrė cerkvę su šventiku."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -4097,14 +4090,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   puslapiai: "PDF 215"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
-    Kartą, kai Vitolfas puotavo pas vieną karalių,
-    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
-    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
-    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
-    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
-    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
-    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
-    nugalėjo ir paėmė nesuskaičiuojamus turtus.
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
   citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
@@ -4466,13 +4458,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 - Sūnūs: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Dmitrijus Kaributas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]], [[objektai/asmenys/Vladimiras (Algirdo sūnus)]], [[objektai/asmenys/Vladimiras Algirdaitis]], [[objektai/asmenys/Vladislovas Jogaila]]
 - Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Broliai: [[objektai/asmenys/Karijotas]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Narimantas Gediminaitis]]
-- Algirdas (Lietuvos valdovas) valdė [[objektai/vietos/Krėva]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Podolė]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
-- Algirdas (Lietuvos valdovas) puolė [[objektai/vietos/Brianskas]]
-- Algirdas (Lietuvos valdovas) apgulė [[objektai/vietos/Maskva]]
-- Algirdas (Lietuvos valdovas) užėmė [[objektai/vietos/Kijevas]], [[objektai/vietos/Mstislavlis]], [[objektai/vietos/Podolė]], [[objektai/vietos/Toropiec]]
-- Algirdas (Lietuvos valdovas) gynė [[objektai/vietos/Pskovas]]
-- Algirdas (Lietuvos valdovas) siuntė į [[objektai/vietos/Vilnius]]
-- Algirdas (Lietuvos valdovas) surengė žygį į [[objektai/vietos/Maskva]], [[objektai/vietos/Nadruva]]
+- Algirdas (Lietuvos valdovas) valdė Krėva, Lietuva, Podolė, Vilnius, Vitebskas
+- Algirdas (Lietuvos valdovas) puolė Brianskas
+- Algirdas (Lietuvos valdovas) apgulė Maskva
+- Algirdas (Lietuvos valdovas) užėmė Kijevas, Mstislavlis, Podolė, Toropiec
+- Algirdas (Lietuvos valdovas) gynė Pskovas
+- Algirdas (Lietuvos valdovas) siuntė į Vilnius
+- Algirdas (Lietuvos valdovas) surengė žygį į Maskva, Nadruva
 - Algirdas (Lietuvos valdovas) kariavo prieš [[objektai/grupes/Totoriai]]
 - Algirdas (Lietuvos valdovas) dalyvavo mūšyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - Algirdas (Lietuvos valdovas) paskyrė [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Petras Goštautas]]

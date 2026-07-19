@@ -99,22 +99,6 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Narbutas Žemės revoliucijos priežastis siejo su formuojantis Žemei išsiskyrusia ugnimi, dujomis ir garais, traiškiusiais žemės kevalą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Štai ir visas spėjimas apie Žemės revoliucijos priežas­
-    tis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos
-    kristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­
-    jos ir garai, kurie su didžiule jėga ėmė traiškyti žemės
-    kevalą. Taip atsirado ir didžiuliai sprogimai, ir sukietėju­
-    sias materijos lavinos, potvyniai, uolų trupėjimas, pusty­
-    mas, viesulai, biraus žemės sluoksnio susiformavimas,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -158,18 +142,13 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Todėl galima daryti
-    prielaidą, jog tuomet, kai buvo sukurta Saulės masė, jos
-    dalys atitrūko ir ėmė suktis erdvėje apie pirminį savo ele­
-    mentą (tai davė pradžią planetoms), be to, Saulės rutu­
-    lys yra tuščiaviduris ugnies kamuolys, per kurio atmos­
-    ferą bėgdami užsiliepsnojo ozono rutuliukai, sukūrę lieps­
-    nojantį skystį, apie kurį jau kalbėjome.
     Štai ir visas spėjimas apie Žemės revoliucijos priežas­
     tis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos
     kristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­
     jos ir garai, kurie su didžiule jėga ėmė traiškyti žemės
-    kevalą.
+    kevalą. Taip atsirado ir didžiuliai sprogimai, ir sukietėju­
+    sias materijos lavinos, potvyniai, uolų trupėjimas, pusty­
+    mas, viesulai, biraus žemės sluoksnio susiformavimas,
   citata_rodoma: "Štai ir visas spėjimas apie Žemės revoliucijos priežas­\ntis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos\nkristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­\njos ir garai, kurie su didžiule jėga ėmė traiškyti žemės\nkevalą. Taip atsirado ir didžiuliai sprogimai, ir sukietėju­\nsias materijos lavinos, potvyniai, uolų trupėjimas, pusty­\nmas, viesulai, biraus žemės sluoksnio susiformavimas,"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

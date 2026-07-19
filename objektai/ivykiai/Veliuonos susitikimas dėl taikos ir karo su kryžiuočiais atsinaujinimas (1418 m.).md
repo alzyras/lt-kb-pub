@@ -7,13 +7,13 @@ datos:
   - '1418 m.'
 date_start: '1418'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paliaubos
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -81,10 +81,12 @@ Nenurodyta
   pagrindžia:
     - c-169144
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1418 m. Veliuonos susitikimas neatnešė taikos, nes kryžiuočiai atmetė siūlomas sąlygas ir reikalavo visos Žemaitijos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169143
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Sugrįžti nuo tikėjimo reikalų prie vals­
     tybės rūpesčių paragino Vytautą tai, kad netrukus turė­
@@ -101,46 +103,6 @@ Nenurodyta
     Žemaitijos, susitikimas neat­
     nešė jokios naudos, ir netru­
     kus kryžiuočiai iš pasalų pradėjo atvirą karą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-169143
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Numalšinęs siautėjančius Rusioje skitus, Vytautas
-    pasikvietė pasiuntinius, dalyvavusius bažnytiniame su­
-    važiavime, norėdamas neatidėliojant padaryti, ką su­
-    važiavimas buvo nutaręs. Be
-    galo ryžtingas žmogus, jis
-    nieko nedarė iš lėto, nepa­
-    kęsdamas ir kitų delsimo;
-    tiesą
-    sakant,
-    negi
-    galima
-    nesmerkti atidėliojimo, jei­
-    gu rūpinamasi dievo gar­
-    binimo bei žmonių išganymo reikalais. Vytauto pa­
-    kviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­
-    kyrę naujuoju ganytoju Motiejų, lietuvį, teologijos
-    mokslų magistrą, neseniai tapusį Vilniaus kanauninkų
-    kolegijos vyresniuoju, spalio mėnesį deramai sutvarkė
-    pagal šventųjų įstatymų reikalavimus viską, ką ir turėjo
-    i417 metai
-    K o n sta n co s
-    s u v a žia ­
-    v im o pasiuntiniai g a ­
-    lutinai
-    įsteigia
-    Ž e ­
-    m aičių v y s k u p y s tę
   citata_rodoma: "Sugrįžti nuo tikėjimo reikalų prie vals­\ntybės rūpesčių paragino Vytautą tai, kad netrukus turė­\njo baigtis dvejų metų paliaubos su kryžiuočiais. Nus­\nprendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai\npasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,\nąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai\natmetė vieną po kitos visas\n1418 m e ta i\nsiūlomas taikos sąlygas, pasi-\nS u sitik im a s d ė l tai-\npūtėliškai reikalaudami visos\nk o s  a tn eša  k a rą\nŽemaitijos, susitikimas neat­\nnešė jokios naudos, ir netru­\nkus kryžiuočiai iš pasalų pradėjo atvirą karą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

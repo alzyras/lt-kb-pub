@@ -10,14 +10,14 @@ datos:
   - '2026 m.'
 date_start: '1936'
 date_end: '2026'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - upė
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -209,6 +209,27 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
 - susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
 - susijęs iš Dionyzo iš Charakso geografinis pasaulio aprašymas: Dionyzas iš Charakso, aprašinėjęs pasaulį Oktaviano Augusto laikais, minėjo Pantikapo ir Aldeskos upes, susiliejančias ir įtekančias į gintaro pakrančių jūrą.
 - susijęs iš Adomas Stanislovas Naruševičius, Historia narodu polskiego: Narbutas vertino, kad Naruševičius iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pirmiausia Erdvilas leido savie­
+    siems, pavargusiems iš kelionės, šiek tiek giriose pa­
+    silsėti, po to, kiek leido tamsa ir ankščia, išrikiavo ka­
+    rius kautynėms, galop prieš pat aušrą, baisiai šaukda­
+    mi ir smarkiai puldami, jie įsiveržė į stovyklą. Prie
+    stovyklos prieigų ne kautynės vyko, o skerdynės: už­
+    pultieji, vos pabudę, apkurtinti nepaprasto triukšmo,
+    krito nespėję nė ginklo pakelti. Tiesa, kai buvę toliau
+    nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
+    vina kova.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-166471
@@ -236,16 +257,13 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pirmiausia Erdvilas leido savie­
-    siems, pavargusiems iš kelionės, šiek tiek giriose pa­
-    silsėti, po to, kiek leido tamsa ir ankščia, išrikiavo ka­
-    rius kautynėms, galop prieš pat aušrą, baisiai šaukda­
-    mi ir smarkiai puldami, jie įsiveržė į stovyklą. Prie
-    stovyklos prieigų ne kautynės vyko, o skerdynės: už­
-    pultieji, vos pabudę, apkurtinti nepaprasto triukšmo,
-    krito nespėję nė ginklo pakelti. Tiesa, kai buvę toliau
-    nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
-    vina kova.
+    Valdingai pasi-
+    keliais nuvesti iki sienos. Kaidanas, pasiuntiniams per
+    ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap­
+    gaudinėjama atidėliojant reikalą ir persikėlė per Dnep-
+    rą, norėdamas savo siekius paremti ginklu ir jėga pri­
+    versti paklusti jo valdžiai. Pripetės žiotyse įrengęs ka­
+    ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.
   citata_rodoma: "Valdingai pasi-\nkeliais nuvesti iki sienos. Kaidanas, pasiuntiniams per\nilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap­\ngaudinėjama atidėliojant reikalą ir persikėlė per Dnep-\nrą, norėdamas savo siekius paremti ginklu ir jėga pri­\nversti paklusti jo valdžiai. Pripetės žiotyse įrengęs ka­\nro stovyklą, jis išsiuntė galybę būrių krašto niokoti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

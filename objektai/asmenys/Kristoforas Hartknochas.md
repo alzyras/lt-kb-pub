@@ -26,6 +26,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Kristoforas Hartknochas
 
 ## Santrauka
@@ -37,27 +38,20 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 <a id="claim-t-189970"></a>
 - t-001
   teiginys: "Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumentuotai laikė tuo pačiu žemės dievu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristoforas Hartknochas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristoforas Hartknochas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172853
+    - c-179174
 
 <a id="claim-t-189971"></a>
 - t-002
   teiginys: "Pasak Narbuto cituojamo Hartknocho, kryžiuočiai užėmė šventąją vietą Dybove ir ten įkūrė Senąją Torunę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,7 +59,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172855
     - c-172856
 
 <a id="claim-t-189972"></a>
@@ -164,7 +157,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 <a id="claim-t-189977"></a>
 - t-008
   teiginys: "Pasak Hartknocho, senovės prūsų žodis Sigos reiškė tvarką arba vienuoliją, todėl signotai buvo laikomi vienuoliais."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-19 18:44"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -180,7 +173,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172860
-    - c-177109
 
 <a id="claim-t-189978"></a>
 - t-009
@@ -285,7 +277,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 <a id="claim-t-194713"></a>
 - t-015
   teiginys: "Kristoforas Hartknochas buvo ypatingos apeigos užbėgti už akių aiškiam nusikaltimui ir atskleisti slaptam."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -293,7 +285,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-177108
+    - c-177109
 
 <a id="claim-t-197414"></a>
 - t-016
@@ -355,116 +347,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   pagrindžia:
     - c-179175
 
-## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Pasak Narbuto, Hartknochas spėjo, kad Senosios Torunės vietoje taip pat buvo šventykla.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šventyklos aptvaro vi­
-    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
-    bai, -  anot Enėjo Silvijaus liudijimo.
-    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
-    taip pat buvusi šventykla.
-    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
-    to paties istoriko, priklausė šventyklos liekanoms.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-008
-  santrauka: 'Pasak Hartknocho, senovės prūsų žodis Sigos reiškė tvarką arba vienuoliją, todėl signotai buvo laikomi vienuoliais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir
-    susijuosdavo balta drobine skara.
-    Signotai (Sigonottaį
-    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
-    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
-    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
-    Gardaičio tarnai, todėl jų būdavo pajūrio srityse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-009
-  santrauka: 'Narbutas rašo, kad Hartknochas signotus aiškino kaip bendruomenėje su tam tikromis teisėmis gyvenusius dvasininkus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš šventojo
-    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
-    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
-    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
-    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-
-    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
-    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
-    kai, gyvenę bendruomenėje su tam tikromis teisėmis. Tuos tei­
-    ginius patvirtina kitų senovės istorikų tyrimai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-010
-  santrauka: 'Narbutas nurodė, kad Hartknochas abejojo, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
-    ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
-    rinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo
-    daryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka
-    pasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai
-    senu papročiu4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-013
-  santrauka: 'Narbutas nurodė, kad pasakojimą apie ypatingą vėliavos užrašą iš Grunau perėmė Henenbergeris ir Hartknochas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ant tos vėliavos
-    buvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­
-    telės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-
-    6 Hartknoch.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-014
-  santrauka: 'Kad nuramintume žmoniškumo gynėjus, turime Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX // Apud Odoricum Raynaldum. Annales ecclesiasticae.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kad nuramintume žmoniškumo gynėjus, turime
-    16
-    Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
-    // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
-    1232. -  Nr. 7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-015
-  santrauka: 'Kristoforas Hartknochas buvo ypatingos apeigos užbėgti už akių aiškiam nusikaltimui ir atskleisti slaptam.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kartais, tik­
-    riausiai kaip apgavikiškus monus, žmonėms rodydavo baisias
-    gyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­
-    girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­
-    basi su vyriausiuoju žyniu“5.
-    Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­
-    mui ir atskleisti slaptam.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-172853
@@ -485,7 +367,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-016
 
 - id: c-172854
@@ -530,7 +411,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-019
 
 - id: c-172856
@@ -585,15 +465,13 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    -R. J.)'°
-    provincijoje, iki šiol neištirtoje vietoje; anot Sarnickio", tai lies­
-    tų Kuršą. Kadangi istorikai šią šventyklą vadina ir Romove,
-    todėl reikėtų manyti, kad, žlugus senajai prūsų religijai, Ale-
-    po, paskutinio prūsų vyriausiojo žynio, įpėdinis iš pradžių gy­
-    veno prie šios šventyklos; su tuo sutinka ir Strijkovskis. Tačiau
-    pajūrio miestas, atkištas priešų puolimams, netrukus turėjo
-    būti sugriautas, kadangi mūsų istorikai tuojau pastebi kitą Lie­
-    tuvos Romovę prie Dubysos ir Nemuno santakos12.
+    Šventyklos aptvaro vi­
+    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
+    bai, -  anot Enėjo Silvijaus liudijimo.
+    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
+    taip pat buvusi šventykla.
+    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
+    to paties istoriko, priklausė šventyklos liekanoms.
   citata_rodoma: "Šventyklos aptvaro vi­\nduje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­\nbai, -  anot Enėjo Silvijaus liudijimo.\nTen, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,\ntaip pat buvusi šventykla.\nUpės (Oppen) kaime augo storiausias ąžuolas, kuris, anot\nto paties istoriko, priklausė šventyklos liekanoms."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -631,19 +509,13 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    sose antikinėse tautose jų pašaukimas buvo labai kilnus ir ger­
-    biamas; mat jie, pranašesni savo protu ir turintys nuostabią
-    dovaną kurti eiles, pranokdavo kitus žmones, pateikdavo įsta­
-    tymus, kūrė mokslą ir skatindavo karo žygius arba puoselėda­
-    vo pilietines dorybes, tramdydavo nusikaltimus ir diegdavo ap-
-    švietą kerinčia poezijos ir muzikos meno galia. Lietuvių bar­
-    dai grojo styginiu instrumentu, vadintu Citera , kurio garsai
-    būdavo išgaunami sukant rankeną, panašią į veleną; kaip liu­
-    dija liaudies pasakojimai, dar esama senų žmonių, kurie yra
-    mate tokį instrumentą arba girdėję pasakojant apie jį. Padavi­
-    muose dar prisimenami lietuvių liaudies dainų dainuotojai,
-    vaikščioję po kaimus su tokiais instrumentais, panašūs į elge­
-    tas, tačiau, pasak tų pasakojimų, tai buvę seniai.
+    Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir
+    susijuosdavo balta drobine skara.
+    Signotai (Sigonottaį
+    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
+    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
+    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
+    Gardaičio tarnai, todėl jų būdavo pajūrio srityse.
   citata_rodoma: "Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir\nsusijuosdavo balta drobine skara.\nSignotai (Sigonottaį\nTai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos\nsenovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką\narba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -658,19 +530,15 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvių bar­
-    dai grojo styginiu instrumentu, vadintu Citera , kurio garsai
-    būdavo išgaunami sukant rankeną, panašią į veleną; kaip liu­
-    dija liaudies pasakojimai, dar esama senų žmonių, kurie yra
-    mate tokį instrumentą arba girdėję pasakojant apie jį. Padavi­
-    muose dar prisimenami lietuvių liaudies dainų dainuotojai,
-    vaikščioję po kaimus su tokiais instrumentais, panašūs į elge­
-    tas, tačiau, pasak tų pasakojimų, tai buvę seniai. Nykstant ir
-    išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­
-    ko iki paprastų dainių lygio; jų klausydavosi pasilinksminimui
-    ir pramogai. O jų sugebėjimai ir išmonė, tamsių žmonių aki­
-    mis, viršijantys kitų sugebėjimus, praradus anksčiau turėtą pa­
-    garbą, pavertė juos kerėtojais.
+    Iš šventojo
+    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
+    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
+    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
+    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-
+    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
+    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
+    kai, gyvenę bendruomenėje su tam tikromis teisėmis. Tuos tei­
+    ginius patvirtina kitų senovės istorikų tyrimai.
   citata_rodoma: "Iš šventojo\nAdalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­\nja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­\ntėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­\nmeldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-\nknochas po ilgo nereikšmingo svarstymo šia tema pataiko į\nankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­\nkai, gyvenę bendruomenėje su tam tikromis teisėmis. Tuos tei­\nginius patvirtina kitų senovės istorikų tyrimai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -685,14 +553,12 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Aukos
-    Visų tautų aukos buvo kažkokios vienodos - rėmėsi pir­
-    mykščio pasaulio papročiu, kurio Nojus laikėsi po Tvano. Šiuo
-    požiūriu lietuviai niekuo nesiskyrė nuo graikų ir romėnų, ne­
-    bent tik buvo kai kurių skirtumų, kilusių dėl vietos aplinkybių
-    ir nevienodo apšvietos laipsnio,. Buvo aukų, kurias atnašau­
-    jant, moterims buvo draudžiama dalyvauti. Buvo ir tokių, kur
-    ne bet kurį vyrą įleisdavo, ir jos vykdavo slapta*.
+    Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
+    ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
+    rinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo
+    daryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka
+    pasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai
+    senu papročiu4.
   citata_rodoma: "Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­\nligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­\nrinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo\ndaryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka\npasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai\nsenu papročiu4."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -751,14 +617,10 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sis paprotys lietuviams
-    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
-    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
-    kad jiems būtų suteikti herbai - taip būdavo Lenkijoje. Bet, ne­
-    paisant to, visuomet, bent jau nuo Gedimino laikų, Lietuvoje
-    šeimos herbai egzistavo*. Vienas kitas aiškiai lietuviškas her­
-    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
-    rios tais herbais naudojosi.
+    Ant tos vėliavos
+    buvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­
+    telės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-
+    6 Hartknoch.
   citata_rodoma: "Ant tos vėliavos\nbuvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­\ntelės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-\n6 Hartknoch."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -771,13 +633,11 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Priesaikos su užkeikimu taip pat dar
-    tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
-    (Kad až skradziuprapoltu). Senovės prūsų papročiu prisiekian­
-    tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija
-    Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
-    valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
-    saiką labiau nei pirštų padėjimas ant Evangelijos.
+    Kad nuramintume žmoniškumo gynėjus, turime
+    16
+    Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
+    // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
+    1232. -  Nr. 7.
   citata_rodoma: "Kad nuramintume žmoniškumo gynėjus, turime\n16\nĮrodymui Hartknochas pateikia: Litterae Gregorii Papae IX\n// Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum\n1232. -  Nr. 7."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -786,25 +646,19 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-014
-    - t-015
 
 - id: c-177109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    graikiškų ir 1.1, papročių71. Senovės prūsų merginas, jeigu norė­
-    davo jas vesti, turėdavo iš tėvų nusipirkti1.
-    Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi­
-    me vedybų papročius, bendrus lietuviams ir skandinavams, tai
-    yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei­
-    sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo­
-    terys neturėjo tokios reikšmės ir nors jų vaikai, tėvo pripažin­
-    ti, buvo laikomi teisėtais, kaip ir pagimdyti pirmosios žmonos,
-    vis dėlto ta daugpatystė buvo labai apribota, net iki to, kad
-    kitos žmonos buvo laikomos vergėmis ir namų nuosavybe, ku­
-    rią po šeimininko mirties pasidalydavo įpėdiniai; jos būdavo
-    arba iš paimtų per karą, arba nupirktos iš vargingų tėvų.
+    Kartais, tik­
+    riausiai kaip apgavikiškus monus, žmonėms rodydavo baisias
+    gyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­
+    girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­
+    basi su vyriausiuoju žyniu“5.
+    Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­
+    mui ir atskleisti slaptam.
   citata_rodoma: "Kartais, tik­\nriausiai kaip apgavikiškus monus, žmonėms rodydavo baisias\ngyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­\ngirdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­\nbasi su vyriausiuoju žyniu“5.\nBuvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­\nmui ir atskleisti slaptam."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -812,7 +666,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-015
 
 - id: c-179174
   autorius: "Teodoras Narbutas"
@@ -837,6 +691,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-010
     - t-013
     - t-017

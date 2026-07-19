@@ -1109,14 +1109,22 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-185021"></a>
 - t-097
   teiginys: "Utenis perkėlė karą iš Kuršo į Livoniją, kur kuršių ir žemaičių kariuomenė nusiaubė didelius plotus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Livonija: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kuršiai minimi kaip dalis kariuomenės, nusiaubusios Livonijos plotus."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kuršiai puolė Livonija (0.66)"
   pagrindžia:
-    - c-168389
+    - c-168382
 
 <a id="claim-t-185022"></a>
 - t-098
@@ -3364,10 +3372,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    pasireiškė ir kitais atvejais, kovojant prieš vokiečių feodalinę agresiją. Taigi Lietuvos
-    pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
-    Lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
-    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
+    27; История
+    Эстонской ССР, l, с. 160—161), kai Danijos karaliaus Valdemaro II valdžia plito vokiečių
+    užkariautoje Livonijoje ir Rygoje (Caune M.
   citata_rodoma: "27; История\nЭстонской ССР, l, с. 160—161), kai Danijos karaliaus Valdemaro II valdžia plito vokiečių\nužkariautoje Livonijoje ir Rygoje (Caune M."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
@@ -3859,30 +3866,29 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Šiapus Neries vieš­
-    as
-
-    patavo Lietuvoje vietoje ne-
-    T ren io to s k a ra s su
-    seniai mirusio Skirmanto šio
-    sk ita is ir p e rg a lė
-    sūnus Treniota. Vos prade­
-    dančią įsigalėti jo valdžią
-    užgriuvo sunkus karas. Skitų kunigaikštis Kurdas troš­
-    ko arba pataisyti reikalus, arba atkeršyti už tėvą Ba-
-    laklajų, lietuvių per ankstesnį žygį nukautą kovos lau­
-    ke. Kad kerštas būtų kuo didesnis, ėmė visomis išga­
-    lėmis rengtis karui: iš visos Skitijos jis surinko kur
-    kas didesnę kariuomenę, nei kada anksčiau buvo su­
-    renkama: sutelkė didžiules Užvolgio, Nogajaus, Kaza­
-    nės, Krymo ordas.
+    Kitais metais
+    Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
+    tik savo šalyje priešintis Li-
+    L en kai k v ie č ia  iš V o -
+    vonijos riteriams, dabar lie-
+    k ie tijo s  į P rū siją  k r y -
+    tuviai buvo nusiųsti pulti
+    žiu o č iu s
+    priešų žemių. Sutelkus di­
+    džiulę
+    kuršių ir žemaičių
+    kariuomenę, buvo nusiaubti dideli Livonijos plotai. Ši­
+    taip Utenis privertė priešą liautis puldinėjus Žemaiti­
+    ją ir ginti savo kraštą.
   citata_rodoma: "Kitais metais\nUtenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę\ntik savo šalyje priešintis Li-\nL en kai k v ie č ia  iš V o -\nvonijos riteriams, dabar lie-\nk ie tijo s  į P rū siją  k r y -\ntuviai buvo nusiųsti pulti\nžiu o č iu s\npriešų žemių. Sutelkus di­\ndžiulę\nkuršių ir žemaičių\nkariuomenę, buvo nusiaubti dideli Livonijos plotai. Ši­\ntaip Utenis privertė priešą liautis puldinėjus Žemaiti­\nją ir ginti savo kraštą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-097
+
 - id: c-168383
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3927,23 +3933,19 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kadangi neseniai per pasiuntinius buvo pra­
-    šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
-    savo žento, ir toji pagalba diena iš dienos turėjo at­
-    vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
-    gailą traukti su nedidele kariuomene ir be pagalbinin­
-    kų stoti į lemiamą mūšį. Kad kariai turėtų kokį užsi­
-    ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti
-    Trakus. Po kelių dienų apgulos, sutikęs smarkų pasi­
-    priešinimą, griebėsi kito sumanymo. Mat tuo metu
+    Mat tuo metu
     paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
     nutaręs, jog dabar tinkama proga nebaudžiamam su­
     laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
     žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
     2 7 0
 
+    ## Puslapis 269
+
     Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
-    jos, jau traukė su kariuomene iš Vilniaus.
+    jos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­
+    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
+    jie neprilygsta nei ginkluote, nei karių skaičiumi.
   citata_rodoma: "Mat tuo metu\npaaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,\nnutaręs, jog dabar tinkama proga nebaudžiamam su­\nlaužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­\nžęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.\n2 7 0\n\n## Puslapis 269\n\nBe to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­\njos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­\nnojo, kad priešas vedasi didžiulę kariuomenę, kuriai\njie neprilygsta nei ginkluote, nei karių skaičiumi."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -3958,30 +3960,21 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Matydamas, kad Vytautą lydi pa­
-    stovi sėkmė, jis niršo ir siuto, galop ėmėsi ryžtingų
-    žingsnių, pasitelkdamas sve-
-    K ry žiu o č ia i
-    n io k o ja
-    timšalių ginklą. Jis nuolatos
-    L ie tu v ą
-    kurstė Prūsijos bei Livonijos
-    kryžiuočių magistrus prieš
-    Vytautą. Vasario 6 šie žiauriai nuniokojo Lietuvą, o po
-    to Žemaitiją. Vytautas, ligi šiol laikęs savo kariuomenę
-    Rusioje žiemos stovykloje, negalėjo su keliais būriais,
-    jį palydėjusiais į Lietuvą, im-
-    1396 m e ta i
-    tis jokių veiksmingesnių žy­
-    gių: nei niokojančių atremti,
-    nei traukiančių namo vytis. Norėdamas vis dėlto atsi­
+    Norėdamas vis dėlto atsi­
     lyginti priešui už tą antpuolį, jis, kuo greičiausiai su­
     telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus,
     užėmė
     Daugpilį
     Dauguvos
-    V y ta u ta s n io k o ja Li-
-    pakrantėje.
+    V y ta u ta s  n io k o ja  Li-
+    pakrantėje. Esu tikras, jog
+    v o n iją
+    Vytautas turėjo tam tikrą
+    tikslą, siųsdamas Į Livoniją
+    savo kariuomenę, mat iš žvalgų jis sužinojo, kad Švitri­
+    gaila perėjęs iš Prūsijos į Livoniją. Taigi atsargesni Vy­
+    tauto vyrai būgštavo, kad šis nesusimanytų žygiuoti į
+    tokias vietas, kurių ligi šiol kryžiuočiai nebuvo lietę.
   citata_rodoma: "Norėdamas vis dėlto atsi­\nlyginti priešui už tą antpuolį, jis, kuo greičiausiai su­\ntelkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus,\nužėmė\nDaugpilį\nDauguvos\nV y ta u ta s  n io k o ja  Li-\npakrantėje. Esu tikras, jog\nv o n iją\nVytautas turėjo tam tikrą\ntikslą, siųsdamas Į Livoniją\nsavo kariuomenę, mat iš žvalgų jis sužinojo, kad Švitri­\ngaila perėjęs iš Prūsijos į Livoniją. Taigi atsargesni Vy­\ntauto vyrai būgštavo, kad šis nesusimanytų žygiuoti į\ntokias vietas, kurių ligi šiol kryžiuočiai nebuvo lietę."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
@@ -3996,24 +3989,21 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Kai pulkai sustojo
-    S ė k m in g a s ž y g is į Li-
-    prie Pasvalio, įsakė Mikalo-
-    v o n iją
-    j ui Radvilai patraukti į prie­
-    kį su lengvųjų raitelių vėlia­
-    vomis, įsibrauti į Livoniją ir nusiaubti priešo kraštą.
-    Fiurstenbergas pasiryžo iš paskutiniųjų ginti savo žemę
-    ir tam tikslui sutelkė aštuonis tūkstančius samdytinės
-    raitijos bei kelis tūkstančius pėstininkų, greitosiomis
-    sutelktų ir apginkluotų kaimiečių. Jis nė nemanė, jog
-    karalius jį užpuls visomis jėgomis, ir todėl vylėsi galė­
-    siąs atsilaikyti su turima kariuomene. Iš žvalgų sužino­
-    jęs, kokia didžiulė karaliaus kariuomenė, bemat paliovė
-    galvojęs apie karą ir, tarpininkaujamas imperatoriaus
-    Ferdinando pasiuntinio, buvusio magistro stovykloje,
-    paprašė taikos, maldaudamas atleisti už tai, ką buvo
-    padaręs.
+    Numalšinęs Livoniją ir iš­
+    siuntęs į Maskvą Palenkės
+    vaivadą Vasilijų Tiškevičių,
+    maršalą Mykolą Pašušvinskį
+    bei Lietuvos raštininką Joną
+    Gaiką, turėjusius derėtis su
+    maskvėnais dėl taikos, kara­
+    lius iš stovyklos patraukė į
+    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
+    tas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­
+    veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
+    karui prieš skitus ir švedus, baimindamasis, matyt, kad
+    Augustas pirmas neužimtų šio krašto. Šiaip ar taip, jis
+    negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
+    tis su Livonijos magistru.
   citata_rodoma: "Numalšinęs Livoniją ir iš­\nsiuntęs į Maskvą Palenkės\nvaivadą Vasilijų Tiškevičių,\nmaršalą Mykolą Pašušvinskį\nbei Lietuvos raštininką Joną\nGaiką, turėjusius derėtis su\nmaskvėnais dėl taikos, kara­\nlius iš stovyklos patraukė į\nLenkiją, manydamas, jog ateina visuotinės ramybės me­\ntas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­\nveržė į Livoniją su visa kariuomene, kurią sakėsi telkęs\nkarui prieš skitus ir švedus, baimindamasis, matyt, kad\nAugustas pirmas neužimtų šio krašto. Šiaip ar taip, jis\nnegalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­\ntis su Livonijos magistru."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -4021,7 +4011,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-097
     - t-104
 
 - id: c-171654
@@ -4029,16 +4018,12 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ragutis (Ragutis)
-    Midaus darytojų, bartininkų, aludarių, degtinės varytojų
-    dievas, kurį ypač garbino puotautojai, įkaitę nuo gėrimų. Kitaip
-    vadintas Bubilu (Bublos, Bubilos). Lasickis pasakoja, kad ru­
-    sai lenkėsi tam dievui, vadindami Zosim.
-    Lietuviai garbino jį tam tikru būdu: jis turėjo savo auku­
-    rus, stabus, šventyklas, žynius, vaidilutes. Plačiau apie tas smul­
-    kmenas papasakosime toliau, atskiruose straipsniuose, kuriuo­
-    se išvardysime jo garbei atlikinėtas apeigas, rengtas šventes ir
-    iškilmes, labai panašias į Romos bakchanalijas.
+    Henriko Latvio kronikos prierašuose, arba pastabose, ku­
+    rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias
+    turiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da­
+    lykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk­
+    dami tikrojo Dievo vardą, užpuolė lietuvius, šie savo ruožtu
+    rėkė: JogKauou, jogKauaile! („Jok Kove, jok Kovaiti!“).
   citata_rodoma: "Henriko Latvio kronikos prierašuose, arba pastabose, ku­\nrias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias\nturiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da­\nlykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk­\ndami tikrojo Dievo vardą, užpuolė lietuvius, šie savo ruožtu\nrėkė: JogKauou, jogKauaile! („Jok Kove, jok Kovaiti!“)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -4148,19 +4133,11 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    S.
-    288.
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
-    leidimą
-    (PEĮ.
-    L,
-    240),
-    151 /Ten pat, 3 pastraipos 10 eilutės sakinio minties tęsinys/
-    Visuomet pagoniškose kapavietėse randamas koks nors geležinis
-    daiktas, padėtas prie dešiniojo peties, prie moterų — varinės ada­
-    tos, akmeniniai verpstukų smagračiai, kartais variniai lygintuvai
-    rūbams lyginti (turiu tokio lygintuvo liekanas, iškastas Obeliuo­
-    se).
+    Ten jis buvo pastebėtas pra­
+    ėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.
+    1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi­
+    sionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius. Ten jie
+    rado pagonybės likučių ir juos skrupulingai išnaikino.
   citata_rodoma: "Ten jis buvo pastebėtas pra­\nėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.\n1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi­\nsionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius. Ten jie\nrado pagonybės likučių ir juos skrupulingai išnaikino."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

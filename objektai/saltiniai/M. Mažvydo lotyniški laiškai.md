@@ -7,12 +7,12 @@ datos:
   - '1549 m.'
 date_start: '1549'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,38 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M., Pirmoji.., p. 251, 257).
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1549 m. M. Mažvydo lotyniškuose laiškuose vartojami vietovardžiai „Ragneta“ ir „in Ragnet“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
-    Pirmoji.., p. 251, 257).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61783
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    atitraukusi čia 9 metais anksčiau, nei Teutonų ordinas atvyko į Prūsijos žemę467. Galop
-    rutėnai, pavargę nuo įstangų ir patyrę didelių išlaidų, paklausė apsiaustųjų, kuo jie
-    bemintą. Šie atsakė: „Žuvimis“.
-  citata_rodoma: "M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,\nPirmoji.., p. 251, 257)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -84,3 +52,21 @@ Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragne
   temporalinis_llm_pakomentavimas: "Citata pagrindžia trumpą faktą apie laiškuose vartotus vietovardžius."
   pagrindžia:
     - c-61783
+
+## Citatos
+
+- id: c-61783
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
+    Pirmoji.., p. 251, 257).
+  citata_rodoma: "M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,\nPirmoji.., p. 251, 257)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -50,14 +50,7 @@ Rodo paties Narbuto etimologinę pastabą ir originalią formuluotę.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Johan
-    Stüler; ?—1521), vokiečių istorikas. Veikale
-    „Apie Prūsijos senienas“ (1510, 1518) nepa­
-    grįstai įrodinėjo, jog vokiečiai buvo seniausi
-    Rytų Prūsijos gyventojai. Lietuvius kildino iš
-    alanų.
-    Zr. paaiškinimus pirmam LT1 tomui šios kny­
-    gos gale (Nr. 191).
+    T. Narbutas LTI PE po šio sakinio parašė tokią pastabą: „Geriau būtų nuo Wannas, senovės prūsų kalba •— uodas“ (PE. P. 360).
   citata_rodoma: "T. Narbutas LTI PE po šio sakinio parašė tokią pastabą: „Geriau būtų nuo Wannas, senovės prūsų kalba •— uodas“ (PE. P. 360)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

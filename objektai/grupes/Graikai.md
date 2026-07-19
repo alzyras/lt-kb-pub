@@ -301,6 +301,27 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - susijęs iš [[objektai/zodynas/emporiumai ir prekyvietės.md#claim-t-192145|emporiumai ir prekyvietės]]: Narbutas rašo, kad graikų emporiumai, arba prekyvietės, pradėjo klestėti VII amžiuje prieš Kristaus gimimą.
 - susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192147|pecuarii ir nomadai]]: Teodoras Narbutas piemenis, pecuarii arba nomadus lokalizuoja už Pantikapo, Arklių Vandenų, į šiaurę.
 - susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192150|pecuarii ir nomadai]]: Narbutas aiškina, kad Skitų klasės skirstomos į žemdirbius ir į piemenis / pecuarii / nomadus.
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: '514 metais prieš Kristų persų būriai, remiami graikų sąjungininkų, įžengė į Europą ir brovėsi Dunojaus link.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Kadangi priešo būriai buvo narsūs ir puikiai gink­
+    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
+    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
+    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
+    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
+    priverstas greitai pereiti visą Skitiją, persikelti per to­
+    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
+    cas. Antra vertus, persų karalius, pasak Herodoto, savo
+    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
+    čio tarytum padėjo skitams įgyvendinti jų ketinimus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-172396
@@ -405,19 +426,18 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kadangi priešo būriai buvo narsūs ir puikiai gink­
-    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
-    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
-    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
-    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
-    priverstas greitai pereiti visą Skitiją, persikelti per to­
-    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
-    cas. Antra vertus, persų karalius, pasak Herodoto, savo
-    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
-    čio tarytum padėjo skitams įgyvendinti jų ketinimus.
+    39
+    Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
+    skitai nė neketino žemintis, pats Darijus patraukė prieš
+    Indatirą. Persų būriai įžengė į Europą ir, graikų sąjun­
+    gininkų remiami, brovėsi Dunojaus link. Kažkur prie
+    šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
+    pastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai­
+    kams.
   citata_rodoma: "39\nPo kurio laiko, 514 metais prieš Kristaus gimimą, kai\nskitai nė neketino žemintis, pats Darijus patraukė prieš\nIndatirą. Persų būriai įžengė į Europą ir, graikų sąjun­\ngininkų remiami, brovėsi Dunojaus link. Kažkur prie\nšiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam\npastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai­\nkams."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

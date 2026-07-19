@@ -259,15 +259,22 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 <a id="claim-t-190769"></a>
 - t-016
   teiginys: "Mykolas Balinskis galėjo būti anoniminės „Lietuvių mitologijos“ recenzijos autorius, bet citatoje ši autorystė pateikiama tik kaip hipotezė."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
-    - c-173650
+    - c-173651
 - susijęs iš [[objektai/asmenys/Juozapas Ignas Kraševskis.md#claim-t-87433|Juozapas Ignas Kraševskis]]: Juozapas Ignas Kraševskis beveik tuo pat metu kaip M. Balinskis rašė savo Vilniaus miesto istoriją.
 - susijęs iš [[objektai/asmenys/Jurgis Sniadeckis.md#claim-t-87744|Jurgis Sniadeckis]]: Jurgis Sniadeckis buvo universiteto profesorius, kurio dukrą Zofiją 1820 m. vedė M. Balinskis.
 - susijęs iš [[objektai/asmenys/Mikalojus Kopernikas.md#claim-t-87785|Mikalojus Kopernikas]]: Mikalojus Kopernikas buvo astronomas, kurio raštus rengė M. Balinskis.
@@ -412,57 +419,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - susijęs iš [[objektai/zodynas/locus geni.md#claim-t-54812|locus geni]]: Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje.
 - susijęs iš [[objektai/zodynas/locus geni.md#claim-t-54813|locus geni]]: Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje.
 - susijęs iš Gazeta Warszawska: „Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas.
-## Reikšmingi paminėjimai
-- c-010
-  santrauka: 'Mykolui Balinskiui priskiriama dalies anonimiškų straipsnių, kritikavusių Narbuto „Mažesniuosius istorijos raštus“, autorystė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šių „laiškų“ dauguma buvo skirta 1856 metais pa­
-    sirodžiusių T. Narbuto „Mažesniųjų istorijos raštų“ kritikai26.
-    Straipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta-jie
-    priskiriami istoriko, publicisto Mykolo Balinskio plunksnai.
-    Vadinasi, jis galėjo būti ir anoniminės „Lietuvių mitologijos“
-    recenzijos autorius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-011
-  santrauka: 'Mykolui Balinskiui priskiriami straipsniai, kurių dauguma kritikavo 1856 m. T. Narbuto „Mažesniuosius istorinius raštus“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    4 4 0
-
-    ## Puslapis 450
-
-    metus buvo spausdinamas „Gazeta Warszawska“ pusla­
-    piuose1. Šių „laiškų“ dauguma buvo skirta 1856 metais
-    pasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“
-    kritikai2. Straipsnių, beje, ir anonimiškų, autorystė buvo
-    išaiškinta — jie priskiriami istoriko, publicisto Mykolo
-    Balinskio plunksnai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-012
-  santrauka: 'Mykolas Balinskis galėjo būti anoniminės „Lietuvių mitologijos“ recenzijos autorius, bet citatoje ši autorystė pateikiama tik kaip hipotezė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vadinasi, jis galėjo būti ir anoni­
-    minės „Lietuvių mitologijos“ recenzijos autorius. Bet tai
-    tik hipotezė, rašinys galėjo būti ir kolektyvinio darbo
-    vaisius. Vis dėlto reikėtų manyti, kad „Lietuvių mitolo­
-    gijos“ recenzentas nebuvo vienas iš artimiausių T. Nar­
-    buto bičiulių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-55264
@@ -682,14 +638,12 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jau pirmose rašinio eilutėse „Lietuvių mitologija“ buvo api­
-    būdinta kaip „kruopšti kompiliacija“, kurios autorius dėl per­
-    nelyg nekritiško požiūrio į šaltinius „negali vadintis istoriku“28.
-    Toliau J. I. Kraševskis rašė: „Antra, dauguma šiame veikale
-    aprašomų dalykų istorijai nepriklauso. Trečia (o tai yra įdo­
-    miausia ir naujoviškiausia), čia yra tiek mažai autentiškumo,
-    kad vėlesnis istorikas, norėdamas pasinaudoti pono Narbuto
-    darbu, ilgai dvejos, kol išdrįs iš ten ką nors paimti“29 30.
+    Šių „laiškų“ dauguma buvo skirta 1856 metais pa­
+    sirodžiusių T. Narbuto „Mažesniųjų istorijos raštų“ kritikai26.
+    Straipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta-jie
+    priskiriami istoriko, publicisto Mykolo Balinskio plunksnai.
+    Vadinasi, jis galėjo būti ir anoniminės „Lietuvių mitologijos“
+    recenzijos autorius.
   citata_rodoma: "Šių „laiškų“ dauguma buvo skirta 1856 metais pa­\nsirodžiusių T. Narbuto „Mažesniųjų istorijos raštų“ kritikai26.\nStraipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta-jie\npriskiriami istoriko, publicisto Mykolo Balinskio plunksnai.\nVadinasi, jis galėjo būti ir anoniminės „Lietuvių mitologijos“\nrecenzijos autorius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
@@ -704,16 +658,16 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šio leidinio, kuris buvo sumanytas kaip
-    šubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika
-    buvusių Vilniaus universiteto profesorių, astuoni su šia
-    įstaiga nesusiję mokslininkai ir devyniolika literatų, kurių
-    dauguma buvo to universiteto absolventai. Sunku tarp
-    jų būtų pažinti recenzijos autorių. Vis dėlto straipsnio
-    stilius, maniera, kandumas, dalyko išmanymas, profesio­
-    nalumas labai primena kitą rašinį, tiksliau sakant, straips­
-    nių ciklą „Laiškai nuo Kražantės krantų“, kuris trejus
-    1 Ten pat.
+    4 4 0
+
+    ## Puslapis 450
+
+    metus buvo spausdinamas „Gazeta Warszawska“ pusla­
+    piuose1. Šių „laiškų“ dauguma buvo skirta 1856 metais
+    pasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“
+    kritikai2. Straipsnių, beje, ir anonimiškų, autorystė buvo
+    išaiškinta — jie priskiriami istoriko, publicisto Mykolo
+    Balinskio plunksnai.
   citata_rodoma: "4 4 0\n\n## Puslapis 450\n\nmetus buvo spausdinamas „Gazeta Warszawska“ pusla­\npiuose1. Šių „laiškų“ dauguma buvo skirta 1856 metais\npasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“\nkritikai2. Straipsnių, beje, ir anonimiškų, autorystė buvo\nišaiškinta — jie priskiriami istoriko, publicisto Mykolo\nBalinskio plunksnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -722,27 +676,23 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-015
-    - t-016
 
 - id: c-173651
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vis dėlto straipsnio
-    stilius, maniera, kandumas, dalyko išmanymas, profesio­
-    nalumas labai primena kitą rašinį, tiksliau sakant, straips­
-    nių ciklą „Laiškai nuo Kražantės krantų“, kuris trejus
-    1 Ten pat.
-    4 4 0
-
-    metus buvo spausdinamas „Gazeta Warszawska“ pusla­
-    piuose1. Šių „laiškų“ dauguma buvo skirta 1856 metais
-    pasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“
-    kritikai2.
+    Vadinasi, jis galėjo būti ir anoni­
+    minės „Lietuvių mitologijos“ recenzijos autorius. Bet tai
+    tik hipotezė, rašinys galėjo būti ir kolektyvinio darbo
+    vaisius. Vis dėlto reikėtų manyti, kad „Lietuvių mitolo­
+    gijos“ recenzentas nebuvo vienas iš artimiausių T. Nar­
+    buto bičiulių.
   citata_rodoma: "Vadinasi, jis galėjo būti ir anoni­\nminės „Lietuvių mitologijos“ recenzijos autorius. Bet tai\ntik hipotezė, rašinys galėjo būti ir kolektyvinio darbo\nvaisius. Vis dėlto reikėtų manyti, kad „Lietuvių mitolo­\ngijos“ recenzentas nebuvo vienas iš artimiausių T. Nar­\nbuto bičiulių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016

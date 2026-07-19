@@ -160,24 +160,6 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     - c-173982
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, kurią tyrinėtojai siejo su Silezija arba Vyslos apylinkėmis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Mes net nežinome, ar tai buvęs tik
-    vardas lėtų, arba veikiau lietuvių, genties, ar visai at­
-    skiros, seniai išnykusios genties pavadinimas. Senovėje
-    buvo žinomi panašūs pavadinimai: Ptolemėjas mini Ael-
-    vaconesz, kurie buvo lygų gentis; be to, tyrinėtojai tei­
-    gia, kad jie gyveno Silezijoje, nors galėjo būti ir arčiau
-    Vyslos arba prie jūros kairiojoje šios upės pakrantėje. Ta­
-    citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
-    tojai, gyvenę Pomeranijoje prie Helio5.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-002
   santrauka: 'Teodoro Narbuto perteikimu, Naruševičius Ptolemėjo chunų koloniją siejo su vieta, kur vėliau buvo Kijevas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -197,20 +179,6 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-- c-004
-  santrauka: 'Teodoro Narbuto aiškinimu, Ptolemėjas stavanus vadino Stabatii ir minėjo juos tvarka, leidžiančia atpažinti lietuvius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    270
-    Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-
-    batiix. Sis geografas mini juos toje vietoje ir tokia tvar­
-    ka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­
-    sius lietuvius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -219,23 +187,15 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pasvarsčius nepernelyg didelį Plinijaus geografinių
-    aprašymų tikslumą, šiuose trijuose pavadinimuose gali­
-    ma lengvai įžvelgti lyvių protėvius, priklausiusius keltų-
-    gerrnanų tautoms. Anot Maksimiliano Osolinskio7, ger­
-    manų giminėje jūros pakrančių gyventojai buvo vadina­
-    mi Ingemony. Tai maždaug turėtų reikšti pamarėnus;
-    Itewony buvo vadinami sausumos gilumoje esančių lygu­
-    mų gyventojai, be to, ir minėti pavadinimai, ir livonai pri­
-    klauso
-    germanų-keltų
-    giminėms.
-    Pasak
-    Malte-Bruno
-    išvados, senovės lyvių gyvenamosios vietos turėjusios
-    būti Mazovijoje, prie Livos upės; šiam teiginiui negalime
-    1 Estijos dalis, kur yra Dorpato miestas, pavadinta labai seno­
-    viniu Unguriįos, Iggaunu Seme, vardu.
+    Mes net nežinome, ar tai buvęs tik
+    vardas lėtų, arba veikiau lietuvių, genties, ar visai at­
+    skiros, seniai išnykusios genties pavadinimas. Senovėje
+    buvo žinomi panašūs pavadinimai: Ptolemėjas mini Ael-
+    vaconesz, kurie buvo lygų gentis; be to, tyrinėtojai tei­
+    gia, kad jie gyveno Silezijoje, nors galėjo būti ir arčiau
+    Vyslos arba prie jūros kairiojoje šios upės pakrantėje. Ta­
+    citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
+    tojai, gyvenę Pomeranijoje prie Helio5.
   citata_rodoma: "Mes net nežinome, ar tai buvęs tik\nvardas lėtų, arba veikiau lietuvių, genties, ar visai at­\nskiros, seniai išnykusios genties pavadinimas. Senovėje\nbuvo žinomi panašūs pavadinimai: Ptolemėjas mini Ael-\nvaconesz, kurie buvo lygų gentis; be to, tyrinėtojai tei­\ngia, kad jie gyveno Silezijoje, nors galėjo būti ir arčiau\nVyslos arba prie jūros kairiojoje šios upės pakrantėje. Ta­\ncitas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­\ntojai, gyvenę Pomeranijoje prie Helio5."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
@@ -301,14 +261,11 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sis geografas mini juos toje vietoje ir tokia tvar­
+    270
+    Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-
+    batiix. Sis geografas mini juos toje vietoje ir tokia tvar­
     ka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­
-    sius lietuvius. Tačiau vokiečių senovės tyrinėtojai prira­
-    šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
-    visiškai nereikšmingi. Naujausias yra Reinchardo teigi­
-    mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
-    į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
-    nes ten yra vietovardžių Stabinas, Staviškės.
+    sius lietuvius.
   citata_rodoma: "270\nLietuvos provincijos. Stavanus Ptolemėjas vadina Sta-\nbatiix. Sis geografas mini juos toje vietoje ir tokia tvar­\nka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­\nsius lietuvius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"

@@ -127,12 +127,10 @@ media_all_json: |-
 - susijęs iš Maskva: Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.).md#claim-t-185593|Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.)]]: Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas Lietuvai atviru karu.
 - susijęs iš Žemaitija: Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, kitaip grasindamas paskelbti karą Lietuvai.
-## Citatos
-
-- id: c-168692
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai
     žygūnai
@@ -149,6 +147,90 @@ media_all_json: |-
     viso ankstyvesnio gyvenimo: paprastai ant purpurinio
     apsiausto jis vilkėdavo juodą drapaną, kaip vienuolio
     įžadų ženklą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    imperatoriumi, ir pareikalavo priesaika patvirtinti kai
+    kuriuos naujos sutarties straipsnius. Į tai Vytautas
+    tarė: ,,Su dėkingumu priimu
+    V y ta u to a tsa k y m a s
+    savo didelio draugo dovaną,
+    rodančią valdovo palankumą,
+    nors pats manau, kad nereikia naujų draugystės įro­
+    dymų. Senosios draugystės pastovumui laiduoti visiškai
+    užtenka ankstesnio susitarimo, nepaisant to, kad jis
+    nepatvirtintas jokia priesaika.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sutelkę jėgas, visi kartu užpuolė
+    Brianską ir dėl rusų klastingos išdavystės be vargo
+    užėmė miestą, o netrukus prie išdavikų prisidėjo visa
+    Seversko žemė — Černigovas, Starodubas, Naugardas ir
+    Rylskas. Aleksandro pasiuntiniai Stanislovas Strumila
+    Petravičius, Smolensko vietininkas, ir Fiodoras Grigo-
+    rovičius, Lietuvos raštininkas, ryžtingai derėjosi su
+    Ivanu, reikalaudami atlyginti skriaudas. Šis, labiau
+    geisdamas plėsti savo valdas, nei paisyti duoto žodžio
+    bei giminystės, ryžosi galop viešai įpilti pasiuntiniams
+    taurę nuodų, kuriuos ligi šiol virino, puoselėdamas šir­
+    dyje slaptus kėslus. Be reikalo, tarė, minimos čia su­
+    tartys, kurios, tiek kartų Aleksandro sulaužytos, seniai
+    neturinčios jokios vertės. Juk jis įsakęs Vilniaus vys­
+    kupui Vaitiekui Taborui ir
+    P a sk elb ia
+    A le k sa n d -
+    Smolensko
+    Juozapui Solta-
+    rui karą
+    nui ne kartą raginti Eleną
+    pereiti į Romos tikėjimą; li­
+    gi šiol rūmuose nesanti pastatyta Elenos reikalams
+    koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo
+    ir todėl kai kurie, norėdami išvengti šitokios nuodė­
+    mės, ieškosi prieglobsčio Maskvoje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168692
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Taigi visuotiniame
+    susirinkime kunigaikščiu buvo išrinktas Vaišvilkas.
+    U  5
+
+    ## Puslapis 114
+
+    Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­
+    kui nuodugniai papasakoti apie diduomenės bei tau­
+    tos prielankumą ir pakviesti jį perimti tėvo paliktos
+    valdžios. Iš pradžių Vaišvil­
+    kas
+    nė
+    klausyti nenorėjo
+    apie tai, ko jį maldavo žy­
+    gūnai, nes šitai prieštaravo
+    jo pasirinktam gyvenimo bū­
+    dui.
   citata_rodoma: "Taigi visuotiniame\nsusirinkime kunigaikščiu buvo išrinktas Vaišvilkas.\nU  5\n\n## Puslapis 114\n\nIšleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­\nkui nuodugniai papasakoti apie diduomenės bei tau­\ntos prielankumą ir pakviesti jį perimti tėvo paliktos\nvaldžios. Iš pradžių Vaišvil­\nkas\nnė\nklausyti nenorėjo\napie tai, ko jį maldavo žy­\ngūnai, nes šitai prieštaravo\njo pasirinktam gyvenimo bū­\ndui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -192,16 +274,17 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    imperatoriumi, ir pareikalavo priesaika patvirtinti kai
-    kuriuos naujos sutarties straipsnius. Į tai Vytautas
-    tarė: ,,Su dėkingumu priimu
-    V y ta u to a tsa k y m a s
-    savo didelio draugo dovaną,
-    rodančią valdovo palankumą,
-    nors pats manau, kad nereikia naujų draugystės įro­
-    dymų. Senosios draugystės pastovumui laiduoti visiškai
-    užtenka ankstesnio susitarimo, nepaisant to, kad jis
-    nepatvirtintas jokia priesaika.
+    Tačiau ligai išgy­
+    dyti jau nebeužteko gydytojo, reikėjo veiksmingesnių
+    priemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­
+    tarė, jog reikia pastatyti ginkluotas saugas visuose ke­
+    liuose Lenkijos pasienyje ir
+    uoliai žiūrėti, kad ir impera­
+    toriaus, ir Vytauto žygūnai
+    negalėtų prasmukti nei į vie­
+    ną, nei į kitą pusę. Viskam
+    vadovauti paskyrė Joną Čar-
+    nkovskį.
   citata_rodoma: "Tačiau ligai išgy­\ndyti jau nebeužteko gydytojo, reikėjo veiksmingesnių\npriemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­\ntarė, jog reikia pastatyti ginkluotas saugas visuose ke­\nliuose Lenkijos pasienyje ir\nuoliai žiūrėti, kad ir impera­\ntoriaus, ir Vytauto žygūnai\nnegalėtų prasmukti nei į vie­\nną, nei į kitą pusę. Viskam\nvadovauti paskyrė Joną Čar-\nnkovskį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
@@ -216,32 +299,23 @@ media_all_json: |-
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Sutelkę jėgas, visi kartu užpuolė
-    Brianską ir dėl rusų klastingos išdavystės be vargo
-    užėmė miestą, o netrukus prie išdavikų prisidėjo visa
-    Seversko žemė — Černigovas, Starodubas, Naugardas ir
-    Rylskas. Aleksandro pasiuntiniai Stanislovas Strumila
-    Petravičius, Smolensko vietininkas, ir Fiodoras Grigo-
-    rovičius, Lietuvos raštininkas, ryžtingai derėjosi su
-    Ivanu, reikalaudami atlyginti skriaudas. Šis, labiau
-    geisdamas plėsti savo valdas, nei paisyti duoto žodžio
-    bei giminystės, ryžosi galop viešai įpilti pasiuntiniams
-    taurę nuodų, kuriuos ligi šiol virino, puoselėdamas šir­
-    dyje slaptus kėslus. Be reikalo, tarė, minimos čia su­
-    tartys, kurios, tiek kartų Aleksandro sulaužytos, seniai
-    neturinčios jokios vertės. Juk jis įsakęs Vilniaus vys­
-    kupui Vaitiekui Taborui ir
-    P a sk elb ia
-    A le k sa n d -
-    Smolensko
-    Juozapui Solta-
-    rui karą
-    nui ne kartą raginti Eleną
-    pereiti į Romos tikėjimą; li­
-    gi šiol rūmuose nesanti pastatyta Elenos reikalams
-    koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo
-    ir todėl kai kurie, norėdami išvengti šitokios nuodė­
-    mės, ieškosi prieglobsčio Maskvoje.
+    Iš tikrųjų
+    Ivanas troško išplėsti savo valdas, išdidžiai svajoda­
+    mas pastūmėti sienas ligi Berezinos ir paimti į savo ran­
+    kas visą Rusią. Aleksandras kol kas laikėsi nuomonės,
+    559
+
+    ## Puslapis 558
+
+    jog tirono įsiūtį galima numalšinti per pasiunti-l
+    nius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi
+    atsakyti Ivano žygūnui. Esą po Florencijoje sudarytos
+    Rytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar­
+    chai ir Bizantijos imperatorius pripažino Romos po­
+    piežių aukščiausiąja krikščioniškojo tikėjimo galva,
+    Aleksandras, remdamasis senaisiais Lietuvos įstatymais,
+    rūpinęsis, kad jo valdose gyvenantys rusai irgi prisi­
+    dėtų prie šios santarvės.
   citata_rodoma: "Iš tikrųjų\nIvanas troško išplėsti savo valdas, išdidžiai svajoda­\nmas pastūmėti sienas ligi Berezinos ir paimti į savo ran­\nkas visą Rusią. Aleksandras kol kas laikėsi nuomonės,\n559\n\n## Puslapis 558\n\njog tirono įsiūtį galima numalšinti per pasiunti-l\nnius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi\natsakyti Ivano žygūnui. Esą po Florencijoje sudarytos\nRytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar­\nchai ir Bizantijos imperatorius pripažino Romos po­\npiežių aukščiausiąja krikščioniškojo tikėjimo galva,\nAleksandras, remdamasis senaisiais Lietuvos įstatymais,\nrūpinęsis, kad jo valdose gyvenantys rusai irgi prisi­\ndėtų prie šios santarvės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"

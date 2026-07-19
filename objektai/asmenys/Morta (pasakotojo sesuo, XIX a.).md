@@ -55,15 +55,7 @@ Morta pasakojime pristatoma kaip penkiolikmetė pasakotojo sesuo, rugiapjūtėje
   puslapiai: "p. 36 (PDF 34)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 36 (PDF 34)."
   citata_originali: |
-    Šiandien sekmadienis, ateinantį sekmadienį bus Škaplierna — rugia-
-    piūtės metas.
-    Tėvas, parėjęs iš rugių lauko, sako šeimynai: „Jau ru­
-    gius galima piauti, rytą mėginsime“ .
-    Mūsų šeimynos sudėtis sekanti:
-    tėvas, motina, aš — dešimties metų vaikas,
-    sesuo Morta penkiolikos
-    metų ir dar du mažesni už mane;
-    tai tiek savųjų.
+    Mūsų šeimynos sudėtis sekanti: tėvas, motina, aš — dešimties metų vaikas, sesuo Morta penkiolikos metų.
   citata_rodoma: "Mūsų šeimynos sudėtis sekanti: tėvas, motina, aš — dešimties metų vaikas, sesuo Morta penkiolikos metų."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"

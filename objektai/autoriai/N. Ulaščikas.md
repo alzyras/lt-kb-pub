@@ -112,7 +112,7 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
     į dabartinę rusų kalbą ir išspausdinta TSRS Mokslų
     Akademijos Istorijos instituto serijoje „TSRS tautų is­
     toriniai paminklai" '°. Sis leidimas atgaivino susidomė­
-    jimą Bychovco kronika, stimuliuodamas naujus šio LDK
+    jimą Bychovco kronika, stimuliuodamas naujus šio LD K
     raštijos paminklo tyrinėjimus tiek TSRS, tiek už jos
     ribų.
     Prie Bychovco kronikos vertimo N. Ulaščikas pri­

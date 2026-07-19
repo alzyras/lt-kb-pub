@@ -83,28 +83,6 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   pagrindžia:
     - c-179397
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Karamzinas Jurjevą siejo su Rosės upe prie Belaja Cerkovės Kijevo gubernijoje ir Nestoro žodžius taikė dešiniajam Dnepro krantui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ne­
-    storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
-    vės, laikė ją apgulę visą vasarą, bet, negalėdami jos
-    įveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-
-    ku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
-    statytas XII amžiaus pradžioje po to, kai jį sunaikino
-    poloviečiai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-171985
@@ -139,23 +117,17 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tačiau jis prieštarauja sau ir savo tiksliai
-    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
-    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
-    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
-    riojoje Dnepro pakrantėje, į rytus nuo jo. Be to, tvirto­
-    vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
-    taiką; kartu ji nebuvo sunaikinta ir todėl netrukus turė­
-    jo* būti atstatyta. Tatiščevas**, gal geriau žinojęs šiuos
-    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
-    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
-    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
-    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
-    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
-    vės upę Ros. Topografiniuose prisiminimuose, apie ku­
-    riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
-    aprašome: nuo Oskolo miestelio, esančio prie to paties
-    1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida.
+    Ne­
+    storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
+    vės, laikė ją apgulę visą vasarą, bet, negalėdami jos
+    įveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-
+    ku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
+    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
+    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
+    toro žodžius priskiria poloviečių veiksmams dešiniojoje
+    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
+    statytas XII amžiaus pradžioje po to, kai jį sunaikino
+    poloviečiai.
   citata_rodoma: "Ne­\nstoras teigia, kad poloviečiai atėjo prie G i urge v o tvirto­\nvės, laikė ją apgulę visą vasarą, bet, negalėdami jos\nįveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-\nku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
