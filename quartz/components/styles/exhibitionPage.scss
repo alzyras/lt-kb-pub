@@ -680,11 +680,16 @@
       linear-gradient(0deg, rgba(5, 3, 2, 0.72), transparent 62%);
   }
   .exhibition-chapters {
-    display: flex;
-    overflow-x: auto;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    overflow: visible;
   }
   .exhibition-chapters a {
-    min-width: 12rem;
+    min-width: 0;
+    min-height: 3.5rem;
+    padding: 0.7rem 0.65rem;
+    border-bottom: 1px solid var(--lightgray);
+    font-size: 0.66rem;
   }
   .exhibition-item,
   .exhibitions-index > div > article {
